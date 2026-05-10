@@ -1,13 +1,11 @@
 name: Publicar Acervo
 
-# O gatilho: roda toda vez que você fizer um 'push' na branch principal
 on:
   push:
     branches:
       - main
       - master
 
-# Permissões necessárias de segurança para publicar no GitHub Pages
 permissions:
   contents: read
   pages: write
@@ -32,7 +30,6 @@ jobs:
 
       - name: Converter livros (De Markdown para PDF e ePub)
         run: |
-          # Procura qualquer arquivo .md dentro da pasta de livros e converte
           shopt -s nullglob
           for file in content/livros/*.md; do
             filename=$(basename "$file" .md)
@@ -41,8 +38,9 @@ jobs:
             # Gera o ePub
             pandoc "$file" -o "static/downloads/$filename.epub"
             
-            # Gera o PDF com qualidade de impressão
-            pandoc "$file" "metadados-pdf.yaml" -o "static/downloads/$filename.pdf" --pdf-engine=xelatex
+            # Gera o PDF com os seus metadados personalizados
+            pandoc "$file" --metadata-file="metadados-pdf.yaml" -o "static/downloads/$filename.pdf" --pdf-engine=xelatex
+          done
 
       - name: Instalar o Hugo (Gerador do Site)
         uses: peaceiris/actions-hugo@v3
