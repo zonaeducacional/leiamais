@@ -1,9 +1,11 @@
 backend:
-  name: git-gateway # Sim, manteremos git-gateway aqui
-  local_backend: true
+  name: git-gateway
+  repo: zonaeducacional/leiamais
+  branch: main
+  site_domain: literaplus.netlify.app
 
 display_url: https://zonaeducacional.github.io/leiamais
-local_backend: true # Isto permite-lhe testar no computador antes de subir
+local_backend: true
 
 media_folder: "static/images"
 public_folder: "/images"

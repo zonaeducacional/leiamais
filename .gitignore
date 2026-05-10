@@ -1,0 +1,13 @@
+# Hugo
+public/
+resources/
+_vendor/
+.hugo_build.lock
+
+# Downloads gerados localmente (serão gerados no Actions)
+static/downloads/*.pdf
+static/downloads/*.epub
+
+# OS
+.DS_Store
+Thumbs.db

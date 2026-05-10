@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - master
+  workflow_dispatch: # Permite rodar manualmente se precisar
 
 permissions:
   contents: read
@@ -26,7 +27,7 @@ jobs:
       - name: Instalar Pandoc e Motor Tipográfico
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-lang-portuguese
+          sudo apt-get install -y pandoc texlive-xetex texlive-lang-portuguese fonts-dejavu-core fonts-dejavu-extra
 
       - name: Converter livros (De Markdown para PDF e ePub)
         run: |
@@ -39,6 +40,7 @@ jobs:
             pandoc "$file" -o "static/downloads/$filename.epub"
             
             # Gera o PDF com os seus metadados personalizados
+            # Usando xelatex para suportar as fontes do sistema
             pandoc "$file" --metadata-file="metadados-pdf.yaml" -o "static/downloads/$filename.pdf" --pdf-engine=xelatex
           done
 
