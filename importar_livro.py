@@ -2,9 +2,14 @@ import requests
 import os
 import sys
 import re
+import unicodedata
+
+def slugify(text):
+    text = text.lower()
+    text = unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode('utf-8')
+    return re.sub(r'[^a-z0-9]+', '-', text).strip('-')
 
 def importar(book_id, titulo, autor, ano, categoria):
-    # URL do cache de texto puro do Project Gutenberg
     url = f"https://www.gutenberg.org/cache/epub/{book_id}/pg{book_id}.txt"
     print(f"--- Iniciando captura de: {titulo} ---")
     
@@ -18,20 +23,17 @@ def importar(book_id, titulo, autor, ano, categoria):
     texto = resposta.text
 
     # 1. TRATAMENTO DE CAPÍTULOS
-    # Procura por 'CAPÍTULO I', 'Capítulo 1', etc., e adiciona o '#' para quebra de página
-    # O regex abaixo identifica a palavra Capitulo seguida de números romanos ou cardinais
     padrao_capitulo = re.compile(r'^(CAP[ÍI]TULO\s+[0-9A-Z]+.*)$', re.IGNORECASE | re.MULTILINE)
     texto = padrao_capitulo.sub(r'# \1', texto)
 
-    # 2. LIMPEZA DE METADADOS DO GUTENBERG (Opcional, mas ajuda)
-    # Tenta cortar o texto de licença que vem antes e depois da obra
+    # 2. LIMPEZA DE METADADOS DO GUTENBERG
     inicio_real = re.search(r"\*\*\* START OF THE PROJECT GUTENBERG EBOOK .* \*\*\*", texto)
     fim_real = re.search(r"\*\*\* END OF THE PROJECT GUTENBERG EBOOK .* \*\*\*", texto)
     
     if inicio_real and fim_real:
         texto = texto[inicio_real.end():fim_real.start()]
 
-    # 3. MONTAGEM DO CABEÇALHO (FRONT MATTER) DO HUGO
+    # 3. MONTAGEM DO CABEÇALHO (FRONT MATTER)
     conteudo_final = f"""---
 title: "{titulo}"
 autor: "{autor}"
@@ -42,8 +44,8 @@ categoria: "{categoria}"
 {texto.strip()}
 """
 
-    # 4. SALVAMENTO DO ARQUIVO
-    nome_arquivo = titulo.lower().replace(" ", "-").replace("á", "a").replace("ó", "o").replace("ç", "c") + ".md"
+    # 4. SALVAMENTO DO ARQUIVO (Slugify garantido)
+    nome_arquivo = slugify(titulo) + ".md"
     pasta_destino = "content/livros"
     
     if not os.path.exists(pasta_destino):
@@ -56,14 +58,9 @@ categoria: "{categoria}"
     
     print(f"✅ Sucesso! O livro '{titulo}' agora tem centenas de páginas.")
     print(f"📍 Local: {caminho_completo}")
-    print(f"🚀 Próximo passo: git add {caminho_completo} && git commit -m 'Novo livro: {titulo}' && git push")
 
 if __name__ == "__main__":
-    # Verifica se o usuário passou os 5 argumentos necessários
     if len(sys.argv) == 6:
         importar(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5])
     else:
-        print("\nUso correto:")
-        print('python3 importar_livro.py [ID] "[Título]" "[Autor]" "[Ano]" "[Categoria]"')
-        print('\nExemplo:')
-        print('python3 importar_livro.py 22467 "O Cortico" "Aluisio Azevedo" "1890" "Naturalismo"')
+        print("\nUso correto: python3 importar_livro.py [ID] [Titulo] [Autor] [Ano] [Categoria]")
