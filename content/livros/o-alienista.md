@@ -5,4443 +5,6453 @@ ano: "1882"
 categoria: "Realismo"
 ---
 
-[Illustration: Mariner spacecraft]
-
-
-
-
-                                MARINER
-                           _MISSION TO VENUS_
-
-
-Prepared for the National Aeronautics and Space Administration BY THE
-STAFF, Jet Propulsion Laboratory, California Institute of Technology
-COMPILED BY HAROLD J. WHEELOCK    FOREWORD BY W. H. PICKERING, Director,
-Jet Propulsion Laboratory, California Institute of Technology
-
-                                          McGRAW-HILL BOOK COMPANY, INC.
-                                New York, San Francisco, Toronto, London
-
-
-MARINER MISSION TO VENUS
-
-Copyright © 1963 by the Jet Propulsion Laboratory, California Institute
-of Technology. All Rights Reserved. Printed in the United States of
-America.
-
-Library of Congress Catalog Card Number 63-17489.
-
-This book describes one phase of the U. S. civilian space program—the
-journey of the Mariner spacecraft to the vicinity of Venus and beyond.
-It reports upon the measurements taken during the “flyby” on December
-14, 1962, when Mariner reached a point 21,598 miles from the planet, and
-36,000,000 miles from Earth (communication with the spacecraft was
-continued up to a distance of approximately 54,000,000 miles from
-Earth). The Mariner mission was a project of the National Aeronautics
-and Space Administration, carried out under Contract No. NAS 7-100 by
-the Jet Propulsion Laboratory, California Institute of Technology.
-
-
-FOREWORD
-
-For many centuries scientific information about the planets and the vast
-void that separates them has been collected by astronomers observing
-from the surface of the Earth. Now, with the flight of Mariner II, we
-suddenly have in our hands some 90 million bits of experimental data
-measured in the region between Earth and the planet Venus. Thus, man for
-the first time has succeeded in sending his instruments far into the
-depths of space, and indeed, in placing them near another planet. A
-whole new area of experimental astronomy has been opened up.
-
-This book is a brief record of the Mariner Project to date and is
-designed to explain in general terms the preliminary conclusions.
-Actually, it will be months or years before all of the data from Mariner
-II have been completely analyzed. The most important data were the
-measurements made in the vicinity of the planet Venus, but it should
-also be noted that many weeks of interplanetary environmental
-measurements have given us new insight into some of the basic physical
-phenomena of the solar system. The trajectory data have provided new,
-more accurate measurements of the solar system. The engineering
-measurements of the performance of the spacecraft will be of inestimable
-value in the design of future spacecraft. Thus, the Mariner II
-spacecraft to Venus not only looks at Venus but gives space scientists
-and engineers information helpful in a wide variety of space ventures.
-
-A project such as Mariner II is first a vast engineering task. Many
-thousands of man-hours are required to design the complex automatic
-equipment which must operate perfectly in the harsh environment of
-space. Every detail of the system must be studied and analyzed. The
-operations required to carry out the mission must be understood and
-performed with precision. A successful mission requires every member of
-the entire project team to do his task perfectly. Whether it be the
-error of a designer, mechanic, mathematician, technician, operator, or
-test engineer—a single mistake, or a faulty piece of workmanship, may
-cause the failure of the mission. Space projects abound with examples of
-the old saying, “For want of a nail, the shoe was lost ...,” and so on,
-until the kingdom is lost. Only when every member of the project team is
-conscious of his responsibility will space projects consistently
-succeed.
-
-The Mariner II Project started with the Lunar and Planetary Projects
-Office of the Office of Space Sciences at NASA in Washington. Jet
-Propulsion Laboratory, California Institute of Technology, personnel
-provided the main body of the team effort. They were heavily supported
-by industrial contractors building many of the subassemblies of the
-spacecraft, by scientists planning and designing the scientific
-experiments, and by the Air Force which supplied the launching rockets.
-Several thousand men and women had some direct part in the Mariner
-Project. It would be impossible to list all of those who made some
-special contribution, but each and every member of the project performed
-his job accurately, on time, and to the highest standards.
-
-Mariner II is only a prelude to NASA’s program of unmanned missions to
-the planets. Missions to Mars as well as Venus will be carried out.
-Spacecraft will not only fly by the planets as did Mariner II, but
-capsules will be landed, and spacecraft will be put into orbit about the
-planets. The next mission in the Mariner series will be a flyby of the
-planet Mars in 1965.
-
-By the end of the decade, where will we be exploring, what will new
-Mariners have found? Will there be life on Mars, or on any other planet
-of the solar system? What causes the red spot on Jupiter? What is at the
-heart of a comet? These and many other questions await answers obtained
-by our future spacecraft. Mariner II is just a beginning.
+Produced by Laura Natal Rodrigues & Marc D'Hooghe at Free
+Literature (Images generously made available by the
+Bibliotheca Brasiliana Cuita e José Mindlin, Acervo Digital)
 
-  W. H. Pickering
-  _Director_
-  Jet Propulsion Laboratory_
-  California Institute of Technology_
-  April, 1963_
 
 
-CONTENTS
 
 
-  _FOREWORD_
-  _ACKNOWLEDGMENTS_
 
+MACHADO DE ASSIS
 
-                             CHAPTER 1 VENUS
-  _The Double Star of the Ancient World_
-  _The Consensus prior to Mariner II_
-  _The Cytherean Riddle: Living World or Incinerated Planet_
+PAPEIS AVULSOS
 
 
-                      CHAPTER 2 PREPARING FOR SPACE
-  _A Problem in Celestial Dynamics_
-  _The Organization_
-  _NASA: For Science_
-  _JPL: JATO to Mariner_
-  _General Dynamics: The Atlas_
-  _Lockheed: Agena B_
+O ALIENISTA--THEORIA DO MEDALHÃO
+A CHINELA TURCA
+NA ARCA--D. BENEDICTA--O SEGREDO DO BONZO
+O ANNEL DE POLYCRATES
+O EMPRESTIMO--A SERENISSA REPUBLICA
+O ESPELHO
+UMA VISITA DE ALCIBIADES--VERBA TESTAMENTARIA
 
+RIO DE JANEIRO
 
-                         CHAPTER 3 THE SPACECRAFT
-  _The Spaceframe_
-  _The Power System_
-  _CC&S: The Brain and the Stopwatch_
-  _Telecommunications: Relaying the Data_
-  _Attitude Control: Balancing in Space_
-  _Propulsion System_
-  _Temperature Control_
-  _The Scientific Instruments_
+Typographia e Lithographia a vapor, Encadernação e Livraria
 
+LOMBAERTS & C.
 
-                       CHAPTER 4 THE LAUNCH VEHICLE
-  _The Atlas Booster: Power of Six 707’s_
-  _The Agena B: Start and Restart_
+7--_Rua dos Ourives_--7
 
+1882
 
-                       CHAPTER 5 FLIGHT INTO SPACE
-  _Mariner I: An Abortive Launch_
-  _Mariner II: A Roll before Parking_
-  _The Parking Orbit_
-  _Orientation and Midcourse Maneuver_
-  _The Long Cruise_
-  _Encounter and Beyond_
-  _The Record of Mariner_
 
 
-                      CHAPTER 6 THE TRACKING NETWORK
-  _Deep Space Instrumentation Facility_
-  _The Goldstone Complex_
-  _The Woomera Station_
-  _The Johannesburg Station_
-  _Mobile Tracking Station_
+    OBRAS DO AUTOR
 
 
-                     CHAPTER 7 THIRTEEN MILLION WORDS
-  _Communication Control_
-  _The Operations Center_
-  _Central Computing Facility_
+    Memorias Posthumas de Braz Cubas
+    Papeis Avulsos
+    Helena
+    Yayá Garcia
+    Ressurreição
+    A mão e a luva
+    Historias da meia noite
+    Contos Fluminenses
+    Americanas
+    Phalenas
+    Chrysalidas
+    Tu só, tu, puro amor
 
 
-                   CHAPTER 8 THE SCIENTIFIC EXPERIMENTS
-  _Data Conditioning System_
-  _Cosmic Dust Detector_
-  _Solar Plasma Experiment_
-  _High-energy Radiation Experiment_
-  _The Magnetometer_
-  _Microwave Radiometer_
-  _Infrared Radiometer_
-  _Mariner’s Scientific Objectives_
 
 
-                     CHAPTER 9 THE LEGACY OF MARINER
-  _Space without Dust?_
-  _The Ubiquitous Solar Wind_
-  _High-energy Particles: Fatal Dosage?_
-  _A Magnetic Field?_
-  _The Surface: How Hot?_
-  _Cloud Temperatures: The Infrared Readings_
-  _The Radar Profile: Measurements from Earth_
+ADVERTENCIA
 
 
-                     CHAPTER 10 THE NEW LOOK OF VENUS
-  _APPENDIX_
-  _INDEX_
+Este titulo de _Papeis avulsos_ parece negar ao livro uma certa
+unidade; faz crer que o autor colligiu varios escriptos de ordem
+diversa para o fim de os não perder. A verdade é essa, sem ser bem
+essa. Avulsos são elles, mas não vieram para aqui como passageiros, que
+acertam de entrar na mesma hospedaria. São pessoas de uma só família,
+que a obrigação do pae fez sentar á mesma mesa.
 
+Quanto ao genero delles, não sei que diga que não seja inutil. O
+livro está nas mãos do leitor. Direi sómente, que se ha aqui paginas
+que parecem meros contos, e outras que o não são, defendo-me das
+segundas com dizer que os leitores das outros podem achar nellas
+algum interesse, e das primeiras defendo-me com S. João e Diderot. O
+evangelista, descrevendo a famosa besta apocalyptica, accrescentava
+(XVII, 9): "E aqui ha sentido, que tem sabedoria." Menos a sabedoria,
+cubro-me com aquella palavra. Quanto a Diderot, ninguem ignora que
+elle, não só escrevia contos, e alguns deliciosos, mas até aconselhava
+a um amigo que os escrevesse tambem. E eis a razão do encyclopedista: é
+que quando se faz um conto, o espirito fica alegre, o tempo escoa-se, e
+o conto da vida acaba sem a gente dar por isso.
 
-ACKNOWLEDGMENTS
+Deste modo, venha donde vier o reproche[1], espero que dahia mesmo virá
+a absolvição.
 
-Researching the material, gathering and comparing data, preparation of
-review drafts and attending to the hundreds of details required to
-produce a document on the results of such a program as the Mariner
-mission to Venus is a tremendous task. Special acknowledgment is made to
-Mr. Harold J. Wheelock who, on an extremely short time scale, carried
-the major portion of this work to completion.
+Machado de Assis
 
-Although the prime sources for the information were the Planetary
-Program office and the Technical Divisions of the Jet Propulsion
-Laboratory, other organizations were extremely helpful in providing
-necessary data, notably the George C. Marshall Space Flight Center, the
-Lockheed Missiles and Space Company, the Astronautics Division of the
-General Dynamics Corporation, and, of course, the many elements of the
-National Aeronautics and Space Administration.
-
-JPL technical information staff members who assisted Mr. Wheelock in
-production of the manuscript and its illustrations were Mr. James H.
-Wilson, Mr. Arthur D. Beeman and Mr. Albert E. Tyler. JPL is also
-grateful to Mr. Chester H. Johnson for his help and suggestions in
-preparing the final manuscript.
-
-
-
-
-                               CHAPTER 1
-                                 VENUS
-
-
-Halfway between Los Angeles and Las Vegas, the California country climbs
-southward out of the sunken basin of Death Valley onto the
-3500-foot-high floor of the Mojave desert.
-
-On this immense plateau in an area near Goldstone Dry Lake, about 45
-miles north of the town of Barstow, a group of 85-foot antennas forms
-the nucleus of the United States’ world-wide, deep-space tracking
-network.
-
-Here, on the morning of December 14, 1962, several men were gathered in
-the control building beneath one of the antennas, listening intently to
-the static coming from a loudspeaker. They were surrounded by the exotic
-equipment of the space age. Through the window loomed the gleaming metal
-framework of an antenna.
-
-Suddenly a voice boomed from the loudspeaker: “The numbers are changing.
-We’re getting data!”
-
-The men broke into a cheer, followed by an expectant silence.
-
-Again the voice came from the speaker: “The spacecraft’s crossing the
-terminator ... it’s still scanning.”
-
-At that moment, some 36 million miles from the Earth, the National
-Aeronautics and Space Administration’s Mariner[1] spacecraft was passing
-within 21,600 miles of the planet Venus and was radioing back
-information to the Goldstone Station—the first scientific data ever
-received by man from the near-vicinity of another planet.
-
-At the same time, in Washington, D.C., a press conference was in
-progress. Mr. James E. Webb, Administrator of the National Aeronautics
-and Space Administration, and Dr. William H. Pickering, Director of the
-Jet Propulsion Laboratory, stood before a bank of microphones. In a few
-moments, Dr. Pickering said, the audience would hear the sound of
-Mariner II as it transmitted its findings back to the Earth.
-
-Then, a musical warble, the voice of Mariner II, resounded in the hall
-and in millions of radios and television sets around the nation.
-Alluding to the Greek belief that harmonious sounds accompanied the
-movement of the planets, Dr. Pickering remarked that this, in truth, was
-the music of the spheres.
-
-Mariner II had been launched from Cape Canaveral, Florida, on August 27,
-1962. Its arrival at Venus was the culmination of a 109-day journey
-through the strange environment of interplanetary space. The project had
-gone from the drawing board to the launching pad in less than 11 months.
-Mariner had taxed the resources and the manpower of the Jet Propulsion
-Laboratory, California Institute of Technology; the Atlantic Missile
-Range centering at Cape Canaveral; theoretical and experimental
-laboratories at several universities and NASA centers; numerous elements
-of the aerospace industry; and, of course, NASA management itself.
-
-To the considerable body of engineers scattered around the world from
-Pasadena to Goldstone to South Africa to Australia, the warble of
-Mariner was something more than “the music of the spheres.” Intercept
-with Venus was the climax of 109 days of hope and anxiety.
-
-To the world at large, this warbling tone was a signal that the United
-States had moved ahead—reached out to the planets. Mariner was exploring
-the future, seeking answers to some of the unsolved questions about the
-solar system.
-
-
-THE DOUBLE STAR OF THE ANCIENT WORLD
-
-Venus, the glittering beacon of our solar system, has intrigued man for
-at least 4,000 years. The Babylonians first mentioned the brilliant
-planet on clay tablets as early as 2,000 years before Christ. The
-Egyptians, the Greeks, and the Chinese had thought of Venus as two stars
-because it was visible first in the morning and then in the evening sky.
-The Greeks had called the morning star Phosphorus and the evening star
-Hesperos. By 500 B.C. Pythagoras, the Greek philosopher, had realized
-that the two were identical.
-
-Galileo discovered the phases of Venus in 1610. Because of the planet’s
-high reflectivity, Copernicus falsely concluded that Venus was either
-self-luminous or else transparent to the rays of the Sun.
-
-Venus was tracked across the face of the Sun in 1761, from which event
-the presence of an atmosphere about the planet was deduced because of
-the fuzzy edges of the image visible in the telescope. Throughout the
-eighteenth and nineteenth centuries, Venus continued to excite growing
-scientific curiosity in Europe and America.
-
-    [Illustration: _Venus’ orbit is almost circular. At inferior
-    conjunction, the planet is between the Earth and the Sun,
-    approximately 26,000,000 miles away; at superior conjunction, Venus
-    is on the other side of the Sun. The elongations are the farthest
-    points to the east and the west of the Earth._]
-
-Even the development of giant telescopes and the refinement of
-spectroscopic and radar astronomy techniques in recent times had yielded
-few indisputable facts about Venus. Until radar studies, made from
-Goldstone, California, in 1962, neither the rate nor the angle of axial
-spin could be determined with any degree of accuracy. The ever-shifting
-atmosphere continued to shield the Venusian surface from visual
-observation on Earth, and the nature of its atmosphere became an
-especially controversial mystery.
-
-
-THE CONSENSUS PRIOR TO MARINER II
-
-Venus is a virtual twin of the Earth; it approaches our planet closer
-than any celestial body except the Moon, a few vagrant comets, and other
-such galactic wanderers. Long fabled in song and legend as the most
-beautiful object in the sky, Venus has an albedo, or reflectivity
-factor, of 59% (the Moon has one of 7%). In its brightest or crescent
-phase, Venus glows like a torch, even casting a distinct shadow—the only
-body other than the Sun and the Moon yielding such light.
-
-Venus’ diameter is approximately 7,700 miles, compared with Earth’s
-7,900. Also as compared with 1.0 for the Earth, Venus’ mean density is
-0.91, the mass 0.81, and the volume 0.92.
-
-The Cytherean orbit (the adjective comes from Cytherea, one of the
-ancient Greek names for Aphrodite—or in Roman times, Venus—the goddess
-of love) is almost a perfect circle, with an eccentricity (or
-out-of-roundness) of only 0.0068, lowest of all the planets. Venus rides
-this orbital path at a mean distance from the Sun of 67.2 million miles
-(Earth is 93 million miles), and at a mean orbital speed of 78,300 miles
-per hour, as compared with Earth’s 66,600 miles per hour.
-
-It also has a shorter sidereal period (revolution around the Sun or
-year): 224 Earth days, 16 hours, 48 minutes. Estimates of the Venus
-rotational period, or the length of the Venus day, have ranged from
-approximately 23 Earth hours to just over 224 Earth days. The latter
-rotation rate would be almost equivalent to the Venusian year and, in
-such case, the planet would always have the same face to the Sun.
-
-Venus approaches within 26 million miles of the Earth at inferior
-conjunction, and is as far away as 160 million miles at superior
-conjunction, when it is on the opposite side of the Sun.
-
-The escape velocity (that velocity required to free an object from the
-gravitational pull of a planet) on Venus is 6.3 miles per second,
-compared with Earth’s escape velocity of 7 miles per second. The gravity
-of the Earth is sufficient to trap an oxygen-bearing atmosphere near the
-terrestrial surface. Because the escape velocity of Venus is about the
-same as that of Earth, men have long believed (or hoped) that the
-Cytherean world might hold a similar atmosphere and thus be favorable to
-the existence of living organisms as we know them on the Earth. From
-this speculation, numerous theories have evolved.
-
-
-THE CYTHEREAN RIDDLE: LIVING WORLD OR INCINERATED PLANET
-
-Before Mariner II, Venus probably caused more controversy than any other
-planet in our solar system except Mars. Observers have visualized Venus
-as anything from a steaming abode of Mesozoic-like creatures such as
-were found on the Earth millions of years ago, to a dead, noxious, and
-sunless world constantly ravaged by winds of incredible force.
-
-Conjectures about the Venusian atmosphere have been inescapably tied to
-theories about the Venusian topography. Because the clouds forming the
-Venusian atmosphere, as viewed from the Earth through the strongest
-telescopes, are almost featureless, this relationship between atmosphere
-and topography has posed many problems.
-
-Impermanent light spots and certain dusky areas were believed by some
-observers to be associated with Venusian oceans. One scientist believed
-he identified a mountain peak which he calculated as rising more than 27
-miles above the general level of the planet.
-
-Another feature of the Venusian topography is the lack of (detectable)
-polar flattening. The Earth does have such a flattening at the poles and
-it was reasoned that, because Venus did not, its rate of rotation must
-be much slower than that of the Earth, perhaps as little as only once
-during a Venusian year, thus keeping one face perpetually toward the
-Sun.
-
-Another school of thought speculated that Venus was covered entirely by
-vast oceans; other observers concluded that these great bodies of water
-have long since evaporated and that the winds, through the Cytherean
-ages, have scooped up the remaining chloride salts and blasted them into
-the Venusian skies, thus forming the clouds.
-
-Related to the topographic speculations were equally tenuous theories
-about its atmosphere. It was reasoned that if the oceans of Venus still
-exist, then the Venusian clouds may be composed of water droplets; if
-Venus were covered by water, it was suggested that it might be inhabited
-by Venusian equivalents of Earth’s Cambrian period of 500 million years
-ago, and the same steamy atmosphere could be a possibility.
-
-Other theories respecting the nature of the Venusian atmosphere,
-depending on how their authors viewed the Venusian terrain, included
-clouds of hydrocarbons (perhaps droplets of oil), or vapors of
-formaldehyde and water. Finally, the seemingly high temperature of the
-planet’s surface, as measured by Earth-bound instruments, was credited
-by some to the false indications that could be given by a Cytherean
-ionosphere heavily charged with free electrons.
-
-    [Illustration: _As seen from Earth, Venus is brightest at its
-    crescent phases as shown in these six photographs made by the
-    100-inch telescope at Mt. Wilson, California._]
-
-However, the consensus of pre-Mariner scientific thinking seemed
-generally to indicate no detectable free oxygen in the atmosphere; this
-fact inveighed against the probability of surface vegetation, because
-Earth-bound vegetation, at least, uses carbon dioxide and gives off
-oxygen into the atmosphere. On the other hand, a preponderance of carbon
-dioxide in the Venusian atmosphere was measured which would create a
-greenhouse effect. The heat of the Sun would be trapped near the surface
-of the planet, raising the temperature to as high as 615 degrees F. If
-the topography were in truth relatively flat and the rate of rotation
-slow, the heating effect might produce winds of 400 miles per hour or
-more, and sand and dust storms beyond Earthly experience. And so the
-controversy continued.
-
-But at 1:53.13.9 a.m., EST, on August 27, 1962, the theories of the past
-few centuries were being challenged. At that moment, the night along the
-east Florida coast was shattered by the roar of rocket engines and the
-flash of incandescent exhaust streams. The United States was launching
-Mariner II, the first spacecraft that would successfully penetrate
-interplanetary space and probe some of the age-old mysteries of our
-neighbor planet.
-
-
-
-
-                               CHAPTER 2
-                          PREPARING FOR SPACE
-
-
-In the summer of 1961, the United States was pushing hard to strengthen
-its position in the exploration of space and the near planets. The
-National Aeronautics and Space Administration was planning two projects,
-both to be launched by an Atlas booster and a Centaur high-energy second
-stage capable of much better performance than that available from
-earlier vehicles.
-
-The Mariner program had two goals: Mariner A was ticketed for Venus and
-Mariner B was scheduled to go to Mars. Caltech’s Jet Propulsion
-Laboratory had management responsibility under NASA for both projects.
-These spacecraft were both to be in the 1,000- to 1,250-pound class.
-Launch opportunities for the two planets were to be best during the
-1962-1964 period and the new second-stage booster known as Centaur was
-expected to be ready for these operations.
-
-But trouble was developing for NASA’s planners. By August, 1961, it had
-become apparent that the Centaur would not be flying in time to take
-advantage of the 1962 third-quarter firing period, when Venus would
-approach inferior conjunction with the Earth. JPL studied the problem
-and advised NASA that a proposed lightweight, hybrid spacecraft
-combining certain design features of Ranger III (a lunar spacecraft) and
-Mariner A could be launched to Venus in 1962 aboard a lower-powered
-Atlas-Agena B launch vehicle.
-
-    [Illustration: _The Mariner II spacecraft was launched by an Atlas
-    first-stage booster vehicle and an Agena B second stage with restart
-    capability._]
-
-  ATLAS-AGENA ADAPTER
-  AGENA B
-  MARINER SPACECRAFT
-  SHROUD
-
-The proposed spacecraft would be called Mariner R and was to weigh about
-460 pounds and carry 25 pounds of scientific instruments (later
-increased to 40 pounds). The restart capability of Agena was to be used
-in a 98-statute-mile parking orbit. (The orbit was later raised to 115
-statute miles and the spacecraft weight was reduced to about 447
-pounds.)
-
-Two spacecraft would be launched one after the other from the same pad
-within a maximum launch period extending over 56 days from July to
-September, 1962. The minimum launch separation between the two
-spacecraft would be 21 days.
-
-As a result of the JPL recommendations, NASA cancelled Mariner A in
-September, 1961, and assigned JPL to manage a Mariner R Project to fly
-two spacecraft (Mariner I and II) to the vicinity of Venus in 1962.
-Scientific measurements were to be made in interplanetary space and in
-the immediate environs of the planet, which would also be surveyed in an
-attempt to determine the characteristics of its atmosphere and surface.
-Scientific and engineering data would also be transmitted from the
-spacecraft to the Earth while it was in transit and during the encounter
-with Venus.
-
-Scientists and engineers were now faced with an arduous task. Within an
-11-month period, on a schedule that could tolerate no delays, two
-spacecraft had to be designed, developed, assembled, tested, and
-launched. In order to meet the schedule, tested flight assemblies and
-instruments would have to be in the Pasadena assembly facility by
-mid-January, 1962, just four months after the start of the project.
-Probably no other major space project of similar scope had ever been
-planned on such a demanding schedule.
-
-    [Illustration: _Mariner II travelled across 180 million miles of
-    space within our solar system as it spanned the gap between Earth
-    and Venus (shown here as the third and second planets, respectively,
-    from the Sun)._]
-
-With the shipment of equipment to Atlantic Missile Range (AMR) scheduled
-for 9½ months after inception of the project, management and design
-teams went all-out on a true “crash” effort. Quick decisions had to be
-made, a workable design had to be agreed upon very early, and, once
-established, the major schedule objectives could not be changed. Certain
-design modifications and manufacturing changes in the Atlas-Agena launch
-vehicle were also necessary.
-
-Wherever possible, Ranger design technology had to be used in the new
-spacecraft and adapted to the requirements of a planetary probe. Other
-necessary tasks included trajectory calculation; arrangements for
-launch, space flight, and tracking operations; and coordination of AMR
-Range support.
-
-Following NASA’s September, 1961 decision to go ahead with the Mariner R
-Project, JPL’s Director, Dr. William H. Pickering, called on his
-seasoned team of scientists and engineers. Under Robert J. Parks,
-Planetary Program Director, Jack N. James was appointed as Project
-Manager for Mariner R, assisted by W. A. Collier. Dan Schneiderman was
-appointed Spacecraft System Manager, and Dr. Eberhardt Rechtin headed
-the space tracking program, with supervision of the Deep Space
-Instrumentation Facility (DSIF) operations under Dr. Nicholas Renzetti.
-The Mariner space flight operations were directed by Marshall S.
-Johnson.
-
-
-A PROBLEM IN CELESTIAL DYNAMICS
-
-In order to send Mariner close enough to Venus for its instruments to
-gather significant data, scientists had to solve aiming and guidance
-problems of unprecedented magnitude and complexity.
-
-The 447-pound spacecraft had to be catapulted from a launching platform
-moving around the Sun at 66,600 miles per hour, and aimed so precisely
-that it would intercept a planet moving 78,300 miles per hour (or 11,700
-miles per hour faster than the Earth) at a point in space and time some
-180.2 million miles away and 109 days later, with only one chance to
-correct the trajectory by a planned midcourse maneuver.
-
-And the interception had to be so accurate that the spacecraft would
-pass Venus within 8,000 to 40,000 miles. The chances of impacting the
-planet could not exceed 1 in 1,000 because Mariner was not sterilized
-and might contaminate Venus. Also, much more data could be gathered on a
-near-miss flight path than on impact. Furthermore, at encounter (in the
-target area) the spacecraft had to be so positioned that it could
-communicate with Earth, see the Sun with its solar panels, and scan
-Venus at the proper angles.
-
-Along the way, Mariner had to be able to orient itself so that its solar
-panels were facing or “locked onto” the Sun in order to generate its own
-power; acquire and maintain antenna orientation to the Earth; correct
-its attitude constantly to hold Earth and Sun lock; receive, store, and
-execute commands to alter its course for a closer approach to Venus; and
-communicate its findings to Earth with only 3 watts of radiated power
-and over distances never before spanned.
-
-    [Illustration: _Mariner II was launched in a direction opposite to
-    the orbital travel of the Earth. The Sun’s gravity then pulled it in
-    toward the planet Venus._]
-
-Early in the program it had been decided that two spacecraft would be
-launched toward Venus. Only 56 days were available for both launchings
-and the planet would not be close enough again for 19 months—the period
-between inferior conjunctions or the planet’s closest approach to the
-Earth. On any one of these days, a maximum of 2 hours could be used for
-getting the vehicles off the launch pad. In addition, the Mariners would
-have to leave the Earth in a direction opposite to that of the Earth’s
-direction of orbital revolution around the Sun. This flight path was
-necessary so the spacecraft could then fall in toward the Sun and
-intercept Venus, catching and passing the Earth along the way, about 65
-days and 11.5 million miles out.
-
-This feat of celestial navigation had to be performed while passing
-through the hostile environment of interplanetary space, where the probe
-might be subjected to solar winds (charged particles) travelling at
-velocities up to 500 miles per second; intense bombardment from cosmic
-radiation, charged protons, and alpha particles moving perhaps 1.5
-million miles per hour; radiated heat that might raise the spacecraft
-temperatures to unknown values; and the unknown dangers from cosmic
-dust, meteorites, and other miscellaneous space debris.
-
-In flight, each spacecraft would have to perform more than 90,000
-measurements per day, reporting back to the Earth on 52 engineering
-readings, the changes in interplanetary magnetic fields, the density and
-distribution of charged particles and cosmic dust, and the intensity and
-velocity of low-energy protons streaming out from the Sun.
-
-At its closest approach to Venus, the spacecraft instruments would be
-required to scan the planet during a brief 35-minute encounter, to
-gather data that would enable Earth scientists to determine the
-temperature and structure of the atmosphere and the surface, and to
-process and transmit that data back to the Earth.
-
-
-THE ORGANIZATION
-
-Flying Mariner to Venus was a team effort made possible through the
-combined resources of several United States governmental organizations
-and their contractors, science, and industry. The success of the Mariner
-Project resulted primarily from the over-all direction and management of
-the National Aeronautics and Space Administration and the Jet Propulsion
-Laboratory, and the production and launch capabilities of the vehicle
-builders and the Air Force. Several organizations bore the major
-responsibility: NASA Headquarters, JPL, NASA’s Marshall Space Flight
-Center and Launch Operations Center, Astronautics Division of General
-Dynamics, and Lockheed Missiles and Space Company.
-
-
-NASA: FOR SCIENCE
-
-The National Aeronautics and Space Administration was an outgrowth of
-the participation of the United States in the International Geophysical
-Year program and of the nation’s space effort, revitalized following
-Russia’s successful orbiting of Sputnik I in 1957.
-
-    [Illustration: _Final NACA meeting, August 21, 1958._]
-
-    [Illustration: _Model of X-1 research plane._]
-
-    [Illustration: _Headquarters of National Aeronautics and Space
-    Administration, Washington, D.C._]
-
-    [Illustration: _JPL developed first JATO units in 1941._]
-
-    [Illustration: _Other Laboratory Projects were the Corporal missile
-    (left) and Explorer I (right), the first U.S. satellite._]
-
-Under the terms of the law which created NASA, it is a Federal Agency
-dedicated to carrying out “activities in space ... devoted to peaceful
-purposes for the benefit of all mankind.” NASA is charged to preserve
-the role of our nation as a leader in the aeronautical and space
-sciences and technology and to utilize effectively the science and
-engineering resources of the United States in accomplishing these goals.
-Activities associated with military operations in space and the
-development of weapons systems are specifically assigned to the Defense
-Department.
-
-In November, 1957, before the creation of NASA, President Eisenhower had
-established a Scientific Advisory Committee to determine the national
-objectives and requirements in space and to establish the basic
-framework within which science, industry, and the academic community
-could best support these objectives.
-
-The Committee submitted a report to the President in March, 1958,
-recommending creation of a civilian agency to conduct the national space
-programs. The recommendation, endorsed by the President, was submitted
-to the Congress on April 2, 1958. The National Aeronautics and Space Act
-of 1958 was passed and became law in July, 1958.
-
-NASA was officially established on October 1, 1958, and Dr. T. Keith
-Glennan, President of Case Institute of Technology, was appointed as the
-first Administrator. The facilities and personnel of the National
-Advisory Committee for Aeronautics (NACA) were transferred to form the
-nucleus of the new NASA agency.
-
-NACA had performed important and significant research in aeronautics,
-wind tunnel technology, and aerodynamics since 1915, including a series
-of experimental rocket research aircraft that culminated in the X-15. It
-was natural that it be expanded to include space operations.
-
-Among the NACA Centers transferred to NASA were the Langley Research
-Center at Hampton, Virginia; Lewis Research Center, Cleveland, Ohio;
-Ames Research Center, Moffett Field, California; Flight Research Center,
-Edwards, California; and the rocket launch facility at Wallops Island,
-Virginia.
-
-Those personnel of the Naval Research Laboratory who had been working on
-Project Vanguard were also transferred to NASA, as was the project.
-These personnel are now part of the new Goddard Space Flight Center at
-Greenbelt, Maryland.
-
-The October, 1958, transfers also included a number of the space
-projects of the Advanced Research Projects Agency of the Defense
-Department. In a December, 1958, Executive Order, the President assigned
-the former Army facilities of the Jet Propulsion Laboratory at Pasadena,
-California, to NASA. At the same time, the group working under Dr.
-Wernher von Braun at the Army Ballistic Missile Agency (commanded by
-Major General John B. Medaris) was made responsive to NASA requirements.
-
-On July 1, 1960, the George C. Marshall Space Flight Center (MSFC) was
-organized at Huntsville under von Braun’s direction. The former
-Development Operations Division of ABMA formed the nucleus of the new
-Center. The MSFC mission was to procure and to supervise the adaptation
-of launch vehicles for NASA space missions, including Atlas, Thor, and
-Agena. Marshall is directly responsible for the design and development
-of advanced, high-thrust booster vehicles such as the Saturn C-1 and C-5
-and the Nova.
-
-An agency to conduct NASA affairs at Cape Canaveral was formed within
-MSFC on July 1, 1960. Known then as the Launch Operations Directorate
-(LOD), it was directed by Dr. Kurt H. Debus. LOD became independent of
-Marshall in March, 1962, when it was redesignated the Launch Operations
-Center (LOC), reporting directly to the Office of Manned Space Flight.
-This separation resulted largely because the activities at AMR were
-becoming more operational in character and less oriented toward research
-and development.
-
-LOC handles such functions for NASA as the scheduling of launch dates
-and liaison with the Atlantic Missile Range for support activities. The
-Center will have the responsibility in the field for assembly, checkout,
-and launch of the Saturn and Nova boosters.
-
-Following the election of President Kennedy in 1961, James E. Webb
-replaced Dr. Glennan as Administrator of NASA. Shortly after, a new
-national goal was announced—placing a man on the Moon and returning him
-safely to the Earth in this decade. Meanwhile, JPL had been assigned
-responsibility for unmanned exploration of the Moon, the planets, and
-interplanetary space, and thus was charged with supporting the NASA
-manned flight program through these activities.
-
-In less than five years, NASA grew to include eight flight and research
-centers and about 21,000 technical and management personnel. Within
-NASA, Dr. Abe Silverstein’s Office of Space Flight Programs was
-responsible for the Mariner R Project which was directly assigned to Ed
-Cortright, Director of Lunar & Planetary Programs, and Fred
-Kochendorfer, who is NASA’s Program Chief for Mariner. A subsequent
-reorganization placed responsibility under Dr. Homer Newell’s Office of
-Space Sciences, and Oran Nicks became Director of Lunar & Planetary
-Programs.
-
-
-JPL: JATO TO MARINER
-
-The Jet Propulsion Laboratory, staffed and operated for NASA by
-California Institute of Technology, had long been active in research and
-development in the fields of missiles, rockets, and the space-associated
-sciences. The first government-sponsored rocket research group in the
-United States, JPL had originated on the Caltech campus in 1939, an
-outgrowth of the Guggenheim Aeronautical Laboratories, then headed by
-celebrated aerodynamicist Dr. Theodore von Karman.
-
-Von Karman and his associates moved their operation to a remote spot at
-the foot of the San Gabriel mountains and, working from this base, in
-1941 the pioneering group developed the first successful jet-assisted
-aircraft takeoff (JATO) units for the Army Air Force. The Laboratory
-began a long association with the Army Ordnance Corps in 1944, when the
-Private A test rocket was developed. In retrospect, it is now recognized
-that the Private A was the first U. S. surface-to-surface,
-solid-propellant rocket. Its range was 10 miles!
-
-JPL’s WAC Corporal rocket set a U. S. high-altitude record of 43.5 miles
-in 1945. Mounted on a German V-2 as the Bumper-WAC, it achieved an
-altitude record of 250 miles in 1947. More important, this event was the
-first successful in-flight separation of a two-stage rocket—the
-feasibility of space exploration had been proved.
-
-After the end of World War II, JPL research set the stage for
-high-energy solid-propellant rockets. For the first time the solid
-propellants, which contained both fuel and oxidizers, were cast in
-thin-walled cases. Techniques were then developed for bonding the
-propellants to the case, and burning radially outward from the central
-axis was achieved. Attention was then turned to increasing the energy of
-the propellants.
-
-By 1947, the Corporal E, a new liquid-propellant research rocket, was
-being fired. JPL was asked to convert it into a tactical weapon in 1949.
-The Corporal E then became the first liquid-propellant
-surface-to-surface guided missile developed by the United States or the
-Western bloc of nations.
-
-Because of the need for higher mobility and increased firing rate, JPL
-later designed and developed the solid-propellant Sergeant—the nation’s
-first “second-generation” weapon system. This inertially guided missile
-was immune to electronic countermeasures by an enemy.
-
-Meanwhile, JPL scientists had pioneered in the development of electronic
-telemetering techniques, which permit an accurate monitoring of system
-performance while missiles are in flight. By 1944, Dr. William H.
-Pickering, a New Zealand born and Caltech-trained physicist who had
-worked with Dr. Robert Millikan in cosmic ray research, had been placed
-in charge of the telemetering effort at JPL. Pickering became Director
-of the Laboratory in 1954.
-
-Following the launching of Sputnik I, the Army-JPL team which had worked
-on the Jupiter C missile to test nose cones, was assigned the
-responsibility for putting the first United States satellite into orbit
-as soon as possible. In just 83 days, a modified Jupiter C launch
-vehicle was prepared, an instrumented payload was assembled, a network
-of space communications stations was established, and Explorer I was
-orbited on January 31, 1958. Explorer was an instrumented assembly
-developed by JPL and the State University of Iowa. It discovered the
-inner Van Allen radiation belt.
-
-Subsequently, JPL worked with the Army on other projects to explore
-space and to orbit satellites. Among these were Pioneer III, which
-located the outer Van Allen Belt, and Pioneer IV, the first U. S. space
-probe to reach Earth-escape velocity and to perform a lunar fly-by
-mission.
-
-
-GENERAL DYNAMICS: THE ATLAS
-
-The launch vehicle for Mariner was an Atlas D booster with an Agena B
-second stage. Historically, Atlas can be traced to October, 1954, when
-the former Convair Corporation (later acquired by General Dynamics) was
-invited to submit proposals for research and development of four missile
-systems, including a 5,000-mile intercontinental weapon.
-
-In January, 1946, Convair assigned K. J. Bossart to begin a study of two
-proposed types of 5,000-mile missiles: one jet powered at subsonic
-speeds, with wings for aerodynamic control; the other a supersonic,
-ballistic (wingless and bullet-like), rocket-powered missile capable of
-operating outside the Earth’s atmosphere.
-
-    [Illustration: _Photo courtesy of General Dynamics/Astro_
-    _Atlas missiles in assembly facility at General
-    Dynamics/Astronautics plant._]
-
-This was the beginning of Project MX-774, lineal ancestor of Atlas.
-After captive testing at San Diego in 1947, three of the experimental
-missiles were test-launched at White Sands Proving Ground in New Mexico.
-The first flight failed at 6,200 feet after a premature engine burnout.
-
-In 1947, the Air Force shelved the MX-774 project. However, this brief
-program had proved the feasibility of three concepts later used in
-Atlas: swiveling engines for directional control; lightweight,
-pressurized airframe structures; and separable nose cones.
-
-The Korean War stimulated the ICBM concept and, in 1951, a new MX-1593
-contract was awarded to Convair to study ballistic and glide rockets. By
-September, 1951, Convair was proposing a ballistic missile that would
-incorporate some of the features of the MX-774 design. A plan for an
-accelerated program was presented to the Air Force in 1953. After a year
-of study, a full go-ahead for the project, now called Atlas, was given
-in January, 1955.
-
-The unit handling the Atlas program was set up as Convair Astronautics,
-with J. R. Dempsey as president, on March 1, 1957.
-
-The first Atlas test flight, in June of 1957, ended in destruction of
-the missile when it went out of control. Following another abortive
-attempt, the first fully successful flight of an Atlas missile was made
-from Cape Canaveral on December 17, 1957.
-
-The Atlas program was in full swing by 1958, when 14 test missions were
-flown. The entire missile was orbited in December, 1958, as Project
-Score. It carried the voice of President Eisenhower as a Christmas
-message to the world. The Atlas missile system was accepted for field
-operations by the Air Force in 1958.
-
-Also in 1958, an Atlas achieved a new distance record, flying more than
-9,000 miles down the Atlantic Missile Range, where it landed in the
-Indian Ocean, off the South African coast.
-
-Atlas has been modified for use by NASA as a space vehicle booster.
-Known as the Atlas D, it has launched lunar probes, communications and
-scientific Earth satellites, and manned space vehicles.
-
-
-LOCKHEED: AGENA B
-
-The Lockheed Agena B second-stage vehicle was mounted on top of the
-Atlas booster in the launch of the Mariner spacecraft. The U. S. Air
-Force had first asked Lockheed Missiles and Space Division, headed by L.
-E. Root, to work on an advanced orbital vehicle for both military and
-scientific applications in 1956. On October 29 of that year, Lockheed
-was appointed prime weapon system contractor on the new Agena Project,
-under the Air Force Ballistic Missile Division. In order to speed the
-program, the Thor missile was used as the booster stage for the early
-Agena flights. The Atlas was also utilized in later operations.
-
-In August, 1957, the Air Force recommended that the program be
-accelerated as much as possible. After Russia orbited Sputnik I in
-October of 1957, a further speed-up was ordered.
-
-The first of the Agena-Discoverer series was launched into orbit on
-February 28, 1959, with the Thor missile as the booster. The first
-restart in orbit occurred on February 18, 1961, when the new Agena B
-configuration was used to put Discoverer XXI into orbit. All of the NASA
-missions using Agena, beginning with Ranger I in August, 1961, have been
-flown with the B model.
-
-Agena holds several orbiting records for U. S. vehicles. The first water
-recovery followed the 17 orbits of Discoverer XIII on August 11, 1960.
-The first air recovery of a capsule from orbit occurred with Discoverer
-XIV on August 18, 1960. In all, a total of 11 capsules were recovered
-from orbit, 7 in the air, 4 from the sea.
-
-
-
-
-                               CHAPTER 3
-                             THE SPACECRAFT
-
-
-In the 11 brief months which JPL had to produce the Mariner spacecraft
-system, there was no possibility of designing an entirely new
-spacecraft. JPL’s solution to the problem was derived largely from the
-Laboratory’s earlier space exploration vehicles, such as the Vega, the
-Ranger lunar series, and the cancelled Mariner A.
-
-Wherever possible, components and subsystems designed for these projects
-were either utilized or redesigned. Where equipment was purchased from
-industrial contractors, existing hardware was adapted, if practicable.
-Only a minimum of testing could be performed on newly designed equipment
-and lengthy evaluation of “breadboard” mock-ups was out of the question.
-
-Ready for launch, the spacecraft measured 5 feet in diameter and 9 feet
-11 inches in height. With the solar panels and the directional antenna
-unfolded in the cruise position, Mariner was 16 feet 6 inches wide and
-11 feet 11 inches high.
-
-
-THE SPACEFRAME
-
-The design engineers were forced to work within the framework of the
-earlier spacecraft technology because of the time restrictions, but
-Mariner I and II could weigh only about half as much as the Ranger
-spacecraft and just over one-third as much as the planned Mariner A.
-
-    [Illustration: _Mariner spacecraft with solar panels, microwave
-    radiometer, and directional antenna extended in flight position.
-    Principal components are shown._]
-
-  ROLL AXIS
-  OMNIANTENNA
-  MAGNETOMETER SENSOR
-  PARTICLE FLUX DETECTORS (GEIGER TUBES)
-  RADIOMETER REFERENCE HORNS
-  MICROWAVE RADIOMETER
-  INFRARED RADIOMETER
-  ION-CHAMBER
-  COSMIC DUST DETECTOR
-  EARTH SENSOR
-  SOLAR PANEL
-  COMMAND ANTENNA
-  SOLAR SAIL
-  ATTITUDE CONTROL GAS BOTTLES
-  SOLAR PLASMA DETECTOR
-  DIRECTIONAL ANTENNA
-
-The basic structural unit of Mariner was a hexagonal frame made of
-magnesium and aluminum, to which was attached an aluminum
-superstructure, a liquid-propelled rocket engine for midcourse
-trajectory correction, six rectangular chassis mounted one on each face
-of the hexagonal structure, a high-gain directional antenna, the Sun
-sensors, and gas jets for control of the spacecraft’s attitude.
-
-The tubular, truss-type superstructure extended upward from the base
-hexagon. It provided support for the solar panels while latched under
-the shroud during the launch phase, and for the radiometers, the
-magnetometer, and the nondirectional antenna, which was mounted at the
-top of the structure. The superstructure was designed to be as light as
-possible, yet be capable of withstanding the predicted load stresses.
-
-The six magnesium chassis mounted to the base hexagon housed the
-following equipment: the electronics circuits for the six scientific
-experiments, the communications system electronics; the data encoder
-(for processing data before telemetering it to the Earth) and the
-command electronics; the attitude control, digital computer, and timing
-sequencer circuits; a power control and battery charger assembly; and
-the battery assembly.
-
-The allotment of weights for Mariner II forced rigid limitation in the
-structural design of the spacecraft. As launched, the weights of the
-major spacecraft subsystems were as follows:
-
-          Structure                             77 pounds
-          Solar panels                          48 pounds
-          Electronics                          146 pounds
-          Propulsion                            32 pounds
-          Battery                               33 pounds
-          Scientific experiments                41 pounds
-          Miscellaneous equipment               70 pounds
-          Gross weight                         447 pounds
-
-
-THE POWER SYSTEM
-
-Mariner II was self-sufficient in power. It converted energy from
-sunlight into electrical current through the use of solar panels
-composed of photoelectric cells which charged a battery installed in one
-of the six chassis on the hexagonal base. The control, switching, and
-regulating circuits were housed in another of the chassis cases.
-
-    [Illustration: _This hexagonal frame, constructed of magnesium and
-    aluminum, is the basic supporting structure around which the Mariner
-    spacecraft is assembled._]
-
-    [Illustration: _Plan view from top showing six magnesium chassis
-    hinged in open position._]
-
-  VIEW LOOKING AFT ASSEMBLIES HINGED IN OPEN POSITION
-    SCIENTIFIC EQUIPMENT ASSEMBLY I
-    COMMUNICATIONS ASSEMBLY II
-    DATA ENCODER AND COMMAND ASSEMBLY III
-    ATTITUDE CONTROL AND CC AND S ASSEMBLY IV
-    POWER ASSEMBLY V
-    BATTERY ASSEMBLY VI
-
-The battery operated the spacecraft systems during the period from
-launch until the solar panels were faced onto the Sun. In addition, the
-battery supplied power during trajectory maneuvers when the panels were
-temporarily out of sight of the Sun. It shared the demand for power when
-the panels were overloaded. The battery furnished power directly for
-switching various equipment in flight and for certain other heavy loads
-of brief duration, such as the detonation of explosive devices for
-releasing the solar panels.
-
-    [Illustration: _Mariner spacecraft with solar panels in open
-    position. Note extension to left panel to balance solar pressures in
-    flight._]
-
-The Mariner battery used sealed silver-zinc cells and had a capacity of
-1000 watt-hours. It weighed 33 pounds and was recharged in flight by the
-solar panels.
-
-The solar panels, as originally designed, were 60 inches long by 30
-inches wide and contained approximately 9800 solar cells in a total area
-of 27 square feet. Each solar cell produced only about 230
-one-thousandths of a volt. The entire array was designed to convert the
-Sun’s energy to electrical power in the range between 148 and 222 watts.
-When a later design change required the extension of one panel in order
-to add more solar cells, it was necessary to add a blank extension to
-the other panel in order to balance the solar pressure on the
-spacecraft.
-
-In order to protect the solar cells from the infrared and ultraviolet
-radiation of the Sun, which would produce heat but no electrical energy,
-each cell was shielded from these rays by a glass filter which was
-nevertheless transparent to the light which the cells converted into
-power.
-
-The power subsystem electronics circuits were housed in another of the
-hexagon chassis cases. This equipment was designed to receive and switch
-power either from the solar panels, the battery, or a combination of the
-two, to a booster-regulator.
-
-
-CC&S: THE BRAIN AND THE STOPWATCH
-
-Once the Atlas booster lifted Mariner off the launch pad, the digital
-Central Computer and Sequencer (CC&S) performed certain computations and
-provided the basic timing control for those spacecraft subsystems which
-required a sequenced programming control.
-
-The CC&S was designed to initiate the operations of the spacecraft in
-three distinct sequences or “modes”: (1) the launch mode, from launch
-through the cruise configuration; (2) the midcourse propulsion mode,
-when Mariner readjusted its sights on Venus; and (3) the encounter mode,
-involving commands for data collection in the immediate vicinity of the
-planet.
-
-The CC&S timed Mariner’s actions as it travelled more than 180 million
-miles in pursuit of Venus. A highly accurate electronic clock
-(crystal-controlled oscillator) scheduled the operations of the
-spacecraft subsystems. The oscillator frequency of 307.2 kilocycles was
-reduced to the 2,400- and 400-cycle-per-second output required for the
-power subsystem.
-
-The control oscillator also timed the issuance of commands by the CC&S
-in each of the three operating modes of the spacecraft.
-
-A 1-pulse-per-minute signal was provided for such launch sequence events
-as the extension of the solar panels 44 minutes after launch, turning on
-power for the attitude control subsystem one hour after launch, and for
-certain velocity correction commands during the midcourse maneuver.
-
-    [Illustration: _The spacecraft used two antennas for communication.
-    The omni-antenna (top) was utilized when the directional antenna
-    (bottom) could not be pointed at the Earth._]
-
-    [Illustration: _This command antenna (on solar panel) was used to
-    receive maneuver commands._]
-
-A 1-pulse-per-second signal was generated as a reference during the roll
-and pitch maneuvers in the midcourse trajectory correction phase. One
-pulse was generated every 3.3 hours in order to initiate the command to
-orient the directional antenna on the Earth at 167 hours after launch.
-
-Finally, one pulse every 16.7 hours was used to readjust the
-Earth-oriented direction of the antenna throughout the flight.
-
-
-TELECOMMUNICATIONS: RELAYING THE DATA
-
-The telecommunications subsystem enabled Mariner to receive and to
-decode commands from the Earth, to encode and to transmit information
-concerning space and Mariner’s own functioning, and to provide a means
-for precise measurement of the spacecraft’s velocity and position
-relative to the Earth. The spacecraft accomplished all these functions
-using only 3 watts of transmitted power up to a maximum range of 53.9
-million miles.
-
-A data encoder unit, with CC&S sequencing, timed the three phases of
-Mariner’s journey: (1) In the launch mode, only engineering data on
-spacecraft performance were transmitted; (2) during the cruise mode,
-information concerning space and Mariner’s own functioning was
-transmitted; and (3) while the spacecraft was in the vicinity of Venus,
-only scientific information concerning the planet was to be transmitted.
-(The CC&S failed to start the third mode automatically and it was
-initiated by radio command from the Earth.) After the encounter with
-Venus, Mariner was programmed to switch back to the cruise mode for
-handling both engineering and science data (this sequence was also
-commanded by Earth radio).
-
-Mariner II used a technique for modulating (superimposing intelligent
-information) its radio carrier with telemetry data known as phase-shift
-keying. In this system, the coded signals from the telemetry
-measurements displace another signal of the same frequency but of a
-different phase. These displacements in phase are received on the Earth
-and then translated back into the codes which indicate the voltage,
-temperature, intensity, or other values measured by the spacecraft
-telemetry sensors or scientific instruments.
-
-A continually repeating code, almost noise-like both in sound and
-appearance on an oscilloscope, was used for synchronizing the ground
-receiver decoder with the spacecraft. This decoder then deciphered the
-data carried on the information channel.
-
-This technique was called a two-channel, binary-coded, pseudo-noise
-communication system and it was used to modulate a radio signal for
-transmission, just as in any other radio system.
-
-Radio command signals transmitted to Mariner were decoded in a command
-subassembly, processed, and routed to the proper using devices. A
-transponder was used to receive the commands, send back confirmation of
-receipt to the Earth, and distribute them to the spacecraft subsystems.
-
-Mariner II used four antennas in its communication system. A cone-like
-nondirectional (omni) antenna was mounted at the top of the spacecraft
-superstructure, and was used from injection into the Venus flight
-trajectory through the midcourse maneuver (the directional antenna could
-not be used until it had been oriented on the Earth).
-
-A dish-type, high-gain, directional antenna was used at Earth
-orientation and after the trajectory correction maneuver was completed.
-It could receive radio signals at greater distances than the
-nondirectional antenna. The directional antenna was nested beneath the
-hexagonal frame of the spacecraft while it was in the nose-cone shroud.
-Following the unfolding of the solar panels, it was swung into operating
-position, although it was not used until after the spacecraft locked
-onto the Sun.
-
-The directional antenna was equipped with flexible coaxial cables and a
-rotary joint. It could move in two directions; one motion was supplied
-by rolling the spacecraft around its long axis.
-
-In addition, two command antennas, one on either side of one of the
-solar panels, received radio commands from the Earth for the midcourse
-maneuver and other functions.
-
-
-ATTITUDE CONTROL: BALANCING IN SPACE
-
-Mariner II had to maintain a delicate balance in its flight position
-during the trip to Venus (like a tight-wire walker balancing with a
-pole) in order to keep its solar panels locked onto the Sun and the
-directional antenna pointed at the Earth. Otherwise, both power and
-communications would have been lost.
-
-A system of gas jets and valves was used periodically to adjust the
-attitude or position of the spacecraft. Expulsion of nitrogen gas
-supplied the force for these adjustments during the cruise mode. While
-the spacecraft was subjected to the heavier disturbances caused by the
-rocket engine during the midcourse maneuver, the gas jets could not
-provide enough power to control the attitude of the spacecraft and it
-was necessary to use deflecting vanes as rudders in the rocket engine
-exhaust stream for stabilizing purposes.
-
-The attitude control system was activated by CC&S command 60 minutes
-after launching. It operated first to align the long axis of the
-spacecraft with the Sun; thus its solar panels would face the Sun.
-Either the Sun sensors or the three gyroscopes mounted in the pitch
-(rocking back and forth), yaw (side to side), and roll axes, could
-activate the gas jet valves during the maneuver, which normally required
-about 30 minutes to complete.
-
-The spacecraft was allowed a pointing error of 1 degree in order to
-conserve gas. The system kept the spacecraft swinging through this 1
-degree of arc approximately once each 60 minutes. As it neared the limit
-on either side, the jets fired for approximately ¹/₅₀ of a second to
-start the swing slowly in the other direction. Thus, Mariner rocked
-leisurely back and forth throughout its 4-month trip.
-
-Sensitive photomultiplier tubes or electric eyes in the Earth sensor,
-mounted on the directional antenna, activated the gas jets to roll the
-spacecraft about the already fixed long axis in order to face the
-antenna toward the Earth. When the Earth was “acquired,” the antenna
-would then necessarily be oriented in the proper direction. If telemetry
-revealed that Mariner had accidentally fixed on the Moon, over-ride
-radio commands from the Earth could restart the orientation sequence.
-
-
-PROPULSION SYSTEM
-
-The Mariner propulsion system for midcourse trajectory correction
-employed a rocket engine that weighed 37 pounds with fuel and a nitrogen
-pressure system, and developed 50 pounds of thrust for a maximum of 57
-seconds. The system was suspended within the central portion of the
-basic hexagonal structure of the spacecraft.
-
-This retro-rocket engine used a type of liquid propellant known as
-anhydrous hydrazine and it was so delicately controlled that it could
-burn for as little as ²/₁₀ of a second and increase the velocity of the
-spacecraft from as little as ⁷/₁₀ of a foot per second to as much as 200
-feet per second.
-
-The hydrazine fuel was stored in a rubber bladder inside a
-doorknob-shaped container. At the ignition command, nitrogen gas under
-3,000-pound-per-square-inch pressure was forced into the propellant tank
-through explosively activated valves. The nitrogen then squeezed the
-rubber bladder, forcing the hydrazine into the combustion chamber.
-
-    [Illustration: _The midcourse propulsion system provides trajectory
-    correction for close approach to Venus._]
-
-  FUEL TANK
-  NITROGEN TANK
-  JET VANE ACTUATOR (ONE OF FOUR)
-  THRUST CHAMBER
-
-Hydrazine, a monopropellant, requires a starting ignition for proper
-combustion. In the Mariner system, nitrogen tetroxide starting or
-“kindling” fluid was injected into the propellant tank by a pressurized
-cartridge. Aluminum oxide pellets in the tank acted as catalysts to
-control the speed of combustion of the hydrazine. The burning of the
-hydrazine was stopped when the flow of nitrogen gas was halted, also by
-explosively activated valves.
-
-
-TEMPERATURE CONTROL
-
-Mariner’s 129 days in space presented some unique problems in
-temperature control. Engineers were faced with the necessity of
-achieving some form of thermal balance so that Mariner would become
-neither too hot nor too cold in the hostile environment of space.
-
-The spacecraft’s temperature control system was made as thermally
-self-sufficient as possible. Paint patterns, aluminum sheet, thin gold
-plating, and polished aluminum surfaces reflected and absorbed the
-proper amount of heat necessary to keep the spacecraft and its
-subsystems at the proper operating temperatures.
-
-Thermal shields were used to protect the basic hexagon components. The
-upper shield, constructed of aluminized plastic on a fiberglass panel,
-protected the top of the basic structure and was designed for maximum
-immunity to ultraviolet radiation. The lower shield was installed below
-the hexagon; it was made of aluminum plastic faced with aluminum foil
-where it was exposed to the blast of the midcourse rocket engine
-exhaust.
-
-    [Illustration: _Methods used to control the temperature of the
-    Mariner spacecraft in flight._]
-
-  CHROMATE CONVERSION COATING
-  UPPER THERMAL SHIELD
-  POLISHED ALUMINUM
-  LOUVERS
-  GOLD PLATE
-  BLACK PAINT
-  LOWER THERMAL SHIELD
-  WHITE PAINT
-
-The six electronics cases on the hexagon structure were variously
-treated, depending upon the power of the components contained in each.
-Those of high power were coated with a good radiating surface of white
-paint; assemblies of low power were provided with polished aluminum
-shields to minimize the heat loss.
-
-The case housing the attitude control and CC&S electronics circuits was
-particularly sensitive because the critical units might fail above 130
-degrees F. A special assembly was mounted on the face of this case; it
-consisted of eight movable, polished aluminum louvers, each actuated by
-a coiled, temperature-sensitive, bimetallic element. When the
-temperature rose, the elements acted as springs and opened the louvers.
-A drop in temperature would close them.
-
-Structures and bracket assemblies external to the basic hexagon were
-gold plated if made of magnesium, or polished if aluminum. Thus
-protected, these items became poor thermal radiators as well as poor
-solar absorbers, making them relatively immune to solar radiation.
-External cabling was wrapped in aluminized plastic to produce a similar
-effect.
-
-The solar panels were painted on the shaded side for maximum radiation
-control properties. Other items were designed so that the internal
-surfaces were as efficient radiators as possible, thus conserving the
-spacecraft’s heat balance.
-
-
-THE SCIENTIFIC INSTRUMENTS
-
-Four instruments were operated throughout the cruise and encounter modes
-of Mariner: a magnetometer, a solar plasma detector, a cosmic dust
-detector, and a combined charged-particle detector and radiation
-counter. Two radiometers were used only in the immediate vicinity of
-Venus.
-
-These instruments are described in detail in Chapter 8.
-
-
-
-
-                               CHAPTER 4
-                           THE LAUNCH VEHICLE
-
-
-The motive power of Mariner itself was limited to a trajectory
-correction rocket engine and an ability, by means of gas jets, to keep
-its two critical faces pointing at the Sun and the Earth. Therefore, the
-spacecraft had to be boosted out of the Earth’s gravitational field and
-injected into a flight path accurate enough to allow the trajectory
-correction system to alter the course to deliver the spacecraft close
-enough to Venus to be within operating range of the scientific
-instruments.
-
-The combined Atlas-Agena B booster system which was selected to do the
-job had a total thrust of about 376,000 pounds. With this power,
-Atlas-Agena could put 5,000 pounds of payload into a 345-mile orbit,
-propel 750 pounds on a lunar trajectory, or launch approximately 400
-pounds on a planetary mission. This last capability would be taxed to
-the limit by the 447 pounds of the Mariner spacecraft.
-
-
-THE ATLAS BOOSTER: POWER OF SIX 707’S
-
-The 360,000 pounds of thrust developed by the Atlas D missile is
-equivalent to the thrust generated by the engines of six Boeing 707 jet
-airplanes. All of this awesome power requires a gargantuan amount of
-fuel: in less than 20 seconds, Atlas consumes more than a
-propeller-driven, four-engine airplane burns in flying coast-to-coast
-nonstop.
-
-    [Illustration: _Photo courtesy of General Dynamics/Astronautics_
-    _This military version of the Atlas missile is modified for NASA
-    space flights._]
-
-The Atlas missile, as developed by Convair for the Air Force, has a
-range of 6,300 miles and reaches a top speed of 16,000 miles per hour.
-The missile has been somewhat modified for use by NASA as a space
-booster vehicle. Its mission was to lift the second-stage Agena B and
-the Mariner spacecraft into the proper position and altitude at the
-right speed so that the Agena could go into Earth orbit, preliminary to
-the takeoff for interplanetary space.
-
-The Atlas D has two main sections: a body or sustainer section, and a
-jettisonable aft, or booster engine section. The vehicle measures about
-100 feet in length (with military nose cone) and has a diameter of 10
-feet at the base. The weight is approximately 275,000 pounds.
-
-No aerodynamic control surfaces such as fins or rudders are used. The
-Atlas is stabilized and controlled by “gimbaling” or swiveling the
-engine thrust chambers by means of a hydraulic system. The direction of
-thrust can thus be altered to control the movements of the missile.
-
-The aft section mounts two 154,500-pound-thrust booster engines and the
-entire section is jettisoned or separated from the sustainer section
-after the booster engines burn out. The 60,000-pound-thrust sustainer
-engine is attached at the center line of the sustainer section. Two
-1,000-pound-thrust vernier (fine steering) engines are installed on
-opposite sides of the tank section in the yaw or side-turn plane.
-
-All three groups of engines operate during the booster phase. Only the
-sustainer and the vernier engines burn after staging (when the booster
-engine section is separated from the sustainer section of the missile).
-
-All of the engines use liquid oxygen and a liquid hydrocarbon fuel
-(RP-1) which is much like kerosene. Dual turbopumps and valves control
-the flow of these propellants. The booster engine propellants are
-delivered under pressure to the propellant or combustion chamber, where
-they are ignited by electroexplosive devices. Each booster thrust
-chamber can be swiveled a maximum of 5 degrees in pitch (up and down)
-and yaw (from side to side) about the missile centerline.
-
-The sustainer engine is deflected 3 degrees in pitch and yaw. The
-outboard vernier engines gimbal to permit pitch and roll movement
-through 140 degrees of arc, and yaw movement through 20 degrees toward
-the missile body and 30 degrees outward.
-
-All three groups of engines are started and develop their full rated
-thrust while the missile is held on the launch pad. After takeoff, the
-booster engines burn out and are jettisoned. The sustainer engine
-continues to burn until its thrust is terminated. The swiveled vernier
-engines provide the final correction in velocity and missile attitude
-before they are also shut down.
-
-The propellant tank is the basic structure of the forward or sustainer
-section of the Atlas. It is made of thin stainless steel and is
-approximately 50 feet long. Internal pressure of helium gas is used to
-support the tank structure, thus eliminating the need for internal
-bracing structures, saving considerable weight, and increasing over-all
-performance of the missile. The helium gas used for this purpose is
-expanded to the proper pressure by heat from the engines.
-
-Equipment pods on the outside of the sustainer section house the
-electrical and electronic units and other components of the missile
-systems.
-
-The Atlas uses a flight programmer, an autopilot, and the gimbaled
-engine thrust chamber actuators for flight control. The attitude of the
-vehicle is controlled by the autopilot, which is set for this automatic
-function before the flight. Guidance commands are furnished by a ground
-radio guidance system and computer.
-
-The airborne radio inertial guidance system employs two radio beacons
-which respond to the ground radar. A decoder on board the missile
-processes the guidance commands.
-
-
-THE AGENA B: START AND RESTART
-
-Launching Mariner to Venus required a second-stage vehicle capable of
-driving the spacecraft out of Earth orbit and into a proper flight path
-to the planet.
-
-    [Illustration: _Photo courtesy of Lockheed Missiles and Space
-    Company_
-    _The Agena B second stage is hoisted to the top of the gantry at
-    AMR._]
-
-The Agena B used for this purpose weighs 1,700 pounds, is 60 inches in
-diameter, and has an over-all length of 25 feet, varying somewhat with
-the payload. The Agena B fuel tanks are made of 0.080-inch aluminum
-alloy.
-
-The liquid-burning engine develops more than 16,000 pounds of thrust.
-The propellants are a form of hydrazine and red fuming nitric acid.
-
-The Agena can be steered to a desired trajectory by swiveling the
-gimbal-mounted engine on command of the guidance system. The attitude of
-the vehicle is controlled either by gimbaling the engine or by ejecting
-gas from pneumatic thrusters.
-
-The Agena has the ability to restart its engine after it has already
-fired once to reach an Earth orbital speed. This feature makes possible
-a significant increase in payload and a change of orbital altitude. A
-velocity meter ends the first and second burns when predetermined
-velocities have been reached.
-
-After engine cutoff, the major reorientation of the vehicle is achieved
-through gas jets controlled from an electronic programming device. This
-system can turn the Agena completely around in orbit, or pitch it down
-for reentry into the atmosphere. The attitude is controlled by an
-infrared, heat-sensitive horizon scanner and gyroscopes.
-
-The principal modification to the Agena vehicle for the Mariner II
-mission was an alteration to the spacecraft-Agena adapter in order to
-reduce weight.
-
-
-
-
-                               CHAPTER 5
-                           FLIGHT INTO SPACE
-
-
-With the Mariner R Project officially activated in the fall of 1961 and
-the launch vehicles selected, engineers proceeded at full speed to meet
-the difficult launch schedule.
-
-A preliminary design was adopted in late September, when the scientific
-experiments to be carried on board were also selected. By October 2, a
-schedule had been established that would deliver two spacecraft to the
-assembly building in Pasadena by January 15 and 29, 1962, respectively,
-with the spares to follow in two weeks.
-
-During the week of November 6, tests were underway to determine problems
-involved in mating a mock-up of the spacecraft with the Agena shroud and
-adapter assembly. A thermal control model of the spacecraft had already
-gone into the small space simulator at JPL for preliminary temperature
-tests.
-
-MR-1, the first Mariner scheduled for flight, was in assembly
-immediately after January 8, 1962, and the process was complete by the
-end of the month, when electrical and magnetic field tests had been
-started. At the same time, assembly of MR-2 was underway. Work on MR-1
-was a week ahead of schedule by the end of the month.
-
-A full-scale temperature control model of the spacecraft went into the
-large space simulator on February 26. In mid-March, system tests began
-on both spacecraft and it was decided that the flight hardware would be
-tested only in the small simulator, with the temperature control model
-continuing in the large chamber.
-
-    [Illustration: _Technician wears hood and protective goggles while
-    working on Mariner spacecraft in Space simulator chamber at Jet
-    Propulsion Laboratory, Pasadena._]
-
-On March 26, MR-1 was subjected to full-scale mating tests with the
-shroud (cover) and the adapter for mounting the spacecraft on top of the
-Agena. MR-2 was undergoing vibration tests during the week of April 16.
-By April 30, MR-1 had completed vibration tests and had been mapped for
-magnetic fields so that, once compensated for, they would not interfere
-with the magnetometer experiment in space.
-
-A dummy run of MR-1 was conducted on May 7 and the spacecraft, space
-flight center, and computing equipment were put through a simulated
-operations test run during the same week.
-
-By May 14, clean-up and final inspection by microscope had begun on
-MR-1, MR-2, and MR-3 (the latter spacecraft had been assembled from the
-spares). Soon after, the first two van loads of equipment were shipped
-to Cape Canaveral. The final system test of MR-1 was completed on May 21
-and the test of MR-2 followed during the same week.
-
-During the week of May 28, all three spacecraft and their associated
-ground support equipment were packed, loaded, and shipped to the
-Atlantic Missile Range (AMR). At the same time, the Atlas designated to
-launch MR-1 went aboard a C-133 freight aircraft at San Diego. On the
-same day, an Air Force order grounded all C-133’s for inspection and the
-plane did not depart until June 9.
-
-By June 11, 1962, the firing dates had been established and both
-spacecraft were ready for launching. The Atlas booster had already been
-erected on the launch pad. The dummy run and a joint flight acceptance
-test were completed on MR-1 during the week of July 2. Final flight
-preparations and system test of MR-1 and the system test of MR-2 were
-concluded a week later.
-
-Thus, in 324 days, a new spacecraft project had been activated; the
-design, assembly, and testing had been completed; and the infinite
-number of decisions pertaining to launch, AMR Range Operations,
-deep-space tracking, and data processing activities had been made and
-implemented.
-
-Venus was approaching the Earth at the end of its 19-month excursion
-around the Sun. The launch vehicles and Mariners I and II stood ready to
-go from Canaveral’s Launch Complex 12. The events leading to the first
-close-up look at Venus and intervening space were about to reach their
-first crisis: a fiery explosion over the Atlantic Ocean.
-
-
-MARINER I: AN ABORTIVE LAUNCH
-
-After 570 hours of testing, Mariner I was poised on top of the
-Atlas-Agena launch vehicle during the night of July 20, 1962. The time
-was right, the Range and the tracking net were standing by, the launch
-vehicles were ready to cast off the spacecraft for Venus.
-
-    [Illustration: _Atlas for launching Mariner II arrives at Cape
-    Canaveral in C-133 aircraft._]
-
-The countdown was begun at 11:33 p.m., EST, July 20, after several
-delays because of trouble in the Range Safety Command system. At the
-time, the launch count stood at T minus 176 minutes—if all went well,
-176 minutes until the booster engines were ignited.
-
-Another hold again delayed the count until 12:37 a.m., July 21, when
-counting was resumed at T minus 165 minutes. The count then proceeded
-without incident to T minus 79 minutes at 2:20 a.m., when uncertainty
-over the cause of a blown fuse in the Range Safety circuits caused the
-operations to be “scrubbed” or cancelled for the night. The next launch
-attempt was scheduled for July 21-22.
-
-The second launch countdown for Mariner I began shortly before midnight,
-July 21. Spacecraft power had been turned on at 11:08 p.m., with the
-launch count at T minus 200 minutes. At T minus 135 minutes, the weather
-looked good. A 41-minute hold was required at minus 130 minutes (12:17
-a.m., July 22) in order to change a noisy component in the ground
-tracking system.
-
-When counting was resumed at T minus 130 minutes, the clock read 12:48
-a.m. A previously scheduled hold was called at T minus 60 minutes,
-lasting from 1:58 to 2:38 a.m. The good weather still held.
-
-At T minus 80 seconds, power fluctuations in the radio guidance system
-forced a 34-minute hold. Time was resumed at 4:16 a.m., when the
-countdown was set back to T minus 5 minutes.
-
-At exactly 4:21.23 a.m., EST, the Atlas thundered to life and lifted off
-the pad, bearing its Venus-bound load. The boost phase looked good until
-the Range Safety officer began to notice an unscheduled yaw-left
-(northeast) maneuver. By 4:25 a.m., it was evident that, if allowed to
-continue, the vehicle might crash in the North Atlantic shipping lanes
-or in some inhabited area. Steering commands were being supplied but
-faulty application of the guidance equations was taking the vehicle far
-off course.
-
-Finally, at 4:26.16 a.m., after 293 seconds of flight and with just 6
-seconds left before separation of the Atlas and Agena—after which the
-launch vehicle could not be destroyed—a Range Safety officer hit the
-“destruct” button.
-
-A flash of light illuminated the sky and the choppy Atlantic waters were
-awash with the glowing death of a space probe. Even as it fluttered down
-to the sea, however, the radio transponder of the shattered Mariner I
-continued to transmit for 1 minute and 4 seconds after the destroy
-command had been sent.
-
-Mariner I did not succumb easily.
-
-
-MARINER II: A ROLL BEFORE PARKING
-
-Ever since Mariner II had arrived at the Cape on June 4, test teams of
-all organizations had labored day and night to prepare the spacecraft
-for launch. The end of their efforts culminated after some 690 hours of
-test time, both in California and in Florida.
-
-Thirty-five days after Mariner I met its explosive end, the first
-countdown on Mariner II was underway. At 6:43 p.m., EST, August 25,
-1962, time was picked up. The countdown did not proceed far, however.
-The Atlas crew asked for a hold at T minus 205 minutes (8:39 p.m.)
-because of stray voltages in the command destruct system caused by a
-defective Agena battery. After considerable delay, the launch effort was
-scrubbed at 10:06 p.m.
-
-    [Illustration: _Two assembly operations and system checkouts are
-    performed separated by a trip to the pad to verify compatibility
-    with the launch vehicle_]
-
-    [Illustration: _A complete electronic checkout station in the hangar
-    supports the spacecraft to ensure operability_]
-
-    [Illustration: _Mariner takes form as the solar panels are attached
-    and the final hangar checkout operations are performed before the
-    launch._]
-
-    [Illustration: _Wrapped in a dust cover, the spacecraft is
-    transferred from Hangar AE at AMR to the explosive safe area for
-    further tests._]
-
-    [Illustration: _Inside the bunker-like explosive safe area, the
-    powerful midcourse maneuver rocket engine is installed in the center
-    of the spacecraft._]
-
-    [Illustration: _Final assembly and inspection complete, Mariner is
-    “canned” in the nose shroud that will protect it through the Earth’s
-    atmosphere and into space._]
-
-    [Illustration: _At the pad, the shrouded spacecraft is lifted past
-    the Atlas ..._]
-
-    [Illustration: _... and the Agena._]
-
-    [Illustration: _Twelfth floor: Mariner reaches its mating level._]
-
-    [Illustration: _The spacecraft is eased over to the top of the Agena
-    ..._]
-
-    [Illustration: _... and carefully mated to it._]
-
-The second launch attempt started at 6:37 p.m., August 26, with the
-Atlas-Agena B and Mariner II ready on the pad. At 9:52 p.m., T minus 100
-minutes, a 40-minute hold was called to replace the Atlas main battery.
-By 10:37, with 95 minutes to launch, all spacecraft systems were ready
-to go.
-
-A routine hold at T minus 60 minutes was extended beyond 30 minutes in
-order to verify the spacecraft battery life expectation. At 11:48 p.m.,
-with the count standing at T minus 55 minutes, the spacecraft, the
-vehicles, the Range, and the DSIF were all given the green light.
-
-When good launching weather was reported at 12:18 a.m., August 27, just
-25 minutes from liftoff, a cautious optimism began to mount in the
-blockhouse and among the tired crews.
-
-But the tension began to build again. The second prescheduled hold at T
-minus 5 minutes was extended beyond a half-hour when the radio guidance
-system had difficulty with ground station power. Counting was “picked
-up” and the clock continued to move down to 60 seconds before liftoff.
-
-Suddenly, the radio guidance system was in trouble again. Fluctuations
-showed in its rate beacon signals, and another hold was called. Still
-another hold for the same reason followed at T minus 50 seconds. This
-time, at 1:30 a.m., the count was set back to T minus 5 minutes.
-
-One further crisis developed during this hold—only 3 minutes of
-pre-launch life remained in Atlas’ main battery. A quick decision was
-made to hold the switchover to missile power until T minus 60 seconds to
-help conserve the life of the battery.
-
-At 1:48 a.m., the count was resumed again at T minus 5 minutes. The long
-seconds began to drag. Finally, the Convair test director pressed the
-fire button.
-
-Out on the launch pad, the Atlas engines ignited with a white puff and
-began to strain against the retaining bolts as 360,000 pounds of thrust
-began to build up. In a holocaust of noise and flame, the Atlas was
-released and lifted off the launch pad on a bearing of 106.8 degrees at
-exactly 1 hour, 53 minutes, 13.927 seconds in the morning of August 27,
-1962.
-
-Mariner II was on its way to listen to the music of the spheres.
-
-As the launch vehicle roared up into the night sky, the JPL Launch
-Checkout Station (DSIF O) tracked the spacecraft until Mariner
-disappeared over the horizon. A quick, preliminary evaluation of
-spacecraft data showed normal readings and Atlas seemed to be flying a
-true course. The AMR in-flight data transmission and computational
-operations were being performed as expected. With liftoff out of the
-way, the launch began to look good.
-
-After the radio signal from the ground guidance system cut off the
-engines and the booster section was jettisoned, the remaining Atlas
-forward section, plus the Agena and the spacecraft began to roll.
-However, it stabilized itself in a normal attitude. Although the Atlas
-had not gone out of the Range Safety restrictions, it was within just 3
-degrees of exceeding the Agena horizon sensor limits, which would have
-forced another aborted mission.
-
-After the booster separation, the Atlas sustainer and vernier engines
-continued to burn until they were shut off by radio guidance command.
-Shortly thereafter, spring-loaded bolts ejected the nose-cone shroud
-which had protected the spacecraft against frictional heating in the
-atmosphere. Simultaneously, the gyroscopes in the Agena were started
-and, at about 1:58 a.m., the Agena and the spacecraft separated from the
-now-spent Atlas, which was retarded by small retro-rockets and drifted
-back into the atmosphere, where it was destroyed by friction on reentry.
-
-
-THE PARKING ORBIT
-
-As the Agena separated from the Atlas booster vehicle, it was programmed
-to pitch down almost 15 degrees, putting it roughly parallel with the
-local horizon. Then, following a brief coasting period, the Agena engine
-ignited at 1:58.53 a.m. and fired until 2:01.12 a.m. Cut-off occurred at
-a predetermined value of velocity. Both the Agena and the spacecraft had
-now reached a speed of approximately 18,000 miles per hour and had gone
-into an Earth orbit at an altitude of 116.19 statute miles.
-
-The second stage and the spacecraft were now in a “parking orbit,” which
-would allow the vehicle to coast out to a point more favorable than Cape
-Canaveral for blasting off Mariner for Venus.
-
-During the launch, Cape radar had tracked the radar beacon on the Agena,
-losing it on the horizon at 2:00.53 a.m. Radar stations at Grand Bahama
-Island, San Salvador, Ascension, the Twin Falls Victory ship, and
-Pretoria (in South Africa) continued to track down range. Meanwhile,
-Antigua had “locked on” and tracked the spacecraft’s radio transponder
-and telemetry from 1:58 to 2:08 a.m. when it went over the Antigua
-horizon.
-
-    [Illustration: _Mariner II is accelerated to Earth-escape velocity
-    and out of orbit near St. Helena. Rotation of earth causes flight
-    path to appear to double back to west over Africa._]
-
-    [Illustration: _The sequence of events in the launch phase of the
-    Mariner flight to Venus._]
-
-      EVENT
-  1. LIFTOFF
-  2. ATLAS BOOSTER ENGINE CUTOFF
-  3. ATLAS SUSTAINER ENGINE CUTOFF
-  4. ATLAS VERNIER ENGINE CUTOFF
-  5. SPACECRAFT SHROUD EJECTION
-  6. ATLAS-AGENA B SEPARATION
-  7. AGENA B FIRST IGNITION
-  8. AGENA B FIRST CUTOFF
-  9. AGENA B SECOND IGNITION
-  10. AGENA B SECOND CUTOFF
-  11. SPACECRAFT SEPARATION
-  12. INITIATE AGENA YAW MANEUVER
-  13. COMPLETE AGENA YAW MANEUVER
-  14. EXPEL UNUSED AGENA PROPELLANT
-
-The second coasting period lasted 16.3 minutes, a time determined by the
-ground guidance computer and transmitted to the Agena during the vernier
-burning period of Atlas. Then, Agena restarted its engine and fired for
-a second time. At the end of this firing period, both the Agena and
-Mariner, still attached, had been injected into a transfer trajectory to
-Venus at a velocity exceeding that required to escape from the Earth’s
-gravity.
-
-The actual injection into space occurred at 26 minutes 3.08 seconds
-after liftoff from the Cape (2:19.19 a.m., EST) at a point above 14.873
-degrees south latitude and 2.007 degrees west longitude. Thus, Mariner
-made the break for Venus about 360 miles northeast of St. Helena, 2,500
-miles east of the Brazilian coast, and about 900 miles west of Angola on
-the west African shore.
-
-During injection, the vehicle was being tracked by Ascension, telemetry
-ship Twin Falls Victory, and Pretoria. Telemetry ship Whiskey secured
-the spacecraft signal just after injection and tracked until 2:26 a.m.
-Pretoria began its telemetry track at 2:21 and continued to track for
-almost two hours, until 4:19 a.m.
-
-Injection velocity was 7.07 miles per second or 25,420 miles per hour,
-just beyond Earth-escape speed. The distance at the time of injection
-from Canaveral’s Launch Complex 12 was 4,081.3 miles.
-
-The Agena and Mariner flew the escape path together for another two
-minutes after injection before they were separated at 2:21 a.m. Agena
-then performed a 140-degree yaw or retro-turn maneuver by expelling
-unused propellants. The purpose was to prevent the unsterilized Agena
-from possibly hitting the planet, and from following Mariner too closely
-and perhaps disturbing its instruments.
-
-Now, Mariner II was flying alone and clear. Ahead lay a journey of 109
-days and more than 180 million miles.
-
-
-ORIENTATION AND MIDCOURSE MANEUVER
-
-As Mariner II headed into space, the Deep Space Instrumentation Facility
-(DSIF) network began to track the spacecraft. At 2:23.59 a.m., DSIF 5 at
-Johannesburg, aided by the Mobile Tracking Station, installed in vans in
-the vicinity, was “looking” at the spacecraft, just four minutes after
-injection.
-
-Johannesburg was able to track Mariner until 4:04 p.m. because, as the
-trajectory took Mariner almost radially away from the Earth, our planet
-began in effect to turn away from under the spacecraft. On an Earth map,
-because of its course and the rotation of the Earth, Mariner II appeared
-to describe a great arc over the Indian Ocean far to the west of
-Australia, then to turn north and west and to proceed straight west over
-south-central Africa, across the Atlantic, and over the Amazon Basin of
-northern South America. Johannesburg finally lost track at a point over
-the middle of South America.
-
-While swinging over the Indian Ocean on its first pass, the spacecraft
-was acquired by Woomera’s DSIF 4 at 2:42.30 a.m., and tracked until 8:08
-a.m., when Mariner was passing just to the north of Madagascar on a
-westerly course. Goldstone did not acquire the spacecraft until it was
-approaching the east coast of South America at 3:12 p.m., August 27.
-
-With Mariner slowly tumbling in free space, it was now necessary to
-initiate a series of events to place the spacecraft in the proper flight
-position. At 2:27 a.m., 44 minutes after launch, the Mariner Central
-Computer and Sequencer (CC&S) on board the spacecraft issued a command
-for explosively activated pin pullers to release the solar panels and
-the radiometer dish from their launch-secured positions. At 2:53, 60
-minutes after liftoff, the attitude control system was turned on and the
-Sun orientation sequence began with the extension of the directional
-antenna to a preset angle of 72 degrees.
-
-    [Illustration: _Mariner II was launched while Venus was far behind
-    the Earth. During the 109-day flight, Venus overtook and passed the
-    Earth. It rendezvoused with the spacecraft at a point about
-    36,000,000 miles from the Earth._]
-
-    [Illustration: _During the midcourse maneuver, the trajectory of
-    Mariner II was corrected so that the spacecraft would approach
-    within 21,598 miles of Venus._]
-
-  ROLL MANEUVER ANTENNA UP
-  PITCH MANEUVER
-  MOTOR BURN
-  SUN REAQUISITION ANTENNA REPOSITION
-  EARTH REAQUISITION
-
-The Sun sensors then activated the gas jets and moved the spacecraft
-about until the roll or long axis was pointed at the Sun. This maneuver
-required only 2½ minutes after the CC&S issued the command. The solar
-panel power output of 195 watts was somewhat higher than anticipated, as
-were the spacecraft temperatures, which decreased and stabilized six
-hours after the spacecraft oriented itself on the Sun.
-
-On August 29, a command from Johannesburg turned on the cruise
-scientific experiments, including all the instruments except the two
-radiometers. The rate of data transmission was then observed to decrease
-as planned and the data conditioning system was functioning normally.
-
-For seven days, no attempt was made to orient the spacecraft with
-respect to the Earth because the Earth sensors were too sensitive to
-operate properly at such a close range. On September 3, the CC&S
-initiated the Earth acquisition sequence. The gyroscopes were turned on,
-the cruise scientific instruments were temporarily switched off, and a
-search for the Earth began about the roll axis of the spacecraft.
-
-During this maneuver, the long axis of the spacecraft was held steady in
-a position pointing at the Sun and the gas jets rolled the spacecraft
-around this axis until the sensors, mounted in the directional antenna,
-could “see” the Earth. Apparently, the Earth sensor was already viewing
-the Earth because the transmitter output immediately switched from the
-omni- to the directional antenna, indicating that no search was
-necessary.
-
-However, the initial brightness reading from the Earth sensor was 38, an
-intensity that might be expected if the spacecraft were locked onto the
-Moon instead of the Earth. As a result, the midcourse maneuver was
-delayed until verification of Earth lock was obtained.
-
-Mariner’s injection into the Venus trajectory yielded a predicted miss
-of 233,000 miles in front of the planet, well within the normal miss
-pattern expected as a result of the launch. Because the spacecraft was
-designed to cross the orbit of Venus behind the planet and pass between
-it and the Sun, it was necessary to correct the trajectory to an
-approximate 8,000- to 40,000-mile “fly-by” so the scientific instruments
-could operate within their design ranges.
-
-After comparison of the actual flight path with that required for a
-proper near-miss, the necessary roll, pitch, and motor-burn commands
-were generated by the JPL computers. When, on September 4, it had been
-established that the spacecraft was indeed oriented on the Earth and not
-the Moon, a set of three commands was transmitted to the spacecraft from
-Goldstone, to be stored in the electronic “memory unit” until the start
-command was sent.
-
-At 1:30 p.m., PST, the first commands were transmitted: a 9.33-degree
-roll turn, a 139.83-degree pitch turn, and a motor-burn command to
-produce a 69.5-mile-per-hour velocity change.
-
-At 2:39 p.m., a fourth command was sent to switch from the directional
-antenna to the omni-antenna. Finally, a command went out instructing the
-spacecraft to proceed with the now “memorized” maneuver program.
-
-Mariner then turned off the Earth and Sun sensors, moved the directional
-antenna out of the path of the rocket exhaust stream, and executed a
-9.33-degree roll turn in 51 seconds.
-
-Next, the pitch turn was completed in 13¼ minutes, turning the
-spacecraft almost completely around so the motor nozzle would point in
-the correct direction when fired.
-
-The spacecraft was stabilized and the roll and pitch turns controlled by
-gyroscopes, which signalled the attitude control system the rate of
-correction for comparison with the already computed values.
-
-With the solar panels no longer directly oriented on the Sun, the
-battery began to share the power demand and finally carried the entire
-load until the spacecraft had again been oriented on the Sun.
-
-At the proper time, the motor—controlled by the CC&S—ignited and burned
-for 27.8 seconds, while the spacecraft’s acceleration was compared with
-the predetermined values by the accelerometer. During this period, when
-the gas jets could not operate properly, the spacecraft was stabilized
-by movable vanes or rudders in the exhaust of the midcourse motor.
-
-The velocity added by the midcourse motor resulted in a decrease of the
-relative speed of the spacecraft with respect to the Earth by 59 miles
-per hour (from 6,748 to 6,689 miles per hour), while the speed relative
-to the Sun increased by 45 miles per hour (from 60,117 to 60,162 miles
-per hour).
-
-This apparently paradoxical condition occurred because, in order to
-intercept Venus, Mariner had been launched in a direction opposite to
-the Earth’s course around the Sun. The midcourse maneuver turned the
-spacecraft around and slowed its travel away from the Earth while
-allowing it to increase its speed around the Sun in the direction of the
-Earth’s orbit. Gradually, then, the spacecraft would begin to fall in
-toward the Sun while moving in the same direction as the Earth, catching
-and passing the Earth on the 65th day and intersecting Venus’ orbit on
-the 109th day.
-
-At the time of the midcourse maneuver, the spacecraft was travelling
-slightly inside the Earth’s orbit by 70,000 miles, and was behind the
-Earth by 1,492,500 miles.
-
-
-THE LONG CRUISE
-
-After its completion of the midcourse maneuver, Mariner reoriented
-itself on the Sun in 7 minutes and on the Earth in about 30 minutes.
-During the midcourse maneuver, the omnidirectional antenna was used;
-now, with the maneuver completed, the directional antenna was switched
-back in for the duration of the mission.
-
-Ever since the spacecraft had left the parking orbit near the Earth and
-been injected into the Venus trajectory, the Space Flight Operations
-Center back in Pasadena had been the nerve center of the mission.
-Telemetered data had been coming in from the DSIF stations on a 24-hour
-schedule. During the cruise phase, from September 5 to December 7, a
-total of 16 orbit computations were made to perfect the planet encounter
-prediction. On December 7, the first noticeable Venus-caused effects on
-Mariner’s trajectory were observed, causing a definite deviation of the
-spacecraft’s flight path.
-
-On September 8, at 12:50 p.m., EST, the spacecraft lost its attitude
-control, which caused the power serving the scientific instruments to
-switch off and the gyroscopes to switch on automatically for
-approximately three minutes, after which normal operation was resumed.
-The cause was not apparent but the chances of a strike by some small
-space object seemed good.
-
-As a result of this event, a significant difference in the apparent
-brightness reading of the Earth sensor was noted. This sensor had been
-causing concern for some time because its readings had decreased to
-almost zero. Further decrease, if actually caused by the instrument and
-not by the telemetry sensing elements, could result in loss of Earth
-lock and the failure of radio contact.
-
-After the incident of September 8, the Earth sensor brightness reading
-increased from 6 to 63, a normal indication for that day. Thereafter,
-this measurement decreased in an expected manner as the spacecraft
-increased its distance from the Earth.
-
-Mariner II was now embarked on the long cruise. On September 12, the
-distance from the Earth was 2,678,960 miles and the spacecraft speed
-relative to the Earth was 6,497 miles per hour. Mariner was accelerating
-its speed as the Sun’s gravity began to exert a stronger pull than the
-Earth’s. On October 3, Mariner was nearly 6 million miles out and moving
-at 6,823 miles per hour relative to the Earth. A total of 55,600,000
-miles had been covered to that point.
-
-Considerable anxiety had developed at JPL when Mariner’s Earth sensor
-reading had fallen off so markedly. This situation was relieved by the
-unexplained return to normal on September 8, although the day-to-day
-change in the brightness number was watched closely. The apparent
-ability of the spacecraft to recover its former performance after the
-loss of attitude control on September 8 and again on September 29 was an
-encouraging sign.
-
-Another disturbing event occurred on October 31, when the output from
-one solar panel deteriorated abruptly. The entire power load was thrown
-on the other panel, which was then dangerously near its maximum rated
-output. To alleviate this situation, the cruise scientific instruments
-were turned off. A week later, the malfunctioning panel returned to
-normal operation and the science instruments were again turned on.
-Although the trouble had cleared temporarily, it developed again on
-November 15 and never again corrected itself. The diagnosis was a
-partial short circuit between one string of solar cells and the panel
-frame, but by now the spacecraft was close enough to the Sun so that one
-panel supplied enough power.
-
-By October 24, the spacecraft was 10,030,000 miles from the Earth and
-was moving at 10,547 miles per hour relative to the Earth. The distance
-from Venus was now 21,266,000 miles.
-
-October 30 was the 65th day of the mission and at 5 a.m., PST, Mariner
-overtook and passed the Earth at a distance of 11,500,000 miles. Since
-the spacecraft’s direction of travel had, in effect, been reversed by
-the midcourse maneuver, it had been gaining on the Earth in the
-direction of its orbit, although constantly falling away from the Earth
-in the direction of the Sun.
-
-The point of equal distance between the Earth and Venus was passed on
-November 6, when Mariner was 13,900,000 miles from both planets and
-travelling at 13,843 miles per hour relative to the Earth. As November
-wore on, hope for a successful mission began to mount. Using tracking
-data rather than assumptions of standard midcourse performance, the
-Venus miss distance had now been revised to about 21,000 miles and
-encounter was predicted for December 14. But the DSIF tracking crews,
-the space flight and computer operators, and the management staff could
-not yet relax. The elation following the successful trajectory
-correction maneuver on September 4 had given way alternately to
-discouragement and guarded optimism.
-
-Four telemetry measurements were lost on December 9 and never returned
-to normal. They measured the angle of the antenna hinge, the fuel tank
-pressure, and the nitrogen pressure in the midcourse and attitude
-control systems. A blown fuse, designed to protect the data encoder from
-short circuits in the sensors, was suspected. However, these channels
-could not affect spacecraft operation and Mariner continued to perform
-normally.
-
-The rising temperatures recorded on the spacecraft were more serious.
-Only the solar panels were displaying expected temperature readings;
-some of the others were as much as 75 degrees above the values predicted
-for Venus encounter. The heat increase became more rapid after November
-20. By December 12, six of the temperature sensors had reached their
-upper limits. It was feared that the failure point of the equipment
-might be exceeded.
-
-The CC&S performed without incident until just before encounter, when,
-for the first time, it failed to yield certain pulses. JPL engineers
-were worried about the starting of the encounter sequence, due the next
-day, although they knew that Earth-based radio could send these
-commands, if necessary.
-
-On December 12, with the climax of the mission near, the spacecraft was
-34,218,000 miles from the Earth, with a speed away from the Earth of
-35,790 miles per hour, a Sun-relative speed of 83,900 miles per hour.
-
-Only 635,525 miles from Venus at this point, Mariner II was closing fast
-on the cloud-shrouded planet. But it was a hot spacecraft that was
-carrying its load of inquisitive instruments to the historic encounter.
-
-
-ENCOUNTER AND BEYOND
-
-On its 109th day of travel, Mariner had approached Venus in a precarious
-condition. Seven of the over-heated temperature sensors had reached
-their upper telemetry limits. The Earth-sensor brightness reading stood
-at 3 (0 was the nominal threshold) and was dropping. Some 149 watts of
-power were being consumed out of the 165 watts still available from the
-crippled solar panels.
-
-At JPL’s Space Flight Operations Center, there was reason to believe
-that the ailing CC&S might not command the spacecraft into its encounter
-sequence at the proper time. Twelve hours before encounter, these fears
-were verified.
-
-Quickly, the emergency Earth-originated command was prepared for
-transmission. At 5:35 a.m., PST, a radio signal went out from
-Goldstone’s Echo Station. Thirty-six million miles away, Mariner II
-responded to the tiny pulse of energy from the Earth and began its
-encounter sequence.
-
-After Mariner had “acknowledged” receipt of the command from the Earth,
-the spacecraft switched into the encounter sequence as engineering data
-were turned off and the radiometers began their scanning motion, taking
-up-and-down readings across the face of the planet. As throughout the
-long cruise, the four experiments monitoring the magnetic fields, cosmic
-dust, charged particles, and solar plasma experiments continued to
-operate.
-
-    [Illustration: _Mariner II approached Venus from the dark side,
-    crossed between the planet and the Sun while making three radiometer
-    scans of the disk._]
-
-As Mariner approached Venus on its night side, it was travelling about
-88,400 miles per hour with respect to the Sun. At the point of closest
-approach, at 11:59.28 a.m., PST, the distance from the planet was 21,598
-miles.
-
-During encounter with Venus, three scans were made: one on the dark
-side, one across the terminator dividing dark and sunlit sides, and one
-on the sunlit side. Although the scan went slightly beyond the edge of
-the planet, the operation proceeded smoothly and good data were received
-on the Earth.
-
-With encounter completed, the cruise condition was reestablished by
-radio command from the Earth and the spacecraft returned to transmitting
-engineering data, together with the continuing readings of the four
-cruise scientific experiments.
-
-After approaching closer to a planet and making more meaningful
-scientific measurements than any man-made space probe, Mariner II
-continued on into an orbit around the Sun.
-
-December 27, 13 days after Venus encounter, marked the perihelion, or
-point of Mariner’s closest approach to the Sun: 65,505,935 miles. The
-Sun-related speed was 89,442 miles per hour. As Mariner began to pull
-away from the Sun in the following months, its Sun-referenced speed
-would decrease.
-
-Data were still being received during these final days and the Earth and
-Sun lock were still being maintained. Although the antenna hinge angle
-was no longer being automatically readjusted by the spacecraft, commands
-were sent from the Earth in an attempt to keep the antenna pointed at
-the Earth, even if the Earth sensor were no longer operating properly.
-
-At 2 a.m., EST, January 3, 1963, 20 days after passing Venus, Mariner
-finished transmitting 30 minutes of telemetry data to Johannesburg and
-the station shut down its operation. When Woomera’s DSIF 4 later made a
-normal search for the spacecraft signal, it could not be found.
-Goldstone also searched in vain for the spacecraft transmissions, but
-apparently Mariner’s voice had at last died, although the spacecraft
-would go into an eternal orbit around the Sun.
-
-It was estimated that Mariner’s aphelion (farthest point out) in its
-orbit around the Sun would occur on June 18, 1963, at a distance of
-113,813,087 miles. Maximum distance from the Earth would be 98,063,599
-miles on March 30, 1963; closest approach to the Earth: 25,765,717 miles
-on September 27, 1963.
-
-
-THE RECORD OF MARINER
-
-The performance record of Mariner II exceeded that of any spacecraft
-previously launched from Earth:
-
-
-—It performed the first and most distant trajectory-correcting maneuver
-  in deep space, firing a rocket motor at the greatest distance from the
-  Earth: 1,492,000 miles (September 4, 1962).
-
-—The spacecraft transmitted continuously for four months, sending back
-  to the Earth some 90 million bits of information while using only 3
-  watts of transmitted power.
-
-—Useful telemetry measurements were made at another record distance from
-  the Earth: 53.9 million miles (January 3, 1963).
-
-—Mariner II was the first spacecraft to operate in the immediate
-  vicinity of another planet and return useful scientific information to
-  the Earth: approximately 21,598 miles from Venus (December 14, 1962).
-
-—Measurements were made closest to the Sun: 65.3 million miles away
-  (December 27, 1962).
-
-—Mariner’s communication system operated for the longest continuous
-  period in interplanetary space: 129 days (August 27, 1962, to January
-  3, 1963).
-
-—Mariner achieved the longest continuous operation of a spacecraft
-  attitude-stabilization system in space, and at a greater distance from
-  the Earth than any previous spacecraft: 129 days (August 27, 1962, to
-  January 3, 1963), at 53.9 million miles from the Earth.
-
-
-
-
-                               CHAPTER 6
-                          THE TRACKING NETWORK
-
-
-Thirty-six million miles separated the Earth from Venus at encounter.
-Communicating with Mariner II and tracking it out to this distance, and
-beyond, represented a tremendous extension of man’s ability to probe
-interplanetary space.
-
-The problem involved:
-
-  1. The establishment of the spacecraft’s velocity and position
-          relative to the Earth, Venus, and the Sun with high precision.
-  2. The transmission of commands to activate spacecraft maneuvers.
-  3. The reception of readable spacecraft engineering and scientific
-          data from the far-ranging Mariner.
-
-The tracking network had to contend with many radio noise sources: the
-noise from the solar system and from extragalactic origins; noise
-originating from the Earth and its atmosphere; and the inherent
-interference originating in the receiving equipment. These problems were
-solved by using advanced high-gain antennas and ultra-stable, extremely
-sensitive receiving equipment.
-
-
-DEEP SPACE INSTRUMENTATION FACILITY
-
-The National Aeronautics and Space Administration has constructed a
-network of deep-space tracking stations for lunar and planetary
-exploration missions. In order to provide continuous, 24-hour coverage,
-three stations were built, approximately 120 degrees of longitude apart,
-around the world: at Goldstone in the California desert, near
-Johannesburg in South Africa, and at Woomera in the south-central
-Australian desert.
-
-    [Illustration: _The three tracking stations of the Deep Space
-    Instrumentation Facility are located around the world so as to
-    provide continuous flight coverage._]
-
-These stations are the basic elements of the Deep Space Instrumentation
-Facility (DSIF). In addition, a mobile tracking station installed in
-vans is used near the point of injection of a spacecraft into an
-Earth-escape trajectory to assist the permanent stations in finding the
-spacecraft and to acquire tracking data. The control point for the DSIF
-net is located at JPL in Pasadena, California (see Table 1).
-
-The Jet Propulsion Laboratory has the responsibility for the technical
-direction of the entire DSIF net and operates the Goldstone facilities
-with assistance from the Bendix Corporation as a subcontractor. The
-overseas stations are staffed and operated by agencies of the Republic
-of South Africa and the Commonwealth of Australia.
-
-The DSIF net tracks the position and velocity of U.S. deep-space probes,
-issues commands to direct the spacecraft in flight, receives engineering
-and scientific data from the probes, and automatically relays the data
-to JPL in Pasadena, where it is processed by computers and interpreted.
-(In the tracking operation, a signal is transmitted to the spacecraft,
-where it is received and processed in a transponder, which then sends
-the signal back to the Earth. The change in frequency, known as the
-doppler effect, involved in this operation enables engineers to
-determine the velocity at which the spacecraft is moving.)
-
-
-        _Table 1. Deep Space Instrumentation Facility Stations_
-
-  _Station_         _Location_        _Equipment_       _Functions_
-
-  DSIF 1 (Mobile    Near point of     10-ft antenna     Fast tracking
-  Tracking          injection of      25-w, 890-mc      for acquisition
-  Station)          spacecraft into   transmitter       of spacecraft
-                    Earth-escape
-                    trajectory
-  Goldstone:        California
-     Pioneer Site                     85-ft             Reception of
-  (DSIF 2)                            polar-mount       telemetry
-                                      antenna;          Tracking
-                                      Cassegrain        spacecraft
-                                      feed; maser and
-                                      parametric
-                                      amplifier
-     Echo Site                        85-ft             Transmission of
-  (DSIF 3)                            polar-mount       commands
-                                      antenna;          Tracking
-                                      parametric        spacecraft
-                                      amplifier         Stand-by
-                                      10-kw, 890-mc     reception
-                                      transmitter
-     Venus Site                       85-ft             Advanced radar
-                                      radar-type        astronomy
-                                      antenna           Communications
-                                                        research
-  DSIF 4            Woomera,          85-ft             Reception of
-                    Australia         polar-mount       telemetry
-                                      antenna;          Tracking
-                                      parametric        spacecraft
-                                      amplifier
-  DSIF 5            Johannesburg,     85-ft             Reception of
-                    South Africa      polar-mount       telemetry
-                                      antenna;          Tracking
-                                      parametric        spacecraft
-                                      amplifier         Transmission of
-                                      10-kw, 890-mc     commands
-                                      transmitter
-
-The stations are equipped with receiving and tracking instruments so
-sensitive that engineers estimate that they can detect radio-frequency
-energy equivalent to that radiated by a 1-watt light bulb at a distance
-of approximately 75 to 80 million miles. Such energy received at the
-antenna would measure about 0.00000000000000000002 watt (2 × 10⁻²⁰).
-
-The amount of power received at the antenna during Mariner’s encounter
-with Venus has been calculated at about 0.000000000000000001 of a watt
-(1 × 10⁻¹⁸). If a 100 percent efficient storage battery were charged
-with this amount of energy for some 30 billion years, the battery would
-then have stored enough energy to light an ordinary 1-watt flashlight
-bulb for about 1 second only.
-
-Furthermore, Goldstone engineers estimate that, if Mariner II had
-continued to function in all its systems and to point its directional
-antenna at the Earth, useful telemetry data could have been obtained by
-the DSIF stations out to about 150 to 200 million miles, and tracking
-data could have been secured from as far as 300 to 400 million miles.
-
-Construction of the DSIF net was begun in 1958. The Goldstone station
-was ready for the Pioneer III mission in December of that year. In
-March, 1959, Pioneer IV was successfully tracked beyond the Moon. Later
-in 1959, Pioneer V was tracked out to over 3 million miles.
-
-Goldstone participated in the 1960 Project Echo communication satellite
-experiments and the entire net was used in the Ranger lunar missions of
-1961-1962. The Goldstone station performed Venus radar experiments in
-1961 and 1962 to determine the astronomical unit more precisely and to
-study the rotation rate and surface characteristics of the planet.
-
-Following the launch of Mariner II on August 27, 1962, the full DSIF net
-provided 24-hour-per-day tracking coverage throughout the mission except
-for a few days during the cruise phase. The net remained on the
-full-coverage schedule through the period of Venus encounter on December
-14.
-
-
-THE GOLDSTONE COMPLEX
-
-The tracking antennas clustered in a 7-mile radius near Goldstone Dry
-Lake, California, are the central complex of the DSIF net. Three
-tracking sites are included in the Goldstone Station: Pioneer Site (DSIF
-2), Echo Site (DSIF 3), and Venus Site. The Venus Site is used for
-advanced radar astronomy, communication research experiments, and radio
-development; it took no direct part in the Mariner spacecraft tracking
-operations, but was used for the Venus radar experiments.
-
-Pioneer Site has an 85-foot-diameter parabolic reflector antenna and the
-necessary radio tracking, receiving, and data recording equipment. The
-antenna can be pointed to within better than 0.02 of a degree. The
-antenna has one (hour-angle) axis parallel to the polar axis of the
-Earth, and the other (declination) axis perpendicular to the polar axis
-and parallel to the equatorial plane of the Earth. This “polar-mount”
-feature permits tracking on only one axis without moving the other.
-
-The antenna weighs about 240 tons but can be rotated easily at a maximum
-rate of 1 degree per second. The minimum tracking rate or antenna swing
-(0.250686486 degree per minute) is equal to the rotation rate of the
-Earth. Two drive motors working simultaneously but at different speeds
-provide an antibacklash safety factor. The antenna can operate safely in
-high winds.
-
-The Pioneer antenna has a type of feed system (Cassegrain) that is
-essentially similar to that used in many large reflector telescopes. A
-convex cone is mounted at the center of the main dish. A received signal
-is gathered by the main dish and the cone, reflected to a subreflector
-on a quadripod, where the energy is concentrated in a narrow beam and
-reflected back to the feed collector point on the main dish. The
-Cassegrain feed system lowers the noise picked up by the antenna by
-reducing interference from the back of the antenna, and permits more
-convenient location of components.
-
-The receiving system at Pioneer Site is also equipped with a low-noise,
-extremely sensitive installation combining a parametric amplifier and a
-maser. The parametric amplifier is a device that is “pumped” or excited
-by microwave energy in such a way that, when an incoming signal is at
-its maximum, the effect is such that the “pumped-in” energy augments the
-original strength of the incoming signal. At the same time, the
-parametric amplifier reduces the receiving system’s own electronic noise
-to such a point that the spacecraft can be tracked twice as far as
-before.
-
-The maser uses a synthetic ruby mixed with chromium and is maintained at
-the temperature of liquid helium—about 4.7 degrees K or -450 degrees F
-(just above absolute zero)—and when “pumped” with a microwave field, the
-molecular energy levels of the maser material are redistributed so as to
-again improve the signal amplification while lowering the system noise.
-The maser doubles the tracking capability of the system with a
-parametric amplifier, and quadruples the capability of the receiver
-alone.
-
-The antenna output at Pioneer is a wide-band telemetering channel. In
-addition, the antenna can be aimed automatically, using its own “error
-signals.” At both the Pioneer and Echo sites at Goldstone, however, the
-antenna is pointed by a punched tape prepared by a special-purpose
-computer at JPL and transmitted to Goldstone by teletype.
-
-Pioneer Site has a highly sensitive receiver designed to receive a
-continuous wave signal in a narrow frequency band in the 960-megacycle
-range. The site has equipment for recording tracking data for use by
-computers in determining accurate spacecraft position and velocity.
-
-The instrumentation equipment also includes electronic signal processing
-devices, magnetic-tape recorders, oscillographs, and other supplementary
-receiving equipment. The telemetered data can be decommutated (recovered
-from a signal shared by several measurements on a time basis), encoded,
-and transmitted by teletype in real time (as received from the
-spacecraft) to JPL.
-
-Echo Site is the primary installation in the Goldstone complex and has
-antenna and instrumentation facilities identical to those at Pioneer,
-except that there is no maser amplifier and a simpler feed system is
-used instead of the Cassegrain. However, Echo was used as a transmitting
-facility and only as a stand-by receiving station during the Mariner
-mission.
-
-Echo has a 10-kilowatt, 890-megacycle transmitter which was utilized for
-sending commands to the Mariner spacecraft. In addition, the site has an
-“atomic clock” frequency standard, based on the atomic vibrations of
-rhubidium, which permits high-precision measurements of the radial
-velocity of the spacecraft. A unit in the Echo system provides for
-“readback” and “confirmation” by the spacecraft of commands transmitted
-to it. In a sense, the spacecraft acknowledges receipt of the commands
-before executing them.
-
-Walter E. Larkin manages the Goldstone Station for JPL.
-
-
-THE WOOMERA STATION
-
-The Woomera, Australia, Station (DSIF 4), managed by William Mettyear
-for the Australian Department of Supply, has essentially the same
-antenna and tracking capabilities as Goldstone Echo Site, but it has no
-provisions for commanding the spacecraft. A small transmitter is used
-for tracking purposes only. The station is staffed and operated by the
-Australian Department of Supply.
-
-    [Illustration: _The Mobile Tracking Station (DSIF 1) follows the
-    fast-moving spacecraft during its first low-altitude pass over South
-    Africa._]
-
-    [Illustration: _Station 5 of the DSIF is located near Johannesburg
-    in South Africa._]
-
-    [Illustration: _DSIF 4, at Woomera, dominates the landscape in
-    Australia’s “outback.”_]
-
-Woomera, like Johannesburg, is capable of receiving tracking (position
-and velocity) data and telemetered information for real-time
-transmission by radio teletype to JPL.
-
-
-THE JOHANNESBURG STATION
-
-DSIF 5 is located just outside Johannesburg in the Republic of South
-Africa. This station is staffed by the National Institute of
-Telecommunications Research (NITR) of the South African Council for
-Scientific and Industrial Research and managed by Douglas Hogg.
-
-The antenna and receiving equipment are identical to the Goldstone Echo
-Site installation except for minor details. The station has both
-transmitting and receiving capability and can send commands to the
-spacecraft. Recorded tracking and telemetered data are transmitted in
-real time to JPL by radio teletype.
-
-
-MOBILE TRACKING STATION
-
-The Mobile Tracking Station (DSIF 1) is a movable installation designed
-for emplacement near the point of injection of a space probe to assist
-the permanent stations in early acquisition of the spacecraft. This
-station is necessary because at this point the spacecraft is relatively
-low in altitude and consequently appears to move very fast across the
-sky. The Mobile Tracking Station has a fast-tracking antenna for use
-under these conditions. DSIF 1 was located near the South African
-station for Mariner II. It has a 10-foot parabolic antenna capable of
-tracking at a 10-degree-per-second rate. A 25-watt, 890-megacycle
-transmitter is used for obtaining tracking information. A diplexer
-permits simultaneous transmission and reception on the same antenna
-without interference.
-
-The equipment is installed in mobile vans so that the station can be
-operated in remote areas. The antenna is enclosed in a plastic dome and
-is mounted on a modified radar pedestal. The radome is inflatable with
-air and protects the antenna from wind and weather conditions.
-
-These stations of the DSIF tracked Mariner II in flight and sent
-commands to the spacecraft for the execution of maneuvers. The telemetry
-data received from the spacecraft during the 129 days of its mission
-were recorded and transmitted to JPL, where the information was
-processed and reduced by the computers of the space flight operations
-complex.
-
-
-
-
-                               CHAPTER 7
-                         THIRTEEN MILLION WORDS
-
-
-The task of receiving, relaying, processing, and interpreting the data
-coming in simultaneously on a twenty-four-hour basis for several months
-from the several scientific and many engineering sources of the Mariner
-spacecraft was of truly monumental proportions.
-
-This activity involved five DSIF tracking stations scattered around the
-world, a communication network, two computing stations and auxiliary
-facilities, and some 400 personnel over a four-month period.
-
-Although the Mariner scientific information could be stored and
-subsequently processed at a later (non-real) time, it was necessary to
-make tracking and position data available almost as soon as it was
-received (in real time) so that the midcourse maneuver might be computed
-and transmitted to the spacecraft, and to further perfect the predicted
-trajectory and arrival time at Venus.
-
-The engineering performance of the many spacecraft subsystems was also
-of vital concern. Inaccurate operation in any of several areas could
-endanger the success of the entire mission. The performance of the
-attitude control system, the Earth and Sun sensors, the power system,
-and communications were all of critical importance. Corrective action
-was possible in certain subsystems where trouble could be predicted from
-the data or where limited breakdown had occurred.
-
-To integrate all the varied activities necessary to accomplish the
-mission objectives, an organization was formed within JPL to coordinate
-the DSIF, the communication network, the work of engineering and
-scientific advisory panels, and the computer facilities required to
-evaluate the data.
-
-This organization was known as the Space Flight Operations Complex. For
-operational purposes only, it included the Space Flight Operations
-Center, a Communication Center, and a Central Computing Facility (CCF).
-The DSIF was responsive to the requirements of the organization, but was
-not an integral part of it.
-
-A space flight operations director was responsible for integrating these
-many functions into a world-wide Mariner space-flight organization. It
-was an exhausting 109-day task, one that would severely tax all the
-resources of JPL in terms of know-how, qualified personnel, time, and
-equipment before Mariner completed its encounter with Venus.
-
-
-COMMUNICATION CONTROL
-
-The Communication Center at JPL in Pasadena was one of the most active
-areas during the many days and nights of the Mariner II mission. All of
-the teletype and radio lines from the Cape, South Africa, Australia, and
-Goldstone terminated in this Center. A high-speed data line bypassed the
-Communication Center, linking Goldstone directly with the Central
-Computing Facility for quick, real-time computer processing of vital
-flight information.
-
-From the Communication Center, the teletype data and voice circuits were
-connected to the several areas within JPL where the mission-control
-activities were centered, and where the data output was being studied.
-
-The Communication Center was equipped with teletype paper-page printers
-and paper-tape hole reperforators, which received and transmitted
-data-word and number groups. The teletype lines terminating at the
-Center included circuits from Goldstone, South Africa, Australia, and
-Cape Canaveral.
-
-There were three lines to Goldstone for full-time, one-way data
-transmission. Duplex (simultaneous two-way) transmission was available
-to Woomera and South Africa on a full-time basis. In each case, a
-secondary circuit was provided to the overseas sites for use during
-critical periods and in case the primary radio-teletype circuits had
-transmission difficulties. These secondary circuits used different radio
-transmission paths in order to reduce the chance of complete loss of
-contact for any extended period of time.
-
-    [Illustration: _Radio signals from Mariner are received on 85-ft.
-    antenna._]
-
-    [Illustration: _The highly sensitive receiver (shown under test) is
-    located in the control room of the station._]
-
-    [Illustration: _In Goldstone control room, DSIF personnel await
-    confirmation that spacecraft has begun to scan the planet Venus._]
-
-    [Illustration: _From DSIF stations, the data are teletyped in coded
-    format to Pasadena._]
-
-Z ZSQSGSGKGKXRGOQOS DNQ XZARZXAVAQQVA XXDRDZ
-QSGIGKGKXRGOQOX DXQ XZAIZXAVQQKDZ XXDRDDDRZ
-DXQ XZAIZAZVAQQZDZXXDLKKDRA Z DSQSGIGGGQXRDN
-G XXDRZSDRA Z DSQSGIGGGQXRGLZOX DXQ XZAIZAZV
-QSGIGGGQXRGLZOX DXQ XZAIZGAVAQQSXZXXDRDZDRA
-DXQ XQAIZGAVQQKVA XXDRDZDRANGDSSQSGIGGGQXRDI
-Z XXDRDDDRZLQ ZSQSGIGGGGXRGVZOA DNQ XZARZGAV
-QSGIGGGGXRGVQOA DNQ XZARZGAVQKZZAZXXDRZDDRA
-DNQ XZARZAZVAKDDGZXXDRDADIZLA DSQSGIGGGGXRGZ
-SZXXDRDDDRXOS DSQSQIGGGGXRDDZOA DNQ XZARZXAV
-QSGSGGGGXRDSQOG DXQ XZARZXAVAKDZDZXXDRDLDRA
-DXQ XZARZXAZZKZZDZXXDLKADRA Z DSQSGIGGGGXRGX
-GZXXDRZXDRZ Z DSQSAQGGGGXRDAZOG DXQ XZAIZAZV
-DRDXDRA Z DSQSGIGGGGXRDGSOG DXQ XZAIZAZVQKZS
-OGGGXRDGAOG DXQ XZAIZAZVQKZVA XXDRDZDRANGDSS
-XZAIZXAZZKZZD XXDRDLZDZHA DSQSGIGGGGXRDQAOQ
-DLKADRKHQ ZSQSGIGGGGXRDKZOQ DXQ XZAVZAAVQKZZ
-GGGGXRS ZOQ DXQ XZAIZAZVQKZDG XXDRDSDIZ A ZS
-XZAIZAZVQQKSX XXDRDDDRZNS ZSQSGIGGGGXRSOAOQ
-DRDZDRANGDSSQSAQGGGGXRSOAOK DNQ XZAVZAAVQQKZ
-GGGGXRSNZOK DNQ XZAIZAZZSQQZSZXXDLKADRA Z DS
-XZAIZGAVQQKZG XXDRZXDRZ Z DSQSAQGGGGXRSLAOK
-DRDSDRZ Z DSQSAQGGGGXRSLAOK DNQ XZAIZAZZZQKS
-GGGGXRSLAOK DNQ XZAIZAZZZQKVA XXDRDZDRANGDSS
-XRSIZHZ DXQ XZAIZAZZZQKQQZXXDRDNDRZNQ DSQSGS
-ZXAZSQQZXZXXDLKQDRSQS ZSQSGIGGGQXRSVAHZ DXQ
-
-    [Illustration: _Messages are received and routed at the JPL
-    Communications Center._]
-
-    [Illustration: _Data are routed to the digital computer at JPL._]
-
-    [Illustration: _Printout data are made available to experimenters._]
-
-    [Illustration: _Spacecraft status is posted in Operations Center._]
-
-The Mobile Tracking Station in South Africa used the Johannesburg
-communication facilities.
-
-Two one-way circuits for testing and control purposes were open to Cape
-Canaveral from a month before until after the spacecraft was launched.
-Lines from the Communication Center to the Space Flight Operations
-Center at JPL terminated in page printers and reperforators in several
-locations.
-
-Voice circuits connected all of the stations with Operations Center
-through the Communication Center. Long-distance radio telephone calls
-were placed to South Africa to establish contact before the launch
-sequence was started. Woomera used the Project Mercury voice circuits to
-the United States during launch and for three days after.
-
-
-THE OPERATIONS CENTER
-
-The actual nerve center of the Mariner operation was the Space Flight
-Operations Center (SFOC) at Pasadena. Here, technical and scientific
-advisory panels reported to the Project Manager and the Mariner Test
-Director on the performance of the spacecraft in flight, analyzed
-trajectories, calculated the commands for the midcourse trajectory
-correction, and studied the scientific aspects of the mission.
-
-These panels were a Spacecraft Data Analysis Team, a Scientific Data
-Group, an Orbit Determination Group, a Tracking Data Analysis Group, and
-a Midcourse Command Group.
-
-The Spacecraft Data Analysis Team analyzed the engineering data
-transmitted from the spacecraft to evaluate the performance of the
-subsystems in flight. The Team was composed of one or more of the
-engineers responsible for each of the spacecraft subsystems, and a
-chairman.
-
-The Science Data Group was composed of the project scientist and certain
-other scientists associated with the experiments on board the
-spacecraft. This Group evaluated the data from the scientific
-experiments while Mariner was in flight and advised the Test Director on
-the scientific status of the mission.
-
-The Science Data Group was on continuous duty until 48 hours after
-launch, and at other times during the mission. During encounter with
-Venus, the Group was also in contact with the scientific experimenters
-from other participating organizations who were working with JPL.
-
-    [Illustration: _Closed circuit television monitors are used for
-    instant surveillance of the internal activities of the Operations
-    Center._]
-
-A Tracking Data Analysis Group analyzed the tracking data to be used in
-orbit determination. They also assessed the performance of the DSIF
-facilities and equipment used to obtain the data.
-
-The Orbit Determination Group used the tracking data to produce
-estimates of the actual spacecraft trajectory, and to compute the
-spacecraft path with respect to the Earth, Venus, and the Sun. These
-calculations were made once each day before the midcourse maneuver, once
-a week during the cruise phase, and daily during and immediately after
-the planet encounter.
-
-The Operations Center was equipped with lighted boards on which the
-progress of the mission was displayed. This information included
-trajectory data, spacecraft performance, temperature and pressure
-readings, and other data telemetered from the spacecraft subsystems.
-
-Closed-circuit television was used for coordinating the activities of
-the SFOC. Operating personnel could use television monitors in four
-consoles which were linked to six fixed cameras viewing teletype page
-printers. The entire Operations Room could be kept under surveillance by
-the Project Manager, the Test Director, or the DSIF Operations Manager,
-using cameras controlled in “pan,” “tilt,” and “zoom.”
-
-
-CENTRAL COMPUTING FACILITY
-
-During the Mariner II mission, the JPL Central Computing Facility (CCF)
-processed approximately 13.1 million data words, or over 90 million
-binary bits of computer data. (Binary bit = a discrete unit of
-information intelligible to a digital computer. One data word = 7 binary
-bits.)
-
-In the four-month operation, about 100,000 tracking and telemetering
-data cards were received and processed, yielding over 1.2 million
-computer pages of tabulated, processed, and analyzed data for evaluation
-by the engineers and scientists. Approximately 1,000 miles of magnetic
-tape were used in the 1,056 rolls recorded by the DSIF.
-
-The Central Computing Facility processed and reduced tracking and
-telemetry data from the spacecraft, as recorded and relayed by the
-stations of the DSIF. The tracking information was the basis for orbital
-calculations and command decisions. After delivery of telemetry data on
-magnetic tapes by the DSIF, the CCF stored the data for later reduction
-and analysis. Where telemetry data were being processed in real or
-near-real time, certain critical engineering and scientific functions
-were programmed to print-out an “alarm” reading when selected
-measurements in the data were outside specified limits.
-
-The CCF consists of three stations at JPL: Station C, the primary
-computing facility; Station D, the secondary installation; and the
-Telemetry Processing Station (TPS).
-
-Station C was the principal installation for processing both tracking
-and telemetry data received from the DSIF tracking stations, both in
-real and non-real time. The Station was equipped with a high-speed,
-general-purpose digital computer with a 32,168-word memory and two
-input-output channels, each able to handle 6 tape units. The associated
-card-handling equipment was also available.
-
-Tape translators or converters were provided for converting teletype
-data and other digital information into magnetic tape format for
-computer input. The teletype-to-tape unit operated at a rate of 300
-characters per second.
-
-A smaller computer acted as a satellite of the larger unit, performing
-bookkeeping and such related functions as card punching, card reading,
-and listing.
-
-A high-speed unit microfilmed magnetic-tape printout was received from
-the large computer. It provided “quick-look” copy within 30 minutes of
-processing the raw data. Various paper-tape-to-card and
-card-to-paper-tape converters were used to eliminate human error in
-converting teletype data tape to computer cards.
-
-Station C also utilized another computer as a real-time monitor and to
-prepare a magnetic tape file of all telemetered measurements for input
-to the large computer.
-
-Station D was the secondary or backup computational facility, primarily
-intended for use in case of equipment failure in Station C. During
-certain critical phases of the Mariner mission—launch, orbit
-determination, midcourse maneuver—this facility paralleled the
-operations in Station C.
-
-Station D is equipped with three computers and various card-to-tape
-converters and teletype equipment.
-
-The Telemetry Processing Station received and processed all demodulated
-data (that recovered from the radio carrier) on magnetic tapes recorded
-at the DSIF stations. The TPS output was digital magnetic tapes suitable
-for computer entry.
-
-The TPS equipment included FM discriminators, a code translator, a
-device for converting data from analog to digital form, and
-magnetic-tape recorders. Basically, the equipment accepted the digital
-outputs from the tape units, the analog-to-digital converter, and the
-code translator and put them in digital tape format for the computer
-input.
-
-As the launch operation started on August 27, the powered-flight portion
-of the space trajectories program was run at launch minus 5 minutes (L
-minus 5) and was repeated several times because of holds at AMR. The
-orbit determination program was run at lift-off to calculate the first
-orbit predictions used for aiding the DSIF in finding the spacecraft in
-flight.
-
-During the 12 hours following launch, both C and D Stations performed
-parallel computations on tracking data. Station D discontinued space
-flight operations at L plus 12 hours and resumed at the beginning of the
-midcourse maneuver phase.
-
-Tracking data processing and midcourse maneuver studies were conducted
-daily until the midcourse maneuver was performed at L plus eight days.
-For the following 97 days, tracking data were processed once each week
-for orbit determination. Starting three days before the encounter,
-tracking data were processed daily until the beginning of the encounter
-phase.
-
-Tracking data processing was conducted in near-real time throughout
-encounter day, and daily for two days thereafter. For these three days,
-tracking data were handled in Station D in order to permit exclusive use
-of Station C for telemetry data processing and analysis. After this
-three-day period, including the encounter, Station C processed the
-tracking data every sixth day until the mission terminated on L plus 129
-days.
-
-Telemetry data were processed in a different manner. Following the
-launch, DSIF Station 5 at South Africa received the telemetry signal
-first, demodulated it, and put it in the proper format for teletype
-transmission to JPL. The other DSIF stations followed in sequence as the
-spacecraft was heard in other parts of the world. For two days after
-launch, the computers processed telemetry data as required by the
-Spacecraft Data Analysis Team.
-
-During those periods when the large computer was processing tracking
-data, a secondary unit supplied quick-look data in near-real time. When
-Goldstone was listening to the spacecraft, quick-look data were
-processed in real time, using the high-speed data line direct to the
-Central Computing Facility.
-
-For the 106 days that Mariner was actually in Mode II (cruise), the
-telemetry data were processed twenty-four hours a day, seven days a
-week. Data were presented to the engineering and science analysis teams
-in quick-look format every three hours, except for short maintenance
-interruptions, one computer failure, and a major modification requiring
-three days, when a back-up data process mode of operation was used. The
-large computer performed full processing and analysis of engineering and
-science data seven days a week from launch until the Venus encounter.
-
-On encounter day, the secondary Station C computer processed telemetry
-data from the high-speed Goldstone line. Data on magnetic tapes produced
-by the computer were processed and analyzed by the large unit in
-near-real time every 30 minutes. The computer processing and delivery
-time during this operation varied from 4½ to 7 minutes.
-
-
-
-
-                               CHAPTER 8
-                       THE SCIENTIFIC EXPERIMENTS
-
-
-After a year of concentrated effort, in which the resources of NASA, the
-Jet Propulsion Laboratory, and American science and industry had been
-marshalled, Mariner II had probed secrets of the solar system some
-billions of years old.
-
-Scientists and engineers had studied the miles of data processed in
-California from the tapes recorded at the five DSIF tracking stations
-around the world. Two and a half months of careful analysis and
-evaluation yielded a revised estimate of Venus and of the phenomena of
-space. As a result, the dynamics of the solar system were revealed in
-better perspective and the shrouded planet stood partially unmasked.
-When the Mariner data were correlated with the data gathered by JPL
-radar experiments at Goldstone in 1961 and 1962, the relationships
-between the Earth, Venus, and the Sun became far clearer than ever
-before.
-
-Two experiments were carried on the spacecraft for a close-up
-investigation of Venus’ atmosphere and temperature characteristics—a
-microwave radiometer and an infrared radiometer. They were designed to
-operate during the approximate 35-minute encounter period and at a
-distance varying from about 10,200 miles to 49,200 miles from the center
-of the planet.[2]
-
-    [Illustration: _Cosmic dust detector._]
-
-    [Illustration: _Solar plasma spectrometer._]
-
-  COLLECTOR CUP
-  PROGRAMMER
-  ELECTROMETER
-  DEFLECTION PLATES
-
-    [Illustration: _Magnetometer._]
-
-    [Illustration: _High-energy particle detector._]
-
-  COLLECTOR
-  SHIELD CAN
-  QUARTZ FIBER
-
-    [Illustration: _Microwave and infrared radiometers._]
-
-  REFERENCE HORNS
-  MICROWAVE RADIOMETER
-  INFRARED RADIOMETER
-
-
-                     _Table 2. Mariner Experiments_
-
-  _Experiment_            _Description_           _Experimenters_
-
-  Microwave radiometer    Determine the           Dr. A. H. Barrett,
-                          temperature of the      Massachusetts
-                          planet surface and      Institute of
-                          details concerning      Technology; D. E.
-                          its atmosphere          Jones, JPL; Dr. J.
-                                                  Copeland, Army
-                                                  Ordnance Missile
-                                                  Command and
-                                                  Ewen-Knight Corp.;
-                                                  Dr. A. E. Lilley,
-                                                  Harvard College
-                                                  Observatory
-  Infrared radiometer     Determine the           Dr. L. D. Kaplan, JPL
-                          structure of the        and University of
-                          cloud layer and         Nevada; Dr. G.
-                          temperature             Neugebauer, JPL; Dr.
-                          distributions at        C. Sagan, University
-                          cloud altitudes         of California,
-                                                  Berkeley, and Harvard
-                                                  College Observatory
-  Magnetometer            Measure planetary and   P. J. Coleman, NASA;
-                          interplanetary          Dr. L. Davis,
-                          magnetic fields         Caltech; Dr. E. J.
-                                                  Smith, JPL; Dr. C. P.
-                                                  Sonett, NASA
-  Ion chamber and         Measure high-energy     Dr. H. R. Anderson,
-  matched                 cosmic radiation        JPL; Dr. H. V. Neher,
-  Geiger-Mueller tubes                            Caltech
-  Anton special-purpose   Measure lower           Dr. J. Van Allen and
-  tube                    radiation (especially   L. Frank, State
-                          near Venus)             University of Iowa
-  Cosmic dust detector    Measure the flux of     W. M. Alexander,
-                          cosmic dust             Goddard Space Flight
-                                                  Center, NASA
-  Solar plasma            Measure the intensity   M. Neugebauer and Dr.
-  spectrometer            of low-energy           C. W. Snyder, JPL
-                          positively charged
-                          particles from the Sun
-
-Four experiments for investigation of interplanetary space and the
-regions near Venus employed: a magnetometer; high-energy charged
-particle detectors, including an ionization chamber and Geiger-Mueller
-radiation counters; a cosmic dust detector; and a solar plasma detector.
-
-These six scientific experiments represented the cooperative efforts of
-scientists at nine institutions: The Army Ordnance Missile Command, the
-Ewen-Knight Corp., the California Institute of Technology, the Goddard
-Space Flight Center of NASA, Harvard College Observatory, the Jet
-Propulsion Laboratory, the Massachusetts Institute of Technology, the
-State Universities of Iowa and Nevada, and the University of California
-at Berkeley. Table 2 lists the experiments, the experimenters, and their
-affiliations.
-
-At the Jet Propulsion Laboratory, the integration of the scientific
-experiments and the generation of a number of them were carried out
-under the direction of Dr. Manfred Eimer. R. C. Wyckoff was the project
-scientist and J. S. Martin was responsible for the engineering of the
-scientific experiments.
-
-
-DATA CONDITIONING SYSTEM
-
-Mariner’s scientific experiments were controlled and their outputs
-processed by a data conditioning system which gathered the information
-from the instruments and prepared it for transmission to the Earth by
-telemetry. In this function, the data system acted as a buffer between
-the science systems and the spacecraft data encoder.
-
-The pulse output of certain of the science instruments was counted and
-the voltage amplitude representations of other instruments were
-converted from analog form to a binary digital equivalent of the
-information signals. The data conditioning system also included circuits
-to permit time-sharing of the telemetry channels with the spacecraft
-engineering data, generation of periodic calibration signals for the
-radiometer and magnetometer, and control of the direction and speed of
-the radiometer scanning cycle.
-
-During Mariner’s cruise mode, the data conditioning system was used for
-processing both engineering and science data. If the spacecraft lost
-lock on the Sun or the Earth during the cruise mode, no scientific data
-would be telemetered during the reorientation period. Engineering data
-were sampled and transmitted for about 17 seconds during every 37-second
-interval. The planetary encounter mode involved only science and no
-engineering data transmission. In this mode, the science data were
-sampled during 20-second intervals.
-
-
-COSMIC DUST DETECTOR
-
-The cosmic dust detector on Mariner II was designed to measure the flux
-density, direction, and momentum of interplanetary dust particles
-between the Earth and Venus. These measurements were concerned with the
-particles’ direction and distance from the Sun, the momentum with
-respect to the spacecraft, the nature of any concentrations of the dust
-in streams, variations in cosmic dust flux with distance from the Earth
-and Venus, and the possible effects on manned flight.
-
-Mariner’s cosmic dust instrument could detect a particle as small as
-something like a billionth of a gram, or about five-trillionths of a
-pound. This type of sensor had been used on rockets even before Explorer
-I. It had yielded good results on Pioneer I in the region between the
-Earth and the Moon. The instrument was a 55-square-inch acoustical
-detector plate, or sounding board, made of magnesium. A crystal
-microphone was attached to the center of the plate. The instrument could
-detect both low- and high-momentum particles and also provide a rough
-idea of their direction of travel.
-
-The dust particle counters were read once each 37 seconds during the
-cruise mode. This rate was increased to once each 20 seconds during the
-encounter with Venus.
-
-The instrument was attached to the top of the basic hexagonal structure;
-it weighed 1.85 pounds, and consumed only 0.8 watt of power.
-
-
-SOLAR PLASMA EXPERIMENT
-
-In order to investigate the phenomena associated with the movement of
-plasma (charged particles of low energy and density streaming out from
-the Sun to form the so-called “solar wind”) in interplanetary space,
-Mariner carried a solar plasma spectrometer that measured the flux and
-energy spectrum of positively charged plasma components with energies in
-the range 240 to 8400 volts. The extremely sensitive plasma detector
-unit was open to space, consumed 1 watt of power, and consisted of four
-basic elements: curved electrostatic deflection plates and collector
-cup, electrometer, a sweep amplifier, and a programmer.
-
-The curved deflector plates formed a tunnel that projected from the
-chassis on the spacecraft hexagon in which the instrument was housed.
-Pointed toward the Sun, the gold-plated magnesium deflector plates
-gathered particles from space. Since the walls of the tunnel each
-carried different electrical charges, only particles with just the
-correct energy and speed could pass through and be detected by the
-collector cup without striking the charged walls. A sensitive
-electrometer circuit then measured the current generated by the flow of
-the charged particles reaching the cup.
-
-The deflection plates were supplied by amplifier-generated voltages
-which were varied in 10 steps, each lasting about 18 seconds, allowing
-the instrument to measure protons with energies in the 240 to 8,400
-electron volt range. The programmer switched in the proper voltage and
-resistances.
-
-
-HIGH-ENERGY RADIATION EXPERIMENT
-
-Mariner carried an experiment to measure high-energy radiation in space
-and near Venus. The charged particles measured by Mariner were primarily
-cosmic rays (protons or the nuclei of hydrogen atoms), alpha particles
-(nuclei of helium atoms), the nuclei of other heavier atoms, and
-electrons. The study of these particles in space and those which might
-be trapped near Venus was undertaken in the hope of a better
-understanding of the dynamics of the solar system and the potential
-hazards to manned flight.
-
-The high-energy radiation experiment consisted of an ionization chamber
-and detectors measuring particle flux (velocity times density), all
-mounted in a box measuring 6 × 6 × 2 inches and weighing just under 3
-pounds. The box was attached halfway up the spacecraft superstructure in
-order to isolate the instruments as much as possible from secondary
-emission particles produced when the spacecraft was struck by cosmic
-rays, and to prevent the spacecraft from blocking high-energy radiation
-from space.
-
-The ionization chamber had a stainless steel shell 5 inches in diameter,
-with walls only 1/100-inch thick. The chamber was filled with argon gas
-into which was projected a quartz fibre next to a quartz rod.
-
-A charged particle entering the chamber would leave a wake of ions in
-the argon gas. Negative ions accumulated on the rod, reducing the
-potential between the rod and the spherical shell, eventually causing
-the quartz fibre to touch the rod. This action discharged the rod,
-producing an electrical pulse which was amplified and transmitted to the
-Earth. The rod was then recharged and the fibre returned to its original
-position.
-
-In order to penetrate the walls of the chamber, protons required an
-energy of 10 million electron volts (Mev), electrons needed 0.5 Mev, and
-alpha particles 40 Mev.
-
-The particle flux detector incorporated three Geiger-Mueller tubes, two
-of which formed a companion experiment to the ionization chamber; each
-generated a current pulse whenever a charged particle was detected. One
-tube was shielded by an 8/1,000-inch-thick stainless steel sleeve, the
-other by a 24/1,000-inch-thick electron-stopping beryllium shield. Thus,
-the proportion of particles could be determined.
-
-The third Geiger-Mueller tube was an end-window Anton-type sensor with a
-mica window that admitted protons with energies greater than 0.5 Mev and
-electrons, 40,000 electron volts. A magnesium shield around the rest of
-the tube enabled the instrument to determine the direction of particles
-penetrating only the window.
-
-The three Geiger-Mueller tubes protruded from the box on the
-superstructure of the spacecraft. The end-window tube was inclined 20
-degrees from the others and 70 degrees from the spacecraft-Sun line
-since it had to be shielded from direct solar exposure.
-
-
-THE MAGNETOMETER
-
-Mariner carried a magnetometer to measure the magnetic field in
-interplanetary space and in the vicinity of Venus. Lower sensitivity
-limit of the instrument was about 5 gamma. A gamma is a unit of magnetic
-measurement and is equal to 10⁻⁵ or 1/100,000 oersted, or 1/30,000 of
-the Earth’s magnetic field at the equator. The nails in one of your
-shoes would probably produce a field of about 1 gamma at a distance of
-approximately 4 feet.
-
-Housed in a 6- × 3-inch metal cylinder, the instrument consisted of
-three magnetic core sensors, each aligned on a different axis to read
-the three magnetic field components and having primary and secondary
-windings. The presence of a magnetic field altered the current in the
-secondary winding in proportion to the strength of the field
-encountered.
-
-The magnetometer was attached near the top of the superstructure, just
-below the omni-antenna, in order to remove it as far as possible from
-any spacecraft components having magnetic fields of their own.
-
-An auxiliary coil was wound around each of the instrument’s magnetic
-sensor cores to compensate for permanent magnetic fields existing in the
-spacecraft itself. These spacecraft fields were measured at the
-magnetometer before launch and, in flight, the auxiliary coils carried
-currents of sufficient strength to cancel out the spacecraft’s magnetic
-fields.
-
-The magnetometer reported almost continuously on its journey and for 20
-days after encounter. During the encounter, observations were made each
-20 seconds on each of the three components of the magnetic field.
-
-
-MICROWAVE RADIOMETER
-
-A microwave radiometer on board Mariner II was designed to scan Venus
-during encounter at two wavelengths: 13.5 and 19 millimeters. The
-radiometer was intended to help settle some of the controversies about
-the origin of the apparently high surface temperature emanating from
-Venus, and the value of the surface temperature.
-
-The equipment included a 19-inch-diameter parabolic antenna mounted
-above the basic hexagonal structure on a swivel driven in a 120-degree
-scanning motion by a motor. The radiometer electronics circuits were
-housed behind the antenna dish. The antenna was equipped with a
-diplexer, which allowed it to receive both wavelengths at once without
-interference, and to compare the signals emanating from the two
-reference horns with those from the planet. The reference horns were
-pointed away from the main antenna beam so they would look into deep
-space as Mariner passed Venus. This feature allowed the antenna to
-“bring in” a reference temperature of approximately absolute zero during
-encounter.
-
-The microwave radiometer was to be turned on 10 hours before the
-encounter began. An electric motor was then to start a scanning or
-“nodding” motion of 120 degrees at the rate of 1 degree per second. Upon
-radiometer contact with the planet, this scanning rate would be reduced
-to 1/10 degree per second as long as the planetary disk was scanned. A
-special command system in the data conditioning system would reverse or
-normalize the direction of scan as the radiometer reached the edge or
-limb of the planet.
-
-The signals from the antenna and the reference horns were to be
-processed and the data handled in a receiver, located behind the
-antenna, which measured the difference between the signals from Venus
-and the reference signals from space. The information was then to be
-telemetered to the Earth.
-
-The microwave radiometer was automatically calibrated twenty-three times
-during the mission by a sequence originating in the data conditioning
-system, so that the correct functioning of the instrument could be
-determined before the encounter with Venus.
-
-
-INFRARED RADIOMETER
-
-The infrared radiometer was a companion experiment to the microwave
-instrument and was rigidly mounted to the microwave antenna so that both
-radiometers would look at the same area of Venus with the same scanning
-rate. The instrument detected radiation in the 8 to 9 and 10 to 10.8
-micron regions of the infrared spectrum.
-
-The infrared radiometer had two optical sensors. As the energy entered
-the system, it was “chopped” by a rotating disk, alternately passing or
-comparing emissions from Venus and from empty space. The beam was then
-split by a filter into the two wavelength regions. The output was then
-detected, processed, and transmitted to the Earth.
-
-The infrared radiometer measured 6 inches by 2 inches, weighed 2.7
-pounds, and consumed 2 watts of power. The instrument was equipped with
-a calibration plate which was mounted on a superstructure truss adjacent
-to the radiometer.
-
-
-MARINER’S SCIENTIFIC OBJECTIVES
-
-Equipped with these instruments and with the mechanism for getting the
-measurements back to Earth, Mariner II was prepared to look for the
-answers to some of the questions inherent in its over-all mission
-objectives:
-
-  1. The investigation of interplanetary space between the Earth and
-          Venus, measuring such phenomena as the cosmic dust, the
-          mysterious plasma or solar winds, high-energy cosmic rays from
-          space outside our solar system, charged particles from the
-          Sun, and the magnetic fields of space.
-  2. The experiments to be performed near Venus (at about 21,150 miles
-          out from the surface) in an effort to understand its magnetic
-          fields, radiation belts, the temperature and composition of
-          its clouds, and the temperature and conditions on the surface
-          of the planet.
-
-
-
-
-                               CHAPTER 9
-                         THE LEGACY OF MARINER
-
-
-If intelligent life had existed on Venus on the afternoon of the Earth’s
-December 14, 1962, and if it could have seen through the clouds, it
-might have observed Mariner II approach from the night side, drift down
-closer, cross over to the daylight face, and move away toward the Sun to
-the right. The time was the equivalent of 12:34 p.m. along the Pacific
-Coast of the United States, where the spacecraft was being tracked.
-
-Mariner II had reached the climax of its 180-million-mile, 109-day trip
-through space. The 35-minute encounter with Venus would tell Earth
-scientists more about our sister planet than they had been able to learn
-during all the preceding centuries.
-
-
-SPACE WITHOUT DUST?
-
-Before Mariner, scientists theorized about the existence of clouds of
-cosmic dust around the Sun. A knowledge of the composition, origin, and
-the dynamics of these minute particles is necessary for study of the
-origins and evolution of the solar system.
-
-Tiny particles of cosmic dust (some with masses as low as 1.3 × 10⁻¹⁰
-gram or about one-trillionth of a pound) were thought to be present in
-the solar system and have been recorded by satellites in the near-Earth
-regions.
-
-These microcosmic particles could be either the residue left over after
-our solar system was formed some 5 billion years ago, possibly by
-condensation of huge masses of gas and dust clouds; or, the debris
-deposited within our system by the far-flung and decaying tails of
-passing comets; or, the dust trapped from galactic space by the magnetic
-fields of the Sun and the planets.
-
-Analysis of the more than 1,700 hours of cosmic dust detector data
-recovered from the flight of Mariner II seems to indicate that in the
-region between the Earth and Venus the concentration of tiny cosmic dust
-particles is some ten-thousand times less than that observed near the
-Earth.
-
-During the 129 days (including the post-encounter period) of Mariner’s
-mission, the data showed only one dust particle impact which occurred in
-deep space and not near Venus. Equivalent experiments near Earth (on
-board Earth satellites) have yielded over 3,700 such impacts within
-periods of approximately 500 hours. The cause of this heavy near-Earth
-concentration, the exact types of particles, and their source are still
-unknown.
-
-The cosmic dust experiment performed well during the Mariner mission.
-Although some calibration difficulty was observed about two weeks before
-the Venus encounter, possibly caused by overheating of the sensor
-crystal, there was no apparent effect in the electronic circuits.
-
-
-THE UBIQUITOUS SOLAR WIND
-
-For some time prior to Mariner, scientists postulated the existence of a
-so-called plasma flow or “solar wind” streaming out from the Sun, to
-explain the motion of comet tails (which always point away from the Sun,
-perhaps repelled by the plasma), geomagnetic storms, aurorae, and other
-such disturbances. (Plasma is defined as a gas in which the atoms are
-dissociated into atomic nuclei and electrons, but which, as a whole, is
-electrically neutral.)
-
-The solar wind was thought to drastically alter the configuration of the
-Sun’s external magnetic field. Plasma moving at extreme velocities is
-able to carry with it the lines of magnetic force originating in the
-Sun’s corona and to distort any fields it encounters as it moves out
-from the Sun.
-
-It was believed that these moving plasma currents are also capable of
-altering the size of a planet’s field of magnetic flux. When this
-happens, the field on the sunlit face of the planet is compressed and
-the dark side has an elongated expansion of the field. For example, the
-outer boundary of the Earth’s magnetic field is pushed in by the solar
-wind to about 40,000 miles from the Earth on the sunward side. On the
-dark side, the field extends out much farther.
-
-The solar wind was also known to have an apparent effect on the movement
-of cosmic rays. As the Sun spots increase in the regular 11-year cycle,
-the number of cosmic rays reaching the Earth from outside our solar
-system will decrease.
-
-Mariner II found that streams of plasma are constantly flowing out from
-the Sun. This fluctuating, extremely tenuous solar wind seems to
-dominate interplanetary space in our region of the solar system. The
-wind moves at velocities varying from about 200 to 500 miles per second
-(about 720,000 to 1,800,000 miles per hour), and measures up to perhaps
-a million degrees Fahrenheit (within the subatomic structure).
-
-With the solar plasma spectrometer working at ten different energy
-levels, Mariner required 3.7 minutes to run through a complete energy
-spectrum. During the 123 days, when readings were made, a total of
-40,000 such spectra were recorded. Plasma was monitored on 104 of those
-123 days, and on every one of the spectra, the plasma was always
-present.
-
-Mariner showed that the energies of the particles in the solar winds are
-very low, on the order of a few hundred or few thousand electron volts,
-as compared with the billions and trillions of electron volts measured
-in cosmic radiation.
-
-The extreme tenuousity or low density of the solar wind is difficult to
-comprehend: about 10 to 20 protons (hydrogen nuclei) and electrons per
-cubic inch. But despite the low energy and density, solar wind particles
-in our region of the solar system are billions of times more numerous
-than cosmic rays and, therefore, the total energy content of the winds
-is much greater than that of the cosmic rays.
-
-Mariner found that when the surface of the Sun was relatively inactive,
-the velocity of the wind was a little less than 250 miles per second and
-the temperature a few hundred thousand degrees. The plasma was always
-present, but the density and the velocity varied. Flare activity on the
-Sun seemed to eject clouds of plasma, greatly increasing the velocity
-and density of the winds. Where the particles were protons, their
-energies ranged from 750 to 2,500 electron volts.
-
-The experiment also showed that the velocity of the plasma apparently
-undergoes frequent fluctuations of this type. On approximately twenty
-occasions, the velocity increased within a day or two by 20 to 100%.
-These disturbances seemed to correlate well with magnetic storms
-observed on the Earth. In several cases, the sudden increase in the
-solar plasma flux preceded various geomagnetic effects observed on the
-Earth by only a short time.
-
-The Mariner solar plasma experiment was the first extensive measurement
-of the intensity and velocity spectrum of solar plasma taken far enough
-from the Earth’s field so that the Earth would have no effect on the
-results.
-
-
-HIGH-ENERGY PARTICLES: FATAL DOSAGE?
-
-Speculation has long existed as to the amount of high-energy radiation
-(from cosmic rays and particles from the Sun with energies in the
-millions of electron volts) present within our solar system and as to
-whether exposure would be fatal to a human space traveler.
-
-This high-energy type of ionizing radiation is thought to consist of the
-nuclei of such atoms as hydrogen and helium, and of electrons, all
-moving very rapidly. The individual particles are energetic enough to
-penetrate considerable amounts of matter. The concentration of these
-particles is apparently much lower than that of low-energy plasma.
-
-The experiments were designed to detect three types of high-energy
-radiation particles: the cosmic rays coming from outside the solar
-system, solar flare particles, and radiation trapped around Venus (as
-that which is found in the Earth’s Van Allen Belt).
-
-These high-energy radiation particles (also thought to affect aurorae
-and radio blackouts on the Earth) measure from about one hundred
-thousand electron volts up to billions of volts. The distribution of
-this energy is thought to be uniform outside the solar system and is
-assumed to move in all directions in a pattern remaining essentially
-constant over thousands of years.
-
-Inside the solar system, the amount of such radiation reaching the Earth
-is apparently controlled by the magnetic fields found in interplanetary
-space and near the Earth.
-
-The number of cosmic rays changes by a large amount over the course of
-an 11-year Sun-spot cycle, and below a certain energy level (5,000 Mev)
-few cosmic rays are present in the solar system. They are probably
-deflected by plasma currents or magnetic fields.
-
-Mariner’s charged particles experiment indicated that cosmic radiation
-(bombardment by cosmic rays), both from galactic space and those
-particles originating in the Sun, would not have been fatal to an
-astronaut, at least during the four-month period of Mariner’s mission.
-
-The accumulated radiation inside the counters was only 3 roentgens, and
-during the one solar storm recorded on October 23 and 24, the dosage
-measured only about ¼ roentgen. In other words, the dosage amounts to
-about one-thousandth of the usually accepted “half-lethal” dosage, or
-that level at which half of the persons exposed would die. An astronaut
-might accept many times the dosage detected by Mariner II without
-serious effects.
-
-The experiment also showed little variation in density of charged
-particles during the trip, even with a 30% decrease in distance from the
-Sun, and no apparent increase due to magnetically trapped particles or
-radiation belts near Venus as compared with interplanetary space.
-However, these measurements were made during a period when the Sun was
-slowly decreasing in activity at the end of an 11-year cycle. The Sun
-spots will be at a minimum in 1964-1965, when galactic cosmic rays will
-sharply increase. Further experiments are needed to sample the charged
-particles in space under all conditions.
-
-The lack of change measured by the ionization chamber during the mission
-was significant; the cosmic-ray flux of approximately 3 particles per
-square centimeter per second throughout the flight was an unusually
-constant value. A clear increase in high-energy particles (10 Mev to
-about 800 Mev) emitted by the Sun was noted only once: a flare-up
-between 7:42 and 8:45 a.m., PST, October 23. The ionization chamber
-reading began to increase before the flare disappeared. From a
-background reading of 670 ion pairs per cubic centimeter per second per
-standard atmosphere, it went to a peak value of 18,000, varied a bit,
-and remained above 10,000 for 6 hours before gradually decreasing over a
-period of several days. Meanwhile, the flux of the particles detected by
-the Geiger counter rose from the background count of 3 to a peak of 16
-per square centimeter per second. Ionization thus increased much more
-than the number of particles, indicating to the scientists that the
-high-energy particles coming from the Sun might have had much lower
-average energies than the galactic cosmic rays.
-
-    [Illustration: _Data obtained by microwave radiometer are
-    illustrated at left; results of infrared radiometer experiment are
-    shown at right. Note how moving spacecraft sees more of atmosphere
-    along limb or edge of planet, less in center._]
-
-In contrast, the low-energy experiment detected the October 23 event,
-and eight or ten others not seen by the high-energy detectors. These
-must have been low-penetrating particles excluded by the thicker walls
-of the high-energy instrument. These particles were perhaps protons
-between 0.5 and 10 Mev or electrons between 0.04 and 0.5 Mev.
-
-At 20,000 miles from the Earth, the rate at which high-energy particles
-have been observed has been recorded at several thousand per second.
-With Mariner at approximately the same distance from Venus, the average
-was only one particle per second, as it had been during most of the
-month of November in space. Such a rate would indicate a low planetary
-magnetic field, or one that did not extend out as far as Mariner’s
-21,598-mile closest approach to the surface.
-
-Mariner II measured and transmitted data in unprecedented quantity and
-quality during the long trip. In summary, Mariner showed that, during
-the measuring period, particles were numerous in the energy ranges from
-a few hundred to 1,000 electron volts. Protons in the range 0.5 to 10
-Mev were not numerous, but at times the flux (density) was several times
-that of cosmic rays.
-
-Almost no protons were shown in the 10 to 800 Mev range, except during
-solar flares when the particles in this range were numerous. Above 800
-Mev (primarily those cosmic rays entering interplanetary space from
-outside the solar system) the number decreased rapidly as the energy
-increased, the average total being about 3 per centimeter per second.
-
-During one 30-day period in November and December, the low-energy
-counter saw only two small increases in radiation intensity. At this
-time, the mean velocity of the solar wind was considerably lower than
-during September and October. This might suggest that high-velocity
-plasma and low-energy cosmic rays might both originate from the same
-solar source.
-
-
-A MAGNETIC FIELD?
-
-Prior to the Mariner II mission, no conclusive evidence had ever been
-presented concerning a Venusian magnetic field and nothing was known
-about possible fluid motions in a molten core or other hypotheses
-concerning the interior of the planet.
-
-Scientists assumed that Venus had a field somewhat similar to the
-Earth’s, although possibly reduced in magnitude because of the
-apparently slow rate of rotation and the pressure of solar plasma. Many
-questions had also been raised concerning the nature of the atmosphere,
-charged particles in the vicinity of the planet, magnetic storms, and
-aurorae. Good magnetometer data from Mariner II would help solve some of
-these problems.
-
-Mariner’s magnetometer experiment also sought verification of the
-existence and nature of a steady magnetic field in interplanetary space.
-This would be important in understanding the charged particle balance of
-the inner solar system. Other objectives of the experiment were to
-establish both the direction and the magnitude of long-period
-fluctuations in the interplanetary magnetic field and to study solar
-disturbances and such problems in magnetohydrodynamics (the study of the
-motion of charged particles and their surrounding magnetic fields) as
-the existence and effect of magnetized and charged plasmas in space.
-
-The strength of a planet’s field is thought to be closely related to its
-rate of rotation—the slower the rotation, the weaker the field. As a
-consequence, if Venus’ field is simple in structure like the Earth’s,
-the surface field should be 5 to 10% that of the Earth. If the structure
-of the field is complex, the surface field in places might exceed the
-Earth’s without increasing the field along Mariner’s trajectory to
-observable values.
-
-Most of the phenomena associated with the Earth’s magnetic field are
-likely to be significantly modified or completely absent in and around
-Venus. Auroral displays and the trapping of charged particles in
-radiation belts such as our Van Allen would be missing. The field of the
-Earth keeps low- and moderate-energy cosmic rays away from the top of
-the atmosphere, except in the polar regions. The cosmic ray flux at the
-top of Venus’ atmosphere is likely to correspond everywhere to the high
-level found at the Earth’s poles.
-
-    [Illustration: _As it encountered Venus, Mariner II made three scans
-    of the planet._]
-
-  SUN
-  DIRECTION OF SCAN
-  DATA READINGS (18 TOTAL)
-
-In contrast to Venus, Jupiter, which is ten times larger in mass and
-volume and rotates twice as fast as the Earth, has a field considerably
-stronger than the Earth’s. The Moon has a field on the sunlit side
-(according to Russian measurements) which, because of the Moon’s slow
-rotation rate, is less than ⅓ of 1% of the Earth’s at the Equator. Thus,
-a planet’s rotation, if at a less rapid rate than the Earth’s, seems to
-produce smaller magnetic fields. This theory is consistent with the idea
-of a planetary magnetic field resulting from the dynamo action inside
-the molten core of a rotating planet.
-
-The Sun, on the whole, has a fairly regular dipole field. Superimposed
-on this are some very large fields associated with disturbed regions
-such as spots or flares, which produce fields of very great intensities.
-
-These solar fields are drawn out into space by plasma flow. Although
-relatively small in magnitude, these fields are an important influence
-on the propagation of particles. And the areas in question are very
-large—something on the order of an astronomical unit.
-
-Mariner II seemed to show that, in space, a generally quiet
-magnetic-field condition was found to exist, measuring something less
-than 10 gamma and fluctuating over periods of 1 second to 1 minute.
-
-As Mariner made its closest approach to Venus, the magnetometer saw no
-significant change, a condition also noted by the radiation and solar
-plasma detectors. The magnetic field data looked essentially as they had
-in interplanetary space, without either fluctuations or smooth changes.
-
-The encounter produced no slow changes, nor was there a continuous
-fluctuation as in the interplanetary regions. There was no indication of
-trapped particles or near-Venus modification in the flow of solar
-plasma.
-
-On the Earth’s sunny side, a definite magnetic field exists out to
-40,000 miles, and on the side away from the Sun considerably farther. If
-Venus’ field had been similar to the Earth’s, a reading of 100 to 200
-gamma, a large cosmic-ray count, and an absence of solar plasma should
-have been shown, but none of these phenomena were noted by Mariner.
-
-These results do not prove that Venus definitely has no magnetic field,
-but only that it was not measurable at Mariner’s 21,598-mile point of
-closest approach. The slow rotation rate and the pressure of the solar
-winds probably combine to limit the field to a value one tenth of the
-Earth’s. Since Mariner passed Venus on the sunlit side, readings are
-required on the dark side in order to confirm the condition of the
-magnetic field on that side of the planet, which normally should be
-considerably extended.
-
-
-THE SURFACE: HOW HOT?
-
-Before Mariner, scientists had offered two main theories about the
-surface of Venus: It had either an electrically charged ionosphere
-causing false high-temperature readings on Earth instruments despite a
-cool surface, or a hot surface with clouds becoming increasingly colder
-with altitude.
-
-The cool-surface theory supposed an ionosphere with a layer of electrons
-having a density thousands of times that of the Earth’s upper
-atmosphere. Microwave radiations from this electrical layer would cause
-misleading readings on Earth instruments. As a space probe scanned
-across such an atmosphere, it would see the least amount of charged
-ionosphere when looking straight down, and the most concentrated amount
-while scanning the limb or edge. In the latter case, it would be at an
-angle and would show essentially a thickening effect of the atmosphere
-because of the curvature of the planet.
-
-As the probe approached the edge, the phenomenon known as “limb
-brightening” would occur, since the instruments would see more of the
-electron-charged ionosphere and little if any of the cooler surface. The
-temperature readings would, therefore, be correspondingly higher at the
-limbs.
-
-The other theory, held by most scientists, visualized a hot surface on
-Venus, with no heavy concentration of electrons in the atmosphere, but
-with cooler clouds at higher altitudes. Thus, the spacecraft would look
-at a very hot planet from space, covered by colder, thick clouds.
-Straight down, the microwave radiometer would see the hot surface
-through the clouds. When approaching the limb, the radiations would
-encounter a thicker concentration of atmosphere and might not see any of
-the hot surface. This condition, “limb darkening,” would be
-characterized by temperatures decreasing as the edges of the planet were
-approached.
-
-An instrument capability or resolution much higher than that available
-from the Earth was required to resolve the limb-brightening or
-limb-darkening controversy. Mariner’s radiometer would be able to
-provide something like one hundred times better resolution than the
-Earth-based measurements.
-
-At 11:59 a.m., PST, on December 14, 1962, Mariner’s radiometers began to
-scan the planet Venus in a nodding motion at a rate of 0.1 degree per
-second and reaching an angular sweep of nominally 120 degrees. The
-radiometers had been switched on 6½ hours before the encounter with
-Venus and they continued to operate for another hour afterward.
-
-The microwave radiometer looked at Venus at a wavelength of 13.5
-millimeters and 19 millimeters. The 13.5-millimeter region was the
-location of a microwave water absorption band within the electromagnetic
-spectrum, but it was not anticipated that it would detect any water
-vapor on Venus. These measurements would allow determination of
-atmospheric radiation, averaging the hot temperatures near the surface,
-the warmer clouds at lower levels, and the lower temperatures found in
-the high atmosphere. If the atmosphere were a strong absorber of
-microwave energy at 13.5 millimeters, only the temperature of the upper
-layers would be reported.
-
-Unaffected by water vapor, 19-millimeter radiations could be detected
-from deeper down into the cloud cover, perhaps from near or at the
-planet’s surface. Large temperature differences between the 19- and 13.5
-millimeter readings would indicate the relative amount of water vapor
-present in the atmosphere. The 19-millimeter radiations would also test
-the limb-brightening theory.
-
-During its scanning operation, Mariner telemetered back to Earth about
-18 digital data points, represented as voltage fluctuations in relation
-to time. The first scan was on the dark side, going up on the planet:
-the distance from the surface was 16,479 miles at midscan, and the
-brightness temperature was 369 degrees F. The second scan nearly
-paralleled the terminator (junction of light and dark sides) but crossed
-it going down; it was made from 14,957 miles at midscan and showed a
-temperature of 566 degrees F. The final scan, 13,776 miles at midpoint,
-showed 261 degrees F as it swept across the sunlit side of Venus in an
-upward direction.
-
-The brightness temperature recorded by Mariner’s radiometer is not the
-true temperature of the surface. It is derived from the amount of light
-or radio energy reflected or emitted by an object. If the object is not
-a perfect light emitter, as most are not, then the light and radio
-energy will be some fraction of that returned from a 100% efficient
-body, and the object is really hotter than the brightness measurement
-shows. Thus, the brightness temperature is a minimum reading and in this
-case, was lower than the actual surface temperature.
-
-Mariner’s microwave radiometer showed no significant difference between
-the light and dark sides of Venus and, importantly, higher temperatures
-along the terminator or night-and-day line of the planet. These results
-would indicate no ionosphere supercharged with electrons, but a definite
-limb-darkening effect, since the edges were cooler than the center of
-the planet.
-
-Therefore, considering the absorption characteristics of the atmosphere
-and the emissivity factor derived from earlier JPL radar experiments, a
-fairly uniform 800 degrees F was estimated as a preliminary temperature
-figure for the entire surface.
-
-Venus is, indeed, a very hot planet.
-
-
-CLOUD TEMPERATURES: THE INFRARED READINGS
-
-Mariner II took a close look at Venus’ clouds with its infrared
-radiometer during its 35-minute encounter with the planet. This
-instrument was firmly attached to the microwave radiometer so the two
-devices would scan the same areas of Venus at the same rate and the data
-would be closely correlated. This arrangement was necessary to produce
-in effect a stereoscopic view of the planet from two different regions
-of the spectrum.
-
-Because astronomers have long conjectured about the irregular dark spots
-discernible on the surface of Venus’ atmosphere, data to resolve these
-questions would be of great scientific interest. If the spots were
-indeed breaks in the clouds, they would stand out with much better
-definition in the infrared spectrum. If the radiation came from the
-cloud tops, there would be no breaks and the temperatures at both
-frequencies measured by the infrared radiometer would follow essentially
-the same pattern.
-
-The Venusian atmosphere is transparent to the 8-micron region of the
-spectrum except for clouds. In the 10-micron range, the lower atmosphere
-would be hidden by carbon dioxide. If cloud breaks existed, the 8-micron
-emissions would come from a much lower point, since the lower atmosphere
-is fairly transparent at this wavelength. If increasing temperatures
-were shown in this region, it might mean that some radiation was coming
-up from the surface.
-
-As a result of the Mariner II mission, scientists have hypothecated that
-the cold cloud cover could be about 15 miles thick, with the lower base
-beginning about 45 miles above the surface, and the top occurring at 60
-miles. In this case, the bottom of the cloud layer could be
-approximately 200 degrees F; at the top, the readings vary from about
-minus 30 degrees F in the center of the planet to temperatures of
-perhaps minus 60 degrees to minus 70 degrees F along the edges. This
-temperature gradient would verify the limb-darkening effect seen by the
-microwave radiometer.
-
-At the center of Venus, the radiometer saw a thicker, brighter, hotter
-part of the cloud layer; at the limbs, it could not see so deeply and
-the colder upper layers were visible. Furthermore, the temperatures
-along the cloud tops were approximately equally distributed, indicating
-that both 8- and 10-micron “channels” penetrated to the same depth and
-that both were looking at thick, dense clouds quite opaque to infrared
-radiation.
-
-Both channels detected a curious feature along the lower portion of the
-terminator, or the center line between the night and day sides of the
-planet. In that region, a spot was shown that was apparently about 20
-degrees F colder than the rest of the cloud layer. Such an anomaly could
-result from higher or more opaque clouds, or from such an irregularity
-as a hidden surface feature. A mountain could force the clouds upward,
-thus cooling them further, but it would have to be extremely high.
-
-The data allow scientists to deduce that not enough carbon dioxide was
-present above the clouds for appreciable absorption in the 10-micron
-region. This effect would seem to indicate that the clouds are thick and
-that there is little radiation coming up from the surface. And, if
-present, water vapor content might be 1/1,000 of that in the Earth’s
-atmosphere.
-
-Since the cloud base is apparently at a very high temperature, neither
-carbon dioxide nor water is likely to be present in quantity. Rather,
-the base of the clouds must contain some component that will condense in
-small quantities and not be spectroscopically detected.
-
-As a result of the two radiometer experiments, the region below the
-clouds and the surface itself take on better definition. Certainly,
-heat-trapping of infrared radiation, or a “greenhouse” effect, must be
-expected to support the 800 degree F surface temperature estimated from
-the microwave radiometer data. Thus, a considerable amount of
-energy-blanketing carbon dioxide must be present below the cloud base.
-It is thought that some of the near-infrared sunlight might filter
-through the clouds in small amounts, so that the sky would not be
-entirely black, at least to human eyes, on the sunlit side of Venus.
-There also may be some very small content of oxygen below the clouds,
-and perhaps considerable amounts of nitrogen.
-
-The atmospheric pressure on the surface might be very high, about 20
-times the Earth’s atmosphere or more (equivalent to about 600 inches of
-mercury, compared with our 30 inches). The surface, despite the high
-temperature, is not likely to be molten because of the roughness index
-seen in the earlier radar experiments, and other indicators. However,
-the possibility of small molten metal lakes cannot be totally ignored.
-
-The dense, high-pressure atmosphere and the heat-capturing greenhouse
-effect could combine over long periods of time to carry the extremely
-high temperature around to the dark side of Venus, despite the slow rate
-of rotation, possibly accounting for the relatively uniform surface
-temperatures apparently found by Mariner II.
-
-
-THE RADAR PROFILE: MEASUREMENTS FROM EARTH
-
-In 1961, the Jet Propulsion Laboratory conducted a series of experiments
-from its Goldstone, California, DSIF Station, successfully bouncing
-radar signals off the planet Venus and receiving the return signal after
-it had travelled 70 million miles in 6½ minutes.
-
-In order to complement the Mariner mission to Venus, the radar
-experiments were repeated from October to December, 1962 (during the
-Mariner mission), using improved equipment and refined techniques. As in
-1961, the experiments were directed by W. K. Victor and R. Stevens.
-
-The 1961 experiments used two 85-foot antennas, one transmitting 13
-kilowatts of power at 2,388 megacycles, the other receiving the return
-signal after the round trip to and from Venus. The most important result
-was the refinement of the astronomical unit—the mean distance from the
-Earth to the Sun—to a value of 92,956,200 ±300 miles.
-
-Around 1910, the astronomical unit, plotted by classical optical
-methods, was uncertain to 250,000 miles. Before the introduction of
-radar astronomy techniques such as those used at Goldstone, scientists
-believed that the astronomical unit was known to within 60,000 miles,
-but even this factor of uncertainty would be intolerable for planetary
-exploration.
-
-In radar astronomy, the transit time of a radio signal moving at the
-speed of light (186,000 miles per second) is measured as it travels to a
-planet and back. In conjunction with the angular measurement techniques
-used by earlier investigators, this method permits a more precise
-calculation of the astronomical unit.
-
-Optical and radar measurements of the astronomical unit differ by 50,000
-miles. Further refinement of both techniques should lessen the
-discrepancy between the two values.
-
-The 1961 tests also established that Venus rotates at a very slow rate,
-possibly keeping the same face toward the Sun at all times. The
-reflection coefficient of the planet was estimated at 12%, a bright
-value similar to that of the Earth and contrasted with the Moon’s 2%.
-The average dielectric constant (conductivity factor) of the surface
-material seemed to be close to that of sand or dust, and the surface was
-reported to be rough at a wavelength of 6 inches.
-
-The surface roughness was confirmed in 1962. Since it is known that a
-rough surface will scatter a signal, the radar tests were observed for
-such indications. Venus had a scattering effect on the radar waves
-similar to the Moon’s, probably establishing the roughness of the
-Venusian surface as more or less similar to the lunar terrain.
-
-Some of the most interesting work was done in reference to the rotation
-rate of Venus. A radar signal will spread in frequency on return from a
-target planet that is rotating and rough enough to reflect from a
-considerable area of its surface. The spread of 5 to 10 cycles per
-second noted on the Venus echo would suggest a very slow rotation rate,
-perhaps keeping the same face toward the Sun, or possibly even in a
-retrograde direction, opposite to the Earth’s.
-
-In the Goldstone 1962 experiments, Venus was in effect divided into
-observation zones and the doppler effect or change in the returned
-signal from these zones was studied. The rate of rotation was derived
-from three months of sampling with this radar mapping technique. Also,
-the clear, sharp tone characteristic of the transmitted radar signal was
-altered on return from Venus into a fuzzy, indistinct sound. This effect
-seemed to confirm the slow retrograde rotation (as compared with the
-Earth) indicated by the radar mapping and frequency change method.
-
-In addition to these methods of deducing the slow rotation rate, two
-other phenomena seemed to verify it: a slowly fluctuating signal
-strength, and the apparent progression of a bright radar spot across
-from the center of Venus toward the outside edge.
-
-As a result, JPL scientists revised their 1961 estimate of an equal
-Venusian day and year consisting of 225 Earth days. The new value for
-Venus’ rotation rate around its axis is 230 Earth days plus or minus 40
-to 50 days, and in a retrograde direction (opposite to synchronous or
-Sun-facing), assuming that Venus rotates on an axis perpendicular to the
-plane of its orbit.
-
-Thus, on Venus the Sun would appear to rise in the west and cross to the
-east about once each Venusian year. If the period were exactly 225 days
-retrograde, the stars would remain stationary in the sky and Venus would
-always face a given star rather than the Sun.
-
-A space traveller hovering several million miles directly above the Sun
-would thus see Venus as almost stopped in its rotation and possibly
-turning very slowly clockwise. All the other planets of our system
-including the Earth, rotate counterclockwise, except Uranus, whose axis
-is almost parallel to the plane of its orbit, making it seem to roll
-around the Sun on its side. The rotation direction of distant Pluto is
-unknown.
-
-The Goldstone experiments also studied what is known as the Faraday
-rotation of the plane of polarization of a radio wave. The results
-indicated that the ionization and magnetic field around Venus are very
-low. These data tend to confirm those gathered by Mariner’s experiments
-close to the planet.
-
-The mass of Venus was another value that had never been precisely
-established. The mass of planetary bodies is determined by their
-gravitational effect on other bodies, such as satellites. Since Venus
-has no known natural satellite or moon, Mariner, approaching closely
-enough to “feel” its gravity, would provide the first opportunity for
-close measurement.
-
-The distortion caused by Venus on Mariner’s trajectory as the spacecraft
-passed the planet enabled scientists to calculate the mass with an error
-probability of 0.015%. The value arrived at is 0.81485 of the mass of
-the Earth, which is known to be approximately 13.173 septillion
-(13,173,000,000,000,000,000,000,000) pounds. Thus, the mass of Venus is
-approximately 10.729 septillion (10,729,408,500,000,000,000,000,000)
-pounds.
-
-In addition to these measurements, the extremely precise tracking system
-used on Mariner proved the feasibility of long-range tracking in space,
-particularly in radial velocity, which was measured to within 1/10 of an
-inch per second at a distance of about 54 million miles.
-
-As the mission progressed, the trajectory was corrected with respect to
-Venus to within 10 miles at encounter. An interesting result was the
-very precise location of the Goldstone and overseas tracking stations of
-the DSIF. Before Mariner II, these locations were known to within 100
-yards. After all the data have been analyzed, these locations will be
-redefined or “relocated” to within an error of only 20 yards.
-
-Mariner not only made the first successful journey to Venus—it also
-helped pinpoint spots in the Californian and Australian deserts and the
-South African veldt with an accuracy never before achieved.
-
-
-
-
-                               CHAPTER 10
-                         THE NEW LOOK OF VENUS
-
-
-The historic mission of Mariner II to the near-vicinity of Venus and
-beyond has enabled scientists to revise many of their concepts of
-interplanetary space and the planet Venus.
-
-The composite picture, taken from the six experiments aboard the
-spacecraft and the data from the DSIF radar experiments of 1961 and 1962
-revealed the following:
-
-
-—Interplanetary space between the Earth and Venus, at least as it was
-  during the four months of Mariner’s mission, had a cosmic dust density
-  some ten-thousand times lower than the region immediately surrounding
-  the Earth.
-
-—During this period, the extremely tenuous, widely fluctuating solar
-  winds streamed continually out from the Sun, at velocities ranging
-  from 200 to 500 miles per second.
-
-—An astronaut travelling through these regions in the last quarter of
-  1962 would not have been seriously affected by the cosmic and
-  high-energy radiation from space and the Sun. He could easily have
-  survived many times the amount of radiation detected by Mariner’s
-  instruments.
-
-—111
-
-—The astronomical unit, as determined by radar, the yardstick of our
-  solar system, stands at 92,956,200, plus or minus 300 miles.
-
-—The mass of Venus in relation to the Earth’s is 0.81485, with an error
-  probability of 0.015%.
-
-—The rotation rate of Venus is quite slow and is now estimated as equal
-  to 230 Earth days, plus or minus 40 to 50 days. The rotation might be
-  retrograde, clockwise with respect to a Sun-facing reference, with the
-  Sun rising in the west and setting in the east approximately one
-  Venusian year later. The planet seems to remain nearly star-fixed
-  rather than permanently oriented with one face to the Sun.
-
-—Venus has no magnetic field discernible at the 21,598-mile approach of
-  Mariner II and at that altitude there were no regions of trapped
-  high-energy particles or radiation belts, as there are near the Earth.
-
-—The clouds of Venus are about 15 miles thick, extending from a base 45
-  miles above the surface to a top altitude of about 60 miles.
-
-—At the resolution of the Mariner II infrared radiometer, there were no
-  apparent breaks in the cloud cover. Cloud-top temperature readings are
-  about minus 30 degrees F near the center (along the terminator), and
-  ranging down to minus 60 degrees to minus 70 degrees F at the limbs,
-  showing an apparent limb-darkening effect, which would indicate a hot
-  surface and the absence of a supercharged ionosphere.
-
-—A spot 20 degrees F colder than the surrounding area exists along the
-  terminator in the southern hemisphere: a high mountain could exist in
-  this region, but such an hypothesis is purely conjectural. A bright
-  radar reflection is also found on the Equator in the same general
-  region. Causes of these phenomena are not established.
-
-—At their base, the clouds are about 200 degrees F and probably are
-  comprised of condensed hydrocarbons held in oily suspension. Below the
-  clouds, the atmosphere must be heavily charged with carbon dioxide,
-  may contain slight traces of oxygen, and probably has a strong
-  concentration of nitrogen.
-
-—112
-
-—As determined by the microwave radiometer, Venus’ surface temperature
-  averages approximately 800 degrees F on both light and dark sides of
-  the planet. Some roughness is indicated and the surface reflectivity
-  is equivalent to that of dust and sand. No water could be present at
-  the surface but there is some possibility of small lakes of molten
-  metal of one type or another.
-
-—Some reddish sunlight, in the filterable infrared spectrum, may find
-  its way through the 15-mile-thick cloud cover, but the surface is
-  probably very bleak.
-
-—The heavy, dense atmosphere creates a surface pressure of some twenty
-  times that found on the Earth, or equal to about 600 inches of
-  mercury.
-
-
-The mission was completed and the spacecraft had gone into an endless
-orbit around the Sun. But before Mariner II lost its sing-song voice, it
-produced 13 million data words of computer space lyrics to accompany the
-music of the spheres.
-
-
-
-
-                                APPENDIX
-                             SUBCONTRACTORS
-
-
-Thirty-four subcontractors to JPL provided instruments and other
-hardware for Mariners I and II.
-
-The subcontractors were:
-
-  Aeroflex Corporation                 Jet vane actuators
-    Long Island City, New York
-  American Electronics, Inc.           Transformer-rectifiers for flight
-    Fullerton, California                telecommunications
-  Ampex Corporation                    Tape recorders for ground telemetry
-    Instrumentation Division             and data handling equipment
-    Redwood City, California
-  Applied Development Corporation      Decommutators and teletype encoders
-    Monterey Park, California            for ground telemetry equipment
-  Astrodata, Inc.                      Time code translators, time code
-    Anaheim, California                  generators, and spacecraft signal
-                                         simulators for ground telemetry
-                                         equipment
-  Barnes Engineering Company           Infrared radiometers
-    Stamford, Connecticut                Planet simulator
-  Bell Aerospace Corporation           Accelerometers and associated
-    Bell Aerosystems Division            electronic modules
-    Cleveland, Ohio
-  Computer Control Company, Inc.       Data conditioning systems
-    Framingham, Massachusetts
-  Conax Corporation                    Midcourse propulsion explosive
-    Buffalo, New York                    valves
-                                         Squibs
-  Consolidated Electrodynamics Corp.   Oscillographs for data reduction
-    Pasadena, California
-  Consolidated Systems Corporation     Scientific instruments
-    Monrovia, California                 Operational support equipment
-  Dynamics Instrumentation Company     Isolation amplifiers for telemetry
-    Monterey Park, California            Operational support equipment
-  Electric Storage Battery Company     Spacecraft batteries
-    Missile Battery Division
-    Raleigh, North Carolina
-  Electro-Optical Systems, Inc.        Spacecraft power conversion
-    Pasadena, California                 equipment
-  Fargo Rubber Corporation             Midcourse propulsion fuel tank
-    Los Angeles, California              bladders
-  Glentronics, Inc.                    Power supplies for data
-    Glendora, California                 conditioning system
-  Groen Associates                     Actuators for solar panels
-    Sun Valley, California
-  Houston Fearless Corporation         Pin pullers
-    Torrance, California
-  Kearfott Division                    Gyroscopes
-    General Precision, Inc.
-    Los Angeles, California
-  Marshall Laboratories                Magnetometers and associated
-    Torrance, California                 operational support equipment
-  Matrix Research and Development      Power supplies for particle flux
-    Corporation                          detectors
-    Nashua, New Hampshire
-  Menasco Manufacturing Company        Midcourse propulsion fuel tanks and
-    Burbank, California                  nitrogen tanks
-  Midwestern Instruments               Oscillographs for data reduction
-    Tulsa, Oklahoma
-  Mincom Division                      Tape recorders for ground telemetry
-    Minnesota Mining & Manufacturing     and data handling equipment
-    Los Angeles, California
-  Motorola, Inc.                       Spacecraft command subsystems,
-    Military Electronics Division        transponders, and associated
-    Scottsdale, Arizona                  operational support equipment
-  Nortronics                           Attitude control gyro electronic,
-    Division of Northrop Corporation     autopilot electronic, and antenna
-    Palos Verdes Estates, California     servo electronic modules,
-                                         long-range Earth sensors and Sun
-                                         sensors
-  Ransom Research                      Verification and ground command
-    Division of Wyle Laboratories        modulation equipment
-    San Pedro, California
-  Rantec Corporation                   Transponder circulators and monitors
-    Calabasas, California
-  Ryan Aeronautical Company            Solar panel structures
-    Aerospace Division
-    San Diego, California
-  Spectrolab                           Solar cells and their installation
-    Division of Textron Electronics,     and electrical connection on
-    Inc.                                 solar panels
-    North Hollywood, California
-  State University of Iowa             Calibrated Geiger counters
-    Iowa City, Iowa
-  Sterer Engineering & Manufacturing   Valves and regulators for midcourse
-    Company                              propulsion and attitude control
-    North Hollywood, California          systems
-  Texas Instruments, Inc.              Spacecraft data encoders and
-    Apparatus Division                   associated operational support
-    Dallas, Texas                        equipment, ground telemetry
-                                         demodulators
-  Trans-Sonic, Inc.                    Transducers
-    Burlington, Massachusetts
-
-In addition to these subcontractors, over 1,000 other industrial firms
-contributed to the Mariner Project.
-
-
-
-
-                               FOOTNOTES
-
-
-[1]Throughout this book “Mariner” refers to the successful Mariner II
-    Venus mission. Mariner I was launched earlier but was destroyed when
-    the launch vehicle flew off course.
-
-[2]For scientific reasons, distances from Venus are calculated from the
-    center of the planet. Hereafter in this chapter, these distances
-    will be reckoned from the surface.
-
-
-
-
-                                 INDEX
-
-
-                                   A
-  ABMA, 17
-  Agena B, 21, 22, 40
-  Antennas, 66
-      Goldstone, description, 70, 71, 73
-      onboard, description, 30, 31
-          directional control, 30
-      Pioneer tracking site, 70, 71
-  ARPA, 17
-  Astronomical unit, 111
-      refinement, 107
-  Atlantic Missile Range, 2, 10, 43, 83
-  Atlas-Agena B, 63, 52
-  Atlas D, 19, 21, 36-39, 89
-  Attitude control
-      Atlas D, 38
-      Earth acquisition, 58
-      loss of control and reorientation, 56, 60
-  Attitude control system, 31, 32
-
-
-                                    B
-  Battery, 25, 27
-  Bumper-WAC, 18
-
-
-                                    C
-  C-133 aircraft, 43
-  Centaur, 8
-  Central Computer and Sequencer, 28
-      commands, 56, 58
-      failure at encounter, 62
-      midcourse maneuver control, 59
-  Central Computing Facility, 81, 82
-  Charged particles, 13, 90
-  Charged particle detector, 35, 88
-  Computers, data processing, 84
-  Corporal E, 18
-  Cosmic dust, 13
-      density, 110
-      distribution and mass, 94, 95
-      measurement, 89
-  Cosmic dust detector, 35, 68, 87, 89
-  Cosmic radiation, 13, 96
-  Cosmic ray flux, 98
-
-
-                                    D
-  Data conditioning system, 88
-  Data processing, 30, 74, 85
-      CCF, equipment and operation, 82, 83
-      launch and tracking operations, 83
-      telemetry data, 84
-      transmission time, 88
-  Detectors
-      charged particle, 35
-      cosmic dust, 35
-      solar plasma, 35
-  DSIF, 73, 74, 75, 82, 83, 84
-      functions, 68
-      Goldstone, 1, 64, 67-79, 68, 69, 70, 71, 73, 75, 84, 107, 108,
-          109
-      Johannesburg, 64, 67, 68, 73
-      Mobile, 68, 73, 80
-      tracking during midcourse maneuver, 56
-      orientation, 56
-      Woomera, 67, 68, 71, 73, 75
-
-
-                                    E
-  Earth sensor
-      final orientation commands, 64
-      September 8, crises and recovery, 60
-  Echo Project, 69
-  Echo site functions, 71
-  Electronics equipment weight, 25
-  Explorer I, 19
-  Experiments, 35
-      Anton special purpose tube, 87
-      atmospheric investigation, 85
-      charged particle detector, 88, 96-100
-          density variation data, 98
-          radiation hazard findings, 98
-      cosmic dust detector data, 87-89, 94, 95
-      high energy radiation, 90
-      infrared radiometer, 87, 93
-      ion chamber and Geiger-Mueller tubes, 87
-      magnetometers, 87, 88
-      microwave radiometer, 87, 91-93
-      objectives, 13, 93
-      processing of data, 85
-      radiometers, 85, 105, 106
-      responsible organizations, 88
-      results, 110-112
-      solar plasma detector, 87-90
-      temperature investigation, 85
-      transmission of data, 88
-      weight, 25
-
-
-                                    G
-  Geiger counter, 98
-  Geiger-Mueller tubes, 87, 91
-  George C. Marshall Space Flight Center, 13, 17
-  Goldstone Tracking Station, 64, 67, 69, 75, 84, 107
-      Echo site, 68, 69, 71, 73
-      Pioneer site, 56, 68, 70
-      Venus site, 69, 70, 108, 109
-  Guidance, 13
-
-
-                                    H
-  High-energy radiation experiments, 90, 91
-
-
-                                    I
-  Infrared radiometer experiment
-      cloud observations, 103, 105, 106
-      description, 93
-      dimensions, 93
-      operating characteristics, 85, 93
-  Interplanetary magnetic field, 13, 99
-  Interplanetary space
-      cosmic dust density, 110
-          distribution, 95
-      hazards to spacecraft, 13
-  Ion chamber, 98
-
-
-                                    J
-  Johannesburg tracking station, 67, 68
-      equipment, 68, 73
-      functions, 68, 73
-  JPL, 2, 8, 13, 75, 76, 80, 82, 84
-      accomplishments, 18, 19
-      background, 18
-      DSIF control point, 67, 68
-      pre-Mariner spacecraft, 23
-  Jupiter, contrast to Venus, 101
-  Jupiter C, 19
-
-
-                                    L
-  Launch Operations Center, 12, 17
-  Launching, 56
-      Atlas performance, 52, 53
-      Atlas-Agena B, 52
-      battery, 52
-      gyroscopes, 53
-      radio guidance system, 52
-      time limitations, 12
-
-
-                                    M
-  Magnetometer experiment, 35, 88
-      data, 101, 102
-      description, 91
-      function, 91
-      objectives, 100
-      onboard location, 91
-  Mariner I, 43-45
-  Mariner R, 41
-  Masers, 70
-  Materials, thermal shielding, 33
-  Microwave radiometer experiment
-      description, 91
-      function, 91
-      measurements, 103, 105
-      operating characteristics, 85, 92-93
-  Midcourse maneuver, 32, 58-59, 60, 65
-  Mission achievements, records, 65
-  Mobile tracking station, 68, 80
-      location, equipment and function, 73
-  MX-774 Project, 21
-
-
-                                    N
-  NACA, precursor of NASA, 16
-  NASA, 8, 16, 17
-
-
-                                    P
-  Parking orbit, 55
-  Pioneer III, 19
-  Pioneer IV, 19
-  Pioneer project, 69
-  Pioneer tracking site, 70, 71
-  Power system, 25
-  Private A, 18
-  Propellants
-      Atlas D, 38
-      attitude control system, 32
-      spacecraft, controlled burning, 32
-          rocket thrust system, 32
-  Propulsion system, Mariner
-      spacecraft, hydrazine propellant, 33
-          propellant storage, 32, 38
-      weight, 25
-
-
-                                    R
-  Radiation, 98-100
-  Ranger III, 8
-  Receivers, 66
-  Records, Mariner
-      attitude control system, 65
-      measurements near Sun, 65
-      operation near Venus
-      telemetry measurements, distance, 65
-      trajectory correction maneuver, 65
-      transmission, continuous performance, 65
-
-
-                                    S
-  Sensors
-      Earth, for attitude control, 32
-      Sun, for attitude control, 32
-  Sergeant missile, 19
-  Shielding, 33, 34
-  Solar cells, 27, 28
-  Solar flares, 98, 99
-  Solar panels
-      description, 25
-      design, 27
-      output deterioration, 61
-      release, 11
-      support, 25
-      weight, 27
-  Solar plasma detector, 35, 88, 96, 97
-      description, 87, 89, 90
-      function, 87, 89, 90
-      recordings, 96, 97
-  Solar plasma flux
-      correlation with geomagnetic effects, 97
-  Solar wind
-      effects on cosmic-ray movements, 96
-          magnetic fields, 95, 96
-      low density and energy, 96
-      measurement, 89
-      particle concentration near Earth, 96
-      particle energies, 96
-      temperature, 96
-      theories, 95
-      velocities, 13, 95, 96, 97, 110
-  Space Flight Operations Center, 60
-      organization and operation, 75, 80, 81
-  Space simulator, temperature control, 41
-  Spacecraft, 31
-      attitude control system, 31
-      Central Computer and Sequencer, 28
-      components and subsystems, 27
-      configuration, 23
-      electronic equipment, 25
-      frame materials, 23, 25
-      launching, 12
-      power system, 25
-      preliminary design, 41
-      propulsion system, 32
-      shroud and adapter, 43
-      system tests, 41
-      telecommunications subsystem, 30
-      temperature, 33
-      test models, 41
-      testing, 23
-      trajectory, 11
-      weight, 25
-  Sun sensor, 32
-
-
-                                    T
-  Telemetry
-      continuous transmission, 65
-      data processing, 84
-      description, 30
-      loss of monitoring data, 62
-      phase-shift modulation, 30
-      transmission cutoff, 64
-  Telemetry processing station, 82, 83
-  Telemetry system
-      data processing, 30
-      onboard, description, 30
-  Temperature control
-      coatings, 34
-      heating problems, 62
-      housing structures, 35
-      materials, 33
-      problems, 33
-      solar panels, 35
-      solar radiation shielding, 35
-      thermal shielding, 33
-  Tracking
-      Antigua, 53
-      Ascension, 53, 55
-      DSIF, 52, 66, 67, 68, 69
-      Earth noise, 66
-      Grand Bahama Island, 53
-      Johannesburg, 56
-      Pretoria, 53, 55
-      problems, 66
-      radio noise, 66
-      San Salvador, 53
-      solar noise, 66
-      Twin Falls Victory, 53, 55
-      Whiskey, 55
-      Woomera, 56
-  Trajectory, 11, 63, 64, 83
-
-
-                                    V
-  V-2 rocket, 18
-  Van Allen radiation belt, 19, 97
-  Venus
-      atmosphere, 3, 5, 104, 105, 112
-      atmospheric temperature, 85
-      atmospheric winds, 5
-      CO₂ content above clouds, 106
-      cloud cover, 105, 106
-      cloud observations, 104, 105
-      clouds, data, 111
-      compared with Earth, 5
-      description, 4
-      dielectric constant, surface material, 107
-      encounter, 93, 94
-      historical data, 2
-      inferior and superior conjunctions, 4
-      magnetic field, 98, 100, 111
-          comparison with geomagnetic, 100, 101
-          data, 100, 101, 102
-          strength, 100, 101, 102
-      mass, 109, 111
-      orbit, 4
-      radar experiments, 1961, 106, 107
-      radar experiments during mission, 107
-      reflection coefficient, 107
-      revolution, 4
-      rotation, 4, 101, 108, 111
-      surface, 106
-      brightness temperature, 103, 104
-      characteristics, theories, 102, 103
-      “greenhouse” effect, 106
-      measurements, 103, 104
-      pressure, 112
-      reflectivity, 111
-      roughness, 107, 108
-      temperature, 106, 111
-      temperature, 85, 111
-      topography, 5
-      water vapor in atmosphere, 106
-  Venus encounter, 63
-
-
-                                    W
-  WAC Corporal, 18
-  Woomera Tracking Station, 67, 68, 75
-      equipment, 68, 71, 73
-
-
-
-
-                          Transcriber’s Notes
-
-
-—Retained publication information from the printed edition: this eBook
-  is public-domain in the country of publication.
-
-—In the text versions only, text in italics is delimited by
-  _underscores_.
-
-—Silently corrected a few typos.
-
-—In the index, entry “propellant storage”, replaced one nonsensical page
-  number (200) with a plausible conjecture (38).
+Outubro de 1882.
+
+
+[1]Cerca de dous annos para cá, recebi duas cartas anonymas, escriptas
+por pessôa intelligente e sympathica, em que me foi notado o uso
+do vocabulo _reproche._ Não sabendo como responda ao meu estimavel
+correspondente, aproveito esta occasião.
+
+_Reproche_ não é gallicismo. Nem _reproche_ nem _reprochar._ Moraes
+cita, para o verbo, este trecho dos _Ined._ II fl. 259: "hum non tinha
+que _reprochar_ ao outro;" e aponta os logares de Fernando de Lucena,
+Nunes de Leão e D. Francisco Manoel de Mello, em que se encontra o
+substantivo _reproche._ Os hespanhoes tambem os possuem.
+
+Resta a questão de euphonia. _Reproche_ não parece mal soante. Tem
+contra si o desuso. Em todo caso, o vocabulo que lhe está mais proximo
+no sentido, _exprobração_, acho que é insupportavel. Dahi a minha
+insistencia em preferir o outro, devendo notar-se que não o vou buscar
+para dar ao estylo um verniz de extranheza, mas quando a ideia o traz
+comsigo.
+
+
+
+
+O ALIENISTA
+
+
+I
+
+DE COMO ITAGUAHY GANHOU UMA CASA DE ORATES
+
+
+As chronicas da villa de ltaguahy dizem que em tempos remotos vivera
+alli um certo medico, o Dr. Simão Bacamarte, filho da nobreza da terra
+e o maior dos medicos do Brazil, de Portugal e das Hespanhas. Estudara
+em Coimbra e Padua. Aos trinta e quatro annos regressou ao Brazil,
+não podendo el-rei alcançar delle que ficasse em Coimbra, regendo a
+universidade, ou era Lisboa, expedindo os negocios da monarchia.
+
+--A sciencia, disse elle a Sua Magestade, é o meu emprego unico;
+ltaguahy é o meu universo.
+
+Dito isto, metteu-se em ltaguahy, e entregou-se de corpo e alma ao
+estudo da sciencia, alternando as curas com as leituras, e demonstrando
+os theoremas com cataplasmas. Aos quarenta annos casou com D. Evarista
+da Costa e Mascarenhas, senhora de vinte e cinco annos, viuva de
+um juiz de fóra, e não bonita nem sympathica. Um dos tios delle,
+caçador de pacas perante o Eterno, e não menos franco, admirou-se de
+semelhante escolha e disse-lh'o. Simão Bacamarte explicou-lhe que
+D. Evarista reunia condições physiologicas e anatomicas de primeira
+ordem, digeria com facilidade, dormia regularmente, tinha bom pulso,
+e excellente vista; estava assim apta para dar-lhe filhos robustos,
+sãos e intelligentes. Se além dessas prendas,--unicas dignas da
+preoecupação de um sabio, D. Evarista era mal composta de feições,
+longe de lastimal-o, agradecia-o a Deus, porquanto não corria o risco
+de preterir os interesses da sciencia na contemplação exclusiva, miuda
+e vulgar da consorte.
+
+D. Evarista mentiu ás esperanças do Dr. Bacamarte, não lhe deu filhos
+robustos nem mofinos. A indole natural da sciencia é a longanimidade;
+o nosso medico esperou tres annos, depois quatro, depois cinco. Ao
+cabo desse tempo fez um estudo profundo da materia, releu todos os
+escriptores arabes e outros, que trouxera para Itaguahy, enviou
+consultas ás universidades italianas e allemãs, e acabou por aconselhar
+á mulher um regimen alimenticio especial. A illustre dama, nutrida
+exclusivamente com a bella carne de porco de Itaguahy, não attendeu
+ás admoestações do esposo; e á sua resistencia,--explicavel, mas
+inqualificavel,--devemos a total extincção da dynastia dos Bacamartes.
+
+Mas a sciencia tem o ineffavel dom de curar todas as magoas; o nosso
+medico mergulhou inteiramente no estudo e na pratica da medicina. Foi
+então que um dos recantos desta lhe chamou especialmente a attenção,--o
+recanto psychico, o exame da pathologia cerebral. Não havia na
+colonia, e ainda no reino, uma só autoridade em semelhante materia,
+mal explorada, ou quasi inexplorada. Simão Bacamarte comprehendeu que
+a sciencia lusitana, e particularmente a brazileira, podia cobrir-se
+de «louros immarcessiveis,»--expressão usada por elle mesmo, mas em um
+arroubo de intimidade domestica; exteriormente era modesto, segundo
+convém aos sabedores.
+
+--A saude da alma, bradou elle, é a occupação mais digna do medico.
+
+--Do verdadeiro medico, emendou Crispim Soares, boticario da villa, e
+um dos seus amigos e comensaes.
+
+A vereança de Itaguahy, entre outros peccados de que é arguida pelos
+chronistas, tinha o de não fazer caso dos dementes. Assim é que cada
+louco furioso era trancado em uma alcova, na propria casa, e, não
+curado, mas descurado, até que a morte o vinha defraudar do beneficio
+da vida; os mansos andavam á solta pela rua. Simão Bacamarte entendeu
+desde logo reformar tão ruim costume; pediu licença á camara para
+agasalhar e tratar no edificio que ia construir todos os loucos de
+Itaguahy e das demais villas e cidades, mediante um estipendio, que
+a camara lhe daria quando a familia do enfermo o não podesse fazer.
+A proposta excitou a curiosidade de toda a villa, e encontrou grande
+resistencia, tão certo é que difficilmente se desarraigam habitos
+absurdos, ou ainda máus. A idéa de metter os loucos na mesma casa,
+vivendo em commum, pareceu em si mesma um symptoma de demencia, e não
+faltou quem o insinuasse á propria mulher do medico.
+
+--Olhe, D. Evarista, disse-lhe o padre Lopes, vigario do logar, veja
+se seu marido dá um passeio ao Rio de Janeiro. Isso de estudar sempre,
+sempre, não é bom, vira o juizo.
+
+D. Evarista ficou aterrada, foi ter com o marido, disse-lhe «que estava
+com desejos», um principalmente, o de vir ao Rio de Janeiro e comer
+tudo o que a elle lhe parecesse adequado a certo fim. Mas aquelle
+grande homem, com a rara sagacidade que o distinguia, penetrou a
+intenção da esposa e redarguiu-lhe sorrindo que não tivesse medo. Dalli
+foi á camara, onde os vereadores debatiam a proposta, e defendeu-a com
+tanta eloquencia, que a maioria resolveu autorisal-o ao que pedira,
+votando ao mesmo tempo um imposto destinado a subsidiar o tratamento,
+alojamento e mantimento dos doudos pobres. A materia do imposto não
+foi facil achal-a, tudo estava tributado em Itaguahy. Depois de
+longos estudos, assentou-se em permittir o uso de dous pennachos nos
+cavallos dos enterros. Quem quizesse emplumar os cavallos de um coche
+mortuario pagaria dois tostões á camara, repetindo-se tantas vezes esta
+quantia quantas fossem as horas decorridas entre a do fallecimento e
+a da ultima benção na sepultura. O escrivão perdeu-se nos calculos
+arithmeticos do rendimento possivel da nova taxa: e um dos vereadores,
+que não acreditava na empreza do medico, pediu que se relevasse o
+escrivão de um trabalho inutil.
+
+--Os calculos não são precisos, disse elle, porque o Dr. Bacamarte não
+arranja nada. Quem é que viu agora metter todos os doudos dentro da
+mesma casa?
+
+Enganava-se o digno magistrado; o medico arranjou tudo. Uma vez
+empossado da licença começou logo a construir a casa. Era na rua Nova,
+a mais bella rua de Itaguahy naquelle tempo, tinha cincoenta janellas
+por lado, um pateo no centro, e numerosos cubiculos para os hospedes.
+Como fosse grande arabista, achou no Koran que Mahomet declara
+veneraveis os doudos, pela consideração de que Allah lhes tira o juizo
+para que não pequem. A idéa pareceu-lbe bonita e profunda, e elle a fez
+gravar no frontespicio da casa; mas, como tinha medo ao vigario, e por
+tabella ao bispo, attribuiu o pensamento a Benedicto VIII, merecendo
+com essa fraude, aliás pia, que o padre Lopes lhe contasse, ao almoço,
+a vida daquelle pontifice eminente.
+
+A Casa Verde foi o nome dado ao asylo, por allusão á côr das janellas,
+que pela primeira vez appareciam verdes em Itaguahy. Inaugurou-se com
+immensa pompa; de todas as villas e povoações proximas, e até remotas,
+e da propria cidade do Rio de Janeito, correu gente para assistir
+ás ceremonias, que duraram sete dias. Muitos dementes já estavam
+recolhidos; e os parentes tiveram occasião de ver o carinho paternal
+e a caridade christã com que elles iam ser tratados. D. Evarista,
+contentissima com a gloria do marido, vestira-se luxuosamente,
+cobriu-se de joias, flôres e sedas. Ella foi uma verdadeira rainha
+naquelles dias memoraveis; ninguem deixou de ir visital-a duas e trez
+vezes, apezar dos costumes caseiros e recatados do seculo, e não só a
+cortejavam como a louvavam; porquanto,--e este facto é um documento
+altamente honroso para a sociedade do tempo,--porquanto viam nella
+a feliz esposa de um alto espirito, de um varão illustre, e, se lhe
+tinham inveja, era a santa e nobre inveja dos admiradores.
+
+Ao cabo de sete dias expiraram as festas publicas; Itaguahy tinha
+finalmente uma casa de Orates.
+
+
+II
+
+TORRENTE DE LOUCOS
+
+
+Tres dias depois, n'uma expansão intima com o boticario Crispim Soares,
+desvendou o alienista o mysterio do seu coração.
+
+--A caridade, Sr. Soares, entra de certo no meu procedimento, mas entra
+como tempero, como o sal das cousas, que é assim que interpreto o dito
+de S. Paulo aos Corinthios: «Se eu conhecer quanto se pode saber, e
+não tiver caridade, não sou nada.» O principal nesta minha obra da
+Casa Verde é estudar profundamente a loucura, os seus diversos grãos,
+classificar-lbe os casos, descobrir emfim a causa do phenomeno e o
+remedio universal. Este é o mysterio do meu coração. Creio que com isto
+presto um bom serviço á humanidade.
+
+--Um excellente serviço, corrigiu o boticario.
+
+--Sem este asylo, continuou o alienista, pouco poderia fazer; elle
+dá-me, porém, muito maior campo aos meus estudos.
+
+--Muito maior, accrescentou o outro.
+
+E tinham razão. De todas as villas e arraiaes visinhos affluiam loucos
+á Casa Verde. Eram furiosos, eram mansos, eram monomaniacos, era toda
+a familia dos desherdados do espirito. Ao cabo de quatro mezes, a Casa
+Verde era uma povoação. Não bastaram os primeiros cubiculos: mandou-se
+annexar uma galeria de mais trinte e sete. O padre Lopes confessou que
+não imaginara a existencia de tantos doudos no mundo, e menos ainda
+o inexplicavel de alguns casos. Um, por exemplo, um rapaz bronco e
+villão, que todos os dias, depois do almoço, fazia regularmente, um
+discurso academico, ornado de tropos, de antitheses, de apostrophes,
+com seus recamos de grego e latim, e suas borlas de Cicero, Apuleo e
+Tertuliano. O vigario não queria acabar do crer. Que! um rapaz que elle
+vira, tres mezes antes, jogando peteca na rua!
+
+--Não digo que não, respondia-lhe o alienista; mas a verdade é o que
+Vossa Reverendissima está vendo. Isto é todos os dias.
+
+--Quanto a mim, tornou o vigario, só se póde explicar pela confusão
+das linguas na torre de Babel, segundo nos conta a Escriptura;
+provavelmente, confundidas antigamente as linguas, é facil trocal-as
+agora, desde que a razão não trabalhe...
+
+--Essa póde ser, com effeito, a explicação divina do phenomeno,
+concordou o alienista, depois de reflectir um instante, mas não
+é impossivel que haja tambem alguma razão humana, e puramente
+scientifica, e disso trato...
+
+--Vá que seja, e fico ancioso. Realmente!
+
+Os loucos por amor eram tres ou quatro, mas só dous espantavam pelo
+curioso do delirio. O primeiro, um Falcão, rapaz de vinte e cinco
+annos, suppunha-se estrella d’alva, abria os braços e alargava as
+pernas, para dar-lhes certa feição de raios, e ficava assim horas
+esquecidas a perguntar se o sol já tinha sahido para elle recolher-se.
+O outro andava sempre, sempre, sempre, á roda das salas ou do pateo, ao
+longo dos corredores, á procura do fim do mundo. Era um desgraçado, a
+quem a mulher deixou por seguir um peralvilho. Mal descobrira a fuga,
+armou-se de uma garrucha, e sahiu-lhes no encalço; achou-os duas horas
+depois, ao pé de uma lagoa, matou-os a ambos com os maiores requintes
+de crueldade. O ciume satisfez-se, mas o vingado estava louco. E então
+começou aquella ancia de ir ao fim do mundo á cata dos fugitivos.
+
+A mania das grandezas tinha exemplares notaveis. O mais notavel era um
+pobre diabo, filho de um algibebe, que narrava ás paredes (porque não
+olhava nunca para nenhuma pessoa) toda a sua genealogia, que era esta:
+
+--Deus engendrou um ovo, o ovo engendrou a espada, a espada engendrou
+David, David engendrou a purpura, a purpura engendrou o duque, o duque
+engendrou o marquez, o marquez engendrou o conde, que sou eu.
+
+Dava uma pancada na testa, um estalo com os dedos, e repetia cinco,
+seis vezes seguidas:
+
+--Deus engendrou um ovo, o ovo, etc.
+
+Outro da mesma especie era um escrivão, que se vendia por mordomo
+do rei; outro era um boiadeiro de Minas, cuja mania era distribuir
+boiadas a toda a gente, dava trezentas cabeças a um, seiscentas a
+outro, mil e duzentas a outro, e não acabava mais. Não fallo dos casos
+de monomania religiosa; apenas citarei um sujeito que, chamando-se
+João de Deus, dizia agora ser o deus João, e promettia o reino dos
+céos a quem o adorasse, e as penas do inferno aos outros; e depois
+desse, o licenciado Garcia, que não dizia nada, porque imaginava que no
+dia em que chegasse a proferir uma só palavra, todas as estrellas se
+despegariam do céu e abrasariam a terra; tal era o poder que recebera
+de Deus. Assim o escrevia elle no papel que o alienista lhe mandava
+dar, menos por caridade do que por interesse scientifico.
+
+Que, na verdade, a paciencia do alienista era ainda mais extraordinaria
+do que todas as manias hospedadas na Casa Verde; nada menos que
+assombrosa. Simão Bacamarte começou por organisar um pessoal de
+administração; e, aceitando essa idéa ao boticario Crispim Soares,
+aceitou-lhe tambem dous sobrinhos, a quem incumbiu da execução de
+um regimento que lhes deu, approvado pela camara, da distribuição
+da comida e da roupa, e assim tambem da escripta, etc. Era o melhor
+que podia fazer, para sómente cuidar do seu officio.--A Casa Verde,
+disse elle ao vigario, é agora uma especie de mundo, em que ha o
+governo temporal e o governo _espiritual._ E o padre Lopes ria deste
+pio trocado,--e accrescentava,--com o unico fim de dizer tambem uma
+chalaça:--Deixe estar, deixe estar, que hei de mandal-o denunciar ao
+papa.
+
+Uma vez desonerado da administração, o alienista procedeu a uma
+vasta classificação dos seus enfermos. Dividiu-os primeiramente em
+duas classes principaes: os furiosos e os mansos; dahi passou ás
+sub-classes, monomanias, delirios, allucinações diversas. Isto feito,
+começou um estudo aturado e continuo; analysava os habitos de cada
+louco, as horas do accesso, as aversões, as sympathias, as palavras,
+os gestos, as tendencias; inquiria da vida dos enfermos, profissão,
+costumes, circumstancias da revelação morbida, accidentes da infancia
+e da mocidade, doenças de outra especie, antecedentes na familia,
+uma devassa, emfim, como a não faria o mais atilado corregedor. E
+cada dia notava uma observação nova, uma descoberta interessante, um
+phenomeno extraordinario. Ao mesmo tempo estudava o melhor regimen, as
+substancias medicamentosas, os meios curativos e os meios palliativos,
+não só os que vinham nos seus amados arabes, como os que elle mesmo
+descobria, á força de sagacidade e paciencia. Ora, todo esse trabalho
+levava-lhe o melhor e o mais do tempo. Mal dormia e mal comia; e, ainda
+comendo, era como se trabalhasse, porque ora interrogava um texto
+antigo, ora ruminava uma questão, e ia muitas vezes de um cabo a outro
+do jantar sem dizer uma só palavra a D. Evarista.
+
+
+III
+
+DEUS SABE O QUE FAZ!
+
+
+A illustre dama, no fim de dous mezes, achou-se a mais desgraçada
+das mulheres; cahiu em profunda melancholia, ficou amarella, magra,
+comia pouco e suspirava a cada canto. Não ousava fazer-lhe nenhuma
+queixa ou reproche, porque respeitava nelle o seu marido e senhor, mas
+padecia calada, e definhava a olhos vistos. Um dia, ao jantar, como lhe
+perguntasse o marido o que é que tinha, respondeu tristemente que nada;
+depois atreveu-se um pouco, e foi ao ponto de dizer que se considerava
+tão viuva como dantes. E accrescentou:
+
+--Quem diria nunca que meia duzia de lunaticos...
+
+Não acabou a phrase; ou antes, acabou-a levantando os olhos ao
+tecto,--os olhos, que eram a sua feição mais insinuante,--negros,
+grandes, lavados de uma luz humida, como os da aurora. Quanto ao
+gesto, era o mesmo que empregara no dia em que Simão Bacamarte a pediu
+era casamento. Não dizem as chronicas se D. Evarista brandiu aquella
+arma com o perverso intuito de degolar de uma vez a sciencia, out pelo
+menos, decepar-lhe as mãos; mas a conjectura é verosimil. Em todo caso,
+o alienista, não lhe attribuiu outra intenção. E não se irritou o
+grande homem, não ficou sequer consternado. O metal de seus olhos não
+deixou de ser o mesmo metal, duro, liso, eterno, nem a menor prega veiu
+quebrar a superficie da fronte quieta como a agua de Botafogo. Talvez
+um sorriso lhe descerrou os labios, por entre os quaes filtrou esta
+palavra macia como o oleo do _Cantico_:
+
+--Consinto que vás dar um passeio ao Rio de Janeiro.
+
+D. Evarista sentiu faltar-lhe o chão debaixo dos pés. Nunca dos nuncas
+vira o Rio de Janeiro, que posto não fosse sequer uma pallida sombra
+do que hoje é, todavia era alguma cousa mais do que Itaguahy. Ver
+o Rio de Janeiro, para ella, equivalia ao sonho do hebreu captivo.
+Agora, principalmente, que o marido assentára de vez naquella povoação
+interior, agora é que ella perdera as ultimas esperanças de respirar
+os ares da nossa boa cidade; e justamente agora é que elle a convidava
+a realisar os seus desejos de menina e moça. D. Evarista não pôde
+dissimular o gosto de semelhante proposta. Simão Bacamarte pegou-lhe
+na mão e sorriu,--um sorriso tanto ou quanto philosophico, além de
+conjugal, em que parecia traduzir-se este pensamento:--«Não ha remedio
+certo para as dôres da alma; esta senhora definha, porque lhe parece
+que a não amo; dou-lhe o Rio de Janeiro, e consola-se.» E porque era
+homem estudioso tomou nota da observação.
+
+Mas um dardo atravessou o coração de D. Evarista. Conteve-se,
+entretanto; limitou-se a dizer ao marido, que, se elle não ia, ella não
+iria tambem, porque não havia de metter-se sózinha pelas estradas.
+
+--Irá com sua tia, redarguiu o alienista.
+
+Note-se que D. Evarista tinha pensado nisso mesmo; mas não quizera
+pedil-o nem insinual-o, em primeiro logar porque seria impôr grandes
+despezas ao marido, em segundo logar porque era melhor, mais methodico
+e racional que a proposta viesse delle.
+
+--Oh! mas o dinheiro que será preciso gastar! suspirou D. Evarista sem
+convicção.
+
+--Que importa? Temos ganho muito, disse o marido. Ainda hontem o
+escripturario prestou-me contas. Queres ver?
+
+E levou-a aos livros. D. Evarista ficou deslumbrada. Era uma via-lactea
+de algarismos. E depois levou-a ás arcas, onde estava o dinheiro. Deus!
+eram montes de ouro, eram mil cruzados sobre mil cruzados, dobrões
+sobre dobrões; era a opulencia. Emquanto ella comia o ouro com os seus
+olhos negros, o alienista fitava-a, e dizia-lhe ao ouvido com a mais
+perfida das allusões.
+
+--Quem diria que meia duzia de lunaticos...
+
+D. Evarista comprehendeu, sorriu e respondeu com muita resignação:
+
+--Deus sabe o que faz!
+
+Tres mezes depois effectuava-se a jornada. D. Evarista, a tia, a mulher
+do boticario, um sobrinho deste, um padre que o alienista conhecera em
+Lisboa, e que de aventura achava-se em Itaguahy, cinco ou seis pagens,
+quatro mucamas, tal foi a comitiva que a população viu dalli sahir em
+certa manhã do mez de maio. As despedidas foram tristes para todos,
+menos para o alienista. Comquanto as lagrimas de D. Evarista fossem
+abundantes e sinceras, não chegaram a abalal-o. Homem de sciencia, e só
+de sciencia, nada o consternava fóra da sciencia; e se alguma cousa o
+preoccupava naquella occasião, se elle deixava correr pela multidão um
+olhar inquieto e policial, não era outra cousa mais do que a idéa de
+que algum demente podia achar-se alli misturado com a gente de juizo.
+
+--Adeus! soluçaram emfim as damas e o boticario.
+
+E partiu a comitiva. Crispim Soares, ao tornar a casa, trazia os olhos
+entre as duas orelhas da besta ruana em que vinha montado; Simão
+Bacamarte alongava os seus pelo horisonte adiante, deixando ao cavallo
+a responsabilidade do regresso. Imagem vivaz do genio e do vulgo! Um
+fita o presente, com todas as suas lagrimas e saudades, outro devassa o
+futuro com todas as suas auroras.
+
+
+IV
+
+UMA THEORIA NOVA
+
+
+Ao passo que D. Evarista, em lagrimas, vinha buscando o Rio de Janeiro,
+Simão Bacamarte estudava por todos os lados uma certa idéa arrojada e
+nova, propria a alargar as bases da psychologia. Todo o tempo que lhe
+sobrava dos cuidados da Casa Verde, era pouco para andar na rua, ou
+de casa em casa, conversando as gentes, sobre trinta mil assumptos, e
+virgulando as fallas de um olhar que mettia medo aos mais heroicos.
+
+Um dia de manhã,--eram passadas tres semanas,--estando Crispim Soares
+occupado em temperar um medicamento, vieram dizer-lhe que o alienista o
+mandava chamar.
+
+--Trata-se de negocio importante, segundo elle me disse, aecrescentou o
+portador.
+
+Crispim empallideceu. Que negocio importante podia ser, se não alguma
+triste noticia da comitiva, e especialmente da mulher? Porque este
+topico deve ficar claramente definido, visto insistirem nelle os
+chronistas: Crispim amava a mulher, e, desde trinta annos, nunca
+estiveram separados um só dia. Assim se explicam os monologos que
+elle fazia agora, e que os famulos lhe ouviam muita vez:--«Anda, bem
+feito, quem te mandou consentir na viagem de Cesaria? Bajulador, torpe
+bajulador! Só para adular ao Dr. Bacamarte. Pois agora aguenta-te;
+anda, aguenta-te, alma de lacaio, fracalhão, vil, miseravel. Dizes
+_amen_ a tudo, não é? ahi tens o lucro, biltre!--E muitos outros nomes
+feios, que um homem não deve dizer aos outros, quanto mais a si mesmo.
+Daqui a imaginar o effeito do recado é um nada. Tão depressa elle o
+recebeu como abriu mão das drogas e voou á Casa Verde.
+
+Simão Bacamarte recebeu-o com a alegria propria de um sabio, uma
+alegria abotoada de circumspecção até o pescoço.
+
+--Estou muito contente, disse elle.
+
+--Noticias do nosso povo? perguntou o boticario com a voz tremula.
+
+O alienista fez um gesto magnifico, e respondeu:
+
+--Trata-se de cousa mais alta, trata-se de uma experiencia scientifica.
+Digo experiencia, porque não me atrevo a assegurar desde já a minha
+idéa; nem a sciencia é outra cousa, Sr. Soares, se não uma investigação
+constante. Trata-se, pois, de uma experiencia, mas uma experiencia que
+vai mudar a face da terra. A loucura, objecto dos meus estudos, era até
+agora uma ilha perdida no oceano da razão; começo a suspeitar que é um
+continente.
+
+Disse isto, e calou-se, para ruminar o pasmo do boticario. Depois
+explicou compridamente a sua idéa. No conceito delle a insania abrangia
+uma vasta superficie de cerebros; e desenvolveu isto com grande cópia
+de raciocinios, de textos, de exemplos. Os exemplos achou-os na
+historia e em ltaguahy; mas, como um raro espirito que era, reconheceu
+o perigo de citar todos os casos de Itaguahy, e refugiou-se na
+historia. Assim, apontou com especialidade alguns personagens celebres,
+Socrates, que tinha um demonio familiar, Pascal, que via um abysmo á
+esquerda, Mahomet, Caracalla, Domiciano, Caligula, etc., uma enfiada
+de casos e pessoas, em que de mistura vinham entidades odiosas, e
+entidades ridiculas. E porque o boticario se admirasse de uma tal
+promiscuidade, o alienista disse-lhe que era tudo a mesma cousa, e até
+accrescentou sentenciosamcnte:
+
+--A ferocidade, Sr. Soares, é o grotesco a serio.
+
+--Gracioso, muito gracioso! exclamou Crispim Soares lovantando as mãos
+ao céu.
+
+Quanto á ideia de ampliar o territorio da loucura, achou-a o boticario
+extravagante; mas a modestia, principal adorno de seu espirito, não lhe
+sofreu confessar outra cousa além de um nobre enthusiasmo; declarou-a
+sublime e verdadeira, e acerescentou que era «caso de matraca.» Esta
+expressão não tem equivalente no estylo moderno. Naquelle tempo,
+Itaguahy, que como as demais villas, arraiaes e povoações da colonia,
+não dispunha de imprensa, tinha dous modos de divulgar uma noticia:
+ou por meio de cartazes manuscriptos e pregados na porta da camara e
+da matriz;--ou por meio de matraca. Eis em que consistia este segundo
+uso. Contractava-se um homem, por um ou mais dias, para andar as ruas
+do povoado, com uma matraca na mão. De quando em quando tocava a
+matraca, reunia-se gente, e elle annunciava o que lhe incumbiam,--um
+remedio para sezões, umas terras lavradias, um soneto, um donativo
+eeclesiastico, a melhor thesoura da villa, o mais bello discurso do
+anno, etc. O systema tinha inconvenientes para a paz publica; mas
+era conservado pela grande energia de divulgação que possuia. Por
+exemplo, um dos vereadores,--aquelle justamente que mais se oppuzera á
+creação da Casa Verde,--desfructava a reputação de perfeito educador
+de cobras e macacos, e aliás nunca domesticára um só desses bichos;
+mas, tinha o cuidado de fazer trabalhar a matraca todos os mezes. E
+dizem as chronicas que algumas pessoas affirmavam ter visto cascaveis
+dansando no peito do vereador; affirmação perfeitamente falsa, mas só
+devida á absoluta confiança no systema. Verdade, verdade; nem todas as
+instituições do antigo regimen, mereciam o desprezo do nosso seculo.
+
+--Ha melhor do que annunciar a minha ideia, é pratical-a, respondeu o
+alienista á insinuação do boticario.
+
+E o boticario, não divergindo sensivelmente deste modo de ver,
+disse-lhe que sim, que era melhor começar pela execução.
+
+--Sempre haverá tempo de a dar á matraca, concluiu elle.
+
+Simão Bacamarte reflectiu ainda um instante, e disse:
+
+--Suppondo o espirito humano uma vasta concha, o meu fim, Sr. Soares,
+é ver se posso extrahir a perola, que é a razão; por outros termos,
+demarquemos definitivamente os limites da razão e da loucura. A razão
+é o perfeito equilibrio de todas as faculdades; fora dahi insania,
+insania, e só insania.
+
+O vigario Lopes, a quem elle confiou a nova theoria, declarou lisamente
+que não chegava a entendel-a, que era uma obra absurda, e, se não
+era absurda, era de tal modo collossal que não merecia principio de
+execução.
+
+--Com a definição actual, que é a de todos os tempos, accrescentou, a
+loucura e a razão estão perperfeitamente delimitadas. Sabe-se onde uma
+acaba e onde a outra começa. Para que transpor a cerca?
+
+Sobre o labio fino e discreto do alienista roçou a vaga sombra de
+uma intenção de riso, em que o desdem vinha casado á commiseração;
+mas nenhuma palavra sahiu de suas egregias entranhas. A sciencia
+contentou-se em estender a mão á theologia,--com tal segurança, que a
+theologia não soube emfim se devia crêr em si ou na outra. Itaguahy e o
+universo ficavam á beira de uma revolução.
+
+
+V
+
+O TERROR
+
+
+Quatro dias depois, a população do Itaguahy ouviu consternada, a
+noticia de que um certo Costa fôra recolhido á Casa Verde.
+
+--Impossivel!
+
+--Qual impossivel! foi recolhido hoje de manhã.
+
+--Mas, na verdade, elle não merecia... Ainda em cima! depois de tanto
+que elle fez...
+
+Costa era um dos cidadãos mais estimados de Itaguahy. Herdára
+quatrocentos mil cruzados em boa moeda de el-rei D. João V, dinheiro
+cuja renda bastava, segundo lhe declarou o tio no testamento, para
+viver «até o fim do mundo.» Tão depressa recolheu a herança, como
+entrou a dividil-a em emprestimos, sem usura, mil cruzados a um, dous
+mil a outro, trezentos a este, oitocentos áquelle, a tal ponto que, no
+fim de cinco annos, estava sem nada, Se a miseria viesse de chofre, o
+pasmo de Itaguahy seria enorme; mas veiu de vagar; elle foi passando da
+opulencia á abastança, da abastança á mediania, da mediania á pobreza,
+da pobreza á miseria, gradualmente. Ao cabo daquelles cinco annos,
+pessoas que levavam o chapeu ao chão, logo que elle assomava no fim da
+rua, agora batiam-lhe no hombro, com intimidade, davam-lhe piparotes no
+nariz, diziam-lhe pulhas. E o Costa sempre lhano, risonho. Nem se lhe
+dava de ver que os menos cortezes eram justamente os que tinham ainda
+a divida em aberto; ao contrario, parece que os agazalhava com maior
+prazer, e mais sublime resignação. Um dia, como um desses incuraveis
+devedores lhe atirasse uma chalaça grossa, e elle se risse della,
+observou um desaffeiçoado, com certa perfidia:--«Você supporta esse
+sujeito para ver se elle lhe paga.» Costa não se deteve um minuto, foi
+ao devedor e perdoou-lhe a divida.--«Não admira, retorquiu o outro; o
+Costa abriu mão de uma estrella, que está no céu.» Costa era perspicaz,
+entendeu que elle negava todo o merecimento ao acto, attribuindo-lhe
+a intenção de rejeitar o que não vinham metter-lhe na algibeira. Era
+tambem pundonoroso e inventivo; duas horas depois achou um meio de
+provar que lhe não cabia um tal labéo: pegou de algumas dobras, e
+mandou-as de emprestimo ao devedor.
+
+--Agora espero que...--pensou elle sem concluir a phrase.
+
+Esse ultimo rasgo do Costa persuadiu a credulos e incredulos; ninguem
+mais pôz em duvida os sentimentos cavalheirescos daquelle digno
+cidadão. As necessidades mais acanhadas sahiram á rua, vieram bater-lhe
+á porta, com os seus chinellos velhos, com as suas capas remendadas. Um
+verme, entretanto, roia a alma do Costa: era o conceito do desaffecto.
+Mas isso mesmo acabou; trez mezes depois veiu este pedir-lhe uns cento
+e vinte cruzados com promessa de restituir-lh'os dahi a dous dias; era
+o residuo da grande herança, mas era tambem uma nobre desforra: Costa
+emprestou o dinheiro logo, logo, e sem juros. Infelizmente não teve
+tempo de ser pago; cinco mezes depois era recolhido á Casa Verde.
+
+Imagina-se a consternação de Itaguahy, quando soube do caso. Não se
+fallou em outra cousa, dizia-se que o Costa ensandecera, ao almoço,
+outros que de madrugada; e contavam-se os accessos, que eram furiosos,
+sombrios, terriveis,--ou mansos, e até engraçados, conforme as versões.
+Muita gente correu á Casa Verde, e achou o pobre Costa, tranquillo,
+um pouco espantado, faltando com muita clareza, e perguntando porque
+motivo o tinham levado para alli. Alguns foram ter com o alienista.
+Bacamarte approvava esses sentimentos de estima e compaixão, mas
+accrescentava que a sciencia era a sciencia, e que elle não podia
+deixar na rua um mentecapto. A ultima pessoa que intercedeu por elle
+(porque depois do que vou contar ninguem mais se atreveu a procurar o
+terrivel medico) foi uma pobre senhora, prima do Costa. O alienista
+disse-lhe confidencialmente que esse digno homem não estava no perfeito
+equilibrio das faculdades mentaes, á vista do modo como dissipára os
+cabedaes que...
+
+--Isso, não! isso não! interrompeu a boa senhora com energia. Se elle
+gastou tão depressa o que recebeu, a culpa não é delle.
+
+--Não?
+
+--Não, senhor. Eu lhe digo como o negocio se passou. O defuncto meu tio
+não era máu homem; mas quando estava furioso era capaz de nem tirar
+o chapéo ao Santissimo. Ora, um dia, pouco tempo antes de morrer,
+descobriu que um escravo lhe roubára um boi; imagine como ficou. A
+cara era um pimentão; todo elle tremia, a boca escumava; lembra-me
+como se fosse hoje. Então um homem feio, cabelludo, em mangas de
+camiza, chegou-se a elle e pediu agua. Meu tio (Deus lhe falle n'alma!)
+respondeu que fosse beber ao rio ou ao inferno. O homem olhou para
+elle, abriu a mão em ar de ameaça, e rogou esta praga:--«Todo o seu
+dinheiro não hade durar mais de sete annos e um dia, tão certo como
+isto ser o _sino salamão!_» E mostrou o sino salamão impresso no braço.
+Foi isto, meu senhor; foi esta praga daquelle maldito.
+
+Bacamarte espetára na pobre senhora um par de olhos agudos como
+punhaes. Quando ella acabou, estendeu-lhe a mão polidamente, como se
+o fizesse á propria esposa do vice-rei, e convidou-a a ir fallar ao
+primo. A misera acreditou; elle levou-a á Casa Verde e encerrou-a na
+galeria dos allucinados.
+
+A noticia desta aleivosia do illustre Bacamarte lançou o terror á
+alma da população. Ninguem queria acabar de crer, que, sem motivo,
+sem inimizade, o alienista trancasse na Casa Verde uma senhora
+perfeitamente ajuizada, que não tinha outro crime senão o de interceder
+por um infeliz. Commentava-se o caso nas esquinas, nos barbeiros;
+edificou-se um romance, umas finezas namoradas que o alienista outr'ora
+dirigira á prima do Costa, a indignação do Costa e o desprezo da prima.
+E dahi a vingança. Era claro. Mas a austeridade do alienista, a vida
+de estudos que elle levava, pareciam desmentir uma tal hypotbese.
+Historias! Tudo isso era naturalmente a capa do velhaco. E um dos mais
+credulos chegou a murmurar que sabia de outras cousas, não as dizia,
+por não ter certeza plena, mas sabia, quasi que podia jurar.
+
+--Você, que é intimo delle, não nos podia dizer o que ha, o que houve,
+que motivo...
+
+Crispim Soares derretia-se todo. Esse interrogar da gente inquieta e
+curiosa, dos amigos attonitos, era para elle uma consagração publica.
+Não havia duvidar; toda a povoação sabia emfim que o privado do
+alienista era elle, Crispim, o boticario, o collaborador do grande
+homem e das grandes cousas; dahi a corrida á botica. Tudo isso dizia
+o carão jocundo e o riso discreto do boticario, o riso e o silencio,
+porque elle não respondia nada; um, dous, trez monosyllabos, quando
+muito, soltos, seccos, encapados no fiel sorriso, constante e miudo,
+cheio de mysterios scientificos, que elle não podia, sem desdouro nem
+perigo, desvendar a nenhuma pessoa humana.
+
+--Ha cousa, pensavam os mais desconfiados.
+
+Um desses limitou-se a, pensal-o, deu de hombros e foi embora. Tinha
+negocios pessoaes. Acabava de construir uma casa sumptuosa. Só a casa
+bastava para deter e chamar toda a gente; mas havia mais,--a mobilia,
+que elle mandara vir da Hungria e da Hollanda, segundo contava, e que
+se podia ver do lado de fóra, porque as janellas viviam abertas,--e
+o jardim, que era uma obra-prima de arte e de gosto. Esse homem, que
+enriquecera no fabrico de albardas, tinha tido sempre o sonho de uma
+casa magnifica, jardim pomposo, mobilia rara. Não deixou o negocio das
+albardas, mas repousava delle na contemplação da casa nova, a primeira
+de Itaguahy, mais grandiosa do que a Casa Verde, mais nobre do que a
+da camara. Entre a gente illustre da povoação havia choro e ranger
+de dentes, quando se pensava, ou se fallava, ou se louvava a casa do
+albardeiro,--um simples albardeiro, Deus do céu!
+
+--Lá está elle embasbacado, diziam os transeuntes, de manhã.
+
+De manhã, com effeito, era costume do Matheus estatelar-se, no meio do
+jardim, com os olhos na casa, namorado, durante uma longa hora, até que
+vinham chamal-o para almoçar. Os visinhos, embora o comprimentassem
+com certo respeito, riam-se por traz delle, que era um gosto. Um
+desses chegou a dizer que o Matheus seria muito mais economico, e
+estaria riquissimo, se fabricasse as albardas para si mesmo; epigramma
+inintelligivel, mas que fazia rir ás bandeiras despregadas.
+
+--Agora lá está o Matheus a ser contemplado, diziam á tarde.
+
+A razão deste outro dito era que, de tarde, quando as familias sahiam
+a passeio (jantavam cedo) usava o Matheus postar-se á janella, bem no
+centro, vistoso, sobre um fundo escuro, trajado de branco, attitude
+senhoril, e assim ficava duas e tres horas até que anoitecia de todo.
+Pode crer-se que a intenção do Matheus era ser admirado e invejado,
+posto que elle não a confessasse a nenhuma pessoa, nem ao boticario,
+nem ao padre Lopes, seus grandes amigos. E entretanto não foi outra a
+allegação do boticario, quando o alienista lhe disse que o albardeiro
+talvez padecesse do amor das pedras, mania que elle Bacamarte
+descubrira e estudava desde algum tempo. Aquillo de contemplar a casa...
+
+--Não, senhor, acudiu vivamente Crispim Soares.
+
+--Não?
+
+--Hade perdoar-me, mas talvez não saiba que elle de manhã examina a
+obra, não a admira; de tarde, são os outros que o admirara a elle e á
+obra.--E contou o uso do albardeiro, todas as tardes, desde cedo até o
+cahir da noite.
+
+Uma volupia scientifica alumiou os olhos de Simão Bacamarte. Ou elle
+não conhecia todos os costumes do albardeiro, ou nada mais quiz,
+interrogando o Crispim, do que confirmar alguma noticia incerta ou
+suspeita vaga. A explicação satisfel-o; mas como tinha as alegrias
+proprias de um sabio, concentradas, nada viu o boticario que fizesse
+suspeitar uma intenção sinistra. Ao contrario, era de tarde, e o
+alienista pediu-lhe o braço para irem a passeio. Deus! era a primeira
+vez que Simão Bacamarte dava ao seu privado tamanha honra; Crispim
+ficou tremulo, atarantado, disse que sim, que estava prompto. Chegaram
+duas ou tres pessoas de fóra, Crispim mandou-as mentalmente a todos os
+diabos; não só atrazavam o passeio, como podia acontecer que Bacamarte
+elegesse alguma dellas, para acompanhal-o, e o dispensasse a elle. Que
+impaciencia! que afflicção! Emfim, sahiram. O alienista guiou para os
+lados da casa do albaideiro, viu-o á janella, passou cinco, seis vezes
+por diante, devagar, parando, examinando as attitudes, a expressão do
+rosto. O pobre Matheus, apenas notou que era objecto da curiosidade
+ou admiração do primeiro vulto de ltaguahy, redobrou de expressão,
+deu outro relevo ás attitudes... Triste! triste! não fez mais do que
+condemnar-se; no dia seguinte, foi recolhido á Casa Verde.
+
+--A Casa Verde é um carcere privado, disse um medico sem clinica.
+
+Nunca uma opinião pegou e grassou tão rapidamente. Carcere
+privado: eis o que se repetia de norte a sul e de leste a oéste de
+ltaguahy,--a medo, é verdade, porque durante a semana que se seguiu
+á captura do pobre Matheus, vinte e tantas pessoas,--duas ou tres
+de consideração,--foram recolhidas á Casa Verde. O alienista dizia
+que só eram admittidos os casos pathologicos, mas pouca gente lhe
+dava credito. Succediam-se as versões populares. Vingança, cobiça de
+dinheiro, castigo de Deus, monomania do proprio medico, plano secreto
+do Rio de Janeiro com o fim de destruir em Itaguahy qualquer germen
+de prosperidade que viesse a brotar, arvorecer, florir, com desdouro
+e mingua daquella cidade, mil outras explicações, que não explicavam
+nada, tal era o producto diario da imaginação publica.
+
+Nisto chegou do Rio de Janeiro a esposa do alienista, a tia, a mulher
+do Crispim Soares, e toda a mais comitiva,--ou quasi toda,--que algumas
+semanas antes partira de Itaguahy. O alienista foi recebel-a, com o
+boticario, o padre Lopes, os vereadores, e varios outros magistrados.
+O momento em que D. Evarista poz os olhos na pessoa do marido é
+considerado pelos chronistas de tempo como um dos mais sublimes da
+historia moral dos homens, e isto pelo contraste das duas naturezas,
+ambas extremas, ambas egregias. D. Evarista soltou um grito, balbuciou
+uma palavra, e atirou-se ao consorte, de um gesto que não se pode
+melhor definir do que comparando-o a uma mistura de onça e rola. Não
+assim o illustre Bacamarte; frio como um diagnostico, sem desengonçar
+por um instante a rigidez scientifica, estendeu os braços á dona, que
+caiu nelles, e desmaiou. Curto incidente; ao cabo de dons minutos, D.
+Evarista recebia os comprimentos dos amigos, e o prestito punha-se em
+marcha.
+
+D. Evarista era a esperança de Itaguahy; contava-se com ella para
+minorar o flagello da Casa Verde. Dahi as acclamações publicas, a
+immensa gente que atulhava as ruas, as flammulas, as flores e damascos
+ás janellas. Com o braço apoiado no do padre Lopes,--porque o eminente
+Bacamarte confiára a mulher ao vigario, e acompanhava-os a passo
+meditativo,--D. Evarista voltava a cabeça a um lado e outro, curiosa,
+inquieta, petulante. O vigario indagava do Rio de Janeiro, que elle
+não vira desde o vice-veinado anterior; o D. Evarista respondia,
+enthusiasmada, que era a cousa mais bella que podia haver no mundo.
+O Passeio Publico estava acabado, um paraiso, onde ella fôra muitas
+vezes, o a rua das Bellas Noites, o chafariz das Marrecas... Ah!
+o chafariz das Marrecas! Eram mesmo marrecas,--feitas de metal e
+despejando agua pela bocca fóra. Uma cousa galantissima. O vigario
+dizia que sim, que o Ro de Janeiro devia estar agora muito mais bonito.
+Se já o era neutro tempo! Não admira, maior do que Itaguahy, e de mais
+a mais séde do governo... Mas não se pode dizer que Itaguahy fosse
+feio; tinha bellas casas, a casa do Matheus, a Casa Verde....
+
+--A proposito de Casa Verde, disso o padre Lopes escorregando
+habilmente para o assumpto da occasião, a senhora vem achal-a muito
+cheia de gente.
+
+--Sim?
+
+--É verdade. Lá está o Matheus...
+
+--O albardeiro?
+
+--O albardeiro; está o Costa, a prima do Costa, e Fulano, e Sicrano,
+e...
+
+--Tudo isso doudo?
+
+--Ou quasi doudo, obtemperou o padre.
+
+--Mas então?
+
+O vigario derreou os cantos da boca, á maneira de quem não sabe nada,
+ou não quer dizer tudo; resposta vaga, que se não póde repetir a outra
+pessoa, por falta de texto. D. Evarista achou realmente extraordinario
+que toda aquella gente ensandecesse; um ou outro, vá; mas todos?
+Entretanto, custava-lhe duvidar; o marido era um sabio, não recolheria
+ninguem á Casa Verde sem prova evidente de loucura.
+
+--Sem duvida... sem duvida... ia pontuando o vigario.
+
+Tres horas depois, cerca de cincoenta convivas sentavam-se em volta
+da mesa de Simão Bacamarte; era o jantar das boas-vindas. D. Evarista
+foi o assumpto obrigado dos brindes, discursos, versos de toda a
+casta, metaphoras, amplificações, apologos. Ella era a esposa do novo
+Hippocrates, a musa da sciencia, anjo, divina, aurora, caridade, vida,
+consolação; trazia nos olhos duas estrellas, segundo a versão modesta
+de Crispim Soares, e dous sóes, no conceito de um vereador. O alienista
+ouvia essas cousas um tanto enfastiado, mas sem visivel impaciencia.
+Quando muito dizia ao ouvido da mulher, que a rhetorica permittia taes
+arrojos sem significação. D. Evarista fazia esforços para adherir a
+esta opinião do marido; mas, ainda descontando tres quartas partes das
+louvaminhas, ficava muito com que enfunar-lhe a alma. Um dos oradores,
+por exemplo, Martim Brito, rapaz de vinte e cinco annos, pintalegrete
+acabado, curtido de namoros e aventuras, declamou um discurso em que o
+nascimento de D. Evarista era explicado polo mais singular dos reptos.
+«Deus, disse elle, depois de dar ao universo o homem e a mulher,
+esse diamante e essa perola da corôa divina (e o orador arrastava
+triumphalmente esta phrase de uma ponta a outra da mesa) Deus quiz
+vencer a Deus, e creou D. Evarista.»
+
+D. Evarista baixou os olhos com exemplar modestia. Duas senhoras,
+achando a cortezanice excessiva e audaciosa, interrogaram os olhos do
+dono da casa; e, na verdade, o gesto do alienista pareceu-lhes nublado
+de suspeitas, de ameaças, e, provavelmente, de sangue. O atrevimento
+foi grande, pensaram as duas damas. E uma e outra pediam a Deus que
+removesse qualquer episodio tragico,--ou que o adiasse, ao menos,
+para o dia seguinte. Sim, que o adiasse. Uma dellas, a mais piedosa,
+chegou a admittir, comsigo mesma, que D. Evarisla não merecia nenhuma
+desconfiança, tão longe estava de ser attrahente ou bonita. Uma
+simples agua-morna. Verdade é que, se todos os gostos fossem eguaes,
+o que seria do amarello? E esta ideia fel-a tremer outra vez, embora
+menos; menos, porque o alienista sorria agora para o Martim Brito, e,
+levantados todos, foi ter com elle e fallou-lhe do discurso. Não lhe
+negou que era era improviso brilhante, cheio de rasgos magnificos.
+Seria delle mesmo a ideia relativa ao nascimento de D. Evarista, ou
+tel-a-hia encontrado em algum autor que...? Não, senhor; era delle
+mesmo; achou-a naquella occasião e parecera-lhe adequada a um arroubo
+oratorio. De resto, suas ideias eram antes arrojadas do que ternas
+ou jocosas. Dava para o épico. Uma vez, por exemplo, compôz uma ode
+á queda do marquez de Pombal, em que dizia que esse ministro era o
+«dragão asperrimo do Nada,» esmagado pelas «garras vingadoras do Todo»;
+e assim outras, mais ou menos fóra do commum; gostava das ideias
+sublimes e raras, das imagens grandes e nobres...
+
+--Pobre moço! pensou o alienista. E continuou comsigo:--Trata-se de um
+caso do lesão cerebral; phenomeno sem gravidade, mas digno de estudo...
+
+D. Evarista ficou estupefacta quando soube, tres dias depois, que o
+Martim Brito fôra alojado na Casa Verde. Um moço que tinha idéas tão
+bonitas! As duas senhoras attribuiram o acto a ciumes do alienista. Não
+podia ser outra cousa; realmente a declaração do moço fôra audaciosa de
+mais.
+
+Ciumes? Mas como explicar que, logo em seguida, fossem recolhidos
+José Borges do Couto Leme, pessoa estimavel, o Chico das Cambraias,
+folgazão emerito, o escrivão Fabricio, e ainda outros? O terror
+accentuou-se. Não se sabia já quem estava são, nem quem estava doudo.
+As mulheres, quando os maridos saiam, mandavam accender uma lamparina
+a Nossa Senhora; e nem todos os maridos eram valorosos, alguns não
+andavam fóra sem um ou dous capangas. Positivamente o terror. Quem
+podia, emigrava. Um desses fugitivos, chegou a ser preso a duzentos
+passos da villa. Era um rapaz de trinta annos, amavel, conversado,
+polido, tão polido que não cumprimentava alguem sem levar o chapéu ao
+chão; na rua, acontecia-lhe correr uma distancia de dez a vinte braças
+para ir apertar a mão a um homem grave, a uma senhora, ás vezes a um
+menino, como acontecera ao filho do juiz de fóra. Tinha a vocação
+das cortezias. De resto, devia as boas relações da sociedade, não só
+aos dotes pessoaes, que eram raros, como á nobre tenacidade com que
+nunca desanimava deante de uma, duas, quatro, seis recusas, caras
+feias, etc. O que acontecia era que, uma vez entrado n'uma casa, não
+a deixava mais, nem os da casa o deixavam a elle, tão gracioso era o
+Gil Bernardes. Pois o Gil Bernardes, apezar de se saber estimado, teve
+medo quando lhe disseram um dia, que o alienista o trazia de olho; na
+madrugada seguinte fugiu da villa, mas foi logo apanhado e couduzido á
+Casa Verde.
+
+--Devemos acabar com isto!
+
+--Não pode continuar!
+
+--Abaixo a tyrania!
+
+--Despota! violento! Golias!
+
+Não eram gritos na rua, eram suspiros em casa mas não tardava a
+hora dos gritos. O terror crescia: avisinhava-se a rebellião. A
+idéa de uma petição ao governo para que Simão Bacamarte fosse
+capturado e deportado, andou por algumas cabeças, antes que o
+barbeiro Porfirio a expendesse na loja, com grandes gestos de
+indignação. Note-se,--e essa é uma das laudas mais puras desta sombria
+historia,--note-se que o Porfirio, desde que a Casa Verde começára
+a povoar-se tão extraordinariamente, viu crescerem-lhe os lucros
+pela applicação assidua de sanguesugas que dalli lhe pediam: mas o
+interesse particular, dizia elle, deve ceder ao interesse publico. E
+accrescentava:--é preciso derrubar o tyranno! Note-se mais que elle
+soltou esse grito justamente no dia em Simão Bacamarte fizera recolher
+á Casa Verde um homem que trazia com elle uma demanda, o Coelho.
+
+--Não me dirão em que é que o Coelho é doudo? bradou o Porfirio.
+
+E ninguem lhe respondia; todos repetiam qne era um homem perfeitamente
+ajuizado. A mesma demanda que elle trazia com o barbeiro, ácerca de uns
+chãos da villa, era filha da obscuridade de um alvará, e não da cobiça
+ou odio. Um excellente caracter o Coelho. Os unicos desafeiçoados que
+tinha eram alguns sujeitos que, dizendo-se taciturnos, ou allegando
+andar com pressa, mal o viam de longe dobravam as esquinas, entravam
+nas lojas, etc. Na verdade, elle amava a boa palestra, a palestra
+comprida, gostada a sorvos largos, e assim é que nunca estava só,
+preferindo os que sabiam dizer duas palavras, mas não desdenhando os
+outros. O padre Lopes, que cultivava o Dante, e era inimigo do Coelho,
+nunca o via desligar-se de uma pessoa que não declamasse e emendasse
+este trecho:
+
+    La bocca solevò dal fero pasto
+    Quel _seccatore..._
+
+mas uns sabiam do odio do padre, e outros pensavam que isto era uma
+oração em latim.
+
+
+VI
+
+A REBELIÃO
+
+
+Cerca de trinta pessoas ligaram-se ao barbeiro, redigiram e levaram uma
+representação á camara. A camara recusou aceital-a, declarando que a
+Casa Verde era uma instituição publica, e que a sciencia não podia ser
+emendada por votação administrativa, menos ainda por movimentos de rua.
+
+--Voltai ao trabalho, concluiu o presidente, é o conselho que vos damos.
+
+A irritação dos agitadores foi enorme. O barbeiro declarou que iam
+d'alli levantar a bandeira da rebellião, e destruir a Casa Verde;
+que ltaguahy não podia continuar a servir de cadaver aos estudos e
+experiencias de um despota; que muitas pessoas estimaveis, algumas
+distinctas, outras humildes mas dignas de apreço, jaziam nos cubiculos
+da Casa Verde; que o despotismo scientifico do alienista complicava-se
+do espirito de ganancia, visto que os loucos, ou suppostos taes, não
+eram tratados de graça: as familias, e em falta dellas a camara, pagavam
+ao alienista...
+
+--É falso, interrompeu o presidente.
+
+--Falso?
+
+--Ha cerca de duas semanas recebemos um officio do illustre medico,
+em que nos declara que, tratando de fazer experiencias de alto valor
+psychologico, desiste do estipendio votado pela camara, bem como nada
+receberá das familias dos enfermos.
+
+A noticia deste acto tão nobre, tão puro, suspendeu um pouco a alma
+dos rebeldes. Seguramente o alienista podia estar em erro, mas nenhum
+interesse alheio á sciencia o instigava; e para demonstrar o erro era
+preciso alguma cousa mais do que arruaças e clamores, isto disse o
+presidente, com applauso de toda a camara. O barbeiro, depois de alguns
+instantes de concentração, declarou que estava investido de um mandato
+publico, e não restituiria a paz a Itaguahy antes de vêr por terra a
+Casa Verde,--«essa Bastilha da razão humana»,--expressão que ouvira a
+um poeta local, e que elle repetiu com muita emphasis. Disse, e a um
+signal todos sairam com elle.
+
+Imagine-se a situação dos vereadores; urgia obstar ao ajuntamento,
+á rebellião, á luta, ao sangue. Para accrescentar ao mal, um dos
+vereadores, que apoiara o presidente, ouvindo agora a denominação
+dada pelo barbeiro á Casa Verde--«Bastilha da razão humana»,--achou-a
+tão elegante, que mudou de parecer. Disse que entendia de bom aviso
+decretar alguma medida que reduzisse a Casa Verde; e porque o
+presidente, indignado, manifestasse em temos energicos o seu pasmo, o
+vereador fez esta reflexão:
+
+--Nada tenho que ver com a sciencia; mas se tantos homens em quem
+suppomos juizo são reclusos por dementes, quem nos aflirma que o
+alienado não é o alienista?
+
+Sebastião Freitas, o vereador dissidente, tinha o dom da palavra,
+e fallou ainda por algum tempo com prudencia, mas com firmesa. Os
+collegas estavam attonitos; o presidente pediu-lhe que, ao menos,
+désse o exemplo da ordem e do respeito á lei, não aventasse as suas
+idéas na rua, para não dar corpo e alma á rebellião, que era por ora
+um turbilhão de atomos dispersos. Esta figura corrigiu um pouco a
+effeito da outra: Sebastião Freitas prometteu suspender qualquer acção,
+reservando-se o direito de pedir pelos meios legaes a reducção da Casa
+Verde. E repetia com sigo, namorado:--Bastilha da razão humana!
+
+Entretanto, a arruaça crescia. Já não eram trinta, mas trezentas
+pessoas que acompanhavam o barbeiro, cuja alcunha familiar deve
+ser mencionada, porque ella deu o nome á revolta; chamavam-lhe o
+Cangica,--e o movimento ficou celebre com o nome de revolta dos
+Cangicas. A acção podia ser restricta,--visto que muita gente, ou por
+medo, ou por habitos de educação, não descia á rua; mas o sentimento
+era unanime, ou quasi unanime, e os trezentos que caminhavam para
+a Casa Verde,--dada a diferença de Paris a Itaguahy,--podiam ser
+comparados aos que tomaram a Bastilha.
+
+D. Evarista teve noticia da rebellião antes que ella chegasse; veiu
+dar-lh'a uma de suas crias. Ella provava nessa occasião um vestido do
+seda,--um dos trinta e sete que trouxera do Rio de Janeiro,--e não quiz
+crer.
+
+--Hade ser alguma patuscada, dizia ella mudando a posição de um
+alfinete. Benedicta, vê se a barra está boa.
+
+--Está, sinhá, respondia a mucama de cocaras no chão, está boa. Sinhá
+vira um bocadinho. Assim, Está muito boa.
+
+--Não é patuscada, não, senhora; elles estão gritando:--Morra o Dr.
+Bacamarte! o tyranno! dizia o moleque assustado.
+
+--Cala a hoca, tolo! Benedicta, olha ahi do lado esquerdo; não parece
+qne a costura está um pouco enviezada? A risca azul não segue até
+abaixo; está muito feio assim; é preciso descozer para ficar egualzinho
+e...
+
+--Morra o Dr. Bacamarte! morra o tyranno! uivaram fóra trezentas vozes.
+Era a rebellião que desembocava na rua Nova.
+
+D. Evarista ficou sem pinga de sangue. No primeiro instante não deu
+um passo, não fez um gesto; o terror petrificou-a. A mucama correu
+instinctivamente para a porta do fundo. Quanto ao moleque, a quem D.
+Evarista, não dera credito, teve um instante de triumpho, um certo
+movimento subito, imperceptivel, entranhado, de satisfação moral, ao
+ver que a realidade vinha jurar por elle.
+
+--Morra o alienista! bradavam as vozes mais perto.
+
+D. Evarista, se não resistia facilmente ás commoções de prazer, sabia
+entestar com os momentos de perigo. Não desmaiou; correu á sala
+interior onde o marido estudava. Quando ella alli entrou, precipitada,
+o illustre medico escrutava um texto de Averróes, os olhos delle,
+empanados pela cogitação, subiam do livro ao tecto e baixavam do tecto
+ao livro, cégos para a realidade exterior, videntes para os profundos
+trabalhos mentaes. D. Evarista chamou pelo marido duas vezes, sem que
+elle lhe désse attenção; á terceira, ouviu e perguntou-lhe o que tinha,
+se estava doente.
+
+--Você não ouve estes gritos? perguntou a digna esposa em lagrimas.
+
+O alienista attendeu então; os gritos approximavam-se, terriveis,
+ameaçadores; elle comprehendeu tudo. Levantou-se da cadeira de espaldar
+em que estava sentado, fechou o livro, e, a passo firme e tranquillo,
+foi deposital-o na estante. Como a introducção do volume desconcertasse
+um pouco a linha dos dous tomos contiguos, Simão Bacamarte cuidou de
+corrigir esse defeito minimo, e, aliás, interessante. Depois disse á
+mulher que se recolhesse, que não fizesse nada.
+
+--Não, não, implorava a digna senhora, quero morrer ao lado de você...
+
+Simão Bacamarte teimou que não, que não era caso de morte; e ainda
+que o fosse, intimava-lhe em nome da vida que ficasse. A infeliz dama
+curvou a cabeça, obediente e chorosa.
+
+--Abaixo a Casa Verde! bradavam os Cangicas.
+
+O alienista caminhou para a varanda da frente, e chegou alli no
+momento em que a rebellião tambem chegava e parava, defronte, com
+as suas trezentas cabeças rutilantes de civismo e sombrias de
+desespero.--Morra! morra! bradaram de todos os lados, apenas o vulto
+do alienista assomou na varanda. Simão Bacamarte fez um signal pedindo
+para fallar; os revoltosos cobriram-lhe a voz com brados de indignação.
+Então, o barbeiro agitando o chapéo, afim de impôr silencio á turba,
+conseguiu aquietar os amigos, e declarou ao alienista que podia fallar,
+mas accrescentou que não abusasse da paciencia, do povo como fizera até
+então.
+
+--Direi pouco, ou até não direi nada, se fôr preciso. Desejo saber
+primeiro o que pedis.
+
+--Não pedimos nada, replicou fremente o barbeiro; ordenamos que a Casa
+Verde seja demolida ou pelo menos despojada dos infelizes que lá estão.
+
+--Não entendo.
+
+--Entendeis bem, tyranno; queremos dar liberdade ás victimas do vosso
+odio, capricho, ganancia...
+
+O alienista sorriu, mas o sorriso desse grande homem não era cousa
+visivel aos olhos da multidão; era uma contracção leve de dous ou tres
+musculos, nada mais. Sorriu e respondeu:
+
+--Meus senhores, a sciencia é cousa seria, e merece ser tratada com
+seriedade. Não dou razão dos meus actos de alienista a ninguem, salvo
+aos mestres e a Deus. Se quereis emendar a administração da Casa Verde,
+estou prompto a ouvir-vos; mas se exigis que me negue a mim mesmo,
+não ganhareis nada. Poderia convidar alguns de vós, em commissão dos
+outros, a vir ver commigo os loucos reclusos; mas não o faço, porque
+seria dar-vos mão do meu systema, o que não farei a leigos, nem a
+rebeldes.
+
+Disse isto o alienista, e a multidão ficou attonita; era claro que não
+esperava tanta energia e menos ainda tamanha serenidade. Mas o assombro
+cresceu de ponto quando o alienista, cortejando a multidão com muita
+gravidade, deu-lhe as costas e retirou-se lentamente para dentro. O
+barbeiro tornou logo a si, e, agitando o chapéo, convidou os amigos á
+demolição da Casa Verde; poucas vozes e frouxas lhe responderam. Foi
+nesse momento decisivo que o barbeiro sentiu despontar em si a ambição
+do governo; pareceu-lhe então que, demolindo a Casa Verde, e derrocando
+a influencia do alienista, chegaria a apoderar-se da camara, dominar
+as demais autoridades e constituir-se senhor de Itaguahy. Desde alguns
+annos que elle forcejava por ver o seu nome incluido nos pellouros para
+o sorteio dos vereadores, mas era recusado por não ter uma posição
+compativel com tão grande cargo. A occasião era agora ou nunca. Demais
+fôra tão longe na arruaça, que a derrota seria a prisão, ou talvez a
+forca, ou o degredo. Infelizmente, a resposta do alienista diminuira o
+furor dos sequazes. O barbeiro, logo que o percebeu, sentiu um impulso
+de indignação, e quiz bradar-lhes:--Canalha! covardes!--mas conteve-se,
+e rompeu deste modo:
+
+--Meus amigos, lutemos até o fim! A salvação de ltaguahy está nas
+vossas mãos dignas e heroicas. Destruamos o carcere de vossos filhos
+e paes, de vossas mães e irmãs, de vossos parentes e amigos, e de
+vós mesmos. Ou morrereis a pão e agua, talvez a chicote, ua masmorra
+daquelle indigno.
+
+A multidão agitou-se, murmurou, bradou, ameaçou, congregou-se toda em
+derredor do barbeiro. Era a revolta que tomava a si da ligeira syncope,
+e ameaçava arrazar a Casa Verde.
+
+--Vamos! bradou Porfirio agitando o chapéo.
+
+--Vamos! repetiram todos.
+
+Deteve-os um incidente: era um corpo de dragões que, a marche-marche,
+entrava na rua Nova.
+
+
+VII
+
+O INESPERADO
+
+
+Chegados os dragões em frente aos Cangicas, houve um instante de
+estupefacção; os Cangicas não queriam crer que a força publica fosse
+mandada contra elles; mas o barbeiro comprehendeu tudo e esperou. Os
+dragões pararam, o capitão intimou á multidão que se dispersasse; mas,
+comquanto uma parte della estivesse inclinada a isso, a outra parte
+apoiou fortemente o barbeiro, cuja resposta consistiu nestes termos
+alevantados:
+
+--Não nos dispersaremos. Se quereis os nossos cadaveres, podeis
+tomal-os; mas só os cadaveres; não levareis a nossa honra, o nosso
+credito, os nossos direitos, e com elles a salvação da Itaguahy.
+
+Nada mais imprudente do que essa resposta do barbeiro; e nada mais
+natural. Era a vertigem das grandes crises. Talvez fosse tambem um
+excesso de confiança na abstenção das armas por parte dos dragões;
+confiança que o capitão dissipou logo, mandando carregar sobre os
+Cangicas. O momento foi indescriptivel. A multidão urrou furiosa;
+alguns, trepando ás janellas das casas, ou correndo pela rua fóra,
+conseguiram escapar; mas a maioria ficou, bufando de colera, indignada,
+animada pela exhortação do barbeiro. A derrota dos Cangicas estava
+imininente, quando um terço dos dragões,--qualquer que fosse o motivo,
+as chronicas não o declaram,--passou subitamente para o lado da
+rebellião. Este inesperado reforço deu alma aos Cangicas, ao mesmo
+tempo que lançou o desanimo ás fileiras da legalidade. Os soldados
+fieis não tiveram coragem de atacar os seus proprios camaradas, e, um a
+um, foram passando para elles, de modo que ao cabo de alguns minutos, o
+aspecto das cousas era totalmente outro. O capitão estava de um lado,
+com alguma gente, contra uma massa compacta que o ameaçava de morte.
+Não teve remedio, declarou-se vencido e entregou a espada ao barbeiro.
+
+A revolução triumphante não perdeu um só minuto; recolheu os feridos
+ás casas proximas, e guiou para a camara. Povo e tropa fraternisavam,
+davam vivas a el-rei, ao vice-rei, a Itaguahy, ao «illustre Porfirio.»
+Este ia na frento, empunhando tão destramente a espada, como se ella
+fosse apenas uma navalha um pouco mais comprida. A victoria cingia-lhe
+a fronte de um nimbo mysterioso. A dignidade de governo começava a
+enrijar-lhe os quadris.
+
+Os vereadores, ás janellas, vendo a multidão e a tropa, cuidaram que a
+tropa capturára a multidão, e sem mais exame, entraram e votaram uma
+petição ao vice-rei para que mandasse dar um mez de soldo aos dragões,
+«cujo denodo salvou Itaguahy do abysmo a que o tinha lançado uma
+cáfila de rebeldes.» Esta phrase foi proposta por Sebastião Freitas, o
+vereador dissidente, cuja defeza dos Cangicas tanto escandalisára os
+collegas. Mas bem depressa a illusão se desfez. Os vivas ao barbeiro,
+os morras aos vereadores e ao alienista vieram dar-lhes noticia da
+triste realidade. O presidente não desanimou:--Qualquer que seja a
+nossa sorte, disse elle, lembremo-nos que estamos ao serviço de Sua
+Magestade e do povo.--Sebastião Freitas insinuou que melhor se poderia
+servir á corôa e á villa sahindo pelos fundos e indo conferenciar com o
+juiz de fóra, mas toda a camara rejeitou esse alvitre.
+
+D'ahi a nada o barbeiro, acompanhado de alguns de seus tenentes,
+entrava na sala da vereança, e intimava á camara a sua queda. A
+camara não resistiu, entregou-se, e foi dalli para a cadeia. Então os
+amigos do barbeiro propozeram-lhe que assumisse o governo da villa,
+em nome de Sua Magestade. Porfirio aceitou o encargo, embora não
+desconhecesse (accrescentou) os espinhos que trazia; disse mais que
+não podia dispensar o concurso dos amigos presentes; ao que elles
+promptamente annuiram. O barbeiro veiu á janella, e communicou ao povo
+essas resoluções, quo o povo ratificou, acclamando o barbeiro. Este
+tomou a denominação de--«Protector da villa em nome de Sua Magestade e
+do povo.»--Expediram-se logo varias ordens importantes, communicações
+officiaes do novo governo, uma exposição minuciosa ao vice-rei, com
+muitos protestos de obediencia ás ordens de Sua Magestade; finalmente,
+uma proclamação ao povo, curta, mas energica:
+
+«Itaguahyenses!
+
+Uma camara corrupta e violenta conspirava contra os interesses de Sua
+Magestade e do povo. A opinião publica tinha-a condemnado; um punhado
+de cidadãos, fortemente apoiados pelos bravos dragões de Sua Magestade,
+acaba de a dissolver ignominiosamente, e por unanime consenso da villa,
+foi-me confiado o mando supremo, até que Sua Magestade se sirva ordenar
+o que parecer melhor ao seu real serviço. Itaguahyenses! não vos peço
+se não que me rodeeis de confiança, que me auxilieis em restaurar a
+paz e a fazenda publica, tão desbaratada pela camara que ora findou ás
+vossas mãos. Contai com o meu sacrificio, e ficai certos de que a coroa
+será por nós.
+
+O Protector da villa em nome de Sua Magestade e do povo
+
+Porfirio Caetano das Neves.»
+
+Toda a gente advertiu no absoluto silencio desta proclamação ácerca
+da Casa Verde; e, segundo uns, não podia haver mais vivo indicio dos
+projectos tenebrosos do barbeiro. O perigo era tanto maior quanto
+que, no meio mesmo desses graves successos, o alienista mettera na
+Casa Verde umas sete ou oito pessoas, entre ellas duas senhoras,
+sendo um dos homens aparentado com o Protector. Não era um repto, um
+acto intencional; mas todos o interpretaram dessa maneira, e a villa
+respirou com a esperança de que o alienista dentro de vinte e quatro
+horas estaria a ferros, e destruido o terrivel carcere.
+
+O dia acabou alegremente. Emquanto o arauto da matraca ia recitando
+de esquina em esquina a proclamação, o povo espalhava-se nas ruas e
+jurava morrer em defeza do illustre Porfirio. Poucos gritos contra a
+Casa Verde, prova de confiança na acção do governo. O barbeiro fez
+expedir um acto declarando feriado aquelle dia, e entabolou negociações
+com o vigario para a celebração de um _Te-Deum_, tão conveniente era
+aos olhos delle a conjuncção do poder temporal com o espiritual; mas o
+padre Lopes recusou abertamente o seu concurso.
+
+--Em todo caso, Vossa Reverendissima não se alistará entre os inimigos
+do governo? disse-lhe o barbeiro dando á physionomia um aspecto
+tenebroso.
+
+Ao que o padre Lopes respondeu, sem responder:
+
+--Como alistar-me, se o novo governo não tem inimigos?
+
+O barbeiro sorriu; era a pura verdade. Salvo o capitão, os vereadores e
+os principaes da villa, toda a gente o acclamava. Os mesmos principaes,
+se o não acclamavam, não tinham saido contra elle. Nenhum dos almotacés
+deixou de vir receber as suas ordens. No geral, as familias abençoavam
+o nome daquelle que ia emfim libertar Itaguahy da Casa Verde e do
+terrivel Simão Bacamarte.
+
+
+VIII
+
+AS ANGUSTIAS DO BOTICARIO
+
+
+Vinte e quatro horas depois dos successos narrados no capitulo
+anterior, o barbeiro saiu do palacio do governo--foi a denominação
+dada á casa da camara--, com dous ajudantes de ordens, e dirigiu-se á
+residencia de Simão Bacamarte. Não ignorava elle que era mais decoroso
+ao governo mandal-o chamar; o receio, porém, de que o alienista não
+obedecesse, obrigou-o a parecer tolerante e moderado.
+
+Não descrevo o terror do boticario ao ouvir dizer que o barbeiro ia á
+casa do alienista.--Vae prendel-o, pensou elle. E redobraram-lhe as
+angustias. Com effeito, a tortura moral do boticario naquelles dias
+de revolução excede a toda a descripção possivel. Nunca um homem se
+achou em mais apertado lance:**--a privança do alienista chamava-o
+ao lado deste, a victoria do barbeiro attrahia-o ao barbeiro. Já a
+simples noticia da sublevação tinha-lhe sacudido fortemente a alma,
+porque elle sabia a unanimidade do odio ao alienista; mas a victoria
+final foi tambem o golpe final. A esposa, senhora mascula, amiga
+particular de D. Evarista, dizia que o lugar delle era ao lado de Simão
+Bacamarte; ao passo que o coração lhe bradava que não, que a causa do
+alienista estava perdida, e que ninguem, por acto proprio, se amarra a
+um cadaver. Fel-o Catão, é verdade, _sed victa Catoni_, pensava elle,
+relembrando algumas palestras habituaes do padre Lopes; mas Catão não
+se atou a uma causa vencida, elle era a propria causa vencida, a causa
+da republica; o seu acto, portanto, foi de egoista, de um miseravel
+egoista; minha situação é outra. Insistindo, porém, a mulher, não achou
+Crispim Soares outra sahida em tal crise senão adoecer; declarou-se
+doente, e metteu-se na cama.
+
+--Lá vai o Porfirio á casa do Dr. Bacamarte, disse-lhe a mulher no dia
+seguinte á cabeceira da cama; vai acompanhado de gente.
+
+--Vai prendel-o, pensou o boticario.
+
+Uma idéa traz outra; o boticario imaginou que, uma vez preso o
+alienista, viriam tambem buscal-o a elle, na qualidade de complice.
+Esta idéa foi o melhor dos visicatorios. Crispim Soares ergueu-se,
+disse que estava bom, que ia sahir; e apesar de todos os esforços
+e protestos da consorte, vestiu-se e sahiu. Os velhos chronistas
+são unanimes em dizer que a certeza de que o marido ia collocar-se
+nobremente ao lado do alienista consolou grandemente a esposa do
+boticario; e notam, com muita perspicacia, o immenso poder moral de uma
+illusão; porquanto, o boticario caminhou resolutamente ao palacio do
+governo, não á casa do alienista. Alli chegando, mostrou-se admirado de
+não ver o barbeiro, a quem ia apresentar os seus protestos de adhesão,
+não o tendo feito desde a vespera por enfermo. E tossia com algum
+custo. Os altos funccionarios que lhe ouviam esta declaração, sabedores
+da intimidade do boticario com o alienista, comprehenderam toda a
+importancia da adhesão nova, e trataram a Crispim Soares com apurado
+carinho; affirmaram-lhe que o barbeiro não tardava; Sua Senhoria tinha
+ido á Casa Verde, a negocio importante, mas não tardava. Deram-lhe
+cadeira, refrescos, elogios; disseram-lhe que a causa do illustre
+Porfirio era a de todos os patriotas; ao que o boticario ia repetindo
+que sim, que nunca pensára outra cousa, que isso mesmo mandaria
+declarar Sua Magestade.
+
+
+IX
+
+DOUS LINDOS CASOS
+
+
+Não se demorou o alienista em receber o barbeiro; declarou-lhe que
+não tinha meios de resistir, e portanto estava prestes a obedecer. Só
+uma cousa pedia, é que o não constrangesse a assistir pessoalmente á
+destruição da Casa Verde.
+
+--Engana-se Vossa Senhoria, disse o barbeiro depois de alguma pausa,
+engana-se em attribuir ao governo intenções vandalicas. Com razão ou
+sem ella, a opinião crê que a maior parte dos doudos alli mettidos
+estão era seu perfeito juizo, mas o governo reconhece que a questão
+é puramente scientifica, e não cogita em resolver com posturas as
+questões scientificas. Demais, a Casa Verde é uma instituição publica;
+tal a aceitamos das mãos da camara dissolvida. Ha, entretanto,--por
+força que ha de haver um alvitre intermedio que restitua o socego ao
+espirito publico.
+
+O alienista mal podia dissimular o assombro; confessou que esperava
+outra cousa, o arrazamento do hospicio, a prisão delle, o desterro,
+tudo, menos...
+
+--O pasmo de Vossa Senhoria, atalhou gravemente o barbeiro, vem de não
+attender á grave responsabilidade do governo. O povo, tomado de uma
+céga piedade, que lhe dá em tal caso legitima indignação, póde exigir
+do governo certa ordem de actos; mas este, com a responsabilidade que
+lhe incumbe, não os deve praticar, ao menos integralmente, e tal é a
+nossa situação. A generosa revolução que hontem derrubou uma camara
+villipendiada e corrupta, pediu em altos brados o arrazamento da
+Casa Verde; mas pode entrar no animo do governo eliminar a loucura?
+Não. E se o governo não a pode eliminar, está ao menos apto para
+discriminal-a, reconhecel-a? Tambem não; é materia de sciencia.
+Logo, em assumpto tão melindroso, o governo não póde, não deve, não
+quer dispensar o concurso de Vossa Senhoria. O que lhe pede é que de
+certa maneira demos alguma satisfação ao povo. Unamo-nos, e o povo
+saberá obedecer. Um dos alvitres aceitaveis, se Vossa Senhoria não
+indicar outro, seria fazer retinir da Casa Verde aquelles enfermos
+que estiverem quasi curados, e bem assim os maniacos de pouca monta,
+etc. Desse modo, sem grande perigo, mostraremos alguma tolerancia e
+benignidade.
+
+--Quantos mortos e feridos houve hontem no conflicto? perguntou Simão
+Bacamarte, depois de uns tres minutos.
+
+O barbeiro ficou espantado da pergunta, mas respondeu logo que onze
+mortos e vinte e cinco feridos.
+
+--Onze mortos e vinte e cinco feridos! repetiu duas ou trez vezes o
+alienista.
+
+E em seguida declarou que o alvitre lhe não parecia bom, mas que
+elle ia catar algum outro, e dentro de poucos dias lhe daria
+resposta. E fez-lhe varias perguntas ácerca dos successos da vespera,
+ataque, defeza, adhesão dos dragões, resistencia da camara, etc.,
+ao que o barbeiro ia respondendo com grande abundancia, insistindo
+principalmente no descredito em que a camara cahira. O barbeiro
+confessou que o novo governo não tinha ainda por si a confiança dos
+principaes da villa, mas o alienista podia fazer muito nesse ponto.
+O govemo, concluiu o barbeiro, folgaria se pudesse contar, não já
+com a sympathia, senão com a benevolencia do mais alto espirito de
+Itaguahy, e seguramente do reino. Mas nada disso alterava a nobre
+e austera physionomia daquelle grande homem, que ouvia calado, sem
+desvanecimento, nem modestia, mas impassivel como um deus de pedra.
+
+--Onze mortos e vinte e cinco feridos, repetiu o alienista, depois de
+acompanhar o barbeiro ate á porta. Eis ahi dous lindos casos de doença
+cerebral. Os symptomas de duplicidade e descaramento deste barbeiro são
+positivos. Quanto á toleima dos que o acclamaram não é preciso outra
+prova além dos onze mortos e vinte e cinco feridos.--Dous lindos casos!
+
+--Viva o illustre Porfirio! bradaram umas trinta pessoas que aguardavam
+o barbeiro á porta.
+
+O alienista espiou pela janella, e ainda ouviu este resto de uma
+pequena falla do barbeiro ás trinta pessoas que o acclamavam.
+
+--... porque eu vélo, podeis estar certos disso, eu vélo pela execução
+das vontades do povo. Confiai em mim; e tudo se fará pela melhor
+maneira. Só vos recommendo ordem. A ordem, meus amigos, é a base do
+governo...
+
+--Viva o illustre Porfirio! bradaram as trinta vozes, agitando os
+chapéos.
+
+--Dous lindos casos! murmurou o alienista.
+
+
+X
+
+A RESTAURAÇÃO
+
+
+Dentro de cinco dias, o alienista metteu na Casa Verde cerca de
+cincoenta acclamadores do novo governo. O povo indignou-se. O governo,
+atarantado, não sabia reagir. João Pina, outro barbeiro, dizia
+abertamente nas ruas, que o Porfirio estava «vendido ao ouro de Simão
+Bacamarte,» phrase que congregou em torno de João Pina a gente mais
+resoluta da villa. Porfirio, vendo o antigo rival da navalha á testa
+da insurreição, comprehendeu que a sua perda era irremediavel, se
+não désse um grande golpe; expediu dous decretos, um abolindo a Casa
+Verde, outro desterrando o alienista. João Pina mostrou claramente, com
+grandes phrases, que o acto de Porfirio era um simples apparato, um
+engodo, em que o povo não devia crer. Duas horas depois cahia Porfirio
+ignominiosamente, e João Pina assumia a difficil tarefa do governo.
+Como achasse nas gavetas as minutas da proclamação, da exposição ao
+vice-rei e de outros actos inauguraes do governo anterior, deu-se
+pressa em os fazer copiar e expedir; accrescentam os chronistas, e
+aliás sub entende-se, que elle lhes mudou os nomes, e onde o outro
+barbeiro fallára de uma camara corrupta, fallou este de «um intruso
+eivado das más doutrinas francesas, e contrario aos sacrosantos
+interesses de Sua Magestade, etc.»
+
+Nisto entrou na villa uma força mandada pelo vice-rei, e restabeleceu
+a ordem. O alienista exigiu desde logo a entrega do barbeiro Porfirio,
+e bem assim a de uns cincoenta e tantos individuos, que declarou
+mentecaptos; e não só lhe deram esses, como afiançaram entregar-lhe
+mais desenove sequazes do barbeiro, que convaleciam das feridas
+apanhadas na primeira rebellião.
+
+Este ponto da crise de Itaguahy marca tambem o grau maximo da
+influencia de Simão Bacamarte. Tudo quanto quiz, deu-se-lhe; e uma das
+mais vivas provas do poder do illustre medico achamol-a na promptidão
+com que os vereadores, restituidos a seus logares, consentiram
+em que Sebastião Freitas tambem fosse recolhido ao hospicio. O
+alienista, sabendo da extraordinaria inconsistencia das opiniões desse
+vereador, entendeu que era um caso pathologico, e pediu-o. A mesma
+cousa aconteceu ao boticario. O alienista, desde que lhe fallaram
+da momentanea adhesão de Crispim Soares á rebellião dos Cangicas,
+comparou-a á approvação que sempre recebera delle, ainda na vespera,
+e mandou captural-o. Crispim Soares não negou o facto, mas explicou-o
+dizendo que cedera a um movimento de terror, ao ver a rebellião
+triumphante, e deu como prova a ausencia de nenhum outro acto seu,
+accrescentando que voltára logo á cama, doente. Simão Bacamarte não
+o contrariou; disse, porém, aos circumstantes que o terror tambem é
+pae da loucura, e que o caso de Crispim Soares lhe parecia dos mais
+caracterisados.
+
+Mas a prova mais evidente da influencia de Simão Bacamarte foi a
+docilidade com que a camara lhe entregou o proprio presidente.
+Este digno magistrado tinha declarado em plena sessão, que não se
+contentava, para laval-o da affronta dos Cangicas, com menos de trinta
+almudes de sangue; palavra que chegou aos ouvidos do alienista por
+boca do secretario da camara, enthusiasmado de tamanha energia. Simão
+Bacamarte começou por metter o secretario na Casa Verde, e foi d'alli á
+camara, á qual declarou que o presidente estava padecendo da «demencia
+dos touros», um genero que elle pretendia estudar, com grande vantagem
+para os povos. A camara a principio hesitou, mas acabou cedendo.
+
+Dahi em diante foi uma collecta desenfreada. Um homem não podia dar
+nascença ou curso á mais simples mentira do mundo, ainda daquellas que
+aproveitam ao inventor ou divulgador, que não fosse logo mettido na
+Casa Verde. Tudo era loucura. Os cultores de enigmas, os fabricantes de
+charadas, de anagrammas, os maldizentes, os curiosos da vida alheia,
+os que põem todo o seu cuidado na tafularia, um ou outro almotacé
+enfunado, ninguem escapava aos emissarios do alienista. Elle respeitava
+as namoradas e não poupava as namoradeiras, dizendo que as primeiras
+cediam a um impulso natural, e as segundas a um vicio. Se um homem era
+avaro ou prodigo ia do mesmo modo para a Casa Verde; dahi a allegação
+de que não havia regra para a completa sanidade mental. Alguns
+chronistas crêem que Simão Bacamarte, nem sempre procedia com lisura, e
+citam em abono da affirmação (que não sei se póde ser aceita) o facto
+de ter alcançado da camara uma postura autorisando o uso de um anel
+de prata no dedo pollegar da mão esquerda, a toda a pessoa que, sem
+outra prova documental ou tradiccional, declarasse ter nas veias duas
+ou tres onças de sangue godo. Dizem esses chronistas que o fim secreto
+da insinuação á camara foi enriquecer um ourives, amigo e compadre
+delle; mas, comquanto seja certo que o ourives viu prosperar o negocio
+depois da nova ordenação municipal, não o é menos que essa postura deu
+á Casa Verde uma multidão de inquilinos; pelo que, não se póde definir,
+sem temeridade, o verdadeiro fim do illustre medico. Quanto á razão
+determinativa da captura e aposentação na Casa Verde de todos quantos
+usaram do annel, é um dos pontos mais obscuros da historia de Itaguahy;
+a opinião mais verosimil é que elles foram recolhidos por andarem a
+gesticular, á tôa, nas ruas, em casa, na egreja. Ninguem ignora que
+os doudos gesticulam muito. Em todo caso é uma simples conjectura; de
+positivo nada ha.
+
+--Onde é que este homem vae parar? diziam os principaes da terra. Ah!
+se nós tivessemos apoiado os Cangicas...
+
+Um dia de manhã,--dia em que a camara devia dar um grande baile,--a
+villa inteira ficou abalada com a noticia de que a propria esposa do
+alienista fôra mettida na Casa Verde. Ninguem acreditou; devia ser
+invenção de algum gaiato. E não era: era a verdade pura. D. Evarista
+fôra recolhida ás duas horas da noite. O padre Lopes correu ao
+alienista e interrogou-o discretamente ácerca do facto.
+
+--Já ha algum tempo que eu desconfiava, disse gravemente o marido.
+A modestia com que ella vivera em ambos os matrimonios não podia
+conciliar-se com o furor das sedas, velludos, rendas e pedras preciosas
+que manifestou, logo que voltou do Rio de Janeiro. Desde então comecei
+a observal-a. Suas conversas eram todas sobre esses objectos; se eu
+lhe fallava das antigas côrtes, inquiria logo da fórma dos vestidos
+das damas; se uma senhora a visitava, na minha ausencia, antes de
+me dizer o objecto da visita, descrevia-me o trajo, approvando umas
+cousas e censurando outras. Um dia, creio que Vossa Reverendissima hade
+lembrar-se, propôz-se a fazer annualmente um vestido para a imagem de
+Nossa Senhora da matriz. Tudo isto eram symptomas graves; esta noite,
+porém, declarou-se a total demencia. Tinha escolhido, preparado,
+enfeitado o vestuario que levaria ao baile da camara municipal; só
+hesitava entre um collar de granada e outro de saphyra. Ante-hontem
+perguntou-me qual delles levaria; respondi-lhe que um ou outro lhe
+ficava bem. Hontem repetiu a pergunta, ao almoço; pouco depois de
+jantar fui achal-a calada e pensativa.--Que tem? perguntei-lhe.--Queria
+levar o collar de granada, mas acho o de saphyra tão bonito!--Pois
+leve o de saphyra.--Ah! mas onde fica o de granada?--Emfim, passou a
+tarde sem novidade. Ceamos, e deitamo-nos. Alta noite, seria hora e
+meia, accordo e não a vejo; levanto-me, vou ao quarto de vestir, acho-a
+diante dos dous collares, ensaiando-os ao espelho, ora um, ora outro.
+Era evidente a demencia; recolhi-a logo.
+
+O padre Lopes não se satisfez com a resposta, mas não objectou nada. O
+alienista, porém, percebeu e explicou-lhe que o caso de D. Evarista era
+de «mania sumptuaria,» não incuravel, e em todo caso digno de estudo.
+
+--Conto pôl-a boa dentro de seis semanas, concluiu elle.
+
+A abnegação do illustre medico deu-lhe grande realce. Conjecturas,
+invenções, desconfianças, tudo cahiu por terra, desde que elle não
+duvidou recolher á Casa Verde a propria mulher, a quem amava com todas
+as forças da alma. Ninguem mais tinha o direito de resistir-lhe,--menos
+ainda o de attribuir-lhe intuitos alheios á sciencia. Era um grande
+homem austero, Hippocrates forrado de Catão.
+
+
+XI
+
+O ASSOMBRO DE ITAGUAHY
+
+
+E agora prepare-se o leitor para o mesmo assombro em que ficou a villa,
+ao saber um dia que os loucos da Casa Verde iam todos ser póstos na rua.
+
+--Todos?
+
+--Todos.
+
+--É impossivel; alguns, sim, mas todos...
+
+--Todos. Assim o disse elle no officio que mandou hoje de manhã á
+camara.
+
+De facto, o alienista officiára á camara expondo:--1°, que verificára
+das estatisticas da villa e da Casa Verde, que quatro quintos da
+população estavam aposentados naquelle estabelecimento; 2°, que esta
+deslocação de população levára-o a examinar os fundamentos da sua
+theoria das molestias cerebraes, theoria que excluia do dominio da
+razão todos os casos em que o equilibrio das faculdades, não fosse
+perfeito e absoluto; 3°, que desse exame e do facto estatistico
+resultára para elle a convicção de que a verdadeira doutrina não era
+aquella, mas a opposta, e portanto que se devia admittir como normal e
+exemplar o desequilibrio das faculdades, e como hypotheses pathologicas
+todos os casos em que aquelle equilibrio fosse ininterrupto; 4°, que á
+vista disso, declarava á camara que ia dar liberdade aos reclusos da
+Casa Verde e agazalhar nella as pessoas que se achassem nas condições
+agora expostas; 5°, que tratando de descobrir a verdade scientifica,
+não se pouparia a esforços de toda a natureza, esperando da camara
+egual dedicação; 6°, que restituia á camara e aos particulares a somma
+do estipendio recebido para alojamento dos suppostos loucos, descontada
+a parte effectivamente gasta com a alimentação, roupa, etc.; o que a
+camara mandaria verificar nos livros e arcas da Casa Verde.
+
+O assombro de Itaguahy for grande; não foi menor a alegria dos parentes
+e amigos dos reclusos. Jantares, dansas, luminarias, musicas, tudo
+houve para celebrar tão fausto acontecimento. Não descrevo as festas
+por não interessarem ao nosso proposito; mas foram esplendidas,
+tocantes e prolongadas.
+
+E vão assim as cousas humanas! No meio do regosijo produzido pelo
+officio de Simão Bacamarte, ninguem advertia na phrase final do § 4°,
+uma phrase cheia de experiencias futuras.
+
+
+XII
+
+O FINAL DO** § 4°
+
+
+Apagaram-se as luminarias, reconstituiram-se as familias, tudo parecia
+reposto uos antigos eixos. Reinava a ordem, a camara exercia outra
+vez o governo, sem nenhuma pressão externa; o proprio presidente e
+o vereador Freitas tornaram aos seus logares. O barbeiro Porfirio,
+ensinado pelos acontecimentos, tendo «provado tudo,» como o poeta disse
+de Napoleão, e mais alguma cousa, porque Napoleão não provou a Casa
+Verde, o barbeiro achou preferivel a gloria obscura da navalha e da
+tesoura ás calamidades brilhantes do poder; foi, é certo, processado;
+mas a população da villa implorou a clemencia de Sua Magestade; dahi
+o perdão. João Pina foi absolvido, attendendo-se a que elle derrocára
+um rebelde. Os chronistas pensam que deste facto é que nasceu o nosso
+adagio:--ladrão que furta a ladrão, tem cem annos de perdão;--adagio
+immoral, é verdade, mas grandemente util.
+
+Não só findaram as queixas contra o alienista, mas até nenhum
+resentimento ficou dos actos que elle praticára; accrescendo que
+os reclusos da Casa Verde, desde que elle os declarara plenamente
+ajuizados, sentiram-se tomados de profundo reconhecimento e férvido
+enthusiasmo. Muitos entenderam que o alienista merecia uma especial
+manifestação, e deram-lhe um baile, ao qual se seguiram outros bailes e
+jantares. Dizem as chronicas que D. Evarista a principio tivera ideia
+de separar-se do consorte, mas a dôr de perder a companhia de tão
+grande homem venceu qualquer resentimento de amor-proprio, e o casal
+veiu a ser ainda mais feliz do que antes.
+
+Não menos intima ficou a amizade do alienista e do boticario. Este
+concluiu do officio de Simão Bacamarte que a prudencia e a primeira
+das virtudes em tempos de revolução, e apreciou muito a magnanimidade
+do alienista que, ao dar-lhe a liberdade, ostendeu-lhe a mão de amigo
+velho.
+
+--É um grande homem, disse elle á mulher, referindo aquella
+circumstancia.
+
+Não é preciso fallar do albardeiro, do Costa, do Coelho, do Martim
+Brito e outros, especialmente nomeados neste escripto; basta dizer
+que puderam exercer livremente os seus habitos anteriores. O proprio
+Martim Brito, recluso por um discurso em que louvára emphaticamente D.
+Evarista, fez agora outro em honra do insigne medico--«cujo altissimo
+genio, elevando as azas muito acima do sol, deixou abaixo de si todos
+os demais espiritos da terra.»
+
+--Agradeço as suas palavras, retorquiu-lhe o alienista, e ainda me não
+arrependo de o haver restituido á liberdade.
+
+Entretanto, a camara, que respondera ao officio de Simão Bacamarte, com
+a resalva de que opportunamente estatuiria em relação ao final do §
+4°, tratou emfim de legislar sobre elle. Foi adoptada, sem debate, uma
+postura autorisando o alienista a agazalhar na Casa Verde as pessoas
+qne se achassem no gozo do perfeito equilibrio das faculdades mentaes.
+E porque a experiencia da camara tivesse sido dolorosa, estabeleceu
+ella a clausula, de que a autorisação era provisoria, limitada a um
+anno, para o fim de ser experimentada a nova theoria psychologica,
+podendo a camara, antes mesmo daquelle prazo, mandar fechar a Casa
+Verde, se a isso fosse aconselhada por motivos de ordem publica. O
+vereador Freitas propôz tambem a declaração de que em nenhum caso
+fossem os vereadores recolhidos ao asylo dos alienados: clausula que
+foi aceita, votada o incluida na postura, apezar das reclamações do
+vereador Galvão. O argumento principal deste magistrado é que a camara,
+legislando sobre uma experiencia scientifica, não podia excluir as
+pessoas dos seus membros das consequencias da lei; a excepção era
+odiosa e ridicula. Mal proferira estas duras palavras, romperam os
+vereadores em altos brados contra a audacia e insensatez do collega;
+este, porém, ouviu-os e limitou-se a dizer que votava contra a excepção.
+
+--A vereança, concluiu elle, não nos dá nenhum poder especial nem nos
+elimina do espirito humano.
+
+Simão Bacamarte aceitou a postura com todas as restricções. Quanto
+á exclusão dos vereadores, declarou que teria profundo sentimento
+se fosse compellido a recolhel-os á Casa Verde; a clausula, porém,
+era a melhor prova de que elles não padeciam do perfeito equilibrio
+das faculdades mentaes. Não acontecia o mesmo ao vereador Galvão,
+cujo acerto na objecção feita, e cuja moderação na resposta dada
+ás invectivas dos collegas mostravam da parte delle um cerebro bem
+organisado; pelo que, rogava á camara que lh'o entregasse. A camara,
+sentindo-se ainda aggravada pelo proceder do vereador Galvão, estimou o
+pedido do alienista, e votou unanimamente a entrega.
+
+Comprehende-se que, pela theoria nova, não bastava um facto ou um dito,
+para recolher alguem á Casa Verde; era preciso um longo exame, um vasto
+inquerito do passado e do presente. O padre Lopes, por exemplo, só foi
+capturado trinta dias depois da postura, a mulher do boticario quarenta
+dias. A reclusão desta senhora encheu o consorte de indignação.
+Crispim Soares sahiu de casa espumando de colera, e declarando ás
+pessoas a quem encontrava que ia arrancar as orelhas ao tyranno.
+Um sujeito, adversario do alienista, ouvindo na rua essa noticia,
+esqueceu os motivos de dissidencia, e correu á casa de Simão Bacamarte
+a participar-lhe o perigo que corria. Simão Bacamarte mostrou-se grato
+ao procedimento do adversario, e poucos minutos lhe bastaram para
+conhecer a rectidão dos seus sentimentos, a boa fé, o respeito humano,
+a generosidade; apertou-lhe muito as mãos, e recolheu-o á Casa Verde.
+
+--Um caso destes é raro, disse elle á mulher pasmada. Agora esperemos o
+nosso Crispim.
+
+Crispim Soares entrou. A dôr vencera a raiva, o boticario não arrancou
+as orelhas ao alienista. Este consolou o seu privado, assegurando-lhe
+que não era caso perdido; talvez a mulher tivesse alguma lesão
+cerebral; ia examinal-a com muita attenção; mas antes disso não podia
+deixal-a na rua. E parecendo-lhe vantajoso reunil-os, porque a astucia
+e velhacaria do marido poderiam de certo modo curar a belleza moral que
+elle descobrira na esposa, disse Simão Bacamarte:
+
+--O senhor trabalhará durante o dia na botica, mas almoçará e jantará,
+com sua mulher, e cá passará as noites, e os domingos e dias santos.
+
+A proposta collocou o pobre boticario na situação do asno de Buridan.
+Queria viver com a mulher, mas temia voltar á Casa Verde; e nessa
+luta esteve algum tempo, até que D. Evarista o tirou da difficuldade,
+promettendo que se incumbiria de vêr a amiga e transmittir os recados
+de um para outro. Crispim Soares beijou-lhe as mãos agradecido. Este
+ultimo rasgo do egoismo pusillanime pareceu sublime ao alienista.
+
+Ao cabo de cinco mezes estavam alojadas umas dezoito pessoas; mas
+Simão Bacamarte não afrouxava; ia de rua em rua, de casa em casa,
+espreitando, interrogando, estudando; e quando colhia um enfermo,
+levava-o com a mesma alegria com que ontrora os arrebanhava ás duzias.
+Essa mesma desproporção confirmava a theoria nova; achára-se enfim a
+verdadeira pathologia cerebral. Um dia, conseguiu metter na Casa Verde
+o juiz de fóra; mas procedia com tanto escrupulo, que o não fez senão
+depois de estudar minuciosamente todos os seus actos, e interrogar os
+principaes da villa. Mais de uma vez esteve prestes a recolher pessoas
+perfeitamente desequilibradas; foi o que se deu com um advogado, em
+quem reconheceu um tal conjuncto de qualidades moraes e mentaes,
+que era perigoso deixal-o na rua. Mandou prendel-o; mas o agente,
+desconfiado, pediu-lhe para fazer uma experiencia; foi ter com um
+compadre, demandado por um testamento falso, e deu-lhe de conselho que
+tomasse por advogado o Salustiano; era o nome da pessoa em questão.
+
+--Então, parece-lhe...?
+
+--Sem duvida: vá, confesse tudo, a verdade inteira, seja qual fôr, e
+confie-lhe a causa.
+
+O homem foi ter com o advogado, confessou ter falsificado o testamento,
+e acabou pedindo que lhe tomasse a causa. Não se negou o advogado,
+estudou os papeis, arrazoou longamente, e provou a todas as luzes
+que o testamento era mais que verdadeiro. A innocencia do réu foi
+solemnemente proclamada pelo juiz, e a herança passou-lhe ás mãos.
+O distincto jurisconsulto deveu a esta experiencia a liberdade. Mas
+nada escapa a um espirito original e penetrante. Sirnão Bacamarte, que
+desde algum tempo notava o zelo, a sagacidade, a paciencia, a moderação
+daquelle agente, reconheceu a habilidade e o tino com que elle levára
+a cabo uma experiencia tão melindrosa e complicada, e determinou
+recolhel-o immediatamente á Casa Verde; deu-lhe, todavia, um dos
+melhores cubiculos.
+
+Os alienados foram alojados por classes. Fez-se uma galeria de
+modestos, isto é, os loucos em quem predominava esta perfeição moral;
+outra de tolerantes, outra de veridicos, outra de simplices, outra de
+leaes, outra de magnanimos, outra de sagazes, outra de sinceros, etc.
+Naturalmente, as familias e os amigos dos reclusos bradavam contra
+a theoria; e alguns tentaram compellir a camara a cassar a licença.
+A camara, porem, não esquecera a linguagem do vereador Galvão, e se
+cassasse a licença, vel-o-hia na rua, e restituido ao logar; pelo que,
+recusou. Simão Bacamarte officiou aos vereadores, não agradecendo, mas
+felicitando-os por esse acto de vingança pessoal.
+
+Desenganados da legalidade, alguns principaes da villa recorreram
+secretamente ao barbeiro Porfirio e afiançaram-lhe todo o apoio
+de gente, dinheiro e influencia na côrte, se elle se puzesse á
+testa de outro movimento contra a camara e o alienista. O barbeiro
+respondeu-lhes que não; que a ambição o levara da primeira vez a
+transgredir as leis, mas que elle se emendára, reconhecendo o erro
+proprio e a pouca consistencia da opinião dos seus mesmos sequazes; que
+a camara entendera autorisar a nova experiencia do alienista, por um
+anno: cumpria, ou esperar o fim do praso, ou requerer ao vice-rei, caso
+a mesma camara rejeitasse o pedido. Jámais aconselharia o emprego de um
+recurso que elle viu falhar em suas mãos, e isso a troco de mortes e
+ferimentos que seriam o seu eterno remorso.
+
+--O que é que me está dizendo? perguntou o alienista quando um agente
+secreto lhe contou a conversação do barbeiro com os principaes da villa.
+
+Dous dias depois o barbeiro era recolhido á Casa Verde.--Preso por ter
+cão, preso por não ter cão! exclamou o infeliz.
+
+Chegou o fim do praso, a camara autorisou um praso supplementar de seis
+mezes para ensaio dos meios therapeuticos. O desfecho deste episodio da
+chronica itaguahyense, é de tal ordem, e tão inesperado, que merecia
+nada menos de dez capitulos de exposição; mas contento-me com um, que
+será o remate da narrativa, e um dos mais bellos exemplos de convicção
+scientifica e abnegação humana.
+
+
+XIII
+
+PLUS ULTRA!
+
+
+Era a vez da therapeutica. Simão Bacamarte, activo e sagaz em descobrir
+enfermos, excedeu-se ainda na diligencia e penetração com que
+principiou a tratal-os. N'este ponto todos os chronistas estão de pleno
+accordo: o illustre alienista fez curas pasmosas, que excitaram a mais
+viva admiração em Itaguahy.
+
+Com effeito, era difficil imaginar mais racional systema therapeutico.
+Estando os loucos divididos por classes, segundo a perfeição moral que
+em cada um d'elles excedia ás outras, Simão Bacamarte cuidou em attacar
+de frente a qualidade predominante. Supponhamos um modesto. Elle
+applicava a medicação que pudesse incutir-lhe o sentimento opposto; e
+não ia logo ás dóses maximas,--graduava-as, conforme o estado, a edade,
+o temperamento, a posição social do enfermo. Ás vezes bastava uma
+casaca, uma fita, uma cabelleira, uma bengala, para restituir a razão
+ao alienado: em outros casos a molestia era mais rebelde; recorria
+então aos aneis de brilhantes, ás distincções honorificas, etc. Houve
+um doente, poeta, que resistiu a tudo. Simão Bacamarte começava a
+desesperar da cura, quando teve ideia de mandar correr matraca, para o
+fim de o apregoar como um rival de Garção e de Pindaro.
+
+--Foi um santo remedio, contava a mãe do infeliz a uma comadre; foi um
+santo remedio.
+
+Outro doente, tambem modesto, oppoz a mesma rebeldia á medicação; mas
+não sendo escriptor, (mal sabia assignar o nome) não se lhe podia
+applicar o remedio da matraca. Simão Bacamarte lembrou-se de pedir para
+elle o lugar de secretario de Academia dos Encobertos estabelecida
+em Itaguahy. Os logares de presidente e secretarios eram de nomeação
+regia, por especial graça do finado rei D. João V, e implicavam o
+tratamento de Excellencia e o uso de uma placa de ouro no chapéu. O
+governo de Lisboa recusou o diploma; mas representando o alienista que
+o não pedia como premio honorifico ou distincção legitima, e sómente
+como um meio therapeutico para um caso difficil, o governo cedeu
+excepcionalmente á supplica; e ainda assim não o fez sem extraordinario
+esforço do ministro de marinha e ultramar, que vinha a ser primo do
+alienado. Foi outro santo remedio.
+
+--Realmente, é admiravel! dizia-se nas ruas, ao ver a expressão sadia e
+enfunada dos dois ex-dementes.
+
+Tal era o systema. Imagina-se o resto. Cada belleza moral ou mental
+era atacada no ponto em que a perfeição parecia mais solida; e o
+effeito era certo. Nem sempre era certo. Casos houve em que a qualidade
+predominante resistia a tudo; então, o alienista atacava outra parte,
+applicando á therapeutica o methodo da estrategia militar, que toma uma
+fortaleza por um ponto, se por outro o não póde conseguir.
+
+No fim de cinco mezes e meio estava vazia a Casa Verde; todos curados!
+O vereador Galvão tão cruelmente affligido de moderação e equidade,
+teve a felicidade de perder um tio; digo felicidade, porque o tio
+deixou um testamento ambiguo, e elle obteve uma boa interpretação,
+corrompendo os juizes, e embaçando os outros herdeiros. A sinceridade
+do alienista manifestou-se nesse lance; confessou ingenuamente que
+não teve parte na cura: foi a simples _vis medicatrix_ da natureza.
+Não aconteceu o mesmo com o padre Lopes. Sabendo o alienista que elle
+ignorava perfeitamente o hebraico e o grego, incumbiu-o de fazer uma
+analyse critica da versão dos Setenta; o padre aceitou a incumbencia,
+e em boa hora o fez; ao cabo de dous mezes possuia um livro e a
+liberdade. Quanto á senhora do boticario, não ficou muito tempo na
+cellula que lhe coube, e onde aliás lhe não faltaram carinhos.
+
+--Porque é que o Crispim não vem visitar-me? dizia ella todos os dias.
+
+Respondiam-lhe** ora uma cousa, ora outra; afinal disseram-lhe a
+verdade inteira. A digna matrona, não pôde conter a indignação e a
+vergonha. Nas explosões da colera escaparam-lhe** expressões soltas e
+vagas, como estas:
+
+--Tratante!... velhaco!... ingrato!... Um patife que tem feito casas á
+custa de unguentos falsificados e pôdres... Ah! tratante!...
+
+Simão Bacamarte advertiu que, ainda quando não fosse verdadeira a
+accusação contida nestas palavras, bastavam ellas para mostrar que a
+excellente senhora estava emfim restituida ao perfeito desequilibrio
+das faculdades; e promptamente lhe deu alta.
+
+Agora, se imaginaes que o alienista ficou radiante ao ver sair o ultimo
+hospede da Casa Verde, mostraes com isso que ainda não conheceis o
+nosso homem. _Plus ultra!_ era a sua divisa. Não lhe bastava ter
+descoberto a theoria verdadeira da loucura; não o contentava ter
+estabelecido em Itaguahy o reinado da razão. _Plus ultra!_ Não ficou
+alegre, ficou preoccupado, cogitativo; alguma cousa lhe dizia que a
+theoria nova tinha, em si mesma, outra e novissima theoria.
+
+--Vejamos, pensava elle; vejamos se chego enfim á ultima verdade.
+
+Dizia isto, passeando ao longo da vasta sala, onde fulgurava a mais
+rica bibliotheca dos dominios ultramarinos de Sua Magestade. Um amplo
+chambre de damasco, preso á cintura por um cordão de seda, com borlas
+de ouro (presente de uma Universidade) envolvia o corpo magestoso e
+austero do illustre alienista. A cabelleira cobria-lhe uma extensa e
+nobre calva adquirida nas cogitações quotidianas da sciencia. Os pés,
+não delgados e femininos, não graudos e mariolas, mas proporcionados
+ao vulto, eram resguardados por um par de sapatos cujas fivelas não
+passavam de simples e modesto latão. Vede a differença:--só se lhe
+notava luxo naquillo que era de origem scientifica; o que propriamente
+vinha delle trazia a côr da moderação e da singelleza, virtudes tão
+ajustadas á pessôa de um sabio.
+
+Era assim que elle ia, o grande alienista, de um cabo a outro da vasta
+bibliotheca, mettido em si mesmo, estranho a todas as cousas que não
+fosse o tenebroso problema da pathologia cerebral. Subito, parou. Em
+pé, deante de uma janella, com o cotovello esquerdo apoiado na mão
+direita, aberta, e o queixo na mão esquerda, fechada, perguntou elle a
+si:
+
+--Mas deveras estariam elles doudos, e foram curados por mim,--ou
+o que pareceu cura, não foi mais do que a descoberta do perfeito
+desequilibrio do cerebro?
+
+E cavando por ahi abaixo, eis o resultado a que chegou: os cerebros
+bem organisados que elle acabava de curar, eram tão desequilibrados
+como os outros. Sim, dizia elle comsigo, eu não posso ter a pretenção
+de haver-lhes incutido um sentimento ou uma faculdade nova;uma e outra
+cousa existiam no estado latente, mas existiam.
+
+Chegado a esta conclusão, o illustre alienista teve duas sensações
+contrarias, uma de gozo, outra de abatimento. A de gozo foi por
+vêr que, ao cabo de longas e pacientes investigações, constantes
+trabalhos, lucta ingente com o povo, podia affirmar esta verdade:--não
+havia loucos em Itaguahy; Itaguahy não possuia um só mentecapto.
+Mas tão depressa esta idéa lhe refrescara a alma, outra appareceu
+que neutralisou o primeiro effeito; foi a idéa da duvida. Pois que!
+Itaguahy não possuiria um unico cerebro concertado? Esta conclusão tão
+absoluta, não seria por isso mesmo erronea, e não vinha, portanto,
+destruir o largo e magestoso edificio da nova doutrina psychologica?
+
+A afflicção do egregio Simão Bacamarte é definida pelos chronistas
+itaguahyenses como uma das mais medonhas tempestades moraes que tem
+desabado sobre o homem. Mas as tempestades só atterram os fracos; os
+fortes enrijam-se contra ellas e fitam o trovão. Vinte minutos depois
+allumiou-se a physionomia do alienista de uma suave claridade.
+
+--Sim, ha de ser isso, pensou elle.
+
+Isso é isto. Simão Bacamarte achou em si os caracteristicos do perfeito
+equilibrio mental e moral; pareceu-lhe que possuia a sagacidade, a
+paciencia, a perseverança, a tolerancia, a veracidade, o vigor moral,
+a lealdade, todas as qualidades emfim que pódem formar um acabado
+mentecapto. Duvidou logo, é certo, e chegou mesmo a concluir que era
+illusão; mas sendo homem prudente, resolveu convocar um conselho de
+amigos, a quem interrogou com franqueza. A opinião foi affirmativa.
+
+--Nenhum defeito?
+
+--Nenhum, disse em côro a assembléa.
+
+--Nenhum vicio?
+
+--Nada.
+
+--Tudo perfeito?
+
+--Tudo.
+
+--Não, impossivel, bradou o alienista. Digo que não sinto em mim essa
+superioridade que acabo de ver definir com tanta magnificencia. A
+sympathia é que vos faz fallar. Estudo-me e nada acho que justifique os
+excessos da vossa bondade.
+
+A assembléa insistiu; o alienista resistiu; finalmente o padre Lopes
+explicou tudo com este conceito digno de um observador.
+
+--Sabe a razão porque não vê as suas elevadas qualidades, que aliás
+todos nós admiramos? É porque tem ainda uma qualidade que realça as
+outras:--a modestia.
+
+Era decisivo. Simão Bacamarte curvou a cabeça, juntamente alegre e
+triste, e ainda mais alegre do que triste. Acto continuo, recolheu-se á
+Casa Verde. Em vão a mulher e os amigos lhe disseram que ficasse, que
+estava perfeitamente são e equilibrado: nem rogos nem suggestões nem
+lagrimas o detiveram um só instante. A questão é scientifica, dizia
+elle; trata-se de uma doutrina nova, cujo primeiro exemplo sou eu.
+Reuno em mim mesmo a theoria e a pratica.
+
+--Simão! Simão! meu amor! dizia-lhe a esposa com o rosto lavado em
+lagrimas.
+
+Mas o illustre medico, com os olhos accesos da convicção scientifica,
+trancou os ouvidos á saudade da mulher, e brandamente a repelliu.
+Fechada a porta da Casa Verde, entregou-se ao estudo e á cura de si
+mesmo. Dizem os chronistas que elle morreu dalli a dezesete mezes,
+no mesmo estado em que entrou, sem ter podido alcançar nada. Alguns
+chegam ao ponto de conjecturar que nunca houve outro louco, além delle,
+em ltaguahy; mas esta opinião, fundada em um boato que correu desde
+que o alienista expirou, não tem outra prova, senão o boato; e boato
+duvidoso, pois é attribuido ao padre Lopes, que com tanto fogo realçara
+as qualidades do grande homem. Seja como fôr, effectuou-se o enterro
+com muita pompa e rara solemnidade.
+
+
+
+
+THEORIA DO MEDALHÃO
+
+DIALOGO
+
+
+--Estás com somno?
+
+--Não, senhor.
+
+--Nem eu; conversemos um pouco. Abre a janella. Que horas são?
+
+--Onze.
+
+--Sahiu o ultimo conviva do nosso modesto jantar. Com que, meu peralta,
+chegaste aos teus vinte e um annos. Ha vinte e um annos, no dia 5 de
+agosto de 1854, vinhas tu á luz, um pirralho de nada, e estás homem,
+longos bigodes, alguns namoros...
+
+--Papai...
+
+--Não te ponhas com denguices, e fallemos como dous amigos sérios.
+Fecha aquella porta; vou dizer-te cousas importantes. Senta-te e
+conversemos. Vinte e um annos, algumas apolices, urn diploma, pódes
+entrar no parlamento, na magistratura, na imprensa, na lavoura, na
+industria, no commercio, nas lettras ou nas artes. Ha infinitas
+carreiras diante de ti, Vinte e um annos, meu rapaz, formam apenas a
+primeira syllaba do nosso destino. Os mesmos Pitt e Napoleão, apezar
+de precoces, não foram tudo aos vinte e um annos. Mas, qualquer que
+seja a profissão da tua escolha, o meu desejo é que te faças grande e
+illustre, ou pelo menos notavel, que te levantes acima da obscuridade
+commum. A vida, Janjão, é uma enorme loteria; os premios são poucos,
+os mallogrados innumeros, e com os suspiros de uma geração é que
+se amassam as esperanças de outra. Isto é a vida; não ha planger,
+nem imprecar, mas aceitar as cousas integralmente, com seus onus e
+precalços, glorias e desdouros, e ir por diante.
+
+--Sim, senhor.
+
+--Entretanto, assim como é de boa economia guardar um pão para
+a velhice, assim tambem é de boa pratica social acautellar um
+officio para a hypothese de que os outros falhem, on não indemnisem
+sufificientemente o esforço da nossa ambição. É isto o que te aconselho
+hoje, dia da tua maioridade.
+
+--Creia que lhe agradeço; mas que officio, não me dirá?
+
+--Nenhum me parece mais util e cabido que o de medalhão. Ser medalhão
+foi o sonho da minha mocidade; faltaram-me, porém as instrucções de
+um pai, e acabo como vês, sem outra consolação e relevo moral, alem
+das esperanças que deposito em ti. Ouve-me bem, meu querido filho,
+ouve-me e entende. És moço, tens naturalmente o ardor, a exhuberancia,
+os improvisos da idade; não os rejeites, mas modera-os de modo que
+aos quarenta e cinco annos possas entrar francamente no regimen do
+aprumo e do compasso. O sabio que disse: «a gravidade é um mysterio do
+corpo», definiu a compostura do medalhão. Não confundas essa gravidade
+com aquella outra que, embora resida no aspecto, é um puro reflexo ou
+emanação do espirito; essa é do corpo, tão sómente do corpo, um signal
+da natureza ou uin geito da vida. Quanto á edade de quarenta e cinco
+annos...
+
+--É verdade, porque quarenta e cinco annos?
+
+--Não é, como podes suppôr, ura limite arbitrario, filho do puro
+capricho; é a data normal do phenomeno. Geralmente, o verdadeiro
+medalhão começa a manifestar-se entre os quarenta o cinco e cincoenta
+annos, comquanto alguns exemplos se dêm eutre os cincoenta e cinco e
+os sessenta; mas estes são raros. Ha-os tambem de quarenta annos, e
+outros mais precoces, de trinta e cinco e de trinta; não são, todavia,
+vulgares. Não fallo dos de vinte e cinco annos: esse madrugar é
+privilegio do genio.
+
+--Entendo.
+
+--Venhamos ao principal. Uma vez entrado na carreira, deves pôr todo
+o cuidado nas idéas que houveres de nutrir para uso alheio e proprio.
+O melhor será não as ter absolutamente; cousa que entenderás bem,
+imaginando, por exemplo, um actor defraudado do uso de um braço. Elle
+pode, por um milagre de artificio, dissimular o defeito aos olhos da
+platéa; mas era muito melhor dispor dos dous. O mesmo se dá com as
+idéas; póde-se, com violencia, abafal-as, escondel-as até á morte; mas
+nem essa habilidade é commum, nem tão constante esforço conviria ao
+exercicio da vida.
+
+--Mas quem lhe diz que eu....
+
+--Tu, meu filho, se me não engano, pareces dotado da perfeita inopia
+mental, conveniente ao uso deste nobre officio. Não me refiro tanto á
+fidelidade com que repetes numa sala as opiniões ouvidas n'uma esquina,
+e vice-versa, porque esse facto, posto indique certa carencia de idéas,
+ainda assim póde não passar de uma traição da memoria. Não; refiro-me
+ao gesto correcto e perfilado com que usas expender francamente as tuas
+sympathias ou antipathias ácerca do córte de um collete, das dimensões
+de um chapéu, do ranger ou calar das botas novas. Eis ahi um symptoma
+eloquente, eis ahi uma esperança. No entanto, podendo acontecer
+que, com a edade, venhas a ser affligido de algumas idéas proprias,
+urge apparelhar fortemente o espirito. As idéas são de sua natureza
+expontaneas e subitas; por mais que as sofremos, ellas irrompem e
+precipitam-se. Dahi a certeza com que o vulgo, cujo faro é extremamente
+delicado, distingue o medalhão completo do medalhão incompleto.
+
+--Creio que assim seja; mas um tal obstaculo é invencivel.
+
+--Não é; ha um meio; é lançar mão de um regimen debilitante, ler
+compendios de rhetorica, ouvir certos discursos, etc. O voltarete,
+o dominó e o whist são remedios approvados. O whist tem até a rara
+vantagem de acostumar ao silencio, que é a fórma mais accentuada
+da circumpecção. Não digo o mesmo da natação, da equitação e da
+gymnastica, embora ellas façam repousar o cerebro; mas por isso mesmo
+que o fazem repousar, restituem-lhe as forças e a actividade perdidas.
+O bilhar é excellente.
+
+--Como assim, se tambem é um exercicio corporal?
+
+--Não digo que não, mas ha cousas em que a observação desmente a
+theoria. Se te aconselho excepcionalmente o bilhar é porque as
+estatisticas mais escrupulosas mostram que tres quartas partes dos
+habituados do taco partilham as opiniões do mesmo taco. O passeio nas
+ruas, mormente nas de recreio e parada é utilissimo, com a condição de
+não andares desacompanhado, porque a solidão é officina de idéas, e o
+espirito deixado a si mesmo, embora no meio da multidão, póde adquirir
+uma tal ou qual actividade.
+
+--Mas se eu não tiver á mão um amigo apto e disposto a ir commigo?
+
+--Não faz mal; tens o valente recurso de mesclar-te aos pasmatorios,
+em que toda a poeira da solidão se dissipa. As livrarias, ou por causa
+da atmosphera do logar, ou por qualquer outra razão que me escapa, não
+são propicias ao nosso fim; e, não obstante, ha grande conveniencia
+em entrar por ellas, de quando em quando, não digo ás occultas, mas
+ás escancaras. Pódes resolver a difficuldade de um modo simples: vai
+alli fallar do boato do dia, da anecdota da semana, de um contrabando,
+de uma calumnia, de um cometa, de qualquer cousa, quando não prefiras
+interrogar directamente os leitores habituaes das bellas chronicas
+de Mazade: 75 por cento desses estimaveis cavalheiros repetir-te-hão
+as mesmas opiniões, e uma tal monotonia é grandemente saudavel. Com
+este regimen, durante oito, dez, dezoito mezes--supponhamos dous
+annos,--reduzes o intellecto, por mais prodigo que seja, á sobriedade,
+á disciplina, ao equilibrio commum. Não trato do vocabulario, porque
+elle está sub-entendido no uso das idéas; ha de ser naturalmente
+simples, tibio, apoucado, sem notas vermelhas, sem cores de clarim...
+
+--Isto é o diabo! Não poder adornar o estylo, de quando em quando....
+
+--Podes; podes empregar umas quantas figuras expressivas, a hydra
+de Lerna, por exemplo, a cabeça de Meduza, o tonel das Danaides,
+as azas de Icaro, e outras, que romanticos, classicos e realistas
+empregam sem desar, quando precisam d'ellas. Sentenças latinas, ditos
+historicos, versos celebres, brocardos juridicos, maximas, é de bom
+aviso trazel-os comtigo para os discursos de sobremesa, do felicitação,
+ou de agradecimento. _Caveant, consules_ é um excellente fecho de
+artigo politico; o mesmo direi do _Si vis pacem para bellum._ Alguns
+costumam renovar o sabor de uma citação intercalando-a n'uma phrase
+nova, original e bella, mas não te aconselho esse artificio: seria
+desnaturar-lhe as graças vetustas. Melhor do que tudo isso, porem, que
+afinal não passa de mero adorno, são as phrases feitas, as locuções
+convencionaes, as formulas consagradas pelos annos, incrustadas na
+memoria individual e publica. Essas formulas têm a vantagem de não
+obrigar os outros a um esforço inutil. Não as relaciono agora, mas
+fal-o-hei por escripto. De resto, o mesmo officio te irá ensinando os
+elementos d'essa arte difficil de pensar o pensado. Quanto á utilidade
+de um tal systema, basta figurar uma hypothese. Faz-se uma lei,
+executa-se, não produz effeito, subsiste o mal. Eis ahi uma questão
+que póde aguçar as curiosidades vadias, dar ensejo a um inqurrito
+pedantesco, a uma collecta fastidiosa de documentos e observações,
+analyse das causas provaveis, causas certas, causas possiveis, um
+estudo infinito das aptidões do sujeito reformado, da natureza do mal,
+da manipulação do remedio, das circumstancias da applicação; materia,
+enfim, para todo nm andaime de palavras, conceitos, e desvarios.
+Tu poupas aos teus semelhantes todo esse immenso aranzel, tu dizes
+simplesmente: Antes das leis, reformemos os costumes!--E esta phrase
+synthetica, transparente, limpida, tirada ao peculio commum, resolve
+mais depressa o problema, entra pelos espiritos como um jorro subito de
+sol.
+
+--Vejo por ahi que vosmecê condemna toda e qualquer applicação de
+processos modernos.
+
+--Entendamo-nos. Condemno a applicação, louvo a denominação. O mesmo
+direi de toda a recente terminologia scientifica; deves decoral-a.
+Com quanto o rasgo peculiar do medalhão seja uma certa attitude de
+deus Termino, e as sciencias sejam obra do movimento humano, como
+tens de ser medalhão mais tarde, convém tomar as armas do teu tempo.
+E de duas uma:--ou ellas estarão usadas e divulgadas d'aqui a trinta
+annos, ou conservar-se-hão novas: no primeiro caso, pertencem-te de
+fôro proprio; no segundo, podes ter a coquetice de as trazer, para
+mostrar que tambem és pintor. De outiva, com o tempo, irás sabendo a
+que leis, casos e phenomenos responde toda essa terminologia; porque o
+methodo de interrogar os proprios mestres e officiaes da sciencia, nos
+seus livros, estudos e memorias, além de tedioso e cançativo, traz o
+perigo de inocular ideas novas, e é radicalmente falso. Accresce que
+no dia em que viesses a assenhoriar-te do espirito d'aquellas leis e
+formulas, serias provavelmente levado a empregal-as com um tal ou qual
+comedimento, como a costureira--esperta e afreguezada,--que, segundo um
+poeta, classico,
+
+   Quanto mais panno tem, mais poupa o córte,
+   Menos monte alardea de retalhos;
+
+e este phenomeno, tratando-se de um medalhão, é que não seria
+scientifico.
+
+--Upa, que a profissão é difficil.
+
+--E ainda não chegamos ao cabo.
+
+--Vamos a elle.
+
+--Não te fallei ainda dos beneficios da publicidade. A publicidade
+é uma dona loureira e senhoril, que tu deves requestar á força, de
+pequenos mimos, confeitos, almofadinhas, cousas miudas, que antes
+exprimem a constancia do affecto do que o atrevimento e a ambição.
+Que D. Quixote solicite os favores della mediante acções heroicas ou
+custosas, é um sestro proprio d'esse illustre lunatico. O verdadeiro
+medalhão tem outra politica. Longe de inventar um _Tratado scientifico
+da creação dos carneiros_, compra um carneiro e dá-o aos amigos sob a
+fórma de um jantar, cuja noticia não pode ser indifferente aos seus
+concidadãos. Uma noticia traz outra; cinco, dez, vinte vezes põe o teu
+nome ante os olhos do mundo. Commissões ou deputações para felicitar um
+agraciado, um benemerito, um forasteiro, tem singulares merecimentos,
+e assim as irmandades e associações diversas, sejam mythologicas,
+cynegeticas ou coreographicas. Os successos de certa ordem, embora de
+pouca monta, podem ser trazidas a lume, comtanto que ponham em relevo
+a tua pessoa. Explico-me. Se caires de um carro, sem outro damno, além
+do susto, é util mandal-o dizer aos quatro ventos, não pelo facto em
+si, que é insignificante, mas pelo effeito de recordar um nome caro ás
+affeições geraes. Percebeste?
+
+--Percebi.
+
+--Essa é publicidade constante, barata, facil, de todos os dias; mas ha
+outra. Qualquer que seja a theoria das artes, é fora de duvida que o
+sentimento da familia, a amisade pessoal e a estima publica instigam á
+reproducção das feições de um homem amado ou benemerito. Nada obsta a
+que sejas objecto de uma tal distincção, principalmente se a sagacidade
+dos amigos não achar em ti repugnancia. Em semelhante caso, não só as
+regras da mais vulgar polidez mandam aceitar o retrato ou o busto, como
+seria desasado impedir que os amigos o expuzessem em qualquer casa
+publica. Dessa maneira o nome fica ligado á pessoa; os que houverem
+lido o teu recente discurso (supponhamos) na sessão inaugural da União
+dos Cabellereiros, reconhecerão na compostura das feições o autor dessa
+obra grave, em que a «alavanca do progresso» e o «suor do trabalho»,
+vencem as «fauces hiantes» da miseria. No caso de que uma commissão te
+leve á casa o retrato, deves agradecer-lhe o obsequio com um discurso
+cheio de gratidão e um copo d'agua: é uso antigo, razoavel e honesto.
+Convidarás então os melhores amigos, os parentes, e, se fôr possível,
+uma ou duas pessoas de representação. Mais. Se esse dia é um dia de
+gloria ou regosijo, não vejo que possas, decentemente, recusar um lugar
+á mesa aos _reporters_ dos jornaes. Em todo o caso, se as obrigações
+desses cidadãos os retiverem n'outra parte, podes ajudal-os de certa
+maneira, redigindo tu mesmo a noticia da festa; e, dado que por um tal
+ou qual escrupulo, aliás desculpavel, não queiras com a propria mão
+annexar ao teu nome os qualificativos dignos delle, incumbe a noticia a
+algum amigo ou parente.
+
+--Digo-lhe que o que vosmecê me ensina não é nada facil.
+
+--Nem eu te digo outra cousa. É difficil, como tempo, muito tempo, leva
+annos, paciencia, trabalho, e felizes os que chegam a entrar na terra
+promettida! Os que lá não penetram, engole-os a obscuridade. Mas os que
+triumpham! E tu triumpharás, crê-me. Verás cahir as muralhas de Jerichó
+ao som das trompas sagradas. Só então poderás dizer que estás fixado.
+Começa nesse dia a tua phase de ornamento indispensavel, de figura
+obrigada, de rotulo. Acabou-se a necessidade de farejar occasiões,
+commissões, irmandades; ellas virão ter contigo, com o seu ar pesadão
+e crú de substantivos desadjectivados, e tu serás o adjectivo dessas
+orações opacas, o _odorifero_ das flores, o _anilado_ dos _céus_, o
+_prestimoso_ dos cidadãos, o _noticioso_ e _succulento_ dos relatorios.
+E ser isso é o principal, porque o adjectivo é a alma do idioma, a sua
+porção idealista e metaphysica. O substantivo é a realidade nua e crua,
+é o naturalismo do vocabulario.
+
+--E parece-lhe que todo esse officio é apenas um sobresalente para os
+_deficits_ da vida?
+
+--De certo; não fica excluida nenhuma outra actividade.
+
+--Nem politica?
+
+--Nem politica. Toda a questão é não infringir as regras e obrigações
+capitaes. Podes pertencer a qualquer partido, liberal ou conservador,
+republicano ou ultramontano, com a clausula unica de não ligar nenhuma
+idéa especial a esses vocábulos, e reconhecer-lhe sómente a utilidade
+do _scibboleth_ biblico.
+
+--Se for ao parlamento, posso occupar a tribuna?
+
+--Podes e deves; é um modo de convocar a attenção publica. Quanto á
+materia dos discursos, tens á escolha:--ou os negocios miudos, ou a
+metaphysica politica, mas prefere a metaphysica. Os negocios miudos,
+força é confessal-o, não desdizem d'aquella chateza de bom tom, propria
+de um medalhão acabado; mas, se poderes, adopta a metaphysica;--é mais
+facil e mais attrahente. Suppõe que desejas saber porque motivo a 7a
+companhia de infantaria foi transferida de Uruguayana para Cangussú;
+serás ouvido tão sómente pelo ministro da guerra, que te explicará
+em dez minutos as razões d'esse acto. Não assim a metaphysica. Um
+discurso de metaphysica politica apaixona naturalmente os partidos
+e o publico, chama os apartes e as respostas. E depois não obriga a
+pensar e descobrir. N'esse ramo dos conhecimentos humanos tudo está
+achado, formulado, rotulado, encaixotado; é só prover os alforges da
+memoria. Em todo caso, não transcedas nunca os limites de uma invejavel
+vulgaridade.
+
+--Farei o que puder. Nenhuma imaginação?
+
+--Nenhuma; antes faze correr o boato de que um tal dom é infimo.
+
+--Nenhuma philosophia?
+
+--Entendamo-nos: no papel e na lingua alguma, na realidade nada.
+«Philosophia da historia,» por exemplo, é uma locução que deves
+empregar com frequencia, mas prohibo-te que chegues a outras conclusões
+que não sejam as já achadas por outros. Foge a tudo que possa cheirar a
+reflexão, originalidade, etc., etc.
+
+--Também ao riso?
+
+--Como ao riso?
+
+--Ficar serio, muito serio...
+
+--Conforme. Tens um um genio folgasão, prasenteiro, não has de
+sofreal-o nem eliminal-o; pódes brincar e rir alguma vez. Medalhão não
+quer dizer melancolico. Um grave póde ter seus momentos de expansão
+alegre. Sómente,--e este ponto é melindroso...
+
+--Diga. [added part of sentence]--**Somente não deves empregar a
+ironia, esse movimento ao canto da boca cheio do mysterios, inventado
+por algum grego da decadencia, contrahido** por Luciano, transmittido
+a Swift e Voltaire, feição propria dos scepticos e desabusados. Não.
+Usa antes a chalaça, a nossa boa chalaça amiga, gorducha, redonda,
+franca, sem biocos, nem véus, que se mette pela cara dos outros, estala
+com uma palmada, faz pular o sangue nas veias, e arrebentar de riso os
+suspensorios. Usa a chalaça. Que é isto?
+
+--Meia noite.
+
+--Meia noite? Entras nos teus vinte e dois annos, meu peralta; estás
+definitivamente maior. Vamos dormir, que é tarde. Rumina bem o que te
+disse, meu filho. Guardadas as proporções, a conversa d'esta noite vale
+o_ Principe_ de Machiavelli. Vamos dormir.
+
+
+FIM DA THEORIA DO MEDALHÃO
+
+
+
+
+A CHINELA TURCA[1]
+
+
+Vede o bacharel Duarte. Acaba de compor o mais teso e correcto laço de
+gravata que appareceu naquelle anno de 1850, e annunciam-lhe a visita
+do major Lopo Alves. Notai que é de noite, e passa de nove horas.
+Duarte estremeceu e tinha duas razões para isso. A primeira era ser o
+major, em qualquer occasião, um dos mais enfadonhos sujeitos do tempo.
+A segunda é que elle preparava-se justamente para ir ver, em um baile,
+os mais finos cabellos louros e os mais pensativos olhos azues, que
+este nosso clima, tão avaro delles, produzira. Datava de uma semana
+aquelle namoro. Seu coração, deixando-se prender entre duas valsas,
+confiou aos olhos, que eram castanhos, uma declaração em regra, que
+elles pontualmente transmittiram á moça, dez minutos antes da ceia,
+recebendo favoravel resposta logo depois do chocolate. Tres dias
+depois, estava a caminho a primeira carta, e pelo geito que levavam as
+cousas não era de admirar que, antes do fim do anno, estivessem ambos
+a caminho da egreja. Nestas circumstancias, a chegada de Lopo Alves
+era uma verdadeira calamidade. Velho amigo da familia, companheiro de
+seu finado pae no exercito, tinha jus o major a todos os respeitos.
+Impossivel despedil-o ou tratal-o com frieza. Havia felizmente uma
+circumstancia attenuante; o major era aparentado com Cecilia, a moça
+dos olhos azues; em caso de necessidade, era um voto seguro.
+
+Duarte enfiou um chambre e dirigiu-se para a sala, onde Lopo Alves, com
+um rolo debaixo do braço e os olhos fitos no ar, parecia totalmente
+alheio á chegada do bacharel.
+
+--Que bom vento o trouxe a Catumby a semelhante hora? perguntou Duarte,
+dando á voz uma expressão de prazer, aconselhada não menos pelo
+interesse que pelo bom tom.
+
+--Não** sei se o vento que me trouxe é bom ou mau, respondeu o major
+sorrindo por baixo do espesso bigode grisalho; sei que foi um vento
+rijo. Vai sahir?
+
+--Vou ao Rio Comprido.
+
+--Já sei; vae á casa da viuva Menezes. Minha mulher e as pequenas já lá
+devem estar: eu irei mais tarde, se puder. Creio que é cedo, não?
+
+Lopo Alves tirou o relogio e viu que eram nove horas e meia. Passou
+a mão pelo bigode, levantou-se, deu alguns passos na sala, tornou a
+sentar-se e disse:
+
+--Dou-lhe uma noticia, que certamente não espera. Saiba que fiz... fiz
+um drama.
+
+--Um drama! exclamou o bacharel.
+
+--Que quer? Desde creança padeci destes achaques litterarios. O serviço
+militar não foi remedio que me curasse, foi um palliativo. A doença
+regressou com a força dos primeiros tempos. Já agora não ha remedio se
+não deixal-a, e ir simplesmente ajudando a natureza.
+
+Duarte recordou-se de que effectivamente o major fallava n'outro tempo
+de alguns discursos inauguraes, duas ou tres nenias e boa somma de
+artigos que escrevera ácerca das campanhas do Rio da Prata. Havia
+porém muitos annos que Lopo Alves deixára em paz os generaes platinos
+e os defuntos; nada fazia suppôr que a molestia volvesse, sobre tudo
+caracterisada por um drama. Esta circumstancia explical-a-hia o
+bacharel, se soubesse que Lopo Alves algumas semanas antes, assistira
+á representação de uma peça do genero ultra-romantico, obra que lhe
+agradou muito e lhe suggeriu a idéa de affrontar as luzes do tablado.
+Não entrou o major nestas minuciosidades necessarias, e o bacharel
+ficou sem conhecer o motivo da explosão dramatica do militar. Nem
+o soube, nem curou disso. Encareceu muito as faculdades mentaes do
+major, manifestou calorosamente a ambição que nutria de o ver sahir
+triumpliante naquella estréa, prometteu que o recommendaria a alguns
+amigos que tinha no _Correio Mercantil_, e só estacou e empallideceu
+quando viu o major, tremulo de bem-aventurança, abrir o rolo que trazia
+comsigo.
+
+--Agradeço-lhe as suas boas intenções, disse Lopo Alves, e acceito o
+obsequio que me promette; antes delle, porém, desejo outro. Sei que
+é intelligente e lido; ha de me dizer francamente o que pensa deste
+trabalho. Não lhe peço elogios, exijo franqueza e franqueza rude. Se
+achar que não é bom, diga-o sem rebuço.
+
+Duarte procurou desviar aquelle calix de amargura; mas era difficil
+pedil-o, e impossivel alcançal-o. Consultou melancholicamente o
+relogio, que marcava nove horas e cincoenta e cinco minutos, emquanto o
+major folheava paternalmente as cento e oitenta folhas do manuscripto.
+
+--Isto vai depressa, disse Lopo Alves; eu sei o que são rapazes e o
+que são bailes. Descanse que ainda hoje dansará duas ou tres valsas
+com _ella_, se a tem, ou com ellas. Não acha melhor irmos para o seu
+gabinete?
+
+Era indifferente, para o bacharel, o lugar do supplicio; accedeu ao
+desejo do hospede. Este, com a liberdade que lhe davam as relações,
+disse ao moleque que não deixasse entrar ninguem. O algoz não queria
+testemunhas. A porta do gabinete fechou-se; Lopo Alves tomou logar
+ao pé da mesa, tendo em frente o bacharel, que mergulhou o corpo e
+o desespero n'uma vasta poltrona de marroquim, resoluto a não dizer
+palavra para ir mais depressa ao termo.
+
+O drama dividia-se em sete quadros. Esta indicação produziu um calafrio
+no ouvinte. Nada havia de novo naquellas cento e oitenta paginas, senão
+a lettra do autor. O mais eram os lances, os caracteres, as _ficelles_
+e até o estylo dos mais acabados typos do romantismo desgrenhado. Lopo
+Alves cuidava pôr por obra uma invenção, quando não fazia mais do que
+alinhavar as suas reminiscencias. N'outra occasião, a obra seria um
+bom passatempo. Havia logo no primeiro quadro, especie de prologo, uma
+creança roubada á familia, um envenenamento, dous embuçados, a ponta de
+um punhal e quantidade de adjectivos não menos afiados que o punhal. No
+segundo, quadro dava-se conta da morte de um dos embuçados, que devia
+ressuscitar no terceiro, para ser preso no quinto, e matar o tyranno do
+septimo. Além da morte apparente do embuçado, havia no segundo quadro
+o rapto da menina, já então moça de desesete annos, um monologo que
+parecia durar igual praso, e o roubo de um testamento.
+
+Eram quasi onze horas quando acabou a leitura deste segundo quadro.
+Duarte mal podia conter a colera; era já impossivel ir ao Rio Comprido.
+Não é fóra de proposito conjecturar que, se o major expirasse naquelle
+momento, Duarte agradecia a morte como um beneficio da Providencia.
+Os sentimentos do bacharel não faziam crer tamanha ferocidade; mas
+a leitura de um máu livro é capaz de produzir phenomenos ainda mais
+espantosos. Accresce que, emquanto aos olhos carnaes do bacharel
+apparecia em toda a sua espessura a grenha de Lopo Alves, fulgiam-lhe
+ao espirito os fios de ouro que ornavam a formosa cabeça de Cecilia;
+via-a com os olhos azues, a tez branca e rosada, o gesto delicado e
+gracioso, dominando todas as demais damas que deviam estar no salão da
+viuva Menezes. Via aquillo, e ouvia mentalmente a musica, a palestra,
+o sôar dos passos, e o ruge-ruge das sedas; emquanto a voz rouquenha e
+sensaborona de Lopo Alves ia desfiando os quadros e os dialogos, com a
+impassibilidade de uma grande convicção.
+
+Voava o tempo, e o ouvinte já não sabia a conta dos quadros. Meia noite
+soára desde muito; o baile estava perdido. De repente, viu Duarte que
+o major enrolava outra vez o manuscripto, erguia-se, impertigava-se,
+cravava nelle uns olhos odientos e máus, e saia arrebatadamente do
+gabinete. Duarte quiz chamal-o, mas o pasmo tolhera-lhe a voz e os
+movimentos. Quando pôde dominar-se, ouviu o bater do tacão rijo e
+colerico do dramaturgo na pedra da calçada. Foi á janella; nada viu nem
+ouviu; autor e drama tinham desapparecido.
+
+--Porque não fez elle isso ha mais tempo? disse o rapaz suspirando.
+
+O suspiro mal teve tempo de abrir as azas e sair pela janella fóra,
+em demanda do Rio Comprido, quando o moleque do bacharel veiu
+annunciar-lhe a visita de um homem baixo e gordo.
+
+--A esta hora! exclamou Duarte.
+
+--A esta hora, repetiu o homem baixo e gordo, entrando na sala. A esta
+ou a qualquer hora, póde a policia entrar na casa do cidadão, uma vez
+que se trata de um delicto grave.
+
+--Um delicto!
+
+--Creio que me conhece...
+
+--Não tenho essa honra.
+
+--Sou empregado na policia.
+
+--Mas que tenho eu com o senhor? de que delicto se trata?
+
+--Pouca cousa: um furto. O senhor é accusado de haver subtrahido
+uma chinela turca. Apparentemente não vale nada ou vale pouco a tal
+chinela. Mas ha chinela e chinela. Tudo depende das circumstancias.
+
+O homem disse isto com um riso sarcastico, e cravando no bacharel
+uns olhos de inquisidor. Duarte não sabia sequer da existencia do
+objecto roubado. Concluiu que havia equivoco de nome, e não se
+zangou com a injuria irrogada á sua pessoa, e de algum modo á sua
+classe, attribuindo-se-lhe a ratonice. Isto mesmo disse ao empregado
+da policia, accrescentando que não era motivo, em todo caso, para
+incommodal-o a semelhante hora.
+
+--Hade perdoar-me, disse o representante da autoridade. A chinela
+de que se trata vale algumas dezenas de contos de réis; é ornada de
+finissimos diamantes, que a tornam singularmente preciosa. Não é
+turca só pela forma, mas tambem pela origem. A dona, que é uma de
+nossas patricias mais viajeiras, esteve, ha cerca de tres annos no
+Egypto, onde a comprou a um judeu. A historia, que este alumno de
+Moysés referiu ácerca daquelle producto da industria musulmana, é
+verdadeiramente miraculosa, e, no meu sentir, perfeitamente mentirosa.
+Mas não vem ao caso dizel-a. O que importa saber é que ella foi roubada
+e que a policia tem denuncia contra o senhor.
+
+Neste ponto do discurso, chegára-se o homem á janella; Duarte suspeitou
+que fosse um doudo ou um ladrão. Não teve tempo de examinar a suspeita,
+porque dentro de alguns segundos, viu entrar cinco homens armados, que
+lhe lançaram as mãos e o levaram, escada abaixo, sem embargo dos gritos
+que soltava e dos movimentos desesperados que fazia. Na rua havia um
+carro, onde o metteram á força. Já lá estava o homem baixo e gordo, e
+mais um sujeito alto e magro, que o receberam e fizeram sentar no fundo
+do carro. Ouviu-se estalar o chicote do cocheiro e o carro partiu á
+desfilada.
+
+--Ah! ah! disse o homem gordo. Com que então pensava que podia
+impunemente furtar chinelas turcas, namorar moças louras, casar talvez
+com ellas... e rir ainda por cima do genero humano.
+
+Ouvindo aquella allusão á dama dos seus pensamentos, Duarte teve um
+calafrio. Tratava-se, ao que parecia, de algum desforço de rival
+supplantado. Ou a allusao seria casual e extranha á aventura? Duarte
+perdeu-se n'um cipoal de conjecturas, em quanto o carro ia sempre
+andando a todo galope. No fim de algum tempo, arriscou uma observação.
+
+--Quaesquer que sejam os meus crimes, supponho que a policia...
+
+--Nós não somos da policia, interrompeu friamente o homem magro.
+
+--Ah!
+
+--Este cavalheiro e eu fazemos um par. Elle, o senhor e eu faremos um
+terno. Ora, terno não é melhor que par; não é, não póde ser. Um casal é
+o ideal. Provavelmente não me entendeu?
+
+--Não, senhor.
+
+--Ha de entender logo mais.
+
+Duarte resignou-se á espera, enfronhou-se no silencio, derreou o corpo,
+e deixou correr o carro e a aventura. Obra de cinco minutos depois
+estacavam os cavallos.
+
+--Chegámos, disse o homem gordo.
+
+Dizendo isto, tirou um lenço da algibeira e offereceu-o ao bacharel
+para que tapasse os olhos. Duarte recusou, mas o homem magro
+observou-lhe que era mais prudente obedecer que resistir. Não resistiu
+o bacharel; atou o lenço e apeou-se. Ouviu, d'ahi a pouco, ranger
+uma porta; duas pessoas,--provavelmente as mesmas que o acompanharam
+no carro,--seguraram-lhe as mãos e o conduziram por uma infinidade
+de corredores e escadas. Andando, ouvia o bacharel algumas vozes
+desconhecidas, palavras soltas, phrases truncadas. Afinal pararam;
+disseram-lhe que se sentasse e destapasse os olhos. Duarte obedeceu;
+mas ao desvendar-se, não viu ninguem mais.
+
+Era uma sala vasta, assaz illuminada, trastejada com elegancia e
+opulencia. Era talvez sobre posse a variedade dos adornos; comtudo, a
+pessoa que os escolhera devia ter gosto apurado. Os bronzes, charões,
+tapetes, espelhos,--a copia infinita de objectos que enchiam a sala,
+era tudo da melhor fabrica. A vista daquillo restituiu a serenidade de
+animo ao bacharel; não era provavel que alli morassem ladrões.
+
+Reclinou-se o moço indolentemente na ottomana... Na ottomana! esta
+circumstancia trouxe á memoria do rapaz o principio da aventura e o
+roubo da chinela. Alguns minutos de reflexão bastaram para ver que a
+tal chinela era já agora mais que problematica. Cavando mais fundo
+no terreno das conjecturas, pareceu-lhe achar uma explicação nova
+e definitiva. A chinela vinha a ser pura metaphora; tratava-se do
+coração de Cecilia, que elle roubára, delicto de que o queria punir o
+já imaginado rival. A isto deviam ligar-se naturalmente as palavras
+mysteriosas do homem magro: o par é melhor que o terno; um casal é o
+ideal.
+
+--Ha de ser isso, concluiu Duarte; mas quem será esse pretendente
+derrotado?
+
+Neste momento abriu-se uma porta do fundo da sala e negrejou a batina
+de um padre alvo e calvo. Duarte levantou-se, como por effeito de
+uma mola. O padre atravessou lentamente a sala, ao passar por elle
+deitou-lhe a benção, e foi sair por outra porta rasgada na parede
+fronteira. O bacharel ficou sem movimento, a olhar para a porta, a
+olhar sem ver, estupido de todos os sentidos. O inesperado daquella
+apparição baralhou totalmente as ideias anteriores a respeito
+da aventura. Não teve tempo, entretanto, de cogitar alguma nova
+explicação, porque a primeira porta foi de novo aberta e entrou por
+ella outra figura, desta vez o homem magro, que foi direito a elle
+e o convidou a seguil-o. Duarte não oppoz resistencia. Sairam por
+uma terceira porta, e, atravessados alguns corredores mais ou menos
+alumiados, foram dar a outra sala, que só o era por duas velas postas
+em castiçaes de prata. Os castiçaes estavam sobre uma meza larga. Na
+cabeceira desta havia um homem velho que representava ter cincoenta e
+cinco annos; era uma figura athletica, farta de cabellos na cabeça e na
+cara.
+
+--Conhece-me? perguntou o velho, logo que Duarte entrou na sala.
+
+--Não, senhor.
+
+--Nem é preciso. O que vamos fazer exclue absolutamente a necessidade
+de qualquer apresentação. Saberá em primeiro logar que o roubo da
+chinela foi um simples pretexto...
+
+--Oh! de certo! interrompeu Duarte.
+
+--Um simples pretexto, continuou o velho, para trazel-o a esta nossa
+casa. A chinela não foi roubada; nunca sahiu das mãos da dona. João
+Rufino, vá buscar a chinella.
+
+O homem magro saiu, e o velho declarou ao bacharel que a famosa chinela
+não tinha nenhum diamante, nem fôra comprada a nenhum judeu do Egypto;
+era, porém, turca, segundo se lhe disse, e um milagre de pequenhez.
+Duarte ouviu as explicações, e, reunindo todas as forças, perguntou
+resolutamente:
+
+--Mas, senhor, não me dirá de uma vez o que querem de mim e o que estou
+fazendo nesta casa?
+
+--Vae sabel-o, respondeu tranquillamente o velho.
+
+A porta abriu-se e appareceu o homem magro com a chinela na mão.
+Duarte, convidado a approximar-se da luz, teve occasião de verificar
+que a pequenez era realmente miraculosa. A chinela era de marroquim
+finissimo; no assento do pé, estufado e forrado de seda cor azul,
+rutilavam duas lettras bordadas a ouro.
+
+--Chinela de creança, não lhe parece? disse o velho.
+
+--Supponho que sim.
+
+--Pois suppõe mal; é chinela de moça.
+
+--Será; nada tenho com isso.
+
+--Perdão! tem muito, porque vae casar com a dona.
+
+--Casar! exclamou Duarte.
+
+--Nada menos. João Rufino, vá buscar a dona da chinela.
+
+Saiu o homem magro, e voltou logo depois. Assomando á porta, levantou
+o reposteiro e deu entrada a uma mulher, que caminhou para o centro
+da sala. Não era mulher, era uma sylphide, uma visão de poeta, uma
+creatura divina. Era loura; tinha os olhos azues, como os de Cecilia,
+extaticos, uns olhos que buscavam o céu ou pareciam viver delle. Os
+cabellos, deleixadamente penteados, faziam-lhe em volta da cabeça, um
+como resplendor de santa; santa sómente, não martyr, porque o sorriso
+que lhe desabrochava os labios, era um sorriso de bem-aventurança, como
+raras vezes hade ter tido a terra. Um vestido branco, de finissima
+cambraia, envolvia-lhe castamente o corpo, cujas fórmas aliás
+desenhava, pouco para os olhos, mais muito para a imaginação.
+
+Um rapaz, como o bacharel, não perde o sentimento da elegancia, ainda
+em lances daquelles. Duarte, ao ver a moça, compoz o chambre, apalpou
+a gravata e fez uma ceremoniosa cortezia, a que ella correspondeu com
+tamanha gentileza e graça, que a aventura começou a parecer muito menos
+atterradora.
+
+--Meu caro doutor, esta é a noiva.
+
+A moça abaixou os olhos; Duarte respondeu que não tinha vontade de
+casar.
+
+--Tres cousas vae o senhor fazer agora mesmo, continuou impassivelmente
+o velho: a primeira, é casar; a segunda, escrever o seu testamento; a
+terceira engolir certa droga do Levante...
+
+--Veneno! interrompeu Duarte.
+
+--Vulgarmente é esse o nome; eu dou-lhe outro: passaporte do céu.
+
+Duarte estava pallido e frio. Quiz fallar, não pôde; um gemido, sequer,
+não lhe saiu do peito. Rolaria ao chão, se não houvesse alli perto uma
+cadeira em que se deixou cair.
+
+--O senhor, continuou o velho, tem uma fortunasinha de cento e
+cincoenta contos. Esta perola será a sua herdeira universal. João
+Rufino, vá buscar o padre.
+
+O padre entrou, o mesmo padre calvo que abençoara o bacharel pouco
+antes; entrou e foi direito ao moço, ingrolando somnolentamente um
+trecho de Nehemias ou qualquer outro proplieta menor; travou-lhe da mão
+e disse:
+
+--Levante-se!
+
+--Não! não quero! não me casarei!
+
+--E isto? disse da meza o velho apontando-lhe uma pistola.
+
+--Mas então é um assassinato?
+
+--É; a differença está no genero de morte: ou violenta com isto, ou
+suave com a droga. Escolha!
+
+Duarte suava e tremia. Quiz levantar-se e não pôde. Os joelhos batiam
+um contra o outro. O padre chegou-se-lhe ao ouvido, e disse baixinho:
+
+--Quer fugir?
+
+--Oh! sim! exclamou, não com os labios, que podia ser ouvido, mas com
+os olhos em que poz toda a vida que lhe restava.
+
+--Vê aquella janella? Está aberta; embaixo fica um jardim. Atire-se
+d'alli sem medo.
+
+--Oh! padre! disse baixinho o bacharel.
+
+--Não sou padre, sou tenente do exercito. Não diga nada.
+
+A janella estava apenas cerrada; via-se pela fresta uma nesga do céu,
+já meio claro. Duarte não hesitou, colligiu todas as forças, deu um
+pulo do logar onde estava e atirou-se a Deus misericordia por alli
+abaixo. Não era grande altura, a quéda foi pequena; ergueu-se o moço
+rapidamente, mas o homem gordo, que estava no jardim, tomou-lhe o passo.
+
+--Que é isso? perguntou elle rindo.
+
+Duarte não respondeu, fechou os punhos, bateu com elles violentamente
+nos peitos do homem e deitou a correr pela jardim fóra. O homem não
+caiu; sentiu apenas um grande abalo; e, uma vez passada a impressão,
+seguiu no encalço do fugitivo. Começou então uma carreira vertiginosa.
+Duarte ia saltando cercas e muros, calcando canteiros, esbarrando
+arvores, que uma ou outra vez se lhe erguiam na frente. Escorria-lhe o
+suor em bica, alteava-se-lhe o peito, as forças iam a perder-se pouco
+a pouco; tinha uma das mãos ferida, a camisa salpicada do orvalho
+das folhas, duas vezes esteve a ponto de ser apanhado, o chambre
+pegara-se-lhe em uma cerca de espinhos. Emfim, cançado, ferido,
+offegante, caiu nos degraos de pedra de uma casa, que havia no meio
+do ultimo jardim que atravessára. Olhou para traz; não viu ninguem; o
+perseguidor não o acompanhara até alli. Podia vir, entretanto; Duarte
+ergueu-se a custo, subiu os quatro degráos que lhe faltavam, e entrou
+na casa, cuja porta, aberta, dava para uma sala pequena e baixa.
+
+Um homem que alli estava, lendo um numero do _Jornal do Commercio_,
+pareceu não o ter visto entrar. Duarte cahiu n'uma cadeira. Fitou
+os olhos no homem. Era o major Lopo Alves. O major, empunhando a
+folha, cujas dimensões iam-se tornando extremamente exiguas, exclamou
+repentinamente:
+
+--Anjo do ceu, estás vingado! Fim do ultimo quadro.
+
+Duarte olhou para elle, para a mesa, para as paredes, esfregou os
+olhos, respirou á larga.
+
+--Então! Que tal lhe pareceu?
+
+--Ah! excellente! respondeu o bacharel, levantando-se.
+
+--Paixões fortes, não?
+
+--Fortissimas. Que horas são?
+
+--Deram duas agora mesmo.
+
+Duarte acompanhou o major até a porta, respirou que muitas vezes,
+apalpou-se, foi até á janella. Ignora-se o que pensou durante os
+primeiros minutos; mas, ao cabo de um quarto de hora, eis o que elle
+dizia consigo:--Nympha, doce amiga, fantasia inquieta e fertil, tu me
+salvaste de uma ruim peça com um sonho original, substituiste-me o
+tedio por um pesadelo: foi um bom negocio. Um bom negocio e uma grave
+licção: provaste-me que muitas vezes o melhor drama está no espectador
+e não no palco.
+
+
+[1]Este conto foi publicado, pela primeira vez, na _Epocha_, n. 1,
+de 14 de Novembro de 1875. Trazia o pseudonymo de _Manassés_, com
+que assignei outros artigos daquella folha ephemera. O redactor
+principal era um espirito eminente, que a politica veiu tomar ás
+lettras: Joaquim Nabuco. Posso dizel-o sem indiscrição. Eramos poucos
+e amigos. O programma era não ter programma, como declarou o artigo
+inicial, ficando a cada redactor plena liberdade de opinião, pela qual
+respondia exclusivamente. O tom (feita a natural reserva da parte de um
+collaborador) era elegante, litterario, attico. A folha durou quatro
+numeros.
+
+
+FIM DA CHINELA TURCA
+
+
+
+
+NA ARCA
+
+TRES CAPITULOS INEDITOS DO GENESIS
+
+
+# CAPITULO A
+
+
+1.--Então Noé disse a seus filhos Japhet, Sem e Cham:--«Vamos sair da
+arca, segundo a vontade do Senhor, nós, e nossas mulheres, e todos os
+animaes. A arca tem de parar no cabeço de uma montanha; desceremos a
+ella.
+
+2.--«Porque o Senhor cumpriu a sua promessa, quando me disse: Resolvi
+dar cabo de toda a carne; o mal domina a terra, quero fazer perecer os
+homens. Faze uma arca de madeira; entra nella tu, tua mulher e teus
+filhos.
+
+3.--«E as mulheres de teus filhos, e um casal de todos os animaes.
+
+4.--«Agora, pois, se cumpriu a promessa do Senhor, e todos os homens
+pereceram, e fecharam-se as cataractas do céu; tornaremos a descer á
+terra, e a viver no seio da paz e da concordia.»
+
+5.--Isto disse Noé, e os filhos de Noé muito se alegraram de ouvir
+as palavras de seu pae; e Noé os deixou sós, retirando-se a uma das
+camaras da arca.
+
+6.--Então Japhet levantou a voz e disse:--«Aprazivel vida vai ser a
+nossa. A figueira nos dará o fructo, a ovelha a lan, a vacca o leite, o
+sol a cladade e a noite a tenda.
+
+7.--«Porquanto seremos unicos na terra, e toda a terra será nossa, e
+ninguem perturbará a paz de uma familia, poupada do castigo que feriu a
+todos os homens.
+
+8.--«Para todo o sempre.» Então Sem, ouvindo falar o irmão,
+disse:--«Tenho uma ideia.» Ao que Japhet e Cham responderam:--«Vejamos
+a tua ideia, Sem.»
+
+9.--E Sem falou a voz de seu coração, dizendo:--«Meu pae tem a sua
+familia; cada um de nós tem a sua familia; a terra é de sobra; podiamos
+viver em tendas separadas. Cada um de nós fará o que lhe parecer
+melhor: e plantará, caçará, ou lavrará a madeira, ou fiará o linho.»
+
+10.--E respondeu Japhet:--«Acho bem lembrada a idea de Sem; podemos
+viver em tendas separadas. A arca vai descer ao cabeço de uma montanha;
+meu pae e Chain descerão para o lado do nascente: eu e Sem para o lado
+do poente. Sem occupará duzentos covados de terra, eu outros duzentos.»
+
+11.--Mas dizendo Sem:--«Acho pouco duzentos covados»--, retorquiu
+Japhet: «Pois sejam quinhentos cada um. Entre a minha terra e a
+tua haverá um rio, que as divida no meio, para se não confundir a
+propriedade. Eu fico na margem esquerda e tu na margem direita;
+
+12.--«Ea minha terra se chamará a terra de Japhet, e a tua se chamará
+a terra de Sem; e iremos ás tendas um do outro, e partiremos o pão da
+alegria e da concordia.»
+
+13.--E tendo Sem approvado a divisão, perguntou a Japhet: «Mas o rio? a
+quem pertencerá a agua do rio, a corrente?
+
+14.--«Porque nós possuimos as margens, e não estatuimos nada a respeito
+da corrente.» E respondeu Japhet, que podiam pescar de um e outro lado;
+mas, divergindo o irmão, propôz dividir o rio em duas partes, fincando
+um pau no meio. Japhet, porem, disse que a corrente levaria o pau.
+
+15.--E tendo Japhet respondido asssim, acudiu o irmão:--«Pois que te
+não serve o pau, fico eu com o rio, e as duas margens; e para que não
+haja conflicto, podes levantar um muro, dez ou doze covados, para lá da
+tua margem antiga.
+
+16.--«E se com isto perdes alguma cousa, nem é grande a differença, nem
+deixa de ser acertado, para que nunca jamais se turbe a concordia entre
+nós, segundo é a vontade do Senhor.»
+
+17.--Japhet porém replicou:--«Vae bugiar! Com que direito me tiras a
+margem, que é minha, e me roubas um pedaço de terra? Por ventura és
+melhor do que eu.
+
+18.--«Ou mais bello, ou mais querido de meu pae? que direito tens de
+violar assim tão escandalosamente a propriedade alheia?
+
+19.--«Pois agora te digo que o rio ficará do meu lado, com ambas as
+margens, e que se te atreveres a entrar na minha terra, matar-te-hei
+como Caim matou a seu irmão.»
+
+20.--Ouvindo isto, Cham atemorisou-se muito, e começou a aquietar os
+dous irmãos,
+
+21.--Os quaes tinham os olhos do tamanho de figos e cor de braza, e
+olhavam-se cheios de colera e desprezo.
+
+22.--A arca, porém, boiava sobre as aguas do abysmo.
+
+
+# CAPITULO B
+
+
+1.--Ora, Japhet, tendo curtido a colera, começou a espumar pela boca, e
+Okam fallou-lhe palavras de brandura,
+
+2.--Dizendo:--«Vejamos um meio de conciliar tudo; vou chamar tua mulher
+e a mulher de Sem.»
+
+3.--Um e outro, porém, recusaram dizendo, que o caso era de direito e
+não de persuasão.
+
+4.--E Sem propoz a Japhet que compensasse os dez covados perdidos,
+medindo outros tantos nos fundos da terra delle. Mas Japhet respondeu:
+
+5.--«Por que me não mandas logo para os confins do mundo? Já te não
+contentas com quinhentos covados; queres quinhentos e dez, e eu que
+fique com quatrocentos e noventa.
+
+6.--«Tu não tens sentimentos moraes? não sabes o que é justiça? não ves
+que me esbulhas descaradamente? e não percebes que eu saberei defender
+o que é meu, ainda com risco de vida?
+
+7.--«E que, se é preciso correr sangue, o sangue hade correr já e já,
+
+8.--«Para te castigar a soberba e lavar a tua iniquidade?»
+
+9.--Então Sem avançou para Japhet; mas Cham interpoz-se, pondo uma das
+mãos no peito de cada um;
+
+10.--Emquanto o lobo e o cordeiro, que durante os dias do diluvio,
+tinham vivido na mais doce concordia, ouvindo o rumor das vozes, vieram
+espreitar a briga dos dous irmãos, e começaram a vigiar-se um ao outro.
+
+11.--E disse Cham:--«Ora, pois, tenho uma ideia maravilhosa, que ha de
+accommodar tudo;
+
+12.--«A qual me é inspirada pelo amor, que tenho a meus irmãos.
+Sacrificarei pois a terra que me couber ao lado de meu pae, e ficarei
+com o rio e as duas margens, dando-me vós uns vinte covados cada um.»
+
+13.--E Sem e Japhet riram com desprezo e sarcasmo, dizendo:--«Vae
+plantar tamaras! Guarda a tua ideia para os dias da velhice.» E puxaram
+as orelhas e o nariz de Cham; e Japhet, mettendo dous dedos na boca,
+imitou o silvo da serpente, em ar de surriada.
+
+14.--Ora, Cham envergonhado e irritado, espalmou a mão dizendo:--«Deixa
+estar!» e foi d'alli ter com o pae e as mulheres dos dous irmãos.
+
+15.--Japhet porém disse a Sem:--«Agora que estamos sós, vamos decidir
+este grave caso, ou seja de lingua ou de punho. Ou tu me cedes as duas
+margens, ou eu te quebro uma costella.»
+
+16.--Dizendo isto, Japhet ameaçou a Sem com os punhos fechados,
+emquanto Sem, derreando o corpo, disse com voz irada: «Não te cedo
+nada, gatuno!»
+
+17.--Ao que Japhet retorquiu irado: «gatuno és tu!»
+
+18.--Isto dito, avançaram um para o outro e atracaram-se. Japhet tinha
+o braço rijo e adestrado; Sem era forte na resistencia. Então Japhet,
+segurando o irmão pela cinta, apertou-o fortemente, bradando: «De quem
+é o rio?»
+
+19.--E respondendo Sem:--«É meu!» Japhet fez um gesto para derrubal-o;
+mas Sem, que era forte, sacudiu o corpo e atirou o irmão para longe,
+Japhet, porém, espumando de colera, tornou a apertar o irmão, e os dous
+luctaram braço a braço,
+
+20.--Suando e bufando como touros.
+
+21.--Na lucta, cairam e rolaram, esmurrando-se um ao outro; o sangue
+saía dos narizes, dos beiços, das faces; ora vencia Japhet,
+
+22.--Ora vencia Sem; porque a raiva animava-os egualmente, e elles
+luctavam com as mãos, os pés, os dentes e as unhas; e a arca estremecia
+como se de novo se houvessem aberto as cataratas do céu.
+
+23.--Então as vozes e brados chegaram aos ouvidos de Noé, ao mesmo
+tempo que seu filho Cham, que lhe appareceu clamando: «Meu pae, meu
+pae, se de Caim se tomará vingança sete vezes, e de Lamech setenta
+vezes sete, o que será de Japhet e Sem?»
+
+24.--E pedindo Noé que explicasse o dito, Cham referiu a discordia dos
+dous irmãos, e a ira que os animava, e disse:--«Correi a aquietal-os.»
+Noé disse:--«Vamos.»
+
+25.--A arca, porém, boiava sobre as aguas do abysmo.
+
+
+# CAPITULO C
+
+
+1.--Eis aqui chegou Noé ao logar onde luctavam os dous filhos,
+
+2.--E achou-os ainda agarrados um ao outro, e Sem debaixo do joelho de
+Japhet, que com o punho cerrado lhe batia na cara, a qual estava roxa e
+sangrenta.
+
+3.--Entretanto, Sem, alçando as mãos, conseguiu apertar o pescoço do
+irmão, e este começou a bradar: «Larga-me, larga-me.»
+
+4.--Ouvindo os brados, as mulheres de Japhet e Sem acudiram tambem ao
+logar da lucta, e, vendo-os assim, entraram a soluçar e a dizer: «O que
+será de nós? A maldição cahiu sobre nós e nossos maridos.»
+
+5.--Noé, porém, lhes disse: «Calai-vos, mulheres de meus filhos, eu
+verei de que se trata, e ordenarei o que fôr justo .» E caminhando para
+os dous combatentes,
+
+6.--Bradou: «Cessae a briga. Eu, Noé, vosso pae, o ordeno e mando.» E
+ouvindo os dous irmãos o pae, detiveram-se subitamente, e ficaram longo
+tempo atalhados e mudos, não se levantando nenhum d'elles.
+
+7.--Noé continuou: «Erguei-vos, homens indignos da salvação e
+merecedores do castigo que feriu os outros homens.»
+
+8.--Japhet e Sem ergueram-se. Ambos tinham feridos o rosto, o pescoço
+e as mãos, e as roupas salpicadas de sangue, porque tinham luctado com
+unhas e dentes, instigados de odio mortal.
+
+9.--O chão tambem estava alagado de sangue, e as sandalias de um e
+outro, e os cabellos de um e outro,
+
+10.--Como se o peccado os quizera marcar com o sello da iniquidade.
+
+11.--As duas mulheres, porém, chegaram-se a elles, chorando e
+acariciando-os, e via-se-lhes a dor do coração. Japhet e Sem não
+attendiam a nada, e estavam com os olhos no chão, medrosos de encarar
+seu pae.
+
+12.--O qual disse: «Ora, pois, quero saber o motivo da briga.»
+
+13.--Esta palavra accendeu o odio no coração de ambos. Japhet, porém,
+foi o primeiro que falou e disse:
+
+14.--«Sem invadiu a minha terra, a terra que eu havia escolhido para
+levantar a minha tenda, quando as aguas houverem desapparecido e a arca
+descer, segundo a promessa do Senhor;
+
+15.--«E eu, que não tolero o esbulho, disse a meu irmão: «Não te
+contentas com quinhentos covados e queres mais dez? «E elle me
+respondeu: «Quero mais dez e as duas margens do rio que ha de dividir a
+minha terra da tua terra.»
+
+16.--Noé, ouvindo o filho, tinha os olhos em Sem; e acabando Japhet,
+perguntou ao irmão: «Que respondes?»
+
+17.--E Sem disse: «--Japhet mente, porque eu só lhe tomei os dez
+covados de terra, depois que elle recusou dividir o rio em duas partes;
+e propondo-lhe ficar com as duas margens, ainda consenti que elle
+medisse outros dez covados nos fundos das terras delle,
+
+18.--«Para compensar o que perdia; mas a iniquidade de Caim fallou
+nelle, e elle me feriu a cabeça, a cara e as mãos.»
+
+19.--E Japhet interrompeu-o dizendo: «Porventura não me feriste tambem?
+Não estou ensanguentado como tu? Olha a minha cara e o meu pescoço;
+olha as minhas faces, que rasgaste com as tuas unhas de tigre.»
+
+20.--Indo Noé fallar, notou que os dous filhos de novo pareciam
+desafiar-se com os olhos. Então disse: «Ouvi!» Mas os dous irmãos,
+cegos de raiva, outra vez se engalfinharam, bradando:--«De quem é o
+rio?»--«O rio é meu.»
+
+21.--E só a muito custo puderam Noé, Cham e as mulheres de Sem e
+Japhet, conter os dous combatentes, cujo sangue entrou a jorrar em
+grande copia.
+
+22.--Noé, porém, alçando a voz, bradou:--Maldito seja o que me não
+obedecer. Elle será maldito, não sete vezes, não setenta vezes sete,
+mas setecentas vezes setenta.
+
+23.--«Ora, pois, vos digo que, antes de descer a arca, não quero nenhum
+ajuste a respeito do logar em que levantareis as tendas.»
+
+24.--Depois ficou meditabundo.
+
+25.--E alçando os olhos ao céu, porque a portinhola do tecto estava
+levantada, bradou com tristeza:
+
+26.--«Elles ainda não possuem a terra e já estão brigando por causa dos
+limites. O que será quando vierem a Turquia e a Russia?»
+
+27.--E nenhum dos filhos de Noé pôde entender esta palavra de seu pae.
+
+28.--A arca, porém, continuava a boiar sobre as aguas do abysmo.
+
+
+
+
+D. BENEDICTA
+
+UM RETRATO
+
+I
+
+
+A cousa mais ardua do mundo, depois do officio de governar, seria dizer
+a edade exacta de D. Benedicta. Uns davam-lhe quarenta annos, outros
+quarenta e cinco, alguns trinta e seis. Um corretor de fundos descia
+aos vinte e nove; mas esta opinião, eivada de intenções occultas,
+carecia daquelle cunho de sinceridade que todos gostamos de achar
+nos conceitos humanos. Nem eu a cito, senão para dizer, desde logo,
+que D. Benedicta foi sempre um padrão de bons costumes. A astucia do
+corretor não fez mais do que indignal-a, embora momentaneamente; digo
+momentaneamente. Quanto ás outras conjecturas, oscillando entre os
+trinta e seis e os quarenta e cinco, não desdiziam das feições de D.
+Benedicta, que eram maduramente graves e juvenilmente graciosas. Mas,
+se alguma cousa admira é que houvesse supposições neste negocio, quando
+bastava interrogal-a para saber a verdade verdadeira.
+
+D. Benedicta fez quarenta e dous annos no domingo desenove de setembro
+de 1869. São seis horas da tarde; a meza da familia está ladeada de
+parentes e amigos, em numero de vinte ou vinte e cinco pessoas. Muitas
+dessas estiveram no jantar de 1868, no de 1867 e no de 1866, e ouviram
+sempre alludir francamente á edade da dona da casa. Além disso, vêem-se
+alli, á meza, uma moça e um rapaz, seus filhos; este é, de certo, no
+tamanho e nas maneiras, um tanto menino; mas a moça, Eulalia, contando
+dezoito annos, parece ter vinte e um, tal é a severidade dos modos e
+das feições.
+
+A alegria dos convivas, a excellencia do jantar, certas negociações
+matrimoniaes incumbidas ao conego Roxo, aqui presente, e das quaes se
+fallará mais abaixo, as boas qualidades da dona da casa, tudo isso dá
+á festa um caracter intimo e feliz. O conego levanta-se para trinchar
+o perú. D. Benedicta acatava esse uso nacional das casas modestas de
+confiar o perú a um dos convivas, em vez de o fazer retalhar fóra da
+meza por mãos servis, e o conego era o pianista daquellas occasiões
+solemnes. Ninguem conhecia melhor a anatomia do animal, nem sabia
+operar com mais presteza. Talvez,--e este phenomeno fica para os
+entendidos,--talvez a circumstancia do canonicato augmentasse ao
+trinchante, no espirito dos convivas, uma certa somma de prestigio,
+que elle não teria, por exemplo, se fosse um simples estudante de
+mathematicas, ou um amanuense de secretaria. Mas, por outro lado, um
+estudante ou um amanuense, sem a lição do longo uso, poderia dispor da
+arte consummada do conego? É outra questão importante.
+
+Venhamos, porém, aos demais convivas, que estão parados, conversando;
+reina o borborinho proprio dos estomagos meio regalados, o riso da
+natureza que caminha para a repleção; é um instante de repouso.
+
+D. Benedicta falla, como as suas visitas, mas não falla para todas,
+senão para uma, que está sentada ao pé della. Essa é uma senhora gorda,
+sympathica, muito risonha, mãe de um bacharel de vinte e dous annos,
+o Leandrinho, que está sentado defronte dellas. D. Benedicta não se
+contenta de fallar á senhora gorda, tem uma das mãos desta entre as
+suas; e não se contenta de lhe ter presa a mão, fita-lhe uns olhos
+namorados, vivamente namorados. Não os fita, note-se bem, de um modo
+persistente e longo, mas inquieto, miudo, repetido, instantaneo. Em
+todo caso, ha muita ternura naquelle gesto; e, dado que não a houvesse,
+não se perderia nada, porque D. Benedicta repete com a boca a D. Maria
+dos Anjos tudo o que com os olhos lhe tem dito:--que está encantada,
+que considera uma fortuna conhecel-a, que é muito sympathica, muito
+digna, que traz o coração nos olhos, etc., etc., etc. Uma de suas
+amigas diz-lhe, rindo, que está com ciumes.
+
+--Que arrebente! responde ella, rindo tambem.
+
+E voltando-se para a outra:
+
+--Não acha? ninguém deve metter-se com a nossa vida.
+
+E ahi tornavam as finezas, os encarecimentos, os risos, as offertas,
+mais isto, mais aquillo,--um projecto do passeio, outro de theatro, e
+promessas de muitas visitas, tudo com tamanha expansão e calor, que a
+outra palpitava de alegria e reconhecimento.
+
+O perú está comido. D. Maria dos Anjos faz um signal ao filho; este
+levanta-se e pede que o acompanhem em um brinde:
+
+--Meus senhores, é preciso desmentir esta maxima dos francezes:--_les
+absents on tort._Bebamos a alguem que está longe, muito longe,
+no espaço, mas perto, muito perto, no coração de sua digna
+esposa:--bebamos ao illustre desembargador Proença.
+
+A assembléa não correspondeu vivamente ao brinde; e para comprehendel-o
+basta ver o rosto triste da dona da casa. Os parentes e os mais intimos
+disseram baixinho entre si que o Leandrinho fora estouvado; emfim,
+bebeu-se, mas sem estrepito; ao que parece, para não avivar a dor de D.
+Benedicta. Vã precaução! D. Benedicta, não podendo conter-se, deixou
+rebentarem-lhe as lagrimas, levantou-se da meza, retirou-se da sala.
+D. Maria dos Anjos acompanhou-a. Succedeu um silencio mortal entre os
+convivas. Eulalia pediu a todos que continuassem, que a mãe voltava já.
+
+--Mamãe é muito sensivel, disse ella, e a ideia de que papae está longe
+de nós...
+
+O Leandrinho, consternado, pediu desculpa a Eulalia. Um sujeito, ao
+lado delle, explicou-lhe que D. Benedicta não podia ouvir fallar
+do marido sem receber um golpe no coração--e chorar logo; ao que o
+Leandrinho acudiu dizendo que sabia da tristeza della, mas estava longe
+de suppor que o seu brinde tivesse tão mau effeito.
+
+--Pois era a cousa mais natural, explicou o sujeito, porque ella morre
+pelo marido.
+
+--O conego, acudiu Leandrinho, disse-me que elle foi para o Pará ha uns
+dous annos...
+
+--Dous annos e meio; foi nomeado desembargador pelo ministerio
+Zacharias. Elle queria a relação de S. Paulo, ou da Bahia; mas não pôde
+ser e aceitou a do Pará.
+
+--Não voltou mais?
+
+--Não voltou.
+
+--D. Benedicta naturalmente tem medo de embarcar...
+
+--Creio que não. Já foi uma vez á Europa. Se bem me lembro, ella ficou
+para arranjar alguns negocios de familia; mas foi ficando, ficando, e
+agora...
+
+--Mas era muito melhor ter ido em vez de padecer assim... Conhece o
+marido?
+
+--Conheço; um homem muito distincto, e ainda moço, forte; não terá
+mais de quarenta e cinco annos. Alto, barbado, bonito. Aqui ha tempos
+disse-se que elle não teimava com a mulher, porque estava lá de amores
+com uma viuva.
+
+--Ah!
+
+--E houve até quem viesse contal-o a ella mesma. Imagine como a pobre
+senhora ficou! Chorou uma uma noute inteira, no dia seguinte não quiz
+almoçar, e deu todas as ordens para seguir no primeiro vapor.
+
+--Mas não foi?
+
+--Não foi; desfez a viagem d'ahi a tres dias.
+
+D. Benedicta voltou nesse momento, pelo braço de D. Maria dos Anjos.
+Trazia um sorriso envergonhado; pediu desculpa da interrupção, e
+sentou-se com a recente amiga ao lado, agradecendo os cuidados que lhe
+deu, pegando-lhe outra vez na mão.
+
+--Vejo que me quer bem, disse ella.
+
+--A senhora merece, disse D. Maria dos Anjos.
+
+--Mereço? inquiriu ella entre desvanecida e modesta.
+
+E declarou que não, que a outra é que era boa, um anjo, um verdadeiro
+anjo; palavra que ella sublinhou com o mesmo olhar namorado, não
+persistente e longo, mas inquieto e repetido. O conego, pela sua parte,
+com o fim de apagar a lembrança do incidente, procurou generalisar a
+conversa, dando-lhe por assumpto a eleição do melhor doce. Os pareceres
+divergiram muito. Uns acharam que era o de coco, outros o de cajú,
+alguns o de laranja, etc. Um dos convivas, o Leandrinho, autor do
+brinde, dizia com os olhos,--não com a boca,--e dizia-o de um modo
+astucioso, que o melhor doce eram as faces de Eulalia, um doce moreno,
+corado; dito que a mãe delle interiormente approvava, e que a mãe della
+não podia ver, tão entregue estava á contemplação da recente amiga. Um
+anjo, um verdadeiro anjo!
+
+
+II
+
+
+D. Benedicta levantou-se, no dia seguinte, com a ideia de escrever
+uma carta ao marido, uma longa carta em que lhe narrasse a festa da
+vespera, nomeasse os convivas e os pratos, descrevesse a recepção
+nocturna, e, principalmente, désse noticia das novas relações com
+D. Maria dos Anjos. A mala fechava-se ás duas horas da tarde, D.
+Benedicta accordára ás nove, e, não morando longe (morava no Campo
+da Acclamação), um escravo levaria a carta ao correio muito a tempo.
+Demais, chovia; D. Benedicta arredou a cortina da janella, deu com os
+vidros molhados; era uma chuvinha teimosa, o céu estava todo brochado
+de uma côr pardo-escura, malhada do grossas nuvens negras. Ao longe,
+viu fluctuar e voar o panno que cobria o balaio que uma preta levava á
+cabeça: concluiu que ventava. Magnifico dia para não sair, e, portanto,
+escrever uma carta, duas cartas, todas as cartas de uma esposa ao
+marido ausente. Ninguem viria tental-a.
+
+Emquanto ella compõe os babadinhos e rendas do roupão branco, um
+roupão de cambraia que o desembargador lhe dera em 1862, no mesmo
+dia anniversario, 19 de Setembro, convido a leitora a observar-lhe
+as feições. Vê que não lhe dou Venus; tambem não lhe dou Meduza. Ao
+contrario de Meduza, nota-se-lhe o alisado simples do cabello, preso
+sobre a nuca. Os olhos são vulgares, mas tem uma expressão bonachã. A
+bocca é daquellas que, ainda não sorrindo, são risonhas, e tem esta
+outra particularidade, que é uma bocca sem remorsos nem saudades: podia
+dizer sem desejos, mas eu só digo o que quero, e só quero fallar das
+saudades e dos remorsos. Toda essa cabeça, que não enthusiasma, nem
+repelle, assenta sobre um corpo antes alto do que baixo, e não magro
+nem gordo, mas fornido na proporção da estatura. Para que fallar-lhe
+das mãos? Ha de admiral-as logo, ao travar da penna e do papel, com os
+dedos afilados e vadios, dous delles ornados de cinco ou seis anneis.
+
+Creio que é bastante ver o modo porque ella compõe as rendas e os
+babadinhos do roupão para comprehender que é uma senhora pichosa, amiga
+do arranjo das cousas e de si mesma. Noto que rasgou agora o babadinho
+do punho esquerdo, mas é porque, sendo tambem impaciente, não podia
+mais «com a vida deste diabo.» Essa foi a sua expressão, acompanhada
+logo de um «Deus me perdôe!» que inteiramente lhe extrahiu o veneno.
+Não digo que ella bateu com o pé, mas adivinha-se, por ser um gesto
+natural de algumas senhoras irritadas. Em todo caso, a colera durou
+pouco mais de meio minuto. D. Benedicta foi á caixinha de costura para
+dar um ponto no rasgão, e contentou-se com um alfinete. O alfinete caiu
+no chão, ella abaixou-se a apanhal-o. Tinha outros, é verdade, muitos
+outros, mas não achava prudente deixar alfinetes no chão. Abaixando-se,
+aconteceu-lhe ver a ponta da chinela, na qual pareceu-lhe descobrir um
+signal branco; sentou-se na cadeira que tinha perto, tirou a chinela, e
+viu o que era: era um roidinho de barata. Outra raiva de D. Benedicta,
+porque a chinela era muito galante, e fora-lhe dada por uma amiga do
+anno passado. Um anjo, um verdadeiro anjo! D. Benedicta fitou os olhos
+irritados no signal branco; felizmente a expressão bonachã delles não
+era tão bonachã que se deixasse eliminar de todo por outras expressões
+menos passivas, e retomou o seu logar. D. Benedicta entrou a virar e
+revirar a chinela, e a passal-a de uma para outra mão, a principio com
+amor, logo depois machinalmente, até que as mãos pararam de todo, a
+chinela caiu no regaço, e D. Benedicta ficou a olhar para o ar, parada,
+fixa. Nisto o relogio da sala de jantar, começou a bater horas, D.
+Benedicta logo ás primeiras duas, estremeceu:
+
+--Jesus! Dez horas!
+
+E, rapida, calçou a chinela, concertou depressa o punho do roupão,
+e dirigisse á escrevaninha, para começar a carta. Escreveu, com
+effeito, a data, e um:--«Meu ingrato marido»; emfim, mal traçára estas
+linhas:--Você lembrou-se hontem de mim? Eu...» quando Eulalia lhe bateu
+á porta, bradando:
+
+--Mamãe, mamãe, são horas de almoçar.
+
+D. Benedicta abriu a porta, Eulalia beijou-lhe a mão, depois levantou
+as suas ao céu:
+
+--Meu Deus! que dorminhoca!
+
+--O almoço está prompto?
+
+--Ha que seculos!
+
+--Mas eu tinha dito que hoje o almoço era mais tarde... Estava
+escrevendo a teu pae.
+
+Olhou alguns instantes para a filha, como desejosa de lhe dizer alguma
+cousa grave, ao menos difficil, tal era a expressão indecisa e séria
+dos olhos. Mas não chegou a dizer nada; a filha repetiu que a almoço
+estava na mesa, pegou-lhe do braço e levou-a.
+
+Deixemol-as almoçar á vontade; descancemos nessa outra sala, a de
+visitas, sem aliás inventariar os moveis della, como o não fizemos
+em nenhuma outra sala ou quarto. Não é que elles não prestem, ou
+sejam de máu gosto; ao contrario, são bons. Mas a impressão geral que
+se recebe é exquisita, como se ao trastejar daquella casa houvesse
+presidido um plano truncado, ou uma successão de planos truncados.
+Mãe, filha e filho almoçaram. Deixemos o filho, que nos não importa,
+um pirralho de doze annos, que parece ter oito, tão mofino é elle.
+Eulalia interessa-nos, não só pelo que vimos de relance no capitulo
+passado, como porque, ouvindo a mãe fallar em D. Maria dos Anjos
+e no Leandrinho, ficou muito séria e, talvez, um pouco amuada. D.
+Benedicta percebeu que o assumpto não era aprazivel á filha, e recuou
+da conversa, como alguem que desanda uma rua para evitar um importuno;
+recuou e ergueu-se; a filha veiu com ella para a sala de visitas.
+
+Eram onze horas menos um quarto. D. Benedicta conversou com a filha até
+depois de meio dia, para ter tempo de descançar o almoço e escrever a
+carta. Sabem que a mala fecha ás duas horas. De facto, alguns minutos,
+poucos, depois do meio dia, D. Benedicta disse á filha que fosse
+estudar piano, porque ella ia acabar a carta. Saiu da sala; Eulalia foi
+á janella, relanceou a vista pelo Campo, e, se lhes disser que com uma
+pontasinha de tristeza nos olhos, podem crer que é a pura verdade. Não
+era todavia, a tristeza dos debeis ou dos indecisos; era a tristeza dos
+resolutos, a quem dóe de antemão um acto pela mortificação que hade
+trazer a outros, e que, não obstante, juram a si mesmos pratical-o,
+e praticam. Convenho que nem todas essas particularidades podiam
+estar nos olhos de Eulalia, mas por isso mesmo é que as historias são
+contadas por alguem, que se incumbe de preencher as lacunas e divulgar
+o escondido. Que era uma tristeza mascula, era;--e que dahi a pouco os
+olhos sorriam de um signal de esperança, tambem não é mentira.
+
+--Isto acaba, murmurou ella, vindo para dentro.
+
+Justamente nessa occasião parava um carro á porta, apeava-se uma
+senhora, ouvia-se a campainha da escada, descia um moleque a abrir a
+cancella, e subia es escadas D. Maria dos Anjos. D. Benedicta, quando
+lhe disseram quem era, largou a penna, alvoroçada; vestiu-se á pressa,
+calçou-se, e foi á sala.
+
+--Com este tempo! exclamou. Ah! isto é que é querer bem á gente!
+
+--Vim sem esperar pela sua visita, só para mostrar que não gosto de
+cerimonias, e que entre nós deve haver a maior liberdade.
+
+Vieram os comprimentos de estylo, as palavrinhas doces, os afagos da
+vespera. D. Benedicta não se fartava de dizer que a visita naquelle
+dia era uma grande fineza, uma prova de verdadeira amisade; mas queria
+outra, accrescentou dahi a um instante, que D. Maria dos Anjos ficasse
+para jantar. Esta desculpou-se allegando que tinha de ir a outras
+partes; demais, essa era a prova que lhe pedia,--a de ir jantar á casa
+della primeiro. D. Benedicta não hesitou, prometteu que sim, naquella
+mesma semana.
+
+--Estava agora mesmo escrevendo o seu nome, continuou.
+
+--Sim?
+
+--Estou escrevendo a meu marido, e fallo da senhora. Não lhe repito
+o que escrevi, mas imagine que fallei muito mal da senhora, que era
+antipathica, insupportavel, massante, aborrecida... Imagine!
+
+--Imagino, imagino. Pode accrescentar que, apezar de ser tudo isso, e
+mais alguma cousa, apresento-lhe os meus respeitos.
+
+--Como ella tem graça para dizer as cousas! commentou D. Benedicta
+olhando para a filha.
+
+Eulalia sorriu sem convicção. Sentada na cadeira fronteira á mãe, ao
+pé da outra ponta do sophá em que estava D. Maria dos Anjos,--Eulalia
+dava á conversação das duas a somma de attenção que a cortezia lhe
+impunha, e nada mais, Chegava a parecer aborrecida; cada sorriso que
+lhe abria a bocca era de um amarello pallido, um sorriso de favor. Uma
+das tranças,--era de manhã, trazia o cabello em duas tranças caidas
+pelas costas abaixo,--uma dellas servia-lhe de pretexto a alheiar-se de
+quando em quando, porque puxava-a para a frente e contava-lhe os fios
+do cabello,--ou parecia contal-os. Assim o creu D. Maria dos Anjos,
+quando lhe lançou uma ou duas vezes os olhos, curiosa, desconfiada.
+D. Benedicta é que não via nada; via a amiga, a feiticeira, como lhe
+chamou duas ou tres vezes,--«feiticeira como ella só.»
+
+--Já!
+
+D. Maria dos Anjos explicou que tinha de ir a outras visitas; mas
+foi obrigada a ficar ainda alguns minutos, a pedido da amiga. Como
+trouxesse um mantelete de renda preta, muito elegante, D. Benedicta
+disse que tinha um egual, e mandou buscal-o. Tudo demoras. Mas a mãe
+do Leandrinho estava tão contente! D. Benedicta enchia-lhe o coração;
+achava nella todas as qualidades que melhor se ajustavam á sua alma
+e aos seus costumes, ternura, confiança, enthusiasmo, simplicidade,
+uma familiaridade cordial e prompta. Veiu o mantelete; vieram
+offerecimentos de alguma cousa, um doce, um licor, um refresco; D.
+Maria dos Anjos não aceitou nada mais do que um beijo e a promessa de
+que iriam jantar com ella naquella semana.
+
+--Quinta-feira, disse D. Benedicta.
+
+--Palavra?
+
+--Palavra.
+
+--Que quer que lhe faça se não fôr? Hade ser um castigo bem forte.
+
+--Bem forte? Não me falle mais.
+
+D. Maria dos Anjos beijou com muita ternura a amiga; depois
+abraçou e beijou tambem a Eulalia, mas a effusão era muito menor
+de parte a parte. Uma e outra mediam-se, estudavam-se, começavam a
+comprehender-se. D. Benedicta levou a amiga até o patamar da escada,
+depois foi á janella para vel-a entrar no carro; a amiga, depois de
+entrar no carro, poz a cabeça de fóra, olhou para cima, e disse-lhe
+adeus, com a mão.
+
+--Não falte, ouviu?
+
+--Quinta-feira.
+
+Eulalia já não estava na sala; D. Benedicta correu a acabar a carta.
+Era tarde: não relatára o jantar da vespera, nem já agora podia
+fazel-o. Resumiu tudo; encareceu muito as novas relações; emfim,
+escreveu estas palavras:
+
+«O conego Roxo fallou-me em casar Eulalia com o filho de D. Maria dos
+Anjos; é um moço formado em direito este anno; é conservador, e espera
+uma promotoria, agora, se o Itaborahy não deixar o ministerio. Eu
+acho que o casamento é o melhor possivel. O Dr. Leandrinho (é o nome
+delle) é muito bem educado; fez um brinde a você, cheio de palavras tão
+bonitas, que eu chorei. Eu não sei se Eulalia quererá ou não; desconfio
+de outro sujeito que outro dia esteve comnosco nas Larangeiras. Mas
+você que pensa? Devo limitar-me a aconselhal-a, ou impor-lhe a nossa
+vontade? Eu acho que devo usar um pouco da minha autoridade; mas não
+quero fazer nada sem que você me diga, O melhor seria se você viesse
+cá.»
+
+Acabou e fechou a carta; Eulalia entrou nessa occasião, ella deu-lh'a
+para mandar, sem demora, ao correio; e a filha saiu com a carta sem
+saber que tratava della e do seu futuro, D. Benedicta deixou-se cair
+no sophá, cançada, exhausta. A carta era muito comprida apezar de não
+dizer tudo; e era-lhe tão enfadonho escrever cartas compridas!
+
+
+III
+
+
+Era-lhe tão enfadonho escrever cartas compridas! Esta palavra, fecho do
+# capitulo passado, explica a longa prostração de D. Benedicta. Meia hora
+depois de cair no sophá, ergueu-se um pouco, e percorreu o gabinete com
+os olhos, como procurando alguma cousa. Essa cousa era um livro. Achou
+o livro, e podia dizer achou os livros, pois nada menos de tres estavam
+alli, dous abertos, um marcado em certa pagina, todos em cadeiras. Eram
+tres romances que D. Benedicta lia ao mesmo tempo. Um delles, note-se,
+custou-lhe não pouco trabalho. Deram-lhe noticia na rua, perto de casa,
+com muitos elogios; chegara da Europa na vespera. D. Benedicta ficou
+tão enthusiasmada, que apezar de ser longe e tarde, arrepiou caminho e
+foi ella mesmo compral-o, correndo nada menos de tres livrarias. Voltou
+anciosa, namorada do livro, tão namorada que abriu as folhas, jantando,
+e leu os cinco primeiros capitulos naquella mesma noute. Sendo preciso
+dormir, dormiu; no dia seguinte não pôde continuar, depois esqueceu-o.
+Agora, porém, passados oito dias, querendo lêr alguma cousa,
+aconteceu-lhe justamente achal-o á mão.
+
+--Ah!
+
+E eil-a que torna ao sophá, que abre o livro com amor, que mergulha
+o espirito, os olhos e o coração na leitura tão desastradamente
+interrompida. D. Benedicta ama os romances, é natural; e adora os
+romances bonitos, é naturalissimo. Não admira que esqueça tudo para
+lêr este; tudo, até a licção de piano da filha, cujo professor chegou
+e saiu, sem que ella fosse á sala. Eulalia despediu-se do professor;
+depois foi ao gabinete, abriu a porta, caminhou pé ante pé até o sophá,
+e acordou a mãe com um beijo.
+
+--Dorminhoca!
+
+--Ainda chove?
+
+--Não, senhora; agora parou.
+
+--A carta foi?
+
+--Foi; mandei o José a toda a pressa. Aposto que mamãe esqueceu-se de
+dar lembranças a papae? Pois olhe, eu não me esqueço nunca.
+
+D. Benedicta bocejou. Já não pensava na carta; pensava no collete que
+encommendára á Charavel, um collete de barbatanas mais molles do que o
+ultimo. Não gostava de barbatanas duras; tinha o corpo mui sensivel.
+Eulalia fallou ainda algum tempo do pae, mas calou-se logo, e vendo no
+chão o livro aberto, o famoso romance, apanhou-o, fechou-o, pol-o em
+cima da mesa. Nesse momento vieram trazer uma carta a D. Benedicta; era
+do conego Roxo, que mandava perguntar se estavam em casa naquelle dia,
+porque iria ao enterro dos ossos.
+
+--Pois não! bradou D. Benedicta; estamos em casa, venha, póde vir.
+
+Eulalia escreveu o bilhetinho de resposta. D'ahi a tres quartos de
+hora fazia o conego a sua entrada na sala de D. Benedicta. Era um bom
+homem o conego, velho amigo daquella casa, na qual, além de trinchar
+o perú nos dias solemnes, como vimos, exercia o papel de conselheiro,
+e exercia-o com lealdade e amor. Eulalia, principalmente, merecia-lhe
+muito; vira-a pequena, galante, travessa, amiga delle, e criou-lhe uma
+affeição paternal, tão paternal que tomára** a peito casal-a bem, e
+nenhum noivo melhor do que o Leandrinho, pensava o conego, Naquelle
+dia, a idéa de ir jantar com ellas era antes um pretexto; o conego
+queria tratar o negocio directamente com a filha do desembargador.
+Eulalia, ou porque adivinhasse isso mesmo, ou porque a pessoa do conego
+lhe lembrasse o Leandrinho, ficou logo preoccupada, aborrecida.
+
+Mas, preoccupada ou aborrecida, não quer dizer triste ou desconsolada.
+Era resoluta, tinha têmpera, podia resistir, e resistiu, declarando
+ao conego, quando elle naquella noute lhe fallou do Leandrinho, que
+absolutamente não queria casar.
+
+--Palavra de moça bonita?
+
+--Palavra de moça feia.
+
+--Mas, porque?
+
+--Porque não quero.
+
+--E se mamãe quizer?
+
+--Não quero eu.
+
+--Máu! isso não é bonito, Eulalia.
+
+Eulalia deixou-se estar. O conego ainda tornou ao assumpto, louvou
+as qualidades do candidato as esperanças da familia, as vantagens do
+casamento; ella ouvia tudo, sem contestar nada. Mas quando o conego
+formulava de um modo directo a questão, a resposta invariavel era esta:
+
+--Já disse tudo.
+
+--Não quer?
+
+--Não.
+
+O desconsolo do bom conego era profundo e sincero. Queria casal-a bem,
+e não achava melhor noivo. Chegou a interrogal-a discretamente, sobre
+se tinha alguma preferencia em outra parte. Mas Eulalia, não menos
+discretamente, respondia que não, que não tinha nada; não queria nada;
+não queria casar. Elle creu que era assim, mas receiou tambem que não
+fosse assim; faltava-lhe o trato sufficiente das mulheres para lêr
+atravez de uma negativa. Quando referiu tudo a D. Benedicta, esta ficou
+assombrada com os termos da recusa; mas tornou logo a si, e declarou ao
+padre que a filha não tinha vontade, faria o que ella quizesse, e ella
+queria o casamento.
+
+--Já agora nem espero resposta do pae, concluiu; declaro-lhe que
+ella ha de casar. Quinta-feira vou jantar com D. Maria dos Anjos, e
+combinaremos as cousas.
+
+--Devo dizer-lhe, ponderou o conego, que D. Maria dos Anjos não deseja
+que se faça nada á força.
+
+--Qual força! Não é preciso força.
+
+O conego reflectiu um instante:--Em todo caso, não violentaremos
+qualquer outra affeição que ella possa ter, disse elle.
+
+D. Benedicta não respondeu nada; mas comsigo, no mais fundo de
+si mesma, jurou que, houvesse o que houvesse, acontecesse o que
+acontecesse, a filha seria nora de D. Maria dos Anjos. E ainda comsigo,
+depois de sair o conego:--Tinha que ver! um tico de gente, com fumaças
+de governar a casa!
+
+A quinta-feira raiou. Eulalia,--o tico de gente, levantou-se fresca,
+lepida, loquaz, com todas as janellas da alma abertas ao sopro azul da
+manhã. A mãe acordou ouvindo um trecho italiano, cheio de melodia; era
+ella que cantava, alegre, sem affectação, com a indifferença das aves
+que cantam para si ou para os seus, e não para o poeta, que as ouve e
+traduz na lingua immortal dos homens. D. Benedicta afagara muito a idéa
+de a vêr abatida, carrancuda, e gastára uma certa somma de imaginação
+em compôr os seus modos, delinear os seus actos, ostentar energia e
+força. E nada! Em vez de uma filha rebelde, uma creatura gárrula e
+submissa. Era começar mal o dia; era sair apparelhada para destruir uma
+fortaleza, e dar com uma cidade aberta, pacifica, hospedeira, que lhe
+pedia o favor de entrar e partir o pão da alegria e da concordia. Era
+começar o dia muito mal.
+
+A segunda causa do tedio de D. Benedicta foi um ameaço de enxaqueca,
+ás tres horas da tarde; um ameaço, ou uma suspeita de possibilidade de
+ameaço. Chegou a transferir a visita, mas a filha ponderou que talvez a
+visita lhe fizesse bem, e em todo caso, era tarde para deixar de ir. D.
+Benedicta não teve remedio, aceitou o reparo. Ao espelho, penteando-se,
+esteve quasi a dizer que definitivamente ficava; chegou a insinual-o á
+filha.
+
+--Mamãe veja que D. Maria dos Anjos conta com a senhora, disse-lhe
+Eulalia.
+
+--Pois sim, redarguiu a mão, mas não prometti ir doente.
+
+Emfim, vestiu-se, calçou as luvas, deu as ultimas ordens; e devia
+doer-lhe muito a cabeça, porque os modos eram arrebitados, uns modos
+de pessoa constrangida ao que não quer. A filha animava-a muito,
+lembrava-lhe o vidrinho dos saes, instava que saissem, descrevia a
+anciedade de D. Maria dos Anjos, consultava de dous em dous minutos
+o pequenino relogio, que trazia na cintura, etc. Uma amofinação,
+realmente.
+
+--O que tu estás é me amofinando, disse-lhe a mãe.
+
+E saiu, saiu exasperada, com uma grande vontade de esganar a filha,
+dizendo comsigo que a peior cousa do mundo era ter filhas. Os filhos
+ainda vá: criam-se, fazem carreira por si; mas as filhas!
+
+Felizmente, o jantar de D. Maria dos Anjos aquietou-a; e não digo
+que a enchesse de grande satisfação, porque não foi assim. Os modos
+de D. Benedicta não eram os do costume; eram frios, seccos, ou quasi
+seccos; ella, porém, explicou de si mesma a differença, noticiando o
+ameaço da enxaqueca, noticia mais triste do que alegre, e que, aliás,
+alegrou a alma de D. Maria dos Anjos, por esta razão fina e profunda:
+antes a frieza da amiga fosse originada na doença do que na quebra do
+affecto. Demais, a doença não era grave. E que fosse grave! Não houve
+naquelle dia mãos presas, olhos nos olhos, manjares comidos entre
+caricias mutuas; não houve nada do jantar de domingo. Um jantar apenas
+conversado; não alegre, conversado; foi o mais que alcançou o conego.
+Amavel conego! As disposições de Eulalia, naquelle dia, cumularam-n'o
+de esperanças; o riso que brincava nella, a maneira expansiva da
+conversa, a docilidade com que se prestava a tudo, a tocar, a cantar,
+e o rosto affavel, meigo, com que ouvia e fallava ao Leandrinlio, tudo
+isso foi para a alma do conego uma renovação de esperanças. Logo hoje é
+que D. Benedicta estava doente! Realmente, era caiporismo.
+
+D. Benedicta reanimou-se um pouco, á noite, depois do jantar. Conversou
+mais, discutiu um projecto de passeio ao Jardim Botanico, chegou mesmo
+a propor que fosse logo no dia seguinte; mas Eulalia advertiu que era
+prudente esperar um ou dous dias até que os effeitos da enxaqueca
+desapparecessem de todo: e o olhar que mereceu á mãe, em trocado
+conselho, tinha a ponta aguda de um punhal. Mas a filha não tinha
+medo dos olhos maternos. De noite, ao despentear-se, recapitulando o
+dia, Eulalia repetiu consigo a palavra que lhe ouvimos, dias antes, á
+janella:
+
+--Isto acaba.
+
+E, satisfeita de si, antes de dormir, puxou uma certa gaveta, tirou
+uma caixinha, abriu-a, aventou um cartão de alguns centimetros de
+altura,--um retrato. Não era retrato de mulher, não só por ter bigodes,
+como por estar fardado; era, quando muito, um official de marinha.
+Se bonito ou feio, é materia de opinião. Eulalia achava-o bonito; a
+prova é que o beijou, não digo uma vez, mas tres. Depois mirou-o, com
+saudade, tornou a fechal-o e guardal-o.
+
+Que fazias tu, mãe cautellosa e rispida, que não vinhas arrancar ás
+mãos e á boca da filha um veneno tão subtil e mortal? D. Benedicta, á
+janella, olhava a noite, entre as estrellas e os lampeões de gaz, com
+a imaginação vagabunda, inquieta, roida de saudades e desejos. O dia
+tinha-lhe saido mal, desde manhã. D. Benedicta confessava, naquella
+doce intimidade da alma consigo mesma, que o jantar de D. Maria
+dos Anjos não prestára para nada, e que a propria amiga não estava
+provavelmente nos seus dias de costume. Tinha saudades, não sabia bem
+de que, e desejos, que ignorava. De quando em quando, bocejava ao modo
+preguiçoso e arrastado dos que caem de somno; mas se alguma cousa
+tinha era fastio,--fastio, impaciencia, curiosidade. D. Benedicta
+cogitou seriamente em ir ter com o marido; e tão depressa a idéa do
+marido lhe penetrou no cerebro, como se lhe apertou o coração de
+saudades e remorsos, e o sangue pulou-lhe n'um tal impeto de ir ver o
+desembargador que, se o paquete do Norte estivesse na esquina da rua e
+as malas promptas, ella embarcaria logo e logo. Não importa; o paquete
+devia estar prestes a sair, oito ou dez dias; era o tempo de arranjar
+as malas. Iria por tres mezes sómente, não era preciso levar muita
+cousa. Eil-a que se consola da grande cidade fluminense, da similitude
+dos dias, da escassez das cousas, da persistencia das caras, da mesma
+fixidez das modas, que era um dos seus arduos problemas:--porque é que
+as modas hão de durar mais de quinze dias?
+
+--Vou, não ha que ver, vou ao Pará, disse ella a meia voz.
+
+Com effeito, no dia seguinte, logo de manhã, communicou a resolução á
+filha, que a recebeu sem abalo. Mandou ver as malas que tinha, achou
+que era preciso mais uma, calculou o tamanho, e determinou compral-a.
+Eulalia, por uma inspiração subita:
+
+--Mas, mamãe, nós não vamos por tres mezes?
+
+--Tres... ou dous.
+
+--Pois, então, não vale a pena. As duas malas chegam.
+
+--Não chegam.
+
+--Bem; se não chegarem, pode-se comprar na vespera. E mamãe mesmo
+escolhe; é melhor do que mandar esta gente que não sabe nada.
+
+D. Benedicta achou a reflexão judiciosa, e guardou o dinheiro. A filha
+sorriu para dentro. Talvez repetisse comsigo a famosa palavra da
+janella:--Isto acaba. A mãe foi cuidar dos arranjos, escolha de roupa,
+lista das cousas que precisava comprar, um presente para o marido, etc.
+Ah! que alegria que elle ia ter! Depois do meio dia sairam para fazer
+encommendas, visitas, comprar as passagens, quatro passagens; levavam
+uma escrava comsigo. Eulalia ainda tentou arredal-a da idéa, propondo
+a transferencia da viajem; mas D. Benedicta declarou peremptoriamente
+que não. No escriptorio da Companhia de Paquetes disseram-lhe que o
+do Norte saia na sexta-feira da outra semana. Ella pediu as quatro
+passagens; abriu a carteirinha, tirou uma nota, depois duas, reflectiu
+um instante.
+
+--Basta vir na vespera, não?
+
+--Basta, mas pode não achar mais.
+
+--Bem; o senhor guarde os bilhetes: eu mando buscar.
+
+--O seu nome?
+
+--O nome? O melhor é não tomar o nome; nós viremos tres dias antes de
+sair o vapor. Naturalmente ainda haverá bilhetes.
+
+--Pode ser.
+
+--Hade haver.
+
+Na rua, Eulalia observou que era melhor ter comprado logo os bilhetes;
+e, sabendo-se que ella não desejava ir para o Norte nem para o Sul,
+salvo na fragata em que embarcasse o original do retrato da vespera,
+hade suppor-se que a reflexão da moça era profundamente machiavelica.
+Não digo que não. D. Benedicta, entretanto, noticiou a viagem aos
+amigos e conhecidos, nenhum dos quaes a ouviu espantado. Um chegou a
+perguntar-lhe se, enfim, daquella vez era certo. D. Maria dos Anjos,
+que sabia da viagem pelo conego, se alguma cousa a assombrou, quando a
+amiga se despediu della, foram as attitudes geladas, o olhar fixo no
+chão, o silencio, a indifferença. Uma visita de dez minutos apenas,
+durante os quaes D. Benedicta disse quatro palavras no principio: Vamos
+para o Norte. E duas no fim:--Passe bem. E os beijos? Dous tristes
+beijos de pessoa morta.
+
+
+IV
+
+
+A viagem não se fez por um motivo supersticioso. D. Benedicta, no
+domingo á noute, advertiu que o paquete seguia na sexta-feira, e achou
+que o dia era máu. Iriam no outro paquete. Não foram no outro; mas
+desta vez os motivos escapam inteiramente ao alcance do olhar humano,
+e o melhor alvitre em taes casos é não teimar com o impenetravel. A
+verdade é que D. Benedicta não foi, mas iria no terceiro paquete, a não
+ser um incidente que lhe trocou os planos.
+
+Tinha a filha inventado uma festa e uma amizade nova. A nova amizade
+era uma familia do Andarahy; a festa não se sabe a que proposito foi,
+mas deve ter sido explendida, porque D. Benedicta ainda fallava della
+tres dias depois. Tres dias! Realmente, era demais. Quanto á familia,
+era impossivel ser mais amavel; ao menos, a impressão que deixou na
+alma de D. Benedicta foi intensissima. Uso este superlativo, porque
+ella mesma o empregou: é um documento humano.
+
+--Aquella gente? Oh! deixou-me uma impressão intensissima.
+
+E toca a andar para Andarahy, namorada de D. Petronilha, esposa do
+conselheiro Beltrão, e de uma irmã della, D. Maricota, que ia casar
+com um official de marinha, irmão de outro oflicial de marinha, cujos
+bigodes, olhos, cara, porte, cabellos, são os mesmos do retrato qu e o
+leitor entreviu ha tempos na gavetinha de Eulalia. A irmã casada tinha
+trinta e dous annos, e uma seriedade, umas maneiras tão bonitas, que
+deixaram encantada a esposa do desembargador. Quanto á irmã solteira
+era uma flor, uma flor de cera, outra expressão de D. Benedicta, que
+não altero com receio de entibiar a verdade.
+
+Um dos pontos mais obscuros desta curiosa historia é a pressa com
+que as relações se travaram, e os acontecimentos se succederam. Por
+exemplo, uma das pessoas que estiveram em Andarahy, com D. Benedicta,
+foi o official de marinha retratado no cartão particular de Eulalia,
+1o tenente Mascarenhas, que o conselheiro Beltrão proclamou futuro
+almirante. Vede, porém, a perfídia do official: vinha fardado; e D.
+Benedicta, que amava os expectaculos novos, achou-o tão distincto, tão
+bonito, entre os outros moços á paisana, que o preferiu a todos, e lh'o
+disse. O official agradeceu commovido. Ella offereceu-lhe a casa; elle
+pediu-lhe licença para fazer uma visita.
+
+--Uma visita? Vá jantar comnosco.
+
+Mascarenhas fez uma cortezia de acquiescencia.
+
+--Olhe, disse D. Benedicta, vá amanhã.
+
+Mascarenhas foi, e foi mais cedo. D. Benedicta fallou-lhe da vida do
+mar; elle pediu-lhe a filha em casamento. D. Benedicta ficou sem voz,
+pasmada. Lembrou-se, é verdade, que desconfiára delle, um dia,** nas
+Larangeiras; mas a suspeita acabara. Agora não os vira conversar nem
+olhar uma só vez. Em casamento! Mas seria mesmo em casamento? Não podia
+ser outra cousa; a attitude séria, respeitosa, implorativa do rapaz
+dizia bem que se tratava de um casamento. Que sonho! Convidar um amigo,
+e abrir a porta a um genro: era o cumulo do inesperado. Mas o sonho era
+bonito; o official de marinha era um galhardo rapaz, forte, elegante,
+sympathico, mettia toda a gente no coração, e principalmente parecia
+adoral-a, a ella, D. Benedicta. Que magnifico sonho! D. Benedicta,
+voltou do pasmo, e respondeu que sim, que Eulalia era sua. Mascarenhas
+pegou-lhe na mão e beijou-a filialmente.
+
+--Mas o desembargador? disse elle.
+
+--O desembargador concordará commigo.
+
+Tudo andou assim depressa. Certidões passadas, banhos corridos,
+marcou-se o dia do casamento; seria vinte e quatro horas depois de
+recebida a resposta do desembargador. Que alegria a da boa mãe! que
+actividade no preparo do enxoval, no plano e nas encommendas da
+festa, na escolha dos convidados, etc.! Ella ia de um lado para outro,
+ora a pé, ora de carro, fizesse chuva ou sol. Não se detinha no mesmo
+objecto muito tempo; a semana do enxoval não era a do preparo da
+festa, nem a das visitas; alternava as cousas, voltava atraz, com
+certa confusão, é verdade. Mas ahi estava a filha para supprir as
+faltas, corrigir os defeitos, cercear as demazias, tudo com a sua
+habilidade natural. Ao contrario de todos os noivos, este não as
+importunava; não jantava todos os dias com ellas, segundo lhe pedia a
+dona da casa; jantava aos domingos, e visitava-as uma vez por semana.
+Matava as saudades por meio de cartas, que eram continuas, longas e
+secretas, como no tempo do namoro. D. Benedicta não podia explicar uma
+tal esquivança, quando ella morria por elle; e então vingava-se da
+exquisitice, morrendo ainda mais, e dizendo delle por toda a parte as
+mais bellas cousas do mundo.
+
+--Uma perola! uma perola!
+
+--E um bonito rapaz, accrescentavam.
+
+--Não é? De truz.
+
+A mesma cousa repetia ao marido nas cartas que lhe mandava, antes
+e depois de receber a resposta da primeira. A resposta veiu; o
+desembargador deu o seu consentimento, accrescentando que lhe doia
+muito não poder vir assistir ás bodas, por achar-se um tanto adoentado;
+mas abençoava de longe os filhos, e pedia o retrato do genro.
+
+Cumpriu-se o accordo á risca. Vinte e quatro horas depois de recebida a
+resposta do Pará effectuou-se o casamento, que foi uma festa admiravel,
+esplendida, no dizer de D. Benedicta, quando a contou a algumas amigas.
+Officiou o conego Roxo, e claro é que D. Maria dos Anjos não esteve
+presente, e menos ainda o filho. Ella esperou, note-se, até á ultima
+hora um billhete de participação, um convite, uma visita, embora se
+abstivesse de comparecer; mas não recebeu nada. Estava attonita,
+revolvia a memoria a ver se descobria alguma inadvertencia sua que
+podesse explicar a frieza das relações; não achando nada, suppoz alguma
+intriga. E suppoz mal, pois foi um simples esquecimento. D. Benedicta,
+no dia do consorcio, de manhã, teve ideia de que D. Maria dos Anjos não
+recebera participação.
+
+--Eulalia, parece que não mandamos participação a D. Maria dos Anjos?
+disse ella á filha, almoçando.
+
+--Não sei; mamãe é quem se incumbiu dos convites.
+
+--Parece que não, confirmou D. Benedicta. João, dá cá mais assucar.
+
+O copeiro deu-lhe o assucar; ella, mexendo o chá, lembrou-se do carro
+que iria buscar o conego, e reiterou uma ordem da vespera.
+
+Mas a fortuna é caprichosa. Quinze dias depois do casamento, chegou a
+noticia do obito do desembargador. Não descrevo a dôr de D. Benedicta;
+foi dilacerante e sincera. Os noivos, que devaneavam na Tijuca, vieram
+ter com ella; D. Benedicta chorou todas as lagrymas de uma esposa
+austera e fidelissima. Depois da missa do setimo dia, consultou a filha
+e o genro ácerca da ideia de ir ao Pará, erigir um tumulo ao marido, e
+beijar a terra em que elle repousava. Mascarenhas trocou um olhar com
+a mulher; depois disse á sogra que era melhor irem juntos, porque elle
+devia seguir para o Norte dahi a tres mezes em commissão do governo. D.
+Benedicta recalcitrou um pouco, mas aceitou o prazo, dando desde logo
+todas as ordens necessarias á construcção do tumulo. O tumulo fez-se;
+mas a commissão não veiu, e D. Benedicta não pôde ir.
+
+Cinco mezes depois, deu-se um pequeno incidente na familia. D.
+Benedicta mandara construir uma casa no caminho da Tijuca, e o genro,
+com o pretexto de uma interrupção na obra, propoz acabal-a. D.
+Benedicta consentiu, e o acto era tanto mais honroso para ella, quanto
+que o genro começava a parecer-lhe insupportavel com a sua excessiva
+disciplina, com as suas teimas, impertinencias, etc. Verdadeiramente,
+não havia teimas: nesse particular, o genro de D. Benedicta contava
+tanto com a sinceridade da sogra que nunca teimava; deixava que ella
+propria se desmentisse dias depois. Mas pode ser que isto mesmo a
+mortificasse. Felizmente, o governo lembrou-se de o mandar ao Sul;
+Eulalia, gravida, ficou com a mãe.
+
+Foi por esse tempo que um negociante, viuvo, teve ideia de cortejar
+D. Benedicta. O primeiro anno da viuvez estava passado D. Benedicta
+acolheu a ideia com muita sympathia, embora sem alvoroço. Defendia-se
+comsigo; allegava a edade e os estudos do filho, que em breve estaria a
+caminho de S. Paulo, deixando-a só, sosinha no mundo. O casamento seria
+uma consolação, uma companhia. E comsigo, na rua ou em casa, nas horas
+disponiveis, aprimorava o plano com todos os floreios da imaginação
+vivaz e subita; era uma vida nova, pois desde muito, antes mesmo da
+morte do marido, pode-se dizer que era viuva. O negociante gozava do
+melhor conceito: a escolha era excellente.
+
+Não casou. O genro tornou do Sul, a filha deu á luz um menino robusto
+e lindo, que foi a paixão da avó durante os primeiros mezes. Depois,
+o genro, a filha e o neto foram para o Norte. D. Benedicta achou-se
+só e triste; o filho não bastava aos seus affectos. A ideia de viajar
+tornou a rutilar-lhe na mente, mas como um phosphoro, que se apaga
+logo. Viajar sosinha era cansar e aborrecer-se ao mesmo tempo; achou
+melhor ficar. Uma companhia lyrica, adventicia, sacudiu-lhe o torpor, e
+restituiu-a á sociedade. A sociedade incutiu-lhe outra vez a ideia do
+casamento, e apontou-lhe logo um pretendente, desta vez um advogado,
+tambem viuvo.
+
+--Casarei? não casarei?
+
+Uma noite, volvendo D. Benedicta este problema, á janella da casa de
+Botafogo, para onde se mudara desde alguns mezes, viu um singular
+expectaculo. Primeiramente uma claridade opaca, especie de luz coada
+por um vidro fosco, vestia o espaço da enseada, fronteiro á janella.
+Nesse quadro appareceu-lhe uma figura vaga e transparente, trajada de
+nevoas, toucada de reflexos, sem contornos definidos, porque morriam
+todos no ar. A figura veiu até ao peitoril da janella de D. Benedicta;
+e de um gesto somnolento, com uma voz de criança, disse-lhe estas
+palavras sem sentido:
+
+--Casa... não casarás... se casas... casarás... não casarás... e
+casas... casando...
+
+D. Benedicta ficou atterrada, sem poder mexer-se; mas ainda teve a
+força de perguntar á figura quem era. A figura achou um principio de
+riso, mas perdeu-o logo; depois respondeu que era a fada que presidira
+ao nascimento de D. Benedicta: Meu nome é Velleidade, concluiu; e, como
+um suspiro, dispersou-se na noite e no silencio.
+
+
+
+FIM DE D. BENEDICTA
+
+
+
+
+O SEGREDO DO BONZO[1]
+
+# CAPITULO INEDITO DE FERNÃO MENDES PINTO
+
+
+Atraz deixei narrado o que se passou n'esta cidade Fucheo, capital do
+reino de Bungo, com o padre mestre Francisco, e de como el-rey se houve
+com o Fucarandono e outros bonzos, que tiveram por acertado disputar ao
+padre as primazias da nossa santa religião. Agora direi de uma doutrina
+não menos curiosa que saudavel ao espirito, e digna de ser divulgada a
+todas as republicas da christandade.
+
+Um dia, andando a passeio com Diogo Meirelles, n'esta mesma cidade
+Fucheo, n'aquelle anno de 1552, succedeu deparar-se-nos um ajuntamento
+de povo, á esquina de uma rua, em torno a um homem da terra, que
+discorria com grande abundancia de gestos e vozes. O povo, segundo
+o esmo mais baixo, seria passante de cem pessoas, varões sómente, e
+todos embasbacados. Diogo Meirelles, que melhor conhecia a lingua da
+terra, pois alli estivera muitos mezes, quando andou com bandeira de
+veniaga (agora occupava-se no exercicio da medicina, que estudara
+convenientemente, e em que era eximio) ia-me repetindo pelo nosso
+idioma o que ouvia ao orador, e que em resumo, era o seguinte:--Que
+elle não queria outra cousa mais do que affirmar a origem dos grillos,
+os quaes procediam do ar e das folhas de coqueiro, na conjuncção da lua
+nova; que este descobrimento, impossivel a quem não fosse, como elle,
+mathematico, physico e philosopho, era fructo de dilatados annos de
+applicação, experiencia e estudo, trabalhos e até perigos de vida; mas
+emfim, estava feito, e todo redundava em gloria do reino de Bungo, e
+especialmente da cidade Fucheo, cuja filho era; e, se por ter aventado
+tão sublime verdade, fosse necessario aceitar a morte, elle a aceitaria
+alli mesmo, tão certo era que a sciencia valia mais do que a vida e
+seus deleites.
+
+A multidão, tanto que elle acabou, levantou um tumulto de acclamações,
+que esteve a ponto de ensurdecer-nos, e alçou nos braços o homem,
+bradando: Patimau, Patimau, viva Patimau que descobriu a origem dos
+grillos. E todos se foram com elle ao alpendre de um mercador, onde lhe
+deram refrescos e lhe fizeram muitas saudações e reverencias, á maneira
+d'este gentio, que é em extremo obsequioso e cortezão.
+
+Desandando o caminho, vinhamos nós, Diogo Meirelles e eu, fallando
+do singular achado da origem dos grillos, quando, a pouca distancia
+d'aquelle alpendre, obra de seis credos, não mais, achámos outra
+multidão de gente, em outra esquina, escutando a outro homem. Ficámos
+espantados com a semelhança do caso, e Diogo Meirelles, visto que
+tambem este fallava apressado, repetiu-me da mesma maneira o teor da
+oração. E dizia este outro, com grande admiração e applauso da gente
+que o cercava, que emfim descobrira o principio da vida futura, quando
+a terra houvesse de ser inteiramente destruida, e era nada menos
+que uma certa gota de sangue de vacca; d'ahi provinha a excellencia
+da vacca para habitação das almas humanas, e o ardor com que esse
+distincto animal era procurado por muitos homens á hora de morrer;
+descobrimento que elle podia affirmar com fé e verdade, por ser obra
+de experiencias repetidas e profunda cogitação, não desejando nem
+pedindo outro galardão mais que dar gloria ao reino de Bungo e receber
+d'elle a estimação que os bons filhos merecem. O povo, que escutára
+esta falla com muita veneração, fez o mesmo alarido e levou o homem
+ao dito alpendre, com a differença que o trepou a uma charola; alli
+chegando, foi regalado com obsequios eguaes aos que faziam a Patimau,
+não havendo nenhuma distincçao entre elles, nem outra competencia nos
+banqueteadores, que não fosse a de dar graças a ambos os banqueteados.
+
+Ficámos sem saber nada d'aquillo, porque nem nos parecia casual
+a semelhança exacta dos dous encontros, nem racional ou crivel a
+origem dos grillos, dada por Patimau, ou o principio da vida futura,
+descoberto por Langurú, que assim se chamava o outro. Succedeu, porém,
+costearmos a casa de um certo Titané, alparqueiro, o qual correu a
+fallar a Diogo Meirelles, de quem era amigo. E, feitos os cumprimentos,
+em que o alparqueiro chamou as mais galantes cousas a Diogo Meirelles,
+taes como--ouro da verdade e sol do pensamento,--contou-lhe este o
+que viramos e ouviramos pouco antes. Ao que Titané acudiu com grande
+alvoroço:--Póde ser que elles andem cumprindo uma nova doutrina, dizem
+que inventada por um bonzo de muito saber, morador em umas casas
+pegadas ao monte Coral. E porque ficassemos cubiçosos de ter alguma
+noticia da doutrina, consentiu Titané em ir comnosco no dia seguinte ás
+casas do bonzo, e accrescentou:--Dizem que elle não a confia a nenhuma
+pessoa, se não ás que de coração se quizerem filiar a ella; e, sendo
+assim, podemos simular que o queremos unicamente com o fim de a ouvir;
+e se fôr boa, chegaremos a pratical-a á nossa vontade.
+
+No dia seguinte, ao modo concertado, fomos ás casas do dito bonzo,
+por nome Pomada, um ancião de cento e oito annos, muito lido e sabido
+nas letras divinas e humanas, e grandemente aceito a toda aquella
+gentilidade, e por isso mesmo mal visto de outros bonzos, que se
+finavam de puro ciume. E tendo ouvido o dito bonzo a Titané quem
+eramos e o que queriamos, iniciou-nos primeiro com varias ceremonias e
+bugiarias necessarias á recepção da doutrina, e só depois d'ella é que
+alçou a voz para confial-a e explical-a.
+
+Haveis de entender, começou elle, que a virtude e o saber, tem duas
+existencias parallelas, uma no sugeito que as possue, outra no espirito
+dos que o ouvem ou contemplam. Se puzerdes as mais sublimes virtudes
+e os mais profundos conhecimentos em um sujeito solitario, remoto de
+todo contacto com outros homens, é como se elles não existissem. Os
+fructos de uma larangeira, se ninguem os gostar, valem tanto como as
+urzes e plantas bravias, e, se ninguem os vir, não valem nada; ou, por
+outras palavras mais energicas, não ha expectaculo sem expectador. Um
+dia, estando a cuidar n'estas cousas, considerei que, para o fim de
+allumiar um pouco o entendimento, tinha consumido os meus longos annos,
+e, aliás, nada chegaria a valer sem a existencia de outros homens que
+me vissem e honrassem; então cogitei se não haveria um modo de obter o
+mesmo effeito, poupando taes trabalhos, e esse dia posso agora dizer
+que foi o da regeneração dos homens, pois me deu a doutrina salvadora.
+
+N'este ponto, afiámos os ouvidos e ficámos pendurados da boca do bonzo,
+o qual, como lhe dissesse Diogo Meirelles que a lingua da terra me não
+era familiar, ia fallando com grande pausa, porque eu nada perdesse.
+E continuou dizendo:--Mal podeis adivinhar o que me deu idéa da nova
+doutrina; foi nada menos que a pedra da lua, essa insigne pedra tão
+luminosa que, posta no cabeço de uma montanha ou no pincaro de uma
+torre, dá claridade a uma campina inteira, ainda a mais dilatada. Uma
+tal pedra, com taes quilates de luz, não existiu nunca, e ninguem
+jámais a viu; mas muita gente crê que existe e mais de um dirá que
+a viu com os seus proprios olhos. Considerei o caso, e entendi que,
+se uma cousa póde existir na opinião, sem existir na realidade, e
+existir na realidade, sem existir na opinião, a conclusão é que das
+duas existencias parallelas a única necessaria é a da opinião, não a
+da realidade, que é apenas conveniente. Tão depressa fiz este achado
+especulativo, como dei graças a Deus do favor especial, e determinei-me
+a verifical-o por experiencias; o que alcancei, em mais de um caso, que
+não relato, por vos não tomar o tempo. Para comprehender a efficacia
+do meu systema, basta advertir que os grillos não podem nascer do ar e
+das folhas de coqueiro, na conjuncção da lua nova, e por outro lado,
+o principio da vida futura não está em uma certa gotta de sangue de
+vacca; mas Patimáu e Langurú, varões astutos, com tal arte souberam
+metter estas duas idéas no animo da multidão, que hoje desfructam a
+nomeada de grande physicos e maiores philosophos, e tem comsigo pessoas
+capazes de dar a vida por elles.
+
+Não sabiamos em que maneira déssemos ao bonzo as mostras do nosso vivo
+contentamento e admiração. Elle interrogou-nos ainda algum tempo,
+compridamente, ácerca da doutrina e dos fundamentos d'ella, e depois de
+reconhecer que a entendiamos, incitou-nos a pratical-a, a divulgal-a
+cautelosamente, não porque houvesse nada contrario ás leis divinas ou
+humanas, mas porque a má comprehensão d'ella podia damnal-a e perdel-a
+em seus primeiros passos; emfim, despediu-se de nós com a certeza
+(são palavras suas) de que abalavamos d'alli com a verdadeira alma de
+pomadistas; denominação esta que, por se derivar do nome d'elle, lhe
+era em extremo agradavel.
+
+Com effeito, antes de cair a tarde, tinhamos os tres combinado em pôr
+por obra uma idéa tão judiciosa quão lucrativa, pois não é só lucro
+o que se póde haver em moeda, senão tambem o que traz consideração e
+louvor, que é outra e melhor especie de moeda, comquanto não dê para
+comprar damascos ou chaparias de ouro. Combinamos, pois, á guisa de
+experiencia, metter cada um de nós, no animo da cidade Fucheo, uma
+certa convicção, mediante a qual houvessemos os mesmos beneficios
+que desfructavam Patimau e Langurú; mas, tão certo é que o homem não
+olvida o seu interesse, entendeu Titané que lhe cumpria lucrar de duas
+maneiras, cobrando da experiencia ambas as moedas, isto é, vendendo
+tambem as suas alparcas: ao que nos não oppuzemos, por nos parecer que
+nada tinha isso com o essencial da doutrina.
+
+Consistiu a experiencia de Titané em uma cousa que não sei como diga
+para que a entendam. Usam n'este reino de Bungo, e em outros d'estas
+remotas partes, um papel feito de casca de canella moida e gomma,
+obra mui prima, que elles talham depois em pedaços de dois palmos de
+comprimento, e meio de largura, nos quaes desenham com vivas e variadas
+côres, e pela lingua do paiz, as noticias da semana, politicas,
+religiosas, mercantis e outras, as novas leis do reino, os nomes das
+fustas, lancharas, balões e toda a casta de barcos que navegam estes
+mares, ou em guerra, que a ha frequente, ou de veniaga. E digo as
+noticias da semana, porque as ditas folhas são feitas de oito em oito
+dias, em grande copia, e distribuidas ao gentio da terra, a troco
+de uma esportula, que cada um dá de bom grado para ter as noticias
+primeiro que os demais moradores. Ora, o nosso Titané não quiz melhor
+esquina que este papel, chamado pela nossa lingua _Vida e claridade
+das cousas mundanas e celestes_, titulo expressivo, ainda que um tanto
+derramado. E, pois, fez inserir no dito papel que acabavam de chegar
+noticias frescas de toda a costa de Malabar e da China, conforme as
+quaes não havia outro cuidado que não fossem as famosas alparcas
+d'elle Titané; que estas alparcas eram chamadas as primeiras do mundo,
+por serem mui solidas e graciosas; que nada menos de vinte e dous
+mandarins iam requerer ao imperador para que, em vista do explendor
+das famosas alparcas de Titané, as primeiras do universo, fosse creado
+o titulo honorifico de «alparca do Estado», para recompensa dos que
+se distinguissem em qualquer disciplina do entendimento; que eram
+grossissimas as encommendas feitas de todas as partes, ás quaes elle
+Titané ia acudir, menos por amor ao lucro do que pela gloria que d'alli
+provinha á nação; não recuando, todavia, do proposito em que estava e
+ficava de dar de graça aos pobres do reino umas cincoenta corjas das
+ditas alparcas, conforme já fizera declarar a el-rey e o repetia agora;
+emfim, que apezar da primazia no fabrico das alparcas assim reconhecida
+em toda a terra, elle sabia os deveres da moderação, e nunca se
+julgaria mais do que um obreiro diligente e amigo da gloria do reino de
+Bungo.
+
+A leitura d'esta noticia commoveu naturalmente a toda a cidade Fucheo,
+não se fallando em outra cousa durante toda aquella semana. As alparcas
+de Titané, apenas estimadas, começaram de ser buscadas com muita
+curiosidade e ardor, e ainda mais nas semanas seguintes, pois não
+deixou elle de entreter a cidade, durante algum tempo, com muitas e
+extraordinarias anedoctas ácerca da sua mercadoria. E dizia-nos com
+muita graça:--Vêde que obedeço ao principal da nossa doutrina, pois não
+estou persuadido da superioridade das taes alparcas, antes as tenho
+por obra vulgar, mas fil-o crer ao povo, que as vem comprar agora,
+pelo preço que lhes taxo. Não me parece, atalhei, que tenhaes cumprido
+a doutrina em seu rigor e substancia, pois não nos cabe inculcar aos
+outros uma opinião que não temos, e sim a opinião de uma qualidade que
+não possuimos; este é, ao certo, o essencial d'ella.
+
+Dito isto, assentaram os dous que era a minha vez de tentar a
+experiencia, o que immediatamente fiz; mas deixo de a relatar em todas
+as suas partes, por não demorar a narração da experiencia de Diogo
+Meirelles, qne foi a mais decisiva das tres, e a melhor prova d'esta
+deliciosa invenção do bonzo. Direi somente que, por algumas luzes que
+tinha de musica e charamella, em que aliás era mediano, lembrou-me
+congregar os principaes de Fucheo para que me ouvissem tanger o
+instrumento; os quaes vieram, escutaram e foram-se repetindo que nunca
+antes tinham ouvido cousa tão extraordinaria. E confesso que alcancei
+um tal resultado com o só recurso dos ademanes, da graça em arquear os
+braços para tomar a charamella, que me foi trazida em uma bandeja de
+prata, da rigidez do busto, da uncção com que alcei os olhos ao ar, e
+do desdem e ufania com que os baixei á mesma assembléa, a qual neste
+ponto rompeu em um tal concerto de vozes e exclamações de enthusiasmo,
+que quasi me persuadiu do meu merecimento.
+
+Mas, como digo, a mais engenhosa de todas as nossas experiencias, foi
+a de Diogo Meirelles. Lavrava então na cidade uma singular doença,
+que consistia em fazer inchar os narizes, tanto e tanto, que tomavam
+metade e mais da cara ao paciente, e não só a punham horrenda, senão
+que era molesto carregar tamanho peso. Comquanto os physicos da terra
+propuzessem extrahir os narizes inchados, para allivio e melhoria
+dos enfermos, nenhum d'estes consentia em prestar-se ao curativo,
+preferindo o excesso á lacuna, e tendo por mais aborrecivel que nenhuma
+outra cousa a ausencia daquelle orgão. N'este apertado lance mais de
+um recorria á morte voluntaria, como um remedio, e a tristeza era
+muita em toda a cidade Fucheo. Diogo Meirelles, que desde algum tempo
+praticava a medicina, segundo ficou dito atraz, estudou a molestia
+e reconheceu que não havia perigo em desnarigar os doentes, antes
+era vantajoso por lhes levar o mal, sem trazer fealdade, pois tanto
+valia um nariz disforme e pesado como nenhum; não alcançou, todavia,
+persuadir os infelizes ao sacrificio. Então occorreu-lhe uma graciosa
+invenção. Assim foi que, reunindo muitos physicos, philosophos, bonzos,
+autoridades e povo, communicou-lhes que tinha um segredo para eliminar
+o orgão; e esse segredo era nada menos que substituir o nariz achacado
+por um nariz são, mas de pura natureza metaphysica, isto é, inacessivel
+aos sentidos humanos, e comtudo tão verdadeiro ou ainda mais do que o
+cortado; cura esta praticada por elle em varias partes, e muito aceita
+aos physicos de Malabar. O assombro da assembléa foi immenso, e não
+menor a incredulidade de alguns, não digo de todos, sendo que a maioria
+não sabia que acreditasse, pois se lhe repugnava a metaphysica do
+nariz, cedia entretanto á energia das palavras de Diogo Meirelles, ao
+tom alto e convencido com que elle expoz e definiu o sem remedio. Foi
+então que alguns philosophos, alli presentes, um tanto envergonhados do
+saber de Diogo Meirelles, não quizeram ficar-lhe atraz, e declararam
+que havia bons fundamentos para uma tal invenção, visto não ser o homem
+todo outra cousa mais do que um producto da idealidade transcendental;
+donde resultava que podia trazer, com toda a verosimilhança, um nariz
+metaphysico, e juravam ao povo que o effeito era o mesmo.
+
+A assembléa acclamou a Diogo Meirelles; e os doentes começaram de
+buscal-o, em tanta copia, que elle não tinha mãos a medir. Diogo
+Meirelles desnarigava-os com muitissima arte; depois estendia
+delicadamente os dedos a uma caixa, onde fingia ter os narizes
+substitutos, colhia um e applicava-o ao logar vasio. Os enfermos, assim
+curados e suppridos, olhavam uns para os outros, e não viam nada no
+lugar do orgão cortado; mas, certos e certissimos de que alli estava o
+orgão substituto, e que este era inacessivel aos sentidos humanos, não
+se davam por defraudados, e tornavam aos seus officios. Nenhuma outra
+prova quero da efficacia da doutrina e do fructo d'esse experiencia,
+senão o facto de que todos os desnarigados de Diogo Meirelles
+continuaram a prover-se dos mesmos lenços de assoar. O que tudo deixo
+relatado para gloria do bonzo e beneficio do mundo.
+
+
+[1]Como se terá visto, não ha aqui um simples _pastiche_, nem esta
+imitação foi feita com o fim de provar forças, trabalho que, se fosse
+só isso, teria bem pouco valor. Era-me preciso, para dar a possivel
+realidade á invenção, collocal-a a distancia grande, no espaço e no
+tempo; e para tornar a narração sincera, nada me pareceu melhor do que
+attribuil-a ao viajante escriptor que tantas maravilhas disse. Para os
+curiosos accrescentarei que as palavras: _Atraz deixei narrado o que
+se passou nesta cidade Fucheo,_--foram escriptas com o fim de suppor o
+# capitulo intercalado nas _Peregrinações_, entre os caps. CCXIII e CCXIV.
+
+O bonzo do meu escripto chama-se Pomada, e pomadistas os seus
+sectarios. _Pomada e pomadista_ são locuções familiares da nossa terra:
+é o nome local do charlatão e do charlatanismo.
+
+
+FIM DO SEGREDO DO BONZO
+
+
+
+
+O ANNEL DE POLYCRATES
+
+
+A
+
+Lá vai o Xavier.
+
+Z
+
+Conhece o Xavier?
+
+A
+
+Ha que annos! Era um nababo, rico, podre de rico, mas prodigo...
+
+Z
+
+Que rico? que prodigo?
+
+A
+
+Rico e prodigo, digo-lhe eu. Bebia perolas diluidas em nectar. Comia
+linguas de rouxinol. Nunca usou papel mata-borrão, por achal-o vulgar
+e mercantil; empregava areia nas cartas, mas uma certa areia feita
+de pó de diamante. E mulheres! Nem toda a pompa de Salomão póde dar
+idéa do que éra o Xavier nesse particular. Tinha um serralho: a linha
+grega, a tez romana, a exhuberancia turca, todas as perfeições de uma
+raça, todas as prendas de um clima, tudo era admittido no harem do
+Xavier. Um dia enamorou-se loucamente de uma senhora de alto cothurno,
+e enviou-lhe de mimo tres estrellas do Cruzeiro, que então contava
+sete, e não pense que o portador foi ahi qualquer pé rapado. Não,
+senhor. O portador foi um dos archanjos de Milton, que o Xavier chamou
+na occasião em que elle cortava o azul para levar a admiração dos
+homens ao seu velho pai inglez. Era assim o Xavier. Capeava os cigarros
+com um papel de crystal, obra finissima, e, para accendel-os, trazia
+comsigo uma caixinha de raios do sol. As colxas da cama eram nuvens
+purpureas, e assim tambem a esteira que forrava o sophá de repouso, a
+poltrona da secretaria e a rede. Sabe quem lhe fazia o café, de manhã?
+A Aurora, com aquelles mesmos dedos côr de rosa, que Homero lhe poz.
+Pobre Xavier! Tudo o que o capricho e a riqueza pódem dar, o raro, o
+exquisito, o maravilhoso, o indescriptivel, o inimaginavel, tudo teve e
+devia ter, porque era um galhardo rapaz, e um bom coração. Ah! fortuna,
+fortuna! Onde estão agora as perolas, os diamantes, as estrellas, as
+nuvens purpureas? Tudo perdeu, tudo deixou ir por agua abaixo; o nectar
+virou zurrapa, os cochins são a pedra dura da rua, não manda estrellas
+ás senhoras, nem tem archanjos ás suas ordens...
+
+Z
+
+Você está enganado. O Xavier? Esse Xavier, ha de ser outro. O Xavier
+nababo! Mas o Xavier que alli vai nunca teve mais de duzentos mil réis
+mensaes; é um homem poupado, sobrio, deita-se com as gallinhas, accorda
+com os gallos, e não escreve cartas a namoradas, porque não as tem.
+Se alguma expede aos amigos é pelo carreio. Não é mendigo, nunca foi
+nababo.
+
+A
+
+Creio; esse é o Xavier exterior. Mas nem só de pão vive o homem. Você
+falla de Martha, eu fallo-lhe de Maria; fallo do Xavier especulativo...
+
+Z
+
+Ah!--Mas ainda assim, não acho explicação; não me consta nada d'elle.
+Que livro, que poema, que quadro...
+
+A
+
+Desde quando o conhece?
+
+Z
+
+Ha uns quinze annos.
+
+A
+
+Upa! Conheço-o ha muito mais tempo, desde que elle estreou na rua do
+Ouvidor, em pleno marquez de Paraná. Era um endiabrado, um derramado,
+planeava todas as cousas possiveis, e até contrarias, um livro,
+um discurso, um medicamento, um jornal, um poema, um romance, uma
+historia, um libello politico, uma viagem á Europa, outra ao sertão
+de Minas, outra á lua, em certo balão que inventara, uma candidatura
+politica, e archeologia, e philosophia, e theatro, etc., etc., etc. Era
+um sacco de espantos[1]. Quem conversava com elle sentia vertigens.
+Imagine uma cachoeira de idéas e imagens, qual mais original, qual mais
+bella, ás vezes extravagante, ás vezes sublime. Note que elle tinha a
+convicção dos seus mesmos inventos. Um dia, por exemplo, acordou com
+o plano de arrazar o morro do Castello, a troco das riquezas que os
+jesuitas alli deixaram, segundo o povo crê. Calculou-as logo em mil
+contos, inventariou-as com muito cuidado, separou o que era moeda, mil
+contos, do que eram obras de arte e pedrarias; descreveu minuciosamente
+os objectos, deu-me dous tocheiros de ouro.
+
+Z
+
+Realmente...
+
+A
+
+Ah! impagavel. Quer saber de outra? Tinha lido as cartas do conego
+Benigno, e resolveu ir logo ao sertão da Bahia, procurar a cidade
+mysteriosa. Expoz-me o plano, descreveu-me a architectura provavel da
+cidade, os templos, os palacios, genero etrusco, os ritos, os vasos, as
+roupas, os costumes...
+
+Z
+
+Era então doudo?
+
+A
+
+Originalão apenas. Odeio os carneiros de Panurgio, dizia elle, citando
+Rabelais: _Comme vous sçaves estre du mouton le naturel, tousjours
+suivre le premier, quelque part qu'il aille._ Comparava a trivialidade
+a uma mesa redonda de hospedaria, e jurava que antes comer um máu bife
+em mesa separada.
+
+Z
+
+Entretanto, gostava da sociedade.
+
+A
+
+Gostava da sociedade, mas não amava os socios. Um amigo nosso, o
+Pires, fez-lhe um dia esse reparo; e sabe o que é que elle respondeu?
+Respondeu com um apologo, em que cada socio figurava ser uma cuia
+d'agua, e a sociedade uma banheira.--Ora, eu não posso lavar-me em
+cuias d'agua, foi a sua conclusão.
+
+Z
+
+Nada modesto. Que lhe disse o Pires?
+
+A
+
+O Pires achou o apologo tão bonito que o metteu n'uma comedia, d'ahi
+a tempos. Engraçado é que o Xavier ouviu o apologo no theatro, e
+applaudiu-o muito, com enthusiasmo; esquecera-se da paternidade; mas a
+voz do sangue... Isto leva-me á explicação da actual miseria do Xavier.
+
+Z
+
+É verdade, não sei como se possa explicar que um nababo...
+
+A
+
+Explica-se facilmente. Elle espalhava idéas á direita e á esquerda,
+como o céu chove, por uma necessidade physica, e ainda por duas razões.
+A primeira é que era impaciente, não soffria a gestação indispensavel
+á obra escripta. A segunda é que varria com os olhos uma linha tão
+vasta de cousas, que mal poderia fixar-se em qualquer dellas. Se não
+tivesse o verbo fluente, morreria de congestão mental; a palavra era
+um derivativo. As paginas que então fallava, os capitulos que lhe
+borbotavam da bocca, só precisavam de uma arte de os imprimir no
+ar, e depois no papel, para serem paginas e capitulos excellentes,
+alguns admiraveis. Nem tudo era limpido; mas a porção limpida superava
+a porção turva, como a vigilia de Homero paga os seus cochillos.
+Espalhava tudo, ao acaso, ás mãos cheias, sem ver onde as sementes iam
+cahir; algumas pegavam logo...
+
+Z
+
+Como a das cuias.
+
+A
+
+Como a das cuias. Mas, o semeador tinha a paixão das cousas bellas, e,
+uma vez que a arvore fosse pomposa e verde, não lhe perguntava nunca
+pela semente sua mãe. Viveu assim longos annos, despendendo á tôa, sem
+calculo, sem fructo, de noite e de dia, na rua e em casa, um verdadeiro
+prodigo. Com tal regimen, que era a ausencia de regimen, não admira que
+ficasse pobre e miseravel. Meu amigo, a imaginação e o espirito têm
+limites; a não ser a famosa botelha dos saltimbancos e a credulidade
+dos homens, nada conheço inexgotavel debaixo do sol, O Xavier não
+só perdeu as idéas que tinha, mas até exhauriu a faculdade de as
+crear; ficou o que sabemos. Que moeda rara se lhe vê hoje nas mãos?
+que sestercio de Horacio? que drachma de Pericles? Nada. Gasta o seu
+logar-commum, rafado das mãos dos outros, come á mesa redonda, fez-se
+trival, chôcho...
+
+Z
+
+Cuia, emfim.
+
+A
+
+Justamente: cuia.
+
+Z
+
+Pois muito me conta. Não sabia nada disso. Fico inteirado; adeus.
+
+A
+
+Vai a negocio?
+
+Z
+
+Vou a um negocio.
+
+A
+
+Dá-me dez minutos?
+
+Z
+
+Dou-lhe quinze.
+
+V
+
+Quero referir-lhe a passagem mais interessante da vida do Xavier.
+Aceite o meu braço, e vamos andando. Vai para a Praça? Vamos juntos.
+Um caso interessantissimo. Foi alli por 1869 ou 70, não me recordo;
+elle mesmo é que me contou. Tinha perdido tudo; trazia o cerebro
+gasto, chupado, esteril, sem a sombra de um conceito, de uma imagem,
+nada. Basta dizer que um dia chamou rosa a uma senhora,--«uma bonita
+rosa»; fallava do luar saudoso, do sacerdocio da imprensa, dos jantares
+opiparos, sem accrescentar ao menos um relevo qualquer a toda essa
+chaparia de algibebe. Começára a ficar hypocondriaco; e, um dia,
+estando á janella, triste, desabusado das cousas, vendo-se chegado a
+nada, aconteceu passar na rua um taful a cavallo. De repente, o cavallo
+corcoveou, e o taful veiu quasi ao chão; mas sustentou-se, e metteu
+as esporas e o chicote no animal; este empina-se, elle teima; muita
+gente parada na rua e nas portas; no fim de dez minutos de luta, o
+cavallo cedeu e continuou a marcha. Os espectadores não se fartaram de
+admirar o garbo, a coragem, o sangue-frio, a arte do cavalleiro. Então
+o Xavier, consigo, imaginou que talvez o cavalleiro não tivesse animo
+nenhum; não quiz cahir diante de gente, e isso lhe deu a força de domar
+o cavallo. E d'ahi veiu uma idéa: comparou a vida a um cavallo chucro
+ou manhoso; e accrescentou sentenciosamente: Quem não fôr cavalleiro,
+que o pareça. Realmente, não era uma idéa extraordinaria; mas a penuria
+do Xavier tocara a tal extremo, que esse crystal pareceu-lhe um
+diamante. Elle repetiu-a dez ou doze vezes, formulou-a de varios modos,
+ora na ordem natural, pondo primeiro a definição, depois o complemento;
+ora dando-lhe a marcha inversa, trocando palavras, medindo-as, etc.;
+e tão alegre, tão alegre como casa de pobre em dia de perú. De noite,
+sonhou que effectivamente montava um cavallo manhoso, que este
+pinoteava com elle e o sacudia a um brejo. Accordou triste; a manhã,
+que era de domingo e chuvosa, ainda mais o entristeceu; metteu-se a lêr
+e a scismar. Então lembrou-se... Conhece o caso do annel de Polycrates?
+
+Z
+
+Francamente, não.
+
+A
+
+Nem eu; mas aqui vai o que me disse o Xavier. Potycrates governava
+a ilha de Samos. Era o rei mais feliz da terra; tão feliz, que
+começou a receiar alguma viravolta da Fortuna, e, para applacal-a
+antecipadamente, determinou fazer um grande sacrificio: deitar ao mar
+o annel precioso que, segundo alguns, lhe servia de sinete. Assim
+fez; mas a Fortuna andava tão apostada em cumulal-o de obsequios, que
+o annel foi engulido por um peixe, o peixe pescado e mandado para a
+cozinha do rei, que assim voltou á posse do annel. Não affirmo nada
+a respeito d'esta anedocta; foi elle quem me contou, citando Plinio,
+citando...
+
+Z
+
+Não ponha mais na carta. O Xavier naturalmente comparou a vida, não a
+um cavallo, mas...
+
+A
+
+Nada d'isso. Não é capaz de adivinhar o plano estrambotico do pobre
+diabo. Experimentemos a fortuna, disse elle; vejamos se a minha idéa,
+lançada ao mar, póde tornar ao meu poder, como o annel de Polycrates,
+no bucho de algum peixe, ou se o meu caiporismo será tal, que nunca
+mais lhe ponha a mão.
+
+Z
+
+Ora essa!
+
+A
+
+Não é estrambotico? Polycrates experimentára a felicidade; o Xavier
+quiz tentar o caiporismo; intenções diversas, acção indentica. Saiu de
+casa, encontrou um amigo, travou conversa, escolheu assumpto, e acabou
+dizendo o que era a vida, um cavallo chucro ou manhoso, e quem não fôr
+cavalleiro que o pareça. Dita assim, esta phrase era talvez fria; por
+isso o Xavier teve o cuidado de descrever primeiro a sua tristeza, o
+desconsolo dos annos, o mallogro dos esforços, ou antes os effeitos da
+imprevidencia, e quando o peixe ficou de bocca aberta, digo, quando
+a commoção do amigo chegou ao cume, foi que elle lhe atirou o annel,
+e fugiu a metter-se em casa. Isto que lhe conto é natural, crê-se,
+não é impossivel; mas agora começa a juntar-se á realidade uma alta
+dóse de imaginação. Seja o que fôr, repito o que elle me disse. Cerca
+de tres semanas depois, o Xavier jantava pacificamente no _Leão de
+Ouro_ ou no _Globo_, não me lembro bem, e ouviu de outra mesa a mesma
+phrase sua, talvez com a troca de um adjectivo. «Meu pobre annel, disse
+elle, eis-te emfim no peixe de Polycrates.» Mas a idéa bateu as azas
+e voou, sem que elle pudesse guardal-a na memoria. Resignou-se. Dias
+depois, foi convidado a um baile: era um antigo companheiro dos tempos
+de rapaz, que celebrava a sua recente distincção nobiliaria. O Xavier
+aceitou o convite, e foi ao baile, e ainda bem que foi, porque entre o
+sorvete e o chá ouviu de um grupo de pessoas que louvavam a carreira de
+barão, a sua vida prospera, rigida, modelo, ouviu comparar o barão a
+um cavalleiro emerito. Pasmo dos ouvintes, porque o barão não montava
+a cavallo. Mas o panegyrista explicou que a vida não é mais do que um
+cavallo chucro ou manhoso, sobre o qual ou se ha de ser cavalleiro ou
+parecel-o, e o barão era-o excellente. «--Entra, meu querido annel,
+disse o Xavier, entra no dedo de Polycrates.» Mas de novo a idéa bateu
+as azas, sem querer ouvil-o. Dias depois...
+
+Z
+
+Adivinho o resto: uma serie de encontros e fugas do mesmo genero.
+
+A
+
+Justo.
+
+Z
+
+Mas, emfim, apanhou-o um dia.
+
+A
+
+Um dia só, e foi então que me contou o caso digno de memoria. Tão
+contente que elle estava n'esse dia! Jurou-me que ia escrever, a
+proposito d'isto, um conto fantastico, á maneira de Edgard Poe, uma
+pagina fulgurante, pontuada de mysterios,--são as suas proprias
+expressões;--e pediu-me que o fosse ver no dia seguinte. Fui; o annel
+fugira-lhe outra vez. «Meu caro A, disse-me elle, com um sorriso fino
+e sarcastico; tens em mim o Polycrates do caiporismo; nomeio-te meu
+ministro honorario e gratuito.» D'ahi em diante foi sempre mesma coisa.
+Quando elle suppunha pôr a mão em cima da idéa, ella batia as azas,
+plas, plas, plas, e perdia-se no ar, como as figuras de um sonho. Outro
+peixe a engolia e trazia, e sempre o mesmo desenlace. Mas dos casos que
+elle me contou n'aquelle dia, quero dizer-lhe tres...
+
+Z
+
+Não posso; lá se vão os quinze minutos.
+
+A
+
+Conto-lhe só tres. Um dia, o Xavier chegou a crer que podia emfim
+agarrar a fugitiva, e fincal-a perpetuamente no cerebro. Abriu um
+jornal de opposição, e leu estupefacto estas palavras: «O ministerio
+parece ignorar que a politica é, como a vida, um cavallo chucro ou
+manhoso, e, não podendo ser bom cavalleiro, porque nunca o foi, devia
+ao menos parecer que o é.» Ah! emfim! exclamou o Xavier, cá estás
+engastado no bucho do peixe; já me não podes fugir.» Mas, em vão! a
+idéa fugia-lhe, sem deixar outro vestigio mais do que uma confusa
+reminiscencia. Sombrio, desesperado, começou a andar, a andar, até que
+a noite caiu; passando por um theatro, entrou; muita gente, muitas
+luzes, muita alegria; o coração aquietou-se-lhe. Cumulo de beneficios:
+era uma comedia do Pires, uma comedia nova. Sentou-se ao pé do autor,
+applaudiu a obra com enthusiasmo, com sincero amor de artista e de
+irmão. No segundo acto, scena VIII, estremeceu. «D. Eugenia, diz o
+galan a uma senhora, o cavallo póde ser comparado á vida, que é também
+um cavallo chucro ou manhoso; quem não for bom cavalleiro, deve cuidar
+de parecer que o é.» O autor, com o olhar timido, espiava no rosto do
+Xavier o effeito d'aquella reflexão, emquanto o Xavier repetia a mesma
+supplica das outras vezes;--«Meu querido annel...
+
+Z
+
+_Et nunc et semper..._ Venha o ultimo encontro, que são horas.
+
+A
+
+O ultimo foi primeiro. Já lhe disse que o Xavier transmittira a idéa
+a um amigo. Uma semana depois da comedia cae o amigo doente, com tal
+gravidade que em quatro dias estava á morte. O Xavier corre a vel-o;
+e o infeliz ainda o pôde conhecer, estender-lhe a mão fria e tremula,
+cravar-lhe um longo olhar baço da ultima hora, e, com a voz sumida,
+echo do sepulchro, soluçar-lhe: «Cá voou, meu caro Xavier, o cavallo
+chucro ou manhoso da vida deitou-me ao chão: se fui mau cavalleiro,
+não sei; mas forcejei por parecel-o bom.» Não se ria; elle contou-me
+isto com lagrimas. Contou-me tambem que a idéa ainda esvoaçou alguns
+minutos sobre o cadaver, faiscando as bellas azas de christal, que
+elle cria ser diamante; depois estalou um risinho de escarneo, ingrato
+e parricida, e fugiu como das outras vezes, mettendo-se no cerebro de
+alguns sujeitos, amigos da casa, que alli estavam, tranzidos de dor, e
+recolheram com saudade esse pio legado do defuncto. Adeus.
+
+
+[1]Em algumas linhas escriptas para dar o ultimo adeus a Arthur de
+Oliveira, meu triste amigo, disse que era elle o original deste
+personagem. Menos a vaidade, que não tinha, e salvo alguns rasgos mais
+accentuados, este Xavier era o Arthur. Para completal-o darei aqui
+mesmo aquellas linhas impressas na _Estação_ de 31 de Agosto ultimo:
+
+"Quem não tratou de perto este rapaz, morto a 21 do mez corrente, mal
+poderá entender a admiração e saudade que elle deixou.
+
+"Conheci-o desde que chegou do Rio Grande do Sul, com dezesete
+ou dezoito annos de edade; e podem crer que era então o que foi
+aos trinta. Aos trinta lera muito, vivera muito; mas toda aquella
+pujança de espirito, todo esse raro temperamento litterario que lhe
+admiravamos, veiu com a flor da adolescencia; desabrochara com os
+primeiros dias. Era a mesma torrente de ideias, a mesma fulguração
+de imagens. Ha algumas semanas, em escripto que viu a luz na _Gazeta
+de Noticias_, defini a alma de um personagem com esta especie de
+hebraismo:--chamei-lhe um sacco de espantos. Esse personagem (posso
+agora dizel-o) era, em algumas partes, o nosso mesmo Arthur, com a sua
+poderosa loquella e extraordinaria fantazia. Um sacco de espantos. Mas,
+se o da minha invenção morreu exhausto de espirito, não aconteceu o
+mesmo a Arthur de Oliveira, que pôde alguma vez ficar prostrado, mas
+não exhauriu nunca a força genial que possuia.
+
+"Um organismo daquelles era naturalmente irrequieto. Minas o viu,
+pouco depois, no collegio dos padres do Caráça, começando os estudos,
+que interrompeu logo, para continual-os na Europa. Na Europa travou
+relações litterarias de muito peso; Theophilo Gauthier, entre outros,
+queria-lhe muito, apreciava-lhe a alta comprehensao artistica, a
+natureza impetuosa e luminosa, os deslumbramentos subitos de raio.
+_Venez, père de la foudre!_ dizia-lhe elle, mal o Arthur assomava á
+porta. E o Arthur, assim definido familiarmente pelo grande artista,
+entrava no templo, palpitante da divindade, admirativo como tinha de
+ser até á morte. Sim, até á morte. Gauthier foi uma das religiões que
+o consolaram. Sete dias antes de o perdermos, isto é, a 14 deste mez,
+prostrado na cama, roido pelo dente cruel da tisica, escrevia-me elle
+a proposito de um prato do jantar. "O verde das couves espanejava-se
+em uma onda de pirão, cor de ouro. A palheta de Ruysdael, pelo
+incendido do ouro, não hesitaria um só instante, em assignar esse pirão
+_mirabolante_, como diria o grande e divino Theo..." Grande e divino!
+Vêde bem que esta admiração é de um moribundo, refere-se a um morto,
+e falla na intimidade da correspondencia particular. Onde outra mais
+sincera?
+
+"Não escrevo uma biographia. A vida delle não é das que se escrevem; é
+das que são vividas, sentidas, amadas, sem jamais poderem converter-se
+á narração; tal qual os romances psychologicos, em que a urdidura dos
+factos é breve ou nenhuma. Ultimamente, exercia o professorado no
+Collegio de Pedro II; mas a doença tomou-o entre as suas tenazes, para
+não o deixar mais.
+
+"Não o deixou mais: comeu-lhe a seiva toda; desfibrou-o com a paciencia
+dos grandes operarios. Elle, como vimos, prestes a tropeçar na cova,
+regalava-se ainda das reminiscencias litterarias, evocava a palheta
+de Ruysdael, olhando para a vida que lhe ia sobreviver, a vida da
+arte que elle amou com fé religiosa, sem proveito para si, sem
+calculo, sem odios, sem invejas, sem desfallecimento. A doença fel-o
+padecer muito; teve instantes de dôr cruel, não raro de desespero e
+de lagrimas; mas, em podendo, reagia. Encararia alguma vez o enigma
+da morte? Poucas horas antes de morrer (perdôem-me esta recordação
+pessoal; é necessaria), poucas horas antes de morrer, lia um livro meu,
+o das _Memorias Posthumas de Braz Cubas_, e dizia-me que interpretava
+agora melhor algumas de suas passagens. Talvez as que entendiam com
+a occasião... E dizia-me aquillo serenamente, com uma força de animo
+rara, uma resignação de granito. Foi ao sair de uma dessas visitas, que
+escrevi estes versos, recordando os arrojos d'elle comparados com o
+actual estado. Não lh'os mostrei; e dou-os aqui para os seus amigos:
+
+"Sabes tu de um poeta enorme,
+   Que andar não usa
+No chão, e cuja extranha musa,
+   Que nunca dorme,
+
+"Calça o pé melindroso e leve,
+   Como uma pluma,
+De folha e flôr, de sol e neve,
+   Cristal e espuma;
+
+"E mergulha, como Leandro,
+   A fórma rara
+No Pó, no Sena, em Guanabara,
+   E no Scamandro;
+
+"Ouve a Tupan e escuta a Momo,
+   Sem controversia,
+E tanto adoro o estudo, como
+   Adora a inercia;
+
+"Ora do fuste, ora da ogiva
+   Sair parece;
+Ora o Deus do occidente esquece
+   Pelo deus Siva;
+
+"Gosta do estrepito infinito,
+   Gosta das longas
+Solidões em que se ouve o grito
+   Das arapongas;
+
+"E se ama o rapido besouro,
+   Que zumbe, zumbe,
+E a mariposa que succumbe
+   Na flamma de ouro,
+
+"Vagalumes e borboletas
+   Da côr da chamma,
+Roxas, brancas, rajadas, pretas,
+   Não menos ama
+
+"Os hippopotamos tranquillos,
+   E os elephantes,
+E mais os bufalos nadantes,
+   E os crocodillos,
+
+"Como as girafas e as pantheras,
+   Onças, condores,
+Toda a casta de bestas feras
+   E voadores.
+
+"Se não sabes quem elle seja,
+   Trepa de um salto,
+Azul acima, onde mais alto
+   A aguia negreja;
+
+"Onde morre o clamor iniquo
+   Dos violentos;
+Onde não chega o riso obliquo
+   Dos fraudulentos.
+
+"Então olha, de cima posto,
+   Para o oceano;
+Verás n'um longo rosto humano
+   Teu mesmo rosto;
+
+"E has de rir, não do riso antigo,
+   Potente e largo,
+Riso de eterno moço amigo;
+   Mas de outro amargo,
+
+"Como o riso de um deus enfermo,
+   Que se aborrece
+Da divindade, e que apetece
+   Tambem um termo...
+
+
+"Os amigos delle apreciarão o sentido desses versos. O publico, em
+geral, nada tem com um homem que passou pela terra sem o convidar para
+cousa nenhuma, um forte engenho que apenas soube amar a arte, como
+tantos christãos obscuros amaram a Egreja, e amar tambem aos seus
+amigos, porque era meigo, generoso e bom."
+
+
+FIM DO ANNEL DE POLYCRATES
+
+
+
+
+O EMPRESTIMO
+
+
+Vou divulgar uma anecdota, mas uma anecdota no genuino sentido do
+vocabulo, que o vulgo ampliou ás historietas de pura invenção. Esta é
+verdadeira; podia citar algumas pessoas que a sabem tão bem como eu.
+Nem ella andou recondita, senão por falta de um espirito repousado, que
+lhe achasse a philosophia. Como deveis saber, ha em todas as cousas
+um sentido philosophico. Carlyle descobriu o dos colletes, ou, mais
+propriamente, o do vestuario; e ninguem ignora que os numeros, muito
+antes da loteria do Ypiranga, formavam o systema de Pythagoras. Pela
+minha parte creio ter decifrado este caso de emprestimo; ides ver se me
+engano.
+
+E, para começar, emendemos Seneca. Cada dia, ao parecer d'aquelle
+moralista, é, em si mesmo, uma vida singular; por outros termos, uma
+vida dentro da vida. Não digo que não; mas porque não accrescentou
+elle, que muitas vezes uma só hora é a representação de uma vida
+inteira? Vede este rapaz: entra no mundo com uma grande ambição, uma
+pasta de ministro, um Banco, uma corôa de visconde, um baculo pastoral.
+Aos cincoenta annos, vamos achal-o simples apontador de alfandega, ou
+sacristão da roça. Tudo isso que se passou em trinta annos, póde algum
+Balzac mette-lo em trezentas paginas; porque não hade a vida, que foi a
+mestra de Balzac, apertal-o em trinta ou sessenta minutos?
+
+Tinham batido quatro horas no cartorio do tabellião Vaz Nunes, á rua
+do Rosario. Os escreventes deram ainda as ultimas pennadas: depois
+limparam as pennas de ganço na ponta de seda preta que pendia da gaveta
+ao lado; fecharam as gavetas, concertaram os papeis, arrumaram os autos
+e os livros, lavaram as mãos; alguns que mudavam de paletot á entrada,
+despiram o do trabalho e enfiaram o da rua; todos sahiram. Vaz Nunes
+ficou só.
+
+Este honesto tabellião era um dos homens mais perspicazes do seculo.
+Está morto: podemos elogial-o á vontade. Tinha um olhar de lanceta,
+cortante e agudo. Elle adivinhava o caracter das pessoas que o
+buscavam para escripturar os seus accordos e resoluções; conhecia
+a alma de um testador muito antes de acabar o testamento; farejava
+as manhas secretas e os pensamentos reservados. Usava oculos, como
+todos os tabelliães de theatro; mas, não sendo myope, olhava por cima
+d'elles, quando queria ver, e através d'elles, se pretendia não ser
+visto. Finorio como elle só, diziam os escreventes. Em todo o caso,
+circumspecto. Tinha cincoenta annos, era viuvo, sem filhos, e, para
+fallar como alguns outros serventuarios, roia muito caladinho os seus
+duzentos contos de reis.
+
+--Quem é? perguntou elle de repente, olhando para a porta da rua.
+
+Estava á porta, parado na soleira, um homem que elle não conheceu
+logo, e mal póde reconhecer dahi a pouco. Vaz Nunes pediu-lhe o favor
+de entrar; elle obedeceu, comprimentou-o, estendeu-lhe a mão, e
+sentou-se na cadeira ao pé da mesa. Não trazia o acanho natural a um
+pedinte; ao contrario, parecia, que não vinha alli senão para dar ao
+tabellião alguma cousa preciosissima e rara. E, não obstante, Vaz Nunes
+estremeceu e esperou.
+
+--Não se lembra de mim?
+
+--Não me lembro...
+
+--Estivemos juntos uma noite, ha alguns mezes, na Tijuca... Não se
+lembra? Em casa do Theodorico, aquella grande ceia de Natal; por signal
+que lhe fiz uma saude... Veja se se lembra do Custodio.
+
+--Ah!
+
+Custodio endireitou o busto, que até então inclinara um pouco. Era um
+homem de quarenta annos. Vestia pobremente, mas escorado, apertado,
+correcto. Usara unhas longas, curadas com esmero, e tinha as mãos
+muito bem talhadas, macias, ao contrario da pelle do rosto, que era
+agreste. Noticias minimas, e aliás necessarias ao complemento de um
+certo ar duplo que distinguia este homem, um ar de pedinte e general.
+Na rua, andando, sem almoço e sem vintem, parecia levar após si um
+exercito. A causa não era outra mais do que o contraste entre a
+natureza e a situação, entre a alma e a vida. Esse Custodio nascera com
+a vocação da riqueza, sem a vocação do trabalho. Tinha o instincto das
+elegancias, o amor do superfluo, da boa chira, das bellas damas, dos
+tapetes finos, dos moveis raros, um voluptuoso, e, até certo ponto,
+um artista, capaz de reger a villa Torloni ou a galeria Hamilton. Mas
+não tinha dinheiro; nem dinheiro, nem aptidão ou pachorra de o ganhar;
+por outro lado, precisara viver. _Il faut bien que je vive_, dizia um
+pretendente ao ministro Talleyrand. _Je n'en vois pas la necessité_,
+redarguiu friamente o ministro. Ninguem dava essa resposta ao Custodio;
+davam-lhe dinheiro, um dez, outro cinco, outro vinte mil reis, e de
+taes esportulas é que elle principalmente tirava o albergue e a comida.
+
+Digo que principalmente vivia d'ellas, porque o Custodio não recusava
+metter-se em alguns negocios, com a condição de os escolher, e escolhia
+sempre os que não prestavam para nada. Tinha o faro das catastrophes.
+Entre vinte emprezas, adivinhava logo a insensata, e mettia hombros
+a ella, com resolução. O caiporismo, que o perseguia, fazia com que
+as dezenove prosperassem, e a vigesima lhe estourasse nas mãos. Não
+importa; apparelhava-se para outra.
+
+Agora, por exemplo, leu um annuncio de alguem que pedia um socio, com
+cinco contos de reis, para entrar em certo negocio, que promettia dar,
+nos primeiros seis mezes, oitenta a cem contos de lucro, Custodio foi
+ter com o annunciante. Era uma grande idéa, uma fabrica de agulhas,
+industria nova, de immenso futuro. E os planos, os desenhos da fabrica
+os relatorios de Birmingham, os mappas de importação, as respostas dos
+alfaiates, dos donos de armarinho, etc., todos os documentos de um
+longo inquerito passavam diante dos olhos de Custodio, estrellados de
+algarismos, que elle não entendia, e que por isso mesmo lhe pareciam
+dogmaticos. Vinte e quatro horas; não pedia mais de vinte e quatro
+horas para trazer os cinco contos. E saiu d'alli, cortejado, amimado
+pelo annunciante, que, ainda á porta, o afogou n'uma torrente de
+saldos. Mas os cinco contos, menos doceis ou menos vagabundos que os
+cinco mil reis, saccudiam incredulamente a cabeça, e deixavam-se estar
+nas arcas, tolhidos de medo e de somno. Nada. Oito ou dez amigos, a
+quem fallou, disseram-lhe que nem dispunham agora da somma pedida, nem
+acreditavam na fabrica. Tinha perdido as esperanças, quando aconteceu
+subir a rua do Rozario e ler no portal de um cartorio o nome de Vaz
+Nunes. Estremeceu de alegria; recordou a Tijuca, as maneiras do
+tabellião, as phrases com que elle lhe respondeu ao brinde, e disse
+comsigo, que este era o salvador da situação.
+
+--Venho pedir-lhe uma escriptura...
+
+Vaz Nunes, armado para outro começo, não respondeu: espiou por cima dos
+oculos e esperou.
+
+--Uma escriptura de gratidão, explicou o Custodio; venho pedir-lhe um
+grande favor, um favor indispensavel, e conto que o meu amigo...
+
+--Se estiver nas minhas mãos...
+
+--O negocio é excellente, note-se bem; um negocio magnifico. Nem eu
+me mettia a incommodar os outros sem certeza do resultado. A cousa
+está prompta; foram já encommendas para a Inglaterra; e é provavel que
+dentro de dois mezes esteja tudo montado, é uma industria nova. Somos
+tres socios; a minha parte são cinco contos. Venho pedir-lhe esta
+quantia, a seis mezes,--ou a tres, com juro modico...
+
+--Cinco contos?
+
+--Sim, senhor.
+
+--Mas, Sr. Custodio, não posso, não disponho de tão grande quantia. Os
+negocios andam mal; e ainda que andassem muito hem, não poderia dispôr
+de tanto. Quem é que póde esperar cinco contos de um modesto tabellião
+de notas?
+
+--Ora, se o senhor quizesse...
+
+--Quero, de certo; digo-lhe que se se tratasse de uma quantia pequena,
+accommodada aos meus recursos, não teria duvida em adiantal-a, Mas
+cinco contos! Creia que é impossivel.
+
+A alma do Custodio cahiu de bruços. Subira pela escada de Jacob até
+o céu; mas em vez de descer como os anjos no sonho biblico, rolou
+abaixo e cahiu de bruços. Era a ultima esperança; e justamente por ter
+sido inesperada, é que elle suppoz que fosse certa, pois, como todos
+os corações que se entregam ao regimen do eventual, o do Custodio
+era supersticioso. O pobre diabo sentiu enterrarem-se-lhe no corpo
+os milhões de agulhas que a fabrica teria de produzir no primeiro
+semestre. Calado, com os olhos no chão, esperou que o tabellião
+continuasse, que se compadecesse, que lhe désse alguma aberta; mas
+o tabellião, que lia isso mesmo na alma do Custodio, estava tambem
+calado, girando entre os dedos a boceta de rapé, respirando grosso,
+com um certo chiado nazal e implicante. Custodio ensaiou todas as
+attitudes; ora pedinte, ora general. O tabellião não se mexia. Custodio
+ergueu-se.
+
+--Bem,disse elle, com uma pontasinha de despeito, ha de perdoar o
+incomodo...
+
+--Não ha que perdoar; eu é que lhe peço desculpa de não poder servil-o,
+como desejava. Repito: se fosse alguma quantia menos avultada, muito
+menos, não teria duvida; mas...
+
+Estendeu a mão ao Custodio, que com a esquerda pegara machinalmente
+no chapéu. O olhar empanado do Custodio exprimia a absorpção da
+alma d'elle, apenas convalecida da quéda, que lhe tirára as ultimas
+energias. Nenhuma escada mysteriosa, nenhum céu; tudo voara a um
+piparote do tabellião. Adeus, agulhas! A realidade veio tomal-o outra
+vez com as suas unhas de bronze. Tinha de voltar ao precario, ao
+adventicio, ás velhas contas, com os grandes zeros arregalados e os
+cifrões retorcidos á laia de orelhas, que continuariam a fital-o e
+a ouvil-o, a ouvil-o e a fital-o, alongando para elle os algarismos
+implacaveis de fome. Que quéda! e que abysmo! Desenganado, olhou para o
+tabelião com um gesto de despedida; mas, uma idéa subita clareou-lhe a
+noute do cerebro. Se a quantia fosse menor, Vaz Nunes poderia servil-o,
+e com prazer; porque não seria uma quantia menor? Já agora abria mão
+da empreza; mas não podia fazer o mesmo a uns alugueis atrazados, a
+dous ou tres credores, etc., e uma somma razoavel, quinhentos mil
+réis, por exemplo, uma vez que o tabellião tinha a boa vontade de
+emprestar-lh'os, vinham a ponto. A alma do Custodio impertigou-se;
+vivia do presente, nada queria saber do passado, nem saudades, nem
+temores, nem remorsos. O presente era tudo. O presente eram os
+quinhentos mil réis, que elle ia ver surdir da algibeira do tabellião,
+como um alvará de liberdade.
+
+--Pois bem, disse elle, veja o que me póde dar, e eu irei ter com
+outros amigos... Quanto?
+
+--Não posso dizer nada a este respeito, porque realmente só uma cousa
+muito modesta.
+
+--Quinhentos mil réis?
+
+--Não; não posso.
+
+--Nem quinhentos mil réis?
+
+--Nem isso, replicou firme o tabellião. De que se admira? Não lhe nego
+que tenho algumas propriedades; mas, meu amigo, não ando com ellas no
+bolso; e tenho certas obrigações particulares... Diga-me, não está
+empregado?
+
+--Não, senhor.
+
+--Olhe; dou-lhe cousa melhor do que quinhentos mil réis; fallarei ao
+ministro da justiça, tenho relações com elle, e...
+
+Custodio interrompeu-o, batendo uma palmada no joelho. Se foi um
+movimento natural, ou uma diversão astuciosa para não conversar do
+emprego, é o que totalmente ignoro; nem parece que seja essencial
+ao caso. O essencial é que elle teimou na supplica. Não podia dar
+quinhentos mil réis? Aceitava duzentos; bastavam-lhe duzentos, não
+para a empreza, pois adoptava o conselho dos amigos: ia recusal-a. Os
+duzentos mil réis, visto que o tabellião estava disposto a ajudal-o,
+eram para uma necessidade urgente,--«tapar um buraco.» E então relatou
+tudo, respondeu á franqueza com franqueza: era a regra da sua vida.
+Confessou que, ao tratar da grande empreza, tivera em mente acudir
+tambem a um credor pertinaz, um diabo, um judeu, que rigorosamente
+ainda lhe devia, mas tivera a aleivosia de trocar de posição. Eram
+duzentos e poucos mil réis; e dez, parece; mas aceitava duzentos...
+
+--Realmente, custa-me repetir-lhe o que disse; mas, emfim, nem os
+duzentos mil réis posso dar. Cem mesmo, se o senhor os pedisse, estão
+acima das minhas forças n'esta occasião. N'outra póde ser, e não tenho
+duvida, mas agora...
+
+--Não imagina os apuros em que estou!
+
+--Nem cem, repito. Tenho tido muitas difficuldades n'estes ultimos
+tempos. Sociedades, subscripções, maçonaria... Custa-lhe crêr, não é?
+Naturalmente: um proprietario. Mas, meu amigo, é muito bom ter casas:
+o senhor é que não conta os estragos, os concertos, as pennas d'agua,
+as decimas, o seguro, os calotes, etc. São os buracos do pote, por onde
+vai a maior parte da agua...
+
+--Tivesse eu um pote! suspirou Custodio.
+
+--Não digo que não. O que digo é que não basta ter casas para não ter
+cuidados, despezas, e até credores... Creia o senhor que tambem eu
+tenho credores.
+
+--Nem cem mil réis!
+
+--Nem cem mil réis, peza-me dizel-o, mas é a verdade. Nem cem mil réis.
+Que horas são?
+
+Levantou-se, e veiu ao meio da sala. Custodio veiu tambem, arrastado,
+desesperado. Não podia acabar de crer que o tabellião não tivesse
+ao menos cem mil réis. Quem é que não tem cem mil réis consigo?
+Cogitou uma scena pathetica, mas o cartorio abria para a rua; seria
+ridiculo. Olhou para fóra. Na loja fronteira, um sujeito apreçava
+uma sobrecasaca, á porta, porque entardecia depressa, e o interior
+era escuro. O caixeiro segurava a obra no ar; o freguez examinava o
+panno com a vista e com os dedos, depois as costuras, o forro... Este
+incidente rasgou-lhe um horizonte novo, embora modesto; era tempo de
+aposentar o paletó que trazia. Mas nem cincoenta mil réis podia dar-lhe
+o tabellião. Custodio sorriu;--não de desdem, não de raiva, mas de
+amargura e duvida; era impossivel que elle não tivesse cincoenta mil
+réis. Vinte, ao menos? Nem vinte. Nem vinte! Não; falso tudo; tudo
+mentira.
+
+Custodio tirou o lenço, alisou a chapéu devagarinho; depois guardou o
+lenço, concertou a gravata, com um ar mixto de esperança e despeito.
+Viera cerceando as azas á ambição, pluma a pluma; restava ainda uma
+pennugem curta e fina, que lhe mettia umas velleidades de voar. Mas o
+outro, nada. Vaz Nunes cotejava o relogio da parede com o do bolso,
+chegava este ao ouvido, limpava o mostrador, calado, transpirando por
+todos os poros impaciencia e fastio. Estavam a pingar as cinco; deram,
+emfim, e o tabellião, que as esperava, desengatilhou a despedida. Era
+tarde; morava longe. Dizendo isto, despiu o paletó de alpaca, e vestiu
+o de casimira, mudou de um para outro a boceta de rapé, o lenço, a
+carteira... Oh! a carteira! Custodio viu esse utensilio problematico,
+apalpou-o com os olhos, invejou a alpaca, invejou a casimira, quiz ser
+algibeira, quiz ser o couro, a materia mesma do precioso receptaculo.
+Lá vae ella; mergulhou de todo no bolso do peito esquerdo; o tabellião
+abotoou-se. Nem vinte mil réis! Era impossivel que não levasse alli
+vinte mil réis, pensava elle; não diria duzentos, mas vinte, dez que
+fossem...
+
+--Prompto! disse-lhe Vaz Nunes, com o chapéu na cabeça.
+
+Era o fatal instante. Nenhuma palavra do tabellião, um convite ao
+menos, para jantar; nada; findára tudo. Mas os momentos supremos pedem
+energias supremas. Custodio sentiu toda força d'este logar-commum, e,
+subito, como um tiro, perguntou ao tabellião se não lhe podia dar ao
+menos dez mil réis.
+
+--Quer ver?
+
+E o tabellião desabotoou o paletó, tirou a carteira, abriu-a, e
+mostrou-lhe duas notas de cinco mil réis.
+
+--Não tenho mais, disse elle; o que posso fazer é repartil-os com o
+senhor; dou-lhe uma de cinco, e fico com a outra; serve-lhe?
+
+Custodio aceitou os cinco mil réis, não triste, ou de má cara, mas
+risonho, palpitante, como se viesse de conquistar a Asia Menor. Era
+o jantar certo. Estendeu a mão ao outro, agradeceu-lhe o obsequio,
+despediu-se até breve,--um _até breve_ cheio de affirmações implicitas.
+Depois sahiu; o pedinte esvaiu-se á porta do cartorio; o general é que
+foi por alli abaixo, pisando rijo, encarando fraternalmente os inglezes
+do commercio que subiam a rua para se transportarem aos arrabaldes.
+Nunca o céu lhe pareceu tão azul, nem a tarde tão limpida; todos os
+homens traziam na retina a alma da hospitalidade. Com a mão esquerda no
+bolso das calças, elle apertava amorosamente os cinco mil réis, residuo
+de uma grande ambição, que ainda ha pouco sahira contra o sol, n'um
+impeto de aguia, e ora habita modestamente as azas de frango rasteiro.
+
+
+FIM DO EMPRESTIMO
+
+
+
+
+A SERENISSIMA REPUBLICA[1]
+
+(CONFERENCIA DO CONEGO VARGAS)
+
+
+Meus senhores,
+
+Antes de communicar-vos uma descoberta, que reputo de algum lustre para
+o nosso paiz, deixai que vos agradeça a promptidão com que acudistes
+ao meu chamado. Sei que um interesse superior vos trouxe aqui; mas não
+ignoro tambem,--e fora ingratidão ignoral-o,--que um pouco de sympathia
+pessoal se mistura á vossa legitima curiosidade scientifica. Oxalá
+possa eu corresponder a ambas.
+
+Minha descoberta não é recente; data do fim do anno de 1876. Não a
+divulguei então,--e, a não ser o _Globo_, interessante diario d'esta
+capital, não a divulgaria ainda agora,--por uma razão que achará facil
+entrada no vosso espirito. Esta obra de que venho fallar-vos, carece de
+retoques ultimos, de verificações e experiencias complementares. Mas
+o _Globo_ noticiou que um sabio inglez descobriu a linguagem phonica
+dos insectos, e cita o estudo feito com as moscas. Escrevi logo para
+a Europa e aguardo as respostas com anciedade. Sendo certo, porém,
+que pela navegação aerea, invento do padre Bartholomeo, é glorificado
+o nome estrangeiro, emquanto o do nosso patricio mal se póde dizer
+lembrado dos seus naturaes, determinei evitar a sorte do insigne
+Voador, vindo a esta tribuna, proclamar alto e bom som, á face do
+universo, que muito antes d'quelle sabio, o fóra das ilhas britannicas,
+um modesto naturalista descobriu cousa identica, e fez com ella obra
+superior.
+
+Senhores, vou assombrar-vos, como teria assombrado a Aristoteles,
+se lhe perguntasse: Credes que se possa dar um regimen social ás
+aranhas? Aristoteles responderia negativamente, com vós todos, porque
+é impossivel crer que jámais se chegasse a organisar socialmente
+esse articulado arisco, solitario, apenas disposto ao trabalho, e
+difficilmente ao amor. Pois bem, esse impossivel fil-o eu.
+
+Ouço um riso, no meio do sussuro de curiosidade. Senhores, cumpre
+vencer os preconceitos. A aranha parece-vos inferior, justamente
+porque não a conheceis. Amais o cão, prezaes o gato e a gallinha,
+e não advertis que a aranha não pula nem ladra como o cão, não mia
+como o gato, não cacareja como a gallinha, não zune nem morde como o
+mosquito, não nos leva o sangue e o somno como a pulga. Todos esses
+bichos são o modelo acabado da vadiação e do parasitismo. A mesma
+formiga, tão gabada por certas qualidades boas, dá no nosso assucar e
+nas nossas plantações, e funda a sua propriedade roubando a alheia.
+A aranha, senhores, não nos afflige nem defrauda; apanha as moscas,
+nossas inimigas, fia, tece, trabalha e morre. Que melhor exemplo de
+paciencia, de ordem, de previsão, de respeito e de humanidade? Quanto
+aos seus talentos, não ha duas opiniões. Desde Plinio até Darwin, os
+naturalistas do mundo inteiro formam um só côro de admiração em torno
+d'esse bichinho, cuja maravilhosa teia a vassoura inconsciente do
+vosso creado destroe em menos de um minuto. Eu repetiria agora esses
+juizos, se me sobrasse tempo; a materia, porém, excede o prazo, sou
+constrangido a abrevial-a. Tenho-os aqui, não todos, mas quasi todos;
+tenho, entre elles, esta excellente monographia de Buchner, que com
+tanta subtileza estudou a vida psychica dos animaes. Citando Darwin
+e Buchner, é claro que me restrinjo á homenagem cabida a dois sabios
+de primeira ordem, sem de nenhum modo absolver (e as minhas vestes o
+proclamam) as theorias gratuitas e erroneas do materialismo.
+
+Sim, senhores, descobri uma especie araneida que dispõe do uso
+da falla; colligi alguns, depois muitos dos novos articulados, e
+organisei-os socialmente. O primeiro exemplar d'essa aranha maravilhosa
+appareceu-me no dia 15 de dezembro de 1876. Era tão vasta, tão
+colorida, dorso rubro, com listras azues, transversaes, tão rapida nos
+movimentos, e ás vezes tão alegre, que de todo me captivou a attenção.
+No dia seguinte vieram mais tres, e as quatro tomaram posse de um
+recanto de minha chacara. Estudei-as longamente; achei-as admiraveis.
+Nada, porém, se póde comparar ao pasmo que me causou a descoberta do
+idioma araneida, uma lingua, senhores, nada menos que uma lingua rica e
+variada, com a sua estructura syntaxica, os seus verbos, conjugações,
+declinações, casos latinos e fórmas onomatopaicas, uma lingua que estou
+grammaticando para uso das academias, como o fiz summariamente para
+meu proprio uso. E fil-o, notai bem, vencendo difficuldades asperrimas
+com uma paciencia extraordinaria. Vinte vezes desanimei; mas o amor
+da sciencia dava-me forças para arremetter a um trabalho, que hoje
+declaro, não chegaria a ser feito duas vezes na vida do mesmo homem.
+
+Guardo para outro recinto a descripção technica do meu arachnide, e a
+analyse da lingua. O objecto d'esta conferencia é, como disse, resalvar
+os direitos da sciencia brazileira, por meio de um protesto em tempo;
+e, isto feito, dizer-vos a parte em que reputo a minha obra superior á
+do sabio de Inglaterra. Devo demonstral-o, e para este ponto chamo a
+vossa attenção.
+
+Dentro de um mez tinha commigo vinte aranhas; no mez seguinte cincoenta
+e cinco; em Março de 1877 contava quatrocentas e noventa. Duas forças
+serviram principalmente á empreza de as congregar:--o emprego da lingua
+d'ellas, desde que pude discernil-a um pouco, e o sentimento de terror
+que lhes infundi. A minha estatura, as vestes talares, o uso do mesmo
+idioma, fizeram-lhes crer que era eu o deus das aranhas, e desde então
+adoraram-me. E vede o beneficio d'esta illusão. Como as acompanhasse
+com muita attenção e miudeza, lançando em um livro as observações
+que fazia, cuidaram que o livro era o registro dos seus peccados, e
+fortaleceram-se ainda mais na pratica das virtudes. A flauta tambem foi
+um grande auxiliar. Como sabeis, ou deveis saber, ellas são doudas por
+musica.
+
+Não bastava associal-as; era preciso dar-lhes um governo idoneo.
+Hesitei na escolha; muitos dos actuaes pareciam-me bons, alguns
+excellentes, mas todos tinham contra si o existirem. Explico-me. Uma
+fórma vigente de governo ficava exposta a comparações que poderiam
+amesquinhal-a. Era-me preciso, ou achar uma fórma nova, ou restaurar
+alguma outra abandonada. Naturalmente adoptei o segundo alvitre, e nada
+me pareceu mais acertado do que uma republica, á maneira de Veneza, o
+mesmo molde, e até o mesmo epitheto. Obsoleto, sem nenhuma analogia, em
+suas feições geraes, com qualquer outro governo vivo, cabia-lhe ainda
+a vantagem de um mecanismo complicado,--o que era metter á prova as
+aptidões politicas da joven sociedade.
+
+Outro motivo determinou a minha escolha. Entre os differentes modos
+eleitoraes da antiga Veneza, figurava o do sacco e bolas, iniciação
+dos filhos da nobreza no serviço do Estado. Mettiam-se as bolas com
+os nomes dos candidatos no sacco, e extrahia-se annualmente um certo
+numero, ficando os eleitos desde logo aptos para as carreiras publicas.
+Este systema fará rir aos doutores do suffragio; a mim não. Elle exclue
+os desvarios da paixão, os desazos da inepcia, o congresso da corrupção
+e da cobiça. Mas não foi só por isso que o aceitei; tratando-se de um
+povo tão eximio na fiação de suas teias, o uso do sacco eleitoral era
+de facil adaptação, quasi uma planta indigena.
+
+A proposta foi acceita. Serenissima Republica pareceu-lhes um titulo
+magnifico, roçagante, expansivo, proprio a engrandecer a obra popular.
+
+Não direi, senhores, que a obra chegou á perfeição, nem que lá chegue
+tão cedo. Os meus pupillos não são os solarios de Campanella ou os
+utopistas de Morus; formam um povo recente, que não póde trepar de um
+salto ao cume das nações seculares. Nem o tempo é operario que ceda a
+outro a lima ou o alvião; elle fará mais e melhor do que as theorias do
+papel, validas no papel e mancas na pratica. O que posso affirmar-vos
+é que, não obstante as incertezas da idade, elles caminham, dispondo
+de algumas virtudes, que presumo essenciaes á duração de um Estado.
+Uma d'ellas, como já disse, é a perseverança, uma longa paciencia de
+Penelope, segundo vou mostrar vos.
+
+Com effeito, desde que comprehenderam que no acto eleitoral estava a
+base da vida publica, trataram de o exercer com a maior attenção. O
+fabrico do sacco foi uma obra nacional. Era um sacco de cinco polegadas
+de altura e tres de largura, tecido com os melhores fios, obra solida
+e espessa. Para compol-o foram acclamadas dez damas principaes, que
+receberam o titulo de mães da republica, além de outros privilegios
+e fóros. Uma obra-prima, podeis crel-o. O processo eleitoral é
+simples. As bolas recebem os nomes dos candidatos, que provarem
+certas condições, e são escriptas por um official publico, denominado
+«das inscripções». No dia da eleição, as bolas são mettidas no sacco
+e tiradas pelo official das extracções, até perfazer o numero dos
+elegendos. Isto que era um simples processo inicial na antiga Veneza,
+serve aqui ao provimento de todos os cargos.
+
+A eleição fez-se a principio com muita regularidade; mas, logo depois,
+um dos legisladores declarou que ella fora viciada, por terem entrado
+no sacco duas bolas com o nome do mesmo candidato. A assembléa
+verificou a exactidão da denuncia, e decretou que o sacco, até alli
+de tres pollegadas de largura, tivesse agora duas; limitando-se a
+capacidade do sacco, restringia-se o espaço á fraude, era o mesmo que
+supprimil-a. Aconteceu, porém, que na eleição seguinte, um candidato
+deixou de ser inscripto na competente bola, não se sabe se por descuido
+ou intenção do official publico. Este declarou que não se lembrava
+de ter visto o illustre candidato, mas aecrescentou nobremente que
+não era impossivel que elle lhe tivesse dado o nome; neste caso não
+houve exclusão, mas distracção. A assembléa, diante de um phenomeno
+psychologico ineluctavel, como é a distracção, não pôde castigar
+o official; mas, considerando que a estreiteza do sacco podia dar
+logar a exclusões odiosas, revogou a lei anterior e restaurou as tres
+pollegadas.
+
+N'esse interim, senhores, falleceu o primeiro magistrado, e tres
+cidadãos apresentaram-se candidatos ao posto, mas so dous importantes,
+Hazeroth e Magog, os proprios chefes do partido rectilineo e do partido
+curvilineo. Devo explicar-vos estas denominações. Como elles são
+principalmente geometras, é a geometria que os divide em politica.
+Uns entendem que a aranha deve fazer as teias com fios rectos, é
+o partido rectilineo;--outros pensam, ao contrario, que as teias
+devem ser trabalhadas com fios curvos,--é o partido curvilineo. Ha
+ainda um terceiro partido, mixto e central, com este postulado:--as
+teias devem ser urdidas de fios rectos e fios curvos; é o partido
+recto-curvilineo; e finalmente, uma quarta divisão politica, o partido
+anti-recto-curvilineo, que fez taboa rasa de todos os principios
+litigantes, e propõe o uso de umas teias urdidas de ar, obra
+transparente e leve, em que não ha linhas de especie alguma. Como
+a geometria apenas puderia dividil-os, sem chegar a apaixonal-os,
+adoptaram uma symbolica. Para uns, a linha recta exprime os bons
+sentimentos, a justiça, a probidade, a inteireza, a constancia, etc.,
+ao passo que os sentimentos ruins ou inferiores, como a bajulação,
+a fraude, a deslealdade, a perfidia, são perfeitamente curvos. Os
+adversarios respondem que não, que a linha curva é a da virtude
+e do saber, porque é a expressão da modestia e da humildade; ao
+contrario, a ignorancia, a presumpção, a toleima, a parlapatice, são
+rectas, duramente rectas. O terceiro partido, menos anguloso, menos
+exclusivista, desbastou a exageração de uns e outros, combinou os
+contrastes, e proclamou a simultaneidade das linhas como a exacta copia
+do mundo pliysico e moral. O quarto limita-se a negar tudo.
+
+Nem Hazeroth nem Magog foram eleitos. As suas bolas sahiram do sacco,
+é verdade, mas foram inutilisadas, a do primeiro por faltar a primeira
+lettra do nome, a do segundo por lhe faltar a ultima. O nome restante
+e triumphante era o de um argentario ambicioso, politico obscuro,
+que subiu logo á poltrona ducal, com espanto geral da republica.
+Mas os vencidos não se contentaram de dormir sobre os louros do
+vencedor; requereram uma devassa. A devassa mostrou que o official das
+inscripções intencionalmente viciara a orthographia de seus nomes. O
+official confessou o defeito e a intenção; mas explicou-os dizendo
+que se tratava de uma simples ellipse; delicto, se o era, puramente
+litterario. Não sendo possivel perseguir ninguem por defeitos de
+ortographia ou figuras de rhetorica, pareceu acertado rever a lei.
+Nesse mesmo dia ficou decretado que o sacco seria feito de um tecido de
+malhas, atravez das quaes as bolas pudessem ser lidas pelo, publico,
+e, _ipso facto_, pelos mesmos candidatos, que assim teriam tempo de
+corrigir as inscripções.
+
+Infelizmente, senhores, o commentario da lei é a eterna malicia. A
+mesma porta aberta á lealdade serviu á astucia de um certo Nabiga, que
+se conchavou com o official das extracções, para haver um logar na
+assembléa. A vaga era uma, os candidatos tres; o official extrahiu as
+bojas com os olhos no complice, que só deixou, de abanar negativamente
+a cabeça, quando a bola pegada foi a sua. Não era preciso mais para
+condemnar a idéa das malhas. A assembléa, com exemplar paciencia,
+restaurou o tecido espesso do regimen anterior; mas, para evitar outras
+ellipses, decretou a vallidação das bolas cuja inscripção estivesse
+incorrecta, uma vez que cinco pessoas jurassem ser o nome inscripto o
+proprio nome do candidato.
+
+Este novo estatuto deu logar a um caso novo e imprevisto, como ides
+ver. Tratou-se de eleger um collector de esportulas, funccionario
+encarregado de cobrar as rendas publicas, sob a fórma de esportulas
+voluntarias. Eram candidatos, entre outros, um certo Caneca e um
+certo Nebraska. A bola extrahida foi a de Nebraska. Estava errada, é
+certo, por lhe faltar a ultima letra; mas, cinco testemunhas juraram,
+nos termos da iei, que o eleito era o proprio e unico Nebraska da
+republica. Tudo parecia findo, quando o candidato Caneca requereu
+provar que a bola extrahida não trazia o nome de Nebraska, mas o
+delle. O juiz de paz deferiu ao peticionario. Veiu então um grande
+philologo,--talvez o primeiro da republica, além de bom metaphysico, e
+não vulgar mathemathico,--o qual provou a cousa nestes termos:
+
+--Em primeiro logar, disse elle; deveis notar que não é fortuita a
+ausencia da ultima lettra do nome Nebraska. Porque motivo foi elle
+escripto incompletamente? Não se póde dizer que por fadiga ou amor da
+brevidade, pois só falta a ultima lettra, um simples _a._ Carencia de
+espaço? Tambem não; vede; ha ainda espaço para duas ou tres syllabas.
+Logo, a falta é intencional, e a intenção não póde ser outra senão
+chamar a attenção do leitor para a lettra _k_, ultima escripta,
+desamparada, solteira, sem sentido. Ora, por um effeito mental, que
+nenhuma lei destruiu, a lettra reproduz-se no cerebro de dois modos,
+a fórma graphica, e a fórma sonica: _k_ e _ca._ O defeito, pois, no
+nome escripto, chamando os olhos para a lettra final, incrusta desde
+logo no cerebro esta primeira syllaba: _Ca._ Isto posto, o movimento
+natural do espirito é ler o nome todo; volta-se ao principio, á inicial
+_ne_, do nome _Nebrask._--_Cané._--Resta a syllaba do meio, _bras_,
+cuja reducção a esta outra syllaba _ca_, ultima do nome Caneca, é a
+cousa mais demonstravel do mundo. E, todavia, não a demonstrarei,
+visto faltar-vos o preparo necessario ao entendimento da significação
+espiritual ou philosophica da syllaba, suas origens e effeitos,
+phases, modificações, consequencias logicas e syntaxicas, deductivas
+ou inductivas, symbolicas e outras. Mas, supposta a demonstração, ahi
+fica a ultima prova, evidente clara, da minha affirmação primeira pela
+annexação da syllaba _ca_ ás duas _Cane_, dando este nome Caneca.
+
+A lei emendou-se, senhores, ficando abolida a faculdade da prova
+testemunhal e interpretativa dos textos, e introduzindo-se uma
+innovação, o córte simultaneo de meia pollegada na altura e outra
+meia na largura do sacco. Esta emenda não evitou um pequeno abuso na
+eleição dos alcaides, e o sacco foi restituido ás dimensões primitivas,
+dando-se-lhe, todavia, a fórma triangular. Comprehendeis que esta fórma
+trazia consigo uma consequencia: ficavam muitas bolas no fundo. D'ahi a
+mudança para a fórma cylindrica; mais tarde deu-se-lhe o aspecto de uma
+ampulheta, cujo inconveniente se reconheceu ser igual ao triangulo, e
+então adoptou-se a fórma de um crescente, etc. Muitos abusos, descuidos
+e lacunas tendem a desapparecer, e o restante terá egual destino, não
+inteiramente, de certo, pois a perfeição não é d'este mundo, mas na
+medida e nos termos do conselho de um dos mais circumspectos cidadãos
+da minha republica, Erasmus, cujo ultimo discurso sinto não poder
+dar-vos integralmente. Encarregado de notificar a ultima resolução
+legislativa ás dez damas, incumbidas de urdir o sacco eleitoral,
+Erasmus contou-lhes a fabula de Penelope, que fazia e desfazia a famosa
+teia, á espera do esposo Ulysses.
+
+--Vós sois a Penelope da nossa republica, disse elle ao terminar;
+tendes a mesma castidade, paciencia e talentos. Refazei o sacco, amigas
+minhas, refazei o sacco, até que Ulysses, cançado de dar ás pernas,
+venha tomar entre nós o logar que lhe cabe. Ulysses é a Sapiencia.
+
+[1]Este escripto, publicado primeiro na _Gazeta de Noticias_, como
+outros do livro, é o unico em que ha um sentido restricto:--as nossas
+alternativas eleitoraes. Creio que terão entendido isso mesmo, atravez
+da fórma allegorica.
+
+
+FIM DA SERENISSIMA REPUBLICA
+
+
+
+
+O ESPELHO
+
+ESBOÇO DE UMA NOVA THEORIA DA ALMA HUMANA
+
+
+Quatro ou cinco cavalheiros debatiam, uma noite, varias questões de
+alta transcendencia, sem que a disparidade dos votos trouxesse a menor
+alteração aos espiritos. A casa ficava no morro de Santa Thereza, a
+sala era pequena, alumiada a velas, cuja luz fundia-se mysteriosamente
+com o luar que vinha de fóra. Entre a cidade, com as suas agitações
+e aventuras, e o céu, em que as estrellas pestanejavam, atravez de
+uma atmosphera limpida e socegada, estavam os nossos quatro ou cinco
+investigadores de cousas metaphysicas, resolvendo amigavelmente os mais
+arduos problemas do universo.
+
+Porque quatro ou cinco? Rigorosamente eram quatro os que fallavam; mas,
+além d'elles, havia na sala um quinto personagem, calado, pensando,
+cochilando, cuja esportula no debate não passava de um o outro resmungo
+de approvação. Esse homem tinha a mesma edade dos companheiros, entre
+quarenta e cincoenta annos, era provinciano, capitalista, intelligente,
+não sem instrucção, e, ao que parece, astuto e caustico. Não discutia
+nunca; e defendia-se da abstenção com um paradoxo, dizendo que a
+discussão era a fórma polida do instincto batalhador,. que jaz no
+homem, como uma herança bestial; e acerescentava que os seraphins e os
+cherubins não controvertiam nada, e, aliás, eram a perfeição espiritual
+e eterna. Como désse esta mesma resposta maquella noite, contestou-lh'a
+um dos presentes, e desafiou-o a demonstrar o que dizia, se era capaz.
+Jacobina (assim se chamava elle) reflectiu um instante, e respondeu:
+
+--Pensando bem, talvez o senhor tenha razão.
+
+Vai senão quando, no meio da noite, succedeu que este casmurro usou
+da palavra, e não dous ou tres minutos, mas trinta ou quarenta. A
+conversa, em seus meandros, veiu a cair na natureza da alma, ponto que
+dividiu radicalmente os quatro amigos. Cada cabeça, cada sentença;
+não só o accordo, mas a mesma discussão, tornou-se difficil, senão
+impossivel, pela multiplicidade de questões que se deduziram do tronco
+principal, e um pouco, talvez, pela inconsistencia dos pareceres. Um
+dos argumentadores pediu ao Jacobina alguma opinião,--uma conjectura,
+ao menos.
+
+--Nem conjectura, nem opinião, redarguiu elle; uma ou outra póde dar
+logar a dissentimento, e, como sabem, eu não discuto. Mas, se querem
+ouvir-me calados, posso contar-lhes um caso de minha vida, em que
+resalta a mais clara demonstração acerca da materia de que se trata. Em
+primeiro logar, não ha uma só alma, ha duas...
+
+--Duas?
+
+--Nada menos de duas almas. Cada creatura humana traz duas almas
+comsigo: uma que olha de dentro para fóra, outra que olha de fóra para
+dentro... Espantem-se á vontade; pódem ficar de bocca aberta, dar de
+hombros, tudo; não admitto replica. Se me replicarem, acabo o charuto
+e vou dormir. A alma exterior póde ser um espirito, um fluido, um
+homem, muitos homens, um objecto, uma operação. Ha casos, por exemplo,
+em que um simples botão de camisa é a alma exterior de uma pessoa;--e
+assim tambem a polka, o voltarete, um livro, uma machina, um par de
+botas, uma cavatina, um tambor, etc. Está claro que o officio dessa
+segunda alma é transmittir a vida, como a primeira; as duas completam
+o homem, que é, metaphysicamente fallando, uma laranja. Quem perde uma
+das metades, perde naturalmente metade da existencia; e casos ha, não
+raros, em que a perda da alma exterior implica a da existencia inteira.
+Shylock, por exemplo. A alma exterior daquelle judeu eram os seus
+ducados; perdel-os equivalia a morrer, «Nunca mais verei o meu ouro,
+diz elle a Tubal; _é um punhal que me enterras no coração_». Vejam bem
+esta phrase; a perda dos ducados, alma exterior, era a morte para elle.
+Agora, é preciso saber que a alma exterior não é sempre a mesma...
+
+--Não?
+
+--Não, senhor; muda de natureza e de estado. Não alludo a certas almas
+absorventes, como a patria, com a qual disse o Camões que morria, e
+o poder, que foi a alma exterior de Cesar e de Cromwell. São almas
+energicas e exclusivas; mas ha outras, embora energicas, de natureza
+mudavel. Ha cavalheiros, por exemplo, cuja alma exterior, nos primeiros
+annos, foi um chocalho ou um cavallinho de páu, e mais tarde uma
+provedoria de irmandade, supponhamos. Pela minha parte, conheço uma
+senhora,--na verdade, gentilissima,--que muda de alma exterior cinco,
+seis vezes por anno. Durante a estação lyrica é a opera; cessando a
+estação, a alma exterior substitue-se por outra: um concerto, um baile
+do Cassino, a rua do Ouvidor, Petropolis...
+
+--Perdão; essa senhora quem é?
+
+--Essa senhora é parenta do diabo, e tem o mesmo nome: chama-se
+Legião... E assim outros muitos casos. Eu mesmo tenho experimentado
+d'essas trocas. Não as relato, porque iria longe; restrinjo-me ao
+episodio de que lhes fallei. Um episodio dos meus vinte e cinco annos...
+
+Os quatro companheiros, anciosos de ouvir o caso promettido, esqueceram
+a controversia. Santa curiosidade! tu não és só a ama da civilisação,
+és tambem o pomo da concordia, fructa divina, de outro sabor que não
+aquelle pomo da mythologia. A sala, até ha pouco ruidosa de physica e
+metaphysica, é agora um mar morto; todos os olhos estão no Jacobina,
+que concerta a ponta do charuto, recolhendo as memorias. Eis aqui como
+elle começou a narração:
+
+--Tinha vinte e cinco annos, era pobre, e acabava de ser nomeado
+alferes da guarda nacional. Não imaginam o acontecimento que isto foi
+em nossa casa. Minha mãe ficou tão orgulhosa! tão contente! Chamava-me
+o seu alferes. Primos e tios, foi tudo uma alegria sincera e pura. Na
+villa, note-se bem, houve alguns despeitados; chôro e ranger de dentes,
+como na Escriptura; e o motivo não foi outro senão que o posto tinha
+muitos candidatos e que estes perderam. Supponho tambem que uma parte
+do desgosto foi inteiramente gratuita: nasceu da simples distincção.
+Lembra-me de alguns rapazes, que se davam commigo, e passaram a
+olhar-me de revez, durante algum tempo. Em compensação, tive muitas
+pessoas que ficaram satisfeitas com a nomeação; e a prova é que todo
+o fardamento me foi dado por amigos... Vai então uma das minhas tias,
+D. Marcolina, viuva do capitão Peçanha, que morava a muitas leguas da
+villa, n'um sitio escuso e solitario, desejou ver-me, e pediu que fosse
+ter com ella e levasse a farda. Fui, acompanhado de um pagem, que d'ahi
+á dias tornou á villa, porque a tia Marcolina, apenas me pilhou no
+sitio, escreveu a minha mãe dizendo que não me soltava antes de um mez,
+pelo menos. E abraçava-me! Chamava-me tambem o seu alferes. Achava-me
+um rapagão bonito. Como era um tanto patusca, chegou a confessar que
+tinha inveja da moça que houvesse de ser minha mulher. Jurava que em
+toda a provincia não havia outro que me puzesse o pé adiante. E sempre
+alferes; era alferes para cá alferes para lá, alferes a toda a hora.
+Eu pedia-lhe que me chamasse Joãosinho, como d'antes; e ella abanava
+a cabeça, bradando que não, que era o «senhor alferes». Um cunhado
+d'ella, irmão do finado Peçanha, que alli morava, não me chamava de
+outra maneira. Era o «senhor alferes», não por gracejo, mas a serio,
+e á vista dos escravos, que naturalmente foram pelo mesmo caminho. Na
+mesa tinha eu o melhor logar, e era o primeiro servido. Não imaginam.
+Se lhes disser que o enthusiasmo da tia Marcolina chegou ao ponto de
+mandar pôr no meu quarto um grande espelho, obra rica e magnifica, que
+destoava do resto da casa, cuja mobilia era modesta e simples... Era
+um espelho que lhe dera a madrinha, e que esta herdára da mãe, que
+o comprára a uma das fidalgas vindas em 1808 com a corte de D. João
+VI. Não sei o que havia n'isso de verdade; era a tradicção. O espelho
+estava naturalmente muito velho; mas via-se-lhe ainda o ouro, comido
+em parte pelo tempo, uns delfins esculpidos nos angulos superiores da
+moldura, uns enfeites de madreperola e outros caprichos do artista.
+Tudo velho, mas bom...
+
+--Espelho, grande?
+
+--Grande. E foi, como digo, uma enorme fineza, porque o espelho
+estava na sala; era a melhor peça da casa. Mas não houve forças que
+a demovessem do proposito; respondia que não fazia falta, que era só
+por algumas semanas, e finalmente que o «senhor alferes» merecia muito
+mais. O certo é que todas essas cousas, carinhos, attenções, obsequios,
+fizeram em mim uma transformação, que o natural sentimento da mocidade
+ajudou e completou. Imaginam, creio eu?
+
+--Não.
+
+--O alferes eliminou o homem. Durante alguns dias as duas naturezas
+equilibraram-se; mas não tardou que a primitiva cedesse á outra;
+ficou-me uma parte minima de humanidade. Aconteceu então que a alma
+exterior, que era d'antes o sol, o ar, o campo, os olhos das moças,
+mudou de natureza, e passou a ser a cortezia e os rapapés da casa,
+tudo o que me fallava do posto, nada do que me fallava do homem. A
+unica parte do cidadão que ficou commigo foi aquella que entendia
+com o exercicio da patente; a outra dispersou-se no ar e no passado.
+Custa-lhes acreditar, não?
+
+--Custa-me até entender, respondeu um dos ouvintes.
+
+--Vai entender. Os factos explicarão melhor os sentimentos; os factos
+são tudo. A melhor definição do amor não vale um beijo de moça
+namorada; e, se bem me lembro, um philosopho antigo demonstrou o
+movimento andando. Vamos aos factos. Vamos ver como, ao tempo em que
+a consciencia do homem se obliterava, a do alferes tornava-se viva e
+intensa. As dôres humanas, as alegrias humanas se eram só isso, mal
+obtinham de mim uma compaixão apathica ou um sorriso de favor. No
+fim de tres semanas, era outro, totalmente outro. Era exclusivamente
+alferes. Ora, um dia recebeu a tia Marcolina uma noticia grave; uma
+de suas filhas, casada com um lavrador residente d'alli a cinco
+leguas, estava mal e á morte. Adeus, sobrinho! adeus, alferes! Era
+mãe extremosa, armou logo uma viagem, pediu ao cunhado que fosse
+com ella, e a mim que tomasse conta do sitio. Creio que, se não
+fosse a afflicção, disporia o contrario; deixaria o cunhado, e iria
+commigo. Mas o certo é que fiquei só, com os poucos escravos da casa.
+Confesso-lhes que desde logo senti uma grande oppressão, alguma cousa
+semelhante ao effeito de quatro paredes de um carcere, subitamente
+levantadas em torno de mim. Era a alma exterior que se reduzia; estava
+agora limitada a alguns espiritos boçaes. O alferes continuava a
+dominar em mim, embora a vida fosse menos intensa, e a consciencia mais
+debil. Os escravos punham uma nota de humildade nas suas cortezias,
+que de certa maneira compensava a affeição dos parentes e a intimidade
+domestica interrompida. Notei mesmo, n'aquella noite, que elles
+redobravam de respeito, de alegria, de protestos. Nhô alferes de minuto
+a minuto. Nhô alferes é muito bonito; nhô alferes ha de ser coronel;
+nhô alferes ha de casar com moça bonita, filha de general; um concerto
+de louvores e prophecias, que me deixou extatico. Ah! perfidos! mal
+podia eu suspeitar a intenção secreta dos malvados.
+
+--Matal-o?
+
+--Antes assim fosse.
+
+--Cousa peior?
+
+--Ouçam-me. Na manhã seguinte achei-me só. Os velhacos, seduzidos por
+outros, ou de movimento proprio, tinham resolvido fugir durante a
+noite; e assim fizeram. Achei-me só, sem mais ninguem, entre quatro
+paredes, diante do terreiro deserto e da roça abandonada. Nenhum
+folego humano. Corri a casa toda, a senzala, tudo, nada, ninguem, um
+molequinho que fosse. Gallos e gallinhas tão sómente, um par de mulas,
+que philosophavam a vida, sacudindo as moscas, e tres bois. Os mesmos
+cães foram levados pelos escravos. Nenhum ente humano. Parece-lhes que
+isto era melhor do que ter morrido? era peior. Não por medo; juro-lhes
+que não tinha medo; era um pouco atrevidinho, tanto que não senti nada,
+durante as primeiras horas. Fiquei triste por causa do damno causado á
+tia Marcolina; fiquei tambem um pouco perplexo, não sabendo se devia ir
+ter com ella, para lhe dar a triste noticia, ou ficar tomando conta da
+casa. Adoptei o segundo alvitre, para não desamparar a casa, e porque,
+se a minha prima enferma estava mal, eu ia sómente augmentar a dor da
+mãe, sem remedio nenhum; finalmente, esperei que o irmão do tio Peçanha
+voltasse n'aquelle dia ou no outro, visto que tinham sahido havia já
+trinta e seis horas. Mas a manhã passou sem vestigio d'elle; e á tarde
+comecei a sentir uma sensação como de pessoa que houvesse perdido
+toda a acção nervosa, e não tivesse consciencia da acção muscular. O
+irmão do tio Peçanha não voltou nesse dia, nem no outro, nem em toda
+aquella semana. Minha solidão tomou proporções enormes. Nunca os dias
+foram mais compridos, nunca o sol abrasou a terra com uma obstinação
+mais cansativa. As horas batiam de seculo a seculo, no velho relogio
+da sala, cuja pendula, _tic-tac, tic-tac_, feria-me a alma interior,
+como um piparote continuo do eternidade. Quando, muitos annos depois,
+li uma poesia americana, creio que de Longfellow, e topei com este
+famoso estribilho: _Never, for ever!--For ever, never!_ confesso-lhes
+que tive um calafrio: recordei-me d'aquelles dias medonhos. Era
+justamente assim que fazia o relogio da tia Marcolina:--_Never, for
+ever!--For ever, never!_ Não eram golpes de pendula, era um dialogo do
+abysmo, um cochicho do nada. E então de noite! Não que a noite fosse
+mais silenciosa. O silencio era o mesmo que de dia. Mas a noite era
+a sombra, era a solidão ainda mais estreita ou mais larga. _Tic-tac,
+tic-tac._ Ninguem nas salas, na varanda, nos corredores, no terreiro,
+ninguem em parte nenhuma... Riem-se?
+
+--Sim, parece que tinha um pouco de medo.
+
+--Oh! fôra bom se eu podesse ter medo! Viveria. Mas o caracteristico
+d'aquella situação é que eu nem sequer podia ter medo, isto é, o medo
+vulgarmente entendido. Tinha uma sensação inexplicavel. Era como um
+defuncto andando, um somnambulo, um boneco mecanico. Dormindo, era
+outra cousa. O somno dava-me allivio, não pela razão commum de ser
+irmão da morte, mas por outra. Acho que posso explicar assim esse
+phenomeno:--o somno, eliminando a necessidade de uma alma exterior,
+deixava actuar a alma interior. Nos sonhos, fardava-me, orgulhosamente,
+no meio da familia e dos amigos, que me elogiavam o garbo, que me
+chamavam alferes; vinha um amigo de nossa casa, e promettia-me o
+posto de tenente, outro o de capitão ou major; e tudo isso fazia-me
+viver. Mas quando accordava, dia claro, esvaia-se com o somno, a
+consciencia do meu ser novo e unico,--porque a alma interior perdia
+a acção exclusiva, e ficava dependente da outra, que teimava em não
+tornar... Não tornava. Eu sahia fóra, a um lado e outro, a ver se
+descobria algum signal de regresso. _Sœur Anne, sœur Anne, ne vois-tu
+rien venir?_ Nada, cousa nenhuma; tal qual como na lenda franceza. Nada
+mais do que a poeira da estrada e o capinzal dos morros. Voltava para
+casa, nervoso, desesperado, estirava-me no canapé da sala. _Tic-tac,
+tic-tac._ Levantava-me, passeava, tamborilava nos vidros das janellas,
+assobiava. Em certa occasião lembrei-me de escrever alguma cousa, um
+artigo politico, um romance, uma ode; não escolhi nada definitivamente;
+sentei-me e tracei no papel algumas palavras e phrases soltas, para
+intercalar no estylo. Mas o estylo, como a tia Marcolina, deixava-se
+estar. _Sœur Anne, sœur Anne..._ Cousa nenhuma. Quando muito via
+negrejar a tinta e alvejar o papel.
+
+--Mas não comia?
+
+--Comia mal, fructas, farinha, conservas, algumas raizes tostadas ao
+fogo, mas supportaria tudo alegremente, se não fora a terrivel situação
+moral em que me achava. Recitava versos, discursos, trechos latinos,
+lyras de Gonzaga, oitavas de Camões, decimas, uma anthologia em trinta
+volumes. Ás vezes fazia gymnastica; outras dava beliscões nas pernas;
+mas o effeito era só uma sensação physica de dôr ou de cançaço, e
+mais nada. Tudo silencio, um silencio vasto, enorme, infinito, apenas
+sublinhado pelo eterno _tic-tac_ da pendula. _Tic-tac, tic-tac..._
+
+--Na verdade, era de enlouquecer.
+
+--Vão ouvir cousa peior. Convém dizer-lhes que, desde que ficara só,
+não olhára uma só vez para o espelho. Não era abstenção deliberada, não
+tinha motivo; era um impulso inconsciente, um receio de achar-me um e
+dois, ao mesmo tempo, n'aquella casa solitaria; e se tal explicação é
+verdadeira, nada prova melhor a contradicção humana, porque no fim de
+oito dias, deu-me na veneta olhar para o espelho com o fim justamente
+de achar-me dois. Olhei e recuei. O proprio vidro parecia conjurado
+com o resto do universo; não me estampou a figura nitida e inteira,
+mas vaga, esfumada, diffusa, sombra de sombra. A realidade das leis
+physicas não permitte negar que o espelho reproduziu-me textualmente,
+com os mesmos contornos e feições; assim devia ter sido. Mas tal não
+foi a minha sensação. Então tive medo; attribui o phenomeno á excitação
+nervosa em que andava; receiei ficar mais tempo, e enlouquecer.--Vou-me
+embora, disse commigo. E levantei o braço com gesto de mau humor, e ao
+mesmo tempo de decisão, olhando para o vidro; o gesto lá estava, mas
+disperso, esgaçado, mutilado... Entrei a vestir-me, murmurando commigo,
+tossindo sem tosse, sacudindo a roupa com estrepito, affligindo-me
+a frio com os botões, para dizer alguma cousa. De quando em quando,
+olhava furtivamente para o espelho; a imagem era a mesma diffusão de
+linhas, a mesma decomposição de contornos... Continuei a vestir-me.
+Subitamente por uma inspiração inexplicavel, por um impulso sem
+calculo, lembrou-me... Se forem capazes de adivinhar qual foi a minha
+idéa...
+
+--Diga.
+
+--Estava a olhar para o vidro, com uma persistencia de desesperado,
+contemplando as proprias feições derramadas e inacabadas, uma nuvem
+de linhas soltas, informes, quando tive o pensamento... Não, não são
+capazes de adivinhar.
+
+--Mas, diga, diga.
+
+--Lembrou-me vestir a farda de alferes. Vesti-a, apromptei-me de todo;
+e, como estava defronte do espelho, levantei os olhos, e... não lhes
+digo nada; o vidro reproduziu então a figura integral; nenhuma linha de
+menos, nenhum contorno diverso; era eu mesmo, o alferes, que achava,
+emfim, a alma exterior. Essa alma ausente com a dona do sitio, dispersa
+e fugida com os escravos, eil-a recolhida no espelho. Imaginai um
+homem que, pouco a pouco emerge de um lethargo, abre os olhos sem ver,
+depois começa a ver, distingue as pessoas dos objectos, mas não conhece
+individualmente uns nem outros; emfim, sabe que este é Fulano, aquelle
+é Sicrano; aqui está uma cadeira, alli um sofá. Tudo volta ao que era
+antes do somno. Assim foi commigo. Olhava para o espelho, ia de um lado
+para outro, recuava, gesticulava, sorria, e o vidro exprimia tudo. Não
+era mais um automato, era um ente animado. D'ahi em diante, fui outro.
+Cada dia, a uma certa hora, vestia-me de alferes, e sentava-me diante
+do espelho, lendo, olhando, meditando; no fim de duas, tres horas,
+despia-me outra vez. Com este regimen pude atravessar mais seis dias de
+solidão, sem os sentir...
+
+Quando os outros voltaram a si, o narrador tinha descido as escadas.
+
+
+FIM DO ESPELHO
+
+
+
+
+UMA VISITA DE ALCIBIADES[1]
+
+CARTA DO DESEMBARGADOR X... AO CHEFE DE POLICIA DA CORTE
+
+_Corte, 20 de setembro de 1875._
+
+Desculpe V. Ex. o tremido da lettra e o desgrenhado do estylo;
+entendel-os-ha d'aqui a pouco.
+
+Hoje, á tardinha, acabado o jantar, em quanto esperava a hora do
+Cassino, estirei-me no sofá e abri um tomo de Plutarcho. V. Ex., que
+foi meu companheiro de estudos, ha de lembrar-se que eu, desde rapaz,
+padeci esta devoção do grego; devoção ou mania, que era o nome que
+V. Ex. lhe dava, e tão intensa que me ia fazendo reprovar em outras
+disciplinas. Abri o tomo, e succedeu o que sempre se dá commigo
+quando leio alguma cousa antiga: transporto-me ao tempo e ao meio
+da acção ou da obra. Depois de jantar é excellente. Dentro de pouco
+acha-se a gente n'uma via romana, ao pé de um portico grego ou na
+loja de um grammatico. Desapparecem os tempos modernos, a insurreição
+da Herzegovina, a guerra dos carlistas, a rua do Ouvidor, o circo
+Chiarini. Quinze ou vinte minutos de vida antiga, e de graça. Uma
+verdadeira digestão litteraria.
+
+Foi o que se deu hoje. A pagina aberta acertou de ser a vida de
+Alcibiades. Deixei-me ir ao sabor da loquella attica; d'ahi a nada
+entrava nos jogos olympicos, admirava o mais guapo dos athenienses,
+guiando magnificamente o carro, com a mesma firmeza e donaire com que
+sabia reger as batalhas, os cidadãos e os proprios sentidos. Imagine V.
+Ex. se vivi! Mas, o moleque entrou e accendeu o gaz; não foi preciso
+mais para fazer voar toda a archeologia da minha imaginação. Athenas
+volveu á historia, em quanto os olhos me cabiam das nuvens, isto é, nas
+calças de brim branco, no paletó de alpaca e nos sapatos de cordovão. E
+então reflecti commigo:
+
+--Que impressão daria ao illustre atheniense o nosso vestuario moderno?
+
+Sou espiritista desde alguns mezes. Convencido de que todos os systemas
+são puras nihilidades, resolvi adoptar o mais recreativo d'elles. Tempo
+virá em que este não seja só recreativo, mas tambem util á solução dos
+problemas historicos; é mais summario evocar o espirito dos mortos,
+do que gastar as forças criticas, e gastal-as em pura perda, porque
+não ha raciocinio nem documento que nos explique melhor a intenção de
+um acto do que o proprio autor do acto. E tal era o meu caso d'esta
+noite. Conjecturar qual fosse a impressão de Alcibiades era despender
+o tempo, sem outra vantagem, além do gosto de admirar a minha propria
+habilidade. Determinei portanto, evocar o atheniense; pedi-lhe que
+comparecesse em minha casa, logo, sem demora.
+
+E aqui começa o extraordinario da aventura. Não se demorou Alcibiades
+em acudir ao chamado; dous minutos depois estava alli, na minha sala,
+perto da parede; mas não era a sombra impalpavel que eu cuidára ter
+evocado pelos methodos da nossa escola; era o proprio Alcibiades, carne
+e osso, vero homem, grego authentico, trajado á antiga, cheio d'quella
+gentileza e desgarre com que usava arengar ás grandes assembléas de
+Athenas, e tambem, um pouco, aos seus patáus. V. Ex., tão sabedor da
+historia, não ignora que tambem houve patáus em Athenas; sim, Athenas
+tambem os possuiu, e esse precedente é uma desculpa. Juro a V. Ex. que
+não acreditei; por mais fiel que fosse o testemunho dos sentidos, não
+podia acabar de crer que tivesse alli, em minha casa, não a sombra de
+Alcibiades, mas o proprio Alcibiades redivivo. Nutri ainda a esperança
+de que tudo aquillo não fosse mais do que o effeito de uma digestão mal
+rematada, um simples effluvio do chylo, através da luneta de Plutarcho;
+e então esfreguei os olhos, fitei-os, e...
+
+--Que me queres? perguntou elle.
+
+Ao ouvir isto, arrepiaram-se-me as carnes. O vulto fallava e fallava
+grego, o mais puro attico. Era elle, não havia duvidar que era elle
+mesmo, um morto de vinte seculos, restituido á vida, tão cabalmente
+como se viesse de cortar agora mesmo a famosa cauda do cão. Era claro
+que, sem o pensar, acabava eu de dar um grande passo na carreira do
+espiritismo; mas, ai de mim! não o entendi logo, e deixei-me ficar
+assombrado. Elle repetiu a pergunta, olhou em volta de si e sentou-se
+n'uma poltrona. Como eu estivesse frio e tremulo (ainda o estou agora)
+elle que o percebeu, fallou-me com muito carinho, e tratou de rir
+e gracejar para o fim de devolver-me o socego e a confiança. Habil
+como outr'ora! Que mais direi a V. Ex.? No fim de poucos minutos
+conversavamos os dous, em grego antigo, elle repotreado e natural,
+eu pedindo a todos as santos do céu a presença de um criado, de uma
+visita, de uma patrulha, ou, se tanto fosse necessario,--de um incendio.
+
+Escusado é dizer a V. Ex. que abri mão da idéa de o consultar ácerca
+do vestuario moderno; pedira um espectro, não um homem «de verdade»,
+como dizem as crianças. Limitei-me a responder ao que elle queria;
+pediu-me noticias de Athenas, dei-lh'as; disse-lhe que ella era
+emfim a cabeça de uma só Grecia, narrei-lhe a dominação musulmana, a
+independencia, Botzaris, lord Byron. O grande homem tinha os olhos
+pendurados da minha bocca; e, mostrando-me admirado de que os mortos
+lhe não houvessem contado nada, explicou-me que á porta, do outro mundo
+afrouxavam muito os interesses d'este. Não vira Botzaris nem lord
+Byron,--em primeiro logar, porque é tanta e tantissima a multidão de
+espiritos, que estes se fazem naturalmente desencontrados; em segundo
+logar, porque elles lá congregam-se, não por nacionalidades ou outra
+ordem, senão por categorias de indole, costume e profissão: assim é que
+elle Alcibiades, anda no grupo dos politicos elegantes e namorados,
+com o duque de Buckingham, o Garrett, o nosso Maciel Monteiro, etc. Em
+seguida pediu-me noticias actuaes; relatei-lhe o que sabia, em resumo;
+fallei-lhe do parlamento hellenico e do methodo alternativo com que
+Bulgaris e Comondouros, estadistas seus patricios, imitam Disraeli e
+Gladstone, revesando-se no poder, e, assim como estes, a golpes de
+discurso. Elle, que foi um magnifico orador, interrompeu-me:
+
+--Bravo, athenienses!
+
+Se entro n'estas minucias é para o fim de nada omittir do que possa
+dar a V. Ex. o conhecimento exacto do extraordinario caso que lhe
+vou narrando. Já disse que Alcibiades escutava-me com avidez;
+accrescentarei que era esperto e arguto; entendia as cousas sem largo
+dispendio de palavras. Era tambem sarcastico; ao menos assim me pareceu
+em um ou dois pontos da nossa conversação; mas no geral d'ella,
+mostrava-se simples, attento, correcto, sensivel e digno. E gamenho,
+note V. Ex., tão gamenho como outr'ora; olhava de soslaio para o
+espelho, como fazem as nossas e outras damas d'este seculo, mirava os
+borzeguins, compunha o manto, não saia de certas attitudes esculpturaes.
+
+--Vá, continúa, dizia-me elle, quando eu parava de lhe dar noticias.
+
+Mas eu não podia mais. Entrado no inextricavel, no maravilhoso, achava
+tudo possivel, não atinava porque razão, assim, como elle vinha ter
+commigo ao tempo, não iria eu ter com elle á eternidade. Esta idéa
+gelou-me. Para um homem que acabou de digerir o jantar e aguarda a
+hora do Cassino, a morte é o ultimo dos sarcasmos. Se pudesse fugir...
+Animei-me: disse-lhe que ia a um baile.
+
+--Um baile? Que cousa é um baile?
+
+Expliquei-lh'o.
+
+--Ah! ver dansar a pyrrhica!
+
+--Não, emendei eu, a pyrrhica já lá vai. Cada seculo, meu caro
+Alcibiades, muda de dansas como muda de ideias. Nos já não dansamos as
+mesmas cousas do seculo passado; provavelmente o seculo XX não dansará
+as d'este. A pyrrhica, foi-se, com os homens de Plutarcho e os numes de
+Hesiodo.
+
+--Com os numes?
+
+Repeti-lhe que sim, que o paganismo acabára, que as academias do seculo
+passado ainda lhe deram abrigo, mas sem-convicção, nem alma, que as
+mesmas bebedeiras arcadicas,
+
+               Evohé! padre Bassareu!
+               Evohé! etc.
+
+honesto passatempo de alguns desembargadores pacatos, essas mesmas
+estavam curadas, radicalmente curadas. De longe em longe, accrescentei,
+um ou outro poeta, um o outro prosador allude aos restos da theogonia
+pagã, mas só o faz por gala ou brinco, ao passo que a sciencia reduziu
+todo o Olympo a uma symbolica. Morto, tudo morto.
+
+--Morto Zeus?
+
+--Morto.
+
+--Dyonisos, Aphrodita?...
+
+--Tudo morto.
+
+O homem de Plutarcho levantou-se, andou um pouco, contendo a
+indignação, como se dissesse comsigo, imitando o outro:--Ah! se lá
+estou com os meus athenienses!--Zeus, Dyonisos, Aphrodita... murmurava
+de quando em quando. Lembrou-me então que elle fôra uma vez accusado
+de desacato aos deuses e perguntei a mim mesmo d'onde vinha aquella
+indignação posthuma, e naturalmente postiça. Esquecia-me,--um devoto
+do grego!--esquecia-me que elle era tambem um refinado hypocrita, um
+illustre dissimulado. E quasi não tive tempo de fazer esse reparo,
+porque Alcibiades, detendo-se repentinamente declarou-me que iria ao
+baile commigo.
+
+--Ao baile? repeti attonito.
+
+--Ao baile, vamos ao baile.
+
+Fiquei atterrado, disse-lhe que não, que não era possivel, que não o
+admittiriam, com aquelle trajo; pareceria doudo; salvo se elle queria
+ir lá representar alguma comedia de Aristophanes, accrescentei rindo,
+para disfarçar o medo. O que eu queria era deixal-o, entregar-lhe
+a casa, e uma vez na rua, não iria ao Cassino, iria ter com V. Ex.
+Mas o diabo do homem não se movia; escutava-me com os olhos no chão,
+pensativo, deliberante. Calei-me; cheguei a cuidar que o pesadelo ia
+acabar, que o vulto ia desfazer-se, e que eu ficava alli com as minhas
+calças, os meus sapatos e o meu seculo.
+
+--Quero ir ao baile, repetiu elle. Já agora não vou sem comparar as
+dansas.
+
+--Meu caro Alcibiades, não acho prudente um tal desejo. Eu teria
+certamente a maior honra, um grande desvanecimento em fazer entrar
+no Cassino, o mais gentil, o mais feiticeiro dos athenienses; mas os
+outros homens de hoje, os rapazes, as moças, os velhos... é impossivel.
+
+--Porque?
+
+--Já disse; imaginarão que és um doudo ou um comediante, porque essa
+roupa...
+
+--Que tem? A roupa muda-se. Irei á maneira do seculo. Não tens alguma
+roupa que me emprestes?
+
+Ia a dizer que não; mas occorreu-me logo que o mais urgente era sair,
+e que uma vez na rua, sobravam-me recursos para escapar-lhe, e então
+disse-lhe que sim.
+
+--Pois bem, tornou elle levantando-se, irei á maneira do seculo. Só
+peço que te vistas primeiro, para eu aprender e imitar-te depois.
+
+Levantei-me tambem, e pedi-lhe que me acompanhasse. Não se moveu logo;
+estava assombrado. Vi que só então reparara nas minhas calças brancas;
+olhava para ellas com os olhos arregalados, a bocca aberta; emfim,
+perguntou por que motivo trazia aquelles canudos de panno. Respondi que
+por maior commodidade; accrescentei que o nosso seculo, mais recatado
+e util do que artista, determinára trajar de um modo compativel com o
+seu decóro e gravidade. Demais nem todos seriam Alcibiades. Creio que o
+lisongeei com isto; elle sorriu e deu de hombros.
+
+--Emfim!
+
+Seguimos para o meu quarto de vestir, e comecei a mudar de roupa, ás
+pressas. Alcibiades sentou-se mollemente n'um divan, não sem elogial-o,
+não sem elogiar o espelho, a palhinha, os quadros.--Eu vestia-me, como
+digo, ás pressas, ancioso por sahir á rua, por metter-me no primeiro
+tilbury que passasse...
+
+--Canudos pretos! exclamou elle.
+
+Eram as calças pretas que eu acabava de vestir. Exclamou e riu, um
+risinho em que o espanto vinha mesclado de escarneo, o que offendeu
+grandemente o meu melindre de homem moderno. Porque, note V. Ex., ainda
+que o nosso tempo nos pareça digno de critica, e até de execração,
+não gostamos de que um antigo venha mofar d'elle ás nossas barbas.
+Não respondi ao atheniense; franzi um pouco o sobr'olho e continuei a
+abotoar os suspensorios. Elle perguntou-me então por que motivo usava
+uma cor tão feia...
+
+--Feia, mas séria, disse-lhe. Olha, entretanto, a graça do córte, vê
+como cai sobre o sapato, que é de verniz, embora preto, e trabalhado
+com muita perfeição.
+
+E vendo que elle abanava a cabeça:
+
+--Meu caro, disse-lhe, tu pódes certamente exigir que o Jupiter
+Olympico seja o emblema eterno da majestade: é o dominio da arte
+ideal, desinteressada, superior aos tempos que passam e aos homens que
+os acompanham. Mas a arte de vestir é outra cousa. Isto que parece
+absurdo ou desgracioso é perfeitamente racional e bello,--bello á nossa
+maneira, que não andamos a ouvir na rua os rhapsodas recitando os seus
+versos, nem os oradores os seus discursos, nem os philosophos as suas
+philophias. Tu mesmo, se te acostumares a ver-nos, acabarás por gostar
+de nós, porque...
+
+--Desgraçado! bradou elle atirando-se a mim.
+
+Antes de entender a causa do grito e do gesto, fiquei sem pinga de
+sangue. A causa era uma illusão. Como eu passasse a gravata á volta do
+pescoço e tratasse de dar o laço. Alcibiades suppoz que ia enforcar-me,
+segundo confessou depois. E, na verdade, estava pallido, tremulo, em
+suores frios. Agora quem se riu fui eu. Ri-me, e expliquei-lhe o uso
+da gravata, e notei que era branca, não preta, posto usassemos tambem
+gravatas pretas. Só depois de tudo isso explicado é que elle consentiu
+em restituir-m'a. Atei-a emfim, depois vesti o collete.
+
+--Por Aphrodita! exclamou elle. És a cousa mais singular que jamais
+vi na vida e na morte. Estás todo cor da noite--uma noite com tres
+estrellas apenas--continuou apontando para os botões do peito. O mundo
+deve andar immesamente melancholico, se escolheu para uso uma cor tão
+morta e tão triste. Nós eramos mais alegres; viviamos...
+
+Não pode concluir a phrase; eu acabava de enfiar a casaca, e a
+consternação do atheniense foi indescriptivel. Cahiram-lhe os braços,
+ficou suffocado, não podia articular nada, tinha os olhos cravados em
+mim, grandes, abertos. Creia V. Ex. que fiquei com medo, e tratei de
+apressar ainda mais a sabida.
+
+--Estás completo? perguntou-me elle.
+
+--Não: falta o chapéu.
+
+--Oh! venha alguma cousa que possa corrigir o resto! tornou Alcibiades
+com voz supplicante. Venha, venha. Assim pois, toda a elegancia que
+vos legamos está reduzida a um par de canudos fechados e outra par de
+canudos abertos (e dizia isto levantando-me as abas da casaca), e tudo
+d'essa cor enfadonha e negativa? Não não posso crel-o! Venha alguma
+cousa que corrija isso. O que é que falta, dizes tu?
+
+--O chapéo.
+
+--Põe o que te falta, meu caro, põe o que te falta.
+
+Obedeci; fui d'alli ao cabide, despendurei o chapéu, e pul-o na
+cabeça. Alcibiades olhou para mim, cambaleou e caiu. Corri ao illustre
+atheniense, para levantal-o, mas (com dor o digo) era tarde; estava
+morto, morto pela segunda vez. Rogo a V. Ex. se digne de expedir suas
+respeitaveis ordens para que o cadaver seja transportado ao necroterio,
+e se proceda ao corpo de delicto, relevando-me de não ir pessoalmente á
+casa de V. Ex. agora mesmo (dez da noite) em attenção ao profundo abalo
+por que acabo de passar, o que aliás farei amanhã de manhã, antes das
+oito.
+
+[1]Este escripto teve um primeiro texto, que reformei totalmente mais
+tarde, não aproveitando mais do que a ideia. O primeiro foi dado com um
+pseudonymo e passou despercebido.
+
+
+FIM DE UMA VISITA DE ALCIBIADES
+
+
+
+
+VERBA TESTAMENTARIA
+
+
+«... Item, é minha ultima vontade que o caixão em que o meu corpo
+houver de ser enterrado, seja fabricado em casa de Joaquim Soares, á
+rua da Alfandega. Desejo que elle tenha conhecimento d'esta disposição,
+que tambem será publica. Joaquim Soares não me conhece; mas é digno da
+distincção, por ser dos nossos melhores artistas, e um dos homens mais
+honrados da nossa terra...»
+
+Cumpriu-se á risca esta verba testamentaria. Joaquim Soares fez o
+caixão em que foi mettido o corpo do pobre Nicoláu B. de C.; fabricou-o
+elle mesmo, _con amore_; e, no fim, por um movimento cordial,
+pediu licença para não receber nenhuma renumeração. Estava pago;
+o favor do defunto era em si mesmo um premio insigne. Só desejava
+uma cousa: a copia authentica da verba. Deram lh'a; elle mandou-a
+encaixilhar e pendurar de um prego, na loja. Os outros fabricantes
+de caixões, passado o assombro, chamaram que o testamento era um
+desproposito. Felizmente,--e esta é uma das vantatagens do estado
+social,--felizmente, todas as demais classes adiaram que aquella
+mão, saindo do abysmo para abençoar a obra de um operario modesto,
+praticára** uma acção rara e magnanima. Era em 1855; a população estava
+mais conchegada; não se fallou de outra cousa. O nome do Nicoláu reboou
+por muitos dias na imprensada corte, d'onde passou á das provincias.
+Mas a vida universal é tão variada, os successos accumulam-se em tanta
+multidão, e com tal presteza, e, finalmente, a memoria dos homens é tão
+fragil, que um dia chegou em que a acção de Nicoláu mergulhou de todo
+no olvido.
+
+Não venha restaural-a. Esquecer é uma necessidade. A vida é uma
+lousa, em que o destino, para escrever um novo caso, precisa apagar o
+caso escripto. Obra de lapis e esponja. Não, não venho restaural-a.
+Ha milhares de acções tão bonitas, ou ainda mais bonitas do quo
+a do Nicoláu, e comidas do esquecimento. Venho dizer que a verba
+testamentaria não é um effeito sem causa; venho mostrar uma das maiores
+curiosidades morbidas d'este seculo.
+
+Sim, leitor amado, vamos entrar em plena pathologia. Esse menino que
+ahi vês, nos fins do seculo passado (em 1855, quando morreu, tinha o
+Nicoláu sessenta e oito annos), esse menino não é um producto são, não
+é um organismo perfeito.--Ao contrario, desde os mais tenros annos,
+manifestou por actos reiterados que ha n'elle algum vicio interior,
+alguma falha organica. Não se póde explicar de outro modo a obstinação
+com que elle corre a destruir os brinquedos dos outros meninos, não
+digo os que são eguaes aos d'elle, ou ainda inferiores, mas os que
+são melhores ou mais ricos. Menos ainda se comprehende que, nos casos
+em que o brinquedo é unico, ou somente raro, o joven Nicoláu console
+a victima com dons ou tres pontapés; nunca menos de um. Tudo isso é
+obscuro. Culpa do pae não póde ser. O pae era um honrado negociante
+ou commissario (a maior parte das pessoas a que aqui se dá o nome do
+commerciantes, dizia o marquez de Lavradio, nada são que uns simples
+commissarios), que viveu com certo luzimento, no ultimo quartel do
+seculo, homem rispido, austero, que admoestava o filho, e, sendo
+necessario, castigava-o. Mas nem admoestações, nem castigos, valiam
+nada. O impulso interior do Nicoláu era mais efficaz do que todos os
+bastões paternos; e, uma ou duas vezes por semana, o pequeno reincidia
+no mesmo delicto. Os desgostos da familia eram profundos. Deu-se mesmo
+um caso, que, por suas gravissimas consequencias, merece ser contado.
+
+O vice-rei, que era então o conde de Rezende, andava preoccupado com a
+necessidade de construir um caes na praia de D. Manuel. Isto, que seria
+hoje um simples episodio municipal, era n'aquelle tempo, attentas as
+proporções escassas da cidade, uma empreza importante. Mas o vice-rei
+não tinha recursos; o cofre publico mal podia acudir ás urgencias
+ordinarias. Homem de estado, e provavelmente philosopho, engendrou
+um expediente não menos suave que proficuo: distribuir, a troco de
+donativos pecuniarios, postos de capitão, tenente e alferes. Divulgada
+a resolução, entendeu o pae do Nicoláu que era occasião de figurar,
+sem perigo, na galeria militar do seculo, ao mesmo tempo que desmentia
+uma doutrina brahmanica. Com effeito, está nas leis de Manú, que dos
+braços de Brahma nasceram os guerreiros, e do ventre os agricultores
+e commerciantes; o pae do Nicoláu, adquirindo o despacho de capitão,
+corrigia esse ponto da anatomia gentilica. Outro commerciante, que com
+elle competia em tudo, embora familiares e amigos, apenas teve noticia
+do despacho, foi tambem levar a sua pedra ao caes. Desgraçadamenteu o
+despeito de ter ficado atraz alguns dias, suggeriu-llie um arbitrio
+de máu gosto e, no nosso caso, funesto; foi assim que elle pediu ao
+vice-rei outro posto de official do caes (tal era o nome dado aos
+agraciados por aquelle motivo) para um filho de sete annos. O vice-rei
+hesitou; mas o pretendente, além de duplicar o donativo, metteu
+grandes empenhos, e o menino saiu nomeado alferes. Tudo correu em
+segredo; o pae de Nicoláu só teve noticia do caso no domingo proximo,
+na egreja do Carmo, ao ver os dous, pae e filho, vindo o menino com
+uma fardinha, que, por galanteria, lhe metteram no corpo. Nicoláu,
+que tambem alli estava, fez-se livido; depois, n'um impeto, atirou-se
+sobre o joven alferes e rasgou-lhe a farda, antes que os paes pudessem
+acudir. Um escandalo. O reboliço do povo, a indignação dos devotos, as
+queixas do aggredido, interromperam por alguns instantes as ceremonias
+ecclesiasticas. Os paes trocaram algumas palavras acerbas, fóra, no
+adro, e ficaram brigados para todo o sempre.
+
+--Este rapaz ha de ser a nossa desgraça! bradava o pae de Nicoláu, em
+casa, depois do episodio.
+
+Nicoláu apanhou então muita pancada, curtiu muita dor, chorou, soluçou;
+mas de emenda cousa nenhuma. Os brinquedos dos outros meninos não
+ficaram menos expostos. O mesmo passou a acontecer ás roupas. Os
+meninos mais ricos do bairro não sabiam fora senão com as mais modestas
+vestimentas caseiras, unico modo de escapar ás unhas de Nicoláu. Com
+o andar do tempo, estendeu elle a aversão ás proprias caras, quando
+eram bonitas, ou tidas como taes. A rua em que elle residia, contava
+um sem numero de caras quebradas, arranhadas, conspurcadas. As cousas
+chegaram a tal ponto, que o pae resolveu trancal-o em casa durante
+uns tres ou quatro mezes. Foi um palliativo, e, como tal, excellente.
+Emquanto durou a reclusão, Nicoláu mostrou-se nada menos que angelico;
+fóra d'aquelle séstro morbido, era meigo, docil, obediente, amigo da
+familia, pontual nas rezas. No fim dos quatro mezes, o pae soltou-o;
+era tempo de o metter com um professor de leitura e grammatica.
+
+--Deixe-o commigo, disse o professor; deixe-o commigo, e com esta
+(apontava para a palmatoria)... Com esta, é duvidoso que elle tenha
+vontade de maltratar os companheiros.
+
+Frivolo! tres vezes frivolo professor! Sim, não ha duvida, que elle
+conseguiu poupar os meninos bonitos e as roupas vistosas, castigando
+as primeiras investidas do pobre Nicoláu; mas em que é que este sarou
+da molestia? Ao contrario, obrigado a conter-se, a engolir o impulso,
+padecia dobrado, fazia-se mais livido, com reflexos de verde bronze; em
+certos casos, era compellido a voltar os olhos ou fechal-os, para não
+arrebentar, dizia elle. Por outro lado, se deixou de perseguir os mais
+graciosos ou melhor adornados, não perdoou aos que se mostravam mais
+adiantados no estudo; espancava-os, tirava-lhes os livros, e lançava-os
+fóra, nas praias ou no mangue. Rixas, sangue, odios, taes eram os
+fructos da vida, para elle, além das dores crueis que padecia, e que a
+familia teimava em não entender. Se accrescentarmos que elle não pôde
+estudar nada seguidamente, mas a troncos, e mal, como os vagabundos
+comem, nada fixo, nada methodico, teremos visto algumas das dolorosas
+consequencias do facto morbido, occulto e desconhecido. O pae, que
+sonhava para o filho a Universidade, vendo-se obrigado a estrangular
+mais essa illusão, esteve prestes a amaldiçoal-o; foi a mãe que o
+salvou.
+
+Saiu um seculo, entrou outro, sem desapparecer a lesão do Nicoláu.
+Morreu-lhe o pae em 1807 e a mãe em 1809; a irmã casou com um medico
+hollandez, treze mezes depois. Nicoláu passou a viver só. Tinha vinte e
+tres annos; era um dos petimetres da cidade, mas um singular petimetre,
+que não podia encarar nenhum outro, ou fosse mais gentil de feições, ou
+portador de algum collete especial, sem padecer uma dor violenta, tão
+violenta, que o obrigava ás vezes a trincar o beiço até deitar sangue.
+Tinha occasiões de cambalear; outras de escorrer-lhe pelo canto da boca
+um fio quasi imperceptivel de espuma. E o resto não era menos cruel.
+Nicoláu ficava então rispido; em casa achava tudo máu, tudo incommodo,
+tudo nauseabundo; feria a cabeça aos escravos com os pratos, que iam
+partir-se tambem, e perseguia os cães, a pontapés; não socegava dez
+minutos, não comia, ou comia mal. Emfim dormia; e ainda bem que dormia.
+O somno reparava tudo. Acordava lhano e meigo, alma de patriarcha,
+beijando os cães entre as orelhas, deixando-se lamber por elles,
+dando-lhes do melhor que tinha, chamando aos escravos as cousas mais
+familiares e ternas. E tudo, cães e escravos, esqueciam as pancadas da
+vespera, e acudiam ás vozes d'elle obedientes, namorados, como se este
+fosse o verdadeiro senhor, e não o outro.
+
+Um dia, estando elle em casa da irmã, perguntou-lhe esta por que motivo
+não adoptava uma carreira qualquer, alguma cousa em que se oecupasse,
+e...
+
+--Tens razão, vou ver, disse elle.
+
+Interveiu o cunhado e opinou por um emprego na diplomacia. O cunhado
+principiava a desconfiar de alguma doença e suppunha que a mudança
+de clima bastava a restabelecel-o. Nicoláu arranjou uma carta de
+apresentação, e foi ter com o ministro de estrangeiros. Achou-o
+rodeado de alguns officiaes da secretaria, prestes a ir ao paço, levar
+a noticia da segunda quéda de Napoleão, noticia que chegára alguns
+minutos antes. A figura do ministro, as circumstancias do momento,
+as reverencias dos officiaes, tudo isso deu um tal rebate ao coração
+do Nicoláu, que elle não pôde encarar o ministro. Teimou, seis ou
+oito vezes, em levantar os olhos, e da unica em que o conseguiu,
+fizeram-se-lhe tão vesgos, que não via ninguem, ou só uma sombra, um
+vulto, que lhe doia nas pupilas, ao mesmo tempo que a face ia ficando
+verde. Nicoláu recuou, estendeu a mão tremula ao reposteiro, e fugiu.
+
+--Não quero ser nada! disse elle á irmã, chegando á casa; fico com
+vocês e os meus amigos.
+
+Os amigos eram os rapazes mais antipathicos da cidade, vulgares e
+infimos. Nicoláu escolhera-os de proposito. Viver segregado dos
+principaes era para elle um grande sacrificio; mas, como teria de
+padecer muito mais vivendo com elles, tragava a situação. Isto prova
+que elle tinha um certo conhecimento empirico do mal e do palliativo.
+A verdade é que, com esses companheiros, desappareciam todas as
+perturbações physiologicas do Nicoláu. Elle fitava-os sem lividez,
+sem olhos vesgos, sem cambalear, sem nada. Além d'isso, não só elles
+lhe poupavam a natural irritabilidade, como porfiavam em tornar-lhe a
+vida, senão deliciosa, tranquilla; e para isso, diziam-lhe as maiores
+finezas do mundo, em attitudes captivas, ou com uma certa familiaridade
+inferior. Nicoláu amava em geral as naturezas subalternas, como os
+doentes amam a droga que lhes restituo a saúde; acariciva-as paternal
+mente, dava-lhes o louvor abundante e cordial, emprestava-lhes
+dinheiro, distribuia-lhes mimos, abria-lhes a alma...
+
+Veiu o grito do Ypiranga; Nicoláu metteu-se na politica. Em 1823
+vamos achal-o na Constituinte. Não ha que dizer ao modo por que elle
+cumpriu os deveres do cargo. Integro, desinteressado, patriota,
+não exercia de graça essas virtudes publicas, mas á custa de muita
+tempestade moral. Póde-se dizer, methaphoricamente, que a frequencia da
+camara custava-lhe sangue precioso. Não era só porque os debates lhe
+pareciam insupportaveis, mas tambem porque lhe era difficil encarar
+certos homens, especialmente em certos dias. Montezuma, por exemplo,
+parecia-lhe balofo, Vergueiro, massudo, os Andradas, execraveis. Cada
+discurso, não só dos principaes oradores, mas dos secundarios, era
+para o Nicoláu verdadeiro supplicio. E, não obstante, firme, pontual.
+Nunca a votação o achou ausente; nunca o nome delle soou sem echo pela
+augusta sala. Qualquer que fosse o seu desespero, sabia conter-se e
+pôr a idéa da patria acima do allivio proprio. Talvez applaudisse _in
+petto_ o decreto da dissolução. Não affirmo; mas ha bons fundamentos
+para crer que o Nicoláu, apezar das mostras exteriores, gostou de ver
+dissolvida a assembléa. E se essa conjectura é verdadeira, não menos o
+será esta outra;--que a deportação de alguns dos chefes constituintes,
+declarados inimigos publicos, veiu aguar-lhe aquelle prazer. Nicoláu,
+que padecera com os discursos delles, não menos padeceu com o exilio,
+posto lhes désse um certo relevo. Se elle também fosse exilado!
+
+--Você podia casar, mano, disse-lhe a irmã.
+
+--Não tenho noiva.
+
+--Arranjo-lhe uma. Valeu?
+
+Era um plano do marido. Na opinião d'este, a molestia do Nicoláu estava
+descoberta; era um verme do baço, que se nutria da dor do paciente,
+isto é, de uma secreção especial, produzida pela vista de alguns
+factos, situações ou pessoas. A questão era matar o verme; mas, não
+conhecendo nenhuma substancia chimica propria a destruil-o, restava
+o recurso de obstar á secreção, cuja ausencia daria egual resultado.
+Portanto, urgia casar o Nicoláu, com alguma moça bonita e prendada,
+separal-o do povoado, mettel-o em alguma fazenda, para onde levaria a
+melhor baixella, os melhores trastes, os mais reles amigos, etc.
+
+--Todas as manhãs, continuou elle, receberá o Nicoláu um jornal que vou
+mandar imprimir com o unico fim de lhe dizer as cousas mais agradaveis
+do mundo, e dizel-as nominalmente, recordando os seus modestos,
+mas proficuos trabalhos da Constituinte, e attribuindo-lhe, muitas
+aventuras namoradas, agudezas de espirito, rasgos de coragem. Já fallei
+ao almirante hollandez para consentir que, de quando em quando, vá
+ter com o Nicoláu algum dos nossos officiaes dizer-lhe que não podia
+voltar para a Haya sem a honra de contemplar um cidadão tão eminente
+e sympathico, em quem se reunem qualidades raras, e, de ordinario,
+dispersas. Você, se puder alcançar de alguma modista, a Gudin, por
+exemplo, que ponha o nome de Nicoláu em um chapeu ou mantelete, ajudará
+nmito a cura de seu mano. Cartas amorosas anonymas, enviadas pelo
+correio, são um recurso efficaz... Mas comecemos pelo principio, que é
+casal-o.
+
+Nunca um plano foi mais conscienciosamente executado. A noiva
+escolhida era a mais esbelta, ou uma das mais esbeltas da capital.
+Casou-os o proprio bispo. Recolhido á fazenda, foram com elle sómente
+alguns de seus mais triviaes amigos; fez-se o jornal, mandaram-se
+as cartas, peitaram-se as vistas. Durante tres mezes tudo caminhou
+ás mil maravilhas. Mas a natureza, apostada era lograr o homem,
+mostrou ainda desta vez que ella possue segredos inopinaveis. Um dos
+meios de agradar ao Nicoláu era elogiar a belleza, a elegancia e as
+virtudes da mulher; mas a molestia caminhara, e o que parecia remedio
+excellente foi simples aggravação do mal. Nicoláu, ao fim de certo
+tempo, achava ociosos e excessivos tantos elogios á mulher, e bastava
+isto a impaciental-o, e a impaciencia a produzir-lhe a fatal secreção.
+Parece masmo que chegou ao ponto de não poder encaral-a muito tempo, e
+a encaral-a mal; vieram algumas rixas, que seriam o principio de uma
+separação, se ella não morresse d'ahi a pouco. A dor do Nicoláu foi
+profunda e verdadeira; mas a cura interrompeu-se logo, porque elle
+desceu ao Rio de Janeiro, onde o vamos achar, tempos depois, entre os
+revolucionarios de 1831.
+
+Comquanto pareça temerario dizer as causas que levaram o Nicoláu para
+o campo da Acclamação, na noite de 6 para 7 de abril, penso que não
+estará longe da verdade quem suppuzer que--foi o raciocinio de um
+atheniense celebre e anonymo. Tanto os que diziam bem, como os que
+diziam mal do imperador, tinham enchido as medidas ao Nicoláu. Esse
+homem, que inspirava enthusiasmos e odios, cujo nome era repetido onde
+quer que o Nicoláu estivesse, na rua, no theatro, nas casas alheias,
+tornou-se uma verdadeira perseguição morbida, d'ahi o fervor com
+elle metteu a mão no movimento de 1831. A abdicação foi um allivio.
+Verdade é que a Regencia o achou dentro de pouco tempo ontre os seus
+adversarios; e ha quem affirme que elle se filiou ao partido caramurú
+ou restaurador, posto não ficasse prova do acto. O que é certo é que a
+vida publica do Nicoláu cessou com a Maioridade.
+
+A doença apoderara-se definitivamente do organismo. Nicoláu ia, a
+pouco e pouco, recuando na solidão. Não podia fazer certas visitas,
+frequentar certas casas. O theatro mal chegava a distrahil-o. Era
+tão melindroso o estado dos seus orgãos auditicos, que o ruido dos
+applausos causava-lhe dores atrozes. O enthusiasmo da população
+fluminense para com a famosa Candiani e a Meréa, mas a Candiani
+principalmente, cujo carro puxaram alguns braços humanos, obsequio
+tanto mais insigne quanto que o não fariam ao proprio Platão, esse
+enthusiasmo foi uma das maiores mortificações do Nicoláu. Elle chegou
+ao ponto de não ir mais ao theatro, de achar a Candiani insupportavel,
+e preferir a _Norma_ dos realejos á da prima-donna. Não era por
+exageração de patriota que elle gostava de ouvir o João Caetano, nos
+primeiros tempos; mas afinal deixou-o tambem, e quasi que inteiramente
+os theatros.
+
+--Está perdido! pensou o cunhado. Se pudessemos dar-lhe um baço novo...
+
+Como pensar em semelhante absurdo? Estava naturalmente perdido. Já
+não bastavam os recreios domesticos. As tarefas litterarias a que se
+deu, versos de familia, glosas a premio e odes politicas, não duraram
+muito tempo, e póde ser até que lhe dobrassem o mal. De facto, um dia,
+pareceu-lhe que essa occupação era a cousa mais ridicula do mundo,
+e os applausos ao Gonçalves Dias, por exemplo, deram-lhe idéa de um
+Povo trivial e de máu gosto. Esse sentimento litterario, fructo de
+uma lesão organica, reagiu sobre a mesma lesão, ao ponto de produzir
+graves crises, que o tiveram algum tempo na cama. O cunhado aproveitou
+o momento para-desterrar-lhe da casa todos os livros de certo porte.
+
+Explica-se menos o desalinho com que d'ahi a mezes começou a vestir-se.
+Educado com habitos de elegancia, era antigo freguez de um dos
+principaes alfaiates da côrte, o Plum, não passando um só dia em que
+não fosse pentear-se ao Desmarais e Gérard, _coiffeurs de la cour_,
+á rua do Ouvidor. Parece que achou infatuada esta denominação de
+cabelleireiros do paço, e castigou-os indo pentear-se a um barbeiro
+infimo. Quanto ao motivo que o levou a trocar de traje, repito que é
+inteiramente obscuro, e a não haver suggestão da edade, é inexplicavel.
+A despedida do cosinheiro é outro enigma. Nicoláu, por insinuação do
+cunhado, que o queria distrahir, dava dois jantares por semana; e os
+convivas eram unanimes em achar que o cozinheiro d'elle primava sobre
+todos os do capital. Realmente os pratos eram bons, alguns optimos, mas
+o elogio era um tanto emphatico, excessivo, para o fim justamente de
+ser agradavel ao Nicoláu, e assim aconteceu algum tempo. Como entender,
+porém, que um domingo, acabado o jantar, que fora magnifico, despedisse
+elle um varão tão insigne, causa indirecta de alguns dos seus mais
+deleitosos momentos na terra? Mysterio impenetravel.
+
+--Era um ladrão! foi a resposta que elle deu ao cunhado.
+
+Nem os esforços d'este nem os da irmã e dos amigos, nem os bens,
+nada melhorou o nosso triste Nicoláu. A secreção do braço tornou-se
+perenne, e o verme reproduziu-se aos milhões, theoria que não sei
+se é verdadeira, mas emfim era a do cunhado. Os ultimos annos foram
+crudelissimos. Quasi se póde jurar que elle viveu então continuamente
+verde, irritado, olhos vesgos, padecendo comsigo ainda muito mais do
+que fazia padecer aos outros. A menor ou maior cousa triturava-lhe os
+nervos: um bom discurso, um artista habil, uma sege, uma gravata, um
+soneto, um dito, um sonho interessante, tudo dava de si uma crise.
+
+Quiz elle deixar-se morrer? Assim se poderia suppor, ao ver a
+impassibilidade com que rejeitou os remedios dos principaes medicos
+da côrte; foi necessario recorrer á simulação, e dal-os, emfim, como
+receitados por um ignorantão do tempo. Mas era tarde. A morte levou-o,
+ao cabo de duas semanas.
+
+--Joaquim Soares? bradou attonito o cunhado, ao saber da verba
+testamentaria do defunto, ordenando que o caixão fosse fabricado por
+aquelle industrial. Mas os caixões d'esse sujeito não prestam para
+nada, e...
+
+--Paciencia! interrompeu a mulher; a vontade do mano ha de comprir-se.
+
+
+FIM DA VERBA TESTAMENTARIA
+
+
+
+    INDICE
+
+
+    ADVERTENCIA
+    O ALIENISTA
+    THEORIA DO MEDALHÃO
+    A CHINELLA TURCA
+    NA ARCA
+    D. BENEDICTA
+    O SEGREDO DO BONZO
+    O ANNEL DE POLYCRATES
+    O EMPRESTIMO
+    A SERENISSIMA REPUBLICA
+    O ESPELHO
+    UMA VISITA DE ALCIBIADES
+    VERBA TESTAMENTARIA
