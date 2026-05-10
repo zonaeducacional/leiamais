@@ -2,7 +2,8 @@ backend:
   name: github
   repo: zonaeducacional/leiamais
   branch: main
-  proxy_url: http://localhost:8081 # Não se preocupe, isso apenas confunde o CMS para ele pedir o token manual
+  base_url: https://zonaeducacional.github.io
+  auth_endpoint: leiamais/admin/
 
 display_url: https://zonaeducacional.github.io/leiamais
 local_backend: true # Isto permite-lhe testar no computador antes de subir
