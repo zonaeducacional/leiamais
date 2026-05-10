@@ -5,4737 +5,4608 @@ ano: "1865"
 categoria: "Romantismo"
 ---
 
-Produced by Sigal Alon, Janet Blenkinship and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive/Canadian Libraries)
+BIBLIOTHECA UNIVERSAL
 
+ANTIGA E MODERNA
 
 
 
 
+IRACEMA
 
 
-[Illustration: _Photo. Excelsior._
 
-THE PLAY-BOYS OF THE WESTERN FRONT.
 
-The famous French Fusiliers Marins. These sailors from Brittany are
-called "Les demoiselles au pompon rouge," because of their youth and the
-gay red tassel on their cap.]
+POR
 
+JOSÉ DE ALENCAR
 
 
+COM UMA NOTICIA BIOGRAPHICA DO AUCTOR
 
-  GOLDEN LADS
+13ª SERIE--NUMERO 49
 
-  BY
 
-  ARTHUR GLEASON
 
-  AND
 
-  HELEN HAYES GLEASON
+LISBOA
 
-  WITH AN INTRODUCTION BY
-  THEODORE ROOSEVELT
+COMPANHIA NACIONAL EDITORA
 
+Successora de DAVID CCRAZZI e JUSTINO GUEDES
 
-  _"Golden Lads and Girls all must,
-  As chimney sweepers, come to dust."_
+40--Rua da Atalaya--52
 
 
-  [Illustration]
+FILIAES: Praça de D. Pedro, 137, 1º andar, PORTO
 
+38, rua da Quitanda, Rio de Janeiro
 
-  TORONTO
-  McCLELLAND, GOODCHILD & STEWART, LIMITED
-  1916
 
-  Copyright, 1916, by
-  THE CENTURY CO.
+1890
 
-  Copyright, 1915, by the
-  CURTIS PUBLISHING COMPANY.
 
-  Copyright, 1916, by the
-  BUTTERICK PUBLISHING COMPANY.
 
-  Copyright, 1915 and 1916, by the
-  TRIBUNE ASSOCIATION.
 
-  _Published, April, 1916_
+Á TERRA NATAL
 
-  (_Printed in the U. S. A._)
+UM FILHO AUSENTE
 
 
 
 
-  TO THE
-  SAILORS OF BRITTANY
-  THE BOY SOLDIERS OF THE FRENCH FUSILIERS MARINS
-  WHOSE WOUNDED IT WAS OUR PRIVILEGE TO CARRY IN FROM THE
-  FIELD OF HONOR AT MELLE, DIXMUDE,
-  AND NIEUPORT
+INDICE
+NOTICIA BIOGRAPHICA
+MEU AMIGO
+IRACEMA
+# CAPITULO I
+# CAPITULO II
+# CAPITULO III
+# CAPITULO IV
+# CAPITULO V
+# CAPITULO VI
+# CAPITULO VII
+# CAPITULO VIII
+# CAPITULO IX
+# CAPITULO X
+# CAPITULO XI
+# CAPITULO XII
+# CAPITULO XIII
+# CAPITULO XIV
+# CAPITULO XV
+# CAPITULO XVI
+# CAPITULO XVII
+# CAPITULO XVIII
+# CAPITULO XIX
+# CAPITULO XX
+# CAPITULO XXI
+# CAPITULO XXII
+# CAPITULO XXIII
+# CAPITULO XXIV
+# CAPITULO XXV
+# CAPITULO XXVI
+# CAPITULO XXVII
+# CAPITULO XXVIII
+# CAPITULO XXIX
+# CAPITULO XXX
+# CAPITULO XXXI
+# CAPITULO XXXII
+# CAPITULO XXXIII
+NOTAS
+CARTA AO DR. JAGUARIBE
 
-Profits from the sale of this book will go to "The American Committee
-for Training in Suitable Trades the Maimed Soldiers of France."
 
 
 
+NOTICIA BIOGRAPHICA
 
-CONCERNING THIS BOOK
 
-It would be futile to publish one more war-book, unless the writer had
-been an eye-witness of unusual things. I am an American who saw
-atrocities which are recorded in the Bryce Report. This book grows out
-of months of day-by-day living in the war zone. I have been a member of
-the Hector Munro Ambulance Corps, which was permitted to work at the
-front because the Prime Minister of Belgium placed his son in military
-command of us. That young man, being brave and adventurous, led us along
-the first line of trenches, and into villages under shell fire, so that
-we saw the armies in action.
+José Martiniano do Alencar. Este grande escriptor brazileiro, mais
+conhecido pelo nome de José de Alencar, nasceu no Ceará no dia 1 de
+janeiro de 1829, sendo filho, ao que parece, do illustre politico do
+mesmo nome. Dizemos "ao que parece" porque nas biographias d'este grande
+escriptor, que temos presentes, não se accusa a sua filiação. Pode
+ser lapso, pode ser outro motivo qualquer que não precisamos de apurar.
+O que é certo é que José Martiniano d'Alencar mostrou desde creança
+um grande engenho. Tinha 17 annos quando em 1840 se matriculou na
+faculdade de direito de S. Paulo para tomar, como tomou, o grau de
+bacharel, tendo ido porém em 1848 concluir os seus estudos juridicos e
+formar-se na eschola de Olinda.
+
+Em S. Paulo começou a manifestar-se o seu talento litterario,
+publicando varios artigos n'um periodico intitulado: _Ensaios_, e
+redigido pelos estudantes da Faculdade, que appareceu em S. Paulo nos
+annos de 1840 a 1848.
+
+Em 1851 concluiu Alencar o seu curso, e veiu logo para o Rio de Janeiro,
+entregando-se então com mais desafogo aos trabalhos litterarios.
+Estreiou-se na capital do imperio escrevendo no _Correio Mercantil_ um
+artigo de critica acerca das _Poesias_ de Augusto Zaluar. N'esse mesmo
+anno, como que para mostrar que as suas preoccupações litterarias o
+não desviavam de estudos mais áridos, escreveu alguns artigos sobre a
+reforma hypothecaria, e em seguida começou a escrever, sempre no
+_Correio Mercantil_ umas revistas semanaes, intituladas: _Ao correr da
+penna_ assignadas com a sigla _Al_.
+
+Em julho de 1855 sahiu da redacção do _Correio Mercantil_, e passou a
+collaborar no _Jornal do Commercio_, onde escreveu, entre outros
+artigos, um a respeito de Thalberg, outro a respeito do _Othello_ e
+outro ácerca do padre Mont'Alverne. Em outubro de 1855 assumiu a
+direcção do _Diario do Rio de Janeiro_, que conservou até 1858.
+
+Em 1856 publicou o seu primeiro folheto, que devia ser seguido por
+tamanho numero de volumes. Esse folheto intitulava-se: _Cartas sobre a
+confederação dos Tamoyos_, e era uma collecção de folhetins que
+haviam sido publicados no _Diario do Rio de Janeiro_, e em que se fazia a
+critica do celebre poema de Gonçalves Dias.
+
+Em 1857, finalmente, sahia o _Guarany_ o famoso romance brazileiro, que
+produziu um verdadeiro enthusiasmo, e que deu a José d'Alencar os
+fóros, emquanto a nós merecidissimos, de primeiro romancista
+brazileiro. Alguns criticos rabujentos notavam que aquelles Indios de
+José de Alencar eram _plus beaux que nature_, que eram uns Indios
+ideaes, muito diversos das creaturas porcas, rebaixadas e deprimidas que
+representam na actual civilisação brazileira o elemento indigena.
+Esses criticos porém esqueciam-se de uma cousa: de que os Indios
+actuaes não são os Indios que viviam livremente na floresta, na
+plenitude da sua força e da sua independencia, e tambem de que, se os
+guaranys de Alencar são pelo menos Indios de excepção, Indios de
+excepção eram tambem de certo aquelle suave Uncas, o ultimo dos
+mohicanos, e o pensativo Chingachgook, que viviam em tão santa harmonia
+com o Longa Carabina, aquelle Nathaniel Bempo, personagem querido de
+Fennimore Cooper.
+
+Mas os protestos, se os houve, desappareceram no meio do coro unisono
+dos applausos. O Brazil tinha finalmente uma litteratura sua, bem sua,
+romances que se não modelavam pelas formas velhas e gastas dos romances
+europeus. A America do Sul tinha emfim o seu Cooper.
+
+Pery, Izabel, Alvaro, Ayres Gomes foram personagens que ficaram, para
+sempre gravados no espirito do publico brazileiro, e, para mais se
+consagrar a gloria do _Guarany_, até o grande maestro brazileiro Carlos
+Gomes escolheu este formoso romance para d'elle se extrahir o _libretto_
+da sua opera o _Guarany_, que é a sua obra prima, a obra prima da
+musica brazileira, e uma das notaveis operas do nosso tempo, que já
+hoje tem fama universal, e é representada com applauso em todos os
+theatros do mundo.
+
+O que, porém, sobretudo se apreciava no _Guarany_, e a esse respeito
+não havia diversidade de opiniões, era a belleza incomparavel do
+estylo, a magnificencia das descripções da natureza.
+
+Ao mesmo tempo tentava José de Alencar o theatro, e, depois de fazer
+representar uma comedia de valor secundario _Verso e reverso_, dava ao
+theatro a sua obra prima, tambem uma das obras primas do theatro
+brazileiro, _O Demonio familiar_. É esta comedia um magnifico estudo
+dos costumes brazileiros, e foi decerto um profundo golpe vibrado á
+escravatura, porque o seu entrecho se cifra principalmente na
+demonstração da influencia nefasta do _moleque_ na familia brazileira.
+_O Demonio familiar_ é esse moleque, elemento permanente de discordia e
+de desmoralisação.
+
+O _Guarany_ e o _Demonio familiar_ bastavam para assegurar a gloria de
+um escriptor; mas José de Alencar foi sempre consummido por uma sede
+insaciavel de escrever. Trabalhava com uma rapidez tal que isso
+prejudicava muitas vezes o acabado das suas obras, e impedia-o de lhes
+fazer attingir a perfeição, a que poderiam aliás ter chegado tanto
+quanto isso é possivel a obras humanas.
+
+No theatro, pois, ao _Demonio familiar_ e ao _Verso e reverso_
+seguiram-se o _Credito_, e os _Jesuitas_, drama que foi retirado de
+scena, porque o publico abandonou por tal forma o theatro em que elle se
+representava que diz um critico de Alencar, que talvez no Rio de Janeiro
+não fosse visto por um cento de pessoas. Esta ausencia do publico
+indignou muito José de Alencar que, publicando o drama, o precedeu de
+um prefacio em que diz que dava o drama á luz publica, só para que se
+visse que, se o theatro brazileiro não existia, não era por falta de
+bons auctores, nem de boas peças, mas sim pelo inqualificavel
+retrahimento do publico. Este accesso de vaidade não era permittido a
+um homem de tão verdadeiro merecimento como era José de Alencar.
+Effectivamente não tinha razão alguma: o drama os _Jesuitas_ era
+detestavel, pueril, sem caracteres bem desenhados, sem acção logica,
+sem cousa alguma do que constitue verdadeiramente o merito de uma obra
+litteraria.
+
+Não desanimou Alencar, e deu á scena as _Azas de um Anjo_, drama que
+se modelava um pouco pela _Dama das Camelias_, com a excepção de que
+no fim Margarida Gautier casa com Armand Duval. Um critico brazileiro
+muito divertido, que assigna com as iniciaes J. S. uma obra
+verdadeiramente inepta intitulada _Manual de litteratura_, diz a respeito
+das _Azas de um Anjo_ o seguinte:
+
+"É uma tocante oração em favor da perdida.
+
+"No fim, sobretudo, no casamento d'esta com Luiz, nada ha de francez. É
+um traço de bondade e abnegação, proprio do caracter brazileiro, que
+o francez não approvaria."
+
+Esperamos ainda assim que no Brazil não sejam extremamente vulgares
+esses actos de abnegação e de bondade, porque a geração que
+resultasse d'estes actos de bondade podia ser exquisitamente
+qualificada.
+
+Mas o que é curioso é que, apesar d'esta peça ser a apotheose do
+caracter brazileiro, a auctoridade prohibiu que se representasse, e
+_J.S._ acha muito justa a prohibição. Já se vê que não quer que no
+theatro se ponham em relevo para ensinamento do publico a bondade e a
+abnegação tão proprias do caracter brazileiro.
+
+José de Alencar acudiu em defeza da sua peça na imprensa, e outros
+escriptores o apoiaram. Effectivamente a pudibunda censura brazileira
+mostrou-se muito mais transigente com peças de um valor muito inferior
+ao das _Azas de um Anjo_.
+
+A ultima peça de José de Alencar foi a _Mai_, representada em 1860.
+
+N'esse mesmo anno era elle nomeado consultor do ministerio da justiça,
+e recebia a carta de conselho.
+
+José de Alencar, ao passo que ia ganhando um brilhante nome litterario,
+não abandonava a politica nem descurava as cousas praticas da vida.
+Fôra, havia muito, nomeado professor de direito mercantil no _Instituto
+Commercial_ do Rio de Janeiro. Ao mesmo tempo entrava como deputado na
+camara, pertencendo, porém, ao grupo conservador, em vez de se
+enfileirar, como o outro José Martiniano de Alencar, nas phalanges do
+partido liberal. Na sua carreira de empregado publico foi tambem, além
+de consultor do ministerio da justiça, director de secção.
+
+A acção da politica no litterato sente-se na _Guerra dos Mascates_,
+romance em dois volumes, que elle publicou a bastante distancia de tempo
+um do outro, cujo enredo se trava em 1710 no tempo das desavenças dos
+moradores de Olinda com os do Recife, mas que tem apenas por intento
+fazer retratos contemporaneos com os nomes do seculo XVIII. Esta
+intenção era por tal forma transparente que no parlamento lh'o
+lançaram em rosto, porque effectivamente Alencar não se contentava com
+o desenho moral dos personagens, fazia o retrato physico tanto ao vivo
+que ninguem podia deixar de reconhecer o retratado. Assim o governador
+de Pernambuco D. Sebastião de Sousa Caldas é evidentemente o imperador
+D. Pedro II, o secretario Barbosa Lima é o visconde do Rio Branco,
+outro personagem é o marquez de S. Vicente, outro o barão de
+Inhomerim, etc., etc.
+
+O retrato do imperador não está muito lisongeado, e não devia agradar
+ao personagem escolhido para modêlo, que se podia até considerar como
+injuriado positivamente. Comtudo, isso não obstou a que o imperador, em
+1868, quando se formou o ministerio conservador, acceitasse a entrada de
+José Martiniano de Alencar para a pasta da justiça. Esteve porém
+pouco tempo no ministerio. Uma dissidencia no seio do partido
+conservador fêl-o sahir do governo, levando-o a ir sentar-se na camara
+ao lado dos dissidentes.
+
+Continuando, porém, a apreciar o litterato, o romancista, citemos ainda
+dois dos seus melhores romances: o _Gaúcho_ e _Iracema_. O caracter do
+gaúcho, que adora a sua egua _Morena_, que a entende, que lhe fala e
+que a escuta, está traçado com uma rara perfeição. _Iracema_ é
+sobretudo um romancinho adoravelmente escripto. Nunca o estylo de
+Alencar attingiu tão delicada suavidade. Exhala-se de cada periodo como
+que o perfume das flores com que se elabora o mel das suas palavras. O
+sr. Pinheiro Chagas teve occasião de prestar a este livro a merecida
+homenagem. Fez porém algumas observações relativas á mania que teem
+alguns escriptores brazileiros, e um d'elles era Alencar, de pretenderem
+modificar as formas grammaticaes da lingua. Alencar entendeu dever
+responder na segunda edição do seu romance á critica do escriptor
+portuguez. Essa replica parecia-se um pouco com o prefacio dos
+_Jesuitas_. Manifestava uma grande vaidade realmente inadmissivel em
+escriptor de tão elevado merito, e mostrava um desprêso completo pelas
+regras mais elementares da philologia.
+
+As _Minas de prata_ passam por ser um dos seus menos bons romances;
+encerra comtudo algumas scenas primorosas. Queixam-se os paulistas de
+que as paizagens da sua provincia descriptas no _Til_, são
+perfeitamente phantasistas; _Ubirajara_, _A pata da Gazella_, _O tronco
+do ipê_, se não augmentaram a reputação do grande romancista não a
+prejudicaram tambem. O _Sertanejo_, muito criticado por alguns,
+parece-nos comtudo um dos seus bons romances. As paizagens que elle
+descreve são as paizagens da sua provincia natal, que elle conhece
+perfeitamente, e o typo do vaqueiro que ama em silencio a filha do seu
+patrão e que procura, com uma raiva intima, afastar todos aquelles que
+ella possa amar, está traçado com vigor.
+
+Os seus romances de côrte, se assim nós podemos exprimir, são
+inferiores aos seus romances do sertão. Nem firmou alguns d'elles com o
+seu nome, _Diva_ e _Luciola_, romances moldados pela comedia _Azas de um
+Anjo_ tratam da rehabilitação de peccadoras; _Cinco minutos_, uma das
+suas primeiras obras e a _Viuvinha_ são romances ligeirissimos,
+graciosamente desenhados; a _Senhora_ encerra uma situação fortemente
+dramatica, mas mal desenvolvida. Trata-se de um homem de vis
+sentimentos, que despreza uma rapariga pobre que o adorava e despreza-a
+por ella ser pobre. Tempos depois, acceita o casamento com uma mulher
+deshonrada por outro homem, porque este lhe paga por uma avultada somma
+a venda do seu nome. Ora essa mulher é a tal que elle desprezara e que
+o seu desprêso arrojara pelo caminho da prostituição. O assumpto
+prestava-se, como vêem, ás mais dramaticas situações.
+
+No genero de pamphletos, e obras politicas, etc., escreveu ainda José
+de Alencar, que sempre se mostrou hostil ao imperador, a _imagem
+imperial_, e as _Cartas de Erasmo_. Publicou em volume os seus discursos
+parlamentares de 1809, e os de 1871. É tambem sua, uma obra intitulada
+_Estatistica da provincia do Ceará_.
+
+José de Alencar veiu á Europa em 1870. Voltando ao Brazil, foi
+inesperadamente colhido pela morte no anno de 1877, quando acabava de
+completar 48 annos, e quando se achava portanto na força da vida. A sua
+morte enluctou a litteratura brazileira e aquelles mesmos que tinham
+combatido _Senio_, pseudonymo querido de José de Alencar, foram os
+primeiros a render homenagem ao grande vulto, logo que elle desappareceu
+da scena publica.
+
+
+(Do _Diccionario Popular_).
+
+
+
+
+MEU AMIGO
+
+Este livro vae naturalmente encontral-o no seu pittoresco sitio da
+varzea, no doce lar, que povoa a numerosa prole, alegria e esperança
+do casal.
+
+Imagino que é a hora mais ardente da sesta.
+
+O sol a pino dardeja raios de fogo sobre as areias nataes: as aves
+emmudecem; as plantas languem. A natureza soffre a influencia da
+poderosa irradiação tropical, que produz o diamante e o genio, as duas
+mais sublimes expressões do poder creador.
+
+Os meninos brincam na sombra do outão, com pequenos ossos de rezes, que
+figuram a boiada. Era assim que eu brincava, ha quantos annos, em outro
+sitio, não muito distante do seu. A dona da casa terna e incansavel
+manda abrir o côco verde, ou prepara o saboroso creme do burity para
+refrigerar o esposo, que pouco ha recolheu de sua excursão pelo sitio,
+e agora repousa embalando-se na macia e commoda rêde.
+
+Abra então este livrinho, que lhe chega da côrte imprevisto. Percorra
+suas paginas para desenfastiar o espirito das cousas graves que o trazem
+occupado.
+
+Talvez me desvaneça amor do ninho, ou se illudam as reminiscencias da
+infancia avivadas recentemente. Senão, creio que ao abrir o pequeno
+volume, sentirá uma onda do mesmo aroma silvestre e bravio que lhe vem
+da varzea. Derrama-o a briza que perpassou os espathos da carnauba e a
+ramagem das aroeiras em flôr.
+
+Essa onda é a inspiração da patria que volve a ella, agora e sempre,
+como volve de continuo o olhar do infante para o materno semblante que
+lhe sorri.
+
+O livro é cearense. Foi imaginado ahi, na limpidez d'esse céo de
+cristallino azul, e depois vasado no coração cheio das recordações
+vivaces de uma imaginação virgem. Escrevi-o para ser lido lá, na
+varanda da casa rustica ou na fresca sombra do pomar, ao doce embalo da
+rêde, entre os murmures do vento que crepita na arêa ou farfalha nas
+palmas dos coqueiros.
+
+Para lá, pois, que é o berço seu, o envio.
+
+Mas assim mandado por um filho ausente, para muitos extranho, esquecido
+talvez dos poucos amigos, e só lembrado pela incessante desaffeição,
+qual sorte será a do livro?
+
+Que lhe falte hospitalidade, não ha temer. As auras de nossos campos
+parecem tão impregnadas d'essa virtude primitiva, que quantas raças
+habitem ahi a inspiram com o halito vital. Receio sim que seja recebido
+como extrangeiro e hospede na terra dos meus.
+
+Se, porém, ao abordar ás plagas do Mocoribe, fôr acolhido pelo bom
+cearense, presado de seus irmãos ainda mais na adversidade do que nos
+tempos prosperos, estou certo que o filho de minha alma achará na terra
+de seu pae, a intimidade e conchego da familia.
+
+O nome de outros filhos ennobrece nossa provincia na politica e na
+sciencia; entre elles o meu, hoje apagado, quando o trazia
+brilhantemente aquelle que primeiro o creou. N'este momento mesmo a
+espada heroica de muito bravo cearense vae ceifando no campo da batalha
+ampla messe de gloria.
+
+Quem não pode illustrar a terra natal canta as lendas suas, sem metro,
+na rude toada de seus antigos filhos.
+
+Acolha pois a primeira mostra e offereça-a a nossos patricios a quem é
+dedicada.
+
+Este pedido foi um dos motivos de lhe endereçar o livro: o outro lhe
+direi depois que o tenha lido.
+
+Muita cousa me occorre dizer sobre o assumpto, que talvez devera
+anticipar á leitura da obra, para prevenir a surpreza de alguns e
+responder ás observações ou reparos de outros.
+
+Mas sempre fui avêsso aos prologos; em meu conceito elles fazem á
+obra, o mesmo que o passaro á fructa antes de colhida; roubam as
+primicias do sabor litterario. Por isso me reservo para depois.
+
+Na ultima pagina me encontrará de novo; então conversaremos a gosto,
+em mais liberdade do que teriamos n'este portico do livro, onde as
+etiquetas mandam receber o publico com a gravidade e reverencia devida a
+tão alto senhor.
+
+
+Rio de Janeiro--Maio de 1865.
+
+
+                             J. de Alencar.
+
+
+
+
+IRACEMA
+
+
+
+I
+
+
+Verdes mares bravios de minha terra natal, onde canta a jandaia nas
+frondes da carnaúba:
+
+Verdes mares que brilhaes como liquida esmeralda aos raios do sol
+nascente, perlongando as alvas praias ensombradas de coqueiros:
+
+Serenae verdes mares, e alisae docemente a vaga impetuosa para que o
+barco aventureiro manso resvalle á flôr das aguas.
+
+Onde vae a affouta jangada, que deixa rapida a costa cearense, aberta ao
+fresco terral a grande vela?
+
+Onde vae como branca alcyone buscando o rochedo patrio nas solidÕes do
+oceano?
+
+Tres entes respiram sobre o fragil lenho que vae singrando veloce, mar
+em fora:
+
+Um joven guerreiro cuja tez branca não cora o sangue americano: uma
+creança e um rafeiro que viram a luz no berço das florestas, e brincam
+irmãos, filhos ambos da mesma terra selvagem.
+
+A lufada intermittente traz da praia um écho vibrante, que resôa entre
+o marulho das vagas:
+
+--Iracema!...
+
+O moço guerreiro, encostado ao mastro, leva os olhos prêsos na sombra
+fugitiva da terra: a espaços o olhar empanado por tenue lagrima cahe
+sobre o giráu, onde folgam as duas innocentes creaturas, companheiras
+de seu infortunio.
+
+N'esse momento o labio arranca d'alma um agro sorriso.
+
+Que deixára elle na terra do exilio?
+
+Uma historia que me contaram nas lindas varzeas onde nasci, á calada da
+noite, quando a lua passeava no céo argenteando os campos, e a brisa
+rugitava nos palmares.
+
+Refresca o vento.
+
+O rullo das vagas precipita. O barco salta sobre as ondas; desapparece
+no horisonte. Abre-se a immensidade dos mares: e a borrasca enverga,
+como o condor, as foscas azas sobre o abysmo.
+
+Deus te leve a salvo, brioso e altivo barco, por entre as vagas
+revoltas, e te poje n'alguma enseada amiga. Soprem para ti as brandas
+auras: e para ti jaspeie a bonança mares de leite.
+
+Em quanto vogas assim á discripção do vento, airoso barco, volva ás
+brancas areias a saudade, que te acompanha, mas não se parte da terra
+onde revoa.
+
+
+
+
+II
+
+
+Além, muito além d'aquella serra, que ainda azula no horisonte, nasceu
+Iracema:
+
+Iracema, a virgem dos labios de mel, que tinha os cabellos mais negros
+que a aza da graúna, e mais longos que seu talhe de palmeira.
+
+O favo da jaty não era doce como seu sorriso; nem a baunilha rescendia
+no bosque como seu halito perfumado.
+
+Mais rapida que a corsa selvagem, a morena virgem corria o sertão e as
+matas do Ipú, onde campeava sua guerreira tribu, da grande nação
+tabajara. O pé gracil e nú, mal rosçando, alisava apenas a verde
+pellucia que vestia a terra com as primeiras aguas.
+
+Um dia, ao pino do sol, ella repousava em um claro da floresta.
+Banhava-lhe o corpo a sombra da oitycica, mais fresca do que o orvalho
+da noite. Os ramos da acacia silvestre esparziam flores sobre seus
+humidos cabellos. Escondidos na folhagem os passaros ameigavam o canto.
+
+Iracema sahiu do banho: o aljofar d'agua ainda a roreja, como á dôce
+mangaba que córou em manhã de chuva. Emquanto repousa empluma das
+pennas do gará as flechas de seu arco; e concerta com o sabiá da mata
+pousado no galho proximo, o canto agreste.
+
+A graciosa ará, sua companheira e amiga, brinca junto d'ella. Ás vezes
+sobe aos ramos da arvore e de lá chama a virgem pelo seu nome; outras
+remexe o urú de palha matisada, onde traz a selvagem seus perfumes, os
+alvos fios do crautá, as agulhas da jussára com que tece a renda, e as
+tintas de que matisa o algodão.
+
+Rumor suspeito quebra a doce harmonia da sesta. Ergue a virgem os
+olhos, que o sol não deslumbra; sua vista perturba-se.
+
+Deante d'ella e todo a contemplal-a, está um guerreiro extranho, se é
+guerreiro e não algum máu espirito da floresta. Tem nas faces o branco
+das areias que bordam o mar, nos olhos o azul triste das aguas
+profundas. Ignotas armas e tecidos ignotos cobrem-lhe o corpo.
+
+Foi rapido, como o olhar, o gesto de Iracema. A flecha embebida no arco
+partiu. Gottas de sangue borbulham na face do desconhecido.
+
+De primeiro impeto, a mão lesta cahiu sobre a cruz da espada; mas logo
+sorrio. O moço guerreiro aprendeu na religião de sua mãe, onde a
+mulher é symbolo de ternura e amor. Soffreu mais d'alma, que da ferida.
+
+O sentimento que elle pôz nos olhos e no rosto, não sei eu. Porem a
+virgem lançou de si o arco e a uiraçaba, e correu para o guerreiro,
+sentida da magoa que causara. A mão que rapida ferira, estancou mais
+rapida e compassiva o sangue que gotejava. Depois Iracema quebrou a
+flecha homicida: deu a haste ao desconhecido, guardando comsigo a ponta
+farpada.
+
+O guerreiro falou:
+
+--Quebras commigo a flecha da paz?
+
+--Quem te ensinou, guerreiro branco, a linguagem de meus irmãos? D'onde
+vieste a estas matas, que nunca viram outro guerreiro como tu?
+
+--Venho de bem longe, filha das florestas. Venho das terras que teus
+irmãos já possuiram, e hoje tem os meus.
+
+--Bemvindo seja o extrangeiro aos campos dos Tabajaras, senhores das
+aldeias, e á cabana de Araken, pae de Iracema.
 
-We started at Ghent in September, 1914, came to Furnes, worked in
-Dixmude, Pervyse, Nieuport and Ypres, during moments of pressure on
-those strategic points. In the summer of 1915, we were attached to the
-French Fusiliers Marins. My wife's experience covers a period of twelve
-months in Belgium. My own time at the front was five months.
+
 
-Observers at long-distance that are neutral sometimes fail to see
-fundamentals in the present conflict, and talk of "negotiations" between
-right and wrong. It is easy for people who have not suffered to be
-tolerant toward wrongdoing. This war is a long war because of German
-methods of frightfulness. These practices have bred an enduring will to
-conquer in Frenchman and Briton and Belgian which will not pause till
-victory is thorough. Because the German military power has sinned
-against women and children, it will be fought with till it is
-overthrown. I wish to make clear this determination of the Allies. They
-hate the army of Aerschot and Lorraine as a mother hates the defiler of
-her child.
 
-There are two wars on the Western Front. One is the war of aggression.
-It was led up to by years of treachery. It was consummated in
-frightfulness. It is warfare by machine. Of that war, as carried on by
-the "Conquerors," the first half of this book tells. On points that
-have been in dispute since the outbreak, I am able to say "I saw." When
-the Army of Invasion fell on the little people, I witnessed the signs of
-its passage as it wrote them by flame and bayonet on peasant homes and
-peasant bodies.
+III
 
-In the second half of the book, I have tried to tell of a people's
-uprising--the fight of the living spirit against the war-machine. A
-righteous defensive war, such as Belgium and France are waging, does not
-brutalize the nation. It reveals a beauty of sacrifice which makes
-common men into "golden lads."
 
-Was this struggle forced on an unwilling Germany, or was she the
-aggressor?
+O extrangeiro seguiu a virgem através da floresta.
 
-I believe we have the answer of history in such evidences as I have seen
-of her patient ancient spy system that honeycombed Belgium.
+Quando o sol descambava sobre a crista dos montes, e a rôla desatava do
+fundo da mata os primeiros arrulhos, elles descobriram no valle a grande
+taba: e mais longe, pendurada no rochedo, á sombra dos altos joaseiros,
+a cabana do Pagé.
 
-Is she waging a "holy war," ringed around by jealous foes?
+O ancião fumava á porta, sentado na esteira de carnaúba, meditando os
+sagrados ritos de Tupan. O tenue sôpro da brisa carmeava, como frocos de
+algodão, os compridos e raros cabellos brancos. De immovel que estava,
+sumia a vida nos olhos cavos e nas rugas profundas.
 
-I believe we have the final answer in such atrocities as I witnessed. A
-hideous officially ordered method is proof of unrighteousness in the
-cause itself.
+O Pagé lobrigou os dois vultos que avançavam; cuidou vêr a sombra de
+uma arvore solitaria que vinha alongando-se pelo valle fora.
 
-Are you indicting a nation?
+Quando os viajantes entraram na densa penumbra do bosque, então seu
+olhar como o do tigre, feito ás trevas, conheceu Iracema, e viu que a
+seguia um joven guerreiro, de extranha raça e longes terras.
 
-No, only a military system that ordered the slow sapping of friendly
-neighboring powers.
+As tribus tabajaras, d'além Ibyapaba, falavam de uma nova raça de
+guerreiros, alvos como flôres de borrasca, e vindos de remota plaga ás
+margens do Mearim. O ancião pensou que fôsse um guerreiro semelhante,
+aquelle que pisava os campos nativos.
 
-Only the host of "tourists," clerks, waiters, gentlemanly officers, that
-betrayed the hospitality of people of good will.
+Tranquillo, esperou.
 
-Only an army that practised mutilation and murder on children, and
-mothers, and old people,--and that carried it through coldly,
-systematically, with admirable discipline.
+A virgem aponta para o extrangeiro e diz:
 
-I believe there are multitudes of common soldiers who are sorry that
-they have outraged the helpless.
+--Elle veiu, pae.
 
-An army of half a million men will return to the home-land with very
-bitter memories. Many a simple German of this generation will be unable
-to look into the face of his own child without remembering some tiny
-peasant face of pain--the child whom he bayoneted, or whom he saw his
-comrade bayonet, having failed to put his body between the little one
-and death.
+--Veiu bem. É Tupan que traz o hospede á cabana de Araken.
 
-TABLE OF CONTENTS
+Assim dizendo, o Pagé passou o cachimbo ao extrangeiro: e entraram
+ambos na cabana.
 
+O mancebo sentou na rede principal, suspensa no centro da habitação.
 
-THE CONQUERORS
+Iracema accendeu o fogo da hospitalidade; e trouxe o que havia de
+provisões para satisfazer a fome e a sede: trouxe os restos da caça, a
+farinha d'agua, os fructos silvestres, os favos de mel e o vinho de
+cajú e ananaz.
 
-                                                                    PAGE
-  THE SPY                                                              3
-  THE ATROCITY                                                        26
-  BALLAD OF THE GERMANS                                               45
-  THE STEAM ROLLER                                                    48
-  MY EXPERIENCE WITH BAEDEKER                                         66
+Depois a virgem entrou com a igaçaba, que enchêra na fonte proxima de
+agua fresca para lavar o rosto e as mãos do extrangeiro.
 
+Quando o guerreiro terminou a refeição, o velho Pagé apagou o
+cachimbo e falou:
 
-GOLDEN LADS
+--Vieste?
 
+--Vim: respondeu o desconhecido.
 
-  THE PLAY-BOYS OF BRITTANY                                           79
-  "ENCHANTED CIGARETTES"                                              95
-  WAS IT REAL?                                                       113
-  "CHANTONS, BELGES! CHANTONS!"                                      127
-  FLIES: A FANTASY                                                   152
-  WOMEN UNDER FIRE                                                   168
-  HOW WAR SEEMS TO A WOMAN                                           192
-  LES TRAVAILLEURS DE LA GUERRE                                      234
-  REMAKING FRANCE                                                    253
+--Bem vieste. O extrangeiro é senhor na cabana de Araken. Os Tabajaras
+tem mil guerreiros para defendel-o, e mulheres sem conto para servil-o.
+Dize, e todos te obedecerão.
 
+--Pagé eu te agradeço o agasalho que me déste. Logo que o sol nascer
+deixarei tua cabana e teus campos onde vim perdido; mas não devo
+deixal-os sem dizer-te quem é o guerreiro, que fizeste amigo.
 
-LIST OF ILLUSTRATIONS
+--Foi a Tupan que o Pagé serviu: elle te trouxe, elle te levará.
+Araken nada fez pelo hospede; não pergunta d'onde vem, e quando vae. Se
+queres dormir, desçam sobre ti os sonhos alegres: se queres falar, teu
+hospede escuta.
 
-                                                                    PAGE
+O extrangeiro disse:
 
-  The Play-boys of the Western Front                       _Frontispiece_
+--Sou dos guerreiros brancos, que levantaram a taba nas margens do
+Jaguaribe, perto do mar, onde habitam os Pytiguaras, inimigos de tua
+nação. Meu nome é Martim, que na tua lingua diz como filho de
+guerreiro; meu sangue o do grande povo que primeiro viu as terras de tua
+patria. Já meus destroçados companheiros voltaram por mar ás margens
+do Parahyba, de onde vieram: e o chefe, desamparado dos seus, atravessa
+agora os vastos sertões do Apody. Só eu de tantos fiquei, porque
+estava entre os Pytiguaras de Acaraú, na cabana do bravo Poty, irmão
+de Jacaúna, que plantou commigo a arvore da amizade. Ha tres sóes
+partimos para a caça; e perdido dos meus vim aos campos dos Tabajaras.
 
-  Peasants' cottages burned by Germans                                 8
+--Foi algum máu espirito da floresta que cegou o guerreiro branco no
+escuro da mata: respondeu o ancião.
 
-  The home of a German spy near Coxyde Bains, Belgium                 13
+A cauâm piou, além. na extrema do valle. Cahia a noite.
 
-  The green pass, used only by soldiers and officers of the
-      Belgian Army                                                    33
 
-  Church in Termonde which the writer saw                             42
 
-  One of the dangerous Belgian franc-tireurs                          51
 
-  Fifteenth century Gothic church in Nieuport                         69
+IV
 
-  Sailors lifting a wounded comrade into the motor-ambulance          87
 
-  Door chalked by the Germans                                        105
+O Pagé vibrou a maracá, e sahiu da cabana: porém, o extrangeiro não
+ficou só.
 
-  Street fighting in Alost                                           123
+Iracema voltára com as mulheres chamadas para servir o hospede de
+Araken, e os guerreiros vindos para obedecer-lhe.
 
-  Belgian officer on the last strip of his country                   134
+--Guerreiro branco, disse a virgem, o prazer emballe a tua rêde durante
+a noite; e o sol traga luz aos teus olhos, alegria á tua alma.
 
-  A Belgian boy soldier in the uniform of the first army
-    which served at Liège and Namur                                  139
+E assim dizendo Iracema tinha o labio tremulo, e humida a palpebra.
 
-  Belgians in their new Khaki uniform, in praise of which
-     they wrote a song                                               145
+--Tu me deixas? perguntou Martim.
 
-  Breton sailors ready for their noon meal in a village under
-  daily shell fire                                                   187
+--As mais bellas mulheres da grande taba comtigo ficam.
 
-  Sleeping quarters for Belgian soldiers                             206
+--Para ellas a filha de Araken não devia ter conduzido o hospede á
+cabana do Pagé.
 
-  Belgian soldiers telephoning to an anti-aircraft gun the
-    approach of a German taube                                       215
+--Extrangeiro, Iracema não pode ser tua serva. É ella que guarda o
+segredo da jurema e o mysterio do sonho. Sua mão fabrica para o Pagé a
+bebida de Tupan.
 
-  Postcards sketched and blocked by a Belgian workman,
-    A. Van Doorne                                                    229
+O guerreiro christão atravessou a cabana e sumiu-se na treva.
 
+A grande taba erguia-se no fundo do valle, illuminada pelos faxos da
+alegria. Rugia o maracá; ao quebro lento do canto selvagem, batia a
+dança em torno a rude cadencia. O Pagé inspirado conduzia o sagrado
+tripudio e dizia ao povo crente os segredos de Tupan.
 
+O maior chefe cia nação tabajara, Irapuam, descêra do mais alto da
+serra Ibyapaba, para levar as tribus do sertão contra o inimigo
+Pytiguara. Os guerreiros do valle festejam a vinda do chefe e o proximo
+combate.
 
+O mancebo christão viu longe o clarão da festa, e passou além, e
+olhou o céo azul sem nuvens. A estrella morta que então brilhava sobre
+a cupula da floresta, guiou seu passo firme para as frescas margens do
+Acaraú.
 
-INTRODUCTION
+Quando elle transmontou o valle e ia penetrar na matta, o vulto de
+Iracema surgiu. A virgem seguira o extrangeiro como a brisa subtil que
+resvalla sem murmurejar por entre a ramagem.
 
-By Theodore Roosevelt
+--Porque, disse ella, o extrangeiro abandona a cabana hospedeira sem
+levar o presente da volta? Quem fez mal ao guerreiro branco na terra dos
+Tabajaras?
 
+O christão sentiu quanto era justa a queixa, e achou-se ingrato.
 
-On August 4, 1914, the issue of this war for the conscience of the world
-was Belgium. Now, in the spring of 1916, the issue remains Belgium. For
-eighteen months, our people were bidden by their representative at
-Washington to feel no resentment against a hideous wrong. They were
-taught to tame their human feelings by polished phrases of neutrality.
-Because they lacked the proper outlet of expression, they grew
-indifferent to a supreme injustice. They temporarily lost the capacity
-to react powerfully against wrongdoing.
+--Ninguem fez mal ao teu hospede, filha de Araken. Era o desejo de vêr
+seus amigos que o afastava dos campos dos Tabajaras. Não levava o
+presente da volta; mas leva em sua alma a lembrança de Iracema.
 
-But today they are at last becoming alive to the iniquity of the
-crushing of Belgium. Belgium is the battleground of the war on the
-western front. But Belgium is also the battleground of the struggle in
-our country between the forces of good and of evil. In the ranks of evil
-are ranged all the pacifist sentimentalists, the cowards who possess the
-gift of clothing their cowardice in soothing and attractive words, the
-materialists whose souls have been rotted by exclusive devotion to the
-things of the body, the sincere persons who are cursed with a deficient
-sense of reality, and all who lack foresight or who are uninformed.
-Against them stand the great mass of loyal Americans, who, when they see
-the right, and receive moral leadership, show that they have in their
-souls as much of the valor of righteousness as the men of 1860 and of
-1776. The literary bureau at Washington has acted as a soporific on the
-mind and conscience of the American people. Fine words, designed to work
-confusion between right and wrong, have put them to sleep. But they now
-stir in their sleep.
+--Se a lembrança de Iracema estivesse na alma do extrangeiro, ella não
+o deixaria partir. O vento não leva a areia da varzea, quando a areia
+bebe a agua da chuva.
 
-The proceeds from the sale of this book are to be used for a charity in
-which every intelligent American feels a personal interest. The training
-of maimed soldiers in suitable trades is making possible the
-reconstruction of an entire nation. It is work carried on by citizens of
-the neutral nations. The cause itself is so admirable that it deserves
-wide support. It gives an outlet for the ethical feelings of our people,
-feelings that have been unnaturally dammed for nearly two years by the
-cold and timid policy of our Government.
+--A virgem suspirou:
 
-The testimony of the book is the first-hand witness of an American
-citizen who was present when the Army of Invasion blotted out a little
-nation. This is an eye-witness report on the disputed points of this
-war. The author saw the wrongs perpetrated on helpless non-combatants by
-direct military orders. He shows that the frightfulness practiced on
-peasant women and children was the carrying out of a Government policy,
-planned in advance, ordered from above. It was not the product of
-irresponsible individual drunken soldiers. His testimony is clear on
-this point. He goes still further, and shows that individual soldiers
-resented their orders, and most unwillingly carried through the cruelty
-that was forced on them from Berlin. In his testimony he is kindlier to
-the German race, to the hosts of peasants, clerks and simple soldiers,
-than the defenders of Belgium's obliteration have been. They seek to
-excuse acts of infamy. But the author shows that the average German is
-sorry for those acts.
-
-It is fair to remember in reading Mr. Gleason's testimony concerning
-these deeds of the German Army that he has never received a dollar of
-money for anything he has spoken or written on the subject. He gave
-without payment the articles on the Spy, the Atrocity, and the Steam
-Roller to the New York _Tribune_. The profits from the lectures he has
-delivered on the same subject have been used for well-known public
-charities. The book itself is a gift to a war fund.
-
-Of Mr. Gleason's testimony on atrocities I have already written (see
-page 38).
-
-What he saw was reported to the Bryce Committee by the young British
-subject who accompanied him, and these atrocities, which Mr. Gleason
-witnessed, appear in the Bryce Report under the heading of Alost. It is
-of value to know that an American witnessed atrocities recorded in the
-Bryce Report, as it disposes of the German rejoinders that the Report is
-ex-parte and of second-hand rumor.
-
-His chapter on the Spy System answers the charge that it was Belgium who
-violated her own neutrality, and forced an unwilling Germany, threatened
-by a ring of foes, to defend herself.
-
-The chapter on the Steam Roller shows that the same policy of injustice
-that was responsible for the original atrocities is today operating to
-flatten out what is left of a free nation.
-
-The entire book is a protest against the craven attitude of our
-Government.
-
-  THEODORE ROOSEVELT.
-  _March 28, 1916._
-
-
-
-
-THE CONQUERORS
-
-
-
-
-THE SPY
-
-
-Germany uses three methods in turning a free nation into a vassal state.
-By a spy system, operated through years, she saps the national strength.
-By sudden invasion, accompanied by atrocity, she conquers the territory,
-already prepared. By continuing occupation, she flattens out what is
-left of a once independent people. In England and North America, she has
-used her first method. France has experienced both the spy and the
-atrocity. It has been reserved for Belgium to be submitted to the
-threefold process. I shall tell what I have seen of the spy system, the
-use of frightfulness, and the enforced occupation.
-
-It is a mistake for us to think that the worst thing Germany has done is
-to torture and kill many thousands of women and children. She
-undermines a country with her secret agents before she lays it waste. In
-time of peace, with her spy system, she works like a mole through a wide
-area till the ground is ready to cave in. She plays on the good will and
-trustfulness of other peoples till she has tapped the available
-information. That betrayal of hospitality, that taking advantage of
-human feeling, is a baser thing than her unique savagery in war time.
-
-During my months in Belgium I have been surrounded by evidences of this
-spy system, the long, slow preparedness which Germany makes in another
-country ahead of her deadly pounce. It is a silent, peaceful invasion,
-as destructive as the house-to-house burning and the killing of babies
-and mothers to which it later leads.
-
-The German military power, which is the modern Germany, is able to
-obtain agents to carry out this policy, and make its will prevail, by
-disseminating a new ethic, a philosophy of life, which came to
-expression with Bismarck and has gone on extending its influence since
-the victories of 1870-'71. The German people believe they serve a higher
-God than the rest of us. We serve (very imperfectly and only part of
-the time) such ideals as mercy, pity, and loyalty to the giver of the
-bread we eat. The Germans serve (efficiently and all the time) the
-State, a supreme deity, who sends them to spy out a land in peace time,
-to build gun foundations in innocent-looking houses, buy up
-poverty-stricken peasants, measure distances, win friendship, and worm
-out secrets. With that information digested and those preparations
-completed, the State (an entity beyond good and evil) calls on its
-citizens to make war, and, in making it, to practise frightfulness. It
-orders its servants to lay aside pity and burn peasants in their homes,
-to bayonet women and children, to shoot old men. Of course, there are
-exceptions to this. There are Germans of the vintage of '48, and later,
-many of them honest and peaceable dwellers in the country which shelters
-them. But the imperial system has little use for them. They do not serve
-its purpose.
-
-The issue of the war, as Belgium and France see it, is this: Are they to
-live or die? Are they to be charted out once again through years till
-their hidden weakness is accurately located, and then is an army to be
-let loose on them that will visit a universal outrage on their children
-and wives? Peace will be intolerable till this menace is removed. The
-restoration of territory in Belgium and Northern France and the return
-to the _status quo_ before the war, are not sufficient guarantees for
-the future. The _status quo_ before the war means another insidious
-invasion, carried on unremittingly month by month by business agents,
-commercial travelers, genial tourists, and studious gentlemen in villas.
-A crippled, broken Teutonic military power is the only guarantee that a
-new army of spies will not take the road to Brussels and Paris on the
-day that peace is signed. No simple solution like, "Call it all off,
-we'll start in fresh; bygones are bygones," meets the real situation.
-The Allied nations have been infested with a cloud of witnesses for many
-years. Are they to submit once again to that secret process of the
-Germans?
-
-[Illustration: PEASANTS' COTTAGES BURNED BY GERMANS.
-
-The separate flame in each cottage is clearly visible, proving that each
-house was separately set on fire. Radclyffe Dugmore took this photograph
-at Melle, where he and the writer were made prisoners.]
-
-The French, for instance, want to clear their country of a cloud which
-has been thick and black for forty-three years. They always said the
-Germans would come again with the looting and the torture and the
-foulness. This time they will their fight to a finish. They are sick of
-hate, so they are fighting to end war. But it is not an empty peace that
-they want--peace, with a new drive when the Krupp howitzers are big
-enough, and the spies in Paris thick enough, to make the death of France
-a six weeks' picnic. They want a lasting peace, that will take fear from
-the wife's heart, and make it a happiness to have a child, not a horror.
-They want to blow the ashes off of Lorraine. Peace, as preached by our
-Woman's Peace Party and by our pacifist clergy and by the signers of the
-plea for an embargo on the ammunitions that are freeing France from her
-invaders, is a German peace. If successfully consummated, it will grant
-Germany just time enough to rest and breed and lay the traps, and then
-release another universal massacre. How can the Allies state their terms
-of peace in other than a militant way? There is nothing here to be
-arbitrated. Pleasant sentiments of brotherhood evade the point at issue.
-The way of just peace is by "converting" Germany. There is only one cure
-for long-continued treachery, and that is to demonstrate its failure.
-To pause short of a thorough victory over the deep, inset habits and
-methods of Germany is to destroy the spirit of France. It will not be
-well for a premier race of the world to go down in defeat. We need her
-thrifty Lorraine peasants and Brittany sailors, her unfailing gift to
-the light of the world, more than we need a thorough German spy system
-and a soldiery obedient to commands of vileness.
-
-Very much more slowly England, too, is learning what the fight is about.
-
-It is German violation of the fundamental decencies that makes it
-difficult to find common ground to build on for the future. It is at
-this point that the spy system of slow-seeping treachery and the
-atrocity program of dramatic frightfulness overlap. It is in part out of
-the habit of betraying hospitality that the atrocities have emerged. It
-isn't as if they were extemporized--a sudden flare, with no background.
-They are the logical result of doing secretly for years that which
-humanity has agreed not to do.
-
-Some of the members of our Red Cross unit--the Hector Munro Ambulance
-Corps--worked for a full year with the French Fusiliers Marins, perhaps
-the most famous 6000 fighting men in the western line. They were sailor
-boys. They covered the retreat of the Belgian army. They consolidated
-the Yser position by holding Dixmude for three weeks against a German
-force that outnumbered them. Then for a year, up to a few months ago,
-they helped to hold the Nieuport section, the last northern point of the
-Allied line. When they entered the fight at Melle in October, 1914, our
-corps worked with one of their doctors, and came to know him. Later he
-took charge of a dressing station near St. George. Here one day the
-Germans made a sudden sortie, drove back the Fusiliers for a few
-minutes, and killed the Red Cross roomful, bayoneting the wounded men.
-The Fusiliers shortly won back their position, found their favorite
-doctor dead, and in a fury wiped out the Germans who had murdered him
-and his patients, saving one man alive. They sent him back to the
-enemy's lines to say:
-
-"Tell your men how we fight when you bayonet our wounded."
-
-That sudden act of German falseness was the product of slow, careful
-undermining of moral values.
-
-One of the best known women in Belgium, whose name I dare not give, told
-me of her friends, the G----'s, at L---- (she gave me name and
-address). When the first German rush came down on Belgium the household
-was asked to shelter German officers, one of whom the lady had known
-socially in peace days. The next morning soldiers went through the
-house, destroying paintings with the bayonet and wrecking furniture. The
-lady appealed to the officer.
-
-"I know you," she said. "We have met as equals and friends. How can you
-let this be done?"
-
-"This is war," he replied.
-
-No call of chivalry, of the loyalties of guest and host, is to be
-listened to. And for the perpetrating of this cold program years of
-silent spy treachery were a perfect preparation. It was no sudden
-unrelated horror to which Germans had to force themselves. It was an
-astonishing thing to simple Belgian gentlemen and gentlewomen to see the
-old friendly German faces of tourists and social guests show up, on
-horseback, riding into the cities as conquerors where they had so often
-been entertained as friends. Let me give you the testimony of a Belgian
-lady whom we know. She is now inside the German lines, so I cannot give
-her name.
-
-[Illustration: THE HOME OF A GERMAN SPY NEAR COXYDE BAINS, BELGIUM.
-
-He had a deep gun foundation, concealed by tiling, motors, hydraulic
-apparatus--a complete fortification inside his villa.
-
-[This photograph would have been better if it had not been developed in
-the ambulance of one of the American Field Service, but it shows the
-solid construction of the hidden flooring, the supporting pillars, one
-of the motors and one of the gas pipes.]]
-
-"When the German troops entered Brussels," she states, "we suddenly
-discovered that our good friends had been secret agents and were now
-officers in charge of the invasion. As the army came in, with their
-trumpets and flags and goose-stepping, we picked out our friends
-entertained by us in our salons--dinner guests for years. They had
-originally come with every recommendation possible--letters from
-friends, themselves men of good birth. They had worked their way into
-the social-political life of Brussels. They had won their place in our
-friendly feeling. And here they had returned to us at the head of troops
-to conquer us, after having served as secret agents through the years of
-friendly social intercourse."
-
-After becoming proficient in that kind of betrayal the officers found it
-only a slight wrench to pass on to the wholesale murder of the people
-whose bread they had eaten and whom they had tricked. The treachery
-explains the atrocity. It is worth while to repeat and emphasize this
-point. Many persons have asked me, "How do you account for these
-terrible acts of mutilation?" The answer is, what the Germans did
-suddenly by flame and bayonet is only a continuation of what they have
-done for years by poison.
-
-Here follows the testimony of a man whom I know, Doctor George Sarton,
-of the University of Ghent:
-
-"Each year more Germans came to Belgian summer resorts; Blankenberghe,
-for instance, was full of them. They were all very well received and had
-plenty of friends in Belgian families, from the court down. When the war
-broke out, it immediately became evident that many of these welcomed
-guests had been spying, measuring distances, preparing foundations for
-heavy guns in their villas located at strategical points, and so on. It
-is noteworthy that this spying was not simply done by poor devils who
-had not been able to make money in a cleaner way--but by very successful
-German business men, sometimes men of great wealth and whose wealth had
-been almost entirely built up in Belgium. These men were extremely
-courteous and serviceable, they spent much money upon social functions
-and in the promotion of charities, German schools, churches and the
-like; they had numerous friends, in some cases they had married Belgian
-girls and their boys were members of the special corps of our 'National
-Guard.' ... Yet at the same time, they were prying into everything,
-spying everywhere.
-
-"When the Germans entered into Belgium, they were guided wherever they
-went by some one of their officers or men who knew all about each place.
-Directors of factories were startled to recognize some of their work
-people transformed into Uhlans. A man who had been a professor at the
-University of Brussels had the impudence to call upon his former
-'friends' in the uniform of a German officer.
-
-"When the war is over, when Belgium is free again, it will not be many
-years before the Germans come back, at least their peaceful and
-'friendly' vanguard. How will they be received this time? It is certain
-that it will be extremely difficult for them to make friends again. As
-to myself, when I meet them again in my country--I shall ask myself: 'Is
-he a friend, or is he a spy?' And the business men will think: 'Are they
-coming as faithful partners, or simply to steal and rob?' That will be
-their well deserved reward."
-
-One mile from where we were billeted on the Belgian coast stood a villa
-owned by a German. It lay between St. Idesbald and Coxyde Bains, on a
-sand dune, commanding the Channel. After the war broke out the Belgians
-examined it and found it was a fortification. Its walls were of six-foot
-thickness, of heavy blocks of stone and concrete. Its massive flooring
-was cleverly disguised by a layer of fancy tiling. Its interior was
-fitted with little compartments for hydraulic apparatus for raising
-weights, and there was a tangle of wires and pipes. Dynamite cleared
-away the upper stories. Workmen hacked away the lower story, piece by
-piece, during several weeks of our stay. Two members of our corps
-inspected the interior. It lay just off the excellent road that runs
-from St. Idesbald to Coxyde Bains, up which ammunition could be fed to
-it for its coast defense work. The Germans expected an easy march down
-the coast, with these safety stations ready for them at points of
-need.[A]
-
-A Belgian soldier rode into a Belgian village one evening at twilight
-during the early days of the war. An old peasant woman, deceived
-because of the darkness, and thinking him to be a German Uhlan, rushed
-up to him and said, "Look out--the Belgians are here." It was the work
-of these spies to give information to the marauding Uhlans as to whether
-any hostile garrison was stationed in the town. If no troops were there
-to resist, a band of a dozen Uhlans could easily take an entire village.
-But if the village had a protecting garrison the Germans must be
-forewarned.
-
-Three days after arriving in Belgium, in the early fall of 1914, a
-friend and I met a German outpost, one of the Hussars. We fell into
-conversation with him and became quite friendly. He had no cigarettes
-and we shared ours with him. He could speak good English, and he let us
-walk beside him as he rode slowly along on his way to the main body of
-his troops. The Germans had won the day and there seemed to be nothing
-at stake, or perhaps he did not expect our little group would be
-long-lived, nor should we have been if the German plans had gone
-through. It was their custom to use civilian prisoners as a protective
-screen for their advancing troops. Whatever his motive, after we had
-walked along beside his horse for a little distance, he pointed out to
-us the house of the spy whom the Germans had in that village of Melle.
-This man was a "half-breed" Englishman, who came out of his house and
-walked over to the Hussar and said:
-
-"You want to keep up your English, for you'll soon be in London."
-
-In a loud voice, for the benefit of his Belgian neighbors, he shouted
-out:
-
-"Look out! Those fellows shoot! The Germans are devils!"
-
-He brought out wine for the troops. We followed him into his house,
-where he, supposing us to be friends of the Germans, asked us to partake
-of his hospitality. That man was a resident of the village, a friend of
-the people, but "fixed" for just this job of supplying information to
-the invaders when the time came.
-
-During my five weeks in Ghent I used to eat frequently at the Café
-Gambrinus, where the proprietor assured us that he was a Swiss and in
-deep sympathy with Belgians and Allies. He had a large custom. When the
-Germans captured Ghent he altered into a simon pure German and friend
-of the invaders. His place now is the nightly resort of German officers.
-
-In the hotel where I stayed in Ghent the proprietor, after a couple of
-days, believing me to be one more neutral American, told me he was a
-German. He went on to say what a mistake the Belgians made to oppose the
-Germans, who were irresistible. That was his return to the city and
-country that had given him his livelihood. A few hours later a gendarme
-friend of mine told me to move out quickly, as we were in the house of a
-spy.
-
-Three members of our corps in Pervyse had evidence many nights of a spy
-within our lines. It was part of the routine for a convoy of motor
-trucks to bring ammunition forward to the trenches. The enemy during the
-day would get the range of the road over which this train had to pass.
-Of course, each night the time of ammunition moving was changed in an
-attempt to foil the German fire. But this was of no avail, for when the
-train of trucks moved along the road to the trenches a bright flash of
-light would go up somewhere within our lines, telling the enemy that it
-was time to fire upon the convoy.
-
-Such evidences kept reaching us of German gold at work on the very
-country we were occupying. Sometimes the money itself.
-
-My wife, when stationed by the Belgian trenches at Pervyse, asked the
-orderly to purchase potatoes, giving him a five-franc piece. He brought
-back the potatoes and a handful of change that included a French franc,
-a French copper, a Dutch small coin, a Belgian ten-centime bit, and a
-German two-mark piece with its imperial eagle. This meant that some one
-in the ranks or among the refugees was peddling information to the
-enemy.
-
-In early October my wife and I were captured by the Uhlans at Zele. Our
-Flemish driver, a Ghent man, began expressing his friendliness for them
-in fluent German. After weeks of that sort of thing we became suspicious
-of almost every one, so thorough and widespread had been the bribery of
-certain of the poorer element. The Germans had sowed their seed for
-years against the day when they would release their troops and have
-need of traitors scattered through the invaded country.
-
-The thoroughness of this bribery differed at different villages. In one
-burned town of 1500 houses we found approximately 100 houses standing
-intact, with German script in chalk on their doors; the order of the
-officer not to burn. This meant the dwellers had been friendly to the
-enemy in certain instances, and in other instances that they were spies
-for the Germans. We have the photographs of those chalked houses in
-safe-keeping, against such time as there is a direct challenge on the
-facts of German methods. But there has come no challenge of facts--we
-that have seen have given names, dates and places--only a blanket denial
-and counter charges of _franc-tireur_ warfare, as carried on by babies
-in arms, white-haired grandmothers and sick women.
-
-In October, 1914, two miles outside Ostend, I was arrested as a spy by
-the Belgians and marched through the streets in front of a gun in the
-hands of a very young and very nervous soldier. The Etat Major told me
-that German officers had been using American passports to enter the
-Allied lines and learn the numbers and disposition of troops. They had
-to arrest Americans on sight and find out if they were masqueraders. A
-little later one of our American ambassadors verified this by saying to
-me that American passports had been flagrantly abused for German
-purposes.
-
-All this devious inside work, misusing the hospitality of friendly,
-trustful nations, this buying up of weak individuals, this laying the
-traps on neutral ground--all this treachery in peace times--deserves a
-second Bryce report. The atrocities are the product of the treachery.
-This patient, insidious spy system, eating away at the vitality of the
-Allied powers, results in such horrors as I have witnessed.
-
-
-
-
-THE ATROCITY
-
-
-When the very terrible accounts of frightfulness visited on peasants by
-the invading German army crossed the Channel to London, I believed that
-we had one more "formula" story. I was fortified against unproved
-allegations by thirteen years of newspaper and magazine investigation
-and by professional experience in social work. A few months previously I
-had investigated the "poison needle" stories of how a girl, rendered
-insensible by a drug, was borne away in a taxicab to a house of ill
-fame. The cases proved to be victims of hysteria. At another time, I had
-looked up certain incidents of "white slavery," where young and innocent
-victims were suddenly and dramatically ruined. I had found the cases to
-be more complex than the picturesque statements of fiction writers
-implied. Again, by the courtesy of the United States Government,
-Department of Justice, I had studied investigations into the relation
-of a low wage to the life of immorality. These had shown me that many
-factors in the home, in the training, in the mental condition, often
-contributed to the result. I had grown sceptical of the "plain"
-statement of a complex matter, and peculiarly hesitant in accepting
-accounts of outrage and cruelty. It was in this spirit that I crossed to
-Belgium. To this extent, I had a pro-German leaning.
-
-On September 7, 1914, with two companions, I was present at the skirmish
-between Germans and Belgians at Melle, a couple of miles east of Ghent.
-We walked to the German line, where a blue-eyed young Hussar officer,
-Rhinebeck, of Stramm, Holstein, led us into a trap by permitting us to
-walk along after him and his men as they rode back to camp beyond Melle.
-We walked for a quarter mile. At our right a barn was burning brightly.
-On our left the homes of the peasants of Melle were burning, twenty-six
-little yellow brick houses, each with a separate fire. It was not a
-conflagration, by one house burning and gradually lighting the next. The
-fires were well started and at equal intensity in each house. The walls
-between the houses were still intact. The twenty-six fires burned slowly
-and thoroughly through the night.
-
-These three thousand German soldiers and their officers were neither
-drunk nor riotous. The discipline was excellent. The burning was a
-clean-cut, cold-blooded piece of work. It was a piece of punishment.
-Belgian soldiers had resisted the German army. If Belgian soldiers
-resist, peasant non-combatants must be killed. That inspires terror.
-That teaches the lesson: "Do not oppose Germany. It is death to oppose
-her--death to your wife and child."
-
-We were surrounded by soldiers and four sentries put over us. Peasants
-who walked too close to the camp were brought in and added to our group
-of prisoners, till, all told, we numbered thirty. A peasant lying next
-to me watched his own house burn to pieces.
-
-Another of the peasants was an old man, of weak mind. He kept babbling
-to himself. It would have been obvious to a child that he was foolish.
-The German sentry ordered silence. The old fellow muttered on in
-unconsciousness of his surroundings. The sentry drew back his bayonet
-to run him through. A couple of the peasants pulled the old man flat to
-the ground and stifled his talking.
-
-At five o'clock in the morning German stretcher bearers marched behind
-the burned houses. Out of the house of the peasant lying next to me
-three bodies were carried. He broke into a long, slow sobbing.
-
-At six o'clock a monoplane sailed overhead, bringing orders to our
-detachment. The troops intended for Ghent were turned toward Brussels.
-The field artillery, which had been rolled toward the west, was swung
-about to the east. An officer headed us toward Ghent and let us go. If
-the Germans had marched into Ghent we would have been of value as a
-cover for the troops. But for the return to Brussels we were only a
-nuisance. We hurried away toward Ghent. As we walked through a farmyard
-we saw a farmer lying at full length dead in his dooryard. We passed the
-convent school of Melle, where Catholic sisters live. The front yard was
-strewed with furniture, with bedding, with the contents of the rooms.
-The yard was about four hundred feet long and two hundred feet deep. It
-was dotted with this intimate household stuff for the full area. I made
-inquiry and found that no sister had been violated or bayoneted. The
-soldiers had merely ransacked the place.
-
-One of my companions in this Melle experience was A. Radclyffe Dugmore,
-formerly of the Players Club, New York, a well-known naturalist, author
-of books on big game in Africa, the beaver, and the caribou. For many
-years he was connected with Doubleday, Page & Co. His present address is
-Crete Hill, South Nutfield, Surrey.
-
-At other times and places, German troops have not rested content with
-the mere terrorization and humiliation of religious sisters. On February
-12, 1916, the German Wireless from Berlin states that Cardinal Mercier
-was urged to investigate the allegation of German soldiers attacking
-Belgian nuns, and that he declined. As long as the German Government has
-seen fit to revive the record of their own brutality, I present what
-follows.
-
-A New York physician whom I know sends me this statement:
-
-"I was dining in London in the middle of last April with a friend, a
-medical man, and I expressed doubt as to the truth of the stories of
-atrocity. I said I had combatted such stories often in America. In
-reply, he asked me to visit a house which had been made over into an
-obstetrical hospital for Belgian nuns. I went with him to the hospital.
-Here over a hundred nuns had been and were being cared for."
-
-On a later Sunday in September I visited the Municipal Hospital of
-Ghent. In Salle (Hall) 17, I met and talked with Martha Tas, a peasant
-girl of St. Gilles (near Termonde). As she was escaping by train from
-the district, and when she was between Alost and Audeghem, she told me
-that German soldiers aimed rifle fire at the train of peasants. She was
-wounded by a bullet in the thigh. My companion on this visit was William
-R. Renton, at one time a resident of Andover, Massachusetts. His present
-address is the Coventry Ordnance Works, Coventry.
-
-A friend of mine has been lieutenant in a battery of 75's stationed near
-Pervyse. His summer home is a little distance out from Liège. His wife,
-sister-in-law, and his three children were in the house when the Germans
-came. Peasants, driven from their village, hid in the cellar. His sister
-took one child and hid in a closet. His wife took the two-year-old baby
-and the older child and hid in another closet. The troops entered the
-house, looted it and set it on fire. As they left they fired into the
-cellar. The mother rushed from her hiding place, went to her desk and
-found that her money and the family jewels, one a gift from the
-husband's family and handed down generation by generation, had been
-stolen. With the sister, the baby in arms, the two other children and
-the peasants, she ran out of the garden. They were fired on. They hid in
-a wood. Then, for two days, they walked. The raw potatoes which they
-gathered by the way were unfit for the little one. Without money, and
-ill and weakened, they reached Holland. This lady is in a safe place
-now, and her testimony in person is available.
-
-[Illustration: THE GREEN PASS, USED ONLY BY SOLDIERS AND OFFICERS OF THE
-BELGIAN ARMY.
-
-It gives passage to the trenches at any hour. The writer, by holding
-this, and working under the Prime Minister's son, became
-stretcher-bearer in the Belgian Army.]
-
-The apologists of the widespread reign of frightfulness say that war is
-always "like that," that individual drunken soldiers have always broken
-loose and committed terrible acts. This defense does not meet the
-facts. It meets neither the official orders, nor the cold method, nor
-the immense number of proved murders. The German policy was ordered from
-the top. It was carried out by officers and men systematically, under
-discipline. The German War Book, issued by the General Staff, and used
-by officers, cleverly justifies these acts. They are recorded by the
-German soldiers themselves in their diaries, of which photographic
-reproductions are obtainable in any large library. The diaries were
-found on the persons of dead and wounded Germans. The name of the man
-and his company are given.
-
-On Sunday, September 27, I was present at the battle of Alost, where
-peasants came running into our lines from the German side of the canal.
-In spite of shell, shrapnel, rifle, and machine fire, these peasants
-crossed to us. The reason they had for running into fire was that the
-Germans were torturing their neighbors with the bayonet. One peasant, on
-the other side of the canal, hurried toward us under the fire, with a
-little girl on his right shoulder.
-
-On Tuesday, September 29, I visited Wetteren Hospital. I went in
-company with the Prince L. de Croy, the Due D'Ursel, a senator; the
-Count de Briey, Intendant de la Liste Civile du Roy, and the Count Retz
-la Barre (all of the Garde du General de Wette, Divisions de Cavalerie).
-One at least of these gentlemen is as well and as favorably known in
-this country as in his own. I took a young linguist, who was kind enough
-to act as secretary for me. In the hospital I found eleven peasants with
-bayonet wounds upon them--men, women and a child--who had been marched
-in front of the Germans at Alost as a cover for the troops, and cut with
-bayonets when they tried to dodge the firing. A priest was ministering
-to them, bed by bed. Sisters were in attendance. The priest led us to
-the cot of one of the men. On Sunday morning, September 27, the peasant,
-Leopold de Man, of No. 90, Hovenier-Straat, Alost, was hiding in the
-house with his sister, in the cellar. The Germans made a fire of the
-table and chairs in the upper room. Then, catching sight of Leopold,
-they struck him with the butts of their guns and forced him to pass
-through the fire. Then, taking him outside, they struck him to the
-ground and gave him a blow over the head with a gunstock and a cut of
-the bayonet, which pierced his thigh all the way through.
-
-"In spite of my wound," said he, "they made me pass between their lines,
-giving me still more blows of the gun-butt in the back in order to make
-me march. There were seventeen or eighteen persons with me. They placed
-us in front of their lines and menaced us with their revolvers, crying
-out that they will make us pay for the losses they have suffered at
-Alost. So we march in front of the troops.
-
-"When the battle began we threw ourselves on our faces to the ground,
-but they forced us to rise again. At a certain moment, when the Germans
-were obliged to retire, we succeeded in escaping down side streets."
-
-The priest led the way to the cot of a peasant whose cheeks had the spot
-of fever. He was Frans Meulebroeck, of No. 62, Drie Sleutelstraat,
-Alost. Sometimes in loud bursts of terror, and then falling back into a
-monotone, he talked with us.
-
-"They broke open the door of my home," he said, "they seized me and
-knocked me down. In front of my door the corpse of a German lay
-stretched out. The Germans said to me: 'You are going to pay for that to
-us.' A few moments later they gave me a bayonet cut in my leg. They
-sprinkled naphtha in my house and set it afire. My son was struck down
-in the street and I was marched in front of the German troops. I do not
-know even yet the fate of my son."
-
-Gradually as the peasant talked the time of his suffering came on him.
-His eyes began to see it again in front of him. They became fixed and
-wild, the white of them visible. His voice was shrill and broken with
-sobs.
-
-"My boy," he said, "I haven't seen him." His body shook with sobbing.
-
-At my request the young man with me took down the statements of these
-two peasants, turning them into French from the Flemish, with the aid of
-the priest. In the presence of the priest and one of the sisters the two
-peasants signed, each man, his statement, making his mark.
-
-Our group passed into the next room, where the wounded women were
-gathered. A sister led us to the bedside of a very old woman, perhaps
-eighty years old. She had thin white hair, that straggled across the
-pillow. There was no motion to the body, except for faint breathing. She
-was cut through the thigh with a bayonet.
-
-I went across the room and found a little girl, twelve years old. She
-was propped up in bed and half bent over, as if she had been broken at
-the breast bone. Her body whistled with each breath. One of our
-ambulance corps went out next day to the hospital--Dr. Donald Renton. He
-writes me:
-
-"I went out with Davidson, the American sculptor, and Yates, the cinema
-man, and there had been brought into the hospital the previous day the
-little girl you speak of. She had a gaping wound on, I think, the right
-side of her back, and died the next day."
-
-Dr. Renton's address is 110 Hill Street, Garnet Hill, Glasgow.
-
-The young man who took down the record is named E. de Niemira, a British
-subject. He made the report of what we had seen to the Bryce Committee.
-These cases which I witnessed appear in the Bryce Report under the
-heading of "Alost."[B] Of such is the Bryce Report made: first-hand
-witness by men like myself, who know what they know, who are ready for
-any test to be applied, who made careful notes, who had witnesses.
-
-"Why do the Germans do these things? It is not war. It is cruel and
-wrong," that is a remark I heard from noblemen and common soldiers
-alike. Such acts are beyond the understanding of the Belgian people.
-Their soldiers are kindly, good-humored, fearless. Alien women and
-children would be safe in their hands. They do not see why the Germans
-bring suffering to the innocent.
-
-A few understand. They know it is a scientific panic which the German
-army was seeking to cultivate. They see that these acts are not done in
-the wilful abandon of a few drunken soldiers, beyond discipline, but
-that they belong to a cool, careful method by means of which the German
-staff hoped to reduce a population to servitude. The Germans regard
-these mutilations as pieces of necessary surgery. The young blond
-barmaid of the Quatrecht Inn told us on October 4 that a German captain
-came and cried like a baby in the taproom on the evening of September 7,
-after he had laid waste Quatrecht and Melle. To her fanciful, untrained
-mind he was thinking of his own wife and children. So, at least, she
-thought as she watched him, after serving him in his thirst.
-
-One of the sentries patted the shoulder of the peasant at Melle when he
-learned that the man had had the three members of his family done to
-death. Personally, he was sorry for the man, but orders were orders.
-
-[Illustration: CHURCH IN TERMONDE WHICH THE WRITER SAW.
-
-The Germans burned this church and four others, a hospital, an
-orphanage, and 1,100 homes, house by house. Priests, nuns and churches
-irritated the German Army. This photograph was taken by Radclyffe
-Dugmore, who accompanied the writer, to witness the methodical
-destruction.]
-
-I spent September 13 and September 23 in Termonde. Ten days before my
-first visit Termonde was a pretty town of 11,000 inhabitants. On their
-first visit the Germans burned eleven hundred of the fifteen hundred
-houses. They burned the Church of St. Benedict, the Church of St.
-Rocus, three other churches, a hospital, and an orphanage. They burned
-that town not by accident of shell fire and general conflagration, but
-methodically, house by house. In the midst of charred ruins I came on
-single houses standing, many of them, and on their doors was German
-writing in chalk--"Nicht Verbrennen. Gute Leute wohnen hier." Sometimes
-it would be simply "Nicht Verbrennen," sometimes only "Gute Leute," but
-always that piece of German script was enough to save that house, though
-to the right and left of it were ruins. On several of the saved houses
-the name of the German officer was scribbled who gave the order to
-spare. About one hundred houses were chalked in the way I have
-described. All these were unscathed by the fire, though they stood in
-streets otherwise devastated. The remaining three hundred houses had the
-good luck to stand at the outskirts and on streets unvisited by the
-house-to-house incendiaries.
-
-Four days after my first visit the Germans burned again the already
-wrecked town, turning their attention to the neglected three hundred
-houses. I went in as soon as I could safely enter the town, and that was
-on the Wednesday after.
-
-As companions in Termonde I had Tennyson Jesse, Radclyffe Dugmore, and
-William R. Renton. Mr. Dugmore took photographs of the chalked houses.
-
-"Build a fence around Termonde," suggested a Ghent manufacturer, "leave
-the ruins untouched. Let the place stand there, with its burned houses,
-churches, orphanage, hospital, factories, to show the world what German
-culture is. It will be a monument to their methods of conducting war.
-There will be no need of saying anything. That is all the proof we need.
-Then throw open the place to visitors from all the world, as soon as
-this war is over. Let them draw their own conclusions."
-
-
-
-
-BALLAD OF THE GERMANS
-
-
-In Wetteren Hospital, Flanders, the writer saw a little peasant girl
-dying from the bayonet wounds in her back which the German soldiers had
-given her.
-
-  Cain slew only a brother,
-    A lad who was fair and strong,
-  His murder was careless and honest,
-    A heated and sudden wrong.
-
-  And Judas was kindly and pleasant,
-    For he snared an invincible man.
-  But you--you have spitted the children,
-    As they toddled and stumbled and ran.
-
-  She heard you sing on the high-road,
-    She thought you were gallant and gay;
-  Such men as the peasants of Flanders:
-    The friends of a child at play.
-
-  She saw the sun on your helmets,
-    The sparkle of glancing light.
-  She saw your bayonets flashing,
-    And she laughed at your Prussian might.
-
-  Then you gave her death for her laughter,
-    As you looked on her mischievous face.
-  You hated the tiny peasant,
-    With the hate of your famous race.
-
-  You were not frenzied and angry;
-    You were cold and efficient and keen.
-  Your thrust was as thorough and deadly
-    As the stroke of a faithful machine.
-
-  You stabbed her deep with your rifle:
-    You had good reason to sing,
-  As you footed it on through Flanders
-    Past the broken and quivering thing.
-
-  Something impedes your advancing,
-    A dragging has come on your hosts.
-  And Paris grows dim now, and dimmer,
-    Through the blur of your raucous boasts.
-
-  Your singing is sometimes broken
-    By guttural German groans.
-  Your ankles are wet with _her_ bleeding,
-    Your pike is blunt from _her_ bones.
-
-  The little peasant has tripped you.
-    She hangs to your bloody stride.
-  And the dimpled hands are fastened
-    Where they fumbled before she died.
-
-
-
-
-THE STEAM ROLLER
-
-
-The Steam Roller, the final method, now operating in Belgium to flatten
-her for all time, is the most deadly and universal of the three. It is a
-calculated process to break the human spirit. People speak as if the
-injury done Belgium was a thing of the past. It is at its height now.
-The spy system with its clerks, waiters, tourists, business managers,
-reached directly only some thousands of persons. The atrocities wounded
-and killed many thousands of old men, women, and children. But the
-German occupation and sovereignty at the present moment are
-denationalizing more than six million people. The German conquerors
-operate their Steam Roller by clever lies, thus separating Belgium from
-her real friends; by taxation, thus breaking Belgium economically; by
-enforced work on food supplies, railways, and ammunition, thus forcing
-Belgian peasants to feed their enemy's army and destroy their own army,
-and so making unwilling traitors out of patriots; by fines and
-imprisonment that harass the individual Belgian who retains any sense of
-nationality; by official slander from Berlin that the Belgians are the
-guilty causes of their own destruction; and finally by the fact of
-sovereignty itself, that at one stroke breaks the inmost spirit of a
-free nation.
-
-I was still in Ghent when the Germans moved up to the suburbs.
-
-"I can put my artillery on Ghent," said the German officer to the
-American vice-consul.
-
-That talk is typical of the tone of voice used to Belgians: threat
-backed by murder.
-
-The whole policy of the Germans of late is to treat the Belgian matter
-as a thing accomplished.
-
-"It is over. Let bygones be bygones."
-
-It is a process like the trapping of an innocent woman, and when she is
-trapped, saying,
-
-"Now you are compromised, anyway, so you had better submit."
-
-A friend of mine who remained in Ghent after the German occupation, had
-German officers billetted in his home. Daily, industriously, they said
-to him that the English had been poor friends of his country, that they
-had been late in coming to the rescue. Germany was the friend, not
-England. In the homes throughout Belgium, these unbidden guests are
-claiming slavery is a beneficent institution, that it is better to be
-ruled by the German military, and made efficient for German ends, than
-to continue a free people.
-
-For a year, our Red Cross Corps worked under the direction and authority
-of the Belgian prime minister, Baron de Broqueville. The prime minister
-in the name of his government has sent to this country an official
-protest against the new tax levied by the Germans on his people. The
-total tax for the German occupation amounts to $192,000,000. He writes:
-
-"The German military occupation during the last fifteen months has
-entirely prevented all foreign trade, has paralyzed industrial activity,
-and has reduced the majority of the laboring classes to enforced
-idleness. Upon the impoverished Belgian population whom Germany has
-unjustly attacked, upon whom she has brought want and distress, who have
-been barely saved from starvation by the importation of food which
-Germany should have provided--upon this population, Germany now imposes
-a new tax, equal in amount to the enormous tax she has already imposed
-and is regularly collecting."
-
-[Illustration: One of the dangerous Belgian franc-tireurs, who made it
-necessary for the German Army to burn and bayonet babies and old women.
-His name is Gaspar. He is three years old.]
-
-The Belgian Legation has protested unavailingly to our Government that
-Germany, in violation of The Hague Conventions, has forced Belgian
-workmen to perform labor for the German army. Belgian Railway employees
-at Malines, Luttre and elsewhere refused to perform work which would
-have released from the transportation service and made available for the
-trenches an entire German Army Corps. These Belgian workmen were
-subjected to coersive measures, which included starvation and cruel
-punishments. Because of these penalties on Belgians refusing to be
-traitors, many went to hospitals in Germany, and others returned broken
-in health to Belgium.
-
-After reading the chapter on the German spy system, a Belgian wrote me:
-
-"That spying business is not yet the worst. Since then, the Germans have
-succeeded in outdoing all that. The basest and the worst that one can
-dream of is it not that campaign of slander and blackmail which they
-originated after their violation of Belgium's neutrality? Of course they
-did it--as a murderer who slanders his victim--in the hope to justify
-their crime."
-
-It is evil to murder non-combatants. It is more evil to "rationalize"
-the act--to invent a moral reason for doing an infamous thing. First,
-Belgium suffered a vivisection, a veritable martyrdom. Now, she is
-officially informed by her executioners that she was the guilty party.
-She is not allowed to protest. She must sit quietly under the charge
-that her sacrifice was not a sacrifice at all, but the penalty paid for
-her own misbehavior. This is a more cruel thing than the spying that
-sapped her and the atrocities practised upon her, because it is more
-cruel to take a man's honor than his property and his life.
-
-"If the peasants had stayed in their houses, they would have been safe."
-
-When they stayed in their houses they were burned along with the houses.
-I saw this done on September 7, 1914, at Melle.
-
-"The peasants shot from their houses at the advancing German army."
-
-I saw German atrocities. The peasants did not shoot. It is the old
-familiar formula of the _franc-tireur_. That means that the peasant, not
-a soldier, dressed in the clothing of a civilian, takes advantage of his
-immunity as a noncombatant, to secrete a rifle, and from some shelter
-shoot at the enemy army. The Bishop of Namur writes:
-
-"It is evident that the German army trod the Belgian soil and carried
-out the invasion with the preconceived idea that it would meet with
-bands of this sort, a reminiscence of the war of 1870. But German
-imagination will not suffice to create that which does not exist.
-
-"There never existed a single body of _francs-tireurs_ in Belgium.
-
-"No 'isolated instance' even is known of civilians having fired upon the
-troops, although there would have been no occasion for surprise if any
-individual person had committed an excess. In several of our villages
-the population was exterminated because, as the military authorities
-alleged, a major had been killed or a young girl had attempted to kill
-an officer, and so forth.... In no case has an alleged culprit been
-discovered and designated by name."
-
-This lie--that the peasants brought their own death on themselves--was
-rehearsed before the war, as a carefully learned lesson. The army came
-prepared to find the excuse for the methodical outrages which they
-practised. In the fight in the Dixmude district, a German officer of the
-202e Infantry had a letter with this sentence on his body:
-
-"There are a lot of _francs-tireurs_ with the enemy."
-
-There were none. He had found what he had been drilled to find, in the
-years of preparedness. The front lines of the Yser were raked clear by
-shell, rifle, and machine-gun fire. The district was in ruins. I know,
-because I worked there with our Red Cross Corps through those three
-weeks. The humorous explanation of this is given by one of the Fusilier
-Marin Lieutenants--that the blue cap and the red pompon of the famous
-fighting sailors of France looked strangely to the Germans, who took the
-wearers for _francs-tireurs_, terror suggesting the idea. But this is
-the kindly humor of Brittany. The saucy sailor caps could not have
-looked strangely to German eyes, because a few weeks earlier those
-"Girls with the red pompon" had held the German army corps at Melle, and
-not even terror could have made them look other than terribly familiar.
-No. The officers had been faithfully trained to find militant peasants
-under arms, and to send back letters and reports of their discovery,
-which could later be used in official excuses for frightfulness. This
-letter is one that did not get back to Berlin, later to appear in a
-White Paper, as justification for official murder of non-combatants.
-
-The picture projected by the Great German Literary Staff is too
-imaginative. Think of that Army of the Invasion with its army corps
-riding down through village streets--the Uhlan cavalry, the innumerable
-artillery, the dense endless infantry, the deadly power and swing of it
-all--and then see the girl-child of Alost, and the white-haired woman,
-eighty years old--aiming their rifles at that cavalcade. It is a
-literary creation, not a statement of fact. I have been in villages
-when German troops were entering, had entered, and were about to enter.
-I saw helpless, terror-stricken women huddled against the wall, children
-hiding in their skirts, old men dazed and vague.
-
-Then, as the blue-gray uniforms appeared at the head of the street, with
-sunlight on the pikes and helmets, came the cry--half a sob, "Les
-Allemands."
-
-The German fabrications are unworthy. Let the little slain children, and
-the violated women, sleep in honor. Your race was stern enough in doing
-them to death. Let them alone, now that you have cleared them from your
-path to Paris.
-
-Doctor George Sarton, of the University of Ghent writes me:
-
-"During the last months, the Germans have launched new slanders against
-Belgium. Their present tactics are more discreet and seem to be
-successful. Many 'neutral' travelers--especially Americans and
-Swiss--have been to Belgium to see the battlefields or, perhaps, to get
-an idea of what such an occupation by foreign soldiers exactly amounts
-to. Of course, these men can see nothing without the assistance of the
-German authorities, and they can but see what is shown to them. The
-greater their curiosity, the more courtesy extended to them, the more
-also they feel indebted to their German hosts. These are well aware of
-it: the sightseers are taken in their net, and with a very few
-exceptions, their critical sense is quickly obliterated. We have
-recently been shown one of the finest specimens of these American
-tourists: Mr. George B. McCellan, professor of History at Princeton, who
-made himself ridiculous by writing a most superficial and inaccurate
-article for the "Sunday Times Magazine".
-
-"When the good folks of Belgium recollect the spying business that was
-carried on at their expense by their German 'friends,' they are not
-likely to trust much their German enemies. They know that the Germans
-are quite incapable of keeping to themselves any fact that they may
-learn--in whatever confidential and intimate circumstances--if this fact
-is of the smallest use to their own country. As it is perfectly
-impossible to trust them, the best is to avoid them, and that is what
-most Belgians are doing.
-
-"American tourists seeing Belgium through German courtesy are considered
-by the Belgians just as untrustworthy as the Germans themselves. This is
-the right attitude, as there is no possibility left to the Belgians (in
-Belgium) of testing the morality and the neutrality of their visitors.
-The result of which is that these visitors are entirely given up to
-their German advisers; _all their knowledge is of German origin_. Of
-course, the Germans take advantage of this situation and make a show of
-German efficiency and organization.--'Don't you know: the Germans have
-done so much for Belgium! Why, everybody knows that this country was
-very inefficient, very badly managed ... a poor little country without
-influence.... See what the Germans have made of it.... There was no
-compulsory education, and the number of illiterates was scandalously
-high,' (I am sorry to say that this at least is true.) 'They are
-introducing compulsory and free education. In the big towns, sexual
-morality was rather loose, but the Germans are now regulating all that.'
-(You should hear German officers speak of prostitution in Antwerp and
-Brussels.) 'The evil was great, but fortunately the Germans came and are
-cleaning up the country.'--That is their way of doing and talking. It
-does not take them long to convince ingenuous and uncritical Americans
-that everything is splendidly regulated by German efficiency, and that
-if only the Belgians were complying, everything would be all right in
-Belgium. Are not the Belgians very ungrateful?
-
-"The Belgians do appreciate American generosity; they realize that
-almost the only rays of happiness that reach their country come from
-America. They will never forget it; that disinterested help coming from
-over the seas has a touch of romance; it is great and comforting; it is
-the bright and hopeful side of the war. The Belgians know how to value
-this. But, as to what the Germans are doing, good or not, they will
-never appreciate that--what does it matter? The Belgians do not care one
-bit for German reforms; they do not even deign to consider them; they
-simply ignore them. There is _one_--only one--reform that they will
-appreciate; the German evacuation. All the rest does not count. When
-the Germans speak of cleaning the country, the Belgians do not
-understand. From their point of view, there is only one way to clean
-it--and that is for the Germans to clear out.
-
-"The Germans are very disappointed that a certain number of Belgians
-have been able to escape, either to enlist in the Belgian army or to
-live abroad. Of course, the more Belgians are in their hands, the more
-pressure they can exert. They are now slandering the Belgians who have
-left their country--all the 'rich' people who are 'feasting' abroad
-while their countrymen are starving.
-
-"The fewer Belgians there are in German hands, the better it is. The
-Belgians whose ability is the most useful, are considered useful by the
-Germans for the latter's sake. Must it not be a terrible source of
-anxiety for these Belgians to think that all the work they manage to do
-is directly or indirectly done for Germany? It is not astonishing that
-she wants to restore 'business, as usual' in Belgium, and that in many
-cases she has tried to force the Belgian workers to earn for her. Let
-me simply refer to the protest recently published by the Belgian
-Legation. But for the American Commission for Relief, the Belgians would
-have had to choose between starvation and work--work for
-Germany--starvation or treason. Nothing shows better the greatness and
-moment of the American work. Without the material and moral presence of
-the United States, Belgium would have simply been turned into a nation
-of slaves--starvation or treason.
-
-"If I were in Belgium, I could say nothing; I would have to choose
-between silence and prison, or silence and death. Remember Edith Cavell.
-An enthusiastic, courageous man is running as many risks in Belgium now,
-as he would have in the sixteenth century under the Spanish domination.
-The hundred eyes of the Spanish Inquisition were then continually prying
-into everything--bodies and souls; one felt them even while one was
-sleeping. The German Secret Service is not less pitiless and it is more
-efficient.
-
-"The process of slander and lie carried on by the Germans to 'flatten'
-Belgium is, to my judgment, the worst of their war practices. It is
-very efficient indeed. But, however efficient it may be, it will be
-unsuccessful as to its main purpose. The Germans will not be able to bow
-Belgian heads. As long as the Belgians do not admit that they have been
-conquered, they are not conquered, and in the meanwhile the Germans are
-merely aggravating their infamy. It was an easy thing to over-run the
-unprepared Belgian soil--but the Belgian spirit is unconquerable.
-
-"Belgium may slumber, but die--never."
-
-When men act as part of an implacable machine, they act apart from their
-humanity. They commit unbelievable horrors, because the thing that moves
-them is raw force, untouched by fine purpose and the elements of mercy.
-When I think of Germans, man by man, as they lay wounded, waiting for us
-to bring them in and care for them as faithfully as for our own, I know
-that they have become human in their defeat. We are their friends as we
-break them. In spite of their treachery and cruelty and cold hatred, we
-shall save them yet. Cleared of their evil dream and restored to our
-common humanity, they will have a more profound sorrow growing out of
-this war than any other people, for Belgium and France only suffered
-these things, but the great German race committed them.
-
-
-
-
-MY EXPERIENCE WITH BAEDEKER
-
-
-When I went to Belgium, friends said to me, "You must take 'Baedeker's
-Belgium' with you; it is the best thing on the country." So I did. I
-used it as I went around. The author doesn't give much about himself,
-and that is a good feature in any book, but I gathered he was a German,
-a widely traveled man, and he seems to have spent much time in Belgium,
-for I found intimate records of the smallest things. I used his guide
-for five months over there. I must say right here I was disappointed in
-it. And that isn't just the word, either. I was annoyed by it. It gave
-all the effect of accuracy, and then when I got there it wasn't so. He
-kept speaking of buildings as "beautiful," "one of the loveliest
-unspoiled pieces of thirteenth century architecture in Europe," and when
-I took a lot of trouble and visited the building, I found it half down,
-or a butt-end, or sometimes ashes. I couldn't make his book tally up.
-It doesn't agree with the landscape and the look of things. He will take
-a perfectly good detail and stick it in where it doesn't belong, and
-leave it there. And he does it all in a painstaking way and with evident
-sincerity.
-
-His volume had been so popular back in his own country that it had
-brought a lot of Germans into Belgium. I saw them everywhere. They were
-doing the same thing I was doing, checking up what they saw with the map
-and text and things. Some of them looked puzzled and angry, as they went
-around. I feel sure they will go home and give Baedeker a warm time,
-when they tell him they didn't find things as he had represented.
-
-For one thing, he makes out Belgium a lively country, full of busy,
-contented people, innocent peasants, and sturdy workmen and that sort of
-thing. Why, it's the saddest place in the world. The people are not
-cheery at all. They are depressed. It's the last place I should think of
-for a holiday, now that I have seen it. And that's the way it goes, all
-through his work. Things are the opposite of what he says with so much
-meticulous care. He would speak of "gay café life" in a place that
-looked as if an earthquake had hit it, and where the only people were
-some cripples and a few half-starved old folks. If he finds that sort of
-thing gay as he travels around, he is an easy man to please. It was so
-wherever I went. It isn't as if he were wrong at some one detail. He is
-wrong all over the place, all over Belgium. It's all different from the
-way he says it is. I know his fellow-countrymen who are there now will
-bear me out in this.
-
-Let me show one place. I took his book with me and used it on Nieuport.
-That's a perfectly fair test, because Nieuport is like a couple of
-hundred other towns.
-
-"Nieuport," says Herr Baedeker, "a small and quiet place on the Yser."
-
-It is one of the noisiest places I have ever been in. There was a day
-and a half in May when shells dropped into the streets and houses, every
-minute. Every day at least a few screaming three-inch shells fall on the
-village. Aëroplanes buzz overhead, shrapnel pings in the sky. Rifle
-bullets sing like excited telegraph wires. If Baedeker found Nieuport
-a quiet place, he was brought up in a boiler factory.
-
-[Illustration: Baedeker, the distinguished German writer, states that
-this Fifteenth Century Gothic church in Nieuport has "a modern timber
-roof." We looked for it.]
-
-His very next phrase puzzled me--"with 3500 inhabitants," he says.
-
-And I didn't see one. There were dead people in the ruins of the houses.
-The soldiers used to unearth them from time to time. I remember that the
-poet speaks of "the poor inhabitant below," when he is writing of a body
-in a grave. It must be in that sense that Baedeker specifies those 3500
-inhabitants. But he shouldn't do that kind of imaginative touch. It
-isn't in his line. And it might mislead people.
-
-Think of a stranger getting into Nieuport after dark on a wet night,
-with his mind all set on the three hotels Baedeker gives him a choice
-of.
-
-"All unpretending," he says.
-
-Just the wrong word. Why, those hotels are brick dust. They're flat on
-the ground. There isn't a room left. He means "demolished." He doesn't
-use our language easily. I can see that. It is true they are
-unpretending, but that isn't the first word you would use about them,
-not if you were fluent.
-
-Then he gives a detail that is unnecessary. He says you can sleep or eat
-there for a "franc and a half." That exactitude is out of place. It is
-labored. I ask you what a traveler would make of the "1½ fr. _pour
-diner_," when he came on that rubbish heap which is the Hotel of
-Hope--"Hotel de l'Espérance." That is like Baedeker, all through his
-volume. He will give a detail, like the precise cost of this dinner,
-when there isn't any food in the neighborhood. It wouldn't be so bad if
-he'd sketch things in general terms. That I could forgive. But it is too
-much when he makes a word-picture of a Flemish table d'hôte for a franc
-and a half in a section of country where even the cats are starving.
-
-His next statement is plain twisted. "Nieuport is noted for its
-obstinate resistance to the French."
-
-I saw French soldiers there every day. They were defending the place.
-His way of putting it stands the facts on their head.
-
-"And (is noted) for the 'Battle of the Dunes' in 1600."
-
-That is where the printer falls down. I was there during the Battle of
-the Dunes. The nine is upside down in the date as given.
-
-I wouldn't object so much if he were careless with facts that were
-harmless, like his hotels and his dinner and his dates. But when he
-gives bad advice that would lead people into trouble, I think he ought
-to be jacked up. Listen to this:
-
-"We may turn to the left to inspect the locks on the canals to Ostend."
-
-Baedeker's proposal here means sure death to the reader who tries it.
-That section is lined with machine guns. If a man began turning and
-inspecting, he would be shot. Baedeker's statement is too casual. It
-sounds like a suggestion for a leisurely walk. It isn't a sufficient
-warning against doing something which shortens life. The word "inspect"
-is unfortunate. It gives the reader the idea he is invited to nose
-around those locks, when he had really better quiet down and keep away.
-The sentries don't want him there. I should have written that sentence
-differently. His kind of unconsidered advice leads to a lot of sadness.
-
-"The Rue Longue contains a few quaint old houses."
-
-It doesn't contain any houses at all. There are some heaps of scorched
-rubble. "Quaint" is word painting.
-
-"On the south side of this square rises the dignified Cloth Hall."
-
-There is nothing dignified about a shattered, burned, tottering old
-building. Why will he use these literary words?
-
-"With a lately restored belfry."
-
-It seems as if this writer couldn't help saying the wrong thing. A
-Zouave gave us a piece of bronze from the big bell. It wasn't restored
-at all. It was on the ground, broken.
-
-"The church has a modern timber roof."
-
-There he goes again--the exact opposite of what even a child could see
-were the facts. And yet in his methodical, earnest way, he has tried to
-get these things right. That church, for instance, has no roof at all.
-It has a few pillars standing. It looks like a skeleton. I have a good
-photograph of it, which the reader can see on page 69. If Baedeker would
-stand under that "modern timber roof" in a rainstorm, he wouldn't think
-so much of it.
-
-"The Hotel de Ville contains a small collection of paintings."
-
-I don't like to keep picking on what he says, but this sentence is
-irritating. There aren't any paintings there, because things are
-scattered. You can see torn bits strewed around on the floor of the
-place, but nothing like a collection.
-
-I could go on like that, and take him up on a lot more details. But it
-sounds as if I were criticising. And I don't mean it that way, because I
-believe the man is doing his best. But I do think he ought to get out
-another edition of his book, and set these points straight.
-
-He puts a little poem on his title page:
-
-  Go, little book, God send thee good passage,
-  And specially let this be thy prayer
-  Unto them all that thee will read or hear,
-  Where thou art wrong, after their help to call,
-  Thee to correct in any part or all.
-
-That sounds fair enough. So I am going to send him these notes. But it
-isn't in "parts" he is "wrong." There is a big mistake somewhere.
-
-
-
-
-GOLDEN LADS
-
-  "Golden lads and girls all must,
-  As chimney-sweepers, come to dust."
-
-
-
-
-THE PLAY-BOYS OF BRITTANY
-
-LES FUSILIERS MARINS
-
-
-At times in my five months at the front I have been puzzled by the
-sacrifice of so much young life; and most I have wondered about the
-Belgians. I had seen their first army wiped out; there came a time when
-I no longer met the faces I had learned to know at Termonde and Antwerp
-and Alost. A new army of boys has dug itself in at the Yser, and the
-same wastage by gun-fire and disease is at work on them. One wonders
-with the Belgians if the price they pay for honor is not too high. There
-is a sadness in the eyes of Belgian boy soldiers that is not easy to
-face. Are we quite worthy of their sacrifice? Why should the son of
-Ysaye die for me? Are you, comfortable reader, altogether sure that
-Pierre Depage and André Simont are called on to spill their blood for
-your good name?
-
-Then one turns with relief to the Fusiliers Marins--the sailors with a
-rifle. Here are young men at play. They know they are the incomparable
-soldiers. The guns have been on them for fifteen months, but they remain
-unbroken. Twice in the year, if they had yielded, this might have been a
-short war. But that is only saying that if Brittany had a different
-breed of men the world and its future would contain less hope. They
-carry the fine liquor of France, and something of their own added for
-bouquet. They are happy soldiers--happy in their brief life, with its
-flash of daring, and happy in their death. It is still sweet to die for
-one's country, and that at no far-flung outpost over the seas and sands,
-but just at the home border. As we carried our wounded sailors down from
-Nieuport to the great hospital of Zuydcoote on the Dunkirk highway,
-there is a sign-board, a bridge, and a custom-house that mark the point
-where we pass from Belgium into France. We drove our ambulance with the
-rear curtain raised, so that the wounded men, lying on the stretchers,
-could be cheered by the flow of scenery. Sometimes, as we crossed that
-border-line, one of the men would pick it up with his eye, and would
-say to his comrade: "France! Now we are in France, the beautiful
-country."
-
-"What do you mean?" I asked one lad, who had brightened visibly.
-
-"The other countries," he said, "are flat and dirty. The people are of
-mixed races. France is not so."
-
-It has been my fortune to watch the sailors at work from the start of
-the war. I was in Ghent when they came there, late, to a hopeless
-situation. Here were youngsters scooped up from the decks, untrained in
-trenches, and rushed to the front; but the sea-daring was on them, and
-they knew obedience and the hazards. They helped to cover the retreat of
-the Belgians and save that army from annihilation by banging away at the
-German mass at Melle. Man after man developed a fatalism of war, and
-expressed it to us.
-
-"Nothing can hit you till your time," was often their way of saying it;
-"it's no use dodging or being afraid. You won't be hit till your shell
-comes." And another favorite belief of theirs that brought them cheer
-was this: "The shell that will kill you you won't hear coming. So
-you'll never know."
-
-These sailor lads thrive on lost causes, and it was at Ghent they won
-from the Germans their nickname of "Les demoiselles au pompon rouge."
-The saucy French of that has a touch beyond any English rendering of
-"the girls with the red pompon." "Les demoiselles au pompon rouge"
-paints their picture at one stroke, for they thrust out the face of a
-youngster from under a rakish blue sailor hat, crowned with a fluffy red
-button, like a blue flower with a red bloom at its heart. I rarely saw
-an aging _marin_. There are no seasoned troops so boyish. They wear open
-dickies, which expose the neck, full, hard, well-rounded. The older
-troops, who go laggard to the spading, have beards that extend down the
-collar; but a boy has a smooth, clean neck, and these sailors have the
-throat of youth. We must once have had such a race in our cow-boys and
-Texas rangers--level-eyed, careless men who know no masters, only
-equals. The force of gravity is heavy on an old man. But _marins_ are
-not weighted down by equipment nor muffled with clothing. They go
-bobbing like corks, as though they would always stay on the crest of
-things. And riding on top of their lightness is that absurd bright-red
-button in their cap. The armies for five hundred miles are sober,
-grown-up people, but here are the play-boys of the western front.
-
-From Ghent they trooped south to Dixmude, and were shot to pieces in
-that "Thermopylæ of the North."
-
-"Hold for four days," was their order.
-
-They held for three weeks, till the sea came down and took charge.
-During those three weeks we motored in and out to get their wounded.
-Nothing of orderly impression of those days remains to me. I have only
-flashes of the sailor-soldiers curved over and snaking along the
-battered streets behind slivers of wall, handfuls of them in the Hotel
-de Ville standing around waiting in a roar of noise and a bright blaze
-of burning houses--waiting till the shelling fades away.[C]
-
-Then for over twelve months they held wrecked Nieuport, and I have
-watched them there week after week. There is no drearier post on earth.
-One day in the pile of masonry thirty feet from our cellar refuge the
-sailors began throwing out the bricks, and in a few minutes they
-uncovered the body of a comrade. All the village has the smell of
-desolation. That smell is compounded of green ditch-water, damp plaster,
-wet clothing, blood, straw, and antiseptics. The nose took it as we
-crossed the canal, and held it till we shook ourselves on the run home.
-Thirty minutes a day in that soggy wreck pulled at my spirits for hours
-afterward. But those chaps stood up to it for twenty-four hours a day,
-lifting a cheery face from a stinking cellar, hopping about in the
-tangle, sleeping quietly when their "night off" comes. As our chauffeur
-drew his camera, one of them sprang into a bush entanglement, aimed his
-rifle, and posed.
-
-I recollect an afternoon when we had word of an attack. We were grave,
-because the Germans are strong and fearless.
-
-"Are they coming?" grinned a sailor. "Let them come. We are ready."
-
-We learned to know many of the Fusiliers Marins and to grow fond of
-them. How else could it be when we went and got them, sick and wounded,
-dying and dead, two, six, ten of them a day, for many weeks, and brought
-them in to the Red Cross post for a dressing, and then on to the
-hospital? I remember a young man in our ambulance. His right foot was
-shot away, and the leg above was wounded. He lay unmurmuring for all the
-tossing of the road over the long miles of the ride. We lifted him from
-the stretcher, which he had wet with his blood, into the white cot in
-"Hall 15" of Zuydcoote Hospital. The wound and the journey had gone
-deeply into his vitality. As he touched the bed, his control ebbed, and
-he became violently sick at the stomach. I stooped to carry back the
-empty stretcher. He saw I was going away, and said, "Thank you." I knew
-I should not see him again, not even if I came early next day.
-
-There is one unfading impression made on me by those wounded. If I call
-it good nature, I have given only one element in it. It is more than
-that: it is a dash of fun. They smile, they wink, they accept a light
-for their cigarette. It is not stoicism at all. Stoicism is a grim
-holding on, the jaws clenched, the spirit dark, but enduring. This is a
-thing of wings. They will know I am not making light of their pain in
-writing these words. I am only saying that they make light of it. The
-judgment of men who are soon to die is like the judgment of little
-children. It does not tolerate foolish words. Of all the ways of showing
-you care that they suffer there is nothing half so good as the gift of
-tobacco. As long as I had any money to spend, I spent it on packages of
-cigarettes.
-
-[Illustration: SAILORS LIFTING A WOUNDED COMRADE INTO THE
-MOTOR-AMBULANCE.]
-
-When the Marin officers found out we were the same people that had
-worked with them at Melle five months before, they invited my wife and
-three other nurses to luncheon in a Nieuport cellar. Their eye brightens
-at sight of a woman, but she is as safe with them as with a cowboy or a
-Quaker. The guests were led down into a basement, an eighteen foot room,
-six feet high. The sailors had covered the floor and papered the walls
-with red carpet. A tiny oil stove added to the warmth of that blazing
-carpet. More than twenty officers and doctors crowded into the room, and
-took seats at the table, lighted by two lamps. There were a dozen plates
-of _patisserie_, a choice of tea, coffee, or chocolate, all hot, white
-and red wine, and then champagne. An orderly lifted in a little wooden
-yacht, bark-rigged, fourteen inches long, with white painted sails. A
-nurse spilled champagne over the tiny ship, till it was drenched, and
-christened. The chief doctor made a speech of thanks. Then the ship went
-around the table, and each guest wrote her name on the sails. The party
-climbed out into the garden, where the shells were going high overhead
-like snowballs. In amongst the blackened flowers, a 16-inch shell had
-left a hole of fifty feet diameter. One could have dropped two motor
-cars into the cavity.
-
-Who but Marins would have devised a celebration for us on July 4? The
-commandant, the captain, and a brace of lieutenants opened eleven
-bottles of champagne in the Café du Sport at Coxyde in honor of our
-violation of neutrality. It was little enough we were doing for those
-men, but they were moved to graceful speech. We were hard put to it,
-because one had to tell them that much of the giving for a hundred years
-had been from France to us, and our showing in this war is hardly the
-equal of the aid they sent us when we were invaded by Hessian troops and
-a German king.
-
-Marins whom we know have the swift gratitude of simple natures, not too
-highly civilized to show when they are pleased. After we had sent a
-batch of their wounded by hospital train from Adinkerke, the two
-sailors, who had helped us, invited my American friend and me into the
-_estaminet_ across the road from the station, and bought us drinks for
-an hour. We had been good to their mates, so they wanted to be good to
-us.
-
-When we lived in barraquement, just back of the admiral's house, our
-cook was a Marin with a knack at omelettes. If we had to work through
-the night, going into black Nieuport, and down the ten-mile road to
-Zuydcoote, returning weary at midnight, a brave supper was laid out for
-us of canned meats, wines, and jellies--all set with the touch of one
-who cared. It was no hasty, slapped-down affair. We were carrying his
-comrades, and he was helping us to do it.
-
-It was an officer of a quite other regiment who, one time when we were
-off duty, asked us to carry him to his post in the Dunes. We made the
-run for him, and, as he jumped from the car, he offered us a franc.
-Marins pay back in friendship. The Red Cross station to which we
-reported, Poste de Secours des Marins, was conducted by Monsieur le
-Docteur Rolland, and Monsieur Le Doze. Our workers were standing guests
-at their officers' mess. The little sawed-off sailor in the Villa Marie
-where I was billetted made coffee for two of us each morning.
-
-Our friends have the faults of young men, flushed with life. They are
-scornful of feeble folk, of men who grow tired, who think twice before
-dying. They laugh at middle age. The sentries amuse them, the elderly
-chaps who duck into their caves when a few shells are sailing overhead.
-They have no charity for frail nerves. They hate races who don't rally
-to a man when the enemy is hitting the trail. They must wait for age to
-gain pity, and the Bretons will never grow old. They are killed too
-fast. And yet, as soon as I say that, I remember their rough pity for
-their hurt comrades. They are as busy as a hospital nurse in laying a
-blanket and swinging the stretcher for one of their own who has been
-"pinked." They have a hovering concern. I have had twenty come to the
-ambulance to help shove in a "blessé," and say good-by to him, and wave
-to him as long as the road left him in their sight. The wounded man,
-unless his back bound him down, would lift his head from the stretcher,
-to give back their greetings. It was an eager exchange between the whole
-men and the injured one. They don't believe they can be broken till the
-thing comes, and there is curiosity to see just what has befallen one
-like themselves.
-
-When it came my time to say good-by, my sailor friend, who had often
-stopped by my car to tell me that all was going well, ran over to share
-in the excitement. I told him I was leaving, and he gave me a smile of
-deep-understanding amusement. Tired so soon? That smile carried a live
-consciousness of untapped power, of the record he and his comrades had
-made. It showed a disregard of my personal feelings, of all adult human
-weakness. That was the picture I carried away from the Nieuport
-line--the smiling boy with his wounded arm, alert after his year of war,
-and more than a little scornful of one who had grown weary in conditions
-so prosperous for young men.
-
-I rode away from him, past the Coxyde encampment of his comrades. There
-they were as I had often seen them, with the peddlers cluttering their
-camp--candy men, banana women; a fringe of basket merchants about their
-grim barracks; a dozen peasants squatting with baskets of cigarettes,
-fruit, vegetables, foolish, bright trinkets. And over them bent the
-boys, dozens of them in blue blouses, stooping down to pick up trays,
-fingering red apples and shining charms, chaffing, dickering, shoving
-one another, the old loves of their childhood still tangled in their
-being.
-
-So when I am talking about the sailors as if they were heroes, suddenly
-something gay comes romping in. I see them again, as I have so often
-seen them in the dunes of Flanders, and what I see is a race of
-children.
-
-"Don't forget we are only little ones," they say. "We don't die; we are
-just at play."
-
-
-
-
-"ENCHANTED CIGARETTES"
-
-
-Where does the comfort of the trenches lie? What solace do the soldiers
-find for a weary life of unemployment and for sudden death? Of course,
-they find it in the age-old things that have always sufficed, or, if
-these things do not here altogether suffice, at least they help. For a
-certain few out of every hundred men, religion avails. Some of our dying
-men were glad of the last rites. Some wore their Catholic emblems. The
-quiet devout men continued faithful as they had been at home. Art is
-playing the true part it plays at all times of fundamental need. The men
-busy themselves with music, with carving, and drawing. Security and
-luxury destroy art, for it is no longer a necessity when a man is
-stuffed with foods, and his fat body whirled in hot compartments from
-point to point of a tame world. But when he tumbles in from a gusty
-night out of a trenchful of mud, with the patter from slivers of shell,
-then he turns to song and color, odd tricks with the knife, and the
-tales of an ancient adventure. After our group had brought food and
-clothing to a regiment, I remember the pride with which one of the
-privates presented to our head nurse a sculptured group, done in mud of
-the Yser.
-
-But the greatest thing in the world to soldiers is plain comradeship.
-That is where they take their comfort. And the expression of that
-comradeship is most often found in the social smoke. The meager
-happiness of fighting-men is more closely interwoven with tobacco than
-with any other single thing. To rob them of that would be to leave them
-poor indeed. It would reduce their morale. It would depress their cheery
-patience. The wonder of tobacco is that it fits itself to each one of
-several needs. It is the medium by which the average man maintains
-normality at an abnormal time. It is a device to soothe jumping nerves,
-to deaden pain, to chase away brooding. Tobacco connects a man with the
-human race, and his own past life. It gives him a little thing to do in
-a big danger, in seeping loneliness, and the grip of sharp pain. It
-brings back his café evenings, when black horror is reaching out for
-him.
-
-If you have weathered around the world a bit, you know how everywhere
-strange situations turn into places for plain men to feel at home.
-Sailors on a Nova Scotia freight schooner, five days out, sit around in
-the evening glow and take a pipe and a chat with the same homely
-accustomedness, as if they were at a tavern. It is so in the jungle and
-at a lumber camp. Now, that is what the millions of average men have
-done to war. They have taken a raw, disordered, muddied, horrible thing,
-and given it a monotony and regularity of its own. They have smoked away
-its fighting tension, its hideous expectancy. They refuse to let
-mangling and murder put crimps in their spirit. Apparently there is
-nothing hellish enough to flatten the human spirit. Not all the
-sprinkled shells and caravans of bleeding victims can cow the boys of
-the front line. In this work of lifting clear of horror, tobacco has
-been a friend to the soldiers of the Great War.
-
-"I wouldn't know a good cigarette if I saw it," said Geoffrey Gilling,
-after a year of ambulance work at Fumes and Coxyde. He had given up all
-that makes the life of an upper-class Englishman pleasant, and I think
-that the deprivation of high-grade smoking material was a severe item in
-his sacrifice.
-
-Four of us in Red Cross work spent weary hours each day in a filthy room
-in a noisy wine-shop, waiting for fresh trouble to break loose. The
-dreariness of it made B---- petulant and T---- mournfully silent, and
-finally left me melancholy. But sturdy Andrew MacEwan, the Scotchman
-with the forty-inch barrel chest, would reach out for his big can of
-naval tobacco, slipped to him by the sailors at Dunkirk when the
-commissariat officer wasn't looking, and would light his short stocky
-pipe, shaped very much like himself, and then we were all off together
-on a jaunt around the world. He had driven nearly all known "makes" of
-motor-car over most of the map, apparently about one car to each
-country. Twelve months of bad roads in a shelled district had left him
-full of talk, as soon as he was well lit.
-
-Up at Nieuport, last northern stand of the Allied line, a walking
-merchant would call each day, a basket around his throat, and in the
-hamper chocolate, fruit, and tobacco. A muddy, unshaven Brittany
-sailor, out of his few sous a week, bought us cigars. The less men have,
-the more generous they are. That is an old saying, but it drove home to
-me when I had poor men do me courtesy day by day for five months. As we
-motored in and out of Nieuport in the dark of the night, we passed
-hundreds of silent men trudging through the mud of the gutter. They were
-troops that had been relieved who were marching back for a rest. As soon
-as they came out of the zone where no sound can be made and no light
-shown, we saw here and there down the invisible ranks the sudden flare
-of a match, and then the glow in the cup of the hand, as the man
-prepared to cheer himself.
-
-A more somber and lonely watch even than that of these French sailors
-was the vigil kept by our good Belgian friend, Commandant Gilson, in the
-shattered village of Pervyse. With his old Maltese cat, he prowled
-through the wrecked place till two and three of the morning, waiting for
-Germans to cross the flooded fields. For him cigarettes were an endless
-chain that went through his life. From the expiring stub he lit his
-fresh smoke, as if he were maintaining a vestal flame. He kept puffing
-till the live butt singed his upturned mustache. He squinted his eyes to
-escape the ascending smoke.
-
-Always the cigarette for him and for the other men. Our cellar of nurses
-in Pervyse kept a stock of pipes and of cigarettes ready for tired
-soldiers off duty. The pipes remained as intact as a collection in a
-museum. The cigarettes never equaled the demand. We once took out a
-carful of supplies to 300 Belgian soldiers. We gave them their choice of
-cigarettes or smoking tobacco, and about 250 of them selected
-cigarettes. That barrack vote gives the popularity of the cigarette
-among men of French blood. Some cigars, some pipes, but everywhere the
-shorter smoke. Tobacco and pipe exhaust precious pocket room. The
-cigarette is portable. Cigars break and peel in the kneading motion of
-walking and crouching. But the cigarette is protected in its little box.
-And yet, rather than lose a smoke, a soldier will carry one lonesome
-cigarette, rained on and limp and fraying at the end, drag it from the
-depths of a kit, dry it out, and have a go. For, after all, it isn't
-for theoretical advantages over larger, longer smokes he likes it, but
-because it is fitted to his temperament. It is a French and Belgian
-smoke, short-lived and of a light touch, as dear to memory and liking as
-the wines of La Champagne.
-
-Twice, in dramatic setting, I have seen tobacco intervene to give men a
-release from overstrained nerves. Once it was at a skirmish. Behind a
-street defense, crouched thirty Belgian soldiers. Shrapnel began to
-burst over us, and the bullets tumbled on the cobbles. With each puff of
-the shrapnel, like a paper bag exploding, releasing a handful of white
-smoke, the men flattened against the walls and dove into the open doors.
-The sound of shrapnel is the same sound as hailstones, a crisp crackle
-as they strike and bounce. We ran and picked them up. They were blunted
-by smiting on the paving. Any one of them would have plowed into soft
-flesh and found the bone and shattered it. They seem harmless because
-they make so little noise. They don't scream and wail and thunder. Our
-guns, back on the hillocks of the Ghent road, grew louder and more
-frequent. Each minute now was cut into by a roar, or a fainter rumble.
-The battle was on. Our barricaded street was a pocket in the storm, like
-the center of a typhoon.
-
-Yonder we could see the canal, fifty feet away, at the foot of our
-street. On the farther side behind the river front houses lay the
-Germans, ready to sally out and charge. It would be all right if they
-came quickly. But a few hours of waiting for them on an empty stomach,
-and having them disappoint us, was wearing. We wished they would hurry
-and have it over with, or else go away for good. Civilians stumbling and
-bleeding went past us.
-
-And that was how the morning went by, heavy footed, unrelieved, with a
-sense of waiting for a sudden crash and horror. It was peaceful, in a
-way, but, at the heart of the calm, a menace. So we overlaid the tension
-with casual petty acts. We made an informal pool of our resources in
-tobacco, each man sharing with his neighbor, till nearly every one of us
-was puffing away, and deciding there was nothing to this German attack,
-after all. A smoke makes just the difference between sticking it out or
-acting the coward's part.
-
-Each one of us in a lifetime has a day of days, when external event is
-lively, and our inner mood dances to the tune. Some of us will perhaps
-always feel that we spent our day on October 21, 1914. For we were
-allowed to go into a town that fell in that one afternoon and to come
-out again alive. It was the afternoon when Dixmude was leveled from a
-fair upstanding city to a heap of scorched brick and crumbled plaster.
-The enemy guns from over the Yser were accurate on its houses.
-
-We received our first taste of the dread to come, while we were yet a
-little way out. In the road ahead of us, a shell had just splashed an
-artillery convoy. Four horses, the driver, and the splintered wood of
-the wagon were all worked together into one pulp, so that our car
-skidded on it. We entered the falling town of Dixmude. It was a thick
-mess into which we rode, with hot smoke and fine masonry dust blowing
-into the eyes. Houses around us crumpled up at one blast, and then shot
-a thick brown cloud of dust, and out of the cloud a high central flame
-that leaped and spread. With the wailing of shells in the air, every
-few seconds, the thud and thunder of their impact, the scattering of the
-shattered metal, it was one of the hot, thorough bombardments of the
-war. It cleared the town of troops, after tearing their ranks. But it
-left wounded men in the cellar of the Hotel de Ville. The Grand Place
-and the Hotel were the center of the fire. Here we had to wait fifteen
-minutes, while the wounded were made ready for our two cars. It was then
-we turned to tobacco as to a friend. I remember the easement that came
-when I found I had cigars in my waistcoat pocket. The act of lighting a
-cigar, and pulling at it briskly, was a relief.
-
-There was a second of time when we could hear a shell, about to burst
-close, before it struck. It came, sharpening its nose on the air, making
-a shrill whistle with a moan in it, that gathered volume as it neared.
-There was a menace in the sound. It seemed to approach in a vast
-enveloping mass that can't be escaped, filling all out-doors, and sure
-to find you. It was as if the all-including sound were the missile
-itself, with no hiding place offered. And yet the shell is generally a
-little three-or-four inch thing, like a flower-pot, hurtling through
-the scenery. But bruised nerves refuse to listen to reason, and again
-and again I ducked as I heard that high wail, believing I was about to
-be struck.
-
-[Illustration: DOOR CHALKED BY THE GERMANS.
-
-One of the 100 houses in Termonde with the direction "Do not Burn"
-written in German. One thousand one hundred houses were burned, house by
-house. Photograph by Radclyffe Dugmore.]
-
-In that second of tension, it was a pleasant thing to draw in on a
-butt--to discharge the smoke, a second later, carelessly, as who should
-say, "It is nothing." The little cylinder was a lightning conductor to
-lead away the danger from a vital part. It let the nervousness leak off
-into biting and puffing, and making a play of fingering the stub,
-instead of striking into the stomach and the courage. It gave the
-troubled face something to do, and let the writhing hand busy itself. It
-saved me from knowing just how frightened I was.
-
-But what of the wounded themselves? They have to endure all that
-dreariness of long waiting, and the pressure of danger, and then, for
-good measure, a burden of pain. So I come to the men who are revealing
-human nature at a higher pitch than any others in the war. The
-trench-digging, elderly chaps are patient and long-enduring, and the
-fighting men are as gallant as any the ballad-mongers used to rime
-about.
-
-But it is of the wounded that one would like to speak in a way to win
-respect for them rather than pity. I think some American observers have
-missed the truth about the wounded. They have told of the groaning and
-screaming, the heavy smells, the delays and neglect. It is a picture of
-vivid horror. But the final impression left on me by caring for many
-hundred wounded men is that of their patience and cheeriness. I think
-they would resent having a sordid pen picture made of their suffering
-and letting it go at that. After all, it is their wound: they suffered
-it for a purpose, and they conquer their bodily pain by will power and
-the Gallic touch of humor. Suffering borne nobly merits something more
-than an emphasis on the blood and the moan. To speak of these wounded
-men as of a heap of futile misery is like missing the worthiness of
-motherhood in the details of obstetrics.
-
-It was thought we moderns had gone soft, but it seems we were storing up
-reserves of stoic strength and courage. This war has drawn on them more
-heavily than any former test, and they have met all its demands.
-Sometimes, being tired, I would drop my corner of the stretcher, a few
-inches suddenly. This would draw a quick intake of the breath from the
-hurt man and an "aahh"--but not once a word of blame. I should want to
-curse the careless hand that wrenched my wound, but these soldiers of
-France and Belgium whom I carried had passed beyond littleness.
-
-Once we had a French Zouave officer on the stretcher. He was wounded in
-the right arm and the stomach. Every careen of the ambulance over cobble
-and into shell-hole was a thrust into his hurt. We had to carry him all
-the way from the Nieuport cellar to Zuydcoote Hospital, ten miles. The
-driver was one more of the American young men who have gone over into
-France to pay back a little of what we owe her. I want to give his name,
-Robert Cardell Toms, because it is good for us to know that we have
-brave and tender gentlemen. On this long haul, as always, he drove with
-extreme care, changing his speed without the staccato jerk, avoiding
-bumps and holes of the trying road. When we reached the hospital, he
-ran ahead into the ward to prepare the bed. The officer beckoned me to
-him. He spoke with some difficulty, as the effort caught him in the
-wound of his stomach.
-
-"Please be good enough," he said, "to give my thanks to the chauffeur.
-He has driven me down with much consideration. He cares for wounded
-men."
-
-Where other races are grateful and inarticulate, the French are able to
-put into speech the last fine touch of feeling.
-
-My friend kept a supply of cigarettes for his ambulance cases, and as
-soon as the hour-long drive began we dealt them out to the bandaged men.
-How often we have started with a groaning man for the ride to Zuydcoote,
-and how well the trip went, when we had lighted his cigarette for him.
-It brought back a little of the conversation and the merriment which it
-had called out in better days. It is such a relief to be wounded. You
-have done your duty, and now you are to have a little rest. With a clear
-conscience, you can sink back into laziness, far away from noise and
-filth. Luck has come along and pulled the pack off your back, and the
-responsibility from your sick mind. No weary city clerk ever went to his
-seashore holiday with more blitheness than some of our wounded showed as
-they came riding in from the Nieuport trenches at full length on the
-stretcher, and singing all the way. What is a splintered forehead or a
-damaged leg compared to the happiness of an honorable discharge? Nothing
-to do for a month but lie quietly, and watch the wholesome, clean-clad
-nurse. I am not forgetting the sadness of many men, nor the men hurt to
-death, who lay motionless and did not sing, and some of whom died while
-we were on the road to help. I am only trying to tell of the one man in
-every four who was glad of his enforced rest, and who didn't let a
-little thing like agony conquer his gaiety. Those men were the Joyous
-Wounded. I have seldom seen men more light hearted.
-
-Word came to my wife one day that several hundred wounded were
-side-tracked at Furnes railway station. With two nurses she hurried to
-them, carrying hot soup. The women went through the train, feeding the
-soldiers, giving them a drink of cold water, and bringing some of them
-hot water for washing. Then, being fed, they were ready for a smoke, and
-my wife began walking down the foul-smelling ambulance car with boxes of
-supplies, letting each man take out a cigarette and a match. The car was
-slung with double layers of stretcher bunks. Some men were freshly
-wounded, others were convalescent. A few lay in a stupor. She provided
-ten or a dozen soldiers with their pleasure, and they lighted up and
-were well under way. She had so many patients that day that she was not
-watching the individual man in her general distribution. She came half
-way down the car, and held out her store to a soldier without looking at
-him. He glanced up and grinned. The men in the bunks around him laughed
-heartily. Then she looked down at him. He was flapping the two stumps of
-his arms and was smiling. His hands had been blown off. She put the
-cigarette in his mouth and lit it for him. Only his hands were gone.
-Comradeship was left for him, and here was the lighted cigarette
-expressing that comradeship.
-
-
-
-
-WAS IT REAL?
-
-
-The man was an old-time friend. In the days of our youth, we had often
-worked together. He was small and nervous, with a quick eye. He always
-wore me down after a few hours, because he was restless and untiring. He
-was named Romeyn Rossiter--one of those well-born names. We had met in
-times before the advent of the telescopic lens, and he used a box
-camera, tuned to a fiftieth of a second. Together we snapped polo
-ponies, coming at full tilt after the ball, riding each other off, while
-he would stand between the goal-posts, as they zigzagged down on him. I
-had to shove him out of the way, at the last tick, when the hoofs were
-loud. I often wondered if those ponies didn't look suddenly large and
-imminent on the little glass rectangle into which he was peering. That
-was the kind of person he was. He was glued to his work. He was a
-curious man, because that nerve of fear, which is well developed in most
-of us, was left out of his make-up. No credit to him. It merely wasn't
-there. He was color-blind to danger. He had spent his life everywhere by
-bits, so he had the languages. I used to admire that in him, the way he
-could career along with a Frenchman, and exchange talk with a German
-waiter: high speed, and a kind of racy quality.
-
-I used to write the text around his pictures, captions underneath them,
-and then words spilled out over the white paper between his six by tens.
-We published in the country life magazines. They gave generous big
-display pages. In those days people used to read what I wrote, because
-they wanted to find out about the pictures, and the pictures were fine.
-You must have seen Rossiter's work--caribou, beavers, Walter Travis
-coming through with a stroke, and Holcombe Ward giving a twist delivery.
-We had the field to ourselves for two or three years, before the other
-fellows caught the idea, and broke our partnership. I turned to
-literature, and he began drifting around the world for long shots. He'd
-be gone six months, and then turn up with big game night pictures out of
-Africa--a lion drinking under a tropical moon. Two more years, and I
-had lost him entirely. But I knew we should meet. He was one of those
-chaps that, once in your life, is like the _motif_ in an opera, or like
-the high-class story, which starts with an insignificant loose brick on
-a coping and ends with that brick smiting the hero's head.
-
-It was London where I ran into him at last.
-
-"Happy days?" I said, with a rising inflection.
-
-"So, so," he answered.
-
-He was doing the free-lance game. He had drifted over to England with
-his $750 moving-picture machine to see what he could harvest with a
-quiet eye, and they had rung in the war on him. He wasn't going to be
-happy till he could get the boys in action. Would I go to Belgium with
-him? I would.
-
-Next day, we took the Channel ferry from Dover to Ostend, went by train
-to Ghent, and trudged out on foot to the battle of Alost.
-
-Those were the early days of the war when you could go anywhere, if you
-did it nicely. The Belgians are a friendly people. They can't bear to
-say No, and if they saw a hard-working man come along with his eye on
-his job, they didn't like to turn him back, even if he was mussing up an
-infantry formation or exposing a trench. They'd rather share the risk,
-as long as it brought him in returns.
-
-When we footed it out that morning, we didn't know we were in for one of
-the Famous Days of history. You never can tell in this war. Sometimes
-you'll trot out to the front, all keyed up, and then sit around among
-the "Set-Sanks" for a month playing pinochle, and watching the flies
-chase each other across the marmalade. And then a sultry dull day will
-suddenly show you things....
-
-Out from the Grand Place of Alost radiate narrow little streets that run
-down to the canal, like spokes of a wheel. Each little street had its
-earthworks and group of defenders. Out over the canal stretched
-footbridges, and these were thickly sown with barbed wire.
-
-"Great luck," said Rossiter. "They're making an old-time barricade. It's
-as good as the days of the Commune. Do you remember your street-fighting
-in Les Miserables?"
-
-"I surely do," I replied. "Breast high earthworks, and the 'citizens'
-crouched behind under the rattle of bullets."
-
-"This is going to be good," he went on in high enthusiasm. The soldiers
-were rolling heavy barrels to the gutter, and knocking off the heads.
-The barrels were packed with fish, about six inches long, with scales
-that went blue and white in the fresh morning light. The fish slithered
-over the cobbles, and the soldiers stumbled on their slippery bodies.
-They set the barrels on end, side by side, and heaped the cracks between
-and the face with sods of earth, thick-packed clods, with grass growing.
-The grass was bright green, unwilted. A couple of peasant hand-carts
-were tilted on end, and the flooring sodded like the barrels.
-
-"Look who's coming," pointed Rossiter, swiveling his lens sharply
-around.
-
-Steaming gently into our narrow street from the Grand Place came a great
-Sava mitrailleuse--big steel turret, painted lead blue, three men
-sitting behind the swinging turret. One of the men, taller by a head
-than his fellows, had a white rag bound round his head, where a bullet
-had clipped off a piece of his forehead the week before. His face was
-set and pale. Sitting on high, in the grim machine, with his bandage
-worn as a plume, he looked like the presiding spirit of the fracas.
-
-"It's worth the trip," muttered Romeyn, grinding away on his crank.
-
-There was something silent and efficient in the look of the big man and
-the big car, with its slim-waisted, bright brass gun shoving through.
-
-"Here, have a cigarette," said Rossiter, as the powerful thing glided
-by.
-
-He passed up a box to the three gunners.
-
-"_Bonne chance_," said the big man, as he puffed out rings and fondled
-the trim bronze body of his Lady of Death. They let the car slide down
-the street to the left end of the barricade, where it came to rest.
-
-Over the canal, out from the smoke-misted houses, came a peasant
-running. In his arms he carried a little girl. Her hair was light as
-flax, and crested with a knot of very bright red ribbon. Hair and gay
-ribbon caught the eye, as soon as they were borne out of the doomed
-houses. The father carried the little one to the bridge at the foot of
-our street, and began crossing towards us. The barbed wire looked angry
-in the morning sun. He had to weave his way patiently, with the child
-held flat to his shoulder. Any hasty motion would have torn her face on
-the barbs. Shrapnel was sailing high overhead between the two forces,
-and there, thirty feet under the crossfire, this man and his child
-squirmed their way through the barrier. They won through, and were
-lifted over the barricade. As the father went stumbling past me, I
-looked into the face of the girl. Her eyes were tightly closed. She
-nestled contentedly.
-
-"Did you get it, man? Did you get it?" I asked Rossiter.
-
-"Too far," he replied, mournfully, "only a dot at that distance."
-
-Now, all the parts had fitted into the pattern, the gay green grass
-growing out of the stacked barrels and carts, and the sullen, silent,
-waiting mitrailleuse which can spit death in a wide swathe as it
-revolves from side to side, like the full stroke of a scythe on nodding
-daisies. The bark of it is as alarming as its bite--an incredibly rapid
-rat-tat that makes men fall on their faces when they hear, like
-worshipers at the bell of the Transubstantiation.
-
-"She talks three hundred words to the minute," said Romeyn to me.
-
-"How are you coming?" I asked.
-
-"Great," he answered, "great stuff. Now, if only something happens."
-
-He had planted his tripod fifty feet back of the barricade, plumb
-against a red-brick, three-story house, so that the lens raked the
-street and its defenses diagonally. Thirty minutes we waited, with shell
-fire far to the right of us, falling into the center of the town with a
-rumble, like a train of cars heard in the night, when one is half
-asleep. That was the sense of things to me, as I stood in the street,
-waiting for hell to blow off its lid. It was a dream world, and I was
-the dreamer, in the center of the strange unfolding sight, seeing it all
-out of a muffled consciousness.
-
-Another quarter hour, and Rossiter began to fidget.
-
-"Do you call this a battle?" he asked.
-
-"The liveliest thing in a month," replied the lieutenant.
-
-"We've got to brisk it up," Rossiter said. "Now, I tell you what we'll
-do. Let's have a battle that looks something like. These real things
-haven't got speed enough for a five-cent house."
-
-In a moment, all was action. Those amazing Belgians, as responsive as
-children in a game, fell to furiously to create confusion and swift
-event out of the trance of peace. The battered giant in the Sava
-released a cloud of steam from his car. The men aimed their rifles in
-swift staccato. The lieutenant dashed back and forth from curb to curb,
-plunging to the barricade, and then to the half dozen boys who were
-falling back, crouching on one knee, firing, and then retreating. He
-cheered them with pats on the shoulder, pointed out new unsuspected
-enemies. Then, man by man, the thirty perspiring fighters began to
-tumble. They fell forward on their faces, lay stricken on their backs,
-heaved against the walls of houses, wherever the deadly fire had caught
-them. The street was littered with Belgian bodies. There stood Rossiter
-grinding away on his handle, snickering green-clad Belgians lying strewn
-on the cobbles, a half dozen of them tense and set behind the barricade,
-leveling rifles at the piles of fish. Every one was laughing, and all of
-them intent on working out a picture with thrills.
-
-The enemy guns had been growing menacing, but Rossiter and the Belgians
-were very busy.
-
-"The shells are dropping just back of us," I called to him.
-
-"Good, good," he said, "but I haven't time for them just yet. They must
-wait. You can't crowd a film."
-
-Ten minutes passed.
-
-"It is immense," began he, wiping his face and lighting a smoke, and
-turning his handle. "Gentlemen, I thank you."
-
-"Gentlemen, we thank you," I said.
-
-"There's been nothing like it," he went on. "Those Liège pictures of
-Wilson's at the Hippodrome were tame."
-
-He'd got it all in, and was wasting a few feet for good measure.
-Sometimes you need a fringe in order to bring out the big minute in your
-action.
-
-[Illustration: STREET FIGHTING IN ALOST.
-
-This is part of the motion-picture which we took while the Germans were
-bombarding the town.]
-
-Suddenly, we heard the wailing overhead and louder than any of the other
-shells. Louder meant closer. It lasted a second of time, and then
-crashed into the second story of the red house, six feet over Rossiter's
-head. A shower of brown brick dust, and a puff of gray-black smoke
-settled down over the machine and man, and blotted him out of sight for
-a couple of seconds. Then we all coughed and spat, and the air cleared.
-The tripod had careened in the fierce rush of air, but Rossiter had
-caught it and was righting it. He went on turning. His face was streaked
-with black, and his clothes were brown with dust.
-
-"Trying to get the smoke," he called, "but I'm afraid it won't
-register."
-
-Maybe you want to know how that film took. We hustled it back to London,
-and it went with a whizz. One hundred and twenty-six picture houses
-produced "STREET FIGHTING IN ALOST." The daily illustrated
-papers ran it front page. The only criticism of it that I heard was
-another movie man, who was sore--a chap named Wilson.
-
-"That picture is faked," he asserted.
-
-"I'll bet you," I retorted, "that picture was taken under shell fire
-during the bombardment of Alost. That barricade is the straight goods.
-The fellow that took it was shot full of gas while he was taking it.
-What's your idea of the real thing?"
-
-"That's all right," he said; "the ruins are good, and the smoke is
-there. But I've seen that reel three times, and every time the dead man
-in the gutter laughed."
-
-
-
-
-"CHANTONS, BELGES! CHANTONS!"
-
-
-Here at home I am in a land where the wholesale martyrdom of Belgium is
-regarded as of doubtful authenticity. We who have witnessed widespread
-atrocities are subjected to a critical process as cold as if we were
-advancing a new program of social reform. I begin to wonder if anything
-took place in Flanders. Isn't the wreck of Termonde, where I thought I
-spent two days, perhaps a figment of the fancy? Was the bayoneted girl
-child of Alost a pleasant dream creation? My people are busy and
-indifferent, generous and neutral, but yonder several races are living
-at a deeper level. In a time when beliefs are held lightly, with tricky
-words tearing at old values, they have recovered the ancient faiths of
-the race. Their lot, with all its pain, is choicer than ours. They at
-least have felt greatly and thrown themselves into action. It is a stern
-fight that is on in Europe, and few of our countrymen realize it is our
-fight that the Allies are making.
-
-Europe has made an old discovery. The Greek Anthology has it, and the
-ballads, but our busy little merchants and our clever talkers have never
-known it. The best discovery a man can make is that there is something
-inside him bigger than his fear, a belief in something more lasting than
-his individual life. When he discovers that, he knows he, too, is a man.
-It is as real for him as the experience of motherhood for a woman. He
-comes out of it with self-respect and gladness.
-
-The Belgians were a soft people, pleasure-loving little chaps, social
-and cheery, fond of comfort and the café brightness. They lacked the
-intensity of blood of unmixed single strains. They were cosmopolitan,
-often with a command over three languages and snatches of several
-dialects. They were easy in their likes. They "made friends" lightly.
-They did not have the reserve of the English, the spiritual pride of the
-Germans. Some of them have German blood, some French, some Dutch. Part
-of the race is gay and volatile, many are heavy and inarticulate; it is
-a mixed race of which any iron-clad generalization is false. But I have
-seen many thousands of them under crisis, seen them hungry, dying, men
-from every class and every region; and the mass impression is that they
-are affectionate, easy to blend with, open-handed, trusting.
-
-This kindly, haphazard, unformed folk were suddenly lifted to a national
-self-sacrifice. By one act of defiance Albert made Belgium a nation. It
-had been a mixed race of many tongues, selling itself little by little,
-all unconsciously, to the German bondage. I saw the marks of this
-spiritual invasion on the inner life of the Belgians--marks of a
-destruction more thorough than the shelling of a city. The ruins of
-Termonde are only the outward and visible sign of what Germany has
-attempted on Belgium for more than a generation.
-
-Perhaps it was better that people should perish by the villageful in
-honest physical death through the agony of the bayonet and the flame
-than that they should go on bartering away their nationality by
-piece-meal. Who knows but Albert saw in his silent heart that the only
-thing to weld his people together, honeycombed as they were, was the
-shedding of blood? Perhaps nothing short of a supreme sacrifice,
-amounting to a martyrdom, could restore a people so tangled in German
-intrigue, so netted into an ever-encroaching system of commerce,
-carrying with it a habit of thought and a mouthful of guttural phrases.
-Let no one underestimate that power of language. If the idiom has passed
-into one, it has brought with it molds of thought, leanings of sympathy.
-Who that can even stumble through the "_Marchons! Marchons_!" of the
-"Marseillaise" but is a sharer for a moment in the rush of glory that
-every now and again has made France the light of the world? So, when the
-German phrase rings out, "Was wir haben bleibt Deutsch"--"What we are
-now holding by force of arms shall remain forever German"--there is an
-answering thrill in the heart of every Antwerp clerk who for years has
-been leaking Belgian government gossip into German ears in return for a
-piece of money. Secret sin was eating away Belgium's vitality--the sin
-of being bought by German money, bought in little ways, for small bits
-of service, amiable passages destroying nationality. By one act of full
-sacrifice Albert has cleared his people from a poison that might have
-sapped them in a few more years without the firing of one gun.
-
-That sacrifice to which they are called is an utter one, of which they
-have experienced only the prelude. I have seen this growing sadness of
-Belgium almost from the beginning. I have seen thirty thousand refugees,
-the inhabitants of Alost, come shuffling down the road past me. They
-came by families, the father with a bag of clothes and bread, the mother
-with a baby in arms, and one, two, or three children trotting along.
-Aged women were walking, Sisters of Charity, religious brothers. A
-cartful of stricken old women lay patiently at full length while the
-wagon bumped on. They were so nearly drowned by suffering that one more
-wave made little difference. All that was sad and helpless was dragged
-that morning into the daylight. All that had been decently cared for in
-quiet rooms was of a sudden tumbled out upon the pavement and jolted
-along in farm-wagons past sixteen miles of curious eyes. But even with
-the sick and the very old there was no lamentation. In this procession
-of the dispossessed that passed us on the country road there was no one
-crying, no one angry.
-
-I have seen 5000 of these refugees at night in the Halle des Fêtes of
-Ghent, huddled in the straw, their faces bleached white under the glare
-of the huge municipal lights. On the wall, I read the names of the
-children whose parents had been lost, and the names of the parents who
-reported a lost baby, a boy, a girl, and sometimes all the children
-lost.
-
-A little later came the time when the people learned their last
-stronghold was tottering. I remember sitting at dinner in the home of
-Monsieur Caron, a citizen of Ghent. I had spent that day in Antwerp, and
-the soldiers had told me of the destruction of the outer rim of forts.
-So I began to say to the dinner guests that the city was doomed. As I
-spoke, I glanced at Madame Caron. Her eyes filled with tears. I turned
-to another Belgian lady, and had to look away. Not a sound came from
-them.
-
-[Illustration: BELGIAN OFFICER ON THE LAST STRIP OF HIS COUNTRY.]
-
-When the handful of British were sent to the rescue of Antwerp, we went
-up the road with them. There was joy on the Antwerp road that day.
-Little cottages fluttered flags at lintel and window. The sidewalks were
-thronged with peasants, who believed they were now to be saved. We rode
-in glory from Ghent to the outer works of Antwerp. Each village on all
-the line turned out its full population to cheer us ecstatically. A
-bitter month had passed, and now salvation had come. It is seldom in a
-lifetime one is present at a perfect piece of irony like that of those
-shouting Flemish peasants.
-
-As Antwerp was falling, a letter was given to me by a friend. It was
-written by Aloysius Coen of the artillery, Fort St. Catherine Wavre,
-Antwerp. He died in the bombardment, thirty-four years old. He wrote:
-
-     Dear wife and children:
-
-     At the moment that I am writing you this the enemy is before us,
-     and the moment has come for us to do our duty for our country. When
-     you will have received this I shall have changed the temporary life
-     for the eternal life. As I loved you all dearly, my last breath
-     will be directed toward you and my darling children, and with a
-     last smile as a farewell from my beloved family am I undertaking
-     the eternal journey.
-
-     I hope, whatever may be your later call, you will take good care of
-     my dear children, and always keep them in mind of the straight
-     road, always ask them to pray for their father, who in sadness,
-     though doing his duty for his country, has had to leave them so
-     young.
-
-     Say good-by for me to my dear brothers and sisters, from whom I
-     also carry with me a great love.
-
-     Farewell, dear wife, children, and family.
-
-     Your always remaining husband, father, and brother.
-
-     ALOYS.
-
-Then Antwerp fell, and a people that had for the first time in memory
-found itself an indivisible and self-conscious state broke into sullen
-flight, and its merry, friendly army came heavy-footed down the road to
-another country. Grieved and embittered, they served under new leaders
-of another race. Those tired soldiers were like spirited children who
-had been playing an exciting game which they thought would be applauded.
-And suddenly the best turned out the worst.
-
-  Sing, Belgians, sing, though our wounds are bleeding.
-
-writes the poet of Flanders; but the song is no earthly song. It is the
-voice of a lost cause that cries out of the trampled dust as it
-prepares to make its flight beyond the place of betrayal.
-
-For the Belgian soldiers no longer sang, or made merry in the evening. A
-young Brussels corporal in our party suddenly broke into sobbing when he
-heard the chorus of "Tipperary" float over the channel from a transport
-of untried British lads. The Belgians are a race of children whose
-feelings have been hurt. The pathos of the Belgian army is like the
-pathos of an orphan-asylum: it is unconscious.
-
-They are very lonely, the loneliest men I have known. Back of the
-fighting Frenchman, you sense the gardens and fields of France, the
-strong, victorious national will. In a year, in two years, having made
-his peace with honor, he will return to a happiness richer than any that
-France has known in fifty years. And the Englishman carries with him to
-the stresses of the first line an unbroken calm which he has inherited
-from a thousand years of his island peace. His little moment of pain and
-death cannot trouble that consciousness of the eternal process in which
-his people have been permitted to play a continuing part. For him the
-present turmoil is only a ripple on the vast sea of his racial history.
-Behind the Tommy is his Devonshire village, still secure. His mother and
-his wife are waiting for him, unmolested, as when he left them. But the
-Belgian, schooled in horror, faces a fuller horror yet when the guns of
-his friends are put on his bell-towers and birthplace, held by the
-invaders.
-
-"My father and mother are inside the enemy lines," said a Belgian
-officer to me as we were talking of the final victory. That is the
-ever-present thought of an army of boys whose parents are living in
-doomed houses back of German trenches. It is louder than the near guns,
-the noise of the guns to come that will tear at Bruges and level the
-Tower of St. Nicholas. That is what the future holds for the Belgian. He
-is only at the beginning of his loss. The victory of his cause is the
-death of his people. It is a sacrifice almost without a parallel.
-
-[Illustration: A BELGIAN BOY SOLDIER IN THE UNIFORM OF THE FIRST ARMY
-WHICH SERVED AT LIEGE AND NAMUR.
-
-In the summer of 1915 this costume was exchanged for khaki (see page
-148). The present Belgian Army is largely made up of boys like this.]
-
-And now a famous newspaper correspondent has returned to us from his
-motor trips to the front and his conversations with officers to tell us
-that he does not highly regard the fighting qualities of the
-Belgians. I think that statement is not the full truth, and I do not
-think it will be the estimate of history on the resistance of the
-Belgians. If the resistance had been regarded by the Germans as
-half-hearted, I do not believe their reprisals on villages and towns and
-on the civilian population would have been so bitter. The burning and
-the murder that I saw them commit throughout the month of September,
-1914, was the answer to a resistance unexpectedly firm and telling. At a
-skirmish in September, when fifteen hundred Belgians stood off three
-thousand Germans for several hours, I counted more dead Germans than
-dead Belgians. The German officer in whose hands we were as captives
-asked us with great particularity as to how many Belgians he had killed
-and wounded. While he was talking with us, his stretcher-bearers were
-moving up and down the road for his own casualties. At Alost the street
-fighting by Belgian troops behind fish-barrels, with sods of earth for
-barricade, was so stubborn that the Germans felt it to be necessary to
-mutilate civilian men, women, and children with the bayonet to express
-in terms at all adequate their resentment. I am of course speaking of
-what I know. Around Termonde, three times in September, the fighting of
-Belgians was vigorous enough to induce the Germans on entering the town
-to burn more than eleven hundred homes, house by house. If the Germans
-throughout their army had not possessed a high opinion of Belgian
-bravery and power of retardation, I doubt if they would have released so
-widespread and unique a savagery.
-
-At Termonde, Alost, Balière, and a dozen other points in the Ghent
-sector, and, later, at Dixmude, Ramscappelle, Pervyse, Caeskerke, and
-the rest of the line of the Yser, my sight of Belgians has been that of
-troops as gallant as any. The cowards have been occasional, the brave
-men many. I still have flashes of them as when I knew them. I saw a
-Belgian officer ride across a field within rifle range of the enemy to
-point out to us a market-cart in which lay three wounded. On his horse,
-he was a high figure, well silhouetted. Another day, I met a Belgian
-sergeant, with a tousled red head of hair, and with three medals for
-valor on his left breast. He kept going out into the middle of the road
-during the times when Germans were reported approaching, keeping his men
-under cover. If there was risk to be taken, he wanted first chance. My
-friend Dr. van der Ghinst, of Cabour Hospital, captain in the Belgian
-army, remained three days in Dixmude under steady bombardment, caring
-unaided for his wounded in the Hospital of St. Jean, just at the Yser,
-and finally brought out thirty old men and women who had been frightened
-into helplessness by the flames and noise. Because he was needed in that
-direction, I saw him continue his walk past the point where fifty feet
-ahead of him a shell had just exploded. I watched him walk erect where
-even the renowned fighting men of an allied race were stooping and
-hiding, because he held his life as nothing when there were wounded to
-be rescued. I saw Lieutenant Robert de Broqueville, son of the prime
-minister of Belgium, go into Dixmude on the afternoon when the town was
-leveled by German guns. He remained there under one of the heaviest
-bombardments of the war for three hours, picking up the wounded who lay
-on curbs and in cellars and under debris. The troops had been ordered
-to evacuate the town, and it was a lonely job that this youngster of
-twenty-seven years carried on through that day.
-
-I have seen the Belgians every day for several months. I have seen
-several skirmishes and battles and many days of shell-fire, and the
-impression of watching many thousand Belgians in action is that of
-excellent fighting qualities, starred with bits of sheer daring as
-astonishing as that of the other races. With no country left to fight
-for, homes either in ruin or soon to be shelled, relatives under an
-alien rule, the home Government on a foreign soil, still this second
-army, the first having been killed, fights on in good spirit. Every
-morning of the summer I have passed boys between eighteen and
-twenty-five, clad in fresh khaki, as they go riding down the poplar lane
-from La Panne to the trenches, the first twenty with bright silver
-bugles, their cheeks puffed and red with the blowing. Twelve months of
-wounds and wastage, wet trenches and tinned food, and still they go out
-with hope.
-
-[Illustration: BELGIANS IN THEIR NEW KHAKI UNIFORM. IN PRAISE OF WHICH
-THEY WROTE A SONG.
-
-Albert's son, the Crown Prince Leopold, has been a common soldier in
-this regiment.]
-
-And the helpers of the army have shown good heart. Breaking the silence
-of Rome, the splendid priesthood of Belgium, from the cardinal to the
-humblest curé, has played the man. On the front line near Pervyse, where
-my wife lived for three months, a soldier-monk has remained through the
-daily shell-fire to take artillery observations and to comfort the
-fighting men. Just before leaving Flanders, I called on the sisters in
-the convent school of Furnes. They were still cheery and busy in their
-care of sick and wounded civilians. Every few days the Germans shell the
-town from seven miles away, but the sisters will continue there through
-the coming months as through the last year. The spirit of the best of
-the race is spoken in what King Albert said recently in an unpublished
-conversation to the gentlemen of the English mission:
-
-"The English will cease fighting before the Belgians. If there is talk
-of yielding, it will come from the English, not from us."
-
-That was a playful way of saying that there will be no yielding by any
-of the Western Allies. The truth is still as true as it was at Liège
-that the Belgians held up the enemy till France was ready to receive
-them. And the price Belgium paid for that resistance was the massacre
-of women and children and the house-to-house burning of homes.
-
-Since rendering that service for all time to France and England, through
-twenty months of such a life as exiles know, the Belgians have fought on
-doggedly, recovering from the misery of the Antwerp retreat, and showing
-a resilience of spirit equaled only by the Fusiliers Marins of France.
-One afternoon in late June my friend Robert Toms was sitting on the
-beach at La Panne, watching the soldiers swimming in the channel.
-Suddenly he called to me, and aimed his camera. There on the sand in the
-sunlight the Belgian army was changing its clothes. The faithful suits
-of blue, rained on and trench-worn, were being tossed into great heaps
-on the beach and brand-new yellow khaki, clothes and cap, was buckled
-on. It was a transformation. We had learned to know that army, and their
-uniform had grown familiar and pleasant to us. The dirt, ground in till
-it became part of the texture; the worn cloth, shapeless, but yet molded
-to the man by long association--all was an expression of the stocky
-little soldier inside. The new khaki hung slack. Caps were overlarge for
-Flemish heads. To us, watching the change, it was the loss of the last
-possession that connected them with their past; with homes and country
-gone, now the very clothing that had covered them through famous fights
-was shuffled off. It was as if the Belgian army had been swallowed up in
-the sea at our feet, like Pharaoh's phalanx, and up from the beach to
-the barracks scuffled an imitation English corps.
-
-We went about miserable for a few days. But not they. They spattered
-their limp, ill-fitting garments with jest, and soon they had produced a
-poem in praise of the change. These are the verses which a Belgian
-soldier, clad in his fresh yellow, sang to us as we grouped around him
-on a sand dune:
-
-
-EN KHAKI
-
-    I
-
-  Depuis onze mois que nous sommes partis en guerre,
-      A tous les militaires,
-      On a décidé de plaire.
-  Aussi depuis ce temps là, à l'intendance c'est dit,
-      De nous mettr' tous en khaki.
-  Maint'nant voilà l'beau temps qui vient d' paraître
-    Aussi répètons tous le coeur en fête.
-
-    REFRAIN
-
-   Regardez nos p'tits soldats,
-   Ils ont l'air d'être un peu là,
-        Habilles
-  D'la tête jusqu'aux pieds
-     En khaki, en khaki,
-    Ils sont contents de servir,
-    Mais non pas de mourir,
-  Et cela c'est parce qu' on leur a mis,
-    En quelque sorte, la t'nue khaki.
-
-    II
-
-  Maintenant sur toutes les grand's routes vous pouvez voir
-        Parcourant les trottoirs
-        Du matin jusqu'au soir
-    Les défenseurs Belges, portant tous la même tenue
-      Depuis que l'ancienne a disparue,
-      Aussi quand on voit I'9e défiler
-     C' n'est plus régiment des panachés.
-        Même Refrain.
-
-    III
-
-  Nous sommes tous heureux d'avoir le costume des Anglais
-        Seul'ment ce qu'il fallait,
-        Pour que ça soit complet.
-  Et je suis certain si l'armée veut nous mettre à l'aise
-        C'est d'nous donner la solde Anglaise.
-    Le jour qu'nous aurions ça, ah! quell' affaire
-      Nous n' serions plus jamais dans la misère.
-
-    REFRAIN
-
-  Vous les verriez nos p'tits soldats,
-    J'vous assure qu'ils seraient un peu là,
-        Habilles,
-      D'la tête jusqu'aux pieds,
-      En khaki, en khaki,
-    Ils seraient fiers de repartir,
-      Pour le front avec plaisir,
-  Si les quatre poches étaient bien games
-    De billets bleus couleur khaki.
-
-
-
-
-FLIES: A FANTASY
-
-
-Outside the window stretched the village street, flat, with bits of dust
-and dung rising on the breaths of wind and volleying into rooms upon the
-tablecloth and into pages of books. It was a street of small yellow
-brick houses, a shapeless church, a convent school--freckled buildings,
-dingy. Up and down the length of it, it was without one touch of beauty.
-It gave back dust in the eyes. It sounded with thunder of transports,
-rattle of wagons, soft whirr of officers' speed cars, yelp of motor
-horns, and the tap-tap of wooden shoes on tiny peasants, boys and girls.
-A little sick black dog slunk down the pavement, smelling and staring. A
-cart bumped over the cobbles, the horse with a great tumor in its
-stomach, the stomach as if blown out on the left side, and the tumor
-with a rag upon it where it touched the harness.
-
-Inside the window, a square room with a litter of six-penny novels in a
-corner, fifty or sixty books flung haphazard, some of them open with the
-leaves crushed back by the books above. In another corner, a heap of
-commissariat stuff, tins of bully beef, rabbit, sardines, herring, and
-glasses of jam, and marmalade. On the center table, a large jug of
-marmalade, ants busy in the yellow trickle at the rim. Filth had worked
-its way into the red table-cover. Filth was on every object in the room,
-like a soft mist, blurring the color and outlines of things. In the
-corners, under books and tins, insects moved, long, thin, crawling. A
-hot noon sun came dimly through the dirty glass of the closed window,
-and slowly baked a sleeping man in the large plush armchair. Around the
-chair, as if it were a promontory in a heaving sea, were billows of
-stale crumpled newspapers, some wadded into a ball, others torn across
-the page, all flung aside in _ennui_.
-
-The face of the man was weary and weak. It showed all of his forty-one
-years, and revealed, too, a great emptiness. Flies kept rising and
-settling again on the hands, the face, and the head of the man--moist
-flies whose feet felt damp on the skin. They were slow and languid flies
-which wanted to settle and stay. It was his breathing that made them
-restless, but not enough to clear them away, only enough to make a low
-buzzing in the sultry room. Across the top of his head a bald streak ran
-from the forehead, and it was here they returned to alight, after each
-twitching and heave of the sunken body.
-
-In the early months he had fought a losing fight with them. The walls
-and ceiling and panes of glass were spotted with the marks of his long
-battle. But his foes had advanced in ever-fresh force, clouds and swarms
-of them beyond number. He had gone to meet them with a wire-killer, and
-tightly rolled newspapers. He had imported fly paper from Dunkirk. But
-they could afford to sacrifice the few hundreds, which his strokes could
-reach, and still overwhelm him. Lately, he had given up the struggle,
-and let them take possession of the room. They harassed him when he
-read, so he gave up reading. They got into the food, so he ate less.
-Between his two trips to the front daily at 8 A.M. and 2
-P.M., he slept. He found he could lose himself in sleep. Into
-that kingdom of sleep, they could not enter. As the weeks rolled on, he
-was able to let himself down more and more easily into silence. That
-became his life. A slothfulness, a languor, even when awake, a
-half-conscious forcing of himself through the routine work, a looking
-forward to the droning room, and then the settling deep into the old
-plush chair, and the blessed unconsciousness.
-
-He drove a Red Cross ambulance to the French lines at Nieuport,
-collected the sick and wounded soldiers and brought them to the Poste de
-Secours, two miles back of the trenches. He lived a hundred feet from
-the Poste, always within call. But the emergency call rarely came. There
-were only the set runs, for the war had settled to its own regularity. A
-wonderful idleness hung over the lines, where millions of men were
-unemployed, waiting with strange patience for some unseen event. Only
-the year before, these men were chatting in cafés, and busy in a
-thousand ways. Now, the long hours of the day were lived without
-activity in thoughtless routine. Under the routine there was always the
-sense of waiting for a sudden crash and horror.
-
-The man was an English gentleman. It was his own car he had brought,
-paid for by him, and he had offered his car and services to the
-Fusiliers Marins. They had been glad of his help, and for twelve months
-he had performed his daily duty and returned to his loneliness. The men
-under whom he worked were the French doctors of the Poste--the chief
-doctor, Monsieur Claude-Marie Le Bot, with four stripes on his arm, and
-the courteous, grave administrator, Eustache-Emmanuel Couillandre, a
-three-stripes man, and a half dozen others, of three stripes and two.
-They had welcomed him to their group when he came to them from London.
-They had found him lively and likable, bringing gossip of the West End
-with a dash of Leicester Square. Then slowly a change had come on him.
-He went moody and silent.
-
-"What's the matter with you?" asked Doctor Le Bot one day.
-
-"Nothing's the matter with me," answered the man. "It's war that's the
-matter."
-
-"What do you mean by that?" put in one of the younger doctors.
-
-"The trouble with war," began the man slowly, "isn't that there's danger
-and death. They are easy. The trouble with war is this. It's dull,
-damned deadly dull. It's the slowest thing in the world. It wears away
-at your mind, like water dripping on a rock. The old Indian torture of
-letting water fall on your skull, drop by drop, till you went raving
-crazy, is nothing to what war does to the mind of millions of men. They
-can't think of anything else but war, and they have no thoughts about
-that. They can't talk of another blessed thing, and the result is they
-have nothing to say at all."
-
-As he talked a flush came into his face. He gathered speed, while he
-spoke, till his words came with a rush, as if he were relieving himself
-of inner pain.
-
-"Have you ever heard the true inside account of an Arctic expedition?"
-he went on. "There's a handful of men locked up inside a little ship for
-thirteen or fourteen months. Nothing to look out on but snow and ice,
-one color and a horizonful of it. Nothing to dream of but arriving at a
-Pole--and that is a theoretical point in infinite space. There's no such
-thing. The midnight sun and the frozen stuff get on their nerves--same
-old sun in the same old place, same kind of weather. What happens? The
-natural thing, of course. They get so they hate each other like poison.
-They go around with a mad on. They carry hate against the commander and
-the cook and the fellow whose berth creaks every time he shifts. Each
-man thinks the shipload is the rottenest gang ever thrown together. He
-wonders why they didn't bring somebody decent along. He gets to scoring
-up grudges against the different people, and waits his chance to get
-back."
-
-He stopped a minute, and looked around at the doctors, who were giving
-him close attention. Then he went on with the same intensity.
-
-"Now that's war, only war is more so. Here you are in one place for
-sixteen months. You shovel yourself into a stinking hole in the ground.
-At seven in the morning, you boil yourself some muddy coffee that tastes
-like the River Thames at Battersea Bridge. You take a knife that's had
-knicks hacked out of it, and cut a hunk of dry bread that chews like
-sand. You eat some 'bully beef out of a tin, same tinned stuff as you've
-been eating ever since your stomach went on strike a year ago. Once a
-week for a treat, you cut a steak off the flank of a dead horse. That
-tastes better, because it's fresh meat. When you're sent back a few
-miles, _en 'piquet_, you sleep in a village that looks like Sodom after
-the sulphur struck it. Houses singed and tumbled, dead bodies in the
-ruins, a broken-legged dog, trailing its hind foot, in front of the
-house where you are. Tobacco--surely. You'd die if you didn't have a
-smoke. But the rotten little cigarettes with no taste to them that smoke
-like chopped hay. And the cigars made out of rags and shredded
-toothpicks--"
-
-"Here, have a cigarette," suggested the youngest doctor.
-
-But the man was too busy in working out his own thoughts.
-
-"The whole thing," he continued, "is a mixture of a morgue and a
-hospital--only those places have running water, and people in white
-aprons to tidy things up. And a battle--Three days under bombardment,
-living in the cellar. The guns going off five, six times to the minute,
-and then waiting a couple of hours and dropping one in, next door. The
-crumpling noise when a little brick house caves in, like a man when you
-hit him in the stomach, just going all together in a heap. And the sick
-smell that comes out of the mess from plaster and brick dust.
-
-"And getting wounded, that's jolly, isn't it? Rifle ball through your
-left biceps. Dick walks you back to the dressing station. Doctor busy at
-luncheon with a couple of visiting officers. Lie down in the straw.
-Straw has a pleasant smell when it's smeared with iodine and blood. Wait
-till the doctor has had his bottle of wine.
-
-"'Nothing very much,' he says, when he gets around to you. Drops some
-juice in, ties the white rag around, and you go back to your straw.
-Three, four hours, and along come the body snatchers--the chauffeur chap
-doesn't know how to drive, bumps into every shell hole for seven miles.
-Every half mile, drive down into the ditch mud, to get out of the way of
-some ammunition wagons going to the front. The wheel gets stuck. Put on
-power, in jumps, to bump the car out. Every jerk tears at your open
-sore, as if the wheel had got stuck in your arm and was being pulled
-out. Two hours to do the seven miles. Get to the field hospital. No time
-for you. Lie on your stretcher in the court, where the flies swarm on
-you. Always flies. Flies on the blood of the wounded, glued to the
-bandage. Flies on the face of the dead."
-
-So he had once spoken and left them wondering. But that whirling burst
-of words was long before, in those earlier days of his work. Nothing
-like that had happened in weeks. No such vivid pictures lighted him now.
-The man slept on.
-
-There was a scratching at the window, then a steady tapping, then a
-resounding fist on the casement. Gradually, the sleeping man came up
-through the deep waters of unconsciousness. His eyes were heavy. He sat
-a moment, brooding, then turned toward the insistent noise.
-
-"Monsieur Watts!" said a voice.
-
-"Yes," answered the man. He stretched himself, and raised the sash. A
-brisk little French Marin was at the window.
-
-"The doctors are at luncheon. They are waiting for you," the soldier
-said in rapid Breton French; "today you are their guest."
-
-"Of course," replied the man, "I had forgotten. I will come at once."
-
-He stretched his arms over his head--a tall figure of a man, but bent at
-the shoulders, as if all the dreariness of his surroundings had settled
-there. He had the stoop of an old man, and the walk. He stepped out of
-his room, into the street, and stood a moment in the midday sunshine,
-blinking. Then he walked down the village street to the Poste, and
-pushed through the dressing-rooms to the dining-room at the rear. The
-doctors looked up as he entered. He nodded, but gave no speech back for
-their courteous, their cordial greeting. In silence he ate the simple
-relishes of sardines and olives. Then the treat of the luncheon was
-brought in by the orderly. It was a duckling, taken from a refugee farm,
-and done to a brown crisp. The head doctor carved and served it.
-
-"See here," said Watts loudly. He lifted his wing of the duckling where
-a dead fly was cooked in with the gravy. He pushed his chair back. It
-grated shrilly on the stone floor. He rose.
-
-"Flies," he said, and left the room.
-
-       *       *        *       *       *
-
-Watts was the guest at the informal trench luncheon. The officers showed
-him little favors from time to time, for he had served their wounded
-faithfully for many months. It is the highest honor they can pay when
-they admit a civilian to the first line of trenches. Shelling from
-Westend was mild and inaccurate, going high overhead and falling with a
-mutter into the seven-times wrecked and thoroughly deserted houses of
-Nieuport village. But the sound of it gave a gentle tingle to the act of
-eating. There was occasional rifle fire, the bullet singing close.
-
-"They're improving," said the Commandant, "a fellow reached over the
-trench this morning for his Billy-can, and they got him in the hand."
-
-Two Marins cleared away the plank on which bread and coffee and tinned
-meat had been served.
-
-The hot August sun cooked the loose earth, and heightened the smells of
-food. A swarm of flies poured over the outer rim and dropped down on
-squatting men and the scattered commissariat. Watts was sitting at a
-little distance from the group. He closed his eyes, but soon began
-striking methodically at the settling flies. He fought them with the
-right arm and the left in long heavy strokes, patiently, without
-enthusiasm. The soldiers brought out a pack of cards, and leaned forward
-for the deal. Suddenly Watts rose, lifted his arms above the trench, and
-deliberately stretched. Three faint cracks sounded from across the
-hillock, and he tumbled out at full length, as if some one had flung him
-away. The men hastened to him, coming crouched over but swiftly.
-
-"Got him in the right arm," said the Commandant.
-
-"Thank God," muttered Watts, sleepily.
-
-       *       *        *       *       *
-
-It was the Convent Hospital of Furnes. There was quiet in the ward of
-twenty-five beds, where side by side slept the wounded of France and
-Germany and Belgium and England. Suddenly, a resounding whack rang
-through the ward. A German boy jumped up sitting in his cot. The sound
-had awakened memories. He looked over to the tall Englishman in the next
-cot, who had struck out at one of the heavy innumerable flies, who hover
-over wounded men, and pry down under bandages.
-
-"Let me tell you," said the youth eagerly, "I have a preparation--I'm a
-chemist, you know--I've worked out a powder that kills flies."
-
-Watts looked up from his pillow. His face was weary.
-
-"It's sweet, you know, and attracts them," went on the boy, "then the
-least sniff of it finishes them. They trail away, and die in a few
-minutes. You can clear a room in half an hour. Then all you have to do
-is to sweep up."
-
-"See here," he said, "I'll show you. Sister," he called. The nurse
-hurried to his side.
-
-"Sister? You were kind enough to save my kit. May I have it a moment?"
-
-He took out a tin flask, and squeezed it--a brown powder puffed through
-the pin-point holes at the mouth. It settled in a dust on the white
-coverlet.
-
-"Please be very quiet," he said. He settled back, as if for sleep, but
-his half-shut eyes were watchful. A couple of minutes passed, then a fly
-circled his head, and made for the spot on the spread. It nosed its way
-in, crawled heavily a few inches up the coverlet, and turned its legs
-up. Two more came, alighted, sniffed and died.
-
-"You see," he said.
-
-       *       *        *       *       *
-
-Next day, the head of the Coxyde Poste motored over to Furnes for a call
-on his wounded helper.
-
-"Where does all that chatter come from?" he asked.
-
-Sister Teresa smiled.
-
-"It's your silent friend," she said. "He is the noisiest old thing in
-the ward."
-
-"Talking to himself?" inquired the doctor.
-
-"Have a look for yourself," urged the nurse. They stepped into the ward,
-and down the stone floor, till they came to the supply table. Here they
-pretended to busy themselves with lint.
-
-"Most interesting," Watts was saying. "That is a new idea to me. Here
-they've been telling me for a year that there's no way but the slow
-push, trench after trench--"
-
-"Let me say to you," interrupted the Saxon lad.
-
-"You will pardon me, if I finish what I am saying," went on Watts in
-full tidal flow. "What was it I was saying? Oh, yes, I remember--that
-slow hard push is not the only way, after all. You tell me--"
-
-"That's the way it is all day long," explained the sister. "Chatter,
-chatter, chatter. They are telling each other all they know. You would
-think they would get fed up. But as fast as one of them says something,
-that seems to be a new idea to the other. Mr. Watts acts like a man who
-has been starved."
-
-Watts caught sight of his friend.
-
-"We've killed all the flies," he shouted.
-
-
-
-
-WOMEN UNDER FIRE
-
-
-This war has been a revelation of womanhood. To see one of these cool,
-friendly creatures, American and English, shove her motor car into
-shell-fire, make her rescue of helpless crippled men, and steam back to
-safety, is to watch a resourceful and disciplined being. They may be,
-they are, "ministering angels," but there is nothing meek in their
-demeanor. They have stepped to a vantage from which nothing in man's
-contemptuous philosophy will ever dislodge them. They have always
-existed to astonish those who knew them best, and have turned life into
-a surprise party from Eden to the era of forcible feeding. But assuredly
-it would make the dogmatists on the essentially feminine nature, like
-Kipling, rub their eyes, to watch modern women at work under fire. They
-haven't the slightest fear of being killed. Give them a job under
-bombardment, and they unfold the stretcher, place the pillow and tuck in
-the blanket, without a quiver of apprehension. That, too, when some of
-the men are scampering for cover, and ducking chance pellets from the
-woolly white cloud that breaks overhead. The women will eat their
-luncheon with relish within three hundred feet of a French battery in
-full blaze. Is there a test left to the pride of man that the modern
-woman does not take lightly and skilfully? Gone are the Victorian nerves
-and the eighteenth-century fainting. All the old false delicacies have
-been swamped. She has been held back like a hound from the hunting, till
-we really believed we had a harmless household pet, who loved security.
-We had forgotten the pioneer women who struck across frontiers with a
-hardihood that matched that of their mates. And now the modern woman
-emerges from her protected home, and pushes forward, careless and
-curious.
-
-"What are women going to do about this war?" That question my wife and I
-asked each other at the outbreak of the present conflict. There were
-several attitudes that they might take. They could deplore war, because
-it destroyed their own best products. They could form peace leagues and
-pass resolutions against war. They could return to their ancient job of
-humble service, and resume their familiar location in the background.
-They did all these things and did them fervently; but they did something
-else in this war--they stepped out into the foreground, where the air
-was thick with danger, and demonstrated their courage. The mother no
-longer says: "Return, my gallant one, with your shield or on it," and
-goes back to her baking. She packs her kit and jumps into a motor
-ambulance headed for the dressing station.
-
-We have had an excellent chance to watch women in this war. Our corps
-have had access to every line from Nieuport on the sea, down for twenty
-miles. We were able to run out to skirmishes, to reach the wounded where
-they had fallen. We have gone where the fighting had been at such close
-range that in one barnyard in Ramscappelle lay thirteen dead--Germans,
-French and Belgians. We brought back three wounded Germans from the
-stable. We were in Dixmude on the afternoon when the Germans destroyed
-the town by artillery fire. We were in Ypres on November first, the day
-after the most terrible battle in history, when fifty thousand English
-out of a hundred and twenty thousand fell. For three months my wife
-lived in Pervyse, with two British women. Not one house in the town
-itself is left untouched by shell-fire. The women lived in a cellar for
-the first weeks. Then they moved into a partially demolished house, and
-a little later a shell exploded in the kitchen. The women were at work
-in the next room. We have had opportunity for observing women in war,
-for we have seen several hundred of them--nurses, helpers, chauffeurs,
-writers--under varying degrees of strain and danger.
-
-The women whom I met in Belgium were all alike. They refused to take
-"their place." They were not interested in their personal welfare. There
-have been individual men, a few of them--English, French and Belgian,
-soldiers, chauffeurs and civilians--who have turned tail when the danger
-was acute. But the women we have watched are strangely lacking in fear.
-I asked a famous war writer, whose breast was gay with the ribbons of
-half a dozen campaigns, what was the matter with all these women, that
-they did not tremble and go green under fire, as some of us did. He
-said:
-
-"They don't belong out here. They have no business to be under fire.
-They ought to be back at the hospitals down at Dunkirk. They don't
-appreciate danger. That's the trouble with them; they have no
-imagination."
-
-That's an easy way out. But the real reasons lie deeper than a mental
-inferiority. These women certainly had quite as good an equipment in
-mentality as the drivers and stretcher bearers. They could not bear to
-let immense numbers of men lie in pain. They wished to bring their
-instinct for help to the place where it was needed.
-
-The other reason is a product of their changed thinking under modern
-conditions. "I want to see the shells," said a discontented lady at
-Dunkirk. She was weary of the peace and safety of a town twenty miles
-back from the front. Women suddenly saw their time had come to strip man
-of one more of his monopolies. For some thousand years he had been
-bragging of his carriage and bearing in battle. He had told the women
-folks at home how admirable he had been under strain, and he went on to
-claim special privileges as the reward for his gallant behavior. He
-posed as their protector. He assumed the right to tax them because they
-did not lend a hand when invasion came. Now women are campaigning in
-France and Belgium to show that man's much-advertised quality of courage
-is a race possession.
-
-They had already shown it while peace was still in the land, but their
-demonstration met with disfavor. Just before the war broke out I saw a
-woman suffragist thrown into a pond of water at Denmark Hill. I saw
-another mauled and bruised by a crowd of men in Hyde Park. They were the
-same sort of women as these hundreds at the front, who are affirming a
-new value. The argument is hotly contended whether women belong in the
-war zone. Conservative Englishmen deem them a nuisance, and wish them
-back in London. Meanwhile, they come and stay. English officials tried
-to send home the three of our women who had been nursing within thirty
-yards of the trenches at Pervyse. But the King of the Belgians, and
-Baron de Broqueville, Prime minister of Belgium, had been watching
-their work, and refused to move them.
-
-One morning we came into the dining-room of our Convent Hospital at
-Furnes, and there on a stretcher on the floor was a girl sleeping
-profoundly. We thought at first we had one more of our innumerable
-wounded who overflowed the beds and wards during those crowded days. She
-rested through the morning and through the noon meal. The noise about
-did not disturb her. She did not stir in her heavy sleep, lying under
-the window, her face of olive skin, with a touch of red in the right
-cheek, turned away from the light. She awoke after twenty hours.
-Silently, she had come in the evening before, wearied to exhaustion
-after a week of nursing in the Belgian trenches.
-
-That was the thing you were confronted with--woman after woman hurling
-herself at the war till spent. They wished to share with men the
-hardship and peril. If risks were right for the men, then they were
-right for women. If the time had come for nations to risk death, these
-women refused to claim the exemptions of sex difference. If war was
-unavoidable, then it was equally proper for women to be present and
-carry on the work of salvage.
-
-Of a desire to kill they have none. A certain type of man under
-excitement likes to shoot and reach his mark. I have had soldiers tell
-me with pride of the number of enemies they have potted. It sounds very
-much like an Indian score-card of scalps or a grouse hunter's bag of
-game. Our women did not talk in these terms, nor did they act so. They
-gave the same care to German wounded as to Belgian, French and English
-wounded, and that though they knew they would not receive mercy if the
-enemy came across the fields and stormed the trenches. A couple of
-machine guns placed on the trench at Pervyse could have raked the ruined
-village and killed our three nurses. They shared the terms of peril with
-the soldiers; but they had no desire for retaliation, no wish to wreak
-their will on human life. Their instinct is to help. The danger does not
-excite them to a nervous explosion where they grab for a gun and shoot
-the other fellow.
-
-I was with an English physician one day before he was seasoned. We were
-under the bank at Grembergen, just across the river from Termonde. The
-enemy were putting over shells about one hundred yards from where we
-were crawling toward a machine-shop sheltering wounded men. The _obus_
-were noisy and the dirt flew high. Scattered bits of metal struck the
-bank. As we heard the shell moaning for that second of time when it
-draws close, we would crawl into one of the trenches scooped out in the
-green bank, an earthen cave with a roof of boughs.
-
-"Let's get out of this," said the doctor. "It's too hot for our kind of
-work. If I had a rifle and could shoot back I shouldn't mind it. But
-this waiting round and doing nothing in return till you are hit, I don't
-like it."
-
-But that is the very power that women possess. They can wait round
-without wishing to strike back. Saving life gives them sufficient
-spiritual resource to stand up to artillery. They have no wish to
-relieve their nervousness by sighting an alien head and cracking it.
-
-One of our corps was the daughter of an earl. She had all the
-characteristics of what we like to think is the typical American girl.
-She had a bonhomie that swept class distinctions aside. Her talk was
-swift and direct. She was pretty and executive, swift to act and always
-on the go.
-
-One day, as we were on the road to the dressing stations, the noise of
-guns broke out. The young Belgian soldier who was driving her stopped
-his motor and jumped out.
-
-"I do not care to go farther," he said.
-
-Lady ----, who is a skilful driver, climbed to the front seat, drove the
-car to the dressing station and brought back the wounded. I have seen
-her drive a touring car, carrying six wounded men, from Nieuport to
-Furnes at eight o'clock on a pitch-dark night, no lights allowed, over a
-narrow, muddy road on which the car skidded. She had to thread her way
-through silent marching troops, turn out for artillery wagons, follow
-after tired horses.
-
-She was not a trained nurse, but when Dr. Hector Munro was working over
-a man with a broken leg she prepared a splint and held the leg while he
-set it and bound it. She drove a motor into Nieuport when the troops
-were marching out of it. Her guest for the afternoon was a war
-correspondent.
-
-"This is a retreat," he said. "It is never safe to enter a place when
-the troops are leaving it. I have had experience."
-
-"We are going in to get the wounded," she replied. They went in.
-
-At Ypres she dodged round the corner because she saw a captain who
-doesn't believe in women at the front. A shell fell in the place where
-she had been standing a moment before. It blew the arm from a soldier.
-Her nerve was unbroken, and she continued her work through the morning.
-
-Her notion of courage is that people have a right to feel frightened,
-but that they have no right to fail to do the job even if they are
-frightened. They are entitled to their feelings, but they are not
-entitled to shirk the necessary work of war. She believes that cowardice
-is not like other failings of weakness, which are pretty much man's own
-business. Cowardice is dangerous to the group.
-
-Lady ----'s attitude at a bombardment was that of a child seeing a
-hailstorm--open-eyed wonder. She was the purest exhibit of careless
-fearlessness, carrying a buoyancy in danger. Generations of riding to
-hounds and of big game shooting had educated fear out of her stock. Her
-ancestors had always faced uncertainty as one of the ingredients of
-life: they accepted danger in accepting life. The savage accepted fear
-because he had to. With the English upper class, danger is a fine art, a
-cult. It is an element in the family honor. One cannot possibly shrink
-from the test. The English have expressed themselves in sport. People
-who are good sportsmen are, of course, honorable fighters. The Germans
-have allowed their craving for adventure to seethe inside themselves,
-and then have aimed it seriously at human life. But the English have
-taken off their excess vitality by outdoor contests.
-
-What Lady ---- is the rest of the women are. Miss Smith, an English girl
-nurse, jumped down from the ambulance that was retreating before the
-Germans, and walked back into Ghent, held by the Germans, to nurse an
-English officer till he died. A few days later she escaped, by going in
-a peasant's cart full of market vegetables, and rejoined us at Furnes.
-
-Sally Macnaughtan is a gray-haired gentlewoman of independent means who
-writes admirable fiction. She has laid aside her art and for months
-conducted a soup kitchen in the railway station at Furnes. She has fed
-thousands of weakened wounded men, working till midnight night after
-night. She remained until the town was thoroughly shelled.
-
-The order is strict that no officer's wife must be near the front. The
-idea is that she will divert her husband's mind from the work in hand.
-He will worry about her safety. But Mrs. B----, a Belgian, joined our
-women in Pervyse, and did useful work, while her husband, a doctor with
-the rank of officer, continued his work along the front. She is a girl
-of twenty-one years.
-
-Recently the Queen of the Belgians went into the trenches at a time when
-there was danger of artillery and rifle fire breaking loose from the
-enemy. She had to be besought to keep back where the air was quieter, as
-her life was of more value to the Belgian troops and the nation than
-even a gallant death.
-
-One afternoon most of the corps were out on the road searching for
-wounded. Mairi Chisholm, a Scotch girl eighteen years old, and a young
-American woman had been left behind in the Furnes Hospital. With them
-was a stretcher bearer, a man of twenty-eight. A few shells fell into
-Furnes. The civilian population began running in dismay. The girls
-climbed up into the tower of the convent to watch the work of the
-shells. The man ordered the women to leave the town with him and go to
-Poperinghe. The two girls refused to go.
-
-For weeks Furnes was under artillery fire from beyond Nieuport. One of
-our hospital nurses was killed as she was walking in the Grand Place.
-
-I saw an American girl covered by the pistol of an Uhlan officer. She
-did not change color, but regarded the incident as a lark. I happened to
-be watching her when she was sitting on the front seat of an ambulance
-at Oudecappelle, eating luncheon. A shell fell thirty yards from her in
-the road. The roar was loud. The dirt flew high. The metal fragments
-tinkled on the house walls. The hole it dug was three feet deep. She
-laughed and continued with her luncheon.
-
-I saw the same girl stand out in a field while this little drama took
-place: The French artillery in the field were well covered by shrubbery.
-They had been pounding away from their covert till the Germans grew
-irritated. A German Taube flew into sight, hovered high overhead and
-spied the hidden guns. It dropped three smoke bombs. These puffed out
-their little clouds into the air, and gave the far-away marksmen the
-location for firing. Their guns broke out and shrapnel shells came
-overhead, burst into trailing smoke and scattered their hundreds of
-bullets. The girl stood on the arena itself. Of concern for her personal
-safety she had none. It was all like a play on the stage to her. You
-watch the blow and flash but you are not a part of the action.
-
-Each night the Furnes Hospital was full with one hundred wounded. In the
-morning we carried out one or two or one-half dozen dead. The wounds
-were severe, the air of the whole countryside was septic from the sour
-dead in the fields, who kept working to the surface from their shallow
-burial. There was a morning when we had gone early to the front on a
-hurry call. In our absence two girl nurses carried out ten dead from the
-wards into the convent lot, to the edge of the hasty graves made ready
-for their coming.
-
-There is one woman whom we have watched at work for twelve months. She
-is a trained nurse, a certified midwife, a licensed motor-car driver, a
-veterinarian and a woman of property. Her name is Mrs. Elsie Knocker, a
-widow with one son. She helped to organize our corps. I was with her one
-evening when a corporal ordered her to go up a difficult road. He was
-the driver of a high-power touring car which could rise on occasion to
-seventy miles an hour. He carried a rifle in his car, and told us he had
-killed over fifty Germans since Liège. He dressed in bottle green, the
-uniform of a cyclist, and he looked like a rollicking woodlander of the
-Robin Hood band. It was seven o'clock of the evening. The night was
-dark. He pitched a bag of bandages into the motor ambulance.
-
-"Take those to the dressing station that lies two miles to the west of
-Caeskerke," he ordered Mrs. Knocker. I cranked up the machine; Mrs.
-Knocker sat at the wheel. We were at Oudecappelle. The going was halfway
-decent as far as the crossroads of Caeskerke. Here we turned west on a
-road through the fields which had been intermittently shelled for
-several days. The road had shell holes in it from one to three feet
-deep. We could not see them because we carried no lights and the sky
-overhead was black. A mile to our right a village was burning. There
-were sheets of flame rising from the lowland, and the flame revealed the
-smoke that was thick over the ruins. We bumped in and out of the holes.
-All roads in Belgium were scummy with mud. It is like butter on bread.
-The big brown-canopied ambulance skidded in this paste.
-
-We reached the dressing station and delivered one bag of bandages. In
-return we received three severely wounded men, who lay at length on the
-stretched canvas and swung on straps. Then we started back over the same
-mean road. This was the journey that tested Mrs. Knocker's driving,
-because now she had helpless men who must not be jerked by the swaying
-car. Motion tore at their wounds. Above all, they must not be
-overturned. An overturn would kill a man who was seriously wounded.
-Driving meant drawing all her nervous forces into her directing brain
-and her two hands. A village on fire at night is an eerie sight. A dark
-road, pitted with shell holes and slimy with mud, is chancy. The car
-with its human freight, swaying, bumping, sliding, is heavy on the
-wrist. The whole focused drive of it falls on the muscles of the
-forearm. And when on the skill of that driver depends the lives of three
-men the situation is one that calls for nerve. It was only luck that the
-artillery from beyond the Yser did not begin tuning up. The Germans had
-shelled that road diligently for many days and some evenings. Back to
-the crossroads Mrs. Knocker brought her cargo, and on to Oudecappelle,
-and so to the hospital at Furnes, a full ten miles. Safely home in the
-convent yard, the journey done, the wounded men lifted into the ward,
-she broke down. She had put over her job, and her nerves were tired.
-Womanlike she refused to give in till the work was successfully
-finished.
-
-How would a man have handled such a strain? I will tell you how one man
-acted. Our corporal drove his touring car toward Dixmude one morning. He
-ordered Tom, the cockney driver, to follow with the motor ambulance. In
-it were Mrs. Knocker and Miss Chisholm, sitting with Tom on the front of
-the car. Things looked thick. The corporal slowed up, and so did Tom
-just behind him. Now there is one sure rule for rescue work at the
-front--when you hear the guns close, always turn your car toward home,
-away from the direction of the enemy. Turn it before you get your
-wounded, even though they are at the point of death, and leave your
-power on, even when you are going to stay for a quarter of an hour.
-Pointed toward safety, and under power, the car can carry you out of
-range of a sudden shelling or a bayonet charge. The enemy's guns began
-to place shrapnel over the road. The cloud puffs were hovering about a
-hundred feet overhead a little farther down the way. The bullets
-clicked on the roadbed. The corporal jumped out of his touring car.
-
-[Illustration: BRETON SAILORS READY FOR THEIR NOON MEAL IN A VILLAGE
-UNDER DAILY SHELL FIRE.
-
-Throughout this Yser district British nurses drove their ambulances and
-rescued the wounded.]
-
-"Turn my car," he shouted to Tom. Tom climbed from the ambulance,
-boarded the touring car and turned it. The corporal peered out from his
-shelter, behind the ambulance, saw the going was good and ran to his own
-motor. He jumped in and sped out of range at full tilt. The two women
-sat quietly in the ambulance, watching the shrapnel. Tom came to them,
-turned the car and brought them beyond the range of fire.
-
-But the steadiest and most useful piece of work done by the women was
-that at Pervyse. Mrs. Knocker and two women helpers, one Scotch and one
-American, fitted up a miniature hospital in the cellar of a house in
-ruined Pervyse. They were within three minutes of the trenches. Here, as
-soon as the soldiers were wounded, they could be brought for immediate
-treatment. A young private had received a severe lip wound. Unskilful
-army medical handling had left it gangrened, and it had swollen. His
-face was on the way to being marred for life. Mrs. Knocker treated him
-every few hours for ten days--and brought him back to normal. A man
-came in with his hand a pulp from splintered shell. The glove he had
-been wearing was driven into the red flesh. Mrs. Knocker worked over his
-hand for half an hour, picking out the shredded glove bit by bit.
-
-Except for a short walk in the early morning and another after dark,
-these women lived immured in their dressing station, which they moved
-from the cellar to a half-wrecked house. They lived in the smell of
-straw, blood and antiseptic. The Germans have thrown shells into the
-wrecked village almost every day. Some days shelling has been vigorous.
-The churchyard is choked with dead. The fields are dotted with hummocks
-where men and horses lie buried. Just as I was sailing for America in
-March, 1915, the house where the women live and work was shelled. They
-came to La Panne, but later Mrs. Knocker and Miss Chisholm returned to
-Pervyse to go on with their work, which is famous throughout the Belgian
-army.
-
-As regiment after regiment serves its turn in the trenches of Pervyse it
-passes under the hands of these women. "The women of Pervyse" are known
-alike to generals, colonels and privates who held steady at Liège and
-who have struggled on ever since. For many months these nurses have
-endured the noise of shell fire and the smells of the dead and the
-stricken. The King of the Belgians has with his own hands pinned upon
-them the Order of Leopold II. The King himself wears the Order of
-Leopold I. They have eased and saved many hundreds of his men.
-
-"No place for a woman," remarked a distinguished Englishman after a
-flying visit to their home.
-
-"By the law of probabilities, your corps will be wiped out sooner or
-later," said a war correspondent.
-
-Meantime the women will go on with their cool, expert work. The only way
-to stop them is to stop the war.
-
-
-
-
-HOW WAR SEEMS TO A WOMAN
-
-(BY MRS. ARTHUR GLEASON)
-
-
-Life at the front is not organized like a business office, with sharply
-defined duties for each worker. War is raw and chaotic, and you take
-hold wherever you can lock your grip. We women that joined the Belgian
-army and spent a year at the front, did duty as ambulance riders, "dirty
-nurses," in a Red Cross rescue station at the Yser trenches, in relief
-work for refugees, and in the commissariat department. We tended wounded
-soldiers, sick soldiers, sick peasants, wounded peasants, mothers,
-babies, and colonies of refugees.
-
-This war gave women one more chance to prove themselves. For the first
-time in history, a few of us were allowed through the lines to the front
-trenches. We needed a man's costume, steady masculine nerves, physical
-strength. But the work itself became the ancient work of woman--nursing
-suffering, making a home for lonely, hungry, dirty men. This new thrust
-of womanhood carried her to the heart of war. But, once arriving there,
-she resumed her old job, and became the nurse and cook and mother to
-men. Woman has been rebelling against being put into her place by man.
-But the minute she wins her freedom in the new dramatic setting, she
-finds expression in the old ways as caretaker and home-maker. Her
-rebellion ceases as soon as she is allowed to share the danger. She is
-willing to make the fires, carry the water, and do the washing, because
-she believes the men are in the right, and her labor frees them for
-putting through their work.
-
-It all began for me in Paris. I was studying music, and living in the
-American Art Students' Club, in the summer of 1914. That war was
-declared meant nothing to me. There was I in a comfortable room with a
-delightful garden, the Luxembourg, just over the way. That was the first
-flash of war. I went down to the Louvre to see the Venus, and found the
-building "Fermé." I went over to the Luxembourg Galleries--"Fermé,"
-again--and the Catacombs. Then it came into my consciousness that all
-Paris was closed to me. The treasures had been taken away from me. The
-things planned couldn't be done. War had snatched something from me
-personally.
-
-Next, I took solace in the streets. I had to walk. Paris went mad with
-official speed--commandeered motors flashed officers down the boulevards
-under martial law. They must get a nation ready, and Paris was the
-capital. War made itself felt, still more, because we had to go through
-endless lines,--_permis de sejours_ at little police stations--standing
-on line all day, dismissed without your paper, returning next morning.
-Friends began to leave Paris for New York. I was considered queer for
-wishing to stay on. The chance to study in Paris was the dream of a
-lifetime. But, now, the sound of the piano was forbidden in the city,
-and that made the desolation complete. Work and recreation had been
-taken away, and only war was left. And when Marie, our favorite maid in
-the club, sent her husband, our doorkeeper, to the front, that brought
-war inside our household.
-
-As the Germans drew near Paris, many of the club girls thought that they
-would be endangered. Every one was talking about the French Revolution.
-People expected the horrors of the Revolution to be repeated. Jaures had
-just been shot, the syndicalists were wrecking German milk shops, and at
-night the streets had noisy mobs. People were fearing revolution inside
-Paris, more than the enemy outside the city gates. War was going to let
-loose that terrible thing which we believed to be subliminal in the
-French nature.
-
-Women had to be off the streets before nine o'clock. By day we went up
-the block to the Boulevard, and there were the troops--a band, the
-tricolor, the officers, the men in sky blue. Their sweethearts, their
-wives and children went marching hand in hand with them, all singing the
-"Marseillaise." In a time like that, where there is song, there is
-weeping. The marching, singing women were sometimes sobbing without
-knowing it, and we that were watching them in the street crowd were
-moved like them.
-
-When I crossed to England, I found that I wanted to go back and have
-more of the wonder of war, which I had tasted in Paris. The wonder was
-the sparkle of equipment. It was plain curiosity to see troops line up,
-to watch the military pageant. There I had been seeing great handsome
-horses, men in shining helmets with the horsehair tail of the casque
-flowing from crest to shoulder, the scarlet breeches, the glistening
-boots with spurs. It was pictures of childhood coming true. I had hardly
-ever seen a man in military uniform, and nothing so startling as those
-French cuirassiers. And I knew that gay vivid thing was not a passing
-street parade, but an array that was going into action. What would the
-action be? It is what makes me fond of moving pictures--variety, color,
-motion, and mystery. The story was just beginning. How would the plot
-come out?
-
-Those pictures of troops and guns, grouping and dissolving, during all
-the twelve months in Flanders, never failed to grip. But rarely again
-did I see that display of fine feathers. For the fighting men with whom
-I lived became mud-covered. Theirs was a dug-in and blown-out existence,
-with the spatterings of storm and black nights on them. Their clothing
-took on the soberer colors and weather-worn aspect of the life itself
-which was no sunny boulevard affair, but an enduring of wet trenches and
-slimy roads. Those people in Paris needed that high key to send them
-out, and the early brilliance lifted them to a level which was able to
-endure the monotony.
-
-I went to the war because those whom I loved were in the war. I wished
-to go where they were.
-
-Finally, there was real appeal in that a little unprotected lot of
-people were being trampled.
-
-I crossed in late September to Ostend as a member of the Hector Munro
-Ambulance Corps. With us were two women, Elsie Knocker, an English
-trained nurse, and Mairi Chisholm Gooden-Chisholm, a Scotch girl. There
-were a round dozen of us, doctors, chauffeurs, stretcher bearers. Our
-idea of what was to be required of women at the front was vague. We
-thought that we ought to know how to ride horseback, so that we could
-catch the first loose horse that galloped by and climb on him. What we
-were to do with the wounded wasn't clear, even in our own minds. We
-bought funny little tents and had tent practice in a vacant yard. The
-motor drive from Ostend to Ghent was through autumn sunshine and beauty
-of field flowers. It was like a dream, and the dream continued in Ghent,
-where we were tumbled into the Flandria Palace Hotel with a suite of
-rooms and bath, and two convalescing soldiers to care for us. We looked
-at ourselves and smiled and wondered if this was war. My first work was
-the commissariat for our corps.
-
-Then came the English Naval Reserves and Marines _en route_ to Antwerp.
-They had been herded into the cars for twelve hours. They were happy to
-have great hunks of hot meat, bread, and cigarettes. Just across the
-platform, a Belgian Red Cross train pulled in--nine hundred wounded men,
-bandaged heads with only the eyes showing, stumps of arms flapping a
-welcome. The Belgians had been shot to pieces, holding the line. And,
-now, here were the English come to save them.
-
-This looked more like war to us. From the Palace windows we hung out
-over the balcony to see the Taubes. I knew that at last we were on the
-fringes of war. Later, we were to be at the heart of it. It was at Melle
-that I learned I was on the front lines.
-
-We went up the road from Ghent to Melle in blithe ignorance, we three
-women. The day before, the enemy had held the corner with a machine gun.
-
-"Let's go on foot, and see where the Germans were," suggested "Scotch."
-We came to burned peasants' houses. Inside the wreckage, soldiers
-crouched with rifles ready at the peek-holes. A Reckitt's bluing factory
-was burning, and across the field were the Germans. The cottages without
-doors and windows were like toothless old women. Piles of used
-cartridges were strewed around. There stood a gray motor-car, a wounded
-German in the back seat, his hands riddled, the car shot through, with
-blood in the bottom from two dead Germans. I realized the power of the
-bullet, which had penetrated the driver, the padded seat, the sheet
-metal and splintered the wood of the tonneau. We saw a puff of white
-smoke over the field from a shrapnel. That was the first shell I had
-seen close. It meant nothing to me. In those early days, the hum of a
-shell seemed no more than the chattering of sparrows. That was the way
-with all my impressions of war--first a flash, a spectacle; later a
-realization, and experience.
-
-I went into Alost during a mild bombardment. The crashing of timbers was
-fascinating. It is in human nature to enjoy destruction. I used to love
-to jump on strawberry boxes in the woodshed and hear them crackle. And
-with the plunge of the shells, something echoed back to the delight of
-my childhood. I enjoyed the crash, for something barbaric stirred. There
-was no connection in my mind between the rumble and wounded men. The
-curiosity of ignorance wanted to see a large crash. Shell-fire to me was
-a noise.
-
-I still had no idea of war. Of course I knew that there would be hideous
-things which I didn't have in home life. I knew I could stand up to
-dirty monotonous work, but I was afraid I should faint if I saw blood.
-When very young, I had seen a dog run over, and I had seen a boy
-playmate mutilate a turtle. I was sickened. Years later, I came on a
-little child crying, holding up its hand. The wrist was bent back
-double, and the blood spurting till the little one was drenched. Those
-shocks had left a horror in me of seeing blood. But this thing that I
-feared most turned out not to have much importance. I found that the man
-who bled most heavily lay quiet. It was not the bloodshed that unnerved
-me. It was the writhing and moaning of men that communicated their pain
-to me. I seemed to see those whom I loved lying there. I transferred the
-wound to the ones I love. Sometimes soldiers gave me the address of wife
-and mother, to have me write that they were well. Then when the wounded
-came in, I thought of these wives and mothers. I knew how they felt,
-because I felt so. I knew, as the Belgian and French women know, that
-the war must be waged without wavering, and yet I always see war as
-hideous. There was no glory in those stricken men. I had no fear of
-dying, but I had a fear of being mangled.
-
-One evening I walked into the Convent Hospital where the wounded lay so
-thickly that I had to step over the stretcher loads. The beds were full,
-the floor blocked, only one door open. There was a smell of foul blood,
-medicines, the stench of trench clothes. It came on an empty stomach, at
-the end of a tired day.
-
-"Sister, will you hold this lamp?" a nurse said to me.
-
-I held it over a man with a yawning hole in his abdomen. He lay
-unmurmuring. When the doctor pressed, the muscles twitched. I asked some
-one to hold the lamp. I went into the courtyard, and fainted. Hard work
-would have saved me.
-
-One other time, there had been a persistent fire all day. A boy of
-nineteen was brought in screaming. He wanted water and he wanted his
-mother. In our dressing station room were crowded two doctors, three
-women, two stretcher bearers, a chauffeur, and ten soldiers. They cut
-away his uniform and boots. His legs were jelly, with red mouths of
-wounds. His leg gave at the knee, like a piece of limp twine. I went
-into the next room, and recovered myself. Then I returned, and stayed
-with the wounded. The greatest comfort was a doctor, who said it was a
-matter of stomach, not of nerve. A sound woman doesn't faint at the
-sight of blood any quicker than a man does. Those two experiences were
-the only times when the horror was too much for me. I saw terrible
-things and was able to see them. With the dead it seems different. They
-are at peace. It is motion in the wounded that transfers suffering to
-oneself. A red quiver is worse than a red calm.
-
-Antwerp fell. The retreating Belgian army swarmed around us, passed us.
-In the excitement every one lost her kit and before two days of actual
-warfare were over we had completely forgotten those little tents that we
-had practised pitching so carefully, and that we had meant to sleep in
-at night. Little, dirty, unkempt, broken-hearted men came shuffling in
-the dust of the road by day, shambling along the road at night.
-Thousands of them passed. No sound, save the fall of footsteps. No
-contrast, save where a huddle of refugees passed, their children beside
-them, their household goods, or their old people, on their backs. We
-picked up the wounded. There was no time for the dead. In and out and
-among that army of ants, retreating to the edge of Belgium and the sea,
-we went. There seemed nothing but to return to England.
-
-The war minister of Belgium saw us. He placed his son, Lieutenant Robert
-de Broqueville, in military command of us. We had access to every line,
-all the way to the trench and battlefield. We became a part of the
-Belgian army. We made our headquarters at Furnes. Luckily, a physician's
-house had been deserted, with china and silver on the table, apples,
-jellies and wines in the cellar. We commandeered it.
-
-Winter came. The soldiers needed a dressing station somewhere along the
-front from Nieuport to Dixmude. Mrs. Knocker established one thirty
-yards behind the front line of trenches at Pervyse. Miss Chisholm and I
-joined her. In its cellar we found a rough bedstead of two pieces of
-unplaned lumber, with clean straw for a mattress, awaiting us. Any
-Englishwoman is respected in the Belgian lines. The two soldiers who had
-been living in our room had given it up cheerily. They had searched the
-village for a clean sheet, and showed it to us with pride. They lumped
-the straw for our pillows, and stood outside through the night,
-guarding our home with fixed bayonets. It was the most moving courtesy
-we had in the twelve months of war. The air in the little room was both
-foul and chilly. We took off our boots, and that was the extent of our
-undressing.
-
-[Illustration: SLEEPING QUARTERS FOR BELGIAN SOLDIERS.
-
-Disguised as a haystack, this shelter stands out in a field within easy
-shell fire of the enemy. A concealed battery, in which these boys are
-gunners, is near by. In their spare time they smoke, read, swim, carve
-rings out of shrapnel, play cards and forget the strain of war.]
-
-The dreariness of war never came on us till we went out there to live
-behind the trenches. To me it was getting up before dawn, and washing in
-ice-cold water, no time to comb the hair, always carrying a feeling of
-personal mussiness, with an adjustment to dirt. It is hard to sleep in
-one's clothes, week after week, to look at hands that have become
-permanently filthy. One morning our chauffeur woke up, feeling grumpy.
-He had slept with a visiting doctor. He said the doctor's revolver had
-poked him all night long in the back. The doctor had worn his entire
-equipment for warmth, like the rest of us. I suffered from cold wet
-feet. I hated it that there was never a moment I could be alone. The
-toothbrush was the one article of decency clung to. I seemed never to go
-into the back garden to clean my teeth without bringing on shell-fire. I
-got a sense of there being a connection between brushing the teeth and
-the enemy's guns. You find in roughing it that a coating of dirt seems
-to keep out chill. We women suffered, but we knew that the boys in
-tennis shoes suffered more in that wet season, and the soldiers without
-socks, just the bare feet in boots.
-
-In the late fall, we rooted around in the deserted barns for potatoes.
-Once, creeping into a farm, which was islanded by water, "Jane Pervyse,"
-our homeless dog, led us up to the wrecked bedroom. A bonnet and best
-dress were in the cupboard. A soldier put on the bonnet and grimaced.
-Always after that, in passing the house, "Jane Pervyse" trembled and
-whined as if it had been her home till the destruction came.
-
-In our house, we cleaned vegetables. There was nothing romantic about
-our work in these first days. It was mostly cooking, peeling hundreds of
-potatoes, slicing bushels of onions, cutting up chunks of meat, until
-our arms were aching. These bits were boiled together in great black
-pots. Our job, when it wasn't to cook the stew, was to take buckets of
-it to the trenches. Here we ladled it out to each soldier. Always we
-went early, while mist still hung over the ground, for we could see the
-Germans on clear days. It was an adventure, tramping in the freezing
-cold of night to the outposts and in early morning to the trenches, back
-to the house to refill the buckets, back to the trenches. The mornings
-were bitterly cold. Very early in my career as a nurse, I rid myself of
-skirts. Boots, covered with rubber boots to the knees in wet weather, or
-bound with puttees in warm; breeches; a leather coat and as many jerseys
-as I could walk in--these were my clothes. But, as I slept in them, they
-didn't keep me very warm in the early morning.
-
-We had one real luxury in the dressing station--a piano. While we cooked
-and scrubbed and pared potatoes, men from the lines played for us.
-
-There were other things, necessities, that we lacked. Water, except for
-the stagnant green liquid that lay in the ditches where dead men and
-dead horses rotted, we went without--once for as long as three days.
-During that time we boiled the ditch water and made tea of it. Even
-then, it was a deep purplish black and tasted bitter.
-
-All we could do to help the wounded was to wash off mud and apply the
-simplest of first-aids, iodine and bandages. We burned bloody clothing
-and scoured mackintoshes and scrubbed floors. The odors were bad, a
-mixture of decaying matter and raw flesh and cooking food and
-disinfectant.
-
-Pervyse was one more dear little Flemish village, with yawning holes in
-the houses, and through the holes you saw into the home, the precious
-intimate things which revealed how the household lived--the pump,
-muffled for winter, the furniture placed for occupancy, a home lately
-inhabited. In the burgomaster's house, there were two old mahogany
-frames with rare prints, his store of medicines, the excellent piano
-which cheered us, in his attic a skeleton. So you saw him in his home
-life as a quiet, scholarly man of taste and education. You entered
-another gaping house, with two or three bits of inherited
-mahogany--clearly, the heirlooms of an old family. Another house
-revealed bran new commonplace trinkets. Always the status of the family
-was plain to see--their mental life, their tastes, and ambitions. You
-would peek in through a broken front and see a cupboard with crotched
-mahogany trimmings, one door splintered, the other perfect. You would
-catch a glimpse of a round center table with shapely legs, a sofa drawn
-up in front of a fireplace. When we went, Pervyse was still partly
-upstanding, but the steady shelling of the winter months slowly
-flattened it into a wreck. It is the sense of sight through which war
-makes its strongest impression on me.
-
-The year falls into a series of pictures, evenings of song when a boy
-soldier would improvise verses to our head nurse; a fight between a
-Belgian corporal and an English nurse with seltzer bottles; the night
-when our soldiers were short of ammunition and we sat up till dawn
-awaiting the attack that might send us running for our lives; the black
-nights when some spy back of our lines flashed electric messages to the
-enemy and directed their fire on our ammunition wagons.
-
-And deeper than those pictures is the consciousness of how adaptable is
-the human spirit. Human nature insists on creating something. Under
-hunger and danger, it develops a wealth of resource--in art and music,
-and carving, making finger-rings of shrapnel, playing songs of the
-Yser. Something artistic and playful comes to the rescue. Instead of war
-getting us as Andreieff's "Red Laugh" says it does, making regiments of
-men mad, we "got" war, and remained sane. If we hadn't conquered it by
-spells of laughing relief, we shouldn't have had nerve when the time
-came. Too much strain would break down the bravest Belgian and the
-gayest Fusilier Marin.
-
-I came to feel I would rather get "pinked" in Pervyse than retire to
-Furnes, seven miles back of the trenches. Pervyse seemed home, because
-we belonged there with necessary work to do. Then, too, there was a
-certain regularity in the German gun-fire. If they started shelling from
-the Château de Vicoigne, they were likely to continue shelling from that
-point. So we lived that day in the front bedroom. If they shelled from
-Ramscappelle, the back kitchen became the better room, for we had a
-house in between. We were so near their guns, that we could plot the arc
-of flight. Pervyse seemed to visitors full of death, simply because it
-received a daily dose of shell-fire, like a little child sitting up and
-gulping its medicine. With what unconcern in those days we went out by
-ambulance to some tight angle, and waited for something to happen.
-
-"We're right by a battery." But the battery was interesting.
-
-"If this is danger, all right. It's great to be in danger." I have sat
-all day writing letters by our artillery. Every time a gun went off my
-pencil slid. The shock was so sudden, my nerves never took it on. Yet I
-was able to sleep a few yards in front of a battery. It would pound
-through the night, and I never heard it. The nervous equipment of an
-American would ravel out, if it were not for sound sleep. If shells came
-no nearer than four hundred yards, we considered it a quiet day.
-
-One day I learned the full meaning of fear. We had had several quiet
-safe hours. Night was coming on, and we were putting up the shutters,
-when a shell fell close by in the trench. Next, our floor was covered
-with dripping men, five of them unbandaged. Shells and wounds were
-connected in my mind by that close succession.
-
-No one was secure in that wrecked village of Pervyse. Along the streets,
-homeless dogs prowled, pigeons circled, hungry cats howled. Behind the
-trenches, the men had buried their dead and had left great mounds where
-they had tried to bury the horses. Shells dropped every day, some days
-all day. I have seen men running along the streets, flattening
-themselves against a house whenever they heard the whirr of a shell.
-
-It is not easy to eat, and sleep, and live together in close quarters,
-sometimes with rush work, sometimes through severer hours of aimless
-waiting. Again and again, we became weary of one another, impatient over
-trifles.
-
-[Illustration: BELGIAN SOLDIERS TELEPHONING TO AN ANTI-AIRCRAFT GUN THE
-APPROACH OF A GERMAN TAUBE.
-
-These lookout posts for observing and directing gun fire carry a
-portable telephone, adapted to sudden changes of position.]
-
-What war does is to reveal human nature. It does not alter it. It
-heightens the brutality and the heroism. Selfishness shines out nakedly
-and kindliness is seen clearer than in routine peace days. War brings
-out what is inside the person. Sentimental pacifists sit around three
-thousand miles away and say, "War brutalizes men," and when I hear them
-I think of the English Tommies giving me their little stock of
-cigarettes for the Belgian soldiers. Then I read the militarists and
-they say, "Be hard. Live dangerously. War is beneficent," and I see the
-wrecked villages of Belgium, with the homeless peasants and the orphaned
-babies. War ennobles some men by sacrifice, by heroism. It debases other
-men by handing over the weak to them for torture and murder. What is in
-the man comes out under the supreme test, where there are no courts of
-appeal, no public opinion, no social restraint; only the soldier alone
-with helpless victims.
-
-You can't share the chances of life and death with people, without
-feeling a something in common with them, that you do not have even with
-life-long friends. The high officer and the cockney Tommy have that
-linking up. There was one person whom I couldn't grow to like. But with
-him I have shared a ticklish time, and there is that cord of connection.
-Then, too, one is glad of a record of oneself. There is some one to
-verify what you say. You have passed through an unbelievable thing
-together, and you have a witness.
-
-Henri, our Belgian orderly, has that feeling for us, and we for him. It
-isn't respect, nor fondness, alone. Companionship meant for him new
-shirts, dry boots, more chocolate, a daily supply of cigarettes. It
-meant our seeing the picture of wife and child in Liège, hearing about
-his home. It was the sharing of danger, the facing together of the
-horror that underlies life, and which we try to forget in soft peace
-days. The friendships of war are based on a more fundamental thing than
-the friendships of safe living. In the supreme experience of motherhood,
-the woman goes down alone into the place of suffering, leaving the man,
-however dear, far away. But in this supreme experience of facing death
-to save life, you go together. The little Belgian soldier is at your
-side. Together you sit tight under fire, put the bandages on the
-wounded, and speed back to a safer place.
-
-Once I went to the farthest outpost. A Belgian soldier stepped out of
-the darkness.
-
-"Come along, miss, I've a good gun. I'll take you."
-
-Walking up the road, not in the middle where machine guns could rake us,
-but huddled up by the trees at the siding, we went. It will be a
-different thing to meet him one day in Antwerp, than it will be to greet
-again the desk-clerk of the La Salle Hotel in Chicago. It lies deeper
-than doing you favors, and assigning a sunny room.
-
-The men are not impersonal units in an army machine. They become
-individuals to us, with sharply marked traits. It is impossible to see
-them as cases. Out of the individuals, we built our types--we
-constructed our Belgian soldier, out of the hundreds who had told us of
-their work and home.
-
-"You must have met so many you never came to know their stories."
-
-It was the opposite. Paul Collaer, who played beautifully; Gilson, the
-mystic; Henri of Liège; the son of Ysaye, they were all clear to us.
-There was a splendid fat doctor who felt physical fear, but never
-shirked his job. He used to go and hide behind the barn, with his pipe,
-till there was work for him. His wasn't the fear that spreads disaster
-through a crowd. He was fat and funny. A fat man is comfortable to have
-around, at any time, even when he is unhappy. No one lost respect for
-this man. Every one enjoyed him thoroughly.
-
-Commandant Gilson of the Belgian army was one of our firm friends. My
-introduction to him was when I heard a bit of a Liszt rhapsody floating
-into the kitchen from our piano, the fingers rapid and fluent, and long
-nails audible on the keys. I remember the first meal with him, a
-luncheon of fried sardines, fruit cake, bread and cheese. The doctor
-across the way had sent a bottle of champagne. After luncheon he
-received word of an attack. He kissed the hand of each of us, said
-good-by, and went out to clean his gun. We did not think we should see
-him again. He retook the outpost and had many more meals with us. He
-would rise from broken English into swift French--stories of the Congo,
-one night till 2 a.m. Always smoking a cigarette--his mustache sometimes
-singed from the fire of the diminishing butt. For orderly, he had a
-black fat Congo boy, in dark blue Belgian uniform, flat-nosed, with
-wrinkles down the forehead. He was Gilson's man, never looking at him in
-speaking, and using an open vowel dialect. Before one of the attacks, a
-soldier came to Gilson with his wife's picture, watch, ring, and money,
-and his home address.
-
-"I'm not going to come out," said the soldier.
-
-It happened so.
-
-The Commandant's pockets were heavy with these mementoes of the
-predestined--the letters of boys to their mothers. He had that
-tenderness and agreeable sentiment which seem to go with bravery. He
-filled his uniform with souvenirs of pleasant times, a china
-slipper--our dinner favor to him--a roadside weed, a paper napkin from a
-happy luncheon--a score or more little pieces of sentimental value. When
-he went into dangerous action, he never ordered any one to follow him.
-He called for volunteers, and was grieved that it was the lads of
-sixteen and seventeen years that were always the first to offer.
-
-We had grown to care for these men. From the first, soldiers of France
-and Belgium had given us courtesy. In Paris, it was a soldier who stood
-in line for me, and got the paper. It was a soldier who shared his food
-and wine on the fourteen-hour trip from Paris to Dieppe--four hours in
-peace days, fourteen hours in mobilization. It was a soldier who left
-the car and found out the change of train and the hour--always a soldier
-who did the helpful thing. It did not require war to create their
-quality of friendliness and unselfish courtesy.
-
-How could Red Cross work be impersonal? No one would go over to be shot
-at on an impersonal errand of mercy. You risk yourself for individual
-men, for men in whose cause you believe. Surely, the loyal brave German
-women feel as we felt. Red Cross work is not only a service to suffering
-flesh. It is work to remake a soldier, who will make right prevail. The
-Red Cross worker is aiming her rifle at the enemy by every bandage she
-ties on wounded Belgians. She is rebuilding the army. She is as
-efficient and as deadly as the workman that makes the powder, the
-chauffeur that drives it to the trench in transports, and the gunner
-that shoots it into the hostile line. The mother does not extend her
-motherliness to the destroyer of her family. There is no hater like the
-mother when she faces that which violates her brood. The same mother
-instinct makes you take care of your own, and fight for your own. We all
-of us would go for a Belgian first, and tend to a Belgian first. We
-would take one of our own by the roadside in preference, if there was
-room only for one. But if you brought in a German, wounded, he became an
-individual in need of help. There was a high pride in doing well by him.
-We would show them of what stuff the Allies were made. Clear of hate and
-bitterness, we had nothing but good will for the gallant little German
-boys, who smiled at us from their cots in Furnes hospital. And who could
-be anything but kindly for the patient German fathers of middle age, who
-lay in pain and showed pictures of "Frau" and the home country, where
-some of them would never return. Two or three times, the Queen of the
-Belgians stopped at our base hospital. She talked with the wounded
-Germans exactly as she talked to her own Belgians--the same modest
-courtesy and gift of personal caring.
-
-I think the key to our experience was the mother instinct in the three
-women. What we tried to do was to make a home out of an emergency
-station at the heart of war. We took hold of a room knee-high with
-battered furniture and wet plaster, cleaned it, spread army blankets on
-springs, found a bowl and jug, and made a den for the chauffeur. In our
-own room, we arranged an old lamp, then a shade to soften the light. On
-a mantel, were puttees, cold cream and a couple of books; in the wall,
-nails for coats and scarfs. The soldiers, entering, said it was
-homelike. It was a rest after the dreariness of the trench. We brought
-glass from Furnes, and patched the windows. We dined, slept, lived, and
-tended wounded men in the one room. In another room, a shell had sprayed
-the ceiling, so we had to pull the plaster down to the bare lathing. We
-commandeered a stove from a ruined house. Night after night, we carried
-a sick man there and had a fire for him. We treated him for a bad
-throat, and put him to bed. A man dripping from the inundations, we
-dried out. For a soldier with bruised feet, we prepared a pail of hot
-water, and gave a thorough soaking.
-
-In the early morning we took down the shutters, carried our own coal,
-built our own fires, brought water from a ditch, scrubbed table tops
-and swept the floor, prepared tincture of iodine, the bandages, and
-cotton wool. We went up the road around 8.30, for the Germans had a
-habit of shelling at 9 o'clock. Sometimes they broke their rule, and
-began lopping them in at half-past eight. Then we had to wait till ten.
-We kept water hot for sterilizing instruments. We sat around, reading,
-thinking, chatting, letter-writing, waiting for something to happen.
-There would be long days of waiting. There were days when there was no
-shelling. Besides the wounded, we had visits from important
-personages--the Mayor of Paris, the Queen of the Belgians, officers from
-headquarters, Maxine Elliott. For a very special supper, we would jug a
-Belgian hare or cook curry and rice, and add beer, jam, and black army
-bread. An officer gave us an order for one hundred kilos of meat, and we
-could send daily for it. On Christmas Day, 1914, for eight of us, we had
-plum puddings, a bottle of port, a bottle of champagne, a tiny pheasant
-and a small chicken, and a box of candies. We had a steady stream of
-shells, and a few wounded. It was a day of sunshine on a light fall of
-snow.
-
-I learned in the Pervyse work that an up-to-date skirt is no good for a
-man's work. With rain five days out of seven, rubber boots, breeches,
-raincoat, two pairs of stockings, and three jerseys are the correct
-costume. We were criticized for going to Dunkirk in breeches. So I put
-on a skirt one time when I went there for supplies. I fell in alighting
-from the motor-car, collecting a bigger crowd by sprawling than any of
-us had collected by our uniform. Later, again in a skirt, I jumped on a
-military motor-car, and couldn't climb the side. I had to pull my skirt
-up, and climb over as a man climbs. If women are doing the work of a
-man, they must have the dress of a man.
-
-That way of dressing and of living released me from the sense of
-possession, once and for all. When I first went to Belgium with a pair
-of fleece-lined gloves, I was sure, if I ever lost that pair, that they
-were irreplaceable. I lost them. I lost article after article, and was
-freed from the clinging. I lost a pin for the bodice. I left my laundry
-with a washerwoman. Her village was bombarded, and we had to move on. I
-lost my kit. A woman has a tie-in with those material things, and the
-new life brought freedom from that.
-
-I put on a skirt to return to London for a rest. I found there people
-dressed modishly, and it looked uncomfortable. Styles had been changing:
-women were in funny shoes and hats. I went wondering that they could
-dress like that.
-
-And then an overpowering desire for pretty things came on me--for a
-piece of old lace, a pink ribbon. After sleeping by night in the clothes
-worn through the day, wearing the same two shirts for four months, no
-pajamas, no sheets, with spots of grease and blood on all the costume, I
-had a longing for frivolous things, such as a pink tea gown. Old
-slippers and a bath and shampoo seemed good. I had a wholesome delight
-in a modest clean blouse and in buying a new frock.
-
-I returned to Pervyse. The Germans changed their range: an evening, a
-morning and an afternoon--three separate bombardments with heavy
-shells. The wounded were brought in. Nearly every one died. We piled
-them together, anywhere that they wouldn't be tripped over. To the back
-kitchen we carried the bodies of two boys. One of the orderlies knew
-them. He went in with us to remove the trinkets from their necks. Every
-now and then, he went back again, to look at them. They were very
-beautiful, young, healthy, lying there together in the back kitchen. It
-was a quiet half hour for us, after luncheon. The doctors and nurses
-were reading or smoking. I was writing a letter.
-
-A shell drove itself through the back kitchen wall and exploded over the
-dead boys, bringing rafters and splintered glass and bricks down on
-them. My pencil slid diagonally across the sheet, and I got up. Our two
-orderlies and three soldiers rushed in, holding their eyes from the blue
-fumes of the explosion. When one shell comes, the chances are that it
-will be followed by three more, aimed at the same place. It had always
-been my philosophy that it is better to be "pinked" in the house than on
-the road, but not on this particular day. An army ambulance was standing
-opposite our door, with its nose turned toward the trenches. The
-Belgian driver rushed for the door, slammed it shut because of the
-shells, opened it again. He ran to the car, cranked it, turned it
-around. We stood in the doorway and waited, watching the shells dropping
-with a wail, tearing up the road here, then there. After that we moved
-back to La Panne.
-
-[Illustration: POSTCARDS SKETCHED AND BLOCKED BY A BELGIAN WORKMAN, A.
-VAN DOORNE.
-
-Belgium suffering, but united, is the idea he brings out in his work.]
-
-There I stayed on with Miss Georgie Fyfe, who is doing such excellent
-work among the Belgian refugees. She is chief of the evacuation of
-civilians who still remain in the bombarded villages and farms. She
-brings the old and the sick and the children out of shell fire and finds
-them safe homes. To the Refugee House she takes the little ones to be
-cared for till there are fifty. Then she sends them to Switzerland,
-where brothers and sisters are kept unseparated in family groups until
-the war is over. The Queen busies herself with these children. For the
-newest generation of Belgians Miss Fyfe has established a Maternity
-Hospital. Nearly one hundred babies have come to live there.
-
-It was my work to keep track of clothes and supplies. On a flying trip
-to Paris, I told the American Relief Committee the story of this work,
-and Geoffrey Dodge sent thirty complete layettes, bran-new, four big
-cases, four gunny-sack bags, full of clothing for men, women, and
-children, special brands of milk for young mothers in our maternity
-hospital. Later, he sent four more sacks and four great wooden cases.
-
-We used to tramp through many fields, over a single plank bridging the
-ditches, to reach the lonely shelled farm, and persuade the stubborn,
-unimaginative Flemish parents to give up their children for a safe home.
-One mother had a yoke around her neck, and two heavy pails.
-
-"When can I send my child?" she asked.
-
-She had already sent two and had received happy letters from them. Other
-mothers are suspicious of us, and flatly refuse, keeping their children
-in the danger zone till death comes. During a shelling, the curé would
-telephone for our ambulance. He would collect the little ones and sick
-old people. Miss Fyfe could persuade them to come more easily when the
-shells were falling. At the moment of parting, everybody cries. The
-children are dressed. The one best thing they own is put on--a pair of
-shoes from the attic, stiff new shoes, worked on the little feet unused
-to shoes. Out of a family of ten children we would win perhaps three.
-Back across the fields they trooped to our car, clean faces, matted
-dirty hair, their wee bundle tied up in a colored handkerchief, no hats,
-under the loose dark shirt a tiny Catholic charm. We lifted the little
-people into the big yellow ambulance--big brother and sister, sitting at
-the end to pin them in. We carried crackers and chocolate. They are soon
-happy with the sweets, chattering, enjoying their first motor-car ride,
-and eager for the new life.
-
-
-
-
-LES TRAVAILLEURS DE LA GUERRE
-
-     The boy soldier is willing to make any day his last if it is a good
-     day. It is not so with the middle-aged man. He is puzzled by the
-     war. What he has to struggle with more than bodily weakness is the
-     malady of thought. Is the bloody business worth while?
-
-
-I SAW him first, my middle-aged man, one afternoon on the boards of an
-improvised stage in the sand-dunes of Belgium. On that last thin strip
-of the shattered kingdom English and French and Belgians were grimly
-massed. He was a Frenchman, and he was cheering up his comrades. With
-shining black hair and volatile face, he played many parts that day. He
-recited sprightly verses of Parisian life. He carried on amazing
-twenty-minute dialogues with himself, mimicking the voice of girl and
-woman, bully and dandy. His audience had come in stale from the
-everlasting spading and marching. They brightened visibly under his
-gaiety. If he cared to make that effort in the saddened place, they
-were ready to respond. When he dismissed them, the last flash of him was
-of a smiling, rollicking improvisator, bowing himself over to the
-applause till his black hair was level with our eyes.
-
-And then next day as I sat in my ambulance, waiting orders, he trudged
-by in his blue, "the color of heaven" once, but musty now from nights
-under the rain. His head of hair, which the glossy black wig had
-covered, was gray-white. The sparkling, pantomimic face had dropped into
-wrinkles. He was patient and old and tired. Perhaps he, too, would have
-been glad of some one to cheer him up. He was just one more
-territorial--trench-digger and sentry and filler-in. He became for me
-the type of all those faithful, plodding soldiers whose first strength
-is spent. In him was gathered up all that fatigue and sadness of men for
-whom no glamour remains.
-
-They went past me every day, hundreds of them, padding down the Nieuport
-road, their feet tired from service and their boots road-worn--crowds of
-men beyond numbering, as far as one could see into the dry, volleying
-dust and beyond the dust; men coming toward me, a nation of them. They
-came at a long, uneven jog, a cluttered walk. Every figure was sprinkled
-and encircled by dust--dust on their gray temples, and on their wet,
-streaming faces, dust coming up in puffs from their shuffling feet, too
-tired to lift clear of the heavy roadbed. There was a hot, pitiless sun,
-and every man of them was shrouded in the long, heavy winter coat, as
-soggy as a horse blanket, and with thick leather gaiters, loose,
-flapping, swathing their legs as if with bandages. On the man's back was
-a pack, with the huge swell of the blanket rising up beyond the neck and
-generating heat-waves; a loaf of tough black bread fastened upon the
-knapsack or tied inside a faded red handkerchief; and a dingy, scarred
-tin Billy-can. At his shapeless, rolling waist his belt hung heavy with
-a bayonet in its casing. On the shoulder rested a dirt-caked spade, with
-a clanking of metal where the bayonet and the Billy-can struck the
-handle of the spade. Under a peaked cap showed the bearded face and the
-white of strained eyes gleaming through dust and sweat. The man was too
-tired to smile and talk. The weight of the pack, the weight of the
-clothes, the dust, the smiting sun--all weighted down the man, leaving
-every line in his body sagging and drooping with weariness.
-
-These are the men that spade the trenches, drive the food-transports and
-ammunition-wagons, and carry through the detail duties of small honor
-that the army may prosper. When has it happened before that the older
-generation holds up the hands of the young? At the western front they
-stand fast that the youth may go forward. They fill in the shell-holes
-to make a straight path for less-tired feet. They drive up food to give
-good heart to boys.
-
-War is easy for the young. The boy soldier is willing to make any day
-his last if it is a good day. It is not so with the middle-aged man. He
-is puzzled by the war. What he has to struggle with more than bodily
-weakness is the malady of thought. Is the bloody business worth while?
-Is there any far-off divine event which his death will hasten? The wines
-of France are good wines, and his home in fertile Normandy was pleasant.
-
-As we stood in the street in the sun one hot afternoon, four men came
-carrying a wounded man. The stretcher was growing red under its burden.
-The man's face was greenish white, with a stubble of beard. The flesh of
-his body was as white as snow from loss of blood. It was torn at the
-chest and sides. They carried him to the dressing-station, and half an
-hour later lifted him into our car. We carried him in for two miles.
-Four flies fed on the red rim of his closed left eye. He lay silent,
-motionless. Only a slight flutter of the coverlet, made by his
-breathing, gave a sign of life. At the Red Cross post we stopped. The
-coverlet still slightly rose and fell. The doctor, brown-bearded, in
-white linen, stepped into the car, tapped the man's wrist, tested his
-pulse, put a hand over his heart. Then the doctor muttered, drew the
-coverlet over the greenish-white face, and ordered the marines to remove
-him. In the moment of arrival the wounded man had died.
-
-In the courtyard next our post two men were carrying in long strips of
-wood. This wood was for coffins, and one of them would be his.
-
-A funeral passes our car, one every day, sometimes two: a wooden cross
-in front, carried by a soldier; the white-robed chaplain chanting; the
-box of light wood, on a frame of black; the coffin draped in the
-tricolor, a squad of twenty soldiers following the dead. That is the
-funeral of the middle-aged man. There is no time wasted on him in the
-brisk business of war; but his comrades bury him. One in particular
-faithful at funerals I had learned to know--M. Le Doze. War itself is so
-little the respecter of persons that this man had found himself of value
-in paying the last small honor to the obscure dead as they were carried
-from his Red Cross post to the burial-ground. One hopes that he will
-receive no hasty trench burial when his own time comes.
-
-I cannot write of the middle-aged man of the Belgians because he has
-been killed. That first mixed army, which in thin line opposed its body
-to an immense machine, was crushed by weight and momentum. Little is
-left but a memory. But I shall not forget the veteran officer of the
-first army, near Lokeren, who kept his men under cover while he ran out
-into the middle of the road to see if the Uhlans were coming. The only
-Belgian army today is an army of boys. Recently we had a letter from
-André Simont, of the "Obusiers Lourdes, Beiges," and he wrote:
-
-     If you promise me you will come back for next summer, I won't get
-     pinked. If I ever do, it doesn't matter. I have had twenty years of
-     very happy life.
-
-If he were forty-five, he would say, as a French officer at Coxyde said
-to me:
-
-"Four months, and I haven't heard from my wife and children. We had a
-pleasant home. I was well to do. I miss the good wines of my cellar.
-This beer is sour. We have done our best, we French, our utmost, and it
-isn't quite enough. We have made a supreme effort, but it hasn't cleared
-the enemy from our country. _La guerre--c'est triste._"
-
-He, too, fights on, but that overflow of vitality does not visit him, as
-it comes to the youngsters of the first line. It is easy for the boys of
-Brittany to die, those sailors with a rifle, the stanch Fusiliers
-Marins, who, outnumbered, held fast at Melle and Dixmude, and for twelve
-months made Nieuport, the extreme end of the western battle-line, a
-great rock. It is easy, because there is a glory in the eyes of boys.
-But the older man lives with second thoughts, with a subdued philosophy,
-a love of security. He is married, with a child or two; his garden is
-warm in the afternoon sun. He turns wistfully to the young, who are so
-sure, to cheer him. With him it is bloodshed, the moaning of shell-fire,
-and harsh command.
-
-One afternoon at Coxyde, in the camp of the middle-aged--the
-territorials--an open-air entertainment was given. Massed up the side of
-a sand-dune, row on row, were the bearded men, two thousand of them.
-There were flashes of youth, of course--marines in dark blue, with
-jaunty round hat with fluffy red centerpiece; Zouaves with dusky
-Algerian skin, yellow-sorrel jacket, and baggy harem trousers; Belgians
-in fresh khaki uniform; and Red Cross British Quakers. But the mass of
-the men were middle-aged--territorials, with the light-blue long-coat,
-good for all weathers and the sharp night, and the peaked cap. Over the
-top of the dune where the soldiers sat an observation balloon was
-suspended in a cloudless blue sky, like a huge yellow caterpillar.
-Beyond the pasteboard stage, high on a western dune, two sentries stood
-with their bayonets touched by sunlight. To the south rose a monument to
-the territorial dead. To the north an aëroplane flashed along the line,
-full speed, while gun after gun threw shrapnel at it.
-
-As I looked on the people, suddenly I thought of the Sermon on the
-Mount, with the multitude spread about, tier on tier, hungry for more
-than bread. It was a scene of summer beauty, with the glory of the sky
-thrown in, and every now and then the music of the heart. Half the songs
-of the afternoon were gay, and half were sad with long enduring, and the
-memory of the dear ones distant and of the many dead. Not in lightness
-or ignorance were these men making war. When I saw the multitude and how
-they hungered, I wished that Bernhardt could come to them in the dunes
-and express in power what is only hinted at by humble voices. I thought
-how everywhere we wait for some supreme one to gather up the hope of the
-nations and the anguish of the individual, and make a music that will
-send us forward to the Rhine.
-
-But a better thing than that took place. One of their own came and
-shaped their suffering into song. And together, he and they, they made a
-song that is close to the great experience of war. A Belgian, one of the
-boy soldiers, came forward to sing to the bearded men. And the song that
-he sang was "_La valse des obus_"--"The Dance of the Shells."
-
-"Dear friends, I'm going to sing you some rhymes on the war at the
-Yser."
-
-The men to whom he was singing had been holding the Yser for ten months.
-
-"I want you to know that life in the trenches, night by night, isn't
-gay."
-
-Two thousand men, unshaved and tousled, with pain in their joints from
-those trench nights, were listening.
-
-"As soon as you get there, you must set to work. It doesn't matter
-whether it's a black night or a full moon; without making a sound, close
-to the enemy, you must fill the sand-bags for the fortifications."
-
-Every man on the hill had been doing just that thing for a year.
-
-Then came his chorus:
-
-"Every time we are in the trenches, _Crack!_ There breaks the shell."
-
-But his French has a verve that no literal translation will give. Let us
-take it as he sang it:
-
-"_Crack!_ Il tombe des obus," sang the slight young Belgian, leaning out
-toward the two thousand men of many colors, many nations; and soon the
-sky in the north was spotted with white clouds of shrapnel-smoke.
-
-"There we are, all of us, crouching with bent back--_Crack!_ Once more
-an obus. The shrapnel, which try to stop us at our job, drive us out;
-but the things that bore us still more--_Crack!_--are just those obus."
-
-With each "_Crack!_ Il tombe des obus," the big bass-drum boomed like
-the shell he sang of. His voice was as tense and metallic as a taut
-string, and he snapped out the lilting line in swift staccato as if he
-were flaying his audience with a whip. Man after man on the hillside
-took up the irresistible rhythm in an undertone, and "Cracked" with the
-singer. In front of me was being created a folk-song. The bitterness
-and glory of their life were being told to them, and they were hearing
-the singer gladly. Their leader was lifting the dreary trench night and
-death itself into a surmounting and joyous thing.
-
-"When you've made your entrenchment, then you must go and guard it
-without preliminaries. All right; go ahead. But just as you're moving,
-you have to squat down for a day and a night--yes, for a full
-twenty-four hours--because things are hot. Somebody gives you half a
-drop of coffee. Thirst torments you. The powder-fumes choke you."
-
-Here and there in the crowd, listening intently, men were stirring. The
-lad was speaking to the exact intimate detail of their experience. This
-was the life they knew. What would he make of it?
-
-"Despite our sufferings, we cherish the hope some day of returning and
-finding our parents, our wives, and our little ones. Yes, that is my
-hope, my joyous hope. But to come to that day, so like a dream, we must
-be of good cheer. It is only by enduring patience, full of confidence,
-that we shall force back our oppressors. To chase away those cursed
-Prussians--_Crack_! We need the obus. My captain calling, '_Crack_!
-More, still more of those obus!' Giving them the bayonet in the bowels,
-we shall chase them clean beyond the Rhine. And our victory will be won
-to the waltz of the obus."
-
-It was a song out of the heart of an unconquerable boy. It climbed the
-hillock to the top. The response was the answer of men moved. His song
-told them why they fought on. There is a Belgium, not under an alien
-rule, which the shells have not shattered, and that dear kingdom is
-still uninvaded. The mother would rather lose her husband and her son
-than lose the France that made them. Their earthly presence is less
-precious than the spirit that passed into them out of France. That is
-why these weary men continue their fight. The issue will rest in
-something more than a matter of mathematics. It is the last stand of the
-human spirit.
-
-What is this idea of country, so passionately held, that the women walk
-to the city gates with son and husband and send them out to die? It is
-the aspect of nature shared in by folk of one blood, an arrangement of
-hill and pasture which grew dear from early years, sounds and echoes of
-sound that come from remembered places. It is the look of a land that is
-your land, the light that flickers in an English lane, the bells that
-used to ring in Bruges.
-
-
-+----------------------------------------------------------------+
-|Transcribers note: In the original and html version this poem is|
-|centered, in this text is is rendered flat to the margin.       |
-+----------------------------------------------------------------+
-
-
-
-LA VALSE DES OBUS
-
-    I
-
-  Chers amis, je vais
-  Vous chanter des couplets,
-  Sur la guerre,
-  A l'Yser.
-  Pour vous faire savoir,
-  Que la vie, tous les soirs,
-  Aux tranchées,
-  N'est pas gaie.
-  A peine arrivé,
-  'l Faut aller travailler.
-  Qu'il fasse noir' ou qu'il y ait clair de lune,
-  Et sans fair' du bruit,
-  Nous allons près de l'ennemi,
-  Remplir des sacs pour fair' des abris.
-
-    Ir et IIe Refrain
-
-  Chaqu' fois que nous sommes aux tranchées,
-  Crack! Il tombe des obus.
-
-  Nous sommes tous là, le dos courbée
-  Crack! Encore un obus.
-  Les shrapnels pour nous divetir,
-  Au travail, nous font déguerpir.
-  Mais, et qui nous ennuie le plus,
-  Crack! se sont les obus.
-
-    II
-
-  L'abri terminé,
-  'l Faut aller l'occuper,
-  Sans façons.
-  Allez-donc.
-  Pas moyen d' se bouger
-  Donc, on doit y rester
-  Accroupi,
-  Jour et nuit,
-  Pendant la chaleur,
-  Pour passer vingt-quatr' heures.
-  On nous donn' une d'mi gourde de café.
-  La soif nous tourmente,
-  Et la poudre asphyxiante,
-  Nous étouffe au dessus du marché.
-
-    III
-
-  Malgré nos souffrances,
-  Nous gardons l'espérance
-  D' voir le jour,
-  De notr' retour
-  De r'trouver nos parents,
-  Nos femmes et nos enfants.
-  Plein de joie,
-  Oui ma foi,
-  Mais pour arriver,
-  A ce jour tant rêvé,
-  Nous devons tous y mettre du coeur,
-  C'est avec patience,
-  Et plein de confiance,
-  Que nous repouss'rons les oppresseurs.
-
-  Refrain
-
-  Pour chasser ces maudits All'mands
-  Crack! Il faut des obus.
-  En plein dedans mon commandant,
-  Crack! Encore des obus.
-  Et la baionnett' dans les reins,
-  Nous les chass'rons au delà du Rhin.
-  La victoire des Alliés s'ra dûe
-  A la valse des obus.
-
-
-
-
-    _There is little value in telling of suffering unless something can
-    be done about it. So I close this book with an appeal for help in a
-    worthy work._
-
-
-
-
-REMAKING FRANCE
-
-
-There was a young peasant farmer who went out with his fellows, and
-stopped the most powerful and perfectly equipped army of history. He
-saved France, and the cause of gentleness and liberty. He did it by the
-French blood in him--in gay courage and endurance. He was happy in doing
-it, or, if not happy, yet glorious. But he paid the price. The enemy
-artillery sent a splinter of shell that mangled his arm. He lay out
-through the long night on the rich infected soil. Then the stretcher
-bearers found him and lifted him to the car, and carried him to the
-field hospital. There they had to operate swiftly, for infection was
-spreading. So he was no longer a whole man, but he was still of good
-spirit, for he had done his bit for France. Then they bore him to a base
-hospital, where he had white sheets and a wholesome nurse. He lay there
-weak and content. Every one was good to him. But there came a day when
-they told him he must leave to make room for the fresher cases of need.
-So he was turned loose into a world that had no further use for him. A
-cripple, he couldn't fight and he couldn't work, for his job needed two
-arms, and he had given one, up yonder on the Marne. He drifted from shop
-to shop in Paris. But he didn't know a trade. Life was through with him,
-so one day, he shot himself.
-
-That, we learn from authoritative sources, is the story of more than one
-broken soldier of Joffre's army.
-
-To be shot clean dead is an easier fate than to be turned loose into
-life, a cripple, who must beg his way about. Shall these men who have
-defended France be left to rot? All they ask is to be allowed to work.
-It is gallant and stirring to fight, and when wounded the soldier is
-tenderly cared for. But when he comes out, broken, he faces the
-bitterest thing in war. After the hospital--what? Too bad, he's
-hurt--but there is no room in the trades for any but a trained man.
-
-Why not train him? Why not teach him a trade? Build a bridge that will
-lead him from the hospital over into normal life. That is better than
-throwing him out among the derelicts. Pauperism is an ill reward for the
-service that shattered him, and it is poor business for a world that
-needs workers. If these crippled ones are not permitted to reconstruct
-their working life, the French nation will be dragged down by the
-multitude of maimed unemployable men, who are being turned loose from
-the hospitals--unfit to fight, untrained to work: a new and
-ever-increasing Army of The Miserable. The stout backbone and stanch
-spirit of even France will be snapped by this dead-weight of suffering.
-
-In our field hospital at Fumes, we had one ward where a wave of gaiety
-swept the twenty beds each morning. It came when the leg of the bearded
-man was dressed by the nurse. He thrust it out from under the covering:
-a raw stump, off above the ankle. It was an old wound, gone sallow with
-the skin lapped over. The men in the cots close by shouted with laughter
-at the look of it, and the man himself laughed till he brought pain to
-the wound. Then he would lay hold of the sides of the bed to control
-his merriment. The dressing proceeded, with brisk comment from the
-wardful of men, and swift answers from the patient under treatment. The
-grim wound had so obviously made an end of the activity of that
-particular member and, as is war's way, had done it so evilly, with such
-absence of beauty, that only the human spirit could cover that hurt. So
-he and his comrades had made it the object of gaiety.
-
-For legless men, there are a dozen trades open, if they are trained.
-They can be made into tailors, typists, mechanicians. The soldiers'
-schools, already established, report success in shoemaking, for
-instance. The director sends us this word:--
-
-"From the first we had foreseen for this the greatest success--the
-results have surpassed our hopes. We are obliged to double the size of
-the building, and increase the number of professors.
-
-"Why?
-
-"Because, more than any other profession, that of shoemaking is the most
-feasible in the country, in the village, in the small hamlet. This is
-the one desire of most of these wounded soldiers: before everything,
-they wish to be able to return to their homes. And all the more if a
-wife and children wait them there, in a little house with a patch of
-garden. Out of our fifty men now learning shoemaking, twenty-nine were
-once sturdy farm laborers. The profession is not fatiguing and, in spite
-of our fears, not one of our leg-amputated men has given up his
-apprenticeship on account of fatigue or physical inability."
-
-Very many of the soldiers are maimed in hand or arm. On the broad beach
-of La Panne, in front of the Ocean Hospital of Dr. Depage, a young
-soldier talked with my wife one afternoon. Early in the war his right
-arm had been shot through the bicep muscle. He had been sent to London,
-where a specialist with infinite care linked the nerves together. Daily
-the wounded boy willed strength into the broken member, till at last he
-found he could move the little finger. It was his hope to bring action
-back to the entire hand, finger by finger.
-
-"You can't do anything--you can't even write," they said to him. So he
-met that, by schooling his left hand to write.
-
-"Your fighting days are over," they said. He went to a shooting gallery,
-and with his left arm learned how to hold a rifle and aim it. Through
-the four months of his convalescence he practised to be worthy of the
-front line. The military authorities could not put up an objection that
-he did not meet. So he won his way back to the Yser trenches. And there
-he had received his second hurt and this time the enemy wounded him
-thoroughly. And now he was sitting on the sands wondering what the
-future held for him.
-
-Spirit like that does not deserve to be broken by despair. Apparatus has
-been devised to supply the missing section of the arm, and such a trade
-as toy-making offers a livelihood. It is carried on with a sense of fun
-even in the absence of all previous education. One-armed men are largely
-employed in it. Let us enter the training shop at Lyon, and watch the
-work. The wood is being shot out from the sawing-machine in thin strips
-and planed on both sides. This is being done by a man, who used to earn
-his living as a packer, and suffered an amputation of his right leg. The
-boards are assembled in thicknesses of twenty, and cut out by a "ribbon
-saw." This is the occupation of a former tile layer, with his left leg
-gone. Others employed in the process are one-armed men.
-
-Of carpentry the report from the men is this: "This work seems to
-generate good humor and liveliness. For this profession two arms are
-almost necessary. It can be practised by a man whose leg has been
-amputated, preferably the right leg, for the resting point, in handling
-the plane, is on the left leg. However, we cannot forget that one-armed
-men have achieved wonderful results."
-
-The profits of the work are divided in full among the pupils as soon as
-they have reached the period of production. Each section has its
-individual fund box. The older members divide among themselves two
-thirds of the gain. The more recently trained take the remainder. The
-new apprentices have nothing, because they make no finished product as
-yet. That was the rule of the shop. But certain sections petitioned that
-the profits should be equally divided among all, without distinction.
-They said that among the newcomers there were many as needy as the
-older apprentices.
-
-The director says:
-
-"This request came from too noble a sentiment not to be granted,
-especially as in this way we are certain that our pupils will see to the
-discipline of the workshops, being the first concerned that no one shall
-shirk."
-
-He adds:
-
-"I wish to cite an incident. One of the pupils of the group of
-shoemakers, having been obliged to remain over a month in the hospital,
-had his share fall to nothing. His comrades got together and raised
-among themselves a sum equal to their earnings, so that his enforced
-absence would not cause him to suffer any loss. These are features one
-is happy to note, because they reveal qualities of heart in our pupils,
-much to be appreciated in those who have suffered, and because they show
-that our efforts have contributed to keep around them an atmosphere
-where these qualities can develop."
-
-The war has been ingenious in devising cruel hurts, robbing the painter
-of his hand, the musician of his arm, the horseman of his leg. It has
-taken the peasant from his farm, and the mason from his building. Their
-suffering has enriched them with the very quality that will make them
-useful citizens, if they can be set to work, if only some one will show
-them what to do. For each of these men there is an answer for his
-wrecked life, and the answer is found in these workshops where disabled
-soldiers can learn the new trade fitted to their crippled condition.
-
-It costs only four to five francs a day to support the man during his
-period of education. The length of time of his tuition depends on the
-man and his trade--sometimes three months, sometimes six months. One
-hundred dollars will meet the average of all cases. The Americans in
-Paris raised $20,000 immediately on learning of this need. In our
-country we are starting the "American Committee for Training in Suitable
-Trades the Maimed Soldiers of France." Mrs. Edmund Lincoln Baylies is
-chairman for the United States. Her address is Room B, Plaza Hotel, New
-York.
-
-We have been owing France through a hundred years for that little
-matter of first aid in our American Revolution. Here is an admirable
-chance to show we are still warmed by the love and succor she rendered
-us then.
-
-At this moment 30,000 maimed soldiers are asking for work; 30,000 jobs
-are ready for them. The employers of France are holding the positions
-open, because they need these workers. Only the training is lacking.
-This society to train maimed soldiers is not in competition with any
-existing form of relief work: it supplements all the others--ambulances
-and hospitals and dressing stations. They are temporary, bridging the
-month of calamity. This gives back to the men the ten, twenty, thirty
-years of life still remaining. They must not remain the victims of their
-own heroism. They ask only to be permitted to go on with their work for
-France. They will serve in the shop and the factory as they have served
-at the Aisne and the Yser. This is a charity to do away with the need of
-charity. It is help that leads directly to self-help.
-
-
-THE END
-
-
-
-
-FOOTNOTES
-
-[A] When I first published these statements the following letter
-appeared in the "New York Tribune":--
-
-    GERMANY'S SPY SYSTEM
-
-    To the Editor of "The Tribune."
-
-    Sir: I was particularly interested in the article by Mr. Gleason in
-    this morning's "Tribune" because, having spent several months in
-    this region in ambulance work, I am able to support several of his
-    statements from personal observation.
-
-    The house he mentions on the beach near Coxyde Bains was beyond
-    doubt intended for the purpose he describes. I visited it several
-    times before it was completely destroyed, and have now in my
-    possession photographs which show the nature of the building,
-    besides a tile from the flooring.
-
-    Two instances in which spies were detected came to my knowledge; in
-    one case the person in question was the mayor of the town, in the
-    other a peasant woman. One other time I know of information was
-    given undetected which resulted in the shelling of a road at a time
-    when a convoy of motors was about to pass.
-
-    The high esteem in which the Red Cross flag is held by German
-    gunners (as a target) is only too forcibly impressed upon one in
-    that service.
-
-                                        MALCOLM T. ROBERTSON.
-
-Mr. Robertson is a member of the Junior Class in Princeton University.
-
-
-[B] When this record was first made public the "New York Tribune" stated
-editorially:--
-
-"The writer of the foregoing communication was for several years a
-member of 'The Tribune' staff. For the utter trustworthiness of any
-statement made by Mr. Gleason, this newspaper is willing to vouch. Mr.
-Gleason was at the front caring for the Belgian wounded. He speaks with
-full knowledge and complete authority and 'The Tribune' is glad to be
-able to submit to its readers a first-hand, eye-witness account of
-atrocities written by an American. It calls attention again to the fact,
-cited by Mr. Gleason, that his testimony is included in the Bryce
-Report, which should give Americans new insight into the value of this
-document."
-
-When Theodore Roosevelt read this record of German atrocity, he made the
-following public statement:
-
-"Remember, there is not the slightest room for honest question either as
-to the dreadful, the unspeakably hideous, outrages committed on the
-Belgians, or as to the fact that these outrages were methodically
-committed by the express command of the German Government in order to
-terrorize both the Belgians and among neutrals those men who are as cold
-and timid and selfish as our governmental leaders have shown themselves
-to be. Let any man who doubts read the statement of an American
-eye-witness of these fearful atrocities, Mr. Arthur H. Gleason, in the
-'New York Tribune' of November 25, 1915."
-
-From the Bryce Report, English edition, Page 167.
-
-_British subject_:--
-
-"The girl was at the point of death. Mr. G---- was with me and can
-corroborate me as to this and also as to the other facts mentioned
-below. On the same day at the same place I saw one L. de M----. I took
-this statement from him.... He signed his statement in my pocket book,
-and I hold my pocket book at the disposal of the Belgian and English
-authorities.
-
-"I also saw at the hospital an old woman of eighty who was run clean
-through by a bayonet thrust.
-
-"I next went up to another wounded Belgian in the same ward. His name
-was F. M----. I wrote his statement in my pocket book and he signed it
-after having read it."
-
-The full statement in the Bryce Report of the atrocities which I
-witnessed covers a page. The above sentences are extracts. Mr. Niemira
-had neglected to make a note of the exact date in his pocket book, and
-calls it "about the 15th of September." It was September 29.
-
-
-[C] If any one wants a history of them, and the world ought to want it,
-the book of their acts, is it not written in singing prose in Le
-Goffic's "Dixmude, un Chapitre de l'histoire des Fusiliers Marins"? Le
-Goffic is a Breton and his own son is with the fighting sailors. He
-deals with their autumn exploits in Dixmude on the Yser, that butt-end
-of wreck. Legends will spring out of them and the soil they have
-reddened. We have heard little of the French in this war--and almost
-nothing at all from them. And yet it is the French that have held the
-decisive battle line. Unprepared and peace-loving, they have stood the
-shock of a perfectly equipped and war-loving army.
-
-Monsieur Le Goffic is the official historian of the Fusiliers Marins.
-His book has gone through forty-nine editions. He is a poet, novelist
-and critic. That American sympathy is appreciated is proved by this
-sentence from a letter of Le Goffic to an American who had expressed
-admiration for the Breton sailors:--"Merci, Monsieur, au nom de mon
-pays, merci pour nos marins, et merci pour moi meme."
+--Guerreiro branco, espera que Cauby volte da caça. O irmão de Iracema
+tem o ouvido subtil que pressente a boicininga entre os rumores da
+matta; e o olhar do oitibó que vê melhor na treva. Elle te guiará ás
+margens do rio das garças.
+
+--Quanto tempo se passará antes que o irmão de Iracema esteja de volta
+na cabana de Araken?
+
+--O sol, que vae nascer, tornará com o guerreiro Cauby aos campos do
+Ipú.
+
+--Teu hospede espera, filha de Araken: mas se o sol tornando, não
+trouxer o irmão de Iracema, elle levará o guerreiro branco á taba dos
+Pytiguaras.
+
+Martim voltou á cabana do Pagé.
+
+A alva rêde que Iracema perfumara com a resina do beijoim guardava-lhe
+um somno calmo e doce. O christão adormeceu ouvindo suspirar, entre os
+murmurios da floresta, o canto mavioso da virgem indiana.
+
+
+
+
+V
+
+
+O gallo da campina ergue a poupa escarlate fora do ninho. Seu limpido
+trinado annuncia a aproximação do dia.
+
+Ainda a sombra cobre a terra. Já o povo selvagem colhe as redes na
+grande taba e caminha para o banho. O velho Pagé que velou toda a
+noite, falando ás estrellas, conjurando os máus espiritos da treva,
+entra furtivamente na cabana.
+
+Eis retroa o boré pela amplidão do valle.
+
+Travam das armas os rapidos guerreiros, e correm ao campo. Quando fôram
+todos na vasta ocára circular, Irapuam, o chefe, soltou o grito de
+guerra.
+
+--Tupan deu á grande nação tabajara toda esta terra. Nós guardamos
+as serras, que manam os corregos, com os frescos ipús onde cresce a
+maniva e o algodão; e abandonamos ao barbaro Potyuara, comedor de
+camarão, as areias núas do mar, com os sêccos taboleiros sem agua e
+sem florestas. Agora os pescadores da praia, sempre vencidos, deixam vir
+pelo mar a raça branca dos guerreiros de fogo, inimigos de Tupan. Já
+os emboabas estiveram no Jaguaribe; logo estarão em nossos campos; e
+com elles os Potyuaras. Faremos nós, senhores das aldeias, como a
+pomba, que se encolhe em seu ninho, quando a serpente enrosca pelos
+galhos?
+
+O irado chefe brande o tacape e o arremessa no meio do campo. Derrubando
+a fronte, cobre o rubido olhar:
+
+--Irapuam falou; disse.
+
+O mais moço dos guerreiros avança:
+
+--O gavião paira nos ares. Quando a nambú levanta, elle cae das nuvens
+e rasga as entranhas da victima. O guerreiro tabajara, filho da serra,
+é como o gavião.
+
+Troa e retroa a pocema da guerra.
+
+O joven guerreiro erguera o tacape; e por sua vez o brandio. Girando no
+ar, rapida e ameaçadora, a arma do chefe passou de mão em mão.
+
+O velho Andira, irmão do Pagé, a deixou tombar, e calcou no chão, com
+o pé agil ainda e firme.
+
+Pasma o povo tabajara da acção desusada. Voto de paz em tão provado e
+impetuoso guerreiro! É o velho heroe, que cresceu na sanha, crescendo
+nos annos, é o feroz Andira quem derrubou o tacape, nuncio da proxima
+lucta?
+
+Incertos todos e mudos escutam:
+
+--Andira, o velho Andira, bebeu mais sangue na guerra do que já beberam
+cauim nas festas de Tupan, todos quantos guerreiros allumia agora a luz
+de seus olhos. Elle viu mais combates em sua vida do que luas lhe
+despiram a fronte. Quanto craneo de Potyuara escalpellou sua mão
+implacavel, antes que o tempo lhe arrancasse o primeiro cabello? E o
+velho Andira nunca temeu que o inimigo pisasse a terra de seus paes: mas
+alegrava-se quando elle vinha, e sentia com o faro da guerra a juventude
+renascer no corpo decrepito, como a arvore sêcca renasce com o sopro do
+inverno. A nação tabajara é prudente. Ella deve encostar o tacape da
+lucta para tanger o memby da festa. Celebra, Irapuam, a vinda dos
+emboabas e deixa que cheguem todos aos nossos campos. Então Andira te
+promette o banquete da victoria.
+
+Desabriu emfim Irapuam a funda colera:
+
+--Fica tu, escondido entre as igaçabas de vinho, tica, velho morcego,
+porque temes a luz do dia, e só bebes o sangue da victima que dorme.
+Irapuam leva a guerra no punho de seu tacape. O terror que elle inspira
+voa com o rouco som do boré. O Potyuara já tremeu ouvindo rugir na
+serra, mais forte que o ribombo do mar.
+
+
+
+
+VI
+
+
+Martim vae a passo e passo por entre os altos joaseiros que cercam a
+cabana do Pagé.
+
+Era o tempo em que o doce aracaty chega do mar, e derrama a deliciosa
+frescura pelo arido sertão. A planta respira; um dôce arrepio irriça
+a verde coma da floresta.
+
+O christão contempla o occaso do sol. A sombra, que desce dos montes e
+cobre o valle, penetra sua alma. Lembra-se do lugar onde nasceu, dos
+entes queridos que alli deixou. Sabe elle se tornará a vel-os algum
+dia?
+
+Em tôrno carpe a natureza o dia que expira. Soluça a onda trepida e
+lacrimosa; geme a brisa na folhagem; o mesmo silencio anhela de
+afflicto.
+
+Iracema parou em face do joven guerreiro:
+
+--É a presença de Iracema que perturba a serenidade no rosto do
+extrangeiro?
+
+Martim pousou brandos olhos na face da virgem:
+
+--Não, filha de Araken: tua presença alegra, como a luz da manhã. Foi
+a lembrança da patria que trouxe a saudade ao coração presago.
+
+--Uma noiva te espera?
+
+O forasteiro desviou os olhos. Iracema dobrou a cabeça sobre a espadua,
+como a tenra palma da carnaúba, quando a chuva peneira na varsea.
+
+--Ella não é mais doce do que Iracema, a virgem dos labios de mel; nem
+mais formosa! murmurou o extrangeiro.
+
+--A flor da mata é formosa quando tem rama que a abrigue, e tronco onde
+se enlace. Iracema não vive n'alma de um guerreiro: nunca sentiu a
+frescura de seu sorriso.
+
+Emmudeceram ambos, com os olhos no chão, escutando a palpitação dos
+seios que batiam oppressos.
+
+A virgem falou emfim:
+
+--A alegria voltará logo á alma do guerreiro branco; porque Iracema
+quer que elle veja antes da noite a noiva que o espera.
+
+Martim sorriu do ingenuo desejo da filha do Pagé.
+
+--Vem! disse a virgem.
+
+Atravessaram o bosque e desceram ao valle. Onde morria a falda da
+collina o arvoredo era basto: densa abobada de folhagem verde-negra
+cobria o adyto agreste, reservado aos mysterios do rito barbaro.
+
+Era de jurema o bosque sagrado. Em torno corriam os troncos rugosos da
+arvore de Tupan; dos galhos pendiam occultos pela rama escura os vasos
+do sacrificio: lastravam o chão as cinzas de extincto fogo, que servira
+á festa da ultima lua.
+
+Antes de penetrar o recondito sitio, a virgem que conduzia o guerreiro
+pela mão, hesitou, inclinando o ouvido subtil aos suspiros da brisa.
+Todos os ligeiros rumores da mata tinham uma voz para a selvagem filha
+do sertão. Nada havia porém de suspeito no intenso respiro da
+floresta.
+
+Iracema fez ao extrangeiro um gesto de espera e silencio, e desappareceu
+no mais sombrio do bosque. O sol ainda pairava suspenso no viso da
+serrania: e já noite profunda enchia aquella solidão.
+
+Quando a virgem tornou, trazia n'uma folha gottas de verde extranho
+licor vasadas da igaçaba, que acabava de tirar do seio da terra.
+Apresentou ao guerreiro a taça agreste.
+
+--Bebe!
+
+Martim sentiu perpassar nos olhos o somno da morte: porém logo a luz
+inundou os seios d'alma: a fôrça exhuberou no coração. Reviveu os
+dias passados melhor do que os tinha vivido: fruiu a realidade de suas
+mais bellas esperanças.
+
+Eil-o que volta á terra natal, abraça sua velha mãe, revê mais lindo
+e terno o anjo puro dos amores infantis.
+
+Mas porque, mal de volta ao berço da patria, o joven guerreiro de novo
+abandona o tecto paterno e demanda o sertão?
+
+Já atravessa as florestas; já chega aos campos do Ipú. Busca na selva
+a filha do Pagé. Segue o rastro ligeiro da virgem arisca, soltando á
+brisa com o crebro suspiro o doce nome:
+
+--Iracema! Iracema!...
+
+Já a alcança e cinge-lhe o braço pelo talhe esbelto.
+
+Cedendo á meiga pressão, a virgem reclinou ao peito do guerreiro, e
+ficou alli tremula e palpitante como a timida perdiz, quando o terno
+companheiro lhe arrufa com o bico a macia penugem.
+
+O labio do guerreiro suspirou mais uma vez o doce nome e soluçou, como
+se chamara outro labio amante. Iracema sentiu que sua alma se escapava
+para embeber-se no osculo ardente.
+
+E a fronte reclinava, e a flôr do sorriso desabrochava já para
+deixar-se colher.
+
+Subito a virgem tremeu; soltando-se rapida do braço que a cingia,
+travou do arco.
+
+
+
+
+VII
+
+
+Iracema passou entre as arvores, silenciosa como uma sombra: seu olhar
+scintillante coava entre as folhas, quaes frouxos raios de estrellas:
+ella escutava o silencio profundo da noite e aspirava as auras subtis
+que afflavam.
+
+Parou. Uma sombra resvallava entre as ramas; e nas folhas crepitava um
+passo ligeiro, se não era o roer de algum insecto. A pouco e pouco o
+tenue rumor foi crescendo e a sombra avultou.
+
+Era um guerreiro. De um salto a virgem estava em face d'elle, tremula de
+susto e mais de colera.
+
+--Iracema! exclamou o guerreiro recuando.
+
+--Anhanga turvou sem duvida o somno de Irapuam, que o trouxe perdido ao
+bosque da jurema, onde nenhum guerreiro penetra sem a vontade de Araken.
+
+--Não foi Anhanga, mas a lembrança de Iracema, que turvou o somno do
+primeiro guerreiro tabajara. Irapuam desceu de seu ninho de aguia para
+seguir na varzea a garça do rio. As vozes da taba contaram ao ouvido do
+chefe que um extrangeiro era vindo á cabana de Araken.
+
+A virgem estremeceu. O guerreiro cravou n'ella o olhar abrazado:
+
+--O coração aqui no peito de Irapuam, ficou tigre. Pulou de raiva.
+Veio farejando a presa. O extrangeiro está no bosque, e Iracema o
+acompanhava. Quero beber-lhe o sangue todo: quando o sangue do guerreiro
+branco correr nas veias do chefe tabajara, talvez o ame a filha de
+Araken.
+
+A pupilla negra da virgem scintillou na treva, e de seu labio borbulhou
+como gottas do leite caustico da euphorbia, um sorriso de despreso:
+
+--Nunca Iracema daria seu seio, que o espirito de Tupan habita só, ao
+guerreiro mais vil dos guerreiros tabajaras! Torpe é o morcego porque
+foge da luz e bebe o sangue da victima adormecida!...
+
+--Filha de Araken! Não assanha o jaguar! O nome de Irapuam voa mais
+longe que o goaná do lago, quando sente a chuva além das serras. Que o
+guerreiro branco venha, e o seio de Iracema se abra para o vencedor.
+
+--O guerreiro branco é hospede de Araken. A paz o trouxe aos campos do
+Ipú, a paz o guarda. Quem offender o extrangeiro, offende o Pagé.
+
+Rugiu de sanha o chefe tabajara:
+
+--A raiva de Irapuam só ouve agora o grito da vingança. O extrangeiro
+vae morrer.
+
+--A filha de Araken é mais forte que o chefe dos guerreiros, disse
+Iracema travando da inubia. Ella tem aqui a voz de Tupan, que chama o
+seu povo.
+
+--Mas ella não chamará! respondeu o chefe escarnecendo.
+
+--Não, porque Irapuam vae ser punido pela mão de Iracema. Seu primeiro
+passo, é o passo da morte.
+
+A virgem retrahiu d'um salto o avanço que tomara, e vibrou o arco. O
+chefe cerrou ainda o punho do formidavel tacape; mas pela vez primeira
+sentio que pesava ao braço robusto. O golpe que devia ferir Iracema,
+ainda não alçado, já lhe trespassava, a elle proprio, o coração.
+
+Conheceu quanto o varão forte, é pela sua mesma fortaleza, mais
+vencido das grandes paixões.
+
+--A sombra de Iracema não esconderá sempre o extrangeiro á vingança
+de Irapuam. Vil é o guerreiro, que se deixa proteger por uma mulher.
+
+Dizendo estas palavras, o chefe desappareceu entre as arvores. A virgem
+sempre alerta volveu para o christão adormecido; e velou o resto da
+noite a seu lado. As emoções recentes, que agitaram sua alma, a
+abriram inda mais á doce affeição, que iam filtrando n'ella os olhos
+do extrangeiro.
+
+Desejava abrigal-o contra todo o perigo, recolhel-o em si como em um
+asylo impenetravel. Acompanhado o pensamento, seus braços cingiam a
+cabeça do guerreiro, e a apertavam ao seio.
+
+Mas quando passou a alegria de vêr o extrangeiro salvo dos perigos da
+noite, entrou-a mais viva a inquietação, com a lembrança dos novos
+perigos que iam surgir.
+
+--O amor de Iracema é como o vento dos areaes; mata a flôr das
+arvores: suspirou a virgem.
+
+E afastou-se lentamente.
+
+
+
+
+VIII
+
+
+A alvorada abriu o dia e os olhos do guerreiro branco. A luz da manhã
+dissipou os sonhos da noite: e arrancou de sua alma a lembrança do que
+sonhara. Ficou apenas um vago sentir, como fica na moita o perfume do
+cacto que o vento da serra desfolha na madrugada.
+
+Não sabia onde estava.
+
+Á sahida do bosque sagrado encontrou Iracema: a virgem reclinava n'um
+tronco aspero do arvoredo: tinha os olhos no chão: o sangue fugira das
+faces; o coração lhe tremia nos labios, como gôtta de orvalho nas
+folhas do bambú.
+
+Não tinha sorrisos, nem cores, a virgem indiana; não tem borbulhas,
+nem rosas, a acacia que o sol crestou; não tem azul, nem estrellas, a
+noite que enluctam os ventos.
+
+--As flôres da matta já abriram aos raios do sol; as aves já
+cantaram: disse o guerreiro. Porque só Iracema curva a fronte e
+emmudece?
+
+A filha do Pagé estremeceu. Assim estremece a verde palma, quando a
+haste fragil foi abalada; rorejam do espato as lagrimas da chuva; e os
+leques ciciam brandamente:
+
+--O guerreiro Cauby vae chegar á taba de seus irmãos. O extrangeiro
+poderá partir com o sol que vem nascendo.
+
+--Iracema quer vêr o extrangeiro fora dos campos dos Tabajaras; então
+a alegria voltará ao seu seio.
+
+--A juruty, quando a arvore secca, abandona o ninho em que nasceu.
+Nunca mais a alegria voltará ao seio de Iracema: ella vae ficar, como o
+tronco nú, sem ramas, nem sombras.
+
+Martim amparou o corpo tremulo da virgem; ella reclinou languida sobre o
+peito do guerreiro, como o tenro pampano da baunilha que enlaça o rijo
+galho do anjico.
+
+O mancebo murmurou:
+
+--Teu hospede fica, virgem dos olhos negros: elle fica para ver abrir em
+tuas faces a flôr da alegria e para colher, como a abelha, o mel de
+teus mimosos labios.
+
+Iracema soltou-se dos braços do mancebo, e olhou-o com tristeza:
+
+--Guerreiro branco, Iracema é filha do Pagé, e guarda o segredo da
+jurema. O guerreiro que possuisse a virgem de Tupan morreria.
+
+--E Iracema?
+
+--Pois que tu morrias!
+
+Esta palavra foi sopro de tormenta. A cabeça do mancebo vergou e pendeu
+sobre o peito: mas logo se ergueu.
+
+--Os guerreiros de meu sangue trazem a morte comsigo, filha dos
+Tabajaras. Não a temem para si, não a poupam para o inimigo. Mas nunca
+fóra do combate elles deixaram aberto o camocim da virgem na taba de
+seu hospede. A verdade falou pela bôcca de Iracema. O extrangeiro deve
+abandonar os campos dos Tabajaras.
+
+--Deve: respondeu a virgem como um ecco.
+
+Depois a sua voz suspirou:
+
+--O mel dos labios de Iracema é como o favo que a abelha fabrica no
+tronco da guabiroba: tem na doçura o veneno. A virgem dos olhos azues e
+dos cabellos do sol guarda para seu guerreiro na taba dos brancos o mel
+da assucena.
+
+Martim afastou-se rapido, e voltou, mas lentamente, A palavra tremia em
+seu labio:
+
+--O extrangeiro partirá para que o socego volte ao seio da virgem.
+
+--Tu levas a luz dos olhos de Iracema, e a flôr de sua alma.
+
+Reboa longe na selva um clamor extranho. Os olhos do mancebo alongam-se.
+
+--É o grito de alegria do guerreiro Cauby: disse a virgem. O irmão de
+Iracema annuncia a sua boa chegada aos campos dos Tabajaras.
+
+--Filha de Araken, guia teu hospede á cabana. É tempo de partir.
+
+Elles caminharam par a par como dois jovens cervos ao pôr do sol
+atravessam a capoeira recolhendo ao aprisco d'onde lhes traz a brisa um
+faro suspeito.
+
+Quando passavam entre os joazeiros, viram que atravessava além o
+guerreiro Cauby, vergando os hombros robustos ao peso da caça. Iracema
+caminhou para elle.
+
+O extrangeiro entrou só na cabana.
+
+
+
+
+IX
+
+
+O somno da manhã pousava nos olhos do Pagé como nevoas de bonança
+pairam ao romper do dia sobre as profundas cavernas da montanha.
+
+Martim parou indeciso; mas o rumor de seu passo penetrou o ouvido do
+ancião, e abalou o corpo decrepito.
+
+--Araken dorme! murmurou o guerreiro devolvendo o passo.
+
+O velho ficou immovel:
+
+--O Pagé dorme porque já Tupan voltou o rosto para a terra e a luz
+correu os máus espiritos da treva. Mas o somno é leve nos olhos de
+Araken, como o fumo do sapé no cocuruto da serra. Se o extrangeiro veiu
+para o Pagé, fale; seu ouvido escuta.
+
+--O extrangeiro veiu, para te annunciar que parte.
+
+--O hospede é senhor na cabana de Araken; todos os caminhos estão
+abertos para elle. Tupan o leve á taba dos seus.
+
+Vieram Cauby e Iracema:
+
+--Cauby voltou; disse o guerreiro tabajara. Traz a Araken o melhor da
+sua caça.
+
+--O guerreiro Cauby é um grande caçador de montes e florestas. Os
+olhos de seu pae gostam de vêl-o.
+
+O velho abriu as palpebras e cerrou-as logo:
+
+--Filha de Araken, escolhe para teu hospede o presente da volta, e
+prepara o moquem da viagem. Se o extrangeiro precisa de guia, o
+guerreiro Cauby, senhor do caminho, o acompanhará.
+
+O somno voltou aos olhos do Pagé.
+
+Emquanto Cauby pendurava no fumeiro as peças de caça, Iracema colheu a
+sua alva rede de algodão com franjas de pennas, e accommodou-a dentro
+do urú de palha trançada.
+
+Martim esperava na porta da cabana. A virgem veiu para elle:
+
+--Guerreiro, que levas o somno de meus olhos, leva á minha rede tambem.
+Quando n'ella dormires, falem em tua alma os sonhos de Iracema.
+
+--A tua rede, virgem dos Tabajaras, será minha companheira no deserto:
+venha embora o vento frio da noite, ella guardará para o extrangeiro o
+calor e o perfume do seio de Iracema.
+
+Cauby sahiu para ir á sua cabana, que ainda não tinha visto depois da
+volta. Iracema foi preparar o moquem da viagem. Ficaram sós na cabana o
+Pagé que resonava, e o mancebo com a sua tristeza.
+
+O sol transmontando, já começava a declinar para o occidente, quando o
+irmão de Iracema tornou da grande taba.
+
+--O dia vae ficar triste, disse Cauby. A sombra já caminha para a
+noite. É tempo de partir.
+
+A virgem pousou a mão de leve no punho da rêde de Araken.
+
+--Elle vae! murmuraram os labios tremulos.
+
+O Pagé levantou-se em pé no meio da cabana e accendeu o cachimbo. Elle
+e o mancebo trocaram a fumaça da despedida:
+
+--Bem ido seja o hospede, como foi bem vindo á cabana de Araken.
+
+O velho andou até á porta, para soltar ao vento uma espessa baforada
+de tabaco: quando o fumo a dissipou no ar, elle murmurou:
+
+--Jurupary se esconda para deixar passar o hospede do Pagé.
+
+Araken voltou á rêde e dormiu de novo. O mancebo tomou as suas armas
+mais pesadas que chegando suspendera ás varas da cabana e se dispôz a
+partir.
+
+Adiante seguiu Cauby: a alguma distancia o extrangeiro: logo apóz
+d'elle Iracema.
+
+Desceram a colina e entraram na matta sombria. O sabiá do sertão,
+mavioso cantor da tarde, escondido nas moitas espessas da ubaia, soltava
+já os preludios da suave endeixa.
+
+A virgem suspirou:
+
+--A tarde é a tristeza do sol. Os dias de Iracema vão ser longas
+tardes sem manhã, até que venha para ella a grande noite.
+
+O mancebo voltara-se. Seu labio emmudeceu, mas os olhos falaram. Uma
+lagrima correu pela face guerreira, como as humidades que durante os
+ardores do estio transudam da escarpa dos rochedos.
+
+Cauby avançando sempre, sumira-se entre a densa ramagem.
+
+O seio da filha de Araken arfou, como o ésto da vaga que se franja de
+espuma, e soluçou. Mas sua alma, negra de tristura, teve ainda um
+pállido reflexo para illuminar a sêcca flôr das faces. Assim em noite
+escura vem um fogo fatuo luzir as brancas areias do taboleiro.
+
+--Extrangeiro, toma o ultimo sorriso de Iracema... e foge!
+
+A bôcca do guerreiro pousou na bôcca mimosa da virgem. Ficaram ambas
+assim unidas como dois fructos gemeos do araçá, que sahiram do seio da
+mesma flôr.
+
+A voz de Cauby chamou o extrangeiro. Iracema abraçou para não cahir o
+tronco de uma palmeira.
+
+
+
+
+X
+
+
+Na cabana silenciosa medita o velho Pagé.
+
+Iracema está apoiada no tronco rudo, que serve de esteio. Os grandes
+olhos negros, fitos nos recortes da floresta e rasos de pranto, parece
+estão n'aquelles olhares longos e tremulos enfiando e desfiando os
+aljofares das lagrimas, que rorejam as faces.
+
+A ará, pousada no girau fronteiro, alonga para sua formosa senhora os
+verdes tristes olhos. Desde que o guerreiro branco pisou a terra dos
+Tabajaras, Iracema a esqueceu.
+
+Os roseos labios da virgem não se abriram mais para que ella colhesse
+entre elles a polpa da fructa ou a papa do milho verde; nem a dôce mão
+a affagára uma só vez, alisando a penugem dourada da cabeça.
+
+Se repetia o mavioso nome da senhora, o sorriso de Iracema já não se
+voltava para ella, nem o ouvido parecia escutar a voz da companheira e
+amiga, que d'antes tão suave era ao seu coração.
+
+Triste d'ella! A gente tupy a chamava jandaia, porque sempre alegre
+estrugia os campos com seu canto fremente. Mas agora, triste e muda,
+desdenhada de sua senhora, não parecia mais a linda jandaia, e sim o
+feio urutão que sómente sabe gemer.
+
+O sol remontou a umbria das serras; seus raios douravam apenas o viso
+das eminencias.
+
+A surdina merencoria da tarde, que precede o silencio da noite,
+começava de velar os crebros rumores do campo. Uma ave nocturna, talvez
+illudida com a sombra mais espessa do bosque, desatou o estridulo.
+
+O velho ergueu a fronte calva:
+
+--Foi o canto da inhuma que accordou o ouvido de Araken? disse elle
+admirado.
+
+A virgem estremecêra; já fóra da cabana voltou-se para responder á
+pergunta do Pagé:
+
+--É o grito de guerra do guerreiro Cauby!
+
+Quando o segundo pio da inhuma resoou, Iracema corria na matta, como a
+corça perseguida pelo caçador. Só respirou chegando á campina, que
+recortava o bosque, como um grande lago.
+
+Quem seus olhos primeiro viram, Martim, estava tranquillamente sentado
+em uma sapopema, olhando o que passava alli. Contra, cem guerreiros
+tabajaras com Irapuam á frente, formavam arco. O bravo Cauby os
+affrontava a todos, com o olhar cheio de ira e as armas valentes
+empunhadas na mão robusta:
+
+O chefe exigira a entrega do extrangeiro, e o guia respondera
+simplesmente:
+
+--Matae Cauby, antes.
+
+A filha do Pagé passara como uma flecha: eil-a deante de Martim oppondo
+tambem seu corpo gentil aos golpes dos guerreiros. Irapuam soltou o
+bramido da onça atacada na furna.
+
+--Filha do Pagé, disse Cauby em voz baixa. Conduz o extrangeiro á
+cabana: só Araken pode salval-o.
+
+Iracema voltou-se para o guerreiro branco:
+
+--Vem!
+
+Elle ficou immovel.
+
+--Se tu não vens, disse a virgem, Iracema morrerá comtigo.
+
+Martim ergueu-se; mas longe de seguir á virgem, caminhou direito a
+Irapuam. A sua espada flammejou no ar.
+
+--Os guerreiros do meu sangue, chefe, jamais recusaram combate. Se
+aquelle que tu vês não foi o primeiro a provocal-o, é porque seus
+paes lhe ensinaram a não derramar sangue na terra hospedeira.
+
+O chefe tabajara rugiu de alegria; sua mão possante brandio o tacape.
+Mas os dois campeões mal tiveram tempo de medir-se com os olhos; quando
+fendiam o primeiro golpe, já Cauby e Iracema estavam entre elles.
+
+A filha de Araken debalde rogava ao christão, debalde o cingia em seus
+braços buscando arrancal-o ao combate. De seu lado Cauby em vão
+provocava Irapuam para attrahir a si a raiva do chefe.
+
+A um gesto de Irapuam, os guerreiros afastaram os dois irmãos; o
+combate proseguiu.
+
+De repente o rouco som da inubia reboou pela matta; os filhos da serra
+estremeceram reconhecendo o estridulo do buzio guerreiro dos Pytiguaras,
+senhores das praias, encombradas de coqueiros. O ecco vinha da grande
+taba, que o inimigo talvez assaltava já.
+
+Os guerreiros precipitaram-se, levando por deante o chefe. Com o
+extrangeiro só ficou a filha de Araken.
+
+
+
+
+XI
+
+
+Os guerreiros tabajaras, acorridos á taba, esperavam o inimigo deante
+da caiçara.
+
+Não vindo elles sahiram a buscal-o.
+
+Bateram as matas em tôrno e percorreram os campos; nem vestigios
+encontraram da passagem dos Pytiguaras; mas o conhecido fremito do buzio
+das praias tinha resoado ao ouvido dos guerreiros da montanha; não
+havia duvidar.
+
+Suspeitou Irapuam que fosse um ardil da filha de Araken para salvar o
+extrangeiro; e caminhou direito á cabana do Pagé. Como trota o guará
+pela orla da mata, quando vae seguindo o rastro da presa escápula,
+assim estugava o passo o sanhudo guerreiro.
+
+Araken viu entrar em sua cabana o grande chefe da nação tabajara, e
+não se moveu. Sentado na rede, com as pernas cruzadas, escutava
+Iracema. A virgem referia os successos da tarde: avistando a figura
+sinistra de Irapuam saltou sobre o arco, e uniu-se ao flanco do joven
+guerreiro branco.
+
+Martim a affastou docemente de si, e promoveu o passo.
+
+A protecção, de que o cercava a elle guerreiro a virgem tabajara, o
+desgostava.
+
+--Araken, a vingança dos tabajaras espera o guerreiro branco; Irapuam
+veiu buscal-o.
+
+--O hospede é amigo de Tupan; quem offender o extrangeiro ouvirá o
+rugir do trovão.
+
+--O extrangeiro foi quem offendeu a Tupan, roubando a sua virgem, que
+guarda os sonhos da jurema.
+
+--Tua bôcca mente como o ronco da jiboia: exclamou Iracema.
+
+Martim disse:
+
+--Irapuam é vil e indigno de ser chefe de guerreiros valentes!
+
+O Pagé falou grave e lento:
+
+--Se a virgem abandonou ao guerreiro branco a flôr de seu corpo, ella
+morrerá; mas o hospede de Tupan é sagrado; ninguem lhe tocará, todos
+o servirão.
+
+Irapuam bramio; o grito rouco troou nas arcas do peito, como o fremito
+da sucury na profundeza do rio.
+
+--A raiva de Irapuam não pode mais ouvir-te, velho Pagé! Caia ella
+sobre ti, se ousas subtrahir o extrangeiro á vingança dos Tabajaras.
+
+O velho Andira, irmão do Pagé, entrou na cabana; trazia no punho o
+terrivel tacape e nos olhos uma raiva ainda mais terrivel.
+
+--O morcego vem te chupar o sangue, se é que tens sangue e não mel nas
+veias, tu que ameaças em sua cabana o velho Pagé.
+
+Araken affastou o irmão:
+
+--Paz e silencio, Andira.
+
+O Pagé desenvolvera a alta e magra estatura, como a caninana assanhada,
+que se enrista sobre a cauda, para affrontar a victima em face. As rugas
+affundaram; e repuxando as pelles engelhadas esbugalharam os dentes
+alvos e afilados:
+
+--Ousa um passo mais, e as iras de Tupan te esmagarão sob o peso d'esta
+mão sêcca e mirrada!
+
+--N'este momento, Tupan não é comtigo! replicou o chefe.
+
+O Pagé rio; e o seu riso sinistro reboou pelo espaço como o regougo da
+ariranha.
+
+--Ouve seu trovão, e treme em teu seio, guerreiro, como a terra em sua
+profundeza.
+
+Araken proferindo essa palavra terrivel, avançou até o meio da cabana;
+alli ergueu a grande pedra e calcou o pé com fôrça no chão: subito,
+abriu-se a terra. Do antro profundo sahiu um medonho gemido, que parecia
+arrancado das entranhas do rochedo.
+
+Irapuam não tremeu, nem enfiou de susto; mas sentiu turvar-se a luz
+nos olhos, e a voz nos labios.
+
+--O senhor do trovão é por ti; o senhor da guerra será por Irapuam.
+
+O torvo guerreiro deixou a cabana; em pouco seu grande vulto
+mergulhou-se nas sombras do crepusculo.
+
+O Pagé e seu irmão travaram a pratica na porta da cabana.
+
+Martim ainda surprêso do que vira, não tirava os olhos da funda cava,
+que a planta do velho Pagé abrira no chão da cabana. Um surdo sumor,
+como o echo das ondas quebrando nas praias, ruidava alli.
+
+O guerreiro christão scismava; elle não podia crêr que o Deus dos
+Tabajaras desse ao seu sacerdote tamanho poder.
+
+Araken percebendo o que passava n'alma do extrangeiro, accendeu o
+cachimbo e travou do maracá:
+
+--É tempo de applacar as iras de Tupan, e calar a voz do trovão.
+
+Disse e partiu da cabana.
+
+Iracema achegou-se então do mancebo; levava os labios em riso, os olhos
+em jubilo:
+
+--O coração de Iracema está como o abaty n'agua do rio. Ninguem fará
+mal ao guerreiro branco na cabana de Araken.
+
+--Arreda-te do inimigo, virgem dos Tabajaras; respondeu o extrangeiro
+com asperesa de voz.
+
+Voltando brusco para o lado oposto, furtou o semblante aos olhos ternos
+e queixosos da virgem.
+
+--Que fez Iracema, para que o guerreiro branco desvie seus olhos d'ella,
+como se fôra o verme da terra?
+
+As falas da virgem resoaram docemente no coração de Martim. Assim
+resoam os murmurios da aragem nas frondes da palmeira. O mancebo sentiu
+raiva de si, e pena d'ella:
+
+Não ouves tu, virgem formosa? exclamou elle apontando para o antro
+fremente.
+
+--É a voz do Tupan!
+
+--Teu Deus falou pela bôcca do Pagé. Se a virgem de Tupan abandonar ao
+extrangeiro a flôr de seu corpo, ella morrerá!...
+
+Iracema pendeu a fronte abatida:
+
+--Não é voz de Tupan que ouve teu coração, guerreiro de longes
+terras, é o canto da virgem branca que te chama!
+
+O rumor extranho que sahia das profundezas da terra, apagou-se de
+repente: fez-se na cabana tão grande silencio, que ouvia-se pulsar o
+sangue na arteria do guerreiro, e tremer o suspiro no labio da virgem.
+
+
+
+
+XII
+
+
+O dia ennegreceu; era noite já.
+
+O Pagé tornára á cabana; sopesando de novo a grande lage, fechou com
+ella a bôcca do antro. Cauby chegára tambem da grande taba, onde com
+seus irmãos guerreiros se recolhera depois que bateram a floresta, em
+busca do inimigo Pytiguara.
+
+No meio da cabana, entre as redes armadas em quadro, extendeu Iracema a
+esteira da carnauba, e sobre ella serviu os restos da caça, e a
+provisão de vinhos da ultima lua. Sé o guerreiro tabajara achou sabor
+na ceia, porque o fel do coração que a tristeza expreme não amargava
+seu labio.
+
+O Pagé bebia no cachimbo o fumo sagrado de Tupan, que lhe enchia as
+arcas do peito: o extrangeiro respirava, ar ás golfadas para
+refrescar-lhe o sangue effervescente; a virgem distillava sua alma como
+o mel de um favo, nos crebros soluços que lhe estalavam entre os labios
+tremulos.
+
+Já partiu Cauby para a grande taba; o Pagé traga as baforadas do fumo,
+que prepara o mysterio do sagrado rito.
+
+Levanta-se no resomno da noite um grito vibrante, que remonta ao céo.
+
+Martim ergue a fronte e inclina o ouvido. Outro clamor semelhante resoa.
+O guerreiro murmura, que o ouça a virgem e só ella:
+
+--Escutou Iracema, cantar a gaivota?
+
+--Iracema escutou o grito de uma ave que ella não conhece.
+
+--É a atyaty, a garça do mar, e tu és a virgem da serra, que nunca
+desceu as alvas praias onde arrebentam as vagas.
+
+--As praias são dos Pytiguaras, senhores das Palmeiras.
+
+Os guerreiros da grande nação que habitava as bordas do mar, se
+chamavam a si mesmos Pytiguaras, senhores dos valles; mas os Tabajaras,
+seus inimigos, por escarneo os apellidavam Potyuaras, comedores de
+camarão.
+
+Iracema não quiz offender o guerreiro branco; por isso falando a
+respeito dos Pytiguaras, não lhes recusou o nome guerreiro que elles
+haviam tomado para si.
+
+O extrangeiro reteve por um instante a palavra no seu labio prudente,
+emquanto reflectia:
+
+--O canto da gaivota é o grito do guerra do valente Poty, amigo de teu
+hospede!
+
+A virgem estremeceu por seus irmãos. A fama do bravo Poty, irmão de
+Jacaúna, subio das ribeiras do mar ás alturas da serra; rara é a
+cabana onde já não rugiu contra elle o grito da vingança, porque em
+quasi todas o golpe de seu valido tacape deitou um guerreiro tabajara em
+seu camocim.
+
+Iracema cuidou que Poty vinha á frente de seus guerreiros para livrar o
+amigo. Era elle sem duvida que fizera retroar o buzio das praias, no
+momento do combate. Foi com um tom misturado de doçura e tristeza que
+replicou:
+
+--O extrangeiro está salvo; os irmãos de Iracema vão morrer, porque
+ella não falará.
+
+--Saia essa tristeza de tua alma. O extrangeiro partindo-se de teus
+campos, virgem tabajara, não deixará n'elles rasto de sangue, como o
+tigre esfaimado.
+
+Iracema tomou a mão do guerreiro branco e beijou-a.
+
+--Teu sorriso, continúa elle, apagou a lembrança do mal que elles me
+querem.
+
+Martim ergueu-se e marchou para a porta.
+
+--Onde vae o guerreiro branco?
+
+--Adeante de Poty.
+
+--O hospede de Araken não pode sahir d'esta cabana, porque os
+guerreiros de Irapuam o matarão.
+
+--Um guerreiro só deve protecção a Deus e a suas armas. Não carece
+que o defendam os velhos e as mulheres.
+
+--Não vale um guerreiro só contra mil guerreiros; valente e forte é o
+tamanduá, que mordem os gatos selvagens por serem muitos e o acabam.
+Tuas armas só chegam até onde mede a sombra de teu corpo; as armas
+d'elles voam alto e direitos como o anajê.
+
+--Todo o guerreiro tem seu dia.
+
+--Não queres tu que morra Iracema, e queres que ella te deixe morrer!
+
+Martim ficou perplexo:
+
+--Iracema irá ao encontro do chefe Pytiguara e trará a seu hospede as
+falas do guerreiro amigo.
+
+O Pagé sahiu emfim de sua contemplação. O maracá rugiu-lhe na
+dextra; tiniram os guisos com o passo hirto e lento.
+
+Chamou elle a filha de parte:
+
+--Se os guerreiros de Irapuam vierem contra a cabana, levanta a pedra e
+esconde o extrangeiro no seio da terra.
+
+--O hospede não deve ficar só; espera que volte Iracema. Ainda não
+cantou a inhuma.
+
+Tornou a sentar-se na rede o velho. A virgem partiu, cerrando a porta da
+cabana.
+
+
+
+
+XIII
+
+
+Avança a filha de Araken nas trevas; pára e escuta.
+
+O grito da gaivota terceira vez resôa ao seu ouvido; ella vae direito
+ao logar d'onde partiu; chega á borda de um tanque; seu olhar investiga
+a escuridão, e nada vê do que busca.
+
+A voz maviosa, debil como susurro de colibri, resôa no silencio.
+
+--Guerreiro Poty, teu irmão branco te chama pela bôcca de Iracema.
+
+Só o ecco lhe respondeu.
+
+--A filha de teus inimigos vem a ti, porque o extrangeiro te ama, e ella
+ama o extrangeiro.
+
+A lisa lace do lago fendeu-se; e um vulto se mostra, que nada para a
+margem, e surge fora.
+
+--Foi Martim quem te mandou, pois tu sabes o nome de Poty, seu irmão
+na guerra.
+
+--Fala, chefe Pytiguara; o guerreiro branco espera.
+
+--Torna a elle e diz que Poty é chegado para o salvar.
+
+--Elle sabe, mandou-me para te ouvir.
+
+--As falas de Poty sahirão de sua bôcca para o ouvido de seu irmão
+branco.
+
+--Espera então que Araken parta e a cabana fique deserta; eu te guiarei
+á presença do extrangeiro.
+
+--Nunca, filha dos Tabajaras, um guerreiro Pytiguara passou a soleira da
+cabana inimiga, se não foi como vencedor. Conduz aqui o guerreiro do
+mar.
+
+--A vingança de Irapuam fareja em roda da cabana de Araken. Trouxe o
+irmão do extrangeiro bastantes guerreiros Pytiguaras para o deffender e
+salvar?
+
+Poty reflectiu:
+
+--Conta, virgem das serras, o que aconteceu em teus campos depois que a
+elles chegou o guerreiro do mar.
+
+Iracema referiu como a colera de Irapuam se havia assanhado contra o
+extrangeiro, até que a voz de Tupan, chamada pelo Pagé, tinha
+apasiguado seu furor.
+
+--A raiva de Irapuam é como a andira; foge da luz e voa na treva.
+
+A mão de Poty cerrou súbito os labios da virgem; sua fala parecia um
+sopro.
+
+--Suspende a voz e o respiro, virgem das florestas; o ouvido inimigo
+escuta na sombra.
+
+As folhas crepitavam de manso, como se por ellas passasse a fragueira
+nambú. O rumor partido da orla da matta, vinha discorrendo pelo valle.
+
+O valente Poty, resvallando pela relva, como o ligeiro camarão. de que
+elle tomara o nome e a viveza, desappareceu no lago profundo. A agua
+não soltou um murmurio, e cerrou sobre elle sua limpida onda.
+
+Iracema voltou á cabana; em meio do caminho seus olhos perceberam as
+sombras de muitos guerreiros que rojavam pelo chão, como a intanha.
+
+Araken vendo-a entrar, partiu.
+
+A virgem tabajara contou a Martim o que ouvira de Poty; o guerreiro
+christão ergueu-se de um impeto para correr á defeza de seu irmão
+Pytiguara. Cingiu-lhe o collo Iracema com os lindos braços:
+
+--O chefe não carece de ti; elle é filho das aguas; as aguas o
+protegem. Mais tarde o extrangeiro ouvirá em seus ouvidos as falas
+amigas.
+
+--Iracema, é tempo que teu hospede deixe a cabana do Pagé e os campos
+dos Tabajaras. Elle não tem medo dos guerreiros de Irapuam, tem medo
+dos olhos da virgem de Tupan.
+
+--Elles fugirão de ti.
+
+--Fuja d'elles o extrangeiro, como o oitibó da estrella da manhã.
+
+Martim promoveu o passo.
+
+--Vae, guerreiro ingrato; vae matar teu irmão primeiro, depois a ti.
+Iracema te seguirá até aos campos alegres onde vão as sombras dos que
+foram.
+
+--Matar meu irmão, dizes tu, virgem cruel?
+
+--Teu rasto guiará o inimigo aonde elle se occulta.
+
+O christão estacou em meio da cabana; e alli permaneceu mudo e quedo.
+Iracema receosa de fital-o, tinha os olhos postos na sombra do
+guerreiro, que a chamma do fogo projectava na vetusta parede da cabana.
+
+O cão felpudo, deitado no borralho, deu signal de que se approximava
+gente amiga. A porta entretecida dos talos de carnaúba foi aberta por
+fora. Cauby entrou.
+
+--O cauim perturbou o espirito dos guerreiros; elles vem contra o
+extrangeiro.
+
+A virgem ergue-se de um impeto.
+
+--Levanta a pedra que fecha a garganta de Tupan, para que ella esconda o
+extrangeiro.
+
+O guerreiro tabajara, sopesando a lage enorme, emborcou-a no chão.
+
+--Filho de Araken, deita na porta da cabana, e nunca mais te levantes da
+terra, se um guerreiro passar por cima do teu corpo.
+
+Cauby obedeceu: a virgem cerrou a porta.
+
+Decorreu breve trato. Resoa perto o estrupido dos guerreiros; travam-se
+as vozes iradas de Irapuam e Cauby.
+
+--Elles vêm; mas Tupan salvará seu hospede.
+
+N'esse instante, como se o Deus do trovão ouvisse as palavras de sua
+virgem, o antro mudo em principio retroou surdamente.
+
+--Ouve! É a voz de Tupan.
+
+Iracema cerra a mão do guerreiro, e o leva á borda do antro. Somem-se
+ambos nas entranhas da terra.
+
+
+
+
+XIV
+
+
+Os guerreiros tabajaras, excitados com as copiosas libações do
+espumante cauim, se inflammam á voz de Irapuam, que tantas vezes os
+guiou ao combate, quantas á victoria.
+
+Aplaca o vinho a sêde do corpo; accende outra sêde maior na alma
+feroz. Rugem vingança contra o extrangeiro audaz que affrontando suas
+armas offende o Deus de seus paes, e o chefe da guerra, o primeiro
+varão tabajara.
+
+Lá tripudiam de furor, e arremettem pelas sombras; a luz vermelha do
+ubiratan, que brilha ao longe, os guia á cabana de Araken. De espaço
+em espaço erguem-se do chão os que primeiro vieram para vigiar o
+inimigo.
+
+--O Pagé está na floresta! murmuram elles.
+
+--O extrangeiro? pergunta Irapuam.
+
+--Na cabana com Iracema.
+
+O grande chefe lança o terrivel salto; já é chegado á porta da
+cabana, e com elle seus valentes guerreiros.
+
+O vulto de Cauby enche o vão da porta; suas armas guardam deante d'elle
+o espaço de um bote do maracajá.
+
+--Vis guerreiros são aquelles que atacam em bando como os caetetús. O
+jaguar, senhor da floresta, e o anajê, senhor das nuvens, combatem só
+o inimigo.
+
+--Morda o pó a bocca torpe que levanta a voz contra o mais valente
+guerreiro dos guerreiros tabajaras.
+
+Proferidas estas palavras, ergue o braço de Irapuam o rigido tacape,
+mas estaca no ar; as entranhas da terra outra vez rugem, como rugiram,
+quando Araken accordou a voz tremenda de Tupan.
+
+Levantam os guerreiros medonho alarido; e cercando seu chefe o arrebatam
+ao funesto lugar e á colera de Tupan, contra elles concitado.
+
+Cauby extende-se de novo na soleira da porta; seus olhos adormecem; mas
+seu ouvido vella no somno.
+
+A voz de Tupan emmudeceu.
+
+Iracema e o christão perdidos nas entranhas da terra, descem a gruta
+profunda. Subito uma voz que vinha reboando pela crasta, encheu seus
+ouvidos:
+
+--O guerreiro do mar escuta a falla de seu irmão?
+
+--É Poty, o amigo de teu hospede: disse o christão para a virgem.
+
+Iracema estremeceu:
+
+--Elle fala pela bôcca de Tupan.
+
+Martim respondeu emfim ao Pytiguara.
+
+--As falas de Poty entram n'alma de seu irmão.
+
+--Nenhum outro ouvido escuta?
+
+--Os da virgem que duas vezes em um sol defendeu a vida de teu irmão!
+
+--A mulher é fraca; o tabajara traidor; e o irmão de Jacaúna
+prudente.
+
+Iracema suspirou: e pousou a cabeça no peito do mancebo:
+
+--Senhor de Iracema, cerra seus ouvidos, para que ella não ouça.
+
+Martim repelliu docemente a gentil fronte:
+
+--Falle o chefe Pytiguara; só o escutam ouvidos amigos e fieis.
+
+--Tu ordenas, Poty fala. Antes que o sol se levante na serra, o
+guerreiro do mar deve partir para as margens do ninho das garças; a
+estrella morta o guiará ás alvas praias. Nenhum tabajara o seguirá,
+porque a inubia dos Pytiguaras rugirá da banda da serra.
+
+--Quantos guerreiros Pytiguaras acompanham seu chefe valente?
+
+--Nenhum; Poty veiu só, com suas armas. Quando os espiritos máus da
+floresta separaram o guerreiro do mar de seu irmão, Poty veiu em
+seguimento do rastro. Seu coração não deixou que voltasse para chamar
+os guerreiros da sua taba; mas expediu seu cão fiel ao grande Jacaúna.
+
+--O chefe Pytiguara está só; não deve rugir a inubia que chamará
+contra si todos os guerreiros tabajaras.
+
+--É preciso para salvar o irmão branco; Poty zombará de Irapuam, como
+zombou quando combatiam cem contra ti.
+
+A filha do Pagé, que ouvira callada, debruçou-se ao ouvido do
+christão:
+
+--Iracema quer-te salvar e a teu irmão; ella tem seu pensamento. O
+chefe Pytiguara é valente e audaz; Irapuam é manhoso e traiçoeiro
+como a acauan. Antes que chegues á floresta, cahirás; e teu irmão da
+outra banda cahirá comtigo.
+
+--Que fará a virgem tabajara para salvar o extrangeiro e seu irmão?
+perguntou Martim.
+
+--Mais um sol e outro, e a lua das flores vae nascer. É o tempo da
+festa, em que os guerreiros tabajaras passam a noite no bosque sagrado,
+e recebem do Pagé os sonhos alegres. Quando estiverem todos
+adormecidos, o guerreiro branco deixará os campos do Ipú, e os olhos
+de Iracema, mas não sua alma.
+
+Martim estreitou a virgem ao seio; mas logo a repelliu. O toque de seu
+corpo, doce como a assucena da mata, e quente como o ninho do beija
+flôr, espinhou seu coração; porque lhe recordou as palavras terriveis
+do Pagé.
+
+A voz do christão disse a Poty o pensamento de Iracema; o chefe
+Pytiguara, prudente como o tamanduá, pensou e respondeu:
+
+--A sabedoria fallou pela bôcca da virgem tabajara Poty espera o
+nascimento da lua.
+
+
+
+
+XV
+
+
+Nasceu o dia e expirou.
+
+Já brilha na cabana de Araken o fogo, companheiro da noite. Correm
+lentas e silenciosas no azul do céo, as estrellas, filhas da lua, que
+esperam a volta da sua mãe ausente.
+
+Martim se emballa docemente; e como a alva rêde que vae e vem, sua
+vontade oscilla de um a outro pensamento. Lá o espera a virgem loura
+dos castos affectos; aqui lhe sorri a virgem morena dos ardentes amores.
+
+Iracema recosta-se langue ao punho da rêde; seus olhos negros e
+fulgidos, ternos olhos de sabiá, buscam o extrangeiro, e lhe entram
+n'alma. O christão sorri; a virgem palpita; como o sahy, fascinado pela
+serpente, vae declinando o lascivo talhe, que se prostra sobre o peito
+do guerreiro.
+
+Já o extrangeiro a prime ao seio; e o labio avido busca o labio que o
+espera, para celebrar n'esse adyto d'alma, o hymineo do amor.
+
+No recanto escuro o velho Pagé, immerso em sua contemplação e alheio
+ás cousas d'este mundo, soltou um gemido doloroso. Pressentira o
+coração o que não viram os olhos? Ou foi algum funesto presagio para
+a raça de seus filhos, que assim echoou n'alma de Araken?
+
+Ninguem o soube.
+
+O christão repelliu do seio a virgem indiana. Elle não deixará o
+rastro da desgraça na cabana hospedeira. Cerra os olhos para não vêr;
+e enche sua alma com o nome e a veneração do seu Deus:
+
+--Christo!... Christo!...
+
+A serenidade volta ao seio do guerreiro branco, mas todas as vezes que
+seu olhar pousa sobre a virgem tabajara, elle sente correr-lhe pelas
+veias uma scentelha de ardente chamma. Assim quando a creança
+imprudente revolve o brasido de intenso fogo, saltam as faúlhas
+inflammadas que lhe queimam o corpo.
+
+Fecha os olhos o christão, mas na sombra de seu pensamento surge a
+imagem da virgem, talvez mais bella. Em balde chama elle o somno ás
+palpebras fatigadas; ellas se abrem, máu grado seu.
+
+Desce-lhe do céo ao atribulado pensamento uma inspiração:
+
+--Virgem formosa do sertão, esta é a ultima noite que teu hospede
+dorme na cabana de Araken, onde nunca viera, para teu bem e seu. Faze
+que seu somno seja alegre e feliz.
+
+--Manda; Iracema te obedece. Que pode ella para tua alegria?
+
+O christão falou submisso, para que não o ouvisse o velho Pagé:
+
+--A virgem de Tupan guarda os sonhos da jurema que são doces e
+saborosos!
+
+Um triste sorriso pungiu os labios de Iracema:
+
+--O extrangeiro vae viver para sempre á cintura da virgem branca; nunca
+mais seus olhos verão a filha de Araken; e elle quer que o somno já
+feche suas palpebras, e o sonho o leve á terra de seus irmãos!
+
+--O somno é o descanço do guerreiro, disse Martim; e o sonho a alegria
+d'alma. O extrangeiro não quer levar comsigo a tristeza da terra
+hospedeira, nem deixal-a no coração de Iracema!
+
+A virgem ficou immovel.
+
+--Vae e torna com o vinho de Tupan.
+
+Quando Iracema foi de volta, já o Pagé não estava na cabana; tirou do
+seio o vaso que alli trazia occulto sob a carioba de algodão
+entretecida de pennas. Martim lh'o arrebatou das mãos, e libou as
+gottas poucas do verde e amargo licor. Não tardou que a rede recebesse
+seu corpo desfallecido.
+
+Agora podia viver com Iracema, e colher nos seus labios o beijo, que
+alli viçava entre sorrisos, como o fructo na corolla da flor. Podia
+amal-a, e sugar d'esse amor o mel e o perfume, sem deixar veneno no seio
+da virgem.
+
+O goso era vida, pois o sentia mais vivo e intenso; o mal era sonho e
+illusão, que da virgem elle não possuia mais que a imagem.
+
+Iracema se affastara oppressa e suspirosa.
+
+Abriram-se os braços do guerreiro e seus labios; o nome da virgem
+resoou docemente.
+
+A juruty, que divaga pela floresta, ouve o terno arrulho do companheiro;
+bate as azas e vôa a conchegar-se ao tepido ninho. Assim a virgem do
+sertão, aninhou-se nos braços do guerreiro.
+
+Quando veiu a manhã, ainda achou Iracema ali debruçada, qual borboleta
+que dormiu no seio do formoso cacto. Em seu lindo semblante accendia o
+pejo vivos rubores; e como entre os arrebões da manhã scintilla o
+primeiro raio do sol, em suas faces incendidas rutilava o primeiro
+sorriso da esposa, aurora de fruido amor.
+
+Martim vendo a virgem unida ao seu coração, cuidou que o sonho
+continuava; cerrou os olhos para tornal-os a abrir.
+
+A pocema dos guerreiros, troando pelo valle, o arrancou ao doce engano;
+sentiu que já não sonhava, mas vivia. Sua mão cruel abafou nos labios
+da virgem o beijo que alli se espanejava.
+
+--Os beijos de Iracema são doces no sonho; o guerreiro branco encheu
+d'elles sua alma. Na vida, os labios da virgem de Tupan, amargam e doem
+como o espinho da jurema.
+
+A filha de Araken escondeu no coração a sua alegria. Ficou timida e
+inquieta, como a ave que presente a borrasca no horisonte. Affastou-se
+rapida, e partiu.
+
+As aguas do rio depuraram o corpo casto da recente esposa.
+
+A jandaia não tornou á cabana.
+
+Tupan já não tinha sua virgem na terra dos Tabajaras.
+
+
+
+
+XVI
+
+
+O alvo disco da lua surgiu no horisonte.
+
+A luz brilhante do sol empallidece a virgem do céo como o amor do
+guerreiro desmaia a face da esposa.
+
+--Jacy!... Mãe nossa!... exclamaram os guerreiros tabajaras.
+
+E brandindo os arcos lançaram ao céo com a chuva das flechas o canto
+da lua nova:
+
+"Veiu no céo a mãe dos guerreiros; já volta o rosto para vêr seus
+filhos. Ella traz as aguas, que enchem os rios e a polpa do cajú.
+
+"Já veiu a esposa do sol; já sorri ás virgens da terra filhas suas. A
+doce luz accende O amor no coração dos guerreiros e fecunda o seio da
+joven mãe."
+
+Cae a tarde.
+
+Folgam as mulheres e os meninos na vasta ocara; os mancebos, que ainda
+não ganharam nome de guerra por algum feito brilhante, discorrem no
+valle.
+
+Os guerreiros seguem Irapuam ao bosque sagrado, onde os espera o Pagé e
+sua filha para o mysterio da jurema. Iracema já accendeu os fogos da
+alegria. Araken está immovel e extactico no seio de uma nuvem de fumo.
+
+Cada guerreiro que chega depõe a seus pés uma offerenda a Tupan. Traz
+um a succulenta caça; outro a farinha d'agua; aquelle, o saboroso
+piracem da trahira. O velho Pagé, para quem são estas dadivas, as
+recebe com desdem.
+
+Quando foram todos sentados em torno do grande fogo, o ministro de Tupan
+ordena o silencio com um gesto, e tres vezes clamando o nome terrivel,
+enche-se do Deus, que o habita:
+
+--Tupan!... Tupan!... Tupan!...
+
+Tres vezes o echo ao longe repercutio.
+
+Vem Iracema com a igaçaba cheia do verde licor.
+
+Araken decreta os sonhos a cada guerreiro, e destribue o vinho da
+jurema, que transporta ao céo o valente tabajara.
+
+Este, grande caçador, sonha que os veados e as pacas correm ao deante
+de suas flechas paras e traspassarem nellas; fatigado alfim de ferir,
+cava na terra o bucan, e assa tamanha quantidade de caça, que mil
+guerreiros em um anno não acabarão.
+
+Outro, fogoso em amores, sonha que as mais bellas virgens dos tabajaras
+deixam a cabana de seus paes e o seguem captivas do seu querer. Nunca a
+rêde de chefe algum embalou mais voluptuosas caricias, que elle as frue
+n'aquelle extase.
+
+O heroe sonha tremendas lutas, e horriveis combates de que sahe
+vencedor, cheio de gloria e fama. O velho renasce, na prole numerosa, e
+como o secco tronco donde rebenta nova e robusta sebe, cobre-se ainda de
+flôres.
+
+Todos sentem a felicidade tão viva e continua, que no espaço da noite
+cuidam viver muitas luas. As boccas murmuram; o gesto falla; e o Pagé,
+que tudo escuta e vê, colhe o segredo das almas desnudas.
+
+Iracema, depois que offereceu aos guerreiros o licor de Tupan, sahio do
+bosque. Não permittia o rito que ella assistisse ao somno dos
+guerreiros e ouvisse falar os sonhos.
+
+Foi d'ali direito á cabana, onde a esperava Martim.
+
+--Toma as tuas armas, guerreiro branco. É tempo de partir.
+
+--Leva-me onde está Poty, meu irmão.
+
+A virgem caminhou para o valle; o christão a seguio. Chegaram á falda
+do rochedo, que ia morrer á beira do tanque, em um massiço de verdura.
+
+--Chama teu irmão!
+
+Martim soltou o grito da gaivota. A pedra que fechava a entrada da gruta
+cahio; e o vulto do guerreiro Poty appareceu na sombra.
+
+Os dois irmãos encostaram a fronte na fronte e o peito no peito, para
+exprimir que não tinham ambos mais que uma cabeça e um coração.
+
+--Poty está contente porque vê seu irmão, que o máo espirito da
+floresta arrebatou de seus olhos.
+
+--Feliz é o guerreiro que tem ao flanco um amigo como o bravo Poty;
+todos os guerreiros o invejarão.
+
+Iracema suspirou, pensando que a affeição do Pytiguara bastava á
+felicidade do extrangeiro:
+
+--Os guerreiros tabajaras dormem. A filha de Araken vae guiar os
+extrangeiros.
+
+A virgem seguio adeante; os dois guerreiros apóz. Quando tinham andado o
+espaço que transpõe a garça de um vôo, o chefe Pytiguara tornou-se
+inquieto, e murmurou ao ouvido do christão:
+
+--Manda á filha do Pagé que volte á cabana de seu pae. Ella demora a
+marcha dos guerreiros.
+
+Martim entristeceu; mas a voz da prudencia e da amizade penetrou em seu
+coração. Avançou para Iracema; e tirou do seio uma voz doce para
+acalentar a saudade da virgem:
+
+--Mais affunda a raiz da planta na terra, mais custa arrancal-a. Cada
+passo de Iracema no caminho da partida, é uma raiz que lança no
+coração de seu hospede.
+
+--Iracema quer-te acompanhar até onde acabam os campos dos Tabajaras,
+para voltar com o socego em seu peito.
+
+Martim não respondeu. Continuaram a caminhar, e com elles caminhava a
+noite; as estrellas desmaiaram e a frescura da alvorada alegrou a
+floresta. As roupas da manhã, alvas como o algodão, appareceram no
+céo.
+
+Poty olhou a mata e parou. Martim comprehendeu e disse a Iracema:
+
+--Teu hospede já não pisa os campos dos Tabajaras. É o instante de
+separar-te d'elle.
+
+
+
+
+XVII
+
+
+Iracema pousou a mão no peito do guerreiro branco:
+
+--A filha dos Tabajaras já deixou os campos de seus paes; agora pode
+falar.
+
+--Que guardas tu em teu seio, virgem formosa do sertão?
+
+Ella pôz os olhos cheios no christão:
+
+--Iracema não pode mais separar-se do extrangeiro.
+
+--Assim é preciso, filha de Araken. Torna á cabana de teu velho pae,
+que te espera.
+
+--Araken já não tem filha.
+
+Martim tornou com gesto rudo e severo:
+
+--Um guerreiro da minha raça jamais deixou a cabana do hospede, viuva
+de sua alegria. Araken abraçará sua filha, para não amaldiçoar o
+extrangeiro ingrato.
+
+A virgem pendeu a fronte; velando-se com as longas tranças negras que
+se esparziam pelo collo, cruzando ao gremio os lindos braços, recolheu
+em seu pudor. Assim o roseo cacto, que já desabrochou em formosa flôr,
+cerra em botão o seio perfumado.
+
+--Tua escrava te acompanhará, guerreiro branco: porque teu sangue dorme
+em seu seio.
+
+Martim estremeceu.
+
+--Os máos espiritos da noite turbaram o espirito de Iracema.
+
+--O guerreiro branco sonhava, quando Tupan abandonou sua virgem, porque
+ella trahio o segredo da jurema.
+
+O christão escondeu as faces á luz.
+
+--Deus!... clamou seu labio tremulo.
+
+Permaneceram ambos mudos e quedos.
+
+Afinal disse Poty:
+
+--Os guerreiros tabajaras despertam.
+
+O coração da virgem como o do extrangeiro, ficou surdo á voz da
+prudencia. O sol levantou-se no horisonte; e seu olhar magestoso desceu
+dos montes á floresta. Poty de pé como um tronco decepado esperou que
+seu irmão quizesse partir.
+
+Foi Iracema quem primeiro falou:
+
+--Vem: emquanto não pisares as praias dos Pytiguaras, tua vida corre
+perigo.
+
+Martim seguiu silencioso a virgem, que fugia entre as arvores, como a
+selvagem acoty. A tristeza lhe roia o coração; mas a onda de perfumes
+que deixava na brisa a passagem da formosa tabajara, açulava o amor no
+seio do guerreiro. Seu passo era tardo, o peito lhe offegava.
+
+Poty scismava. Em sua cabeça de mancebo morava o espirito de um
+abaeté. O chefe pytiguara pensava que o amor é como o cauim, o qual
+bebido com moderação fortalece o guerreiro, e tomado em excesso abate
+a coragem do heroe. Elle sabia quanto veloz era o pé do tabajara; e
+esperava o momento de morrer defendendo o amigo.
+
+Quando as sombras da tarde entristeciam o dia, o christão parou no meio
+da mata. Poty accendeu o fogo da hospitalidade. A virgem desdobrou a
+alva rêde de algodão franjada de pennas de tucano e suspendeu-a aos
+ramos de arvore.
+
+--Esposo de Iracema, tua rêde te espera.
+
+A filha de Araken foi sentar-se longe, na raiz de uma arvore, como a
+cerva solitaria, que o ingrato companheiro afugentou do aprisco. O
+guerreiro pytiguara desappareceu na espessura da folhagem.
+
+Martim ficou mudo e triste, semelhante ao tronco d'arvore a que o vento
+arrancou o lindo cipó que o entrelaçava. A brisa perpassando levou um
+murmurio:
+
+--Iracema!
+
+Era o balido do companheiro; a cerva arrufando-se ganhou o doce aprisco.
+
+A floresta distillava suave fragrancia e exhalava harmoniosos arpejos;
+os suspiros do coração se difundiram nos murmures do deserto. Foi a
+festa do amor e o canto do hymeneo.
+
+Já a luz da manhã coou na selva densa. A voz grave e sonora de Poty
+repercutio no susurro da mata:
+
+--O povo tabajara caminha na floresta!
+
+Iracema arrancou-se dos braços que a cingiam e mais do labio que a
+tinha captiva: saltando da rede como a rapida zabelé, travou das armas
+do esposo, e levou-o atravez da mata.
+
+De espaço a espaço o prudente Poty escutava as entranhas da terra; sua
+cabeça movia-se pesada de um a outro lado, como a nuvem que se
+embalança no cocuruto do rochedo, aos varios lufos da proxima borrasca.
+
+--O que escuta o ouvido do guerreiro Poty?
+
+--Escuta o passo veloz do povo tabajara. Elle vem como o tapyr, rompendo
+a floresta.
+
+--O guerreiro pytiguara é a ema que vôa sobre a terra; nós o
+seguiremos, como suas azas; disse Iracema.
+
+O chefe sacudio de novo a fronte:
+
+--Emquanto o guerreiro do mar dormia, o inimigo correu. Os que primeiro
+partiram já avançam além como as pontas do arco.
+
+A vergonha mordeu o coração de Martim.
+
+--Fuja o chefe Poty e salve Iracema. Só deve morrer o guerreiro máo,
+que não escutou a voz de seu irmão e o pedido de sua esposa.
+
+Martim arripiou o passo.
+
+--A alma do guerreiro branco não escutou sua bocca Poty e seu irmão
+só tem uma vida.
+
+O labio de Iracema não fallou: sorrio.
+
+
+
+
+XVIII
+
+
+Treme a selva com o estrupido da carreira do povo tabajara.
+
+O grande Irapuam, primeiro, assoma entre as arvores. Seu olhar rubido
+viu o guerreiro branco entre nuvens de sangue; o grito rouco do tigre
+rompe de seu peito cavernoso.
+
+O chefe tabajara e seu povo, vão precipitar-se sobre os fugitivos, como
+a vaga encapelada que rebenta no Mocoribe.
+
+Eis late o cão selvagem.
+
+Poty solta o grito da alegria:
+
+--O cão de Poty guia os guerreiros de sua taba em soccorro teu.
+
+O rouco buzio dos Pytiguaras estruge pela floresta. O grande Jacaúna,
+senhor das praias do mar, chegava do rio das garças com seus melhores
+guerreiros.
+
+Os Pytiguaras recebem o primeiro impeto do inimigo nas pontas erriçadas
+de suas flechas, que elles despedem do arco aos molhos, como o coandú
+os espinhos do seu corpo. Logo apóz sôa a pocema, estreita-se o
+espaço, e a luta se trava face a face.
+
+Jacaúna atacou Irapuam. Prosegue o horrivel combate que bastára a dez
+bravos, e não esgotou ainda a força dos grandes chefes. Quando os dois
+tacapes se encontram, a batalha toda estremece como um só guerreiro
+até ás entranhas.
+
+O irmão de Iracema veio direito ao extrangeiro, que arrancara a filha
+de Araken á cabana hospedeira; o faro da vingança o guia; a vista da
+irmã assanha a raiva em seu peito. O guerreiro Cauby assalta com furor
+o inimigo.
+
+Iracema, unida ao flanco de seu guerreiro e esposo, vio de longe Cauby e
+fallou assim:
+
+--Senhor de Iracema, ouve o rogo de tua escrava; não derrama o sangue
+do filho de Araken. Se o guerreiro Cauby tem de morrer, morra elle por
+esta mão, não pela tua.
+
+Martim pôz no rosto da selvagem olhos de horror:
+
+--Iracema matará seu irmão?
+
+--Iracema antes quer que o sangue de Cauby tinja sua mão que a tua;
+porque os olhos de Iracema vêem a ti, e a ella não.
+
+Travam a luta os guerreiros. Cauby combate com furor, o christão
+defende-se apenas; mas a seta embebida no arco da esposa guarda a vida
+do guerreiro contra os botes do inimigo.
+
+Poty já prostrou o velho Andira e quantos guerreiros topou na luta seu
+valido tacape. Martim lhe abandona o filho de Araken, e corre sobre
+Irapuam.
+
+--Jacaúna é um grande chefe; seu collar de guerra dá tres voltas ao
+peito. O tabajara pertence ao guerreiro branco.
+
+--A vingança é a honra do guerreiro, e Jacaúna ama o amigo de Poty.
+
+O grande chefe Pytiguara levou além o formidavel tacape. O combate
+renhio-se entre Irapuam e Martim. A espada do christão. batendo na
+clava do selvagem fez-se pedaços. O chefe tabajara avançou contra o
+peito inerme do adversario.
+
+Iracema silvou como a boicininga, e se arremessou ante a furia do
+guerreiro tabajara. A arma rigida tremeu na dextra possante e o braço
+cahio desfallecido.
+
+Soava a pocema da victoria. Os guerreiros pytiguaras conduzidos por
+Jacaúna e Poty varriam a floresta. Os tabajaras, fugindo, arrebataram
+seu chefe ao odio da filha de Araken que o podia abater, como a jandaia
+abate o procero coqueiro roendo-lhe o cerne.
+
+Os olhos de Iracema estendidos pela floresta, viram o chão juncado de
+cadaveres de seus irmãos; e longe o bando dos guerreiros tabajaras que
+fugiam em nuvem negra de pó. Aquelle sangue que enrubecia a terra era
+o mesmo sangue brioso que lhe ardia as faces de vergonha.
+
+O pranto orvalhou seu lindo semblante.
+
+Martim affastou-se para não envergonhar a tristeza de Iracema. Deixou
+que sua dor núa se banhasse nas lagrimas.
+
+
+
+
+XIX
+
+
+Poty voltou de perseguir o inimigo. Seus olhos se encheram de alegria
+vendo salvo o guerreiro branco.
+
+O cão fiel o seguia de perto, lambendo ainda nos pellos do focinho, a
+marugem do sangue tabajara de que se fartára; o senhor o acariciava
+satisfeito de sua coragem e dedicação. Fora elle quem salvara Martim,
+alli trazendo com tanta deligencia os guerreiros de Jacaúna.
+
+--Os máos espiritos da floresta podem separar outra vez o guerreiro
+branco de seu irmão Pytiguara. O cão te seguirá d'aqui em deante, para
+que mesmo de longe Poty acuda a teu chamado.
+
+--Mas o cão é teu companheiro e amigo fiel.
+
+--Mais amigo e companheiro será de Poty, servindo a seu irmão que a
+elle. Tu o chamarás Japy, e elle será o pé ligeiro com que de longe
+corramos um para o outro.
+
+Jacaúna deu o signal da partida.
+
+Os guerreiros pytiguaras caminharam para as margens alegres do rio onde
+bebem as garças: alli se erguia a grande taba dos senhores das varzeas.
+
+O sol deitou-se, e de novo se levantou no céo. Os guerreiros chegaram
+aonde a serra quebrava para o sertão; já tinham passado aquella parte
+da montanha, que por ser despida de arvoredo e tosquiada corno a
+capivara, a gente de Tupan chamava Ibyapina.
+
+Poty levou o christão aonde crescia um frondoso jatobá, que affrontava
+as arvores do mais alto pincaro da serrania, e quando batido pela rajada
+parecia varrer o céo com a immensa copa.
+
+--N'este logar nasceu teu irmão, disse o pytiguara: Martim estreitou o
+peito ao tronco enorme:
+
+--Jatobá, que viste nascer meu irmão Poty, o extrangeiro te abraça.
+
+--O raio te decepe arvore do guerreiro Poty, quando seu irmão o
+abandonar.
+
+Depois o chefe assim falou:
+
+--Ainda Jacaúna não era um guerreiro, Jatobá, o maior chefe, conduzia
+os Pytiguaras á victoria. Logo que as grandes aguas correram, elle
+caminhou para a serra. Aqui chegando, mandou levantar a taba, para estar
+perto do inimigo e vencêl-o mais vezes. A mesma lua que o vio chegar,
+alumiou a rêde onde Sahy sua esposa, lhe deu mais um guerreiro de seu
+sangue. O luar passava por entre as folhas do jatobá; e o sorriso pelos
+labios do varão possante, que tomara seu nome e robustez.
+
+Iracema aproximou-se.
+
+A rôla, que marisca na areia, se o companheiro se afasta, adeja
+inquieta de ramo em ramo e arrulla para que lhe responda o ausente
+amigo. Assim a filha da floresta errara pela encosta, modulando o
+singelo canto mavioso.
+
+Martim a recebeu com a alma no semblante; e levando a esposa do lado do
+coração e o amigo do lado da força, voltou ao rancho dos pytiguaras.
+
+
+
+
+XX
+
+
+A lua cresceu.
+
+Tres sóes havia que Martim e Iracema estavam nas terras dos Pytiguaras,
+senhores das margens do Camocim e Acaraú. Os extrangeiros tinham sua
+rêde na vasta cabana do grande Jacaúna. O valente chefe guardou para
+si a alegria de hospedar o guerreiro branco.
+
+Poty abandonou sua taba, para acompanhar seu irmão de guerra na cabana
+de seu irmão de sangue, e gosar dos instantes que sobejavam do amor de
+Iracema para a amisade, no coração do guerreiro do mar.
+
+A sombra já se retirou da face da terra: e Martim vio que ella não se
+retirara ainda da face da esposa, desde o dia do combate.
+
+--A tristeza mora na alma de Iracema!
+
+--A alegria para a esposa só vem de ti; quando teus olhos a deixam as
+lagrimas enchem os seus.
+
+--Porque chora a filha dos Tabajaras?
+
+--Esta é a taba dos Pytiguaras, inimigos do meu povo. A vista de
+Iracema já conheceu o craneo de seus irmãos espetado na caiçara; o
+ouvido já escutou o canto de morte dos captivos tabajaras; a mão já
+tocou as armas tintas do sangue de seus paes.
+
+A esposa pousou as duas mãos nos hombros do guerreiro, e reclinou ao
+peito d'elle:
+
+--Iracema tudo soffre por seu guerreiro e senhor. A ata é doce e
+saborosa; quando a machucam azeda. Tua esposa não quer que seu amor
+azede teu coração; mas que te encha das doçuras do mel.
+
+--Volte o socego ao seio da filha dos Tabajaras; ella vae deixar a taba
+dos inimigos de seu povo.
+
+O christão caminhou para a cabana de Jacaúna. O grande chefe
+alegrou-se vendo chegar seu hospede; mas a alegria fugio logo de sua
+fronte guerreira. Martim dissera:
+
+--O guerreiro branco parte de tua cabana, grande chefe.
+
+--Alguma cousa te faltou na taba de Jacaúna?
+
+--Nada faltou a teu hospede. Elle era feliz aqui; mas a voz do coração
+o chama a outros sitios.
+
+--Então parte, e leva o que é preciso para a viagem. Tupan te
+fortaleça, e traga outra vez á cabana de Jacaúna, para que elle
+festeje tua boa vinda.
+
+Poty chegou: sabendo que o guerreiro do mar ia partir, falou:
+
+--Teu irmão te acompanha.
+
+--Os guerreiros de Poty precisam de seu chefe.
+
+--Se tu não queres que elles vão com Poty, Jacaúna os conduzira á
+victoria.
+
+--A cabana de Poty ficará deserta e triste.
+
+--Deserto e triste será o coração de teu irmão longe de ti.
+
+O guerreiro do mar deixou as margens do rio das garças, e caminhou para
+as terras onde o sol se deita. A esposa e o amigo seguem sua marcha.
+Passaram além da fertil montanha, onde a abundancia dos fructos creava
+grande quantidade de mosca, do que lhe veio o nome de Meruoca.
+
+Atravessam os corregos que levam suas aguas ao rio das garças, e
+avistam longe rio horisonte uma alta serrania. Expira o dia; nuvem negra
+voa das bandas do mar: são os urubus que pastam nas praias a carniça
+que o oceano arroja, e com a noite tornam ao ninho.
+
+Os viajantes dormem em Uruburetama. Quando o sol voltou, chegaram ás
+margens do rio, que nasce na quebrada da serra e desce a planicie
+enroscando-se como uma cobra. Suas voltas continuas enganam a cada passo
+o peregrino, que vae seguindo o tortuoso curso: por isso foi chamado
+Mundahú.
+
+Perlongando as frescas margens, viu Martim no seguinte sol os verdes
+mares e as alvas praias onde as ondas murmurosas, ás vezes soluçam e
+outras raivam de furia, rebentando em frocos de espuma.
+
+Os olhos do guerreiro branco se dilataram pela vasta immensidade; seu
+peito suspirou. Esse mar beijava tambem as brancas areias do Potengi,
+seu berço natal, onde elle vira a luz americana. Arrojou-se nas ondas
+e pensou banhar seu corpo nas aguas da patria, como banhara sua alma nas
+saudades d'ella.
+
+Iracema sentiu chorar-lhe o coração; mas não tardou que o sorriso de
+seu guerreiro o acalentasse.
+
+Entretanto Poty, do alto do coqueiro, flexava o saboroso camoropim que
+brincava na pequena bahia do Mundahú; e preparava o moquem para a
+refeição.
+
+
+
+
+XXI
+
+
+Já descia o sol das alturas do céo.
+
+Chegam os viajantes á foz do rio onde se criam em grande abundancia as
+saborosas trahiras; suas praias são povoadas pela tribu dos pescadores,
+da grande nação dos Pytiguaras.
+
+Elles receberam os extrangeiros com a hospitalidade generosa, que era
+uma lei de sua religião; e Poty com o respeito que merecia tão grande
+guerreiro, irmão de Jacaúna, maior chefe da forte gente pytiguara.
+
+Para repousar os viajantes, e acompanhal-os na despedida, o chefe da
+tribu recebeu Martim, Iracema e Poty na jangada, e abrindo a vela á
+brisa, levou-os até muito longe na costa. Todos os pescadores em suas
+jangadas seguiam o chefe e atroavam os ares com o canto de saudade, e os
+murmures do uraçá, que imita os soluços do vento.
+
+Além da tribu dos pescadores estava mais entrada para as serras a tribu
+dos caçadores. Elles occupavam as margens do Soipé, cobertas de
+matas, onde os veados, as gordas pacas e os macios jacús abundavam.
+Assim os habitadores d'essas margens lhe deram o nome de paiz da caça.
+
+O chefe dos caçadores, Jaguarassú, tinha sua cabana á beira do lago,
+que forma o rio perto do mar. Ahi acharam os viajantes o mesmo agasalho
+que haviam recebido dos pescadores.
+
+Depois que partiram do Soipé, os viajantes atravessaram o rio Pacoty,
+em cujas margens cresciam as frondosas bananeiras balançando os verdes
+pennachos; mais longe o Iguape, onde a agua faz cintura em torno dos
+comoros de areia.
+
+Além assomou no horisonte um alto morro de areia que tinha a alvura da
+espuma do mar. O cabo sobranceiro aos coqueiros parece a cabeça calva
+do condor, esperando alli a borrasca, que vem dos confins do oceano.
+
+--Poty conhece o grande morro das areias? perguntou o christão.
+
+--Poty conhece toda a terra que tem os Pytiguaras desde as margens do
+grande rio, que forma um braço do mar, até á margem do rio onde
+habita o jaguar. Elle já esteve no alto do Mocoribe, e de lá viu
+correr no mar as grandes igaras dos guerreiros brancos, teus inimigos,
+que está o no Mearim.
+
+--Porque chamas tu Mocoribe, o grande morro das areias?
+
+--O pescador da praia, que vae nas jangadas, lá onde voa a aty, fica
+triste, longe da terra e de sua cabana, onde dormem os filhos de seu
+sangue. Quando elle volta e que seus olhos primeiro avistam o morro das
+areias, a alegria volta ao seio do homem. Então elle diz que o morro
+das areias dá alegria!
+
+--O pescador diz bem; porque teu irmão ficou contente como elle, vendo
+o monte das areias.
+
+Martim subiu com Poty ao cimo do Mocoribe. Iracema seguindo com os olhos
+o esposo, divagava como a jaçanan em tôrno do lindo seio, que alli fez
+a terra para receber o mar. De passagem ella colhia os doces cajús, que
+aplacam a sede aos guerreiros, e apanhava as mimosas conchas para ornar
+seu collo.
+
+Os viajantes estiveram em Mocoribe tres sóes. Depois Martim levou seus
+passos além. A esposa e o amigo o seguiram até á embocadura de um rio
+cujas margens eram alagadas e cobertas de mangue. O mar entrando por
+elle formava uma bacia de agua christalina, que parecia cavada na pedra
+como um camocim.
+
+O guerreiro christão. ao percorrer essa paragem, começou de scismar.
+Até alli elle caminhava sem destino, movendo seus passos ao acaso; não
+tinha outra intenção mais que affastar-se das tabas dos Pytiguaras
+para arrancar a tristeza do coração de Iracema. O christão sabia por
+experiencia que a viagem acalenta a saudade, porque a alma pára
+emquanto o corpo se move. Agora sentado na praia pensava.
+
+Poty veiu:
+
+--O guerreiro branco pensa; o seio do irmão está aberto para receber
+seu pensamento.
+
+--Teu irmão pensa que este lugar é melhor do que as margens do
+Jaguaribe para a taba dos guerreiros de sua raça. N'estas aguas as
+grandes igaras que vem de longes terras se esconderiam do vento e do
+mar; d'aqui ellas iriam ao Mearim destruir os brancos tapuias alliados
+dos Tabajaras, inimigos de tua nação.
+
+O chefe pytiguara meditou e respondeu:
+
+--Vae buscar teus guerreiros. Poty plantará sua taba junto da mayr de
+seu irmão.
+
+Aproximava-se Iracema. O christão mandou com um gesto o silencio ao
+chefe Pytiguara.
+
+--A voz do esposo se calla, e seus olhos se abaixam quando chega
+Iracema. Queres tu que ella se affaste?
+
+--Quer teu esposo, que chegues mais perto, para que sua voz e seus olhos
+penetrem mais dentro de tua alma.
+
+A formosa selvagem desfez-se em risos como se desfaz a flor do fructo
+que desponta, e foi debruçar-se na espadua do guerreiro.
+
+--Iracema te escuta.
+
+--Estes campos são alegres, e mais serão quando Iracema n'elles
+habitar. Que diz teu coração?
+
+--O coração da esposa está sempre alegre junto de seu senhor e
+guerreiro.
+
+O christão, seguindo pela margem do rio, escolheu o logar para levantar
+a cabana. Poty cortou esteios dos troncos da carnaúba; a filha de
+Araken ligava os leques da palmeira para vestir o tecto e as paredes:
+Martim cavou a terra com a espada e fabricou a porta das fasquias da
+taquára.
+
+Quando veiu a noite os dois esposos armaram a rede em sua nova cabana; e
+o amigo no copiar que olhava para o nascente.
+
+
+
+
+XXII
+
+
+Poty saudou o amigo e faltou assim:
+
+--Antes que o pae de Jacaúna e Poty, o valente guerreiro Jatobá,
+mandasse a todos os guerreiros pytiguaras, o grande tacape da nação
+estava na dextra de Batuireté, o maior chefe, pae de Jatobá. Foi elle
+que veiu pelas praias do mar até o rio do jaguar, e expulsou os
+tabajaras para dentro das terras, marcando a cada tribu seu logar;
+depois entrou pelo sertão até á serra que tomou seu nome.
+
+Quando suas estrellas eram muitas, e tantas que em seu camocim já não
+cabiam as castanhas que marcavam o numero, o corpo vergou para a terra,
+o braço endureceu como o galho do ubiratan que não verga; seus olhos
+se escureceram.
+
+Chamou então o guerreiro Jatobá e disse:--Filho, toma o tacape da
+nação pytiguara. Tupan não quer que Batuireté o leve mais á guerra,
+pois tirou a força de seu corpo, o movimento do seu braço e a luz de
+seus olhos. Mas Tupan foi bom para elle, pois lhe deu um filho como o
+guerreira Jatobá.
+
+Jatobá empunhou o tacape dos Pytiguaras. Batuireté tornou o bordão de
+sua velhice e caminhou. Foi atravessando os vastos sertões, até os
+campos viçosos onde correm as aguas que vem das bandas da noite. Quando
+o velho guerreiro arrastava o passo pelas margens, e a sombra de seus
+olhos não lhe deixava que visse mais os fructos nas arvores ou os
+passaros no ar, elle dizia em sua tristeza:--Ah! meus tempos passados!
+
+A gente que o ouvia chorava a ruina do grande chefe; e desde então
+passando por aquelles logares repetia suas palavras; d'onde veiu
+chamar-se o rio e os campos, Quixeramobim.
+
+Batuireté veiu pelo caminho das garças até áquella serra que tu
+vês longe, onde primeiro habitou. Lá no pincaro o velho guerreiro fez
+seu ninho alto como o gavião, para encher o resto de seus dias,
+conversando com Tupan. Seu filho já dorme embaixo da terra, e elle
+ainda na outra lua scismava na porta de sua cabana, esperando a noite
+que traz o grande somno. Todos os chefes Pytiguaras, quando acordam á
+voz da guerra, vão pedir ao velho que lhes ensine a vencer, porque
+nenhum outro guerreiro jamais soube como elle combater. Assim as tribus
+não o chamam mais pelo nome, senão o grande sabedor da guerra,
+Maranguab.
+
+O chefe Poty vae á serra vêr seu grande avô; mas antes que o dia
+morra elle estará de volta na cabana de teu irmão. Teus tu outra
+vontade?
+
+--O guerreiro branco te acompanha. Elle quer abraçar o grande chefe dos
+Pytiguaras, avô de seu irmão; e dizer ao velho que renasce em seu
+neto.
+
+Martim chamou Iracema; e partiram ambos guiados pelo Pytiguara para a
+serra, do Maranguab, que se levantava no horisonte. Foram seguindo o
+curso do rio até onde n'elle entrava o ribeiro da Pirapora.
+
+A cabana do velho guerreiro estava junto das formosas cascatas, onde
+salta o peixe no meio dos borbotões de espuma. As aguas alli são
+frescas e macias, como a brisa do mar, que passa entre as palmas dos
+coqueiros, nas horas da calma.
+
+Batuireté estava sentado sobre uma das lapas da cascata; e o sol
+ardente cahia sobre sua cabeça núa de cabellos e cheia de rugas como o
+genipapo. Assim dorme o jaburú na borda do lago.
+
+--Poty é chegado á cabana do grande Maranguab, pae de Jatobá, e
+trouxe seu irmão branco para vêr o maior guerreiro das nações.
+
+O velho soabriu as pesadas palpebras, e passou do neto ao extrangeiro um
+olhar baço. Depois o peito arquejou e os labios murmuraram:
+
+--Tupan quiz que estes olhos vissem antes de se apagarem o gavião
+branco junto da narseja.
+
+O abaeté derrubou a fronte aos peitos, e não falou mais, nem mais se
+moveu.
+
+Poty e Martim julgaram que elle dormia e se afastaram com respeito para
+não perturbar o repouso de quem tanto obrára na longa vida. Iracema
+que se banhava na proxima cachoeira, veiu-lhes ao encontro, trazendo na
+folha da taioba favos do mel purissimo.
+
+Discorreram os amigos pelas floridas encostas até que as sombras da
+montanha se extenderam pelo valle. Tornaram então ao logar onde tinham
+deixado o Maranguab.
+
+O velho ainda lá estava na mesma attitude, com a cabeça derrubada ao
+peito e os joelhos encostados á fronte. As formigas subiam pelo seu
+corpo; e os tuins adejavam em torno e pousavam-lhe na calva.
+
+Poty poz a mão no craneo do velho e conheceu que era finado: morrera
+de velhice. Então o chefe pytiguara entoou o canto da morte; e depois
+foi á cabana buscar o camocim, que transbordava com as castanhas do
+cajú. Martim contou cinco vezes cinco mãos.
+
+Entanto Iracema colhia na floresta a andiroba, de que foi ungido o corpo
+do velho no camocim, onde a mão piedosa do neto o encerrou. O vaso
+funebre ficou suspenso ao tecto da cabana.
+
+Depois que plantou ortiga em frente á porta, para deffender contra os
+animaes a oca abandonada, Poty despediu-se triste d'aquelles logares, e
+tornou com seus companheiros á borda do mar.
+
+
+
+
+XXIII
+
+
+Quatro luas tinham alumiado o ceu depois que Iracema deixara os campos
+do Ipú; e tres depois que ella habitava nas praias do mar a cabana de
+seu esposo.
+
+A alegria morava em sua alma. A filha dos sertões era feliz, como a
+andorinha, que abandona o ninho de seus paes, e emigra para fabricar
+novo ninho no paiz onde começa a estação das flôres. Tambem Iracema
+achara ali nas praias do mar um ninho do amor, nova patria para o
+coração.
+
+Ella discorria as amenas campinas, como o colibri borboleteando entre as
+flôres da acacia. A luz da manhã já a encontrava suspensa ao hombro
+do esposo e sorrindo, como a enrediça, que entrelaça o tronco e todas
+as manhãs o coroa de nova grinalda.
+
+Martim partia para a caça com Poty. Ella separava-se então d'elle,
+para mais sentir o desejo de tornar a elle.
+
+Perto havia uma formosa lagoa no meio de verde campina. Para lá volvia
+a selvagem o ligeiro passo. Era a hora do banho da manhã; atirava-se á
+agua, e nadava com as garças brancas e as vermelhas jaçanans. Os
+guerreiros pytiguaras, que appareciam por aquellas paragens chamavam
+essa lagoa da belleza, porque n'ella se banhava Iracema, a mais bella
+filha da raça de Tupan.
+
+E desde esse tempo as mães vinham de longe mergulhar suas filhas nas
+aguas da Porangaba que tinham a virtude de tornar as virgens formosas e
+amadas pelos guerreiros.
+
+Depois do banho Iracema discorria até ás faldas da serra do Maranguab,
+onde nascia o ribeiro das marrecas. Ali cresciam na frescura e sombra as
+fructas mais saborosas de todo o paiz; d'ellas fazia copiosa provisão,
+e esperava, embalando-se nas ramas do maracujá, que Martim tornasse da
+caça.
+
+Outras vezes não era a Jererahú que a levava sua vontade, mas do
+opposto lado, junto da lagoa da Sapiranga, cujas aguas diziam que
+inflammavam os olhos. Cerca d'ahi havia um bosque frondoso de muritys,
+que formavam no meio do taboleiro uma grande ilha de formosas palmeiras.
+Iracema gostava do Murityapuá, onde o vento suspirava docemente; ali
+espolpava ella o vermelho côco, para fabricar a bebida refrigerante,
+endossada com o mel da abelha, que os guerreiros amavam durante a maior
+calma do dia.
+
+Uma manhã Poty guiou Martim á caça. Caminharam para uma serra, que se
+levanta ao lado da outra do Maranguab sua irmã. O alto cabeço se curva
+á semelhança do bico adunco da arara; pelo que os guerreiros a
+chamaram Aratanha. Elles subiram pela encosta da Guaiuba por onde as
+aguas descem para o valle, e foram até o corrego habitado pelas pacas.
+
+Só havia sol no bico da arara quando os caçadores desceram de Pacatuba
+ao taboleiro. De longe viram Iracema, que viera esperal-os á margem de
+sua lagoa da Porangaba. Caminhou para elles com o passo altivo da garça
+que passeia á beira d'agua: por cima da cariola trazia uma cintura das
+flores da maniva que era o simbolo da fecundidade. Collar das mesmas
+cingia-lhe o collo e ornava os rijos seios palpitantes.
+
+Travou da mão do esposo, e a impoz no regaço:
+
+--Teu sangue já vive no seio de Iracema. Ella será mãe de teu filho!
+
+--Filho, dizes tu? exclamou o christão em jubilo.
+
+Ajoelhou ali e cingindo-o com os braços, beijou o ventre fecundo da
+esposa.
+
+Quando se ergueu, Poty falou:
+
+A felicidade do mancebo é a esposa e o amigo, a primeira dá alegria; o
+segundo dá força: o guerreiro sem a esposa é como a arvore sem folhas
+nem dores; nunca ella verá o fructo: o guerreiro sem amigo é como a
+arvore solitaria no meio do campo que o vento embalança; o fructo
+d'ella nunca amadura. A felicidade do varão é a prole, que nasce
+d'elle e faz seu orgulho; cada guerreiro que sahe de suas veias é mais
+um galho que leva seu nome ás nuvens, como a grimpa do cedro. Amado de
+Tupan é o guerreiro que tem uma esposa, um amigo e muitos filhos; elle
+nada mais deseja senão a morte gloriosa.
+
+Martim unio o peito ao peito de Poty.
+
+--O coração do esposo e do amigo falou por tua boca. O guerreiro
+branco é feliz, chefe dos Pytiguaras, senhores das praias do mar; e a
+felicidade nasceu para elle na terra das palmeiras, onde reacende a
+baunilha, e foi gerada do sangue de tua raça, que tem no rosto a côr
+do sol. O guerreiro branco não quer mais outra patria, senão a patria
+de seu filho e de seu coração.
+
+Ao romper d'alva Poty partiu para colher as sementes de crajurú que
+dão a mais bella tinta vermelha, e a casca do angico de onde sae a cor
+negra mais lustrosa. De caminho sua flecha certeira abateu o pato
+selvagem que planeava nos ares: e elle arrancou das azas as longas
+penas. Subindo ao Mocoribe, rugiu a inubia. A refega que vinha do mar
+levou longe o ronco som. O buzio dos pescadores do Trahiry, e a trombeta
+dos caçadores do Soipé, responderam.
+
+Martim banhou-se na agua do rio, e passeou na praia para secar o corpo
+ao vento e ao sol. Ao seu lado ia Iracema e apanhava o ambar amarello
+que o mar arrojava. Todas as noites a esposa perfumava seu corpo e a
+alva rede, para que o amor do guerreiro se deleitasse n'ella.
+
+Voltou Poty.
+
+
+
+
+XXIV
+
+
+Foi costume da raça, filha de Tupan, que o guerreiro trouxesse no corpo
+as cores de sua nação. Traçavam em principio negras riscas, sobre o
+corpo, á semelhança do pello do coaty de onde procedeu o nome d'essa
+arte da pintura guerreira. Depois variaram as cores; e muitos e muitos
+guerreiros costumaram escrever os emblemas de seus feitos.
+
+O extrangeiro tendo adoptado a patria da esposa e do amigo, devia passar
+por aquella ceremonia, para tornar-se um guerreiro vermelho, filho de
+Tupan. N'essa intenção fora Poty prover-se dos objectos necessarios.
+
+Iracema preparou as tintas. O chefe, embebendo as ramas da pluma,
+traçou pelo corpo os riscos vermelhos e pretos, que ornavam a grande
+nação pytiguara. Depois pintou na fronte uma flecha e disse:
+
+--Assim como a seta traspassa o duro tronco, assim o olhar do guerreiro
+penetra n'alma dos povos.
+
+No braço um gavião:
+
+--Assim como o anajê cahe das nuvens, assim cae o braço do guerreiro
+sobre o inimigo.
+
+No pé esquerdo a raiz do coqueiro.
+
+--Assim como a pequena raiz agarra na terra o alto coqueiro, o pé firme
+do guerreiro sustenta seu corpo.
+
+No pé direito pintou uma aza:
+
+--Assim como a aza da majoy rompe os ares o pé veloz do guerreirro não
+tem igual na corrida.
+
+Iracema tomou a rama da penna e pintou uma folha com uma abelha sobre:
+sua voz resoou entre sorrisos:
+
+--Assim como a abelha fabrica mel no coração negro do jacarandá, a
+doçura está no peito do mais valente guerreiro.
+
+Martim abriu os braços e os labios para receber corpo e alma da esposa,
+
+--Meu irmão é um grande guerreiro da nação pytiguara; elle precisa
+de um nome na lingua de sua nação.
+
+--O nome de teu irmão está em seu corpo, onde o poz tua mão.
+
+--Coatiyabo! exclamou Iracema.
+
+--Tu disseste; eu sou o guerreiro pintado; o guerreiro da esposa e do
+amigo.
+
+Poty deu a seu irmão o arco e o tacape, que são as armas nobres do
+guerreiro. Iracema havia tecido para ella o cocar e a arassoia, ornatos
+dos chefes illustres.
+
+A filha de Araken foi buscar á cabana as iguarias do festim e os vinhos
+de genipapo e mandioca. Os guerreiros beberam copiosamente e trançaram
+as dansas alegres. Durante que volviam em torno dos fogos da alegria,
+resoavam as canções.
+
+Poty cantava:
+
+--Como a cobra que tem duas cabeças em um só corpo, assim é a amisade
+de Coatyabo e Poty.
+
+Acudiu Iracema.
+
+--Como a ostra que não deixa o rochedo, ainda depois de morta, assim é
+Iracema junto a seu esposo.
+
+Os guerreiros disseram:
+
+--Como o jatobá na floresta, assim é o guerreiro Coatyabo entre o
+irmão e a esposa: seus ramos abraçam os ramos do ubiratan, e sua
+sombra protege a relva humilde.
+
+Os fogos da alegria arderam até que veio a manhã; e com elles durou o
+festim dos guerreiros.
+
+
+
+
+XXV
+
+
+A alegria ainda morou na cabana, todo o tempo que as espigas de milho
+levaram a amarellecer.
+
+Uma alvorada, caminhava o christão pela borda do mar. Sua alma estava
+cançada.
+
+O colibri sacia-se de mel e perfume; depois adormece em seu branco ninho
+de cotão até que volta rio outro anno a lua das flores. Como o
+colibri, a alma do guerreiro tambem se satura de felicidade, e carece de
+somno e repouso.
+
+A caça e as excursões pelas montanhas em companhia do amigo, as
+caricias da terna esposa que o esperavam na volta, o doce carbeto no
+copiar da cabana já não acordavam n'elle as emoções d'outrora. Seu
+coração resonava.
+
+Iracema brincava pela praia: os olhos d'elle tiravam-se d'ella para se
+estenderem pela immensidade dos mares.
+
+Viram umas azas brancas, que adejavam pelos campos azues. Conheceu o
+christão que era uma grande igara de muitas velas, como construiam seus
+irmãos; e a saudade da patria apertou em seu seio.
+
+Alto ia o sol; e o guerreiro, na praia seguia com os olhos as azas
+brancas que fugiam. Debalde a esposa o chamou á cabana, debalde
+offereceu a seus olhos, as graças d'ella e os fructos melhores do
+campo. Não se moveu o guerreiro, senão quando a vella se sumiu no
+horisonte.
+
+Poty voltou da serra, onde pela vez primeira fora só. Tinha deixado a
+serenidade na fronte de seu irmão e achava alli a tristeza. Martim
+saiu-lhe ao encontro:
+
+--A igara grande do branco tapuia passou no mar. Os olhos de teu irmão
+a viram voar para as margens do Mearim, alliados dos Tupinambás,
+inimigos de tua e minha raça.
+
+--Poty é senhor de mil arcos; se é teu desejo elle te acompanhará com
+seus guerreiros ás margens do Mearim para vencer o Tapuytinga e seu
+amigo o traidor Tupinambá.
+
+--Quando for tempo teu irmão te dirá.
+
+Os guerreiros entraram na cabana, onde estava Iracema. A maviosa
+canção n'esse dia tinha emudecido nos labios da esposa. Ella tecia
+suspirando a franja da rede materna, mais larga e espessa que a rede do
+hymeneo.
+
+Poty, que a viu tão occupada, fallou:
+
+--Quando a sabiá canta é o tempo do amor; quando emmudece, fabrica o
+ninho para sua prole; é o tempo do trabalho.
+
+--Meu irmão falla como a ran quando annuncia a chuva; mas a sabiá que
+faz seu ninho, não sabe se dormirá n'elle.
+
+A voz de Iracema gemia. Seu olhar buscou o esposo. Martim pensava: as
+palavras de Iracema passaram por elle, como a brisa pela face lisa da
+rocha, sem echo nem rumores.
+
+O sol brilhava sempre sobre as praias do mar, e as areias reflectiam os
+raios ardentes; mas nem a luz que vinha do ceu, nem a luz que ia da
+terra, espancaram a sombra n'alma do christão. Cada vez o crepusculo
+era maior em sua fronte.
+
+Chegou das margens do Acaraú um guerreiro pytiguara, mandado por
+Jacaúna a seu irmão Poty. Elle veio seguindo o rastro dos viajantes
+até o Trahiry, onde os pescadores o guiaram á cabana.
+
+Poty estava só no copiar; ergueu-se e abaixou a fronte para escutar com
+respeito e gravidade as palavras que lhe mandava seu irmão pela boca do
+mensageiro.
+
+--O Tapuytinga, que estava no Mearim, veio pelas matas até o principio
+da Ibyapaba, onde fez alliança com Irapuam, para combater a nação
+pytiguara. Elles vão descer da serra ás margens do rio em que bebem as
+garças, e onde tu levantaste a taba de teus guerreiros. Jacaúna te
+chama para deffender os campos de nossos paes: e teu povo carece de seu
+maior guerreiro.
+
+--Volta ás margens do Acaraú o teu pé não descance emquanto não
+pisar o chão da cabana de Jacaúna. Quando ahi estiveres dize ao grande
+chefe:--"Teu irmão é chegado á taba de seus guerreiros." E tu não
+mentirás.
+
+O mensageiro partiu.
+
+Poty vestiu suas armas, e caminhou para a varzea, guiado pelo passo de
+Coatyabo. Elle o encontrou muito além, vagando entre os canaviaes que
+bordam as margens de Jacarehy.
+
+--O branco tapuia, está na Ibyapaba para ajudar os Tabajaras a combater
+contra Jacaúna. Teu irmão corre a deffender a terra de seus filhos, e
+a taba onde dormem os camocins de seus paes. Elle saberá vencer
+depressa para voltar á tua presença.
+
+--Teu irmão parte contigo. Nada separa dois guerreiros amigos quando
+troa a inubia da guerra.
+
+--Tu és grande, como o mar e bom como o céo.
+
+Os dois amigos abraçaram-se; e seguiram com o rosto para as bandas do
+nascente.
+
+
+
+
+XXVI
+
+
+Caminhando, caminhando, chegaram os guerreiros á margem de um lago, que
+havia nos taboleiros.
+
+O christão parou de repente e voltou o rosto para as bandas do mar: a
+tristeza sahiu de seu coração e subiu á fronte.
+
+--Meu irmão, disse o chefe, teu pé creou raiz na terra do amor; fica,
+Poty voltará breve.
+
+--Teu irmão te acompanha; elle disse, e sua palavra é como a seta de
+teu arco; quando soa, é chegada.
+
+--Queres tu que Iracema te acompanhe ás margens do Acaraú?
+
+--Nós vamos combater seus irmãos. A taba dos Pytiguaras não terá
+para ella mais que tristeza e dôr. A filha dos Tabajaras deve ficar.
+
+--Que esperas tu então?
+
+--Teu irmão se afflige porque a filha dos Tabajaras pode ficar triste e
+abandonar a cabana, sem esperar pela sua volta. Antes de partir elle
+queria socegar o espirito da esposa.
+
+Poty reflectia:
+
+--As lagrimas da mulher amollecem o coração do guerreiro, como o
+orvalho da manhã amollece a terra.
+
+--Meu irmão é um grande sabedor. O esposo deve partir sem ver Iracema.
+
+O christão avançou. Poty mandou-lhe que esperasse; da alvaja do setas
+que Iracema emplumara de pennas vermelhas e preta e suspendera aos
+hombros do esposo, tirou uma.
+
+O chefe pytiguar vibrou o arco: a seta rapida atravessou um goiamum que
+discorria pelas margens do lago, e só parou onde a pluma não a deixou
+mais entrar.
+
+Fincou o guerreiro no chão a flecha, com a presa atravessada e tornou
+para Coatyabo.
+
+--Tu podes partir agora. Iracema seguirá teu rastro; chegando aqui
+verá tua seta, e obedecerá á tua vontade.
+
+Martim sorriu; e quebrando um ramo do maracujá, a flôr da lembrança,
+o entrelaçou na haste da seta, e partiu alfim seguido por Poty.
+
+Breve desappareceram os dois guerreiros entre as arvores. O calor do sol
+já tinha seccado seus passos na beira do lago. Iracema inquieta veio
+pela varzea seguindo o rastro do esposo até o tabuleiro. As sombras
+doces vestiam os campos quando ella chegou á beira do lago.
+
+Seus olhos viram a seta do esposo fincada no chão, o goiamum
+trespassado, o ramo partido, e encheram-se de pranto.
+
+--Elle manda que Iracema ande para traz, como o goiamum, e guarde sua
+lembrança, como o maracujá guarda sua flôr todo o tempo até morrer.
+
+A filha dos Tabajaras retrahiu os passos lentamente, sem volver o corpo,
+nem tirar os olhos da seta de seu esposo, e tornou á cabana. Ahi
+sentada á soleira, com a fronte nos joelhos esperou, até que o somno
+acalentou a dôr em seu peito.
+
+Apenas alvorou o dia, ella moveu o passo rapido para a lagoa, e chegou
+á margem. A flecha lá estava como na vespera: o esposo não tinha
+voltado.
+
+Desde então á hora do banho, em vez de buscar a lagoa da belleza, onde
+outrora tanto gostara de nadar; caminhava para aquella, que vira seu
+esposo abandonal-a. Sentava-se junto á flecha, até que descia a noite,
+então recolhia á cabana.
+
+Tão rapida partia de manhã, como lenta voltava á tarde. Os mesmos
+guerreiros que a tinham visto alegre nas aguas da Porangaba, agora
+encontrando-a triste e só, como a garça viuva, na margem do rio,
+chamavam aquelle sitio da Mocejana, a abandonada.
+
+Uma vez que a formosa filha de Araken se lamentava á beira da lagoa da
+Mocejana, uma voz estridente gritou seu nome do alto da carnaúba:
+
+--Iracema! Iracema!...
+
+Ergueu ella os olhos e viu entre as folhas da palmeira sua linda
+jandaia, que batia as azas, e arrufava as pennas com o prazer de vêl-a.
+
+A lembrança da patria, apagada pelo amor, resurgiu em seu pensamento.
+Viu os formosos campos do Ipú; as encostas da serra onde nascera, a
+cabana de Araken; e teve saudades; mas ainda n'aquelle instante, não se
+arrependeu de os ter abandonado.
+
+Seu labio gaseou em canto. A jandaia abrindo as azas, esvoaçou-lhe em
+torno e pousou no hombro. Alongando fagueira o collo, com o negro bico
+alisou-lhe os cabellos e beliscou a bocca vermelha como uma pitanga.
+
+Iracema lembrou-se que tinha sido ingrata para a jandaia esquecendo-a no
+tempo da felicidade; e agora ella vinha para a consolar no tempo da
+desventura.
+
+Essa tarde não voltou só á cabana. Durante o dia seus dedos ágeis
+teceram o formoso urú de palha que forrou da felpa macia da monguba
+para agasalhar sua companheira e amiga.
+
+Na seguinte alvorada foi a voz da jandaia que a despertou. A linda ave
+não deixou mais sua senhora; ou porque depois da longa ausencia não se
+fartasse de a vêr, ou porque advinhasse que ella tinha necessidade de
+quem a acompanhasse em sua triste solidão.
+
+
+
+
+XXVII
+
+
+Uma tarde Iracema viu de longe dois guerreiros que avançavam pelas
+praias do mar. Seu coração palpitou mais apressado.
+
+Instantes depois ella esquecia nos braços do esposo tantos dias de
+saudade, e abandono que passara na solitaria cabana. Outra vez sua
+graça encheu os olhos do christão; a alegria voltou a habitar em sua
+alma.
+
+Como a secca varzea, com a vinda do nevoeiro, reverdece e matisa-se de
+flôres, a formosa filha do sertão com a volta do esposo reanimou-se; e
+sua belleza esmaltou-se de meigos e ternos sorrisos.
+
+Martim e seu irmão haviam chegado á taba de Jacaúna, quando soava a
+inubia; elles guiaram ao combate os mil arcos de Poty. Ainda d'essa vez
+os Tabajaras, apesar da alliança dos brancos tapuias do Mearim, foram
+levados de vencida pelos valentes Pytiguaras.
+
+Nunca tão disputada victoria e tão renhida pugna, se pelejou nos
+campos que regam o Acaraú e o Camocim; o valor era igual de parte a
+parte, e nenhum dos dois povos fora vencido, se o Deus da guerra não
+tivesse decidido dar estas plagas á raça do guerreiro branco, alliada
+dos Pytiguaras.
+
+Logo apóz a victoria o christão tornára ás praias do mar, onde
+construira sua cabana. De novo sentiu em sua alma a sede do amor; e
+tremia de pensar que Iracema houvesse partido, deixando ermo aquelle
+sitio tão povoado outrora pela felicidade.
+
+O christão amou outra vez a filha do sertão, como da primeira vez,
+quando parece que o tempo não poderá exhaurir o coração. Mas breves
+sóes bastaram para murchar aquellas flôres de um coração exilado da
+patria.
+
+O imbú, filho da serra, se nasceu na varzea porque o vento ou as aves
+trouxeram a semente, vingou, achando boa terra e fresca sombra; talvez
+um dia copou a verde folhagem e enflorou. Mas basta um sopro do mar,
+para tudo murchar. As folhas lastram o chão; as flôres leva-as a
+brisa.
+
+Iracema tambem foge dos olhos do esposo, porque já percebeu que esses
+olhos tão amados se turbam com a vista d'ella, e em vez de se encherem
+de sua belleza como outrora, a despedem de si. Mas seus olhos d'ella
+não se cançam de acompanhar á parte e de longe o guerreiro senhor,
+que os fez captivos.
+
+Ai d'ella!... Sentiu já o golpe no coração e como a copaiba ferida no
+amago, distilla lagrimas em fio.
+
+
+
+
+XXVIII
+
+
+Uma vez o christão ouviu dentro em sua alma o soluço de Iracema: seus
+olhos buscaram em torno e não a viram.
+
+A filha de Araken estava além, entre as verdes moitas de ubaia, sentada
+na relva. O pranto desfiava de seu bello semblante; e as gotas que
+rolavam a uma e uma cabiam sobre o regaço, onde já palpitava e crescia
+o filho do amor. Assim cahem as folhas da arvore viçosa antes que
+amadureça o fructo.
+
+--O que espreme as lagrimas do coração de Iracema!
+
+--Chora o cajueiro quando fica tronco secco e triste. Iracema perdeu sua
+felicidade, depois que te separaste d'ella.
+
+--Não estou eu junto a ti?
+
+--Teu corpo está aqui; mas tua alma vôa á terra de teus pais, e busca
+a virgem branca, que te espera.
+
+Martim doeu-se. Os grandes olhos negros que a indiana pousara n'elle o
+tinham ferido no amago.
+
+--O guerreiro branco é teu esposo: elle te pertence.
+
+A formosa tabajara sorriu em sua tristeza:
+
+--Quanto tempo ha que retiraste de Iracema teu espirito? Antes teu passo
+te guiava para as frescas serras e os alegres taboleiros; teu pé
+gostava de pisar a terra da felicidade e seguir o rastro da esposa.
+Agora só buscas as praias ardentes, porque o mar que lá murmura vem
+dos campos em que nasceste; e o morro das areias, porque do alto se
+avista a igara que passa.
+
+--É a ancia de combater o tupinambá que volve o passo do guerreiro
+para as bordas do mar: respondeu o christão.
+
+Iracema continuou:
+
+--Teu labio seccou para a esposa, como a canna quando ardem os grandes
+sóes; perde o grato mel e as folhas murchas não podem mais brincar
+quando passa a brisa. Agora só fallas ao vento da praia para que elle
+leve tua voz á cabana de teus paes.
+
+--A voz do guerreiro branco chama seus irmãos para deffender a cabana de
+Iracema e a terra de seu filho, quando o inimigo vier.
+
+A esposa meneou a cabeça: do fructo do genipapo e buscam a flôr do
+espinheiro; a fructa é saborosa, mas tem a côr dos Tabajaras; a flôr
+tem a alvura das faces da virgem branca. Se cantam as aves, teu ouvido
+não gosta já de escutar o canto mavioso da graúna; mas tua alma se
+abre para o grito do japim, porque elle tem as pennas douradas como os
+cabellos d'aquella que tu amas!
+
+--A tristeza escurece a vista de Iracema e amarga seu labio. Mas a
+alegria ha de voltar á alma da esposa, como volta á arvore a verde
+rama.
+
+--Quando teu filho deixar o seio de Iracema, ella morrerá, como o abaty
+depois que deu seu fructo. Então o guerreiro branco não terá mais
+quem o prenda na terra extrangeira.
+
+--Tua voz queima, filha de Araken, como o sopro que vem dos sertões do
+Icó, no tempo dos grandes calores. Queres tu abandonar teu esposo?
+
+--Vêem teus olhos lá o formoso jacarandá, que vae subindo ás nuvens;
+a seus pés ainda está a secca raiz da murta frondosa, que todos os
+invernos se cobria de rama e bagos vermelhos, para abraçar o tronco
+irmão. Se ella não morresse, o jacarandá não teria sol para crescer
+áquella altura. Iracema é a folha escura que faz sombra em tua alma;
+deve cahir, para que a alegria alumie teu seio.
+
+O christão cingio o talhe da formosa indiana e a estreitou ao peito.
+Seu labio levou ao labio da esposa um beijo, mas aspero e amargo.
+
+
+
+
+XXIX
+
+
+Poty voltou do banho.
+
+Segue na areia o rastro de Coatyabo, e sobe ao alto da Jacarécanga. Ahi
+encontra o guerreiro em pé no cabeço do monte com os olhos alongados e
+os braços estendidos para os largos mares.
+
+Volve o Pytiguara as vistas e descobre uma grande igara, que vem
+sulcando os verdes mares, impedida pelo vento:
+
+--É a grande igara dos irmãos de meu irmão que vem buscal-o!
+
+O christão suspirou:
+
+--São os guerreiros brancos inimigos de minha raça, que buscam as
+praias da valente nação pytiguara, para a guerra da vingança: elles
+foram derrotados com os Tabajaras nas margens do Camocim; agora vem com
+os seus amigos os Tupinambás pelo caminho do mar.
+
+--Meu irmão é um grande chefe. Que pensa elle que deve fazer seu
+irmão Poty.
+
+--Chama os caçadores de Soipé e os pescadores do Trahiry. Nós iremos
+ao seu encontro.
+
+Poty accordou a voz da inubia: e os dois guerreiros partiram ambos para
+o Mocoribe. Pouco alem viram os guerreiros da Jaguarassú e Camoropim
+que corriam ao grito de guerra. O irmão de Jacaúna os avisou da vinda
+do inimigo.
+
+O grande maracatim corre nas ondas, ao longo da terra que se dilata
+até ás margens do Parnahyba. A lua começava a crescer quando elle
+deixou as aguas do Mearim; ventos contrarios o tinham arrastado para os
+altos mares, muito alem do seu destino.
+
+Os guerreiros pytiguaras, para não espantar o inimigo se occultam entre
+os cajueiros; e vão seguindo pela praia a grande igara: durante o dia
+avultam as brancas velas; de noite os fogos atravessam a negrura do mar,
+como vaga lumes perdidos na mata.
+
+Muitos sóes caminharam assim. Passam alem do Camocim, e afinal pisam as
+lindas ribeiras da enseada dos papagaios.
+
+Poty manda um guerreiro ao grande Jacaúna e se prepara para o combate.
+Martim, que subiu ao morro de areia, conhece que o maracatim vem
+recolher no seio da terra; e avisa seu irmão.
+
+O sol já nasceu; os guerreiros guaraciabas e os tupinambás seus
+amigos, correm sobre as ondas nas ligeiras pirogas e pojam na praia.
+Formam o grande arco, e avançam como o cardume do peixe quando corta a
+correnteza do rio.
+
+No centro estão os guerreiros do fogo, que trazem o raio; nas azas os
+guerreiros do Mearim que brandem o tacape.
+
+Mas nação alguma jamais vibrou o arco certeiro, como a grande nação
+pytiguara; e Poty é o maior chefe, de quantos chefes empunharam a
+inubia guerreira. Ao seu lado caminha o irmão, tão grande chefe como
+elle, e sabedor das manhas da raça branca dos cabellos do sol.
+
+Durante a noite os Pytiguaras fincam na praia a forte caiçara de
+espinho: e levantam contra ella um muro de areia, onde o raio esfria e
+se apaga. Ahi esperam o inimigo. Martim manda que outros guerreiros
+subam á copa dos mais altos coqueiros; alli defendidos pelas largas
+palmas, esperam o momento do combate.
+
+A setta de Poty foi a primeira que partiu, e o chefe dos guaraciabas o
+primeiro heroe que mordeu o pó da terra extrangeira. Rugem os trovões
+na dextra dos guerreiros brancos; mas os raios que desferem mergulham-se
+na areia, ou se perdem nos ares.
+
+As settas dos pytiguaras, já cahem do céo, já voam da terra, e se
+embebem todas no seio do inimigo. Cada guerreiro tomba crivado de muitas
+flechas, como a presa que as piranhas disputam nas aguas do lago.
+
+Os inimigos embarcam outra vez nas pirogas, e voltam ao maracatim em
+busca dos grandes e pesados trovões, que um homem só, nem dois, podem
+manejar.
+
+Quando voltam, o chefe dos pescadores, que corre nas aguas do mar como o
+veloz camoropim, de que tomou o nome, se arroja nas ondas, e mergulha.
+Ainda a espuma não se apagára, e já a piroga inimiga se afundou,
+parecendo que a tragára uma baleia.
+
+Veiu a noite, que trouxe o repouso.
+
+Ao romper d'alva, o maracatim fugia no horisonte para as margens do
+Mearim. Jacaúna chegou, não mais para o combate e sim para o festim da
+victoria.
+
+N'essa hora em que o canto guerreiro dos pytiguaras celebrava a derrota
+dos guaraciabas, o primeiro filho que o sangue da raça branca gerara
+n'essa terra da liberdade, via a luz nos campos da Porangaba.
+
+
+
+
+XXX
+
+
+Iracema cuidou que o seio se lhe rompia: e buscou a margem do rio, onde
+crescia o coqueiro.
+
+Estreitou-se com a haste da palmeira. A dôr lacerou suas entranhas;
+porém logo o choro infantil inundou todo o seu ser de jubilo.
+
+A joven mãe, orgulhosa de tanta ventura, tomou o tenro filho nos
+braços e com elle se arrojou ás aguas limpidas do rio. Depois
+suspendeu-o á teta mimosa; seus olhos então o envolviam de tristeza e
+amor.
+
+--Tu és Moacyr, o nascido de meu soffrimento.
+
+A ará, pousada no olho do coqueiro, repetiu Moacyr; e desde então a
+ave amiga em seu canto unia ao nome da mãe, o nome do filho.
+
+O innocente dormia; Iracema suspirava.
+
+--A jaty fabrica o mel no tronco cheiroso do assasfraz; toda a lua das
+flores vôa de ramo em ramo, colhendo o suco para encher os favos; mas
+ella não prova sua doçura, porque a irara devora em uma noite toda a
+colmeia. Tua mãe tambem, filho de minha angustia, não beberá em teus
+labios o mel do sorriso.
+
+A joven mãe passou aos hombros a larga faxa de macio algodão, que
+fabricara para trazer o filho sempre unido ao flanco; e seguiu pela
+areia o rastro do esposo, que ha tres sóes partira. Ella caminhava
+docemente para não despertar a creancinha adormecida como o passarinho
+sob a aza materna.
+
+Quando chegou junto ao grande morro das areias, viu que o rastro de
+Martim e Poty seguia ao longo da praia; e adivinhou que elles eram
+partidos para a guerra. Seu coração suspirou; mas seus olhos sêccos
+buscaram o semblante do filho.
+
+Volve o rosto para o Mocoribe.
+
+--Tu és o morro da alegria; mas para Iracema tu não tens senão
+tristeza.
+
+Tornando, a recente mãe pousou a creança sempre dormida na rêde de
+seu pae, viuva e solitaria em meio da cabana; ella deitou-se ao chão,
+na esteira onde repousava, desde que os braços do esposo se não tinham
+aberto mais para recebel-a.
+
+A luz da manhã entrava pela cabana, e Iracema viu entrar com ella a
+sombra de um guerreiro.
+
+Cauby estava em pé na porta.
+
+A esposa de Martim ergueu-se de um impeto e saltou ávante para proteger
+o filho. Seu irmão levantou da rêde a ella uns olhos tristes, e falou
+com a voz ainda mais triste:
+
+--Não foi a vingança que arrancou o guerreiro Cauby aos campos dos
+Tabajaras; elle já perdoou. Foi a vontade de ver Iracema, que trouxe
+comsigo toda a sua alegria.
+
+--Então bemvindo seja o guerreiro Cauby na cabana de seu irmão:
+respondeu a esposa abraçando-o.
+
+--O nascido de teu seio dorme n'essa rede; os olhos de Cauby gostariam
+de vêl-o.
+
+Iracema abriu a franja de pennas; e mostrou o lindo semblante da
+creança. Cauby depois que o contemplou por muito tempo, entre risos,
+disse:
+
+--Elle chupou tua alma.
+
+E beijou nos olhos da joven mãe, a imagem da creança, que não se
+animava tocar com receio de offender.
+
+A voz tremula da filha resoou:
+
+--Ainda vive Araken sobre a terra?
+
+--Pena ainda; depois que tu o deixaste sua cabeça, vergou para o peito
+e não se ergueu mais.
+
+--Dize-lhe que Iracema é morta já, para que elle se console.
+
+A irmã de Cauby preparou a refeição para o guerreiro, e armou no
+copiar a rêde da hospitalidade para que elle repousasse das fadigas da
+jornada. Quando o viajante satisfez o appetite, ergueu-se com estas
+palavras:
+
+--Dize onde está teu esposo e meu irmão, para que o guerreiro Cauby
+lhe dê o abraço da amizade.
+
+Os labios suspirosos da misera esposa moveram-se como as petalas do
+cacto que um sopro amarrota, e ficaram mudas. Mas as lagrimas debulharam
+dos olhos e cahiram em bagas.
+
+O rosto de Cauby annuviou-se:
+
+--Teu irmão pensava que a tristeza ficara nos campos que abandonaste;
+porque comtigo trouxeste todo o riso dos que te amavam!
+
+Iracema seccou os olhos:
+
+--O esposo de Iracema partiu com o guerreiro Poty para as praias do
+Acaraú. Antes que tres sóes tenham allumiado a terra elle voltará e
+com elle a alegria á alma da esposa.
+
+--O guerreiro Cauby o espera para saber o que elle fez do sorriso que
+morava em teus labios.
+
+A voz do tabajara enrouquecera; seu passo inquieto volveu a esmo pela
+cabana.
+
+
+
+
+XXXI
+
+
+Iracema cantava docemente, embalando a rêde para acalentar o filho.
+
+A areia da praia crepitou sob o pé forte e rijo do guerreiro tabajara,
+que vinha das bordas do mar depois da abundante pesca.
+
+A joven mãe cruzou as franjas da rede, para que as moscas não
+inquietassem o filho acalentado, e foi ao encontro do irmão:
+
+--Cauby vae tornar ás montanhas dos Tabajaras! disse ella com brandura.
+
+O guerreiro annuviou-se:
+
+--Tu despedes teu irmão da cabana para que elle não veja a tristeza
+que a enche.
+
+--Araken teve muitos filhos em sua mocidade; uns a guerra levou e
+morreram como valentes; outros escolheram uma esposa, e geraram por sua
+vez numerosa prole: filhos de sua velhice, Araken só teve dois. Iracema
+é para elle como a rôla que o caçador tirou do ninho. Só resta o
+guerreiro Cauby ao velho Pagé, para suster seu corpo vergado, e guiar
+seu passo tremulo.
+
+--Cauby partirá quando a sombra deixar o rosto de Iracema.
+
+--Como vive a estrella da noite, vive Iracema em sua tristeza. Só os
+olhos do esposo podem apagar a sombra em seu rosto. Parte, para que
+elles não se turvem com tua vista.
+
+--Teu irmão parte para agradar tua vontade; mas elle voltará todas as
+vezes que o cajueiro florescer para sentir em seu coração o filho de
+teu ventre.
+
+Entrou na cabana. Iracema tirou da rêde a creança; e ambos, mãe e
+filho, palpitaram sobre o peito do guerreiro tabajara. Depois Cauby
+passou a porta, e sumio-se entre as arvores.
+
+Iracema, arrastando o passo tremulo, o acompanhou de longe até que o
+perdeu de vista na orla da mata. Ahi parou: quando o grito da jandaia de
+envolta com o choro infantil, a chamou á cabana, a areia fria onde
+esteve sentada, guardou o segredo do pranto que em bebera.
+
+A joven mãe suspendeu o filho á teta; mas a bocca infantil não
+emmudeceu. O leite escasso não apojava o peito.
+
+O sangue da infeliz diluia-se todo nas lagrimas incessantes que não
+estancavam dos olhos; nenhum chegava aos seios, onde se forma o primeiro
+licor da vida.
+
+Ella dissolveu a alva cariman e preparou ao fogo o mingáo para nutrir o
+filho. Quando o sol dourou a crista dos montes, partiu para a mata,
+levando ao collo a creança adormecida.
+
+Na espessura do bosque está o leito da irara ausente; os tenros
+caxorrinhos grunhem enrolando-se uns sobre os outros. A formosa tabajara
+approxima-se de manso. Prepara para o filho um berço da macia rama do
+maracujá; e senta-se perto.
+
+Põe no regaço um por um os filhos da irara; e lhes abandona os seios
+mimosos, cuja teta rubra como a pitanga ungio do mel da abelha. Os
+caxorrinhos famintos precipitam-se gulosos e sugam os peitos avaros de
+leite.
+
+Iracema curte dôr, como nunca sentiu; parece que lhe exhaurem a vida;
+mas os seios vão-se entumecendo; apojaram afinal, e o leite, ainda
+rubro do sangue, de que se formou, esguicha.
+
+A feliz mãe arroja de si os caxorrinhos, e cheia de jubilo mata a fome
+ao filho. Elle é agora duas vezes filho de sua dôr, nascido d'ella e
+tambem nutrido.
+
+A filha de Araken sentiu afinal que suas veias se estancavam; e comtudo
+o labio amargo de tristeza recusava o alimento que devia restaurar-lhe
+as forças. O gemido e o suspiro tinham crestado com o sorriso o sabor
+em sua bocca formosa.
+
+
+
+
+XXXII
+
+
+Descamba o sol.
+
+Japy sae do mato e corre para a porta da cabana.
+
+Iracema sentada com o filho no collo, banha-se nos raios do sol e
+sente o frio arripiar-lhe o corpo. Vendo o animal, fiel mensageiro do
+esposo, a esperança reanimou seu coração; quiz erguer-se para ir ao
+encontro de seu guerreiro e senhor, mas os membros debeis se recusaram
+á sua vontade.
+
+Cahiu desfallecida contra o esteio. Japy lambia-lhe a mão desfallecida,
+e pulava travesso para fazer sorrir a creança, soltando uns doces
+latidos de prazer. Por vezes, afastou-se para correr até á orla da
+mata, e latir chamando o senhor, logo tornava á cabana para festejar a
+mãe e o filho.
+
+Por esse tempo pisava Martim os campos amarellos do Tauape: seu irmão
+Poty, o inseparavel, caminhava a seu lado.
+
+Oito luas havia que elle deixara as praias da Jacarecanga. Depois de
+vencidos os Guaraciabas na bahia dos papagaios, o guerreiro christão
+quiz partir para as margens do Mearim, onde habitava o barbaro alliado
+dos Tupinambás.
+
+Poty e seus guerreiros o acompanharam. Depois que transpuzeram o braço
+corrente do mar que vem da serra de Tauatinga e banha as varzeas onde se
+pesca o piau, viram emfim as praias do Mearim, e a velha taba do barbaro
+tapuia.
+
+A raça dos cabellos do sol cada vez ganhava mais a amizade dos
+Tupinambás: crescia o numero dos guerreiros brancos, que já tinham
+levantado na ilha a grande itaoca, para despedir o raio.
+
+Quando Martim viu o que desejava, tornou aos campos da Porangaba, que
+elle agora trilha. Já ouve o ronco do mar nas praias do Mocoribe; já
+lhe bafeja o rôsto o sopro vivo das vagas do oceano.
+
+Quanto mais seu passo o aproxima da cabana, mais lento se torna e
+pesado. Tem medo de chegar: e sente que sua alma vae soffrer, quando os
+olhos tristes e maguados da esposa, entrarem n'ella.
+
+Ha muito que a palavra desertou seu labio secco; o amigo respeita este
+silencio, que elle bem entende. É o silencio do rio quando passa nos
+logares profundos e sombrios.
+
+Tanto que os dois guerreiros tocaram as margens do rio, ouviram o latir
+do cão, que os chamava, e o grito da ará, que se lamentava. Eram mui
+proximos á cabana, apenas occulta por uma lingua de mato. O christão
+parou calcando a mão no peito para soffrear o coração, que saltava
+como o poraquê.
+
+--O latido de Japy é de alegria, disse o chefe.
+
+--Porque chegou; mas a voz da jandaia é de tristeza. Achará o
+guerreiro ausente a paz no seio da esposa solitaria, ou terá a saudado
+matado em suas entranhas o fructo do amor?
+
+O christão moveu o passo vacillante. De repente, entre os ramos das
+arvores, seus olhos viram sentada, á porta da cabana, Iracema, com o
+filho no regaço e o cão a brincar. Seu coração o arrastou de um
+impeto, e toda a alma lhe estalou nos labios.--Iracema!...
+
+A triste esposa e mãe sôabrio os olhos, ouvindo a voz amada. Com
+esforço grande, poude erguer o filho nos braços, e apresental-o ao
+pae, que o olhava extactico em seu amor.
+
+--Recebe o filho de teu sangue. Vieste a tempo; meus seios ingratos já
+não tinham alimento para dar-lhe!
+
+Pousando a creança nos braços paternos, a desventurada mãe
+desfalleceu como a jetyca se lhe arrancam o bulbo. O esposo vio então
+como a dôr tinha murchado seu bello corpo; mas a formosura ainda morava
+n'ella, como o perfume na flôr cabida do manacá.
+
+Iracema não se ergueu mais da rêde onde a pousaram os afflictos
+braços de Martim. O esposo, em quem o amor renascera com o jubilo
+paterno, a cercou de caricias que encheram sua alma de alegria, mas não
+a poderam tornar á vida; o estame de sua flôr se rompera.
+
+--Enterra o corpo de tua esposa ao pé do coqueiro que tu amaste. Quando
+o vento do mar soprar nas folhas, Iracema pensará que é tua voz que
+fala entro seus cabellos.
+
+O labio emmudeceu para sempre; o ultimo lampejo despediu-se dos olhos
+baços.
+
+Poty amparou o irmão em sua grande dôr. Martim, sentiu que um amigo
+verdadeiro é precioso na desventura; é como o outeiro que abriga do
+vendaval o tronco forte e robusto do ubiratan, quando o broca o copim.
+
+O camocim recebeu o corpo de Iracema, embebido de resinas odoriferas; e
+foi enterrado ao pé do coqueiro, á borda do rio. Martim quebrou um
+ramo de murta, a folha da tristeza, e deitou-o no jazigo de sua esposa.
+A jandaia pousada no olho da palmeira repelia tristemente:--Iracema!
+
+Desde então os guerreiros pytiguaras que passavam perto da cabana
+abandonada e ouviam resoar a voz plangente da ave amiga, se afastavam,
+com a alma cheia de tristeza, do coqueiro onde cantava a jandaia. E foi
+assim que veiu a chamar-se Ceará o rio onde crescia o coqueiro, e os
+campos onde serpeia o rio.
+
+
+
+
+XXXIII
+
+
+O cajueiro floresceu quatro vezes depois que Martim partiu das praias do
+Ceará, levando no fragil barco o filho e o cão fiel. A jandaia não
+quiz deixar a terra onde repousava sua amiga e senhora.
+
+O primeiro cearense, ainda no berço, emigrava da terra da patria. Seria
+a predestinação de uma raça?
+
+Poty com os seus guerreiros esperava na margem do rio. O christão lhe
+promettera voltar; todas as manhãs subia ao morro das areias e volvia
+os olhos ao mar a vêr se branqueava ao longe a vela amiga.
+
+Afinal volta Martim de novo ás terras, que foram de sua felicidade, e
+são agora de amarga saudade. Quando seu pé sentiu o calor das brancas
+areias, derramou-se por todo o seu ser um fogo ardente, que lhe
+requeimou o coração: era o fogo das recordações accesas.
+
+A chamma só applacou quando elle tocou a terra onde dormia sua esposa;
+porque n'esse instante seu coração transudou, como o tronco do jetahy
+nos ardentes calores, e refrescou sua pena de lagrimas abundantes.
+
+Muitos guerreiros de sua raça acompanharam o chefe branco, para fundar
+com elle a mayri dos christãos. Veio tambem um sacerdote de sua
+religião, de negras vestes, para plantar a cruz na terra selvagem.
+
+Poty foi o primeiro que ajoelhou aos pés do sagrado lenho: não soffria
+elle que nada mais o separasse de seu irmão branco; por isso quiz que
+tivessem ambos um só Deus, como tinham um só coração.
+
+Elle recebeu com o baptismo o nome do santo, cujo era o dia; e o do rei,
+a quem ia servir, e sobre os dois o seu, na lingua dos novos irmãos.
+Sua fama cresceu e ainda hoje é o orgulho da terra, onde elle viu a luz
+primeiro.
+
+A mayri que Martim erguera á margem do rio, nas praias do Ceará,
+medrou. A palavra do Deus verdadeiro germinou na terra selvagem; e o
+bronze sagrados resoou nos valles onde rugia o maracá.
+
+Jacaúna veio habitar nos campos da Porangaba para estar perto de seu
+amigo branco; Camarão assentou a taba de seus guerreiros nas margens da
+Mocejana.
+
+Tempo depois, quando veiu Albuquerque, o grande chefe dos guerreiros
+brancos, Martim e Camarão partiram para as margens do Mearim a castigar
+o feroz tupinambá e expulsar o branco tapuia.
+
+Era sempre com emoção que o esposo de Iracema revia as plagas onde
+fora tão feliz, e as verdes folhas a cuja sombra dormia a formosa
+tabajara.
+
+Muitas vezes ia sentar-se n'aquellas doces areias, para scismar e
+acalentar no peito a agra saudade.
+
+As jandaias cantavam ainda no olho do coqueiro; mas não repetiam já o
+mavioso nome de Iracema.
+
+Tudo passa sobre a terra.
+
+
+
+
+FIM
+
+
+
+
+NOTAS
+
+
+Pag. 10.--_Argumento historico._--Em 1603, Pero Coelho, homem nobre da
+Parahyba, partiu como capitão-mór de descoberta, levando uma força de
+80 colonos e 800 indios. Chegou á foz do Jaguaribe e ahi fundou o
+povoado que teve nome de _Nova-Lisboa_.
+
+Foi esse o primeiro estabelecimento colonial do Ceará.
+
+Como Pero Coelho se visse abandonado dos socios, mandaram-lhe João
+Soromenho com soccorros. Esse official, auctorisado a fazer captivos
+para indemnisação das despezas, não respeitou os proprios indios do
+Jaguaribe, amigos dos Portuguezes.
+
+Tal foi a causa da ruina do nascente povoado. Retiraram-se os colonos,
+pelas hostilidades dos indigenas; e Pero Coelho ficou ao desamparo,
+obrigado a voltar a Parahyba por terra, com sua mulher e filhos
+pequenos.
+
+Na primeira expedição foi do Rio-Grande do Norte um moço de nome
+Martim Soares Moreno, que se ligou de amizade com Jacaúna, chefe dos
+indios do littoral e seu irmão Poty. Em 1608 por ordem de D. Diogo
+Menezes voltou a dar principio á regular colonisação d'aquella
+capitania: o que levou a effeito fundando o presidio de Nossa Senhora do
+Amparo em 1611.
+
+Jacaúna, que habitava as margens do Acaracú, veiu estabelecer-se com
+sua tribu nas proximidades do recente povoado, para o proteger contra os
+indios do interior e os francezes que infestavam a costa.
+
+Poty recebeu no baptismo o nome de Antonio Fillippe Camarão, que
+illustrou na guerra hollandeza. Seus serviços foram remunerados com o
+foro de fidalgo, a commenda de Christo e o cargo de capitão-mór dos
+indios.
+
+Martim Soares Moreno chegou a mestre de campo e foi um dos excedentes
+cabos portuguezes que libertaram o Brazil da invasão hollandeza. O
+Ceará deve honrar sua memoria como de um varão prestante e seu
+verdadeiro fundador, pois que o primeiro povoado á foz do rio Jaguaribe
+foi apenas uma tentativa frustrada.
+
+Este é o argumento historico da lenda; em notas especiaes se indicarão
+alguns outros subsidios recebidos dos chronistas do tempo.
+
+Ha uma questão historica, relativa a este assumpto; fallo da patria do
+Camarão, que um escriptor pernambucano quiz pôr em duvida, tirando a
+gloria ao Ceará para a dar á sua provincia.
+
+Este ponto aliás somente contestado nos tempos modernos pelo Sr.
+commendador Mello em suas _Biographias_, me parece sufficientemente
+elucidado já, depois da erudita carta do Sr. Basilio Quaresma Torreão,
+publicada no Mercantil n.° 26 de 26 de Janeiro de 1860, 2.ª pagina.
+
+Entretanto farei sempre uma observação.
+
+Em primeiro logar a tradicção oral é uma fonte importante da
+historia, e ás vezes a mais pura e verdadeira. Ora na provincia de
+Ceará em Sobral não só se referiam entre gente do povo noticias do
+Camarão, como existia lima velha mulher que se dizia d'elle sobrinha.
+Essa tradicção foi colhida por diversos escriptores, entre elles o
+conspicuo auctor da _Corographia Brasilica_.
+
+O auctor do Valoroso Lucideno é dos antigos o unico que positivamente
+affirma ser Camarão filho de Pernambuco; mas além de encontrar essa
+asserção a versão de outros escriptores de nota, accresce que Berredo
+explica perfeitamente o dito d'aquelle escriptor, quando falla da
+expedição de Pero Coelho de Souza a Jaguaribe, _sitio d'aquelle tempo
+e tambem no de hoje da jurisdicção de Pernambuco_.
+
+Outro ponto é necessario esclarecer para que não me censurem de infiel
+á verdade historica. É a nação de Jacaúna e Camarão que alguns
+pretendem ter sido a tabajara. Ha n'isso manifesto engano.
+
+Em todas as chronicas se falla das tribus de Jacaúna e Camarão, como
+habitantes do littoral, e tanto que auxiliam a fundação do Ceará,
+como já haviam auxiliado a da Nova-Lisboa em Jaguaribe. Ora a nação,
+que habitava o littoral entre o Parnahyba e o Jaguaribe ou Rio-Grande,
+era a dos Pytiguaras, como attesta Gabriel Soares. Os Tabajaras.
+habitavam a serra de Ibyapa, e portanto o interior.
+
+Como chefes dos Tabajaras são mencionados Mel Redondo no Ceará e Grão
+Deabo em Piauhy. Esses chefes foram sempre inimigos irreconciliaveis e
+rancorosos dos portuguezes, e alliados dos francezes do Maranhão, que
+penetraram até Ibyapaba. Jacaúna e Camarão são conhecidos pela sua
+alliança firme com os portuguezes.
+
+Mas o que solve a questão é o seguinte texto. Lê-se nas _memorias
+diarias_ da guerra brasilica do conde de Pernambuco:--1834, Janeiro, 18:
+"Pelo bom procedimento com que havia servido A. Ph. Camarão o fez
+El-rei capitão-mór de todos os indios não somente de sua nação, que
+era _Pytiguar_, mas das outras residentes em varias aldeias."
+
+Esta auctoridade, além de contemporanea, testemunhal, não pode ser
+recusada, especialmente quando se exprime tão positiva e
+intencionalmente a respeito do ponto duvidoso.
+
+Pag. 19.--_Onde canta a jandaia._--Diz a tradicção que Ceará
+significa na lingua indigena--_canto de jandaia_.
+
+Ayres do Casal, Corographia Brasilica, refere essa tradicção. O
+senador Pompêo, em seu excellente diccionario topographico, menciona
+uma opinião, nova para mim, que pretende vir _Siará_ da palavra
+_saia_-caça, em virtude da abundancia de caça que se encontrava nas
+margens do rio. Essa etymologia é forçada. Para designar quantidade,
+usava a lingua tupy da desinencia _iba_; a desinencia _ára_ junta aos
+verbos designa o sujeito que exercita a acção actual; junta aos nomes
+o que tem actualmente o objecto--exp. _Coatyara_--o que
+pinta.--_Jussara_--o que tem espinho.
+
+Ceará é nome composto de _cemo_--cantar forte, clamar, e _ará_,
+pequena arara ou periquito. Essa é a etymologia verdadeira, e não só
+conforme com a tradicção, mas com as regras da lingua.
+
+Pag. 20.--I. _Giráu._--Na jangada é uma especie de estrado onde
+accommodam os passageiros: e ás vezes o cobrem de palha. Em geral é
+qualquer estiva elevada do solo e suspensa em forquilhas.
+
+II. _Iracema._--Em guarany significa labios de mel--de _ira_--mel e
+_tembe_ labios. _Tembe_ na composição altera-se em _ceme_, como na
+palavra _ceme-yba_.
+
+III. _Graúna_ é o passaro conhecido de cor negra luzidia.--Seu nome
+vem por corrupção de _guira_ passaro e _una_, abreviação de _pixuna_
+de preto.
+
+IV. _Jaty._--Pequena abelha que fabrica delicioso mel.
+
+Pag. 21.--I. _Ipú._--Chamam ainda hoje no Ceará certa qualidade de
+terra muito fertil, que fórma grandes corôas ou ilhas no meio dos
+taboleiros e sertões, e é de preferencia procurada para a cultura.
+D'ahi se deriva o nome d'essa comarca da provincia.
+
+II. _Tabajaras._--Senhores das aldeias--de
+_taba_--aldeia--e--_jara_--senhor. Essa nação dominava o interior da
+provincia, especialmente a Serra da _Ibyapaba_.
+
+III. _Oitycica._--Arvore frondosa, apreciada pela deliciosa frescura que
+derrama sua sombra.
+
+IV. _Gará._--Ave palludal, muito conhecida pelo nome de _guará_. Penso
+eu que esse nome anda corrompido de sua verdadeira origem, que é--_ig_,
+agua e _ará_, arara; arara d'agua, pela bella côr vermelha.
+
+V. _Ará._--periquito. Os indigenas como augmentativo usavam repetir a
+ultima sillaba da palavra e ás vezes toda a palavra--como _murémuré_.
+_Muré_, frauta--_murémuré_, grande frauta. _Arára_ vinha a ser pois
+o augmentativo de _ará_, e significaria a especie maior do genero.
+
+VI. _Urú._--Cestinho que servia de cofre ás selvagens para guardar
+seus objectos de mais preço e estimação.
+
+VII. _Crautá._--Bromelia vulgar, de que se tiram fibras tão ou mais
+finas que as do linho.
+
+VIII. _Jussara._--Palmeira de grandes espinhos, das quaes se servem
+ainda hoje para dividir os fios da renda.
+
+Pag. 22.--I. _Uiraçaba._--aljava--de _uira_ seta e a
+desinencia--_caba_--cousa propria.
+
+II. _Quebrar a flecha._--Era entre os indigenas a maneira symbolica de
+estabelecerem a paz entre as diversas tribus, ou mesmo entre dois
+guerreiros inimigos. Desde já advertimos que não se extranhe a maneira
+porque o extrangeiro se exprime falando com os selvagens: ao seu
+perfeito conhecimento dos usos e lingua dos indigenas, e sobretudo a
+ter-se conformado com elles a ponto de deixar os trajos europeus e
+pintar-se, deveu Martim Soares Moreno a influencia que adquiriu entre os
+indios do Ceará.
+
+Pag. 23.--I. _Ibyapaba._--Grande serra que se prolonga ao norte da
+provincia e a extrema com Piauhy. Significa terra aparada. O Dr. Martins
+em seu _glossario_ lhe attribue outra etymologia. _Iby_-terra--e
+_pabe_--tudo. A primeira porém tem a auctoridade de Vieira.
+
+II. _Igaçaba._--de _ig_--agua e a desinencia _çaba_--cousa propria.
+
+Pag. 24.--I. _Vieste._--A saudação usual da hospitalidade era
+esta:--_Erc ioubé_--tu vieste? _pa-aiotu_, vim sim. _Auge-be_, bem
+dito. Veja-se Lery, pag. 286.
+
+II. _Jaguaribe._--maior rio da provincia; tirou o nome da quantidade de
+onças que povoavam suas margens. _Jaguar_--onça--_iba_--desinencia
+para exprimir copia, abundancia.
+
+III. _Martim._--Da origem latina de seu nome, procedente de Marte, deduz
+o extrangeiro a significação que lhe dá.
+
+IV. _Pytiguaras._--Grande nação de indios que habitava o littoral da
+provincia e estendia-se desde o Parnahyba até o Rio Grande do Norte. A
+orthographia do nome anda mui viciada nas differentes versões, pelo que
+se tornou difficil conhecer a etymologia.
+
+_Iby_ significava terra; _iby-tira_ veiu a significar serra, ou terra
+alta. Aos valles chamavam os indigenas _iby-tira-cua_--cintura das
+montanhas. A desinencia _jara_ senhor, accrescentada, formou a palavra
+_Ibyticuara_--que por corrupção deu _Pytiguara_--senhores dos valles.
+
+V. _Mau espirito da floresta._--Os indigenas chamavam a esses espiritos
+_caa-pora_, habitantes da mata, d'onde por corrupção veiu a palavra
+caipora, introduzida na lingua portugueza em sentido figurado.
+
+Pag. 25.--I. _As mais bellas mulheres._--Este costume da hospitalidade
+americana é attestado pelos chronistas. A elle se attribue o bello
+rasgo de virtude de Anchieta, que para fortalecer a sua castidade,
+compunha nas praias de Iperoig o poema da _Virgindade de Maria_, cujos
+versos escrevia nas areias humidas, para melhor os polir.
+
+II. _Jurema._--Arvore mean, de folhagem espessa; dá um fructo
+excessivamente amargo, de cheiro acre, do qual juntamente com as folhas
+e outros ingredientes preparavam os selvagens uma bebida, que tinha o
+effeito do hatchis, de produzir sonhos tão vivos e intensos, que a
+pessoa fruia n'elles melhor do que na realidade. A fabricação d'esse
+licor era um segredo, explorado pelos Pagés, em proveito de sua
+influencia. _Jurema_ é composto de _ju_-espinho e _rema_ cheiro
+desagradavel.
+
+Pag. 26.--I. _Irapuam._--de _ira_-mel e _apuam_ redondo: é o nome dado
+a uma abelha virulenta e brava, por causa da forma redonda de sua
+colmeia. Por corrupção reduziu-se esse nome actualmente a _arapuá_. O
+guerreiro de que se trata aqui é o celebre Mel-redondo, assim chamado
+pelos chronistas do tempo, que traduziam seu nome ao pé da lettra.
+Mel-redondo, chefe dos Tabajaras da serra Ibyapaba, foi encarniçado
+inimigo dos portuguezes, e amigo dos francezes.
+
+II. _Acaracú._--O nome do rio é _Acaracú_--de _acará_
+garça--_co_--buraco, toca, ninho, e _y_--som dubio entre _i_ e _u_, que
+os portuguezes, ora exprimiam de um, ora de outro modo, significando
+_agua_. Rio do ninho das garças é pois a traducção de _Acaracú_; e
+o rio das garças a de _Acaraú_. Usou-se aqui da liberdade horaciana
+para evitar em uma obra litteraria, obra de gosto e artistica, um som
+aspero e ingrato. De resto quem sabe se o nome primitivo não foi
+realmente _Acaraú_, que se alterou como tantos outros, pela
+introducção da consoante?
+
+III. _Estrella morta._--A estrella polar, por causa da sua immobilidade;
+orientavam-se por ella os selvagens durante a noite.
+
+IV. _Boicininga._--é a cobra cascavel--de _boia_, cobra e _cininga_
+chocalho.
+
+V. _Oitibó._--é uma ave nocturna, especie de coruja.
+
+Pag. 27.--I. _Espiritos da treva._--A esses espiritos chamavam os
+selvagens _curupira_, meninos máus--de _curumim_, menino, e _pira_
+máu.
+
+II. _Boré._--frauta de bambú,--o mesmo que muré.
+
+III. _Ocara._--praça circular que ficava no centro da taba, cercada
+pela estacada, e para a qual abriam todas as casas. Composto de _oca_,
+casa e a desinencia _ara_, que tem; aquillo que tem a casa, ou onde a
+casa está.
+
+IV. _Potyuara._--comedor de camarão; de _poty_--e _uara_. Nome que por
+desprêso davam os inimigos aos Pytiguaras, que habitavam as praias e
+viviam em grande parte de pesca.
+
+Este nome dão alguns escriptores aos Pytiguaras. porque o receberam de
+seus inimigos.
+
+Pag. 28.--I. _Pocema._--grande alarido que faziam os selvagens nas
+occasiões solemnes, como em começo de batalha, ou nas expansões da
+alegria; é palavra adoptada já na lingua portugueza e inserida no
+diccionario de Moraes. Vem de _po_-mão e _cemo_ clamar; clamor das
+mãos, porque os selvagens acompanhavam o vozear com o bater das palmas
+e das armas.
+
+II. _Andira._--morcego: é em allusão a seu nome que Irapuam dirige
+logo palavras de despreso ao velho guerreiro.
+
+Pag. 29.--_Aracaty._--Significava este nome bom tempo de _ara_ e
+_catú_. Os selvagens do sertão assim chamavam as brisas do mar que
+sopram regularmente ao cahir da tarde, e correndo pelo valle do
+Jaguaribe se derramam pelo interior e refrigeram da calma abrasadora do
+verão. D'ahi resultou chamar-se _Aracaty_ o logar de onde vinha a
+monção. Ainda hoje no Icó o nome é conservado á brisa da tarde, que
+sopra do mar.
+
+Pag. 32.--I. _Afflar._--Sobre este verbo que introduzi na lingua
+portugueza do latim _afflo_, já escrevi o que entendi em nota de uma
+segunda edição da _Diva_ que brevemente ha de vir á luz.
+
+II. _Anhanga._--Davam os indigenas este nome ao espirito do mal;
+compõe-se de _anho_ atrito, só e _anga_ alma. Espirito só, privado do
+corpo, phantasma.
+
+Pag. 36.--I. _Camocim._--vaso onde encerravam os indigenas os corpos dos
+mortos e lhes servia de tumulo; outros dizem _camotim_, e talvez com
+melhor orthographia, porque se não me engano o nome corrupção da
+phrase _co_ buraco, _ambyra_ defuncto, _anhotim_ enterrar--buraco para
+enterrar o defuncto--_c'am'otim_. O nome dava-se tambem a qualquer pote.
+
+II. _Guabiroba._--Deve ler-se _Andiroba_. Arvore que dá um azeite
+amargo.
+
+III. _Cabellos do sol._--Em tupy _guaraciaba_. Assim chamavam aos
+europeus que tinham os cabellos louros.
+
+Pag. 38.--I. _Moquem._--Do verbo _mocaém_ assar na labareda. Era a
+maneira por que os indigenas conservavam a caça para não apodrecer,
+quando a levavam em viagem. Nas cabanas a tinham ao fumeiro.
+
+II. _Senhor do caminho._--assim chamavam os indigenas ao guia--de
+_py_, caminho e _guara_, senhor.
+
+Pag. 39.--I. _O dia vae ficar triste._--Os tupys chamavam a tarde
+_carúca_, segundo o diccionario: Segundo Lery, _che caruc
+acy_, significa--"estou triste." Qual d'estes era o sentido figurado da
+palavra? Tiraram a imagem da tristeza, da sombra da tarde, ou a imagem
+do crepusculo do torvamento do espirito?
+
+II. _Jurupary._--demonio; de _juroboca_ e _apara_ torto, aleijado. O
+bocca torta.
+
+III. _Ubaia._--fructa conhecida da especie engenia. Significa fructa
+saudavel, de _uba_-fructa e _aia_ saudavel.
+
+Pag. 41.--I. _Jandaia._--Este nome que anda escripto por diversas
+maneiras _nhendaia_, _nhandaia_ e em todas alterado é apenas um
+adjectivo qualificativo do substantivo _ará_. Deriva-se elle das
+palavras _nheng_--falar--_antan_, duro, forte, aspero, e _ara_
+desinencia verbal que exprime o agente--_nh' ant' ara_; substituido o
+_t_ por _d_--e o _r_ por _i_, tornou-se nhandaia, d'onde jandaia, que se
+traduzirá por periquito grasnador.
+
+Do canto d'esta ave, como se viu, é que vem o nome de Ceará, segundo a
+etymologia que lhe dá a tradicção.
+
+II. _Inhuma._--Ave nocturna palamedea. A especie de que se fala aqui é
+a palamedea chavaria, que canta regularmente á meia noite. A
+orthographia melhor creio ser _anhuma_, talvez de _anho_, só, e _anum_,
+ave agoureira conhecida. Significaria então assim _anum solitario_,
+assim chamado pela tal ou qual semelhança do grito desagradavel.
+
+Pag. 42.--_Inubia._--Trombeta de guerra. Os indigenas, segundo Lery, as
+tinham tão grandes que mediam um diametro na abertura.
+
+Pag. 43.--_Guará._--Cão selvagem, lobo brazileiro. Provêm esta
+palavra do verbo _u_ comer, do qual se forma com o relativo _G_ e a
+desinencia _ara_ o verbal _g-u-ára_ comedor. A syllaba final longa é a
+particula propositiva _ã_ que serve para dar fôrça á palavra.
+
+_G-u-ára-ã_ realmente comedor, voraz.
+
+Pag. 44.--I. _Jiboia._--Cobra conhecida: de _gi_ machado e _boia_ cobra.
+O nome foi tirado da maneira porque a serpente lança o bote, semelhante
+ao golpe do machado; pode traduzir-se bem cobra de arremesso.
+
+II. _Sucury._--A serpente gigante que habita nos grandes rios e engole
+um boi. De _Suu_, animal e _cury_ ou _curu_ roncador. Animal roncador,
+porque de feito o rouco da sucury é medonho.
+
+III. _Se é que tens sangue e não mel._--Allusão que faz o velho
+Andira ao nome de Irapuam, o qual como se disse significa mel redondo.
+
+IV. _Ouve seu trovão._--Todo esse episodio do rugido da terra é uma
+astucia, como usavam os pagés e os sacerdotes de toda a nação
+selvagem para imporem á imaginação do povo. A cabana estava assentada
+sobre um rochedo, onde havia uma galeria subterranea que communicava com
+a varzea por estreita abertura; Araken tivera o cuidado de tapar com
+grandes pedras as duas aberturas, para occultar a gruta dos guerreiros.
+N'essa occasião a fenda inferior estava aberta e o Pagé o sabia;
+abrindo a fenda superior, o ar encanou-se pelo antro espiral com
+estridor medonho, e de que pode dar uma idéa o sussurro dos
+caramujos.--O facto é pois natural; a apparencia sim maravilhosa.
+
+Pag. 45.--_Abaty n'agua._--Abaty--arroz; Iracema serve-se da imagem do
+arroz que só viça no alagado, para exprimir sua alegria.
+
+Pag. 53.--I. _Ubiratan._--Páo ferro, de _ubira_--páo e _antan_ duro.
+
+II. _Maracajá._--Gato selvagem.
+
+III. _Caetetus._--Porco do mato, especie de javali brazileiro. Do
+_caeté_--mato grande e virgem--e _suu_ caça, mudado o _s_ em _t_ na
+composição pela euphonia da lingua. Caça do mato virgem.
+
+IV. _Jaguar._--Vimos que guará significa voraz. Jaguar tem
+inquestionavelmente a mesma etymologia; é o verbal _guara_ e o pronome
+_ja_ nós. Jaguar era pois para os indigenas todos os animaes que os
+devoravam. _Jaguareté_ o grande devorador.
+
+V. _Anajê._--Gavião.
+
+Pag. 55.--_Acauan_, ave inimiga das cobras--de _caa_ pão e _uan_--do
+verbo _u_, que come pão.
+
+Pag. 56.--_Sahy._--Lindo passaro azul.
+
+Pag. 57.--I. _Carioba._--Camisa de algodão, de _cary_ branco e _oba_
+roupa. Tinham tambem a _arassoia_ de _arára_, e _oba_, vestido de
+pennas de arara.
+
+II. _Á cintura da virgem._--Os indigenas chamavam a amante possuida
+_aguaçaba_, de _aba_, homem, _cua_, cintura, _çaba_ cousa propria; a
+mulher que o homem cinge, ou traz á cintura. Fica pois claro o
+pensamento de Iracema.
+
+Pag. 59.--I. _Jacy._--A lua. De _já_--pronome, nós, e _cy_--mãe.--A
+lua exprimia o mez para os selvagens; e seu nascimento era sempre por
+elles festejado.
+
+II. _Fogos da alegria._--Chamavam os selvagens _tory_, os fachos ou fogos;
+e _toryba_, a alegria, a festa, a grande copia dos fachos.
+
+Pag. 60.--_Bucan._--Significa uma especie de grelha que os selvagens
+faziam para assar a caça; d'ahi vem o verbo francez _boucaner_. A
+palavra é da lingua tupy.
+
+Pag. 63.--I. _Acoty._--cotia.
+
+II. _Abaeté._--varão abalisado; de _aba_--homem e _eté_--forte,
+egregio.
+
+Pag. 66.--I. _Jacaúna._--jacarandá preto--de _jaca_, abreviação de
+jacarandá, e _una_, preto. Este Jacaúna é o celebre chefe, amigo de
+Martim Soares Moreno.
+
+II. _Coandú._--porco espinho.
+
+III. _Seu collar de guerra._--O collar que os selvagens faziam dos
+dentes dos inimigos vencidos era um brazão e tropheu de valentia.
+
+Pag. 68.--I. _Japy._--significa, nosso pé, de _ja_--pronome, nós e
+_py_ pé.
+
+II. _Ibyapina._--De _Iby_-terra, e _apino_, tosquiar.
+
+III. _Jatobá._--grande arvore real. O logar da scena é o sitio da hoje
+Villa Viçosa, onde diz a tradição ter nascido Camarão.
+
+Pag. 71.--I. _Meruoca._ De _mera_, mosca, e _oca_, casa. Serra junto do
+Sobral, fertil em mantimentos.
+
+II. _Uruburetama._--patria ou ninho de urubus: serra bastante alta.
+
+III. _Mundahú._--rio muito tortuoso, que nasce na serra de Uruburetama.
+_Mandé_, cilada, e _hu_ rio.
+
+IV. _Potengi._--rio que rega a cidade do Natal, d'onde era filho Soares
+Moreno.
+
+Pag. 72.--I. _As saborosas trahiras._--É o rio Trahiry trinta leguas ao
+norte da capital. De _trahira_, peixe e _y_, rio. Hoje é povoação e
+districto de paz.
+
+II. _Soipé._--paiz da caça. De _Sôo_ caça, e _ipé_ lugar onde.
+Diz-se hoje Siupé, rio e povoação pertencente a freguezia e termo da
+Fortaleza, situada á margem dos alagados chamados Jaguarassú na
+embocadura do rio.
+
+III. _Pacoty._--Rio das pacobas. Nasce na serra de Baturité e lança-se
+no Oceano duas leguas ao norte de Aquirás.
+
+IV. _Iguape._--Enseada distante duas leguas de Aquirás. De _Ig_, agua,
+_cua_, cintura e _ipé_, onde.
+
+Pag. 73--I. _Mocoribe._--morro de areia na enseada do mesmo nome a uma
+legua da Fortaleza; diz-se hoje Mucuripe. Vem de _Corib_ alegrar e _mo_,
+particula ou abreviatura do verbo _monhang_ fazer, que se junta aos
+verbos neutros e mesmo activos para dar-lhes significação
+passiva--exp. _caneon_ affligir-se, _mocaneon_ fazer alguem afflicto.
+
+II. _Rio que forma um braço de mar._--É o _Parnahyba_, rio de Piauhy.
+Vem de Pará. mar, _nhanhe_, correr e _hyba_, braço; braço corrente do
+mar. Geralmente se diz que _Pará_ significa rio e _Paraná_ mar; é
+inteiramente o contrario.
+
+Pag. 74.--I. _Mayr._--cidade. Talvez provenha o nome de _mayr_
+extrangeiro, e fosse applicado aos povoados dos brancos em opposição
+ás tabas dos indios.
+
+II. _Brancos tapuias._--em tupy, _tapuitinga_. Nome que os Pytiguaras
+davam aos francezes para differença-los dos Tupinambás. _Tapuia_,
+significa barbaro, inimigo. De _taba_, aldeia e _puyr_, fugir,--os
+fugidos da aldeia.
+
+Pag. 75.--I. _Batuireté._--narseja illustre, de _batuira_ e _eté_.
+Appellido que tomara o chefe pytiguara, e que na linguagem figurada
+valia tanto como valente nadador. É o nome de uma serra fertilissima e
+da comarca que ella occupa.
+
+II. _Suas estrellas eram muitas._--Contavam os indigenas os annos pelo
+nascimento das pleiades no oriente; e tambem costumavam guardar uma
+castanha de cada estação de cajú. para marcar a idade.
+
+III. _Jatobá._--arvore frondosa, talvez de _jetahy_, _oba_, folha e
+_a_, augmentativo; jetahy de grande copa. É nome de um rio e de uma
+serra em S. Quiteria.
+
+Pag. 76.--I. _Quixeramobim._--segundo o Dr. Martins traduz-se por essa
+exclamação de saudade. Compõe-se de _Qui_, ah! _xere_, meus,
+_amôbinhé_, outros tempos.
+
+II. _Caminho das garças._--Em tupy _Acarape_, povoação na freguezia
+de Baturité a nove leguas da capital.
+
+III. _Maranguab._--A serra de Maranguape distante cinco leguas da
+capital, e notavel pela sua fertilidade e formosura. O nome indigena
+compõe-se de _maran_ guerrear e _coaub_ sabedor; _maran_ talvez seja
+abreviação de _maramonhang_, fazer guerra, se não é, como eu penso,
+o substantivo simples guerrear, de que se fez o verbo composto. O Dr.
+Martins traz etymologia diversa. _Mara_, arvore, _angai_, de nenhuma
+maneira, _guabe_, comer. Esta etymologia nem me parece propria ao
+objecto, que é uma serra, nem conforme com os preceitos da lingua.
+
+IV. _Pirapora._--Rio do Maranguape, notavel pela frescura do suas aguas
+e excellencia dos banhos chamados da Pirapora, no lugar das cachoeiras.
+Provem o nome de _Pira_, peixe, pore, salto: salto do peixe.
+
+Pag. 78.--_O gavião branco_--Batuireté chama assim o guerreiro branco,
+ao passo que trata o neto por narseja: elle prophetisa n'esse parallelo
+a destruição de sua raça pela raça branca.
+
+Pag. 79. II. _Porangaba._--significa belleza. É uma lagoa distante da
+cidade uma legua em sitio aprasivel. Hoje a chamam Arronches: e nas suas
+margens está a decadente povoação de mesmo nome.
+
+II. _Jererahu._--rio das marrecas; de _jerere_--ou irêrê, marreca, e
+_hu_ agua. Este lugar ainda hoje é notavel pela excellencia da fructa,
+com especialidade as bellas laranjas conhecidas por _laranjas de
+Jererahu_.
+
+III. _Sapiranga._--lagoa no sitio Alagadiço Novo, a cerca de 2 leguas
+da capital. O nome indigena significa olhos vermelhos, de _ceça_, olhos
+e _piranga_ vermelhos. Esse mesmo nome dão usualmente no norte a certa
+ophtalmia.
+
+IV. _Murytiapuá._--de _murity_--nome da palmeira mais vulgarmente
+conhecida por burity, e _apuam_, ilha. Logarejo no mesmo sitio referido.
+
+V. _Aratanha._--de _arára_, ave e _tanha_, dente. Serra mui fertil e
+cultivada em continuação da de Maranguape.
+
+VI. _Pacatuba._--de _paca_ e _tuba_, leito ou couto das pacas. Recente,
+mas importante povoação, em um bello valle da serra da Aratanha.
+
+VII. _Guayúba._--De _goaia_, valle, _y_, agua, _jur_, vir, _be_ por
+onde; por onde vem as aguas do valle. Rio que nasce na serra da Aratanha
+e corta a povoação do mesmo nome a seis leguas da capital.
+
+Pag. 81.--I. _Ambar._ As praias do Ceará eram n'esse tempo muito
+abundantes de ambar que o mar arrojava. Chamavam-lhe os indigenas, _Pira
+repoti_ esterco de peixe.
+
+II. _Coatyá._--pintar. A historia menciona esse facto de Martim Soares
+Moreno se ter coatyado quando vivia entre os selvagens do Ceará.
+
+Pag. 82.--_Coatyabo._--A desinencia _abo_ significa o objecto que
+soffreu a acção do verbo, e talvez provenha de _aba_, gente, creatura.
+
+Pag. 90.--_Imbú._--Fructa da Serra do Araripe que não vem do littoral.
+É saborosa e semelhante ao cajá.
+
+Pag. 93.--I. _Tupinambás._--Nação formidavel, ramo primitivo da
+grande raça tupy. Depois de uma resistencia heroica, não podendo
+expulsar os portuguezes da Bahia emigraram até o Maranhão onde fizeram
+alliança com os francezes que já então infestavam aquellas paragens.
+O nome que elles se davam significava--gente parente dos Tupys--de
+_Tupy_--_anama_--ba.
+
+II. _Maracatim._--Grande barco que levava na proa _tim_--um _maracá_.
+Aos barcos menores ou canoas chamavam _igara_--de _ig_--agua--e _jara_,
+senhor; senhora d'agua.
+
+Pag. 95.--_Moacyir._--Filho do soffrimento--de _moacy_, dôr e _ira_,
+desinencia, que significa sahido de.
+
+Pag. 96.--_Faxa._--É o que chamam vulgarmente _typoia_; rejeitou-se o
+termo proprio do texto por andar degradado no estylo chulo.
+
+Pag. 97.--_Chupou tua alma._--Creança em tupy é _pitanga_, de _piter_
+chupar e _anga_ alma; chupa alma. Seria porque as creanças attrahem e
+deleitam aos que as vêem; ou porque absorvem uma porção d'alma dos
+paes? Cauby fala n'esse ultimo sentido.
+
+Pag. 99.--_Cariman._--Uma conhecida preparação de mandioca. _Caric_,
+correr, _mani_, mandioca. Mandioca escorrida.
+
+Pag. 100.--_Tauape_, lugar de barro amarello, de _tauá_ e _ipé_. Fica
+no caminho de Maranguape.
+
+Pag. 103.--_Copim._--Insecto conhecido. O nome compõe-se de _co_ buraco
+e _pim_ ferrão.
+
+Pag. 104.--_Albuquerque._--Jeronymo d'Albuquerque chefe da expedição
+do Maranhão em 1612.
+
+Pag. 117.--_Colibri._--D'esse lethargo do colibri no inverno fala Simão
+de Vasconcellos.
+
+Pag. 125--_Mocejana._--Lagoa e povoação a 2 leguas da capital. O verbo
+_cejar_ significa--abandonar; a desinencia _ana_ indica a pessoa que
+exercita a acção do verbo. _Cejana_--significa o que abandona. Junta a
+particula _mo_ do verbo _monhang_, fazer, vem a palavra a significar o
+que fez abandonar ou que foi lugar e occasião de abandonar.
+
+
+
+
+CARTA
+AO DR. JAGUARIBE
+
+
+Eis-me de novo, conforme o promettido.
+
+Já leu o livro e as notas que o acompanham; conversemos pois.
+
+Conversemos sem cerimonia, em toda a familiaridade, como se cada um
+estivesse recostado em sua rede, ao vaivem do languido balanço, que
+convida á doce pratica.
+
+Se algum leitor curioso se puzer á escuta, deixal-o. Não havemos por
+isso de mudar o tom rasteiro da intimidade pela phrase garrida das
+salas.
+
+Sem mais.
+
+Ha de recordar-se você de uma noite que entrando em minha casa, quatro
+annos a esta parte, achou-me rabiscando um livro. Era isso em uma quadra
+importante, pois que uma nova legislatura, filha de nova lei, fazia sua
+primeira sessão; e o paiz tinha os olhos n'ella, de quem esperava
+iniciativa generosa para melhor situação.
+
+Já estava eu meio descrido das cousas, e mais dos homens; e por isso
+buscava na litteratura diversão á tristeza que me infundia o estado da
+patria entorpecida pela indifferença. Cuidava eu porém que você,
+politico de antiga e melhor tempera, pouco se preoccupava com as cousas
+litterarias, não por menos preço, sim por vocação.
+
+A conversa que tivemos então revelou meu engano; achei um cultor e
+amigo da litteratura amena; e juntos lemos alguns trechos da obra, que
+tinha, e ainda não perdeu, pretenções a um poema.
+
+É, como viu o como então lhe esbocei a largos traços, uma heroida que
+tem por assumpto as tradicções dos indigenas brazileiros e seus
+costumes. Nunca me lembrara eu de dedicar-me a esse genero de
+litteratura, de que me abstive sempre, passados que foram os primeiros e
+fugaces arroubos da juventude. Supporta-se uma prosa mediocre, e
+estima-se pelo quilate da idéa; mas o verso mediocre é a peor triaga
+que se possa impingir ao pio leitor.
+
+Commetti a imprudencia quando escrevi algumas cartas sobre a
+_Confederação dos Tamoyos_ dizer: "as tradições dos indigenas dão
+materia para um grande poema que talvez um dia alguem apresente sem
+ruido nem apparato, como modesto fructo de suas vigilias."
+
+Tanto bastou para que suppozessem que o escriptor se referia a si, e
+tinha já o poema em mão; varias pessoas perguntaram-me por elle.
+Metteu-me isto em brios litterarios; sem calcular das forças minimas
+para empresa tão grande, que assoberbou dois illustres poetas, tracei o
+plano da obra, e comecei-a com tal vigor que a levei quasi de um folego
+ao quarto canto.
+
+Esse folego susteve-se cêrca de cinco mezes, mas amorteceu; e vou-lhe
+confessar o motivo.
+
+Desde cedo, quando começaram os primeiros pruridos litterarios, uma
+especie de instincto me impellia a imaginação para a raça selvagem
+indigena. Digo instincto, porque não tinha eu então estudos bastantes
+para apreciar devidamente a nacionalidade de uma litteratura; era
+simples prazer que me deleitava na leitura das chronicas e memorias
+antigas.
+
+Mais tarde, discernindo melhor as cousas, lia as producções que se
+publicavam sobre o thema indigena; não realisavam ellas a poesia
+nacional, tal como me apparecia no estudo da vida selvagem dos
+autoctonos brazileiros. Muitas pecavam pelo abuso dos termos indigenas
+accumulados uns sobre outros, o que não só quebrava a harmonia da
+lingua portugueza, como perturbava a intelligencia do texto. Outras eram
+primorosas no estylo e ricas de bellas imagens; porém certa rudez
+ingenua de pensamento e expressão, que devia ser a linguagem dos
+indigenas, não se encontrava ali.
+
+Gonçalves Dias é o poeta nacional por excellencia ninguem lhe disputa
+na opulencia da imaginação, no fino lavor do verso, no conhecimento da
+natureza brazileira e dos costumes selvagens. Em suas poesias americanas
+aproveitou muitas das mais lindas tradicções dos indigenas; e em seu
+poema não concluido dos _Timbiras_, propoz-se a descrever a epopea
+brazileira.
+
+Entretanto, os selvagens de seu poema falam uma linguagem classica, o
+que lhe foi censurado por outro poeta de grande estro, o dr. Bernardo
+Guimarães; elles exprimem idéas proprias do homem civilisado, e que
+não é verosimil tivessem no estado da natureza.
+
+Sem duvida que o poeta brazileiro tem de traduzir em sua lingua as
+idéas, embora rudes e grosseiras, dos indios; mas n'essa traducção
+está a grande difficuldade; é preciso que a lingua civilisada se molde
+quanto possa á singeleza primitiva da lingua barbara; e não represente
+as imagens e pensamentos indigenas senão por termos e phrases que ao
+leitor pareçam naturaes na bôcca do selvagem.
+
+O conhecimento da lingua indigena é o melhor criterio para a
+nacionalidade da litteratura. Elle nos dá não só o verdadeiro estylo,
+como as imagens poeticas do selvagem, os modos de seu pensamento, as
+tendencias de seu espirito, e até as menores particularidades de sua
+vida. É n'essa fonte que deve beber o poeta brazileiro; é d'ella que
+ha de sahir o verdadeiro poema nacional, tal como eu o imagino.
+
+Commettendo portanto o grande arrojo, aproveitei o ensejo de realisar as
+idéas que me vagueavam no espirito, e não eram ainda plano fixo; a
+reflexão consolidou-as e robusteceu.
+
+Na parte escripta da obra foram ellas vasadas em grande copia. Se a
+investigação laboriosa das bellezas nativas feita sobre imperfeitos e
+espurios diccionarios exhauria o espirito; a satisfação de cultivar
+essas flores agrestes da poesia brazileira, deleitava. Um dia porém
+fatigado da constante e aturada meditação ou analyse para descobrir a
+etymologia d'algum vocabulo, assaltou-me um receio.
+
+Todo este improbo trabalho que ás vezes custava uma só palavra, me
+seria levado á conta? Saberiam que esse escropulo de ouro fino, tinha
+sido desentranhado da profunda camada, onde dorme uma raça extincta? Ou
+pensariam que fôra achado na superficie e trazido ao vento da facil
+inspiração?
+
+E sobre esse, logo outro receio.
+
+A imagem ou pensamento com tanta fadiga esmerilhados, seriam apreciados
+em seu justo valor, pela maioria dos leitores? Não os julgariam
+inferiores a qualquer das imagens em voga, usadas na litteratura
+moderna?
+
+Occorre-me um exemplo tirado d'este livro. Guia chamavam os indigenas,
+senhor do caminho, _pyguara_. A belleza da expressão selvagem em sua
+traducção litteral e etymologica, me parece bem saliente. Não diziam
+sabedor do caminho, embora tivessem termo proprio, _coaub_, porque essa
+phrase não exprimiria a energia de seu pensamento. O caminho no estado
+selvagem não existe; não é cousa de saber. O caminho faz-se na
+occasião da marcha atravez da floresta ou do campo, e em certa
+direcção: aquelle que o tem e o dá, é realmente senhor do caminho.
+
+Não é bonito? Não está ahi uma joia da poesia nacional?
+
+Pois talvez haja quem prefira a expressão rei do caminho, embora os
+brasis não tivessem rei, nem idéa de tal instituição. Outros se
+inclinarão á palavra guia, como mais simples e natural em portuguez,
+embora não corresponda ao pensamento do selvagem.
+
+Ora escrever um poema que devia alongar-se para correr o risco de não
+ser entendido, e quando entendido não apreciado, era para desanimar o
+mais robusto talento, quanto mais a minha mediocridade. Que fazer?
+Encher o livro de gryphos que o tornariam mais confuso e de notas que
+ninguem lê? Publicar a obra parcialmente para que os entendidos
+proferissem o veredicto litterario? Dar leitura d'ella a um circulo
+escolhido, que emittisse juizo illustrado?
+
+Todos estes meios tinham seu inconveniente, e todos foram repellidos: o
+primeiro afeiava o livro; o segundo o truncava em pedaços; o terceiro
+não lhe aproveitaria pela ceremoniosa benevolencia dos censores. O que
+pareceu melhor e mais acertado foi desviar o espirito d'essa obra e
+dar-lhe novos rumos.
+
+Mas não se abandona assim um livro começado, por peor que elle seja;
+ahi n'essas paginas cheias de rasuras e borrões dorme a larva do
+pensamento, que pode ser nympha de azas douradas, se a inspiração
+fecundar o grosseiro casulo. Nas diversas pausas de suas preoccupações
+o espirito volvia pois ao album, onde estão ainda incubados e estarão
+cerca de dois mil versos heroicos.
+
+Conforme a benevolencia ou severidade de minha consciencia ás vezes os
+acho bonitos e dignos de verem a luz; outras me parecem vulgares,
+monotonos, e somenos a quanta prosa charra tenho eu estendido sobre o
+papel. Se o amor de pae abranda afinal esse rigor, não desvanece porem
+nunca o receio de "perder inutilmente meu tempo a fazer versos para
+cabocolos."
+
+Em um d'esses volveres do espirito á obra começada, lembrou-me da
+experiencia _in anima prosaico_. O verso pela sua dignidade e nobreza
+não comporta certa flexibilidade de expressão, que entretanto não vae
+mal á prosa mais elevada. A elasticidade da phrase permittiria então
+que se empregassem com mais careza as imagens indigenas, de modo a não
+passarem desapercebidas. Por outro lado conhecer-se-hia o effeito que
+havia de ter o verso pelo effeito que tivesse a prosa.
+
+O assumpto para a experiencia, de antemão estava achado. Quando em 1848
+revi a nossa terra natal, tive a idéa de aproveitar suas lendas e
+tradições em alguma obra litteraria. Já em S. Paulo tinha começado
+uma biographia do Camarão. A mocidade d'elle, a amisade heroica que o
+ligava a Soares Moreno, a bravura e lealdade de Jacaúna, alliado dos
+portuguezes, e suas guerras contra o celebre Mel Redondo; ahi estava o
+thema. Faltava-lhe o perfume que derrama sobre as paixões do homem a
+belleza da mulher.
+
+Sabe você agora o outro motivo que eu tinha de lhe endereçar o livro;
+precisava dizer todas estas cousas, contar o como e porque escrevi
+_Iracema_. E com quem melhor conversaria sobre isso do que com uma
+testemunha de meu trabalho, a unica, das poucas, que respira agora as
+auras cearenses?
+
+Este livro é pois um ensaio ou antes amostra. Verá realisadas n'elles
+as minhas idéas a respeito da litteratura nacional; e achará ahi
+poesia inteiramente brazileira, haurida na lingua dos selvagens. A
+etymologia dos nomes das diversas localidades, e certos modos de dizer
+tirados da composição das palavras, são de cunho original.
+
+Comprehende você que não podia eu derramar em abundancia essa riqueza
+no livrinho agora publicado, porque ellas ficariam desfloradas na obra
+de maior vulto, a qual só teria a novidade da fabula. Entretanto ha ahi
+de sobra para dar materia á critica, e servir de base ao juizo dos
+entendidos.
+
+Se o publico ledor gostar d'essa forma litteraria, que me parece ter
+algum attractivo e novidade, então se fará um esforço para levar ao
+cabo o começado poema, embora o verso pareça na época actual ter
+perdido a sua influencia e prestigio. Se porém o livro fôr acoimado de
+serdiço e tedioso, ou se Iracema encontrar a usual indifferença, que
+vae acolhendo o bom e o mau com a mesma complacencia, quando não é o
+silencio desdenhoso e ingrato; então o auctor se desenganará de mais
+esse genero de litteratura, como já se desenganou do theatro; e os
+versos como as comedias passarão para a gaveta dos papeis velhos,
+reliquias autobiographicas.
+
+Depois de concluido o livro e quando o reli apurado na estampa, conheci
+me tinham escapado senões que poderia corrigir se não fosse a pressa
+com que o fiz editar; noto algum excesso de comparações, certa
+semelhança entre algumas imagens, e talvez desalinho no estylo dos
+ultimos capitulos que desmerecem dos primeiros. Tambem me parece devia
+conservar aos nomes das localidades sua actual versão, embora
+corrompida. Se a obra tiver segunda edição será escoimada d'estes e
+de outros defeitos, que lhe descubram os entendidos.
+
+         Agosto de 1995.
+
+                             J. DE ALENCAR.

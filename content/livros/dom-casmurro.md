@@ -5,7498 +5,8705 @@ ano: "1899"
 categoria: "Realismo"
 ---
 
-Produced by Juliet Sutherland, Janet Blenkinship and the
-Online Distributed Proofreading Team at http://www.pgdp.net
+DOM CASMURRO
 
+POR
 
+MACHADO DE ASSIS
 
+DA ACADEMIA BRAZILEIRA
 
+H. GARNIER, LIVREIRO-EDITOR
+
+RUA MOREIRA CEZAR, 71
 
-+------------------------------------------------------------+
-|Transcriber's Note: Inconsistent spelling of place names    |
-|are left as in the original.                                |
-+------------------------------------------------------------+
+RIO DE JANEIRO
+
+6, RUE DES SAINTS-PÈRES, 6
+
+PARIZ
+
+
+
+
+I
+
+Do titulo.
+
+Uma noite destas, vindo da cidade para o Engenho Novo, encontrei no
+trem da Central um rapaz aqui do bairro, que eu conheço de vista e
+de chapéo. Comprimentou-me, sentou-se ao pé de mim, falou da lua e
+dos ministros, e acabou recitando-me versos. A viagem era curta, e os
+versos póde ser que não fossem inteiramente maus. Succedeu, porém, que
+como eu estava cançado, fechei os olhos tres ou quatro vezes; tanto
+bastou para que elle interrompesse a leitura e mettesse os versos no
+bolso.
+
+--Continue, disse eu accordando.
+
+--Já acabei, murmurou elle.
+
+--São muito bonitos.
+
+Vi-lhe fazer um gesto para tiral-os outra vez do bolso, mas não passou
+do gesto; estava amuado. No dia seguinte entrou a dizer de mim nomes
+feios, e acabou alcunhando-me _Dom Casmurro._ Os visinhos, que não
+gostam dos meus habitos reclusos e calados, deram curso á alcunha, que
+afinal pegou. Nem por isso me zanguei. Contei a anecdota aos amigos da
+cidade, e elles, por graça, chamam-me assim, alguns em bilhetes: «Dom
+Casmurro, domingo vou jantar com você.»--«Vou para Petropolis, Dom
+Casmurro; a casa é a mesma da Rhenania; vê se deixas essa caverna do
+Engenho Novo, e vae lá passar uns quinze dias commigo.»--«Meu caro Dom
+Casmurro, não cuide que o dispenso do theatro amanhã; venha e dormirá
+aqui na cidade; dou-lhe camarote, dou-lhe chá, dou-lhe cama; só não lhe
+dou moça.»
+
+Não consultes diccionarios. _Casmurro_ não está aqui no sentido que
+elles lhe dão, mas no que lhe poz o vulgo de homem calado e mettido
+comsigo. _Dom_ veiu por ironia, para attribuir-me fumos de fidalgo.
+Tudo por estar cochilando! Tambem não achei melhor titulo para a minha
+narração; se não tiver outro d'aqui até ao fim do livro, vae este
+mesmo. O meu poeta do trem ficará sabendo que não lhe guardo rancor.
+E com pequeno esforço, sendo o titulo seu, poderá cuidar que a obra
+é sua. Ha livros que apenas terão isso dos seus autores; alguns nem
+tanto.
+
+
+
+
+II.
 
+Do livro.
+
+Agora que expliquei o titulo, passo a escrever o livro. Antes disso,
+porém, digamos os motivos que me põem a penna na mão.
 
+Vivo só, com um creado. A casa em que moro é propria; fil-a
+construir de proposito, levado de um desejo tão particular que me
+vexa imprimil-o, mas vá lá. Um dia, ha bastantes annos, lembrou-me
+reproduzir no Engenho Novo a casa em que me criei na antiga rua de
+Matacavallos, dando-lhe o mesmo aspecto e economia daquella outra,
+que desappareceu. Constructor e pintor entenderam bem as indicações
+que lhes fiz: é o mesmo predio assobradado, tres janellas de frente,
+varanda ao fundo, as mesmas alcovas e salas. Na principal destas, a
+pintura do tecto e das paredes é mais ou menos egual, umas grinaldas de
+flores miudas e grandes passaros que as tomam nos bicos, de espaço a
+espaço. Nos quatro cantos do tecto as figuras das estações, e ao centro
+das paredes os medalhões de Cesar, Augusto, Nero e Massinissa, com os
+nomes por baixo... Não alcanço a razão de taes personagens. Quando
+fomos para a casa de Matacavallos, já ella estava assim decorada; vinha
+do decennio anterior. Naturalmente era gosto do tempo metter sabor
+classico e figuras antigas em pinturas americanas. O mais é tambem
+analogo e parecido. Tenho chacarinha, flôres, legume, uma casuarina, um
+poço e lavadouro. Uso louça velha e mobilia velha. Emfim, agora, como
+outr'ora, ha aqui o mesmo contraste da vida interior, que é pacata, com
+a exterior, que é ruidosa.
+
+O meu fim evidente era atar as duas pontas da vida, e restaurar na
+velhice a adolescencia. Pois, senhor, não consegui recompor o que foi
+nem o que fui. Em tudo, se o rosto é egual, a physionomia é differente.
+Se só me faltassem os outros, vá; um homem consola-se mais ou menos
+das pessoas que perde; mas falto eu mesmo, e esta lacuna é tudo. O que
+aqui está é, mal comparando, semelhante á pintura que se põe na barba e
+nos cabellos, e que apenas conserva o habito externo, como se diz nas
+autopsias; o interno não aguenta tinta. Uma certidão que me desse vinte
+annos de edade poderia enganar os extranhos, como todos os documentos
+falsos, mas não a mim. Os amigos que me restam são de data recente;
+todos os antigos foram estudar a geologia dos campos santos. Quanto ás
+amigas, algumas datam de quinze annos, outras de menos, e quasi todas
+creem na mocidade. Duas ou tres fariam crer nella aos outros, mas a
+lingua que falam obriga muita vez a consultar os diccionarios, e tal
+frequencia é cançativa.
+
+Entretanto, vida differente não quer dizer vida peor; é outra cousa.
+A certos respeitos, aquella vida antiga apparece-me despida de muitos
+encantos que lhe achei; mas é tambem exacto que perdeu muito espinho
+que a fez molesta, e, de memoria, conservo alguma recordação doce e
+feiticeira. Em verdade, pouco appareco e menos falo. Distracções raras.
+O mais do tempo é gasto em hortar, jardinar e ler; como bem e não durmo
+mal.
+
+Ora, como tudo cança, esta monotonia acabou por exhaurir-me tambem.
+Quiz variar, e lembrou-me escrever um livro. Jurisprudencia,
+philosophia e politica acudiram-me, mas não me acudiram as forças
+necessarias. Depois, pensei em fazer uma _Historia dos Suburbios_,
+menos secca que as memorias do padre Luiz Gonçalves dos Santos,
+relativas á cidade; era obra modesta, mas exigia documentos e datas,
+como preliminares, tudo arido e longo. Foi então que os bustos pintados
+nas paredes entraram a falar-me e a dizer-me que, uma vez que elles não
+alcançavam reconstituir-me os tempos idos, pegasse da penna e contasse
+alguns. Talvez a narração me désse a illusão, e as sombras viessem
+perpassar ligeiras, como ao poeta, não o do trem, mas o do _Fausto: Ahi
+vindes outra vez, inquietas sombras...?_
+
+Fiquei tão alegre com esta ideia, que ainda agora me treme a penna na
+mão. Sim, Nero, Augusto, Massinissa, e tu, grande Cesar, que me incitas
+a fazer os meus commentarios, agradeço-vos o conselho, e vou deitar ao
+papel as reminiscencias que me vierem vindo. Deste modo, viverei o que
+vivi, e assentarei a mão para alguma obra de maior tomo. Eia, comecemos
+a evocação por uma celebre tarde de Novembro, que nunca me esqueceu.
+Tive outras muitas, melhores, e peores, mas aquella nunca se me apagou
+do espirito. É o que vás entender, lendo.
 
 
-  THE SUNNY SIDE
 
-  OF
 
-  IRELAND.
+III
 
-  [Illustration]
+A denuncia.
 
+Ia a entrar na sala de visitas, quando ouvi proferir o meu nome e
+escondi-me atraz da porta. A casa era a da rua de Matacavallos, o mez
+Novembro, o anno é que é um tanto remoto, mas eu não hei de trocar as
+datas á minha vida só para agradar ás pessoas que não amam historias
+velhas; o anno era de 1857.
+
+--D. Gloria, a senhora persiste na ideia de metter o nosso Bentinho no
+seminario? É mais que tempo, e já agora póde haver uma difficuldade.
+
+--Que difficuldade?
+
+--Uma grande difficuldade.
 
+Minha mãe quiz saber o que era. José Dias, depois de alguns instantes
+de concentrarão, veiu ver se havia alguem no corredor; não deu por mim,
+voltou e, abafando a voz, disse que a difficuldade estava na casa ao
+pé, a gente do Padua.
 
+--A gente do Padua?
 
-  Second Edition.    Re-written and Enlarged.
+--Ha algum tempo estou para lhe dizer isto, mas não me atrevia. Não
+me parece bonito que o nosso Bentinho ande mettido nos cantos com a
+filha do _Tartaruga_, e esta é a difficuldade, porque se elles pegam de
+namoro, a senhora terá muito que lutar para separal-os.
 
-  THE SUNNY SIDE
+--Não acho. Mettidos nos cantos?
 
-  OF
+--É um modo de falar. Em segredinhos, sempre juntos. Bentinho quasi
+que não sae de lá. A pequena é uma desmiolada; o pae faz que não vê;
+tomara elle que as cousas corressem de maneira, que... Comprehendo o
+seu gesto; a senhora não crê em taes calculos, parece-lhe que todos têm
+a alma candida...
 
-  IRELAND.
+--Mas, Sr. José Dias, tenho visto os pequenos brincando, e nunca vi
+nada que faça desconfiar. Basta a edade; Bentinho mal tem quinze annos.
+Capitú fez quatorze á semana passada; são dous creançolas. Não se
+esqueça que foram criados juntos, desde aquella grande enchente, ha
+dez annos, em que a familia Padua perdeu tanta cousa; d'ahi vieram as
+nossas relações. Pois eu hei de crer...? Mano Cosme, você que acha?
 
-  HOW TO SEE IT BY
-  THE GREAT SOUTHERN AND WESTERN RAILWAY.
+Tio Cosme respondeu com um «Ora!» que, traduzido em vulgar, queria
+dizer: «São imaginações do José Dias; os pequenos divertem-se, eu
+divirto-me; onde está o gamão?»
+
+--Sim, creio que o senhor está enganado.
+
+--Póde ser, minha senhora. Oxalá tenham razão; mas creia que não falei
+senão depois de muito examinar...
+
+--Em todo caso, vae sendo tempo, interrompeu minha mãe; vou tratar de
+mettel-o no seminario quanto antes.
+
+--Bem, uma vez que não perdeu a ideia de o fazer padre, tem-se ganho o
+principal. Bentinho ha de satisfazer os desejos de sua mãe. E depois
+a egreja brasileira tem altos destinos. Não esqueçamos que um bispo
+presidiu a Constituinte, e que o padre Feijó governou o imperio...
+
+--Governou como a cara d'elle! atalhou tio Cosme, cedendo a antigos
+rancores politicos.
+
+--Perdão, doutor, não estou defendendo ninguem, estou citando. O que eu
+quero é dizer que o clero ainda tem grande papel no Brasil.
+
+--Você o que quer é um capote; ande, vá buscar o gamão. Quanto ao
+pequeno, se tem de ser padre, realmente é melhor que não comece a dizer
+missa atraz das portas. Mas, olhe cá, mana Gloria, ha mesmo necessidade
+de fazel-o padre?
+
+--É promessa, ha de cumprir-se.
+
+--Sei que você fez promessa... mas, uma promessa assim... não sei...
+Creio que, bem pensado... Você que acha, prima Justina?
+
+--Eu?
+
+--Verdade é que cada um sabe melhor de si, continuou tio Cosme; Deus é
+que sabe do todos. Comtudo, uma promessa de tantos annos... Mas, que
+é isso, mana Gloria? Está chorando? Ora esta! Pois isto é cousa de
+lagrimas?
+
+Minha mãe assoou-se sem responder. Prima Justina creio que se levantou
+e foi ter com ella. Seguiu-se um alto silencio, durante o qual estive
+a pique de entrar na sala, mas outra força maior, outra emoção... Não
+pude ouvir as palavras que tio Cosme entrou a dizer. Prima Justina
+exhortava: «Prima Gloria! prima Gloria!» José Dias desculpava-se: «Se
+soubesse, não teria falado, mas falei pela veneração, pela estima, pelo
+affecto, para cumprir um dever amargo, um dever amarissimo...»
+
+
+
+
+IV
+
+Um dever amarissimo!
+
+José Dias amava os superlativos. Era um modo de dar feição monumental
+ás ideias; não as havendo, servir a prolongar as phrases. Levantou-se
+para ir buscar o gamão, que estava no interior da casa. Cosi-me muito á
+parede, e vi-o passar com as suas calças brancas engommadas, presilhas,
+rodaque e gravata de mola. Foi dos ultimos que usaram presilhas no Rio
+de Janeiro, e talvez neste mundo. Trazia as calças curtas para que lhe
+ficassem bem esticadas. A gravata de setim preto, com um aro de aço
+por dentro, immobilisava-lhe o pescoço; era então moda. O rodaque de
+chita, veste caseira o leve, parecia nelle uma casaca de cerimonia. Era
+magro, chupado, com um principio de calva; teria os seus cincoenta e
+cinco annos. Levantou-se com o passo vagaroso do costume, não aquelle
+vagar arrastado dos preguiçosos, mas um vagar calculado e deduzido, um
+syllogismo completo, a premissa antes da consequencia, a consequencia
+antes da conclusão. Um dever amarissimo!
+
+
+
+
+V
+
+O aggregado.
+
+Nem sempre ia naquelle passo vagaroso e rigido. Tambem se descompunha
+em accionados, era muita vez rapido e lepido nos movimentos, tão
+natural nesta como naquella maneira. Outrosim, ria largo, se era
+preciso, de um grande riso sem vontade, mas communicativo, a tal ponto
+as bochechas, os dentes, os olhos, toda a cara, todo a pessoa, todo o
+mundo pareciam rir nelle. Nos lances graves, gravissimo.
+
+Era nosso aggregado desde muitos annos; meu pae ainda estava na
+antiga fazenda de Itaguahy, e eu acabava de nascer. Um dia appareceu
+alli vendendo-se por medico homeopatha; levava um _Manual_ e uma
+botica. Havia então um andaço de febres; José Dias curou o feitor
+e uma escrava, e não quiz receber nenhuma remuneração. Então meu
+pae propoz-lhe ficar alli vivendo, com pequeno ordenado. José Dias
+recusou, dizendo que era justo levar a saude á casa de sapé do pobre.
+
+--Quem lhe impede que vá a outras partes? Vá aonde quizer, mas fique
+morando comnosco.
+
+--Voltarei daqui a tres mezes.
+
+Voltou dalli a duas semanas, acceitou casa e comida sem outro
+estipendio, salvo o que quizessem dar por festas. Quando meu pae foi
+eleito deputado e veiu para o Rio de Janeiro com a familia, elle veiu
+tambem, e teve o seu quarto ao fundo da chacara. Um dia, reinando
+outra vez febres em Itaguahy, disse-lhe meu pae que fosse ver a nossa
+escravatura. José Dias deixou-se estar calado, suspirou e acabou
+confessando que não era medico. Tomára este titulo para ajudar a
+propaganda da nova escola, e não o fez sem estudar muito e muito; mas a
+consciencia não lhe permittia acceitar mais doentes.
+
+--Mas, você curou das outras vezes.
+
+--Creio que sim; o mais acertado, porém, é dizer que foram os remedios
+indicados nos livros. Elles, sim, elles, abaixo de Deus. Eu era um
+charlatão... Não negue; os motivos do meu procedimento podiam ser e
+eram dignos; a homeopathia é a verdade, e, para servir á verdade,
+menti; mas é tempo de restabelecer tudo.
+
+Não foi despedido, como pedia então; meu pae já não podia dispensal-o.
+Tinha o dom de se fazer acceito e necessario; dava-se por falta delle,
+como de pessoa de familia. Quando meu pae morreu, a dôr que o pungiu
+foi enorme, disseram-me, não me lembra. Minha mãe ficou-lhe muito
+grata, e não consentiu que elle deixasse o quarto da chacara; ao setimo
+dia, depois da missa, elle foi despedir-se della.
+
+--Fique, José Dias.
+
+--Obedeço, minha senhora.
+
+Teve um pequeno legado no testamento, uma apolice e quatro palavras de
+louvor. Copiou as palavras, encaixilhou-as e pendurou-as no quarto,
+por cima da cama. «Esta é a melhor apolice», dizia elle muita vez. Com
+o tempo, adquiriu certa autoridade na familia, certa audiencia, ao
+menos; não abusava, e sabia opinar obedecendo. Ao cabo, era amigo, não
+direi optimo, mas nem tudo é optimo neste mundo. E não lhe supponhas
+alma subalterna; as cortezias que fizesse vinham antes do calculo
+que da indole. A roupa durava-lhe muito; ao contrario das pessoas
+que enxovalham depressa o vestido novo, elle trazia o velho escovado
+e liso, cirzido, abotoado, de uma elegancia pobre e modesta. Era
+lido, posto que de atropello, o bastante para divertir ao serão e á
+sobremesa, ou explicar algum phenomeno, falar dos effeitos do calor e
+do frio, dos polos e de Robespierre. Contava muita vez uma viagem que
+fizera á Europa, e confessava que a não sermos nós, já teria voltado
+para lá; tinha amigos em Lisboa, mas a nossa familia, dizia elle,
+abaixo de Deus, era tudo.
+
+--Abaixo ou acima? perguntou-lhe tio Cosme um dia.
+
+--Abaixo, repetiu José Dias cheio de veneração.
+
+E minha mãe, que era religiosa, gostou de ver que elle punha Deus no
+devido logar, e sorriu approvando. José Dias agradeceu de cabeça. Minha
+mãe dava-lhe de quando em quando alguns cobres. Tio Cosme, que era
+advogado, confiava-lhe a copia de papeis de autos.
+
+
+
+
+VI
+
+Tio Cosme.
+
+Tio Cosme vivia com minha mãe, desde que ella enviuvou. Já então era
+viuvo, como prima Justina; era a casa dos tres viuvos.
+
+A fortuna troca muita vez as mãos á natureza. Formado para as serenas
+funccões do capitalismo, tio Cosme não enriquecia no fòro: ia comendo.
+Tinha o escriptorio na antiga rua das Violas, perto do jury, que era no
+extincto Aljube. Trabalhava no crime. José Dias não perdia as defesas
+oraes de tio Cosme. Era quem lhe vestia e despia a toga, com muitos
+comprimentos no fim. Em casa, referia os debates. Tio Cosme, por mais
+modesto que quizesse ser, sorria de persuasão.
+
+Era gordo e pesado, tinha a respiração curta e os olhos dorminhocos.
+Uma das minhas recordações mais antigas era vel-o montar todas as
+manhãs a besta que minha mãe lhe deu e que o levava ao escriptorio.
+O preto que a tinha ido buscar á cocheira, segurava o freio, emquanto
+elle erguia o pé e pousava no estribo; a isto seguia-se um minuto de
+descanço ou reflexão. Depois, dava um impulso, o primeiro, o corpo
+ameaçava subir, mas não subia; segundo impulso, egual effeito. Emfim,
+após alguns instantes largos, tio Cosme enfeixava todas as forças
+physicas e moraes, dava o ultimo surto da terra, e desta vez caía em
+cima do selim. Raramente a besta deixava de mostrar por um gesto que
+acabava de receber o mundo. Tio Cosme accommodava as carnes, e a besta
+partia a trote.
+
+Tambem não me esqueceu o que elle me fez uma tarde. Posto que nascido
+na roça (donde vim com dous annos) e apezar dos costumes do tempo,
+eu não sabia montar, e tinha medo ao cavallo. Tio Cosme pegou em mim
+e escanchou-me em cima da besta. Quando me vi no alto (tinha nove
+annos), sósinho e desamparado, o chão lá embaixo, entrei a gritar
+desesperadamente: «Mamãe! mamãe!» Ella acudiu pallida e tremula, cuidou
+que me estivessem matando, apeou-me, affagou-me, emquanto o irmão
+perguntava:
+
+--Mana Gloria, pois um tamanhão destes tem medo de besta mansa?
+
+--Não está acostumado.
+
+--Deve acostumar-se. Padre que seja, se fôr vigario na roça, é preciso
+que monte a cavallo; e, aqui mesmo, ainda não sendo padre, se quizer
+florear como os outros rapazes, e não souber, ha de queixar-se de você,
+mana Gloria.
+
+--Pois que se queixe; tenho medo.
+
+--Medo! Ora, medo!
+
+A verdade é que eu só vim a apprender equitação mais tarde, menos por
+gosto que por vergonha de dizer que não sabia montar. «Agora é que
+elle vae namorar devéras», disseram quando eu comecei as licções. Não
+se diria o mesmo de tio Cosme. Nelle era velho costume e necessidade.
+Já não dava para namoros. Contam que, em rapaz, foi acceito de muitas
+damas, além de partidario exaltado; mas os annos levaram-lhe o mais
+do ardor politico e sexual, e a gordura acabou com o resto de ideias
+publicas e especificas. Agora só cumpria as obrigações do officio e
+sem amor. Nas horas de lazer vivia olhando ou jogava. Uma ou outra vez
+dizia pilherias.
+
+
+
+
+VII
+
+D. Gloria.
+
+Minha mãe era boa creatura. Quando lhe morreu o marido, Pedro de
+Albuquerque Santiago, contava trinta e um annos de edade, e podia
+voltar para Itaguahy. Não quiz; preferiu ficar perto da egreja em que
+meu pae fòra sepultado. Vendeu a fazendola e os escravos, comprou
+alguns que pôz ao ganho ou alugou, uma duzia de predios, certo numero
+de apolices, e deixou-se estar na casa de Matacavallos, onde vivera
+os dous ultimos annos de casada. Era filha de uma senhora mineira,
+descendente de outra paulista, a familia Fernandes.
+
+Ora, pois, naquelle anno da graça de 1857, D. Maria da Gloria Fernandes
+Santiago contava quarenta e dous annos de edade. Era ainda bonita e
+moça, mas teimava em esconder os saldos da juventude, por mais que a
+natureza quizesse preserval-a da acção do tempo. Vivia mettida em um
+eterno vestido escuro, sem adornos, com um chale preto, dobrado em
+triangulo e abrochado ao peito por um camafeu. Os cabellos, em bandós,
+eram apanhados sobre a nuca por um velho pente de tartaruga; alguma vez
+trazia touca branca de fólhos. Lidava assim, com os seus sapatos de
+cordavão rasos e surdos, a um lado e outro, vendo e guiando os serviços
+todos da casa inteira, desde manhã até á noite.
+
+Tenho alli na parede o retrato della, ao lado do do marido, taes
+quaes na outra casa. A pintura escureceu muito, mas ainda dá ideia de
+ambos. Não me lembra nada delle, a não ser vagamente que era alto e
+usava cabelleira grande; o retrato mostra uns olhos redondos, que me
+acompanham para todos os lados, effeito da pintura que me assombrava em
+pequeno. O pescoço sae de uma gravata preta de muitas voltas, a cara
+é toda rapada, salvo um trechosinho pegado ás orelhas. O de minha mãe
+mostra que era linda. Contava então vinte annos, e tinha uma flôr entre
+os dedos. No painel parece offerecer a flôr ao marido. O que se lè na
+cara do ambos é que, se a felicidade conjugal póde ser comparada á
+sorte grande, elles a tiraram no bilhete comprado de sociedade.
+
+Concluo que não se devem abolir as loterias. Nenhum premiado as accusou
+ainda de immoraes, como ninguem tachou de má a boceta de Pandora, por
+lhe ter tirado a esperança no fundo; em alguma parte ha de ella ficar.
+Aqui os tenho aos dous bem casados de outr'ora, os bem-amados, os
+bem-aventurados, que se foram desta para a outra vida, continuar um
+sonho provavelmente. Quando a loteria e Pandora me aborrecem, ergo os
+olhos para elles, e esqueço os bilhetes brancos e a boceta fatidica.
+São retratos que valem por originaes. O de minha mãe, estendendo a flôr
+ao marido, parece dizer: «Sou toda sua, meu guapo cavalheiro!» O de meu
+pae, olhando para a gente, faz este commentario: «Vejam como esta moça
+me quer...» Se padeceram molestias, não sei, como não sei se tiveram
+desgostos: era creança e comecei por não ser nascido. Depois da morte
+delle, lembra-me que ella chorou muito; mas aqui estão os retratos de
+ambos, sem que o encardido do tempo lhes tirasse a primeira expressão.
+São como photographias instantaneas da felicidade.
+
+
+
+
+VIII
+
+É tempo!
+
+Mas é tempo de tomar áquella tarde de Novembro, uma tarde clara e
+fresca, socegada como a nossa casa e o trecho da rua em que moravamos.
+Verdadeiramente foi o principio da minha vida; tudo o que succedera
+antes foi como o pintar e vestir das pessoas que tinham de entrar em
+scena, o accender das luzes, o preparo das rabecas, a symphonia...
+Agora é que eu ia começar a minha opera. «A vida é uma opera,» dizia-me
+um velho tenor italiano que aqui viveu e morreu... E explicou-me um dia
+a definição, em tal maneira que me fez crer nella. Talvez valha a pena
+dal-a; é só um capitulo.
+
+
+
+
+IX
+
+A opera.
+
+Já não tinha voz, mas teimava em dizer que a tinha. «O desuso é que
+me faz mal», accrescentava. Sempre que uma companhia nova chegava da
+Europa, ia ao empresario e expunha-lhe todas as injustiças da terra e
+do ceu; o empresario commettia mais uma, e elle saía a bradar contra
+a iniquidade. Trazia ainda os bigodes dos seus papeis. Quando andava,
+apezar de velho, parecia cortejar uma princeza de Babylonia. Ás vezes,
+cantarolava, sem abrir a bocca, algum trecho ainda mais edoso que elle
+ou tanto; vozes assim abafadas são sempre possiveis. Vinha aqui jantar
+commigo algumas vezes. Uma noite, depois de muito Chianti, repetiu-me
+a definição do costume, e como eu lhe dissesse que a vida tanto podia
+sor uma opera, como uma viagem de mar ou uma batalha, abanou a cabeça e
+replicou:
+
+--A vida é uma opera e uma grande opera. O tenor e o barytono lutam
+pelo soprano, em presença do baixo e dos comprimarios, quando não são o
+soprano e o contralto que lutam pelo tenor, em presença do mesmo baixo
+e dos mesmos comprimarios. Ha córos numerosos, muitos bailados, e a
+orchestração é excellente...
+
+--Mas, meu caro Marcolini...
+
+--Quê...?
+
+E, depois de beber um gole de licor, pousou o calix, e expoz-me a
+historia da creação, com palavras que vou resumir.
+
+Deus é o poeta. A musica é de Satanaz, joven maestro de muito futuro,
+que apprendeu no conservatorio do ceu. Rival de Miguel, Raphael e
+Gabriel, não tolerava a precedencia que elles tinham na distribuição
+dos premios. Póde ser tambem que a musica em demasia doce e mystica
+daquelles outros condiscipulos fosse aborrecivel ao seu genio
+essencialmente tragico. Tramou uma rebellião que foi descoberta a
+tempo, e elle expulso do conservatorio. Tudo se teria passado sem mais
+nada, se Deus não houvesse escripto um libretto de opera, do qual
+abrira mão, por entender que tal genero de recreio era improprio da
+sua eternidade. Satanaz levou o manuscripto comsigo para o inferno.
+Com o fim de mostrar que valia mais que os outros,--e acaso para
+reconciliar-se com o ceu--compoz a partitura, e logo que a acabou foi
+leval-a ao Padre Eterno.
+
+--Senhor, não desapprendi as licções recebidas, disse-lhe. Aqui tendes
+a partitura, escutai-a, emendai-a, fazei-a executar, e se a achardes
+digna das alturas, admitti-me com ella a vossos pés...
+
+--Não, retorquiu o Senhor, não quero ouvir nada.
+
+--Mas, Senhor...
+
+--Nada! nada!
+
+Satanaz supplicou ainda, sem melhor fortuna, até que Deus, cançado e
+cheio de misericordia, consentiu em que a opera fosse executada, mas
+fóra do ceu. Creou um theatro especial, este planeta, e inventou uma
+companhia inteira, com todas as partes, primarias e comprimarias, córos
+e bailarinos.
+
+--Ouvi agora alguns ensaios!
+
+--Não, não quero saber de ensaios. Basta-me haver composto o libretto;
+estou prompto a dividir comtigo os direitos de autor.
+
+Foi talvez um mal esta recusa; della resultaram alguns desconcertos
+que a audiencia prévia e a collaboração amiga teriam evitado. Com
+effeito, ha logares em que o verso vae para a direita e a musica para
+a esquerda. Não falta quem diga que nisso mesmo está a belleza da
+composição, fugindo á monotonia, e assim explicam o tercetto do Eden,
+a aria de Abel, os córos da guilhotina e da escravidão. Não é raro que
+os mesmos lances se reproduzam, sem razao sufficiente. Certos motivos
+cançam á força de repetição. Tambem ha obscuridades; o maestro abusa
+das massas choraes, encobrindo muita vez o sentido por um modo confuso.
+As partes orchestraes são aliás tratadas com grande pericia. Tal é a
+opinião dos imparciaes.
+
+Os amigos do maestro querem que difficilmente se possa achar obra
+tão bem acabada. Um ou outro admitte certas rudezas e taes ou
+quaes lacunas, mas com o andar da opera é provavel que estas sejam
+preenchidas ou explicadas, e aquellas desapparecam inteiramente, não se
+negando o maestro a emendar a obra onde achar que não responde de todo
+ao pensamento sublime do poeta. Já não dizem o mesmo os amigos deste.
+Juram que o libretto foi sacrificado, que a partitura corrompeu o
+sentido da lettra, e, posto seja bonita em alguns logares, e trabalhada
+com arte em outros, é absolutamente diversa e até contraria ao drama. O
+grotesco, por exemplo, não está no texto do poeta; é uma excrescencia
+para imitar as _Mulheres patuscas de Windsor._ Este ponto é contestado
+pelos satanistas com alguma apparencia de razão. Dizem elles que, ao
+tempo em que o joven Satanaz compoz a grande opera, nem essa farça nem
+Shakespeare eram nascidos. Chegam a affirmar que o poeta inglez não
+teve outro genio senão transcrever a lettra da opera, com tal arte
+e fidelidade, que parece elle proprio o autor da composição; mas,
+evidentemente, é um plagiario.
+
+--Esta peça, concluiu o velho tenor, durará emquanto durar o theatro,
+não se podendo calcular em que tempo será elle demolido por utilidade
+astronomica. O exito é crescente. Poeta e musico recebem pontualmente
+os seus direitos autoraes, que não são os mesmos, porque a regra da
+divisão é aquillo da Escriptura: «Muitos são os chamados, poucos os
+escolhidos.» Deus recebe em ouro, Satanaz em papel.
+
+--Tem graça...
+
+--Graça? bradou elle com furia; mas aquietou-se logo, e replicou: Caro
+Santiago, eu não tenho graça, eu tenho horror á graça. Isto que digo é
+a verdade pura e ultima. Um dia, quando todos os livros forem queimados
+por inuteis, ha de haver alguem, póde ser que tenor, e talvez italiano,
+que ensine esta verdade aos homens. Tudo é musica, meu amigo. No
+principio era o _dó_, e o _dó_ fez-se _ré_, etc. Este calix (e enchia-o
+novamente) este calix é um breve estribilho. Não se ouve? Tambem não se
+ouve o pau nem a pedra, mas tudo cabe na mesma opera...
+
+
+
+
+X
+
+Acceito a theoria.
+
+Que é demasiada metaphysica para um só tenor, não ha duvida; mas a
+perda da voz explica tudo, e ha philosophos que são, em resumo, tenores
+desempregados.
+
+Eu, leitor amigo, acceito a theoria do meu velho Marcolini, não só pela
+verosimilhança, que é muita vez toda a verdade, mas porque a minha vida
+se casa bem á definição. Cantei um _duo_ ternissimo, depois um _trio_,
+depois um _quatuor..._ Mas não adeantemos; vamos á primeira tarde, em
+que eu vim a saber que já cantava, porque a denuncia de José Dias,
+meu caro leitor, foi dada principalmente a mim. A mim é que elle me
+denunciou.
+
+
+
+
+XI
+
+A promessa.
+
+Tão depressa vi desapparecer o aggregado no corredor, deixei o
+esconderijo, e corri á varanda do fundo. Não quiz saber de lagrimas nem
+da causa que as fazia verter a minha mãe. A causa eram provavelmente os
+seus projectos ecclesiasticos, e a occasião destes é a que vou dizer,
+por ser já então historia velha; datava de dezeseis annos.
+
+Os projectos vinham do tempo em que fui concebido. Tendo-lhe nascido
+morto o primeiro filho, minha mãe pegou-se com Deus para que o segundo
+vingasse, promettendo, se fosse varão, mettel-o na egreja. Talvez
+esperasse uma menina. Não disse nada a meu pae, nem antes, nem depois
+de me dar á luz; contava fazel-o quando eu entrasse para a escola,
+mas enviuvou antes disso. Viuva, sentiu terror de separar-se de mim;
+mas era tão devota, tão temente a Deus, que buscou testemunhas da
+obrigação, confiando a promessa a parentes e familiares. Unicamente,
+para que nos separassemos o mais tarde possivel, fez-me apprender em
+casa primeiras lettras, latim e doutrina, por aquelle padre Cabral,
+velho amigo do tio Cosme, que ia lá jogar ás noites.
+
+Prazos largos são faceis de subscrever; a imaginação os faz infinitos.
+Minha mãe esperou que os annos viessem vindo. Entretanto, ia-me
+affeiçoando á ideia da egreja; brincos de creança, livros devotos,
+imagens de santos, conversações de casa, tudo convergia para o altar.
+Quando iamos á missa, dizia-me sempre que era para apprender a ser
+padre, e que reparasse no padre, não tirasse os olhos do padre. Em
+casa, brincava de missa,--um tanto ás escondidas, porque minha mãe
+dizia que missa não era cousa de brincadeira. Arranjavamos um altar,
+Capitú e eu. Ella servia de sacristão, e alteravamos o ritual, no
+sentido do dividirmos a hostia entre nós; a hostia era sempre um
+doce. No tempo em que brincavamos assim, era muito commum ouvir á
+minha visinha: «Hoje ha missa?» Eu já sabia o que isto queria dizer,
+respondia affirmativamente, e ia pedir hostia por outro nome. Voltava
+com ella, arranjavamos o altar, engrolavamos o latim e precipitavamos
+as cerimonias. _Dominus, non sum dignus..._ Isto, que eu devia dizer
+tres vezes, penso que só dizia uma, tal era a golodice do padre e do
+sacristão. Não bebiamos vinho nem agua; não tinhamos o primeiro, e a
+segunda viria tirar-nos o gosto do sacrificio.
+
+Ultimamente não me falavam já do seminario, a tal ponto que eu suppunha
+ser negocio findo. Quinze annos, não havendo vocação, pediam antes o
+seminario do mundo que o de S. José. Minha mãe ficava muita vez a olhar
+para mim, como alma perdida, ou pegava-me na mão, a pretexto de nada,
+para apertal-a muito.
+
+
+
+
+XII
+
+Na varanda.
+
+Parei na varanda; ia tonto, atordoado, as pernas bambas, o coração
+parecendo querer sair-me pela bocca fóra. Não me atrevia a descer á
+chacara, e passar ao quintal visinho. Comecei a andar de um lado para
+outro, estacando para amparar-me, e andava outra vez e estacava. Vozes
+confusas repetiam o discurso do José Dias:
+
+«Sempre juntos...»
+
+«Em segredinhos...»
+
+«Se elles pegam de namoro...»
+
+Tijolos que pisei e repisei naquella tarde, columnas amarelladas que
+me passastes á direita ou á esquerda, segundo eu ia ou vinha, em vós
+me ficou a melhor parte da crise, a sensação de um goso novo, que me
+envolvia em mim mesmo, e logo me dispersava, e me trazia arrepios, e
+me derramava não sei que balsamo interior. Ás vezes dava por mim,
+sorrindo, um ar do riso de satisfação, que desmentia a abominação do
+meu peccado. E as vozes repetiam-se confusas:
+
+«Em segredinhos...»
+
+«Sempre juntos...»
+
+«Se elles pegam de namoro...»
+
+Um coqueiro, vendo-me inquieto e adivinhando a causa, murmurou de
+cima de si que não era feio que os meninos de quinze annos andassem
+nos cantos com as meninas de quatorze; ao contrario, os adolescentes
+daquella edade não tinham outro officio, nem os cantos outra utilidade.
+Era um coqueiro velho, e eu cria nos coqueiros velhos, mais ainda que
+nos velhos livros. Passaros, borboletas, uma cigarra que ensaiava o
+estio, toda a gente viva do ar era da mesma opinião.
+
+Com que então eu amava Capitú, e Capitú a mim? Realmente, andava cosido
+ás saias della, mas não me occorria nada entre nós que fosse devéras
+secreto. Antes della ir para o collegio, eram tudo travessuras de
+creanca; depois que saiu do collegio, é certo que não restabelecemos
+logo a antiga intimidade, mas esta voltou pouco a pouco, e no ultimo
+anno era completa. Entretanto, a materia das nossas conversações era
+a de sempre. Capitú chamava-me ás vezes bonito, mocetão, uma flòr;
+outras pegava-me nas mãos para contar-me os dedos. E comecei a recordar
+esses e outros gestos e palavras, o prazer que sentia quando ella
+me passava a mão pelos cabellos, dizendo que os achava lindissimos.
+Eu, sem fazer o mesmo aos della, dizia que os della eram muito mais
+lindos que os meus. Então Capitú abanava a cabeça com uma grande
+expressão de desengano e melancolia, tanto mais de espantar quanto que
+tinha os cabellos realmente admiraveis; mas eu retorquia chamando-lhe
+maluca. Quando me perguntava se sonhára com ella na vespera, e eu
+dizia que não, ouvia-lhe contar que sonhára commigo, e eram aventuras
+extraordinarias, que subiamos ao Corcovado pelo ar, que dansavamos na
+lua, ou então que os anjos vinham perguntar-nos pelos nomes, afim de
+os dar a outros anjos que acabavam de nascer. Em todos esses sonhos
+andavamos unidinhos. Os que eu tinha com ella não eram assim, apenas
+reproduziam a nossa familiaridade, e muita vez não passavam da simples
+repetição do dia, alguma phrase, algum gesto. Tambem eu os contava.
+Capitú um dia notou a differença, dizendo que os della eram mais
+bonitos que os meus; eu, depois de certa hesitação, disse-lhe que eram
+como a pessoa que sonhava... Fez-se còr de pitanga.
+
+Pois, francamente, só agora entendia a emoção que me davam essas e
+outras confidencias. A emoção era doce e nova, mas a causa della
+fugia-me, sem que eu a buscasse nem suspeitasse. Os silencios dos
+ultimos dias, que me não descobriam nada, agora os sentia como signaes
+de alguma cousa, e assim as meias palavras, as perguntas curiosas, as
+respostas vagas, os cuidados, o gosto de recordar a infancia. Tambem
+adverti que era phenomeno recente accordar com o pensamento em Capitú,
+e escutal-a de memoria, e estremecer quando lhe ouvia os passos. Se
+se falava nella, em minha casa, prestava mais altenção que d'antes,
+e, segundo era louvor ou critica, assim me trazia gosto ou desgosto
+mais intensos que outr'ora, quando eramos sómente companheiros de
+travessuras. Cheguei a pensar nella durante as missas daquelle mez, com
+intervallos, é verdade, mas com exclusivismo tambem.
+
+Tudo isto me era agora apresentado pela bocca de José Dias, que me
+denunciara a mim mesmo, e a quem eu perdoava tudo, o mal que dissera,
+o mal que fizera, e o que pudesse vir de um e do outro. Naquelle
+instante, a eterna Verdade não valeria mais que elle, nem a eterna
+Bondade, nem as demais Virtudes eternas. Em amava Capitú! Capitú
+amava-me! E as minhas pernas andavam, desandavam, estacavam, tremulas
+e crentes de abarcar o mundo. Esse primeiro palpitar da seiva, essa
+revelação da consciencia a si propria, nunca mais me esqueceu, nem
+achei que lhe fosse comparavel qualquer outra sensação da mesma
+especie. Naturalmente por ser minha. Naturalmente tambem por ser a
+primeira.
+
+
+
+
+XIII
+
+Capitú.
+
+De repente, ouvi bradar uma voz de dentro da casa ao pé:
+
+--Capitú!
+
+E no quintal:
+
+--Mamãe!
+
+E outra vez na casa:
+
+--Vem cá!
+
+Não me pude ter. As pernas desceram-me os tres degraus que davam para
+a chacara, e caminharam para o quintal visinho. Era costume dellas, ás
+tardes, e ás manhãs tambem. Que as pernas tambem são pessoas, apenas
+interiores aos braços, e valem de si mesmas, quando a cabeça não as
+rege por meio de ideias. As minhas chegaram ao pé do muro. Havia alli
+uma porta de communicação mandada rasgar por minha mãe, quando Capitú
+e eu éramos pequenos. A porta não tinha chave nem taramela, abria-se
+empurrando de um lado ou puxando de outro, e fechava-se ao peso de
+uma pedra pendente de uma corda. Era quasi que exclusivamente nossa.
+Em creancas, faziamos visita batendo de um lado, e sendo recebidos
+do outro com muitas mesuras. Quando as bonecas de Capitú adoeciam,
+o medico era eu. Entrava no quintal della com um pau debaixo do
+braço, para imitar o bengalão do doutor João da Costa; tomava o pulso
+á doente, e pedia-lhe que mostrasse a lingua. «É surda, coitada!»
+exclamava Capitú. Então eu coçava o queixo, como o doutor, e acabava
+mandando applicar-lhe umas sanguesugas ou dar-lhe um vomitorio: era a
+therapeutica habitual do medico.
+
+--Capitú!
+
+--Mamãe!
+
+--Deixa de estar esburacando o muro; vem cá.
+
+A voz da mãe era agora mais perto, como se viesse já da porta dos
+fundos. Quiz passar ao quintal, mas as pernas, ha pouco tão andarilhas,
+pareciam agora presas ao chão. Afinal fiz um esforço, empurrei a porta,
+e entrei. Capitú estava ao pé do muro fronteiro, voltada para elle,
+riscando com um prego. O rumor da porta fel-a olhar para traz; ao dar
+commigo, encostou-se ao muro, como se quizesse esconder alguma cousa.
+Caminhei para ella; naturalmente levava o gesto mudado, porque ella
+veiu a mim, e perguntou-me inquieta:
+
+--Que é que você tem?
+
+--Eu? Nada.
+
+--Nada, não; você tem alguma cousa.
+
+Quiz insistir que nada, mas não achei lingua. Todo eu era olhos e
+coração, um coração que desta vez ia sair, com certeza, pela bocca
+fora. Não podia tirar os olhos daquella creatura de quatorze annos,
+alta, forte e cheia, apertada em um vestido de chita, meio desbotado.
+Os cabellos grossos, feitos em duas tranças, com as pontas atadas uma á
+outra, á moda do tempo, desciam-lhe pelas costas. Morena, olhos claros
+e grandes, nariz recto e comprido, tinha a bocca fina e o queixo largo.
+As mãos, a despeito de alguns officios rudes, eram curadas com amor;
+não cheiravam a sabões finos nem aguas de toucador, mas com agua do
+poço e sabão commum trazia-as sem macula. Calçava sapatos de duraque,
+rasos e velhos, a que ella mesma dera alguns pontos.
+
+--Que é que você tem? repetiu.
+
+--Não é nada, balbuciei finalmente.
+
+E emendei logo:
+
+--É uma noticia.
+
+--Noticia de què?
+
+Pensei em dizer-lhe que ia entrar para o seminario e espreitar a
+impressão que lhe faria. Se a consternasse é que realmente gostava de
+mim; se não, é que não gostava. Mas todo esse calculo foi obscuro e
+rapido; senti que não poderia falar claramente, tinha agora a vista não
+sei como...
+
+--Então?
+
+--Você sabe...
+
+Nisto olhei para o muro, o logar em que ella estivera riscando,
+escrevendo ou esburacando, como dissera a mãe. Vi uns riscos abertos, e
+lembrou-me o gesto que ella fizera para cobril-os. Então quiz vel-os
+de perto, e dei um passo. Capitú agarrou-me, mas, ou por temer que
+eu acabasse fugindo, ou por negar de outra maneira, correu adeante e
+apagou o escripto. Foi o mesmo que accender em mim o desejo de ler o
+que era.
+
+
+
+
+XIV
+
+A inscripção.
+
+Tudo o que contei no fim do outro capitulo foi obra de um instante.
+O que se lhe seguiu foi ainda mais rapido. Dei um pulo, e antes que
+ella raspasse o muro, li estes dous nomes, abertos ao prego, o assim
+dispostos:
+
+BENTO CAPITOLINA
+
+Voltei-me para ella; Capitú tinha os olhos no chão. Ergueu-os logo,
+devagar, e ficámos a olhar um para o outro... Confissão de creanças,
+tu valias bem duas ou tres paginas, mas quero ser poupado. Em verdade,
+não falámos nada; o muro falou por nós. Não nos movemos, as mãos é que
+se estenderam pouco a pouco, todas quatro, pegando-se, apertando-se,
+fundindo-se. Não marquei a hora exacta daquelle gesto. Devia tel-a
+marcado; sinto a falta de uma nota escripta naquella mesma noite, e
+que eu poria aqui com os erros de orthographia que trouxesse, mas não
+traria nenhum, tal era a differença entre o estudante e o adolescente.
+Conhecia as regras do escrever, sem suspeitar as do amar; tinha orgias
+de latim e era virgem de mulheres.
+
+Não soltámos as mãos, nem ellas se deixaram cair de cançadas ou de
+esquecidas. Os olhos fitavam-se e desfitavam-se, e depois de vagarem ao
+perto, tornavam a metter-se uns pelos outros... Padre futuro, estava
+assim deante della como de um altar, sendo uma das faces a Epistola e
+a outra o Evangelho. A bocca podia ser o calix, os labios a patena.
+Faltava dizer a missa nova, por um latim que ninguem apprende, e é a
+lingua catholica dos homens. Não me tenhas por sacrilego, leitora minha
+devota; a limpeza da intenção lava o que puder haver menos curial no
+estylo. Estavamos alli com o ceu em nós. As mãos, unindo os nervos,
+faziam das duas creaturas uma só, mas uma só creatura seraphica. Os
+olhos continuaram a dizer cousas infinitas, as palavras de bocca é que
+nem tentavam sair, tornavam ao coração caladas como vinham...
+
+
+
+
+XV
+
+Outra voz repentina.
+
+Outra voz repentina, mas desta vez uma voz de homem:
+
+--Vocês estão jogando o siso?
+
+Era o pae de Capitú, que estava á porta dos fundos, ao pé da mulher.
+Soltámos as mãos depressa, e ficámos atrapalhados. Capitú foi ao muro,
+e, com o prego, disfarçadamente, apagou os nossos nomes escriptos.
+
+--Capitú!
+
+--Papae!
+
+--Não me estragues o reboco do muro.
+
+Capitú riscava sobre o riscado, para apagar bem o escripto. Padua saiu
+ao quintal, a ver o que era, mas já a filha tinha começado outra cousa,
+um perfil, que disse ser o retrato delle, e tanto podia ser delle como
+da mãe; fel-o rir, era o essencial. De resto, elle chegou sem colera,
+todo meigo, apezar do gesto duvidoso ou menos que duvidoso em que nos
+apanhou. Era um homem baixo e grosso, pernas e braços curtos, costas
+abahuladas, donde lhe veiu a alcunha de Tartaruga, que José Dias lhe
+poz. Ninguem lhe chamava assim lá em casa; era só o aggregado.
+
+--Vocês estavam jogando o siso? perguntou,
+
+Olhei para um pé do sabugueiro que ficava perto; Capitú respondeu por
+ambos.
+
+--Estavamos, sim, senhor, mas Bentinho ri logo, não aguenta.
+
+--Quando eu cheguei á porta, não ria.
+
+--Já tinha rido das outras vezes; não póde. Papae quer ver?
+
+E séria, fitou em mim os olhos, convidando-me ao jogo. O susto é
+naturalmente serio; eu estava ainda sob a acção do que trouxe a entrada
+de Padua, e não fui capaz de rir, por mais que devesse fazel-o, para
+legitimar a resposta de Capitú. Esta, cançada de esperar, desviou
+o rosto, dizendo que eu não ria daquella vez por estar ao pé do
+pae. E nem assim ri. Ha cousas que só se apprendem tarde; é mister
+nascer com ellas para fazel-as cedo. E melhor é naturalmente cedo que
+artificialmente tarde. Capitú, após duas voltas, foi ter com a mãe,
+que continuava á porta da casa, deixando-nos a mim e ao pae encantados
+della; o pae, olhando para ella e para mim, dizia-me, cheio de ternura:
+
+--Quem dirá que esta pequena tem quatorze annos? Parece dezesete. Mamãe
+está boa? continuou voltando-se inteiramente para mim.
+
+--Está.
+
+--Ha muitos dias que não a vejo. Estou com vontade de dar um capote
+ao doutor, mas não tenho podido, ando com trabalhos da repartição, em
+casa; escrevo todos os noites que é em desespero; negocio de relatorio.
+Você já viu o meu gaturamo? Está alli no fundo. Ia agora mesmo buscar a
+gaiola; ande ver.
+
+Que o meu desejo era nenhum, crê-se facilmente, sem ser preciso jurar
+pelo ceu nem pela terra. Meu desejo era ir atraz de Capitú e falar-lhe
+agora do mal que nos esperava, mas o pae era o pae, e demais amava
+particularmente os passarinhos. Tinha-os de varia especie, côr e
+tamanho. A área que havia no centro da casa era cercada de gaiolas de
+canarios, que faziam cantando um barulho de todos os diabos. Trocava
+passaros com outros amadores, comprava-os, apanhava alguns, no proprio
+quintal, armando alçapões. Tambem, se adoeciam, tratava delles como se
+fossem gente.
+
+
+
+
+XVI
+
+O administrador interino.
+
+Padua era empregado em repartição dependente do ministerio da guerra.
+Não ganhava muito, mas a mulher gastava pouco, e a vida era barata.
+Demais, a casa em que morava, assobradada como a nossa, posto que
+menor, era propriedade delle. Comprou-a com a sorte grande que lhe saiu
+n'um meio bilhete de loteria, dez contos de reis. A primeira ideia do
+Padua, quando lhe saiu o premio, foi comprar um cavallo do Cabo, um
+adereço de brilhantes para a mulher, uma sepultura perpetua de familia,
+mandar vir da Europa alguns passaros, etc.; mas a mulher, esta D.
+Fortunata que alli está á porta dos fundos da casa, em pé, falando á
+filha, alta, forte, cheia, como a filha, a mesma cabeça, os mesmos
+olhos claros, a mulher é que lhe disse que o melhor era comprar a casa,
+e guardar o que sobrasse para acudir ás molestias grandes. Padua
+hesitou muito; afinal, teve de ceder aos conselhos de minha mãe, a quem
+D. Fortunata pediu auxilio. Nem foi só nessa occasião que minha mãe
+lhes valeu; um dia chegou a salvar a vida ao Padua. Escutai; a anecdota
+é curta.
+
+O administrador da repartição em que Padua trabalhava teve de ir ao
+Norte, em commissão. Padua, ou por ordem regulamentar, ou por especial
+designação, ficou substituindo o administrador com os respectivos
+honorarios. Esta mudança de fortuna trouxe-lhe certa vertigem: era
+antes dos dez contos. Não se contentou de reformar a roupa e a copa,
+atirou-se ás despezas superfluas, deu joias á mulher, nos dias de
+festa matava um leitão, era visto em theatros, chegou aos sapatos de
+verniz. Viveu assim vinte e dous mezes na supposição de uma eterna
+interinidade. Uma tarde entrou em nossa casa, afflicto e desvairado,
+ia perder o logar, porque chegara o effectivo naquella manhã. Pediu a
+minha mãe que velasse pelas infelizes que deixava; não podia soffrer
+a desgraça, matava-se. Minha mãe falou-lhe com bondade, mas elle não
+attendia a cousa nenhuma.
+
+--Não, minha senhora, não consentirei em tal vergonha! Fazer descer
+a familia, tornar atraz... Já disse, mato-me! Não hei de confessar á
+minha gente esta miseria. E os outros? Que dirão os visinhos? E os
+amigos? E o publico?
+
+--Que publico, Sr. Padua? Deixe-se disso; seja homem. Lembre-se que sua
+mulher não tem outra pessoa... e que ha de fazer? Pois um homem...
+Seja homem, ande.
+
+Padua enxugou os olhos e foi para casa, onde viveu prostrado alguns
+dias, mudo, fechado na alcova,--ou então no quintal, ao pé do poço,
+como se a ideia da morte teimasse nelle. D. Fortunata ralhava:
+
+--Joãosinho, você é creança?
+
+Mas, tanto lhe ouviu falar em morte que teve medo, e um dia correu
+a pedir a minha mãe que lhe fizesse o favor de ver se lhe salvava o
+marido que se queria matar. Minha mãe foi achal-o á beira do poço, e
+intimou-lhe que vivesse. Que maluquice era aquella de parecer que ia
+ficar desgraçado, por causa de uma gratificação menos, e perder um
+emprego interino? Não, senhor, devia ser homem, pae de familia, imitar
+a mulher e a filha... Padua obedeceu; confessou que acharia forças para
+cumprir a vontade de minha mãe.
+
+--Vontade minha, não; é obrigação sua.
+
+--Pois seja obrigação; não desconheço que é assim mesmo.
+
+Nos dias seguintes, continuou a entrar e sair de casa, cosido á parede,
+cara no chão. Não era o mesmo homem que estragava o chapéo em cortejar
+a visinhança, risonho, olhos no ar, antes mesmo da administração
+interina. Vieram as semanas, a ferida foi sarando. Padua começou a
+interessar-se pelos negocios domesticos, a cuidar dos passarinhos, a
+dormir tranquillo as noites e as tardes, a conversar e dar noticias da
+rua. A serenidade regressou; atraz della veiu a alegria, um domingo,
+na figura de dous amigos, que iam jogar o solo, a tentos. Já elle ria,
+já brincava, tinha o ar do costume; a ferida sarou de todo.
+
+Com o tempo veiu um phenomeno interessante. Padua começou a falar da
+administração interina, não sómente sem as saudades dos honorarios,
+nem o vexame da perda, mas até com desvanecimento e orgulho. A
+administração ficou sendo a hegyra, donde elle contava para deante e
+para traz.
+
+--No tempo em que eu era administrador...
+
+Ou então:
+
+--Ah! sim, lembra-me, foi antes da minha administração, um ou dous
+mezes antes... Ora espere; a minha administração começou... É isto, mez
+e meio antes; foi mez e meio antes, não foi mais.
+
+Ou ainda:
+
+--Justamente; havia já seis mezes que eu administrava...
+
+Tal é o sabor posthumo das glorias interinas. José Dias bradava que
+era a vaidade sobrevivente; mas o padre Cabral, que levava tudo para a
+Escriptura, dizia que com o visinho Padua se dava a licção de Eliphaz a
+Job: «Não desprezes a correcção do Senhor; elle fere e cura.»
+
+
+
+
+XVII
+
+Os vermes.
+
+«Elle fere e cura!» Quando, mais tarde, vim a saber que a lança
+de Achilles tambem curou uma ferida que fez, tive taes ou quaes
+velleidades de escrever uma dissertação a este proposito. Cheguei a
+pegar em livros velhos, livros mortos, livros enterrados, a abril-os, a
+comparal-os, calando o texto e o sentido, para achar a origem commum do
+oraculo pagão e do pensamento israelita. Catei os proprios vermes dos
+livros, para que me dissessem o que havia nos textos roidos por elles.
+
+--Meu senhor, respondeu-me um longo verme gordo, uns não sabemos
+absolutamente nada dos textos que roemos, nem escolhemos o que roemos,
+nem amamos ou detestamos o que roemos; nós roemos.
+
+Não lhe arranquei mais nada. Os outros todos, como se houvessem
+passado palavra, repeliam a mesma cantilena. Talvez esse discreto
+silencio sobre os textos roidos, fosse ainda um modo de roer o roido.
+
+
+
+
+XVIII
+
+Um plano.
+
+Pae nem mãe foram ter comnosco, quando Capitú e eu, na sala de visitas,
+falavamos do seminario. Com os olhos em mim, Capitú queria saber que
+noticia era a que me affligia tanto. Quando lhe disse o que era, fez-se
+côr de cêra.
+
+--Mas eu não quero, acudi logo, não quero entrar em seminarios; não
+entro, é excusado teimarem commigo, não entro.
+
+Capitú, a principio não disse nada. Recolheu os olhos, metteu-os
+em si e deixou-se estar com as pupillas vagas e surtias, a bocca
+entre-aberta, toda parada. Então eu, para dar forca ás affirmações,
+comecei a jurar que não seria padre. Naquelle tempo jurava muito e
+rijo, pela vida e pela morte. Jurei pela hora da morte. Que a luz me
+faltasse na hora da morte se fosse para o seminario. Capitú não parecia
+crer nem descrer, não parecia sequer ouvir; era uma figura de pau. Quiz
+chamal-a, sacudil-a, mas faltou-me animo. Essa creatura que brincára
+commigo, que pulára, dansára, creio até que dormira commigo, deixava-me
+agora com os braços atados e medrosos. Emfim, tornou a si, mas tinha a
+cara livida, e rompeu nestas palavras furiosas:
+
+--Beata! carola! papa-missas!
+
+Fiquei aturdido. Capitú gostava tanto de minha mãe, e minha mãe della,
+que eu não podia entender tamanha explosão. É verdade que tambem
+gostava de mim, e naturalmente mais, ou melhor, ou de outra maneira,
+cousa bastante a explicar o despeito que lhe trazia a ameaça da
+separação; mas os improperios, como entender que lhe chamasse nomes tão
+feios, e principalmente para deprimir costumes religiosos, que eram os
+seus? Que ella tambem ia á missa, e tres ou quatro vezes minha mãe é
+que a levou, na nossa velha sege. Tambem lhe dera um rosario, uma cruz
+de ouro e um livro de _Horas..._ Quiz defendel-a, mas Capitú não me
+deixou, continuou a chamar-lhe beata e carola, em voz tão alta que tive
+medo fosse ouvida dos paes. Nunca a vi tão irritada como então; parecia
+disposta a dizer tudo a todos. Cerrava os dentes, abanava a cabeça...
+Eu, assustado, não sabia que fizesse; repetia os juramentos, promettia
+ir naquella mesma noite declarar em casa que, por nada neste mundo,
+entraria no seminario.
+
+--Você? Você entra.
+
+--Não entro.
+
+--Você verá se entra ou não.
+
+Calou-se outra vez. Quando tornou a falar, tinha mudado; não era ainda
+a Capitú do costume, mas quasi. Estava seria, sem afflicção, falava
+baixo. Quiz saber a conversação da minha casa; eu contei-lh'a toda,
+menos a parte que lhe dizia respeito.
+
+--E que interesse tem José Dias em lembrar isto? perguntou-me no fim.
+
+--Acho que nenhum; foi só para fazer mal. É um sujeito muito ruim; mas,
+deixe estar que me ha de pagar. Quando eu fôr dono da casa, quem vae
+para a rua é elle, você verá; não me fica um instante. Mamãe é boa de
+mais; dá-lhe attenção de mais. Parece até que chorou.
+
+--José Dias?
+
+--Não, mamãe.
+
+--Chorou porque?
+
+--Não sei; ouvi só dizer que ella não chorasse, que não era cousa de
+choro... Elle chegou a mostrar-se arrependido, e saiu; eu então, para
+não ser apanhado, deixei o canto e corri para a varanda. Mas, deixe
+estar, que elle me paga!
+
+Disse isto fechando o punho, e proferi outras ameaças. Ao relembral-as,
+não me acho ridiculo; a adolescencia e a infancia não são, neste ponto,
+ridiculas; e um dos seus privilegios. Este mal ou este perigo começa
+na mocidade, cresce na madurera e attinge o maior grão na velhice. Aos
+quinze annos, ha até certa graça em ameaçar muito e não executar nada.
+
+Capitú reflectia. A reflexão não era cousa rara nella, e conheciam-se
+as occasiões pelo apertado dos olhos. Pediu-me algumas circumstancias
+mais, as proprias palavras de uns e de outros, e o tom dellas. Como eu
+não queria dizer o ponto inicial da conversa, que era ella mesma, não
+lhe pude dar toda a significação. A attenção de Capitú estava agora
+particularmente nas lagrimas de minha mãe; não acabava de entendel-as.
+Em meio disto, confessou que certamente não era por mal que minha mãe
+me queria fazer padre; era a promessa antiga, que ella, temente a Deus,
+não podia deixar de cumprir. Fiquei tão satisfeito de ver que assim
+espontaneamente reparava as injurias que lhe sairam do peito, pouco
+antes, que peguei da mão della e apertei-a muito. Capitú deixou-se ir,
+rindo; depois a conversa entrou a cochilar e dormir. Tinhamos chegado
+á janella; um preto, que, desde algum tempo, vinha apregoando cocadas,
+parou em frente e perguntou:
+
+--Sinhásinha, qué cocada hoje?
+
+--Não, respondeu Capitú.
+
+--Cocadinha tá boa.
+
+--Vá-se embora, replicou ella sem rispidez.
+
+--Dê ca! disse eu descendo o braço para receber duas.
+
+Comprei-as, mas tive de as comer sósinho; Capitú recusou. Vi que, em
+meio da crise, eu conservava um canto para as cocadas, o que tanto póde
+ser perfeição como imperfeição, mas o momento não é para definições
+taes; fiquemos em que a minha amiga, apezar de equilibrada e lucida,
+não quiz saber de doce, e gostava muito de doce. Ao contrario, o
+pregão que o preto foi cantando, o prégão das velhas tardes, tão sabido
+do bairro e da nossa infancia:
+
+     Chora, menina, chora,
+     Chora, porque não tem
+             Vintem,
+
+a modo que lhe deixára uma impressão aborrecida, Da toada não era;
+ella a sabia de cór e de longe, usava repetil-a nos nossos jogos da
+puericia, rindo, saltando, trocando os papeis commigo, ora vendendo,
+ora comprando um doce ausente. Creio que a lettra, destinada a picar
+a vaidade das crianças, foi que a enojou agora, porque logo depois me
+disse:
+
+--Se eu fosse rica, você fugia, mettia-se no paquete e ia para a Europa.
+
+Dito isto, espreitou-me os olhos, mas creio que elles não lhe disseram
+nada, ou só agradeceram a boa intenção. Com effeito, o sentimento era
+tão amigo que eu podia excusar o extraordinario da aventura.
+
+Como vês, Capitú, aos quatorze annos, tinha já ideias atrevidas,
+muito menos que outras que lhe vieram depois; mas eram só atrevidas
+em si, na pratica faziam-se habeis, sinuosas, surdas, e alcançavam o
+fim proposto, não de salto, mas aos saltinhos. não sei se me explico
+bem. Supponde uma concepção grande executada por meios pequenos.
+Assim, para não sair do desejo vago e hypothetico de me mandar para
+a Europa, Capitú, se pudesse cumpril-o, não me faria embarcar no
+paquete e fugir; estenderia uma fila de canoas daqui até lá, por
+onde eu, parecendo ir á fortaleza da Lage em ponte movediça, iria
+realmente até Bordéos, deixando minha mãe na praia, á espera. Tal era
+a feição particular do caracter da minha amiga; pelo que, não admira
+que, combatendo os meus projectos de resistencia franca, fosse antes
+pelos meios brandos, pela acção do empenho, da palavra, da persuasão
+lenta e diuturna, e examinasse antes as pessoas com quem podiamos
+contar. Rejeitou tio Cosme; era um «boa-vida»; se não approvava a
+minha ordenação, não era capaz de dar um passo para suspendel-a. Prima
+Justina era melhor que elle, e melhor que os dous seria o padre Cabral,
+pela autoridade, mas o padre não havia de trabalhar contra a egreja; só
+se eu lhe confessasse que não tinha vocação....
+
+--Posso confessar?
+
+--Pois, sim, mas seria apparecer francamente, e o melhor é outra cousa.
+José Dias....
+
+--Que tem José Dias?
+
+--Póde ser um bom empenho.
+
+--Mas se foi elle mesmo que falou....
+
+--Não importa, continuou Capitú; dirá agora outra cousa. Elle gosta
+muito de você. Não lhe fale acanhado. Tudo é que você não tenha medo,
+mostre que ha de vir a ser dono da casa, mostre que quer e que póde.
+Dê-lhe bem a entender que não é favor. Faça-lhe tambem elogios; elle
+gosta muito de ser elogiado. D. Gloria presta-lhe attenção; mas o
+principal não é isso; é que elle, tendo de servir a você, falará com
+muito mais calor que outra pessoa.
+
+--Não acho. não, Capitú.
+
+--Então vá para o seminario.
+
+--Isso não.
+
+--Mas que se perde em experimentar? Experimentemos; faça o que lhe
+digo. D. Gloria póde ser que mude de resolução; se não mudar, faz-se
+outra cousa, mette-se então o padre Cabral. Você não se lembra como
+é que foi ao theatro pela primeira vez, ha dous mezes? D. Gloria não
+queria, e bastava isso para que José Dias não teimasse; mas elle queria
+ir, e fez um discurso, lembra-se?
+
+--Lembra-me; disse que o theatro era uma escola de costumes.
+
+--Justo; tanto falou que sua mãe acabou consentindo, e pagou a entrada
+aos dous.... Ande, peça, mande. Olhe; diga-lhe que está prompto a ir
+estudar leis em S. Paulo.
+
+Estremeci de prazer. S. Paulo era um fragil biombo, destinado a ser
+arredado um dia, em vez da grossa parede espiritual e eterna. Prometti
+falar a José Dias nos termos propostos. Capitú repetiu-os, accentuando
+alguns, como principaes; e inquiria-me depois sobre elles, a ver se
+entendera bem, se não trocara uns por outros. E insistia em que pedisse
+com boa cara, mas assim como quem pede um copo de agua a pessoa que
+tem obrigação de o trazer. Conto estas minucias para que melhor se
+entenda aquella manhã da minha amiga; logo virá a tarde, e da manhã
+e da tarde se fará o primeiro dia, como no Genesis, onde se fizeram
+successivamente sete.
+
+
+
+
+XIX
+
+Sem falta.
+
+Quando voltei a casa era noite. Vim depressa, não tanto, porém, que não
+pensasse nos termos em que falaria ao aggregado. Formulei o pedido de
+cabeça, escolhendo as palavras que diria e o tom dellas, entre secco
+e benevolo. Na chacara, antes de entrar em casa, repeti-as commigo,
+depois em voz alia, para ver se eram adequadas e se obedeciam ás
+recommendações de Capitú: «Preciso falar-lhe, _sem falta_, amanhã;
+escolha o logar e diga-me.» Proferi-as lentamente, e mais lentamente
+ainda as palavras _sem falta_, como para sublinhal-as. Repeti-as ainda,
+e então achei-as seccas de mais, quasi rispidas, e, francamente,
+improprias de um creançola para um homem maduro. Cuidei de escolher
+outras, e parei.
+
+Afinal disse commigo que as palavras podiam servir, tudo era dizel-as
+em tom que não offendesse. E a prova é que, repetindo-as novamente,
+saíram-me quasi supplices. Bastava não carregar tanto, nem adoçar
+muito, um meio termo. «E Capitú tem razão, pensei, a casa é minha, elle
+é um simples aggregado... Geitoso é, póde muito bem trabalhar por mim,
+e desfazer o plano de mamãe.»
+
+
+
+
+XX
+
+Mil padre-nossos e mil ave-marias.
+
+Levantei os olhos ao ceu, que começava a embruscar-se, mas não foi para
+vel-o coberto ou descoberto. Era ao outro ceu que eu erguia a minha
+alma; era ao meu refugio, ao meu amigo. E então disse de mim para mim:
+
+--Prometto rezar mil padre-nossos e mil ave-marias, se José Dias
+arranjar que eu não vá para o seminario.
+
+A somma era enorme. A razão é que eu andava carregado de promessas
+não cumpridas. A ultima foi de duzentos padre-nossos e duzentas
+ave-marias, se não chovesse em certa tarde de passeio a Santa Theresa.
+Não choveu, mas eu não rezei as orações. Desde pequenino acostumara-me
+a pedir ao ceu os seus favores, mediante orações que diria, se elles
+viessem. Disse as primeiras, as outras foram adiadas, e á medida que
+se amontoavam iam sendo esquecidas. Assim cheguei aos numeros vinte,
+trinta, cincoenta. Entrei nas centenas e agora no milhar. Era um modo
+de peitar a vontade divina pela quantia das orações; além disso, cada
+promessa nova era feita e jurada no sentido de pagar a divida antiga.
+Mas vão lá matar a preguiça de uma alma que a trazia do berço e não a
+sentia attenuada pela vida! O ceu fazia-me o favor, eu adiava a paga.
+Afinal perdi-me nas contas.
+
+--Mil, mil, repeti commigo.
+
+Realmente, a materia do beneficio era agora immensa, não menos que a
+salvação ou o naufragio da minha existencia inteira. Mil, mil, mil.
+Era preciso uma somma que pagasse os atrazados todos. Deus podia
+muito bem, irritado com os esquecimentos, negar-se a ouvir-me sem
+muito dinheiro.... Homem grave, é possivel que estas agitações de
+menino te enfadem, se é que não as achas ridiculas. Sublimes não eram.
+Cogitei muito no modo de resgatar a divida espiritual. Não achava
+outra especie em que, mediante a intenção, tudo se cumprisse, fechando
+a escripturação da minha consciencia moral sem _deficit._ Mandar
+dizer cem missas, ou subir do joelhos a ladeira da Gloria para ouvir
+uma, ir á Terra-Santa, tudo o que as velhas escravas me contavam de
+promessas celebres, tudo me acudia sem se fixar de vez no espirito.
+Era muito duro subir uma ladeira de joelhos; devia feril-os por força.
+A Terra-Santa ficava muito longe. As missas eram numerosas, podiam
+empenhar-mo outra vez a alma....
+
+
+
+
+XXI
+
+Prima Justina.
+
+Na varanda achei prima Justina, passeando de um lado para outro. Veiu
+ao patamar e perguntou-me onde estivera.
+
+--Estive aqui ao pé, conversando com D. Fortunata, e distraí-me. É
+tarde, não é? Mamãe perguntou por mim?
+
+--Perguntou, mas eu disse que você já tinha vindo.
+
+A mentira espantou-me, não menos que a franqueza da noticia. Não é que
+prima Justina fosse de biocos; dizia francamente a Pedro o mal que
+pensava de Paulo, e a Paulo o que pensava de Pedro; mas, confessar que
+mentira é que me pareceu novidade. Era quadragenaria, magra e pallida,
+bocca fina e olhos curiosos. Vivia comnosco por favor de minha mãe, e
+tambem por interesse; minha mãe queria ter uma senhora intima ao pé de
+si, e antes parenta que extranha.
+
+Passeámos alguns minutos na varanda, alumiada por um lampião. Quiz
+saber se eu não esquecera os projectos ecclesiasticos de minha mãe, e
+dizendo-lhe eu que não, inquiriu-me sobre o gosto que eu tinha á vida
+de padre. Respondi esquivo:
+
+--Vida de padre é muito bonita.
+
+--Sim, é bonita; mas o que pergunto é se você gostaria de ser padre,
+explicou rindo.
+
+--Eu gósto do que mamãe quizer.
+
+--Prima Gloria deseja muito que você se ordene, mas ainda que não
+desejasse, ha cá em casa quem lhe metta isso na cabeça.
+
+--Quem é?
+
+--Ora, quem! Quem é que hade ser? Primo Cosme não é, que não se importa
+com isso; eu tambem não.
+
+--José Dias? conclui.
+
+--Naturalmente.
+
+Enruguei a testa interrogativamente, como se não soubesse nada. Prima
+Justina completou a noticia dizendo que ainda naquella tarde José Dias
+lembrára a minha mãe a promessa antiga.
+
+--Prima Gloria póde ser que, em passando os dias, vá esquecendo a
+promessa; mas como ha de esquecer se uma pessoa estiver sempre, nos
+ouvidos, zás que darás, falando do seminario? E os discursos que elle
+faz, os elogios da egreja, e que a vida de padre é isto e aquillo, tudo
+com aquellas palavras que só elle conhece, e aquella affectação...
+Note que é só para fazer mal, porque elle é tão religioso, como este
+lampião. Pois é verdade, ainda hoje. Você não se dê por achado... Hoje
+de tarde falou como você não imagina.
+
+--Mas falou á toa? perguntei, a ver se ella contava a denuncia do meu
+namoro com a visinha.
+
+Não contou; fez apenas um gesto como indicando que havia outra cousa
+que não podia dizer. Novamente me recommendou que não me désse por
+achado, e recapitulou todo o mal que pensava de José Dias, e não era
+pouco, um intrigante, um bajulador, um especulador, e, apezar da casca
+de polidez, um grosseirão. Eu, passados alguns instantes, disse:
+
+--Prima Justina, a senhora era capaz de uma cousa?
+
+--De quê?
+
+--Era capaz de... Supponha que eu não gostasse de ser padre... a
+senhora podia pedir a mamãe...
+
+--Isso não, atalhou promptamente; prima Gloria tem este negocio firme
+na cabeça, e não ha nada no mundo que a faça mudar de resolução; só
+o tempo. Você ainda era pequenino, já ella contava isto a todas as
+pessoas da nossa amizade, ou só conhecidas. Lá avivar-lhe a memoria,
+não, que eu não trabalho para a desgraça dos outros; mas tambem,
+pedir outra cousa, não peço. Se ella me consultasse, bem; se ella me
+dissesse: «Prima Justina, você que acha?» a minha resposta era: «Prima
+Gloria, eu penso que, se elle gosta de ser padre, póde ir; mas, se não
+gosta, o melhor é ficar.» E o que eu diria e direi se ella me consultar
+algum dia. Agora, ir falar-lhe sem ser chamada, não faço.
+
+
+
+
+XXII
+
+Sensações alheias.
+
+Não alcancei mais nada, e para o fim arrependi-me do pedido: devia
+ter seguido o conselho de Capitú. Então, como eu quizesse ir para
+dentro, prima Justina reteve-me alguns minutos, falando do calor e da
+proxima festa da Conceição, dos meus velhos oratorios, e finalmente de
+Capitú. Não disse mal della; ao contrario insinuou-me que podia vir a
+ser uma moça bonita. Eu, que já a achava lindissima, bradaria que era
+a mais bella creatura do mundo, se o receio me não fizesse discreto.
+Entretanto, como prima Justina se mettesse a elogiar-lhe os modos, a
+gravidade, os costumes, o trabalhar para os seus, o amor que tinha a
+minha mãe, tudo isto me accendeu a ponto de elogial-a tambem. Quando
+não era com palavras, era com o gesto de approvação que dava a cada
+uma das assersões da outra, e certamente com a felicidade que devia
+illuminar-me a cara. Não adverti que assim confirmava a denuncia de
+José Dias, ouvida por ella, á tarde, na sala de visitas, se é que
+tambem ella não desconfiava já. Só pensei nisso na cama. Só então senti
+que os olhos de prima Justina, quando eu falava, pareciam apalpar-me,
+ouvir-me, cheirar-me, gostar-me, fazer o officio de todos os sentidos.
+Ciumes não podiam ser; entre um pirralho da minha edade e uma viuva
+quarentona não havia logar para ciumes. É certo que, após algum
+tempo, modificou os elogios a Capitú, e até lhe fez algumas criticas,
+disse-me que era um pouco trefega e olhava por baixo; mas ainda assim,
+não creio que fossem ciumes. Creio antes... sim... sim, creio isto.
+Creio que prima Justina achou no espectaculo das sensações alheias uma
+resurreição vaga das proprias. Tambem se goza por influição dos labios
+que narram.
+
+
+
+
+XXIII
+
+Prazo dado.
+
+--Preciso falar-lhe amanhã, sem falta; escolha o logar e diga-me.
+
+Creio que José Dias achou desusado este meu falar. O tom não me sairia
+tão imperativo como eu receiava, mas as palavras o eram, e o não
+interrogar, não pedir, não hesitar, como era proprio da creança e do
+meu estylo habitual, certamente lhe deu ideia de uma pessoa nova e de
+uma nova situação. Foi no corredor, quando iamos para o chá; José Dias
+vinha andando cheio da leitura de Walter Scott que fizera a minha mãe
+e a prima Justina. Lia cantado e compassado. Os castellos e os parques
+saíam maiores da bocca delle, os lagos tinham mais agua e a «abobada
+celeste» contava alguns milhares mais de estrellas centelhantes. Nos
+dialogos, alternava o som das vozes, que eram levemente grossas ou
+finas, conforme o sexo dos interlocutores, e reproduziam com moderação
+a ternura e a colera.
+
+Ao despedir-se de mim, na varanda, disse-me elle:
+
+--Amanhã, na rua. Tenho umas compras que fazer, você póde ir commigo,
+pedirei a mamãe. É dia de licção?
+
+--A licção foi hoje.
+
+--Perfeitamente. Não lhe pergunto o que é; affirmo desde já que é
+materia grave e pura.
+
+--Sim, senhor.
+
+--Até amanhã.
+
+Fez-se tudo o melhor possivel. Houve só uma alteração: minha mãe achou
+o dia quente e não consentiu que eu fosse a pé; entrámos no omnibus, á
+porta de casa.
+
+--Não importa, disse-me José Dias; podemos apear-nos á porta do Passeio
+Publico.
+
+
+
+
+XXIV
+
+De mãe e de servo.
+
+José Dias tratava-me com extremos de mãe e attenções de servo. A
+primeira cousa que conseguiu logo que comecei a andar fora, foi
+dispensar-me o pagem; fez-se pagem, ia commigo á rua. Cuidava dos meus
+arranjos em casa, dos meus livros, dos meus sapatos, da minha hygiene e
+da minha prosodia. Aos oito annos os meus pluraes careciam, alguma vez,
+da desinencia exacta, elle a corrigia, meio serio para dar autoridade
+á licção, meio risonho para obter o perdão da emenda. Ajudava assim
+o mestre de primeiras lettras. Mais tarde, quando o padre Cabral me
+ensinava latim, doutrina e historia sagrada, elle assistia ás licções,
+fazia reflexões ecclesiasticas, e, no fim, perguntava ao padre: «Não
+é verdade que o nosso joven amigo caminha depressa?» Chamava-me «um
+prodigio»; dizia a minha mãe ter conhecido outr'ora meninos muito
+intelligentes, mas que eu excedia a todos esses, sem contar que, para a
+minha edade, possuia já certo numero de qualidades moraes solidas. Eu,
+posto não avaliasse todo o valor deste outro elogio, gostava do elogio;
+era um elogio.
+
+
+
+
+XXV
+
+No Passeio Publico.
+
+Entrámos no Passeio Publico. Algumas caras velhas, outras doentes ou só
+vadias espalhavam-se melancolicamente no caminho que vae da porta ao
+terraço. Seguimos para o terraço. Andando, para me dar animo, falei do
+jardim:
+
+--Ha muito tempo que não venho aqui, talvez um anno.
+
+--Perdôe-me, atalhou elle, não ha tres mezes que esteve aqui com o
+nosso visinho Padua; não se lembra?
+
+--É verdade, mas foi tão de passagem...
+
+--Elle pediu a sua mãe que o deixasse trazer comsigo, e ella, que é boa
+como a mãe de Deus, consentiu; mas ouça-me, já que falamos nisto, não é
+bonito que você ande com o Padua na rua.
+
+--Mas eu andei algumas vezes...
+
+--Quando era mais joven; em creança, era natural, elle podia passar por
+creado. Mas você está ficando moco, e elle vae tomando confiança. D.
+Gloria, afinal, não pode gostar disto. A gente Padua não é de todo má.
+Capitú, apesar daquelles olhos que o diabo lhe deu... Você já reparou
+nos olhos della? São assim de cigana obliqua e dissimulada. Pois,
+apesar delles, poderia passar, se não fosse a vaidade e a adulação.
+Oh! a adulação! D. Fortunata merece estima, e elle não nego que seja
+honesto, tem um bom emprego, possue a casa em que móra, mas honestidade
+e estima não bastam, e as outras qualidades perdem muito de valor com
+as más companhias em que elle anda. Padua tem uma tendencia para gente
+réles. Em lhe cheirando a homem chulo é com elle. Não digo isto por
+odio, nem por que elle fale mal de mim e se ria, como se riu, ha dias,
+dos meus sapatos acalcanhados...
+
+--Perdão, interrompi suspendendo o passo, nunca ouvi que falasse mal
+do senhor; pelo contrario, um dia, não ha muito tempo, disse elle a um
+sujeito, em minha presença, que o senhor era «um homem de capacidade e
+sabia falar corno um deputado nas camaras.»
+
+José Dias sorriu deliciosamente, mas fez um esforço grande e fechou
+outra vez o rosto; depois replicou:
+
+--Não lhe agradeço nada. Outros, de melhor sangue, me tem feito o favor
+de juizos altos. E nada disso impede que elle seja o que lhe digo.
+
+Tinhamos outra vez andado, subimos ao terraço, e olhámos para o mar.
+
+--Vejo que o senhor não quer senão o meu beneficio, disse eu depois de
+alguns instantes.
+
+--Pois que outra cousa, Bentinho?
+
+--Neste caso, peço-lhe um favor.
+
+--Um favor? Mande, ordene, que é?
+
+--Mamãe...
+
+Durante algum tempo não pude dizer o resto, que era pouco, e vinha de
+cór. José Dias tornou a perguntar o que era, sacudia-me com brandura,
+levantava-me o queixo e espetava os olhos em mim, ancioso tambem, como
+a prima Justina na vespera.
+
+--Mamãe quê? Que é que tem mamãe?
+
+--Mamãe quer que eu seja padre, mas eu não posso ser padre, disse
+finalmente.
+
+José Dias endireitou-se pasmado.
+
+--Não posso, continuei eu, não menos pasmado que elle, não tenho geito,
+não gósto da vida de padre. Estou por tudo o que ella quizer; mamãe
+sabe que eu faço tudo o que ella manda; estou prompto a ser o que fôr
+do seu agrado, até cocheiro de omnibus. Padre, não; não posso ser
+padre. A carreira é bonita, mas não é para mim.
+
+Todo esse discurso não me saiu assim, de vez, enfiado naturalmente,
+peremptorio, como póde parecer do texto, mas aos pedaços, mastigado,
+em voz um pouco surda e timida. Não obstante, José Dias ouvira-o
+espantado. Não contava certamente com a resistencia, por mais acanhada
+que fosse; mas o que ainda mais o assombrou foi esta conclusão:
+
+--Conto com o senhor para salvar-me.
+
+Os olhos do aggregado escancararam-se, as sobrancelhas arquearam-se,
+e o prazer que eu contava dar-lhe com a escolha da protecção não se
+mostrou em nenhum dos musculos. Toda a cara delle era pouca para a
+estupefacção. Realmente, a materia do discurso revelára em mim uma alma
+nova; eu proprio não me conhecia. Mas a palavra final é que trouxe um
+vigor unico. José Dias ficou aturdido. Quando os olhos tornaram ás
+dimensões ordinarias:
+
+--Mas que posso eu fazer? perguntou.
+
+--Póde muito. O senhor sabe que, em nossa casa, todos o apreciam. Mamãe
+pede muita vez os seus conselhos, não é? Tio Cosme diz que o senhor é
+pessoa de talento...
+
+--São bondades, retorquiu lisonjeado. São favores de pessoas dignas,
+que merecem tudo... Ahi está! nunca ninguem me ha de ouvir dizer nada
+de pessoas taes; porque? porque são illustres e virtuosas. Sua mãe
+é uma santa, seu tio é um cavalheiro perfeitissimo. Tenho conhecido
+familias distinctas; nenhuma poderá vencer a sua em nobreza de
+sentimentos. O talento que seu tio acha em mim confesso que o tenho,
+mas é só um,--é o talento de saber o que é bom e digno de admiração e
+de apreço.
+
+--Ha de ter tambem o de proteger os amigos, como eu.
 
-  BY
+--Em que lhe posso valer, anjo do ceu? Não hei de dissuadir sua mãe
+de um projecto que é, além de promessa, a ambição e o sonho de longos
+annos. Quando pudesse, é tarde. Ainda hontem fez-me o favor de dizer:
+«José Dias, preciso metter Bentinho no seminario.»
 
-  JOHN O'MAHONY.
+Timidez não é tão ruim moeda, como parece. Se eu fosse destemido, é
+provavel que, com a indignação que experimentei, rompesse a chamar-lhe
+mentiroso, mas então seria preciso confessar-lhe que estivera á escuta,
+atraz da porta, e uma acção valia outra. Contentei-me de responder que
+não era tarde.
+
+--Não é tarde, ainda é tempo, se o senhor quizer.
+
+--Se eu quizer? Mas que outra cousa quero eu, senão servil-o? Que
+desejo, senão que seja feliz, como merece?
 
-  With Seven Maps and over 160 Illustrations.
+--Pois ainda é tempo. Olhe, não é por vadiação. Estou prompto para
+tudo; se ella quizer que eu estude leis, vou para S. Paulo...
 
 
-  AND A CHAPTER ON THE NATURAL HISTORY OF
-  THE SOUTH AND WEST OF IRELAND,
 
-  BY
 
-  R. LLOYD PRAEGER, B.A., B.E., &c.
+XXVI
 
+As leis são bellas.
 
-  ALEX. THOM & CO. (LIMITED),
-  87, 88, & 89, ABBEY STREET,
-  DUBLIN.
+Pela cara de José Dias passou algo parecido com o reflexo de uma
+ideia,--uma ideia que o alegrou extraordinariamente. Calou-se alguns
+instantes; eu tinha os olhos nelle, elle voltara os seus para o lado da
+barra. Como insistisse:
 
+--É tarde, disse elle; mas, para lhe provar que não ha falta de
+vontade, irei falar a sua mãe. Não prometto vencer, mas lutar;
+trabalharei com alma. Devéras, não quer ser padre? As leis são bellas,
+meu querido... Póde ir a S. Paulo, a Pernambuco, ou ainda mais longe.
+Ha boas universidades por esse mundo fóra. Vá para as leis, se tal é
+a sua vocação. Vou falar a D. Gloria, mas não conte só commigo; fale
+tambem a seu tio.
+
+--Hei de falar.
+
+--Pegue-se tambem com Deus,--com Deus e a Virgem Santissima, concluiu
+apontando para o ceu.
+
+O ceu estava meio enfarruscado. No ar, perto da praia, grandes passaros
+negros faziam giros, avoaçando ou pairando, e desciam a roçar os pés,
+na agua, e tornavam a erguer-se para descer novamente. Mas nem as
+sombras do ceu, nem as dansas fantasticas dos passaros me desviavam
+o espirito do meu interlocutor. Depois de lhe responder que sim,
+emendei-me:
+
+--Deus fará o que o senhor quizer.
+
+--Não blaspheme. Deus é dono de tudo; elle é, só por si, a terra e
+o ceu, o passado, o presente e o futuro. Peça-lhe a sua felicidade,
+que eu não faço outra cousa... Uma vez que você não póde ser padre, e
+prefere as leis... As leis são bellas, sem desfazer na theologia, que
+é melhor que tudo, como a vida ecclesiastica é a mais santa... Porque
+não ha de ir estudar leis fóra daqui? Melhor é ir logo para alguma
+universidade, e ao mesmo tempo que estuda, viaja. Podemos ir juntos;
+veremos as terras estranjeiras, ouviremos inglez, francez, italiano,
+hespanhol, russo e até sueco. D. Gloria provavelmente não poderá
+acompanhal-o; ainda que possa e vá, não quererá guiar os negocios,
+papeis, matriculas, e cuidar de hospedarias, e andar com você de um
+lado para outro... Oh! as leis são bellissimas!
+
+--Está dito, pede a mamãe que me não metia no seminario?
+
+--Pedir, peço, mas pedir não é alcançar. Anjo do meu coração, se
+vontade de servir é poder de mandar, estamos aqui, estamos a bordo.
+Ali! você não imagina o que é a Europa; oh! a Europa...
+
+Levantou a perna e fez uma pirueta. Uma das suas ambições era tornar á
+Europa, falava della muitos vezes, sem acabar de tentar minha mãe nem
+tio Cosme, por mais que louvasse os ares e as bellezas... Não contava
+com esta possibilidade de ir commigo, e lá ficar durante a eternidade
+dos meus estudos.
 
+--Estamos a bordo, Bentinho, estamos a bordo!
 
 
-PREFACE TO FIRST EDITION.
 
 
-These pages attempt to make better known the large part of Ireland which
-is served by the Great Southern and Western Railway Company, and while
-doing so to realise Shakespeare's words:
+XXVII
 
-  "An honest tale speeds best being plainly told."
+Ao portão.
 
-If they succeed in these endeavours, they will satisfy the compiler. No
-inexorable route is insisted upon, but no suggestion is stinted which
-may help the tourist to enjoy fully the beautiful country he passes
-through--and a beautiful country it truly is, be it approached from
-Athlone, its north-western gate, by the Shannon, where,
+Ao portão do Passeio, um mendigo estendeu-nos a mão. José Dias passou
+adiante, mas eu pensei em Capitú e no seminario, tirei dous vintens do
+bolso e dei-os ao mendigo. Este beijou a moeda; eu pedi-lhe que rogasse
+a Deus por mim, afim de que eu pudesse satisfazer todos os meus desejos.
 
-  "In the quiet watered land, the land of roses,
-  Stands Saint Kieran's city fair,"
+--Sim, meu devoto!
 
-or from its south-western side, in the kingdom of Kerry, where the ocean
-leans against the mountains, and the storm-swept peak of Skellig Michael
-makes the most westerly citadel of Christ in the Old World! Everywhere
-within its broad borders, swift-rushing rivers, mirror-like lakes, and
-mountains tiaraed in the skies, delight the vision and gladden the
-heart.
+--Chamo-me Bento, accrescentei para esclarecel-o.
 
-The Gaelic names of places are usually word pictures reflecting with
-fidelity the physical features of each place, or "tell sad stories of
-the death of kings." Where possible, the equivalents have been given in
-English.
+
+
+
+XXVIII
+
+Na rua.
+
+José Dias ia tão contente que trocou o homem dos momentos graves,
+como era á rua, pelo homem dobradiço e inquieto. Mexia-se todo,
+falava de tudo, fazia-me parar a cada passo deante de um mostrador
+ou de um cartaz de theatro. Contava-me o enredo de algumas peças,
+recitava monologos em verso. Fez os recados todos, pagou contas,
+recebeu alugueis de casa; para si comprou um vigesimo de loteria.
+Afinal, o homem tezo rendeu o flexivel, e passou a falar pausado, com
+superlativos. Não vi que a mudança era natural; temi que houvesse
+mudado a resolução assentada, e entrei a tratal-o com palavras e gestos
+carinhosos, até entrarmos no omnibus.
+
 
-With these forewords, nothing further remains but to offer an Irish
-welcome--
-                                                 FAILTÈ.
 
+
+XXIX
+
+O imperador.
+
+Em caminho, encontrámos o imperador, que vinha da Escola de Medicina.
+O omnibus em que iamos parou, como todos os vehiculos; os passageiros
+desceram á rua e tiraram o chapeu, até que o coche imperial passasse.
+Quanto tornei ao meu logar, trazia uma ideia fantastica, a ideia de ir
+ter com o imperador, contar-lhe tudo e pedir-lhe a intervenção. Não
+confiaria. esta ideia a Capitú. «Sua Majestade pedindo, mamãe cede,»
+pensei commigo.
+
+Vi então o imperador escutando-me, reflectindo e acabando por dizer que
+sim, que iria falar a minha mãe; eu beijava-lhe a mão, com lagrimas. E
+logo me achei cm casa, á espera, até que ouvi os batedores e o piquete
+de cavallaria; é o imperador! é o imperador! toda a gente chegava ás
+janellas para vel-o passar, mas não passava, o coche parava á nossa
+porta, o imperador apeava-se e entrava. Grande alvoroço na visinhança:
+«O imperador entrou em casa de D. Gloria! Que será? Que não será?
+«A nossa familia saía a recebel-o; minha mãe era a primeira que lhe
+beijava a mão. Então o imperador, todo risonho, sem entrar na sala ou
+entrando,--não me lembra bem, os sonhos são muita vez confusos,--pedia
+a minha mãe que me não fizesse padre,--e ella, lisongeada e obediente,
+promettia que não.
+
+--A medicina,--porque lhe não manda ensinar medicina?
+
+Uma vez que é do agrado de Vossa Majestade...
+
+--Mande ensinar-lhe medicina; é uma bonita carreira, e nós temos aqui
+bons professores. Nunca foi á nossa Escola? É uma bella Escola. Já
+temos medicos de primeira ordem, que pódem hombrear com os melhores de
+outras terras. A medicina é uma grande sciencia; basta só isto de dar
+a saude aos outros, conhecer as molestias, combatel-as, vencel-as... A
+senhora mesma ha de ter visto milagres. Seu marido morreu, mas a doença
+era fatal, e elle não tinha cuidado em si... É uma bonita carreira;
+mande-o para a nossa Escola. Faça isso por mim, sim? Você quer,
+Bentinho?
+
+--Mamãe querendo.
+
+--Quero, meu filho. Sua Majestade manda.
+
+Então o imperador dava outra vez a mão a beijar, e saía, acompanhado de
+todos nós, a rua cheia de gente, as janellas atopetadas, um silencio de
+assombro; o imperador entrava no coche, inclinava-se e fazia um gesto
+de adeus, dizendo ainda: «A medicina, a nossa Escola.» E o coche partia
+entre invejas e agradecimentos.
+
+Tudo isso vi e ouvi. Não, a imaginação de Ariosto não é mais fertil
+que a das creanças e dos namorados, nem a visão do impossivel precisa
+mais que de um recanto de omnibus. Consolei-me por instantes, digamos
+minutos, até destruir-se o plano e voltar-me para as caras sem sonhos
+dos meus companheiros.
+
+
+
+
+XXX
+
+O Santissimo.
+
+Terás entendido que aquella lembrança do imperador ácerca da medicina
+não era mais que a suggestão da minha pouca vontade de sair do Rio de
+Janeiro. Os sonhos do accordado são como os outros sonhos, tecem-se
+pelo desenho das nossas inclinações e das nossas recordações. Vá que
+fosse para S. Paulo, mas a Europa... Era muito longe, muito mar e muito
+tempo. Viva a medicina! Iria contar estas esperanças a Capitú.
+
+--Parece que vae sair o Santíssimo, disse alguem no omnibus. Ouço um
+sino; é, creio que é em Santo Antonio dos Pobres. Pare, Sr. recebedor!
+
+O recebedor das passagens puxou a correia que ia ter ao braço do
+cocheiro, o omnibus parou, e o homem desceu. José Dias deu duas voltas
+rapidas á cabeça, pegou-me no braço e fez-me descer comsigo. Iriamos
+tambem acompanhar o Santissimo. Effectivamente, o sino chamava os
+fieis áquelle serviço da ultima hora. Já havia algumas pessoas na
+sacristia. Era a primeira vez que me achava em momento tão grave;
+obedeci, a principio constrangido, mas logo depois satisfeito, menos
+pela caridade do serviço que por me dar um officio de homem. Quando o
+sacristão começou a distribuir as opas, entrou um sujeito esbaforido;
+era o meu visinho Padua, que tambem ia acompanhar o Santissimo. Deu
+comnosco, veiu comprimentar-nos. José Dias fez um gesto de aborrecido,
+e apenas lhe respondeu com uma palavra secca, olhando para o padre,
+que lavava as mãos. Depois, como Padua falasse ao sacristão, baixinho,
+approximou-se delles; eu fiz a mesma cousa. Padua solicitava do
+sacristão uma das varas do pallio. José Dias pediu uma para si.
+
+--Ha só uma disponível, disse o sacristão.
+
+--Pois essa, disse José Dias.
+
+--Mas eu tinha pedido primeiro, aventurou Padua.
+
+--Pediu primeiro, mas entrou tarde, retorquiu José Dias; eu já cá
+estava. Leve uma tocha.
+
+Padua, apesar do medo que tinha ao outro, teimava em querer a vara,
+tudo isto em voz baixa e surda. O sacristão achou meio de conciliar a
+rivalidade, tomando a si obter de um dos outros seguradores do pallio
+que cedesse a vara ao Padua, conhecido na parochia, como José Dias.
+Assim fez; mas José Dias transtornou ainda esta combinação. Não, uma
+vez que tinhamos outra vara disponivel, pedia-a para mim, «joven
+seminarista», a quem esta distincção cabia mais direitamente. Padua
+ficou pallido, como as tochas. Era pôr á prova o coração de um pae. O
+sacristão, que me conhecia de me ver alli com minha mãe, aos domingos,
+perguntou de curioso se eu era devéras seminarista.
+
+--Ainda não, mas vae sel-o, respondeu José Dias piscando o olho
+esquerdo para mim, que, apesar do aviso, fiquei zangado.
+
+--Bem, cedo ao nosso Bentinho, suspirou o pae de Capitú.
+
+Pela minha parte, quiz ceder-lhe a vara; lembrou-me que elle costumava
+acompanhar o Santissimo Sacramento aos moribundos, levando uma tocha,
+mas que a ultima vez conseguira uma vara do pallio. A distincção
+especial do pallio vinha de cobrir o vigario e o sacramento; para tocha
+qualquer pessoa servia. Foi elle mesmo que me contou e explicou isto,
+cheio de uma gloria pia e risonha. Assim fica entendido o alvoroço
+com que entrára na egreja; era a segunda vez do pallio, tanto que
+cuidou logo de ir pedil-o. E nada! E tornava á tocha commum, outra
+vez a interinidade interrompida; o administrador regressava ao antigo
+cargo... Quiz ceder-lhe a vara; o aggregado tolheu-me esse acto de
+generosidade, e pediu ao sacristão que nos puzesse, a elle e a mim, com
+as duas varas da frente, rompendo a marcha do pallio.
+
+Opas enfiadas, tochas distribuidas e accesas, padre e ciborio promptos,
+o sacristão de hyssope e campainha nos mãos, saiu o prestito á
+rua. Quando me vi com uma das varas, passando pelos fieis, que se
+ajoelhavam, fiquei commovido. Padua roía a tocha amargamente. É uma
+metaphora, não acho outra fórma mais viva de dizer a dôr e a humilhação
+do meu visinho. De resto, não pude miral-o por muito tempo, nem ao
+aggregado, que, parallelamente a mim, erguia a cabeça com o ar de ser
+elle proprio o Deus dos exercitos. Com pouco, senti-me cançado; os
+braços caíam-me, felizmente a casa era perto, na rua do Senado.
+
+A enferma era uma senhora viuva, tisica, tinha uma filha de quinze ou
+dezeseis annos, que estava chorando á porta do quarto. A moça não era
+formosa, talvez nem tivesse graça; os cabellos caíam despenteados, e
+as lagrimas faziam-lhe encarquilhar os olhos. Não obstante, o total
+falava e captivava o coração. O vigário confessou a doente, deu-lhe a
+communhão e os santos oleos. O pranto da moça redobrou tanto que senti
+os meus olhos molhados e fugi. Vim para porto de uma jannela. Pobre
+creatura! A dor era communicativa em si mesma; complicada da lembrança
+de minha mãe, doeu-me mais, e, quando emfim pensei em Capitú, senti um
+impeto de soluçar tambem, enfiei pelo corredor, e ouvi alguem dizer-me:
+
+--Não chore assim!
+
+A imagem de Capitú ia commigo, e a minha imaginação, assim como lhe
+attribuira lagrimas, ha pouco, assim lhe encheu a bocca de riso agora;
+vi-a escrever no muro, falar-me, andar á volta, com os braços no ar;
+ouvi distinctamente o meu nome, de uma doçura que me embriagou, e a
+voz era della. As tochas accesas, tão lugubres na occasião, tinham-me
+ares de um lustre nupcial... Que era lustre nupcial? Não sei; era
+alguma cousa contraria á morte, e não vejo outra mais que bodas. Esta
+nova sensação me dominou tanto que José Dias veiu a mim, e me disse ao
+ouvido, em voz baixa:
+
+--Não ria assim!
+
+Fiquei serio depressa. Era o momento da saida. Peguei da minha vara; e,
+como já conhecia a distancia, e agora voltavamos para a egreja, o que
+fazia a distancia menor,--o peso da vara era mui pequeno. Demais, o sol
+cá fora, a animação da rua, os rapazes da minha edade que me fitavam
+cheios de inveja, as devotas que chegavam ás janellas ou entravam nos
+corredores e se ajoelhavam á nossa passagem, tudo me enchia a alma de
+lepidez nova.
+
+Padua, ao contrario, ia mais humilhado. Apesar de substituido por mim,
+não acabava de se consolar da tocha, da miseravel tocha. E comtudo
+havia outros que tambem traziam tocha, e apenas mostravam a compostura
+do acto; não iam garridos, mas tambem não iam tristes. Via-se que
+caminhavam com honra.
+
+
+
+
+XXXI
+
+As curiosidades de Capitú.
+
+Capitú preferia tudo ao seminario. Em vez de ficar abatida com a
+ameaça da larga separação, se vingasse a ideia da Europa, mostrou-se
+satisfeita. E quando eu lhe contei o meu sonho imperial:
+
+--Não, Bentinho, deixemos o imperador socegado, replicou; fiquemos por
+ora com a promessa de José Dias. Quando é que elle disse que falaria a
+sua mãe?
+
+--Não marcou dia; prometteu que ia ver, que falaria logo que pudesse, e
+que me pegasse com Deus.
+
+Capitú quiz que lhe repetisse as respostas todas do aggregado, as
+alterações do gesto e até a pirueta, que apenas lhe contára. Pedia o
+som das palavras. Era minuciosa e attenta; a narração e o dialogo, tudo
+parecia remoer comsigo. Tambem se póde dizer que conferia, rotulava e
+pregava na memoria a minha exposição. Esta imagem é por ventura melhor
+que a outra, mas a optima dellas é nenhuma. Capitú era Capitú, isto é,
+uma creatura mui particular, mais mulher do que eu era homem. Se ainda
+o não disse, ahi fica. Se disse, fica tambem. Ha conceitos que se devem
+incutir na alma do leitor, á força de repetição.
+
+Era tambem mais curiosa. As curiosidades de Capitú dão para um
+capitulo. Eram de varia especie, explicaveis e inexplicaveis, assim
+uteis como inuteis, umas graves, outras frivolas; gostava de saber
+tudo. No collegio onde, desde os sete annos, apprendera a ler, escrever
+e contar, francez, doutrina e obras de agulha, não apprendeu, por
+exemplo, a fazer renda; por isso mesmo, quiz que prima Justtina lh'o
+ensinasse. Se não estudou latim com o padre Cabral foi porque o padre,
+depois de lh'o propôr gracejando, acabou dizendo que latim não era
+lingua de meninas. Capitú confessou-me um dia que esta razão accendeu
+nella o desejo de o saber. Em compensação, quiz apprender inglez com
+um velho professor amigo do pae e parceiro deste ao sólo, mas não foi
+adeante. Tio Cosme ensinou-lhe gamão.
+
+--Anda apanhar um capotinho, Capitú, dizia-lhe elle.
+
+Capitú obedecia e jogava com facilidade, com attenção, não sei se diga
+com amor. Um dia fui achal-a desenhando a lapís um retraio; dava os
+ultimos rasgos, e pediu-me que esperasse para ver se estava parecido.
+Era o de meu pae, copiado da tela que minha mãe tinha na sala e que
+ainda agora está commigo. Perfeição não era; ao contrario, os olhos
+sairam esbogalhados, e os cabellos eram pequenos circulos uns sobre
+outros. Mas, não tendo ella rudimento algum de arte, e havendo feito
+aquillo de memoria em poucos minutos, achei que era obra de muito
+merecimento; descontai-me a edade e a sympathia. Ainda assim, estou
+que apprenderia facilmente pintura, como apprendeu musica mais tarde.
+Já então namorava o piano da nossa casa, velho traste inutil, apenas
+de estimação. Lia os nossos romances, folheava os nossos livros de
+gravuras, querendo saber das ruinas, das pessoas, das campanhas, o
+nome, a historia, o lograr. José Dias dava-lhe essas noticias com certo
+orgulho de erudito. A erudição deste não avultava muito mais que a sua
+homoepathia de Cantagallo.
+
+Um dia, Capitú quiz saber o que eram as figuras da sala de visitas. O
+aggregado disse-lho summariamente, demorando-se um pouco mais em Cesar,
+com exclamações e latins:
+
+--Cesar! Julio Cesar! Grande homem! _Tu quoque, Brute?_
+
+Capitú não achava bonito o perfil de Cesar, mas as acções citadas por
+José Dias davam-lhe gestos de admiração. Ficou muito tempo com a cara
+virada para elle. Um homem que podia tudo! que fazia tudo! Um homem que
+dava a uma senhora uma perola do valor de seis milhões de sestercios!
+
+--E quanto valia cada sestercio?
+
+José Dias, não tendo presente o valor do sestercio, respondeu
+enthusiasmado:
+
+--É o maior homem da historia!
+
+A perola de Cesar accendia os olhos de Capitú. Foi nessa occasião
+que ella perguntou a minha mãe porque é que já não usava as joias do
+retrato; preferia-se ao que estava na sala, com o de meu pae; tinha um
+grande collar, um diadema e brincos.
+
+--São joias viuvas, como eu, Capitú.
+
+--Quando é que botou estas?
+
+--Foi pelas festas da Coroação.
+
+--Oh! conte-me as festas da Coroação!
+
+Sabia já o que os paes lhe haviam dito, mas naturalmente tinha para
+si que elles pouco mais conheceriam do que o que se passou nas ruas.
+Queria a noticia das tribunas da Capella Imperial e dos salões dos
+bailes. Nascera muito depois daquellas festas celebres. Ouvindo falar
+varias vezes da Maioridade, teimou um dia em saber o que fora este
+acontecimento; disseram-lh'o, e achou que o imperador fizera muito
+bem em querer subir ao throno aos quinze annos. Tudo era materia ás
+curiosidades de Capitú, mobilias antigas, alfaias velhas, costumes,
+noticias de Itaguahy, a infancia e a mocidade de minha mãe, um dito
+daqui, uma lembrança dalli, um adagio d'acolá...
+
+
+
+
+XXXII
+
+Olhos de ressaca.
+
+Tudo era materia ás curiosidades de Capitú. Caso houve, porém, no qual
+não sei se apprendeu ou ensinou, ou se fez ambas as cousas, como eu. É
+o que contarei no outro capitulo. N'este direi sómente que, passados
+alguns dias do ajuste com o aggregado, fui ver a minha amiga; eram dez
+horas da manhã. D. Fortunata, que estava no quintal, nem esperou que eu
+lhe perguntasse pela filha.
+
+--Está na sala penteando o cabello, disse-me; vá devagarzinho para lhe
+pregar um susto.
+
+Fui devagar, mas ou o pé ou o espelho traiu-me. Este póde ser que não
+fosse; era um espelhinho de pataca (perdoai a barateza), comprado a
+um mascate italiano, moldura tosca, argolinha de latão, pendente da
+parede, entre as duas janellas. Se não foi elle, foi o pé. Um ou outro,
+a verdade é que, apenas entrei na sala, pente, cabellos, toda ella
+voou pelos ares, e só lhe ouvi esta pergunta:
+
+--Ha alguma cousa?
+
+--Não ha nada, respondi; vim ver você antes que o padre Cabral chegue
+para a licção. Como passou a noite?
+
+--Eu bem. José Dias ainda não falou?
+
+--Parece que não.
+
+--Mas então quando fala?
+
+--Disse-me que hoje ou amanhã pretende tocar no assumpto; não vae
+logo de pancada, falará assim por alto e por longe, um toque. Depois,
+entrará em materia. Quer primeiro ver se mamãe tem a resolução feita...
+
+--Que tem, tem, interrompeu Capitú. E se não fosse preciso alguem para
+vencer já, e de todo, não se lhe falaria. Eu já nem sei se José Dias
+poderá influir tanto; acho que fará tudo, se sentir que você realmente
+não quer ser padre, mas poderá alcançar...? Elle é attendido; se,
+porém... É um inferno isto! Você teime com elle, Bentinho.
+
+--Teimo; hoje mesmo elle ha de falar.
+
+--Você jura?
+
+--Juro! Deixe ver os olhos, Capitú.
+
+Tinha-me lembrado a definição que José dera delles, «olhos de cigana
+obliqua e dissimulada.» Eu não sabia o que era obliqua, mas dissimulada
+sabia, e queria ver se se podiam chamar assim. Capitú deixou-se fitar e
+examinar. Só me perguntava o que era, se nunca os vira; eu nada achei
+extraordinário; a côr e a doçura eram minhas lhe deu outra ideia
+do meu intento; imaginou que era um pretexto para miral-os mais de
+perto, com os meus olhos longos, constantes, enfiados nelles, e á isto
+attribuo que entrassem a ficar crescidos, crescidos e sombrios, com tal
+expressão que...
+
+Rhetorica dos namorados, dá-me uma comparação exacta e poetica para
+dizer o que foram aquelles olhos de Capitú. Não me acode imagem capaz
+de dizer, sem quebra da dignidade do estylo, o que elles foram e me
+fizeram. Olhos de ressaca? Vá, de ressaca. É o que me dá ideia daquella
+feição nova. Traziam não sei que fluido mysterioso e energico, uma
+força que arrastava para dentro, como a vaga que se retira da praia,
+nos dias de ressaca. Para não ser arrastado, agarrei-me ás outras
+partes visinhas, ás orelhas, aos braços, aos cabellos espalhados pelos
+hombros; mas tão depressa buscava as pupillas, a onda que saía dellas
+vinha crescendo, cava e escura, ameaçando envolver-me, puxar-me e
+tragar-me. Quantos minutos gastámos naquelle jogo? Só os relogios do
+ceu terão marcado esse tempo infinito e breve. A eternidade tem as suas
+pendulas nem por não acabar nunca deixa de querer saber a duração das
+felicidades e dos supplicios. Ha de dobrar o gozo aos bemaventurados
+do ceu conhecer a somma dos tormentos que já terão padecido no inferno
+os seus inimigos; assim tambem a quantidade das delicias que terão
+gozado no ceu os seus desaffectos augmentará as dores aos condemnados
+do inferno. Este outro supplicio escapou ao divino Dante; mas eu não
+estou aqui para emendar poetas. Estou para contar que, ao cabo de um
+tempo não marcado, agarrei-me definitivamente aos cabellos de Capitú,
+mas então com as mãos, e disse-lhe,--para dizer alguma cousa,--que era
+capaz de os pentear, se quizesse.
+
+--Você?
+
+--Eu mesmo.
+
+--Vae embaraçar-me o cabello todo, isso, sim.
+
+--Se embaraçar, você desembaraça depois.
+
+--Vamos ver.
+
+
+
+
+XXXIII
+
+O penteado.
+
+Capitú deu-me as costas, voltando-se para o espelhinho. Peguei-lhe dos
+cabellos, colhi-os todos e entrei a alisal-os com o pente, desde a
+testa até ás ultimas pontas, que lhe desciam á cintura. Em pé não dava
+geito: não esquecestes que ella era um nadinha mais alta que eu, mas
+ainda que fosse da mesma altura. Pedi-lhe que se sentasse.
+
+--Senta aqui, é melhor.
+
+Sentou-se. «Vamos ver o grande cabelleireiro», disse-me rindo.
+Continuei a alisar os cabellos, com muito cuidado, e dividi-os em duas
+porções eguaes, para compor as duas trancas. Não as fiz logo, nem assim
+depressa, como podem suppôr os cabelleireiros de officio, mas devagar,
+devagarinho, saboreando pelo tacto aquelles fios grossos, que eram
+parte della. O trabalho era atrapálhado, ás vezes por desaso, outras
+de proposito, para desfazer o feito e refazel-o. Os dedos roçavam na
+nuca da pequena ou nas espaduas vestidas de chita, e a sensação era
+um deleite. Mas, emfim, os cabellos iam acabando, por mais que eu os
+quizesse interminaveis. Não pedi ao ceu que elles fossem tão longos
+como os da Aurora, porque não conhecia ainda esta divindade que os
+velhos poetas me apresentaram depois; mas, desejei penteal-os por
+todos os seculos dos seculos, tecer duas tranças que pudessem envolver
+o infinito por um numero innominavel de vezes. Se isto vos parecer
+emphatico, desgraçado leitor, é que nunca penteastes uma pequena, nunca
+puzestes aos mãos adolescentes na joven cabeça de uma nympha... Uma
+nympha! Todo eu estou mythologico. Ainda ha pouco, falando dos seus
+olhos de ressaca, cheguei a escrever Thetis; risquei Thetis, risquemos
+nympha; digamos somente uma creatura amada, palavra que envolve todas
+as potencias christãs e pagãs. Emfim, acabei as duas tranças. Onde
+estava a fita para atar-lhes as pontas? Em cima da mesa, um triste
+pedaço de fita enxovalhada. Juntei as pontas das tranças, uni-as por um
+laço, retoquei a obra, alargando aqui, achatando alli, até que exclamei:
+
+--Prompto!
+
+--Estará bom?
+
+--Veja no espelho.
+
+Em vez de ir ao espelho, que pensaes que fez Capitú? Não vos esqueçaes
+quo estava sentada, de costas para mim. Capitú derreou a cabeça, a tal
+ponto que me foi preciso acudir com as mãos e amparal-a; o espaldar
+da cadeira era baixo. Inclinei-me depois sobre ella, rosto a rosto,
+mas trocados, os olhos de um na linha da bocca do outro. Pedi-lhe que
+levantasse a cabeça, podia ficar tonta, machucar o pescoço. Cheguei a
+dizer-lhe que estava feia; mas nem esta razão a moveu.
+
+--Levanta, Capitú!
+
+Não quiz, não levantou a cabeça, e ficámos assim a olhar um para o
+outro, até que ella abrochou os labios, eu desci os meus, e...
+
+Grande foi a sensação do beijo; Capitú ergueu-se, rapida, eu recuei
+até á parede com uma especie de vertigem, sem fala, os olhos escuros.
+Quando elles me clarearam, vi que Capitú tinha os seus no chão. Não
+me atrevi a dizer nada; ainda que quizesse, faltava-me lingua. Preso,
+atordoado, não achava gesto nem impeto que me descolasse da parede e me
+atirasse a ella com mil palavras callidas e mimosas... Não mofes dos
+meus quinze annos, leitor precoce. Com dezesete, Des Grieux (e mais era
+Des Grieux) não pensava ainda na differença dos sexos.
+
+
+
+
+XXXIV
+
+Sou homem!
+
+Ouvimos passos no corredor; era D. Fortunata. Capitú compoz-se
+depressa, tão depressa que, quando a mãe apontou á porta, ella
+abanava a cabeça e ria. Nenhum laivo amarello. nenhuma contracção de
+acanhamento, um riso espontaneo e claro, que ella explicou por estas
+palavras alegres:
+
+--Mamãe, olhe como este senhor cabelleireiro me penteou; pediu-me para
+acabar o penteado, e fez isto. Veja que tranças!
+
+--Que tem? acudiu a mãe, transbordando de benevolencia. Está muito bem,
+ninguem dirá que é de pessoa que não sabe pentear.
+
+--O que, mamãe? Isto? redarguiu Capitú desfazendo as tranças. Ora,
+mamãe!
+
+E com um enfadamento gracioso e voluntario que ás vezes tinha, pegou
+do pente e alisou os cabellos para renovar o penteado. D. Fortunata
+chamou-lhe tonta, e disse-me que não fizesse caso, não era nada,
+maluquices da filha. Olhava com ternura para mim e para ella. Depois,
+parece-me que desconfiou. Vendo-me calado, enfiado, cosido á parede,
+achou talvez que houvera entre nós algo mais que penteado, e sorriu por
+dissimulação...
+
+Como eu quizesse falar tambem para disfarçar o meu estado, chamei
+algumas palavras cá de dentro, e ellas acudiram de prompto, mas de
+atropello, e encheram-me a bocca sem poder sair nenhuma. O beijo de
+Capitú fechava-me os labios. Uma exclamação, um simples artigo, por
+mais que investissem com força, não logravam romper de dentro. E todas
+as palavras recolheram-se ao coração, murmurando: «Eis aqui um que não
+fará grande carreira no mundo, por menos que as emoções o dominem...»
+
+Assim, apanhados pela mãe, éramos dous e contrarios, ella encobrindo
+com a palavra o que eu publicava pelo silencio. D. Fortunata tirou-me
+daquella hesitação, dizendo que minha mãe me mandára chamar para a
+licção de latim; o padre Cabral estava á minha espera. Era uma saida;
+despedi-me e enfiei pelo corredor. Andando, ouvi que a mãe censurava as
+maneiras da filha, mas a filha não dizia nada.
+
+Corri ao meu quarto, peguei dos livros, mas não passei a sala da
+licção; sentei-me na cama, recordando o penteado e o resto. Tinha
+estremeções, linha uns esquecimentos em que perdia a consciencia de
+mim e das cousas que me rodeavam, para viver não sei onde nem como.
+E tornava a mim, e via a cama, as paredes, os livros, o chão, ouvia
+algum som de fóra, vago, proximo ou remoto, e logo perdia tudo para
+sentir sómente os beiços de Capitú... Sentia-os estirados, embaixo dos
+meus, egualmente esticados para os della, e unindo-se uns aos outros.
+De repente, sem querer, sem pensar, saiu-me da boca esta palavra de
+orgulho:
+
+--Sou homem!
+
+Suppuz que me tivessem ouvido, porque a palavra saiu em voz alta, e
+corri á porta da alcova. Não havia ninguem fóra. Voltei para dentro,
+e, baixinho, repeti que era homem. Ainda agora tenho o éco aos meus
+ouvidos. O gosto que isto me deu foi enorme. Colombo não o teve maior,
+descobrindo a America, e perdoai a banalidade em favor do cabimento;
+com effeito, ha em cada adolescente um mundo encoberto, um almirante e
+um sol de Outubro. Fiz outros achados mais tarde; nenhum me deslumbrou
+tanto. A denuncia de José Dias alvoroçara-me, a licção do velho
+coqueiro tambem, a vista dos nossos nomes abertos por ella no muro do
+quintal deu-me grande abalo, como vistes; nada disso valeu a sensação
+do beijo. Podiam ser mentira ou illusão. Sendo verdade, eram os ossos
+da verdade, não eram a carne e o sangue della. As proprias mãos
+tocadas, apertadas, como que fundidas, não podiam dizer tudo.
+
+--Sou homem!
+
+Quando repeti isto, pela terceira vez, pensei no seminario, mas como
+se pensa em perigo que passou, um mal abortado, um pesadelo extincto;
+todos os meus nervos me disseram que homens não são padres. O sangue
+era da mesma opinião. Outra vez senti os beiços de Capitú. Talvez abuso
+um pouco das reminiscencias osculares; mas a saudade é isto mesmo; é o
+passar e repassar das memorias antigas. Ora, de todas as daquelle tempo
+creio que a mais doce é esta, a mais nova, a mais comprehensiva, a que
+inteiramente me revelou a mim mesmo. Outras tenho, vastas e numerosas,
+doces tambem, de varia especie, muitas intellectuaes, egualmente
+intensas. Grande homem que fosse, a recordação era menor que esta.
+
+
+
+
+XXXV
+
+O protonotario apostolico.
+
+Enfim, peguei dos livros e corri á licção. Não corri precisamente; a
+meio caminho parei, advertindo que devia ser muito tarde, e podiam
+ler-me no semblante alguma cousa. Tive ideia de mentir, allegar uma
+vertigem que me houvesse deitado ao chão; mas o susto que causaria
+a minha mãe fez-me rejeital-a. Pensei em prometter algumas dezenas
+de padre-nossos; tinha, porém, outra promessa em aberto e outro
+favor pendente... Não, vamos ver; fui andando, ouvi vozes alegres,
+conversavam cuidadosamente. Quando entrei na sala, ninguem ralhou
+commigo.
+
+O padre Cabral recebera na vespera um recado do internuncio; foi
+ter com elle, e soube que, por decreto pontificio, acabava de ser
+nomeado protonotario apostolico. Esta distincção do papa dera-lhe
+grande contentamento e a todos os nossos. Tio Cosme e prima Justina
+repetiam o titulo com admiração; era a primeira vez que elle soava aos
+nossos ouvidos, acostumados a conegos, monsenhores, bispos, nuncios,
+e internuncios; mas que era protonotario apostolico? O padre Cabral
+explicou que não era propriamente o cargo da curia, mas as honras
+delle. Tio Cosme viu exalçar-se no parceiro de voltarete, e repetia:
+
+--Protonotario apostolico!
+
+E voltando-se para mim:
+
+--Prepara-te, Bentinho; tu pódes vir a ser protonotario apostolico.
+
+Cabral ouvia com gosto a repetição do titulo. Estava em pé, dava alguns
+passos, sorria ou tamborilava na tampa da boceta. O tamanho do titulo
+como que lhe dobrava a magnificencia, posto que, para ligal-o ao nome,
+era demasiado comprido; esta segunda reflexão foi tio Cosme que a fez.
+Padre Cabral acudiu que não era preciso dizel-o todo, bastava que lhe
+chamassem o protonotario Cabral. Subentendia-se apostolico.
+
+--Protonotario Cabral.
+
+--Sim, tem razão; protonotario Cabral.
+
+--Mas, Sr. protonotario,--acudiu prima Justina para se ir acostumando
+ao uso do titulo,--isto o obriga a ir a Roma?
+
+--Não, D. Justina.
+
+--Não, são só as honras, observou minha mãe.
+
+--Agora, não impede,--disse Cabral, que continuava a reflectir,--não
+impede que nos casos de maior formalidade, actos publicos, cartas
+de cerimonia, etc., se empregue o titulo inteiro: protonotario
+apostolico. No uso commum, basta protonotario.
+
+--Justamente, assentiram todos.
+
+José Dias, que entrou pouco depois de mim, applaudiu a distincção, e
+recordou, a proposito, os primeiros actos politicos de Pio IX, grandes
+esperanças da Italia; mas ninguem pegou do assumpto; o principal da
+hora e do logar era o meu velho mestre de latim. Eu, voltando a mim
+do receio, entendi que devia comprimental-o tambem, e este applauso
+não lhe foi menos ao coração que os outros. Bateu-me na bochecha
+paternalmente, e acabou dando-me férias. Era muita felicidade para uma
+só hora. Um beijo e férias! Creio que o meu rosto disse isto mesmo,
+porque tio Cosme, sacudindo a barriga, chamou-me peralta; mas José Dias
+corrigiu a alegria:
+
+--Não tem que festejar a vadiação; o latim sempre lhe ha de ser
+preciso, _ainda que não venha a ser padre._
+
+Conheci aqui o meu homem. Era a primeira palavra, a semente lançada á
+terra, assim de passagem, como para acostumar os ouvidos da familia.
+Minha mãe sorriu para mim, cheia de amor e de tristeza, mas respondeu
+logo:
+
+--Ha de ser padre, e padre bonito.
+
+--Não esqueça, mana Gloria, e protonotario tambem. Protonotario
+apostolico.
+
+--O protonotario Santiago, accentuou Cabral.
+
+Se a intenção tio meu mestre de latim era ir acostumando ao uso do
+titulo com o nome, não sei bem; o que sei é que quando ouvi o meu
+nome ligado a tal titulo, deu-me vontade de dizer um desaforo. Mas a
+vontade aqui foi antes uma ideia, uma ideia sem lingua, que se deixou
+ficar quieta e muda, tal como d'ahi a pouco outras ideias... Mas
+essas pedem um capitulo especial. Rematemos este dizendo que o mestre
+de latim falou algum tempo da minha ordenação ecclesiastica, ainda
+que sem grande interesse. Elle buscava um assumpto alheio para se
+mostrar esquecido da propria gloria, mas era esta que o deslumbrava na
+occasião. Era um velho magro, sereno, dotado de qualidades boas. Alguns
+defeitos tinha; o mais excelso delles era ser guloso, não propriamente
+glotão; comia pouco, mas estimava o fino e o raro, e a nossa cosinha,
+se era simples, era menos pobre que a delle. Assim, quando minha mãe
+lhe disse que viesse jantar, afim de se lhe fazer uma saude, os olhos
+com que acceitou seriam de protonotario, mas não eram aposlolicos. E
+para agradar a minha mãe novamente pegou em mim, descrevendo o meu
+futuro ecclesiastico, e queria saber se ia para o seminario agora, no
+anuo proximo, e offerecia-se a falar ao «senhor bispo», tudo marchetado
+do «protonotario Santiago.»
+
+
+
+
+XXXVI
+
+Ideia sem pernas e ideia sem braços.
+
+Deixei-os, a pretexto de brincar, e fui-me outra vez a pensar na
+aventura da manhã. Era o que melhor podia fazer, sem latim, e até com
+latim. Ao cabo de cinco minutos, lembrou-me ir correndo á casa visinha,
+agarrar Capitú, desfazer-lhe as tranças, refazel-as e concluil-as
+daquella maneira particular, bocca sobre bocca. É isto, vamos, é
+isto... Ideia só! ideia sem pernas! As outras pernas não queriam correr
+nem andar. Muito depois é que sairam vagarosamente e levaram-me á
+casa de Capitú. Quando alli cheguei, dei com ella na sala, na mesma
+sala, sentada na marqueza, almofada no regaço, cosendo em paz. Não me
+olhou de rosto, mas a furto e a medo, ou, se preferes a phraseologia
+do aggregado, obliqua e dissimulada. As mãos pararam, depois de
+encravada a agulha no panno. Eu, do lado opposto da mesa, não sabia que
+fizesse; e outra vez me fugiram as palavras que trazia. Assim gastámos
+alguns minutos compridos, até que ella deixou inteiramente a costura,
+ergueu-se e esperou-me. Fui ter com ella, e perguntei se a mãe havia
+dito alguma cousa; respondeu-me que não. A bocca com que respondeu era
+tal que cuido haver-me provocado um gesto de approximação. Certo é que
+Capitú recuou um pouco.
+
+Era occasião de pegal-a, puxal-a e beijal-a... Ideia só ideia sem
+braços! Os meus ficaram caidos e mortos. Não conhecia nada da
+Escriptura. Se conhecesse, é provavel que o espirito de Satanaz me
+fizesse dar a lingua mystica do _Cantico_ um sentido directo e natural.
+Então obedeceria ao primeiro versiculo; «Applique elle os labios,
+dando-me o osculo da sua bocca.» E pelo que respeita aos braços, que
+tinha inertes, bastaria cumprir o vers. 6.o do cap. II:
+«A sua mão esquerda se pôz já debaixo da minha cabeça, e a sua mão
+direita me abraçará depois.» Vedes ahi a chronologia dos gestos. Era só
+executal-a; mas ainda que eu conhecesse o texto, as attitudes de Capitú
+eram agora tão retrahidas, que não sei se não continuaria parado, foi
+ella entretanto, que me tirou daquella situação.
+
+
+
+
+XXXVII
+
+A alma é cheia de mysterios.
+
+Padre Cabral eslava esperando ha muito tempo?
+
+--Hoje não dei licção; tive férias.
+
+Expliquei-lhe o motivo das férias. Contei-lhe tambem que o padre Cabral
+falara da minha entrada no seminario, apoiando a resolução de minha
+mãe, e disse delle cousas feias e duras. Capitú reflectiu algum tempo,
+e acabou perguntando-me se podia ir comprimentar o padre, á tarde, em
+minha casa.
+
+--Póde, mas para que?
+
+Papae naturalmente ha de querer ir tambem, mas é melhor que elle vá á
+casa do padre; é mais bonito. Eu não, que já sou meia moça, concluiu
+rindo.
+
+O riso animou-me. As palavras pareciam ser uma troça comsigo mesma, uma
+vez que, desde manhã, era mulher, como eu era homem. Achei-lhe graça,
+e, para dizer tudo, quiz provar-lhe que era moça inteira. Peguei-lhe
+levemente na mão direita, depois na esquerda, e fiquei assim pasmado e
+tremulo. Era a ideia com mãos. Quiz puxar as de Capitú, para obrigal-a
+a vir atraz dellas, mas ainda agora a acção não respondeu á intenção.
+Comtudo, achei-me forte e atrevido. Não imitava ninguem; não vivia com
+rapazes, que me ensinassem anecdotas de amor. Não conhecia a violação
+de Lucrecia. Dos romanos apenas sabia que falavam pela artinha do
+padre Pereira e eram patricios de Poncio Pilatos. Não nego que o final
+do penteado da manhã era um grande passo no caminho da movimentação
+amorosa, mas o gesto de então foi justamente o contrario deste. De
+manhã, ella derreou a cabeça, agora fugia-me; nem é só nisso que os
+lances differiam; em outro ponto, parecendo haver repetição, houve
+contraste.
+
+Penso que ameacei puxal-a a mim. Não juro, começava a estar tão
+alvoroçado, que não pude ter toda a consciência dos meus actos; mas
+concluo que sim, porque ella recuou e quiz tirar as mãos das minhas;
+depois, talvez por não poder recuar mais, collocou um dos pés adeante
+e o outro atraz, e fugiu com o busto. Foi este gesto que me obrigou
+a reter-lhe as mãos com força. O busto afinal cançou e cedeu, mas a
+cabeça não quiz ceder tambem, e, caida para traz, inutilisava lodos
+os meus esforços, porque eu já fazia esforços, leitor amigo. Não
+conhecendo a licção do _Cantico_, não me acudiu estender a mão esquerda
+por baixo do cabeça della; demais, este gesto suppõe um accordo de
+vontades, e Capitú, que me resistia agora, aproveitaria o gesto para
+arrancar-se á outra mão e fugir-me inteiramente. Ficámos naquelle luta,
+sem estrepito, porque apesar do ataque e da defesa, não perdiamos a
+cautela necessaria para não sermos ouvidos lá de dentro; a alma é cheia
+de mysterios. Agora sei que a puxava; a cabeça continuou a recuar, até
+que cançou; mas então foi a vez da bocca. A bocca de Capitú iniciou um
+movimento inverso, relativamente á minha, indo para um lado, quando
+eu a buscava do lado opposto. Naquelle desencontro estivemos, sem que
+ousasse um pouco mais, e bastaria um pouco mais...
+
+Nisto ouvimos bater á porta e falar no corredor. Era o pae de Capitú,
+que voltava da repartição um pouco mais cedo, como usava ás vezes.
+«Abre, Nanata! Capitú, abre!» Apparentemente era o mesmo lance da
+manhã, quando a mãe deu comnosco, mas só apparentemente; em verdade,
+era outro. Considerai que de manhã tudo estava acabado, e o passo de D.
+Fortunata foi um aviso para que nos compuzessemos. Agora lutavamos com
+as mãos presas, e nada estava sequer começado.
+
+Ouvimos o ferrolho da porta que dava para o corredor interno; era a mãe
+que abria. Eu, uma vez que confesso tudo, digo aqui que não tive tempo
+de soltar as mãos da minha amiga; pensei nisso, cheguei a tental-o, mas
+Capitú, antes que o pae acabasse de entrar, fez um gesto inesperado,
+pousou a bocca na minha bocca, e deu de vontade o que estava a recusar
+á força. Repito, a alma é cheia de mysterios.
+
+
+
+
+XXXVIII
+
+Que susto, meu Deus!
+
+Quando Padua, vindo pelo interior, entrou na sala de visitas,
+Capitú, em pé, de costas para mim, inclinada sobre a costura, como a
+recolhel-a, perguntava em voz alta:
+
+--Mas, Bentinho, que ó protonotario apostolico?
+
+--Ora, vivam! exclamou o pae.
+
+--Que susto, meu Deus!
+
+Agora é que o lance é o mesmo; mas se conto aqui, taes quaes, os
+dous lances de ha quarenta annos, é para mostrar que Capitú não se
+dominava só em presença da mãe; o pae não lhe metteu mais medo. No
+meio de uma situação que me atava a lingua, usava da palavra com a
+maior ingenuidade deste mundo. A minha persuasão é que o coração não
+lhe batia mais mais nem menos. Allegou susto, e deu á cara um ar meio
+enfiado; mas eu, que sabia tudo, vi que era mentira e fiquei com
+inveja. Foi logo falar ao pae, que apertou a minha mão, e quiz saber
+porque a filha falava em protonotario apostolico. Capitú repeliu-lhe
+o que ouvira de mim, e opinou logo que o pae devia ir comprimentar o
+padre em casa delle; ella iria á minha. E colligindo os petrechos da
+costura, enfiou pelo corredor, bradando infantilmente:
+
+--Mamãe, jantar, papae chegou!
+
+
+
+
+XXXIX
+
+A vocação.
+
+Padre Cabral estava naquella primeira hora das honras em que as
+minimas congratulações valem por odes. Tempo chega em que os
+dignificados recebem os louvores como um tributo usual, cara morta,
+sem agradecimentos. O alvoroço da primeira hora é melhor; esse estado
+da alma que vê na inclinação do arbusto, tocado do vento, um parabém
+da flora universal, traz sensações mais intimas e finas que qualquer
+outro. Cabral ouviu as palavras de Capitú com infinito prazer.
+
+--Obrigado, Capitú, muito obrigado; estimo que você goste tambem. Papae
+está bom? E mamãe? A voce não se pergunta; essa cara é mesmo de quem
+vende saude. E como vamos de rezas?
+
+A todas as perguntas, Capitú ia respondendo promptamente e bem.
+Trazia um vestidinho melhor e os sapatos de sair. Não entrou com a
+familiaridade do costume, deteve-se um instante á porta da sala, antes
+de ir beijar a mão a minha mãe e ao padre. Como désse a este, duas
+vezes em cinco minutos, o titulo de protonotario, José Dias, para se
+desforrar da concurrencia, fez um pequeno discurso em honra «ao coração
+paternal e augustissimo de Pio IX.»
+
+--Você é um grande _prosa_, disse tio Cosme, quando elle acabou.
+
+José Dias sorriu sem vexame. Padre Cabral confirmou os louvores do
+aggregado, sem os seus superlativos; ao que este accrescentou que
+o cardeal Mastai evidentemente fôra talhado para a tiára desde o
+principio dos tempos. E, piscando-me o olho, concluiu:
+
+--A vocação é tudo. O estado ecclesiastico é perfeitissimo, comtanto
+que o sacerdote venha já destinado do berço. Não havendo vocação, falo
+de vocação sincera e real, um joven póde muito bem estudar as lettras
+humanas, que tambem são uteis e honradas.
+
+Padre Cabral retorquia:
+
+--A vocação é muito, mas o poder de Deus é soberano. Um homem póde não
+ter gosto á egreja e até perseguil-a, e um dia a voz de Deus lhe fala,
+e elle sae apostolo; veja S. Paulo.
+
+--Não contesto, mas o que eu digo é outra cousa. O que eu digo é que se
+póde muito bem servir a Deus sem ser padre, cá fóra; póde-se ou não se
+póde?
+
+--Póde-se.
+
+--Pois então! exclamou José Dias triumphalmente, olhando em volta de
+si. Sem vocação é que não ha bom padre, e em qualquer profissão liberal
+se serve a Deus, como todos devemos.
+
+--Perfeitamente, mas vocação não é só do berço que se traz.
+
+--Homem, é a melhor.
+
+--Um moço sem gosto nenhum á vida ecclesiastica póde acabar por ser
+muito bom padre; tudo é que Deus o determine. Não me quero dar por
+modelo, mas aqui estou eu que nasci com a vocação da medicina; meu
+padrinho, que era coadjutor de Santa Rita, teimou com meu pae para que
+me mettesse no seminario; meu pae cedeu. Pois, senhor, tomei tal gosto
+aos estudos e á companhia dos padres, que acabei ordenando-me. Mas,
+supponha que não acontecia assim, e que eu não mudava de vocação, o que
+é que acontecia? Tinha estudado no seminario algumas materias que é bom
+saber, e são sempre melhor ensinadas naquellas casas.
+
+Prima Justina interveiu:
+
+--Como? Então póde-se entrar para o seminario e não sair padre?
+
+Padre Cabral respondeu que sim, que se podia, e, voltando-se para
+mim, falou da minha vocação, que era manifesta; os meus brinquedos
+foram sempre de egreja, e eu adorava os officios divinos. A prova
+não provava; todas as creanças do meu tempo eram devotas. Cabral
+accrescentou que o reitor de S. José, a quem contara ultimamente a
+promessa de minha mãe, tinha o meu nascimento por milagre; elle era
+da mesma opinião. Capitú, cosida ás saias de minha mãe, não attendia
+aos olhos anciosos que eu lhe mandava; tambem não parecia escutar a
+conversação sobre o seminario e suas consequencias, e, aliás, decorou o
+principal, como vim a saber depois. Duas vezes fui á janella, esperando
+que ella fosse tambem, e ficassemos á vontade, sósinhos, até acabar o
+mundo, se acabasse, mas Capitú não me appareceu. Não deixou minha mãe,
+senão para ir embora. Eram ave-marias, despediu-se.
+
+--Vae com ella, Bentinho, disse minha mãe.
+
+--Não precisa, não, D. Gloria, acudiu ella rindo, eu sei o caminho.
+Adeus, Sr. protonotario...
+
+--Adeus, Capitú.
+
+Tendo dado um passo no sentido de atravessar a sala, é claro que o
+meu dever, o meu gosto, todos os impulsos da edade e da occasião
+eram atravessal-a de todo, seguir a visinha corredor fóra, descer á
+chacara, entrar no quintal, dar-lhe terceiro beijo, e despedir-me. Não
+me importou a recusa, que cuidei simulada, e enfiei pelo corredor;
+mas, Capitú que ia depressa, estacou e fez-me signal que voltasse. Não
+obedeci; cheguei-me a ella.
+
+--Não venha, não; amanhã falaremos.
+
+--Mas eu queria dizer a você...
+
+--Amanhã.
+
+--Escuta!
+
+--Fica!
+
+Falava baixinho; pegou-me na mão, e poz o dedo na bocca. Uma preta,
+que veiu de dentro accender o lampião do corredor, vendo-nos naquella
+attitude, quasi ás escuras, riu de sympathia e murmurou em tom que
+ouvissemos alguma cousa que não entendí bem nem mal. Capitú segredou-me
+que a escrava desconfiara, e ia talvez contar ás outras. Novamente me
+intimou que ficasse, e retirou-se; eu deixei-me estar parado, pregado,
+agarrado ao chão.
+
+
+
+
+XL
+
+Uma egua.
+
+Ficando só, reflecti algum tempo, e tive uma fantasia. Já conheceis as
+minhas fantasias. Contei-vos a da visita imperial; disse-vos a desta
+casa do Engenho Novo, reproduzindo a de Matacavallos... A imaginação
+foi a companheira de toda a minha existencia, viva, rapida, inquieta,
+alguma vez timida e amiga de empacar, as mais dellas capaz de engolir
+campanhas e campanhas, correndo. Creio haver lido em Tacito que as
+eguas iberas concebiam pelo vento; se não foi nelle, foi n'outro autor
+antigo, que entendeu guardar essa crendice nos seus livros. Neste
+particular, a minha imaginação era uma grande egua ibera; a menor brisa
+lhe dava um potro, que saía logo cavallo de Alexandre; mas deixemos
+metaphoras atrevidas e improprias dos meus quinze annos. Digamos o
+caso simplesmente. A fantasia daquella hora foi confessar a minha mãe
+os meus amores para lhe dizer que não tinha vocação ecclesiastica. A
+conversa sobre vocação tornava-me agora toda inteira, e, ao passo que
+me assustava, abria-me uma porta de saida. «Sim, é isto, pensei; vou
+dizer a mamãe que não tenho vocação e confesso o nosso namoro; se ella
+duvidar, conto-lhe o que se passou outro dia, o penteado e o resto... »
+
+
+
+
+XLI
+
+A audiencia secreta.
+
+O resto fez-me ficar mais algum tempo, no corredor, pensando. Vi entrar
+o doutor João da Costa, e preparou-se logo o voltarete do costume.
+Minha mãe saiu da sala, e, dando commigo, perguntou se acompanhara
+Capitú.
+
+--Não, senhora, ella foi só.
+
+E quasi investindo para ella:
+
+--Mamãe, eu queria dizer-lhe uma cousa.
+
+--Que é?
+
+Toda assustada, quiz saber o que é que me doia, se a cabeça, se o
+peito, se o estomago, e apalpava-me a testa para ver se tinha febre.
+
+--Não tenho nada, não, senhora.
+
+--Mas então que é?
+
+--É uma cousa, mamãe... Mas, escute, olhe, é melhor depois do chá;
+logo... Não é nada mau; mamãe assusta-se por tudo; não é cousa de
+cuidado.
+
+--Não é molestia?
+
+--Não, senhora.
+
+--É, isso é volta de constipação. Disfarças para não tomar suadouro,
+mas tu estás constipado; conhece-se pela voz.
+
+Tentei rir, para mostrar que não tinha nada. Nem por isso permittiu
+adiar a confidencia, pegou em mim, levou-me ao quarto della, accendeu
+vela, e ordenou-me que lhe dissesse tudo. Então eu perguntei-lhe, para
+principiar, quando é que ia para o seminario.
+
+--Agora só para o anno, depois das férias.
+
+--Vou... para ficar?
+
+--Como ficar?
+
+--Não volto para casa?
+
+--Voltas aos sabbados e pelas férias; é melhor. Quando te ordenares
+padre, vens morar commigo.
+
+Enxuguei os olhos e o nariz. Ella afagou-me, depois quiz
+reprehender-me, mas creio que a voz lhe tremia, e pareceu-me que tinha
+os olhos humidos. Disse-lhe que tambem sentia a nossa separação. Negou
+que fosse separação; era só alguma ausencia, por causa dos estudos; só
+os primeiros dias. Em pouco tempo eu me acostumaria aos companheiros e
+aos mestres, e acabaria gostando de viver com elles.
+
+--Eu só gosto de mamãe.
+
+Não houve calculo nesta palavra, mas estimei dizel-a, por fazer crer
+que ella era a minha unica affeição; desviava as suspeitas de cima
+de Capitú. Quantas intenções viciosas ha assim que embarcam, a meio
+caminho, n'uma phrase innocente e pura! Chega a fazer suspeitar que a
+mentira é, muita vez, tão involuntaria como a transpiração. Por outro
+lado, leitor amigo, nota que eu queria desviar as suspeitas de cima de
+Capitú, quando havia chamado minha mãe justamente para confirmal-as;
+mas as contradicções são deste mundo. A verdade é que minha mãe era
+candida como a primeira aurora, anterior ao primeiro peccado; nem
+por simples intuição era capaz de deduzir uma cousa de outra, isto
+é, não concluiria da minha repentina opposição que eu andasse em
+segredinhos com Capitú, como lhe dissera José Dias. Calou-se durante
+alguns instantes; depois replicou-me sem imposição nem autoridade, o
+que me veiu animando á resistencia. Dahi o falar-lhe na vocação que se
+discutira naquella tarde, e que eu confessei não sentir em mim.
+
+--Mas tu gostavas tanto de ser padre, disse ella; não te lembras que
+até pedias para ir ver sair os seminaristas de S. José, com as suas
+batinas? Em casa, quando José Dias te chamava Reverendissimo, tu rias
+com tanto gosto! Como é que agora...? Não creio, não, Bentinho. E
+depois... Vocação? Mas a vocação vem com o costume, continuou repetindo
+as reflexões que ouvira ao meu professor de latim.
+
+Como eu buscasse contestal-a, reprehendeu-me sem aspereza, mas com
+alguma força, e eu tornei ao filho submisso que era. Depois, ainda
+falou gravemente e longamente sobre a promessa que fizera; não me disse
+as circumstancias, nem a occasião, nem os motivos della, cousas que só
+vim a saber mais tarde. Affirmou o principal, isto é, que a havia do
+cumprir, em pagamento a Deus.
+
+--Nosso Senhor me acudiu, salvando a tua existencia, não lhe hei de
+mentir nem faltar, Bentinho; são cousas que não se fazem sem peccado, e
+Deus que é grande e poderoso, não me deixaria assim, não, Bentinho; eu
+sei que seria castigada e bem castigada. Ser padre é bom e santo; você
+conhece muitos, como o padre Cabral, que vive tao feliz com a irmã; um
+tio meu tambem foi padre, e escapou de ser bispo, dizem... Deixa de
+manha, Bentinho.
+
+Creio que os olhos que lhe deitei foram tão queixosos, que ella emendou
+logo a palavra; manha, não, não podia ser manha, sabia muito bem que
+eu era amigo della, e não seria capaz de fingir um sentimento que não
+tivesse. Molleza é o que queria dizer, que me deixasse de molleza, que
+me fizesse homem e obedecesse ao que cumpria, em beneficio della e para
+bem da minha alma. Todas essas cousas e outras foram ditas um pouco
+atropelladamente, e a voz não lhe saia clara, mas velada e esganada.
+Vi que a emoção della era outra vez grande, mas não recuava dos seus
+propositos, e aventurei-me a perguntar-lhe:
+
+--E se mamãe pedisse a Deus que a dispensasse da promessa?
+
+--Não, não peço. Estás tonto, Bentinho? E como havia de saber que Deus
+me dispensava?
+
+--Talvez em sonho; eu sonho as vezes com anjos e santos.
+
+--Tambem eu, num filho; mas é inútil... Vamos, é tarde; vamos para a
+sala. Está entendido: no primeiro ou no segundo mez do anno que vem,
+irás para o seminario. O que eu quero é que saibas bem os livros que
+estás estudando; é bonito, não só para ti, como para o padre Cabral. No
+seminario ha interesse em conhecer-te, porque o padre Cabral fala de ti
+com enthusiasmo.
+
+Caminhou para a porta, saimos ambos. Antes de sair, voltou-se para mim,
+e quasi a vi saltar-me ao collo e dizer-me que não seria padre. Este
+era já o seu desejo intimo, á proporção que se approximava o tempo.
+Quizera um modo de pagar a divida contrahida, outra moeda, que valesse
+tanto ou mais, e não achava nenhuma.
+
+
+
+
+XLII
+
+Capitú reflectindo.
+
+No dia seguinte fui á casa visinha, logo que pude. Capitú despedia-se
+de tres amigas que tinham ido visital-a, Paula e Sandia, companheiras
+de collegio, aquella de quinze, esta de desessete annos, a primeira
+filha de um medico, a segunda de um commerciante de objectos
+americanos. Estava abatida, trazia um lenço atado na cabeça; a mãe
+contou-me que fora excesso de leitura na vespera, antes e depois
+do chá, na sala e na cama, até muito depois da meia noite, e com
+lamparina...
+
+--Se eu accendesse vela, mamãe zangava-se. Já estou boa.
+
+E como desatasse o lenço, a mãe disse-lhe timidamente que era melhor
+atal-o, mas Capitú respondeu que não era preciso, estava boa.
+
+Ficámos sós na sala; Capitú continuou a narração da mãe, accrescentando
+que passara mal por causa do que ouvira em minha casa. Tambem eu lhe
+contei o que se déra commigo, a entrevista com minha mãe, as minhas
+supplicas, as lagrimas della, e por fim as ultimas respostas decisivas:
+dentro de dous ou tres mezes iria para o seminario. Que fariamos agora?
+Capitú ouvia-me com attenção sofrega, depois sombria; quando acabei,
+respirava a custo, como prestes a estalar de colera, mas conteve-se.
+
+Ha tanto tempo que isto succedeu que não posso dizer com segurança se
+chorou devéras, ou se sómente enxugou os olhos; cuido que os enxugou
+sómente. Vendo-lhe o gesto, peguei-lhe na mão para animal-a, mas tambem
+eu precisava ser animado. Caimos no canapé, e ficámos a olhar para o
+ar. Minto; ella olhava para o chão. Fiz o mesmo, logo que a vi assim...
+Mas eu creio que Capitú olhava para dentro de si mesma, emquanto que
+eu fitava devéras o chão, o roido das fendas, duas moscas andando e um
+pé de cadeira lascado. Era pouco, mas distraía-me da afflicção. Quando
+tornei a olhar para Capitú, vi que não se mexia, e fiquei com tal medo
+que a sacudi brandamente. Capitú tornou cá para fora e pediu-me que
+outra vez lhe contasse o que se passára com minha mãe. Satisfil-a,
+attenuando o texto desta vez, para não amofinal-a. Não me chames
+dissimulado, chama-me compassivo; é certo que receiava perder Capitú,
+se lhe morressem as esperanças todas, mas doia-me vel-a padecer. Agora,
+a verdade ultima, a verdade das verdades, é que já me arrependia de
+haver falado a minha mãe, antes de qualquer trabalho effectivo por
+parte de José Dias; examinando bem, não quizera ter ouvido um desengano
+que eu reputava certo, ainda que demorado. Capitú reflectia, reflectia,
+reflectia...
+
+
+
+
+XLIII
+
+Você tem medo?
+
+De repente, cessando a reflexão, fitou em mim os olhos de ressaca, e
+perguntou-me se tinha medo.
+
+--Medo?
+
+--Sim, pergunto se você tem medo.
+
+--Medo de que?
+
+--Medo de apanhar, de ser preso, de brigar, do andar, de trabalhar...
+
+Não entendi. Se ella me tem dito simplesmente: «Vamos embora!» póde
+ser que eu obedecesse ou não; em todo caso, entenderia. Mas aquella
+pergunta assim, vaga e solta, não pude atinar o que era.
+
+--Mas... não entendo. De apanhar?
+
+--Sim.
+
+--Apanhar de quem? Quem é que me dá pancada?
+
+Capitú fez um gesto de impaciencia. Os olhos de ressaca não se mexiam
+e pareciam crescer. Sem saber de mim, e, não querendo interrogal-a
+novamente, entrei a cogitar d'onde me viriam pancadas, e porque, e
+tambem porque é que seria preso, e quem é que me havia de prender.
+Valha-me Deus! vi de imaginação o aljube, uma casa escura e infecta.
+Tambem vi a presiganga, o quartel dos Barbonos e a Casa de Correcção.
+Todas essas bellas instituições sociaes me envolviam no seu mysterio,
+sem que os olhos de ressaca de Capitú deixassem de crescer para mim,
+a tal ponto que as fizeram esquecer de todo. O erro de Capitú foi
+não deixal-os crescer infinitamente, antes diminuir até ás dimensões
+normaes, e dar-lhes o movimento do costume. Capitú tornou ao que era,
+disse-me que estava brincando, não precisava affligir-me, e, com um
+gesto cheio de graça, bateu-me na casa sorrindo, e disse:
+
+--Medroso!
+
+--Eu? Mas...
+
+--Não é nada, Bentinho. Pois quem é que ha de dar pancada ou prender
+você? Desculpe que eu hoje estou meia maluca; quero brincar, e...
+
+--Não, Capitú; você não está brincando; nesta occasião, nenhum de nós
+tom vontade de brincar.
+
+--Tem razão, foi só maluquice; até logo.
+
+--Como até logo?
+
+--Está-me voltando a dôr do cabeça; vou botar uma rodella de limão nas
+fontes.
+
+Fez o que disse, e atou o lenço outra vez na testa. Em seguida,
+acompanhou-me ao quintal para se despedir de mim; mas, ainda ahi nos
+detivemos por alguns minutos, sentados sobre a borda do poço. Ventava,
+o ceu estava coberto. Capitú falou novamente da nossa separação, como
+de um facto certo e definitivo, por mais que eu, receioso disso mesmo,
+buscasse agora razões para animal-a. Capitú, quando não falava, riscava
+no chão, com um pedaço cie taquara, narizes e perfis. Desde que se
+mettera a desenhar, era uma das suas diversões; tudo lhe servia de
+papel e lapis. Como me lembrassem os nossos nomes abertos por ella no
+muro, quiz fazer o mesmo no chão, e pedi-lhe a taquara. Não me ouviu ou
+não me attendeu.
+
+
+
+
+XLIV
+
+O primeiro filho.
+
+--Dê cá, deixe escrever uma cousa.
+
+Capitú olhou para mim, mas de um modo que me fez lembrar a definição
+de José Dias, obliquo e dissimulado; levantou o olhar, sem levantar os
+olhos. A voz, um tanto sumida, perguntou-me:
+
+--Diga-me uma cousa, mas fale verdade, não quero disfarce; ha de
+responder com o coração na mão.
+
+--Que é? Diga.
+
+--Se você tivesse de escolher entre mim e sua mãe, a quem é que
+escolhia?
+
+--Eu?
+
+Fez-me signal que sim.
+
+--Eu escolhia... mas para que escolher? Mamãe não é capaz de me
+perguntar isso.
+
+--Pois, sim, mas eu pergunto. Supponha você que está no seminario e
+recebe a noticia de que eu vou morrer...
+
+--Não diga isso!
+
+--... Ou que me mato de saudades, se você não vier logo, e sua mãe não
+quizer que você venha, diga-me, você vem?
+
+--Venho.
 
+--Contra a ordem de sua mãe?
 
+--Contra a ordem de mamãe.
 
-PREFACE TO SECOND EDITION.
+--Você deixa seminario, deixa sua mãe, deixa tudo, para me ver morrer?
 
+--Não fale em morrer, Capitú!
 
-Since "The Sunny Side of Ireland" was issued the Royal Assent has been
-given to an Act of Parliament which makes the Great Southern and Western
-Railway foremost in every sense amongst Irish Railways. The two
-Provinces of Munster and Connaught are now knit together by a huge
-network of railway lines comprised in their amalgamated system.
+Capitú teve um risinho descorado e incredulo, e com a taquara escreveu
+uma palavra no chão; inclinei-me e li: _mentiroso._
 
-The several counties thus included are dealt with in this Second
-Edition. The volume is further enhanced by more particular information
-as to the sports and pastimes of the country, and by a valuable chapter
-on the Natural History of the South and West of Ireland, by writers of
-authority on such subjects.
+Era tão extranho tudo aquillo, que não achei resposta. Não atinava com
+a razão do escripto, como não atinava com a do falado. Se me acudisse
+alli uma injuria grande ou pequena, é possivel que a escrevesse tambem,
+com a mesma taquara, mas não me lembrava nada. Tinha a cabeça vazia.
+Ao mesmo tempo tomei-me de receio de que alguem nos pudesse ouvir ou
+ler. Quem, se eramos sós? D. Fortunata chegara uma vez á porta da casa,
+mas entrou logo depois. A solidão era completa. Lembra-me que umas
+andorinhas passaram por cima do quintal e foram para os lados do morro
+de Santa Theresa; ninguem mais. Ao longe, vozes vagas e confusas, na
+rua um tropel de bestas, do lado da casa o chilrear dos passarinhos
+do Padua. Nada mais, ou sómente este phenomeno curioso, que o nome
+escripto por ella, não só me espiava do chão com gesto escarninho,
+mas até me pareceu que repercutia no ar. Tive então uma ideia ruim;
+disse-lhe que, afinal de contas, a vida de padre não era má, e eu podia
+acceital-a sem grande pena. Como desforço, era pueril; mas eu sentia a
+secreta esperança de vel-a atirar-se a mim lavada em lagrimas. Capitú
+limitou-se a arregalar muito os olhos, e acabou por dizer:
 
+--Padre é bom, não ha duvida; melhor que padre só conego, por causa das
+meias roxas. O roxo é côr muito bonita. Pensando bem, é melhor conego.
 
+--Mas não se póde ser conego sem ser primeiramente padre, disse-lhe eu
+mordendo os beiços.
 
+--Bem; comece pelas meias pretas, depois virão as roxas. O que eu não
+quero perder é a sua missa nova; avise-me a tempo para fazer um vestido
+á moda, saia balão e babados grandes... Mas talvez nesse tempo a moda
+seja outra. A egreja ha de ser grande, Carmo ou S. Francisco.
 
-  LIST OF MAPS.
+--Ou Candelaria.
 
+--Candelaria tambem. Qualquer sorve, comtanto que eu ouça a missa nova.
+Hei de fazer um figurão. Muita gente ha de perguntar: «Quem é aquella
+moça faceira que alli está com um vestido tão bonito?»--«Aquella é D.
+Capitolina, uma moça que morou na rua de Matacavallos...»
 
-  MAP OF THE GREAT SOUTHERN AND
-  WESTERN RAILWAY AND ITS CONNECTIONS
-  IN IRELAND                                               6
+--Que morou? Você vae mudar-se?
 
-  MAP SHOWING CONNECTIONS OF THE
-  GREAT SOUTHERN AND WESTERN
-  RAILWAY IN GREAT BRITAIN                                 7
+--Quem sabe onde é que ha do morar amanhã? disse ella com um tom leve
+de melancolia; mas tornando logo ao sarcasmo: E você no altar, mettido
+na alva, com a capa de ouro por cima, cantando... _Pater noster..._
 
-  MAP OF DUBLIN CITY                                      14
+Ah! como eu sinto não ser um poeta romantico para dizer que isto era um
+duello de ironias! Contaria os meus botes e os della, a graça de um e a
+promptidão de outro, e o sangue correndo, e o furor na alma, até ao meu
+golpe final que foi este:
 
-  MAP OF ENVIRONS OF DUBLIN                               15
+--Pois, sim, Capitú, você ouvirá a minha missa nova, mas com uma
+condição.
 
-  MAP OF CORK CITY                                        72
+Ao que ella respondeu:
 
-  MAP OF ENVIRONS OF CORK                                 73
+--Vossa Reverendíssima póde falar.
 
-  PICTORIAL MAP OF KILLARNEY DISTRICT                    132
+--Promette uma cousa?
 
+--Que é?
 
+--Diga se promette.
 
+--Não sabendo o que é, não prometto.
 
-  CONTENTS.                                             Page
+--A falar verdade são duas cousas, continuei eu, por haver-me acudido
+outra ideia.
 
+--Duas? Diga quaes são.
 
-  INTRODUCTION                                             8
+--A primeira é que só se ha de confessar commigo, para eu lhe dar a
+penitencia e a absolvição. A segunda é que...
 
-  DUBLIN AND DISTRICT--
+--A primeira está promettida, disse ella vendo-me hesitar, e
+accrescentou que esperava a segunda.
 
-  DUBLIN                                                  15
+Palavra que me custou, e antes não me chegasse a sair da boca; não
+ouviria o que ouvi, o não escreveria aqui uma cousa que vae talvez
+achar incredulos.
 
-  DUBLIN DISTRICT                                         24
+--A segunda... sim... é que... Promette-me que seja eu o padre que case
+você?
 
-  LIMERICK AND DISTRICT--
+Que me case? disso ella um tanto commovida.
 
-  LIMERICK                                                46
+Logo depois fez descair os labios, e abanou a cabeça.
 
-  LIMERICK DISTRICT                                       53
+--Não, Bentinho, disse, seria esperar muito tempo; você não vae ser
+padre já amanhã, leva muitos annos... Olhe, prometto outra cousa;
+prometto que ha de baptisar o meu primeiro filho.
 
-  THE SHANNON LAKES                                       67
 
-  CORK AND DISTRICT--
 
-  CORK                                                    73
 
-  CORK DISTRICT                                           85
+XLV
 
-  THE RIVER BLACKWATER, YOUGHAL, &C.                      98
+Abane a cabeça, leitor.
 
-  WATERFORD AND DISTRICT                                 112
+Abane a cabeça, leitor; faça todos os gestos de incredulidade. Chegue a
+deitar fóra este livro, se o tédio já o não obrigou a isso antes; tudo
+é possivel. Mas, se o não fez antes e só agora, fio que torne a pegar
+do livro e que o abra na mesma pagina, sem crer por isso na veracidade
+do autor. Todavia, não ha nada mais exacto. Foi assim mesmo que Capitú
+falou, com taes palavras e maneiras. Falou do primeiro filho, como se
+fosse a primeira boneca.
 
-  KILLARNEY AND GLENGARRIFF                              133
+Quanto ao meu espanto, se tambem foi grande, veiu de mistura com uma
+sensação exquisita. Percorreu-me um fluido. Aquella ameaça de um
+primeiro filho, o primeiro filho de Capitú, o casamento della com
+outro, portanto, a separação absoluta, a perda, a anniquilação, tudo
+isso produzia um tal effeito, que não achei palavra nem gesto; fiquei
+estupido. Capitú sorria; eu via o primeiro filho brincando no chão...
 
-  LAKES AND FJORDS OF KERRY                              175
 
-  COUNTY CLARE                                           221
 
-  GALWAY AND DISTRICT                                    235
 
-  CONNEMARA AND SLIGO                                    245
+XLVI
 
-  SUMMER AND WINTER RESORTS                              256
+As pazes.
 
-  NATURAL HISTORY OF THE SOUTH AND WEST OF IRELAND       260
+As pazes fizeram-se como a guerra, depressa. Buscasse eu neste livro
+a minha gloria, e diria que as negociações partiram de mim; mas não,
+foi ella que as iniciou. Alguns instantes depois, como eu estivesse
+cabisbaixo, ella abaixou tambem a cabeça, mas voltando os olhos para
+cima afim de ver os meus. Fiz-me de rogado; depois quiz levantar-me
+para ir embora, mas nem me levantei, nem sei se iria. Capitú fitou-me
+uns olhos tao ternos, e a posição os fazia tão supplices, que me deixei
+ficar, passei-lhe o braço pela cintura, ella pegou-me na ponta dos
+dedos, e...
 
+Outra vez D. Fortunata appareceu á porta da casa; não sei para quê,
+se nem me deixou tempo de puxar o braço; desappareceu logo. Podia ser
+um simples descargo de consciencia, uma cerimonia, como as rezas de
+obrigação, sem devoção, que se dizem de tropel; a não ser que fosse
+para certificar aos proprios olhos a realidade que o coração lhe
+dizia...
 
-  SPORTS--
+Fosse o que fosse, o meu braço continuou a apertar a cintura da filha,
+e foi assim que nos pacificámos. O bonito é que cada um de nós queria
+agora as culpas para si, e pediamos reciprocamente perdão. Capitú
+allegava a insomnia, a dôr de cabeça, o abatimento do espirito, e
+finalmente «os seus calundús.» Eu, que era muito chorão por esse tempo,
+sentia os olhos molhados... Era amor puro, era effeito dos padecimentos
+da amiguinha, era a ternura da reconciliação.
 
-  CYCLING                                                278
 
-  GOLF                                                   291
 
-  RIVER FISHING                                          295
 
-  LAKE FISHING                                           299
+XLVII
 
-  SHOOTING                                               303
+«A senhora saiu.»
 
+--Está bom, acabou, disso eu finalmente; mas, explique-me só uma cousa,
+porque é que você me perguntou se eu tinha medo de apanhar?
 
-  INDEX                                                  306
+--Não foi por nada, respondeu Capitú, depois de alguma hesitação...
+Para que bolir nisso?
 
+--Diga sempre. Foi por causa do seminario?
 
-  ADVERTISEMENTS                                         309
+--Foi; ouvi dizer que lá dão pancada... Não? Eu tambem não creio.
 
+A explicação agradou-me; não tinha outra. Se, como penso, Capitú
+não disse a verdade, força é reconhecer que não podia dizel-a, e a
+mentira é dessas creadas que se dão pressa em responder ás visitas
+que «a senhora saiu», quando a senhora não quer falar a ninguem. Ha
+nessa cumplicidade um gosto particular; o peccado em commum eguala
+por instantes a condição das pessoas, não contando o prazer que dá a
+cara das visitas enganadas, e as costas com que ellas descem... A
+verdade não saiu, ficou em casa, no coração de Capitú, cochilando o
+seu arrependimento. E eu não desci triste nem zangado; achei a creada
+galante, appetecivel, melhor que a ama.
 
+As andorinhas vinham agora em sentido contrario, ou não seriam as
+mesmas. Nós é que eramos os mesmos; alli ficámos sommando as nossas
+illusões, os nossos temores, começando já a sommar as nossas saudades.
 
 
-Introduction.
 
 
-Travelling through Ireland in the good old times was at best a
-precarious and inconvenient diversion. Those who had to do so regretted
-the necessity, and those who had not, praised Providence. Many "persons
-of quality," to use Dr. Johnson's phrase, have written narratives of
-their adventures and experiences in "the most damnable country." No man
-of position, even early in the nineteenth century, would dream of
-travelling threescore miles from his residence without having signed and
-sealed his last will and testament. The highways were beset by
-"Gentlemen of the Road," such as that fascinating felon, "Brennan on the
-Moor," of whom the ballad tells--
+XLVIII
 
-  "A brace of loaded pistols he carried night and day."
+Juramento do poço.
 
-The coach roads were dangerous, the stage was deplorable, and everything
-but the scenery unpleasant. The interior and west of the country were
-connected with Dublin by canals cut in the time of the Irish
-Parliament, which followed the enterprise of the Dutch. They were looked
-upon at the time as feats of engineering skill, somewhat in the light
-that we view the Suez or Panama Canals to-day. Neville, the engineer,
-was the recipient of extravagant encomiums from the Lords and Commons,
-and his fame is embalmed in a street ballad which sings the praise of--
+--Não! exclamei de repente.
 
-  "Bold Neville,
-  Who made the streams run level
-  In that bounding river
-  Called the Grand Canal."
+--Não quê?
 
-Nowadays we have changed all that, and Neville and his skill are as
-little remembered in Ireland as the military-road cutter in Scotland, of
-whom, to show that
+Tinha havido alguns minutos de silencio, durante os quaes reflecti
+muito e acabei por uma ideia; o tom da exclamação, porém, foi tão alto
+que espantou a minha visinha.
 
-[Illustration: G. S. & W. R. Corridor Train.]
+--Não ha de ser assim, continuei. Dizem que não estamos em edade de
+casar, que somos creanças, creançolas,--já ouvi dizer creançolas. Bem;
+mas dous ou tres annos passam depressa. Você jura uma cousa? Jura que
+só ha de casar commigo?
 
-Ireland had not the monopoly in "bulls," an English admirer wrote:--
+Capitú não hesitou em jurar, e até lhe vi as faces vermelhas de prazer.
+Jurou duas vezes e uma terceira:
 
-  "If you had seen those roads before they
-    Were made,
-  You would hold up your hands and bless
-    General Wade."
+--Ainda que você case com outra, cumprirei o meu juramento, não casando
+nunca.
 
-A poor Italian boy--Charles Bianconi--who tramped through the country as
-a print-seller, was the first, in the days of Waterloo, in the south of
-Ireland, to begin really that healthy competition with the mail-coaches
-which made straight the way for the Iron Horse.
+--Que eu case com outra?
 
-The Great Southern and Western Railway was incorporated in 1845. Mr.
-Under-Secretary Drummond, the English statesman who got closest to the
-Irish heart, was identified with the construction of the line.
+--Tudo póde ser, Bentinho. Você póde achar outra moça que lhe queira,
+apaixonar-se por ella e casar. Quem sou eu para você lembrar-se de mim
+nessa occasião?
 
-Year after year the Company prospered and increased, gradually absorbing
-the smaller lines adjoining it until the year 1901, when it amalgamated
-the only two other systems of broad gauge lines in their district which
-had remained independent. Practically the two provinces of Munster and
-Connaught are now knit together by the great network of railway lines
-which comprise the Great Southern and Western System. The total length
-is about 1,100 miles. The main line stretches from Dublin, through Cork,
-to Queenstown, forming the route for the American Mails and the great
-transatlantic passenger traffic. Branches extend to Waterford, Limerick,
-Killarney, and Kerry, and every place of importance in the South of
-Ireland, while in the west the line extends from Tralee, through
-Limerick, to Sligo. The carriages which the Company provide are of the
-very latest design; vestibule corridor trains, with dining and breakfast
-cars, are run daily, and the speed of the trains will bear comparison
-with any. The journey, Dublin to Cork (165 miles) is performed in four
-hours; to Killarney (189 miles) in about fifteen minutes more, and all
-the important tourist centres can be reached within a very short time.
-The comfort of passengers is well arranged for; refreshment rooms are
-provided at the principal stations, and breakfast, luncheon, and tea
-baskets can always be had, as well as pillows, rugs, and all the modern
-conveniences of travel. Besides all this, the enterprise of the Company
-has provided at Killarney, Parknasilla, Kenmare, Caragh Lake, and
-Waterville, hotels, which for appearance and luxury, tempered by
-economy, are the equals of any in Europe.
+--Mas eu tambem juro! Juro, Capitú, juro por Deus Nosso Senhor que só
+me casarei com você. Basta isto?
 
-[Illustration: Interior of G. S. & W. R. Dining Carriage.]
+--Devia bastar, disse ella; eu não me atrevo a pedir mais. Sim, você
+jura... Mas juremos por outro modo; juremos que nos havemos de casar um
+com outro, haja o que houver.
 
-The scenery of Ireland surpasses the most roseate expectations. Within a
-comparatively small compass her scenic beauties include mountains,
-lakes, and seas, and it is the good fortune of the Great Southern and
-Western Company to have within its borders the finest scenery in the
-country. The "Skies of Erin" have been paid tribute to by artists again
-and again. Turner said the sun never seemed to set so beautifully
-anywhere as in Ireland, and Lady Butler, the well-known painter, has
-expressed the opinion that nowhere, except in the valley of the Nile,
-does the firmament put forth such varied changes of beauty as in
-Ireland. To the Gulf Stream, which strikes the south-western coast,
-scientists attribute the mildness of the climate. From Queenstown to
-Leenane the coast-line contains countless health resorts, where invalids
-may be recommended winter quarters as salubrious as many of the
-continental districts.
+Comprehendeis a differença; era mais que a eleição do conjuge, era a
+affirmação do matrimonio. A cabeça da minha amiga sabia pensar claro e
+depressa. Realmente, a formula anterior era limitada, apenas exclusiva.
+Podiamos acabar solteirões, como o sol e a lua, sem mentir ao juramento
+do poço. Esta formula era melhor, e tinha a vantagem de me fortalecer
+o coração contra a investidura ecclesiastica. Jurámos pela segunda
+formula, e ficámos tão felizes que todo receio de perigo desappareceu.
+Eramos religiosos, tínhamos o ceu por testemunha. Eu nem já temia o
+seminario.
 
-The sportsman has always found himself at home here. The fine hunting
-counties of Kildare, Tipperary, Kilkenny, and Waterford are familiar to
-every son of Nimrod. Shooting and fishing, although the preserves are
-not so many or so well kept as in Scotland, may be called the staple
-sports of Ireland. Golf has come to stay, and within recent years links
-have been laid in the vicinity of most of the tourist districts.
+**--Se teimarem muito, irei; mas faço de conta que é um collegio
+qualquer; não tomo ordens.
 
-One word for Irish industries will not be out of place. Ireland has no
-industries in the sense in which England has. With the exception of
-Belfast, there is no place in the country which approaches to a factory
-town in the sense in which that phrase is understood across the channel.
-Agriculture, of course, is the backbone of Ireland, and in connection
-with it the creamery system of the south may be mentioned. Anyone
-anxious to find a line of industry in Ireland which has beaten the Dane
-in his own market should visit Cleeves' famous factory at Limerick. The
-woollen industry in the country has withstood destructive legislature,
-and a typical example of modern success is the great tweed factory of
-Morroghs, at Douglas, County Cork. The Blarney tweeds have become a
-household word, but Douglas is shouldering them in the keen competition
-for public recognition. The great bacon-curing houses of Denny, at
-Waterford, are well worth seeing, as is also the thriving wholesome
-Co-operative Factory at Tralee. In Dublin the mammoth brewery of
-Guinness and Sons can be viewed under the conductorship of a servant of
-the firm employed for the sole purpose of showing visitors through the
-great concern. But it is the lesser industries in Ireland which are
-really attractive. The law of the survival of the fittest stands to
-these--the homespuns woven in the cottages, the beautiful Dublin poplin,
-the delicate lace of Youghal and Limerick, the exquisite pottery of
-Belleek, these good things are beyond compare.
+Capitú temia a nossa separação, mas acabou acceitando este alvitre, que
+era o melhor. Não affligiamos minha mãe, e o tempo correria até o ponto
+em que o casamento pudesse fazer-se. Ao contrario, qualquer resistencia
+ao seminario confirmaria a denuncia de José Dias. Esta reflexão não foi
+minha, mas della.
 
-[Illustration: _Photo, Lawrence, Dublin._ Sackville-street, Dublin.]
 
 
 
+XLIX
 
-Dublin and District.
-
-DUBLIN.
-
-
-The Tourist too often hurries away from Dublin to the south or west with
-but a superficial knowledge of the attractions of the city. It will well
-repay a stay, and if the visitor happens to come at Horse Show week he
-can easily believe himself sojourning in the capital of one of the
-wealthiest countries in Europe. During that short carnival each autumn
-the tears are brushed aside, and Erin is all smiles and welcomes for her
-guests. The hotels are good, the lodging-houses are clean, and moderate
-in price. The restaurants have much improved within recent years.
-Readers of Lord Mayo's encouraging articles to would-be Irish tourists
-will do well to test his tribute to "The Dolphin" in Essex-street. If
-anyone wants to see the ladies of fashion at their tea, Mitchell's in
-Grafton-street is a sure find, and the well-equipped D.B.C. tea-houses,
-which are established in several parts of the city, will meet the
-requirements of moderate purses.
-
-To attempt to mention more than a few of the more important places worth
-seeing in this city would be beyond the intention of these pages.
-Stretched beneath the beautiful Dublin Mountains the city scatters
-itself about the sides of the River Liffey. To get from one place to
-another in Dublin is simplicity itself. The electric-tram system is
-equal to any in Europe, and excels most in the cheapness of its fares.
-The cars run through the principal streets and along the quay sides to
-the suburbs. A good view of the city may be had from the top of a tram
-on a fine day. Those who wish to suit their own convenience, however,
-will always avail themselves of the outside car. The jaunting car is to
-Dublin what the gondola is to Venice--at least an imaginative Irish
-Member of Parliament has said so, and that settles the matter. When
-selecting an "outside" take care that you secure one equipped with a
-pneumatic tyre. The Dublin driver is much maligned, he is generally
-courteous, and not without humour. The municipal authorities supply him
-with a list of fares and distances. He is bound to produce it should any
-difficulty arise as to the financial relations, which sometimes happens.
-
-[Illustration: _Photo,, Lawrence, Dublin._ Shelbourne Hotel,
-Stephen's-green.]
-
-Dublin was an old fortress of the Danes. They held the whole eastern
-seaboard of Ireland until 1014 when Brian Boru defeated them and broke
-their power at the battle of Clontarf. Historic remains of the old
-city--the Ford of the Hurdles the Irish call it--there are none. The
-Danes, the Normans, the Elizabethan, the Cromwellian, the Jacobite, all
-made history in Dublin in their day, but the city as it stands is
-practically modern. Between the Rotunda, one of the finest maternity
-hospitals in the world, and St. Stephen's Green, the beautiful park
-presented to the citizens by Lord Ardilaun, the principal buildings in
-the city lie. The College Green, however, forms a natural centre from
-which to make a short tour. The magnificent portico of the Bank of
-Ireland--formerly the Irish House of Parliament--is characterized by
-surprising dignity of proportion. Visitors can witness the printing of
-bank notes. The Irish House of Lords, which remains unaltered, is an
-oblong room with recess for throne at one end. Within may be seen two
-valuable Dutch tapestries, the one representing the famous Siege of
-Derry, and the second the Battle of the Boyne. Immediately outside "The
-Old House at Home," as the historic building is affectionately called by
-Irishmen, is a noble statue of Henry Grattan. He was the people's
-darling from 1782, when the Volunteers mustered in College-green, up to
-1800, when the Act of Union was passed. Behind Grattan stands the old
-leaden statue of William III., erected in 1701. This equestrian figure
-of "King Billy," as the prince of glorious, pious, and immortal memory
-is familiarly known, has been the centre of, in its time, much mischief
-and merriment. Up to 1822 His Majesty was annually decorated with orange
-ribbons to celebrate the anniversary of the Battle of the Boyne. This
-party demonstration was always resented by the populace, and King Billy
-came in for no end of ill-treatment. However, he has braved the battle
-and the breeze.
-
-Turning from the Bank we face the University, in front of which stand
-fine bronze statues of its distinguished sons, Edmund Burke and Oliver
-Goldsmith. The University, unlike its sisters, Oxford and Cambridge,
-contains but a single college--that of the Holy and Undivided
-Trinity--founded by Adam Loftus in Elizabeth's reign. Visitors to the
-College should be shown the chapel halls, museum, and library, and grand
-quadrangles, including Lever's notorious "Botany Bay." While in the
-library the world-famous "Book of Kells" may be inspected, and the
-enduring qualities of its marvellous illuminations admired. The College
-park is very beautiful, and during the College races at midsummer
-presents quite a gala sight.
-
-[Illustration: _Photo,, Lawrence, Dublin._ Dublin Castle.]
-
-In Dame-street most of the Irish banks have their offices. At the end of
-the street furthest from the College is the City Hall. The building was
-originally the Royal Exchange, but in the middle of the nineteenth
-century it was handed over to the Dublin Corporation. The Corinthian
-columns which form the portico are very handsome. The entrance is
-modern, the older structure having given way in "the troubled times,"
-while a crowd of citizens were beguiling the time watching a public
-whipping of a malefactor from the steps. The centre hall is crowned with
-a decorated dome. The hall contains statues of O'Connell,
-Under-Secretary Drummond, Grattan, and Dr. Lucas, a publicist in
-eighteen-century Dublin. The Council Chamber is well furnished, and some
-of the portraits of former Lords Mayor are very fine. Immediately behind
-the City Hall is Dublin Castle, far from being the imposing structure
-those familiar with its history may suppose. The Lower Castle Yard is
-entered from Palace-street. It contains the Birmingham Tower, a modern
-structure replacing the fortress, some of the walls of which still
-stand, from which the fiery Red Hugh O'Donel, Prince of Tyrone, escaped.
-The Castle Chapel is beside the Tower, and permission to visit it is
-easily obtained. Among the things of interest in the chapel are the
-emblazoned arms of all the Irish viceroys. The wood work throughout is
-Irish oak, and there are ninety heads in marble to represent the
-sovereigns of England. St. Patrick's Hall, the Throne-room, and the Long
-Drawing-room are the most important of the State apartments. While in
-the vicinity of the Castle, St. Patrick's Cathedral should be visited.
-Founded so long ago as 1190, this cathedral, dedicated to the Apostle of
-Ireland, has had a chequered history. Mostly Early English in
-architecture, modern styles have been grafted on the building without
-consistency or unity of ideal. The monuments are many. Dean Swift's
-bears an inscription written by himself and breathing the hatred of
-oppression and love of liberty characteristic of the writer--
-
-  "Hic depositum est corpus
-  JONATHAN SWIFT, s. t. d.
-  Hujus Ecclesiae Cathedralis Decani
-  Ubi saeva indignatio
-  Ulterius cor lacerare nequit
-        Abe Viator
-  Et imitare si poteris
-  Strenuum, pro virili,
-  Libertatis vindicatorem,
-  Obiit 19° die mensis Octobris, A.D. 1745,
-        Anno Aetatis 78."
-
-Hard by is a white marble slab in memory of her whose name must be for
-ever associated with that of Swift--"Stella." Ten minutes' walk through
-Patrick-street will bring one from St. Patrick's to the most interesting
-ecclesiastical structure in Dublin--Christ Church Cathedral. An old
-Danish foundation, fire and time laid hands upon the original
-building. Its restoration is a triumph of architectural genius in the
-reproduction of thirteenth-century English Gothic. Strongbow's tomb is
-the famous monument of the place. The Crypt contains, besides other
-antiquities, the old City stocks, which is some three centuries old.
-Other places worth seeing in the city are the Four Courts, the Custom
-House, the Pro-Cathedral, Marlborough-street, St. Michan's Church and
-Churchyard, and the Church of St. Francis Xavier, Gardiner-street. The
-general architecture in the streets is incongruous, and the modern
-"improvements" not always desirable. In the back streets here and there
-the quaint gables as old as Queen Anne still survive, but the Dutch
-houses have almost entirely, and the Cage houses have entirely,
-disappeared.
-
-[Illustration: _Photo, Lawrence, Dublin._ Custom House, Dublin.]
-
-Leinster Lawn, or the Duke's Lawn, as the man in the street in Dublin
-still calls it, contains, among other attractions, the National Gallery,
-Museum, and Public Library. These are store houses of treasure. The
-catalogue of the Gallery reveals a valuable collection of paintings, and
-the Museum contains an unique exhibition of gold, silver, and bronze
-ornaments, collars, brooches, shields, clasps, and spears, which were
-found from time to time throughout Ireland, and are evidence of her
-former civilization. The Royal Irish Academy, in Dawson-street,
-possesses a rich collection of ancient Irish manuscript.
-
-[Illustration: _Photo, Lawrence, Dublin._ National Library, Dublin. Four
-Courts, Dublin.]
-
-The cemeteries of Dublin are small, except Glasnevin. A drive through
-the Phoenix Park will bring one by the embanked river or through the
-northern side of the city. An inquisitive tourist asked an Irish driver
-why the Park was so called, when there was no such bird ever in the
-world. "Sure that's the reason," said the driver. "Sure there's no such
-Park in the world either." Lord Chesterfield put up a column with a
-Phoenix in the Park, but of old its name was Parc-na-Fionniake (the
-field of the clear water). It lies on the northern bank of the river
-celebrated by Sir Samuel Ferguson:--
-
-  "Delicious Liffey, from the bosoming-hills
-    What man who sees thee issuing strong and pure
-  But with some wistful, fresh emotion fills,
-    Akin to nature's own sweet temperature;
-  And haply thinks:--On this green bank 'twere sweet
-    To make one's mansion sometime of the year,
-  For health and pleasure on these uplands meet,
-    And all the Isle's amenities are here."
-
-Long ago the St. John's Hospitallers had their house at Kilmainham, and
-the lands belonging to the Order lay about either side of the stream.
-The Hospice is now the Old Man's House--an Asylum for Disabled Soldiers,
-designed by Sir Christopher Wren--and possesses one of the finest halls
-in Europe. The lands have been built over at Inchicore, and on the other
-side of the river formed into the Phoenix Park, containing close on
-two thousand acres, and bounded by a circumference of seven miles. The
-Park contains the lodges of the Viceroy and the Chief Secretary for
-Ireland, and the monuments to Lord Gough, Lord Carlisle, and the
-"overgrown milestone," as the obelisk to the Duke of Wellington has been
-called. The People's Gardens have been laid out with great taste, but
-they cannot compare with the natural beauty of the Furze Glen with its
-deep shade and silent lake. Visitors in the summer time should not fail
-to drive from Knockmaroon gate, beside the Liffey, to "The Strawberry
-Beds." Here, in the season, delicious fruit, fresh from the gardens, and
-rich cream, can be had in most of the cottages beside the road.
-
-
-DUBLIN DISTRICT.
-
-[Illustration: _Photo, Roche, Dublin._ Round Tower and Church at
-Clondalkin.]
-
-The country in the immediate vicinity of Dublin contains much that is
-picturesque. The scenery along the coast has in general been already
-referred to. But Killiney, Bray, and Howth, if time permits, should be
-visited. The train and tram facilities are sufficient. Wicklow County
-has been called the Garden of Erin, and on no account should a visit to
-Glendalough or "The Meeting of the Waters" in the Vale of Avoca be
-deferred. But those who wish to speed on to the south or west will do so
-from the Kingsbridge Terminus. From here we pass through Inchicore, the
-busy thriving hive of industry, where the Great Southern and Western
-Railway have their engineering works. The first station we come to is
-that of ~Clondalkin~. The old village sits snuggled up at the foot of
-its round tower, which is one of the best specimens of that early
-architecture in Ireland, of which the poet says:
-
-  "Two favourites hath Time--the Pyramids of Nile
-  And the old mystic temples of our own dear Isle."
-
-[Illustration: _Photo, Roche, Dublin._ Salmon Leap, Lucan.]
-
-[Illustration: _Photo, Roche, Dublin._ Castletown House.]
-
-[Illustration: _Photo, Roche, Dublin._ Carton House, Maynooth.]
-
-Irish antiquaries for generations have squabbled over these famous
-"Pillar Towers of Ireland," but the general trend of scientific opinion
-is that they are of early Christian origin. Father Matt Horgan, a famous
-Munster antiquary, humorously started the theory that they were built to
-puzzle posterity, which they have very successfully done. ~Lucan~ is a
-health resort, possessing a sulphur spa, and situated in a well-wooded
-country above the Liffey. The Hydropathic stands well sheltered and
-commanding a splendid view. The drives in the district are many, and the
-antiquarian will find much of interest. In Lord Annaly's demesne are the
-remains of an early Norman castle, and in the vicinity is an ancient
-Rath and souterraine. The drive to the Salmon Leap, at Leixlip, should
-not be missed. Near by is ~Castletown~, the palatial mansion of the
-Connolly family, and a grotesque structure known as "Connolly's Folly,"
-which was built in the time of the famine of "Black '47" to give
-employment. Here, too, the great Dean of St. Patrick's beguiled his time
-at "The Abbey," the home of Esther Vanhomrigh, the "Vanessa" of his
-strange life. From Lucan Maynooth may be reached. Here is St. Patrick's
-National College for the education of priests for the Catholic Church,
-originally founded on a Government grant. "Carton House," in the
-vicinity, is the residence of the Dukes of Leinster. It is surrounded by
-beautiful parks, well planted, among the trees the royal oaks, for which
-Kildare was celebrated, being conspicuous. ~Straffan~ may be called a
-"hunting village," as the meets of the famous "Killing Kildares" most
-usually take place in its neighbourhood. Here, too, are the seats of
-Lords Cloncurry and Mayo. The thriving market town of ~Naas~ is two
-miles from Sallins, and is the railway station for Punchestown, the
-great steeplechase meeting of the Kildare Hunt. Long centuries ago it
-was an historic spot--"Naas of the Kings." From the station may be seen
-the Hill of Allen, rising like a sentinel on the mearings of the "Great
-Plain of Ireland." ~Harristown~, the second station on a branch line, is
-about three miles from Poulaphouca Waterfall. The road to the Falls
-leads through the picturesque village of Ballymore-Eustace, situated on
-a bank at a bend in the river Liffey. The view from the river below the
-Falls is very impressive. Tullow is the terminus of this branch of the
-line. It is a good business town, and the river Slaney affords excellent
-trout fishing. Within half-an-hour's walk from Sallins is Bodenstown
-Churchyard, where Theobald Wolfe Tone, the founder of the United Irish
-Organisation of 1798, is buried. He was the most desperate man who ever
-crossed the path of the English Government in Ireland. "The most
-extraordinary man I ever met," is the verdict of the Duke of Wellington.
-"He went to France with but one hundred guineas in his pocket, and
-induced Bonaparte, by his single unaided efforts, to send three
-armaments to Ireland." Six and twenty miles from Dublin, the town of
-~Newbridge~ exists as a kind of aide-de-camp to the Commissariat
-Department of the ~Curragh Camp~. The Curragh, a great plain over twelve
-miles square, was once a common, the property of the Geraldine tenants,
-but the Crown quietly seized upon it, and "their right there is none to
-dispute." It has been made a camp of instruction, and can accommodate,
-under more or less permanent cover, ten thousand men. It is in a good
-fox-hunting, sporting country, "the country of the short grass," and
-several times a year is the scene of race meetings. It is the Newmarket
-of Ireland, for here are the training stables for Punchestown,
-Fairyhouse, Leopardstown, Baldoyle, and all the lesser meetings in the
-Green Isle, and many of the greater ones across the water. The Curragh
-was the scene of more than one battle in centuries past, and, like Tara,
-was one of the historic places chosen in the minds of the insurgents of
-Ninety-eight as an ideal mustering point. The Curragh District Golf Club
-has been formed by the military stationed there. ~Kildare~, some thirty
-miles from Dublin, is the junction for the Kilkenny branch of the line.
-The town is very old, being, in the early Christian era, a cell of St.
-Bride, a patroness of Ireland. The ancient cathedral has been partly
-rebuilt, and in the south transept is the vault of the Earls of Kildare,
-progenitors of the Leinster line. These Geraldines were the most famous
-of the Norman invaders:
-
-
-  "And, oh! through many a dark campaign
-    They proved their prowess stern,
-  In Leinster's plains and Munster's vales
-    On king, and chief, and kern;
-
-  But noble was the cheer within
-    The halls so rudely won,
-  And generous was the steel-gloved hand
-    That had such slaughter done.
-  How gay their laugh, how proud their mien,
-    You'd ask no herald's sign--
-  Amid a thousand, you had known
-    The princely Geraldine."
-
-[Illustration: _Photo, Roche, Dublin._ The Liffey, near Celbridge.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Curragh Military Camp.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Curragh Military Camp.]
-
-The Round Tower in the graveyard, which is one hundred and three feet
-high, is perfect, except that the original cap has been replaced with a
-battlement, out of character with the rest. The old castle stood by, to
-guard the church and tower, and what remains of it has been turned to
-use as a tenement. The Earls of Kildare were often warring with the
-Kings of England. The Archbishop of Cashel one time protested to the
-King against the Earl burning down his cathedral, and the Earl, when
-reprimanded, explained to the King in person that he would not have done
-so had he not thought that the Archbishop was inside the church at the
-time. This was the same Earl of whom the Parliament complained that "all
-Ireland could not govern the Earl of Kildare." "Then," said the King,
-"let the Earl of Kildare govern all Ireland," and he was appointed Lord
-Deputy, and made an excellent one. From Kildare, Carlow, twenty-six
-miles distant, and Kilkenny, fifty-one, are the principal stations on
-the line which terminates at Waterford. ~Carlow~ is an old town which
-belonged to the hereditary enemies of the Fitzgeralds, the Butlers of
-Ormonde. It is beautifully situated, surrounded by fine trees, and built
-on the picturesque Barrow. There is splendid water-power above the town,
-and it was the first place in Ireland that was lighted with electricity.
-~Kilkenny~, the marble city, easily induces the visitor to linger within
-its walls and enjoy fully the attractions of the river Nore. Long ago it
-was a keep of "Dermott of the Foreigners," "who had grown hoarse from
-many shoutings in the battle," and was given by him as a dowry with
-his beautiful daughter Eva to Strongbow. Afterwards it passed, by
-purchase, into the possession of the Butlers, Lords of Ormonde. Here a
-Parliament was held in 1367, which endeavoured by law to prevent the
-absorption of the newcomers by the old Irish race. It tainted the blood
-of all who gave their children into fosterage with Irish women, and
-penalised the usage of Irish dress and customs. It made it a capital
-offence for any of English blood to marry an Irish woman, which was
-humorous enough when we remember that Strongbow, "the first of the
-foreigners," did so. But the statute was of no avail, and the Butlers in
-time became as big rebels as the Geraldines. Here, in 1642, the
-Confederate Catholics held their Parliament. Among other things they
-drafted a scheme of local government for the country, and set up the
-first printing press in Ireland. ~St. Canice's Cathedral~, the Round
-Tower, one hundred feet high, the Black Abbey, and Franciscan Friary,
-are the principal ecclesiastical objects of interest. The Round Tower is
-at the southern side of the Cathedral. This latter building, which is of
-an Early Pointed Style, was founded in the twelfth or thirteenth
-century. The pavement is of the famous Kilkenny marble. The principal
-object of interest in the building is St. Kieran's Chair, against the
-wall in the northern transept.
-
-[Illustration:]
-
-[Illustration: _Photo, Lawrence, Dublin._ Kilkenny Castle.]
-
-The grounds of the Franciscan Friary have been overbuilt by a brewery,
-but the fine seven-light window and tower still stand. The ~Black
-Abbey~, a thirteenth century foundation, has come back into the
-possession of the Order of Preachers, or Dominicans, who have restored
-it. The small parish church near the northern transept of St. Canice's
-contains a window commemorative of Lieutenant Hamilton, V.C., of
-Inistioge, who was killed in the massacre of the Cavagnari Expedition by
-the Afghans in 1879. From the market place, Kilkenny Castle, the noble
-seat of the Butlers, may be entered. In the absence of the family of
-the Marquis of Ormonde, the public are allowed to visit the castle. It
-is a practically modern residence, built into the ancient walls; and
-three of the imposing watch towers of bygone years survive. The hall of
-the castle is decorated with beautiful Spanish leather work, and the
-rich tapestries on the staircase were wrought in the sixteenth century,
-on looms set up in the town by Flemings. Besides the family plate,
-jewels, and heirlooms--which are displayed in several apartments--the
-picture gallery is exceptionally attractive. Among its treasures are
-Murillo's "St. John," Corregio's "Marriage of St. Catherine," and
-Giordano's "Assumption of the Blessed Virgin." From St. John's Bridge,
-above the Nore, a splendid view of the castle may be seen. There is a
-pleasant pathway under the castle wall, along the river side from the
-bridge. From Kilkenny many interesting excursions may be made. To
-~Kells~, twelve statute miles, where there are the ruins of an important
-twelfth century priory. Two miles from Kells is Kilree, where are
-situate a ruined church, Round Tower, and Celtic cross, and a remarkable
-tomb slab in the church, on which is an ancient symbolic sculpture of a
-cock-in-a-pot crowing. Three miles from Kilree is Aghavillar, with
-ruined church, attached castellated house, and Round Tower. About seven
-miles from the city is the Cave of Dunmore, a stalactite cavern worth
-seeing. ~Thomastown~, on the line to Waterford, was formerly a walled
-town. It is less than two miles from Jerpoint Abbey, the ruins of which
-are interesting. It was founded by Donough Tiernach, Chief of Ossory, in
-1180. The style is Early Norman, but the turrets and battlements are
-fifteenth century work.
-
-[Illustration: _Photo, Lawrence, Dublin._ Picture Gallery, Kilkenny
-Castle.]
-
-Cromwell, who is discredited with destroying places in Ireland where he
-never was, is said to have passed by Jerpoint without molesting it, but
-when the peal of bells rang out in thanksgiving, he took it for a
-challenge, and returned and sacked the place. In Cork he melted down the
-chapel bells, saying that "as it was a priest that invented gunpowder,
-the best thing that could be done with chapel bells was to make them
-into cannons," which he did.
-
-If, instead of branching off the main line at Kildare, we continue along
-it in the south-western direction.
-
-~Monasterevan~, which was an old ecclesiastical place of importance, now
-insignificant except for its malting houses and distillery. The Marquis
-of Drogheda's demesne and residence, Moore Abbey, stands in the centre
-of the well-wooded lands, which were formerly monastic property.
-~Portarlington~, a small town on the Barrow, has the seat of the Earl of
-Portarlington. The river divides the town, and is the boundary here
-between Kildare and the Queen's County. The Irish name of this place is
-Coltody; but in the time of the "Merrie Monarch" it was given to a court
-favourite, Lord Arlington, who here built a little harbour on the
-Barrow, whence its name. In the townland of Deer Park, near the town,
-there is still a colony of pure Huguenot descent. Portarlington is the
-junction of the branch line running to Athlone.
-
-~Maryborough~ is pleasantly situated on the river side. From the Rock of
-Dunamaise, an old fort of "Dermot of the Foreigners" in an almost
-impregnable position, there is a splendid view of the Slieve Bloom
-mountain ranges. At Ballybrophy is the junction for the Parsonstown and
-Roscrea and Nenagh branches. ~Roscrea~, under the Devil's Bit mountains,
-has celebrated ecclesiastical remains and a modern Cistercian Monastery,
-the parent house of which is the famous Mount Melleray Abbey. Among the
-ruins of interest to the antiquary are the remains of Augustinian and
-Franciscan foundations, and a Round Tower, about the foot of which St.
-Cronan had one of the early schools in Ireland in the sixth century. A
-square tower of the Butlers and a tower of Prince John's Castle will
-repay attention. ~Birr Castle~, the seat of the Earl of Rosse at
-Parsonstown, is surrounded by a fine park. It is remarkable for its
-mammoth telescopes, one of which is fifty-two feet long, with a speculum
-six feet in diameter. Nenagh, at the foot of the Silvermines and Keeper
-mountains (2,278 feet), is a stirring market town, and possesses a
-Norman keep in fair preservation. Birdhill brings us to the Shannon, the
-attractions of which are dealt with in another chapter.
-
-[Illustration: _Photo, Lawrence, Dublin._ Birr Castle.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Lord Rosse's Telescopes at
-Birr.]
-
-[Illustration: _Photo, Roche, Dublin._ The Bridge, Athlone.]
-
-The branch line which runs from Portarlington to Athlone, runs right
-through the Bog of Allen. It is available for through passengers for
-Connemara. For miles, the undulating bog land, green and brown. The
-~King's County~ still remains out of the primeval forests, and its great
-peat fields are the only source of wealth to the surrounding peasantry.
-~Athlone~, some two miles below Lough Ree, on the Shannon, is the
-military key to the Province of Connaught. The keep of the old Castle,
-dating from King John's reign, remains, but the bridge and salmon weir
-are of more interest. In 1691 Ginckle besieged the town on the eastern
-bank, but a handful of Irish troops held the Connaught side, desiring to
-keep the position until St. Ruth arrived. The defence of the bridge is
-one of the most gallant exploits in Irish history. Colonel Richard
-Grace, who held the position for the Jacobites, was offered security in
-his estates and military honours, if he surrendered, by the Duke of
-Schomberg. At night, when the offer reached the Jacobite general, he was
-in his quarters, playing the familiar Irish card game of spoil-five with
-his officers. The six-of-hearts happened to be the "deckhead." Grace
-took it from the pack and wrote on the back, "It ill becomes a gentleman
-to betray his trust," and gave it to the Williamite messenger. The
-"six-of-hearts" is still known as "The Grace's Card," especially in
-Kilkenny, where the general's estates were. From Athlone excursions may
-be made to Auburn, eight miles; Clonmacnoise, ten Irish miles; and to
-Lough Ree. Lissoy, where Goldsmith spent his childhood, there can be
-little doubt, was the original of--
-
-  "Sweet Auburn, loveliest village of the plain."
-
-It is a pleasant drive, the road from Ballykeeran skirting Lough
-Killinure. Lough Ree, three miles from Athlone, is low-lying, some ten
-miles long, and in parts prettily wooded. There is a small archipelago
-in the northern end, of which pretty "Hare Island" is the residence of
-Lord Castlemaine. The Seven Churches of Clonmacnoise formed the old city
-of St. Kieran, whose feast day is the 9th September. There are two Round
-Towers, O'Rourke's and M'Carthy's; a Holy Well, the Cairn of Three
-Crosses, Relich Calliagh, founded by Devorgilla, who bewitched Dermot of
-the Foreigners. Teampul-Kieran is a small cell. Teampul-Connor has an
-interesting tenth century doorway, and in Teampul-Fineen the chancel
-arch still remains, and the piscina can be traced. Teampul-Ree has two
-round-headed lights and a lancet window, twelfth century work. The
-~Great Cross of the Scriptures~ is inscribed with Gaelic, "a prayer for
-Flan, son of Malseclyn," and "a prayer for Colman, who made this cross
-for St. Flan," referring to the ninth century monarch of Meath, and to
-Colman, Abbot, early in the tenth century, of Clonmacnoise. The cross is
-fifteen feet high, and its panels were sculptured with Scriptural
-scenes, interlined with Celtic tracery.
-
-[Illustration: _Photo, Roche, Dublin._ The Shannon at Athlone.]
-
-[Illustration: _Photo, Lawrence, Dublin._ At Clonmacnoise.]
-
-  "In a quiet, watered land, a land of roses,
-    Stands St. Kieran's city fair;
-  And the warriors of Erin in their famous generations
-    Slumber there.
-
-  "There, beneath the dewy hillside, sleep the noblest
-    Of the Clan of Conn;
-  Each below his stone with name in branching Ogham,
-    And the sacred knot thereon."
-
-    For information as to Sport to be had in the Dublin District, see
-    end of this volume, where particulars are given as to Golf, Fishing,
-    Shooting, &c.
-
-[Illustration]
-
-
-
-
-Limerick and District
-
-[Illustration]
-
-LIMERICK.
-
-
-Leaving ~Limerick Junction~, between it and Limerick City, there are few
-places of interest. The country side is very rich, and is the centre of
-the Creamery Co-operative system. At Boher is Glenstal, the residence of
-Sir Charles Barrington. The demesne contains the Ilchester Oaks, with
-which the country people associate a romance. The story is told in
-detail in Lefanu's "Seventy Years of Irish Life." At Caghercullen, which
-is now part of Glenstal Demesne, early in the last century lived Squire
-O'Grady, an old _grandee_ of Limerick; he was a fox-hunting widower, and
-his beautiful and only daughter was the cynosure of all eyes. When she
-came out at a Limerick hunt ball the little beauty captivated Lord
-Stourdale--eldest son to Lord Ilchester who was then with his regiment
-at Limerick. O'Grady's keen eye soon discerned that the young people
-were falling in love with each other. Proud of his family as the
-Irishman was, he feared his position was such that an English lord may
-not look on an alliance with favour. He wrote a friendly letter to Lord
-Ilchester--in order to prevent trouble--saying that, as an elder man, he
-perceived that his son was about getting into a scrape, and it would be
-well to have him brought home or sent on active service. Stourdale
-disappeared; and Lord Ilchester wrote thanking the squire, and notifying
-that an old military friend--a Colonel Prendergast--would call and thank
-him personally. The colonel came in good time, and partook of O'Grady's
-hospitality. As he was leaving, he mentioned to the squire that he
-thought his beautiful daughter was falling into bad health. O'Grady,
-with brusque confidence, said that she had been fooling about Stourdale,
-but would soon forget him. Lovers will rejoice at the sequel of the
-romance. Colonel Prendergast discovered himself as Lord Ilchester, and
-expressed his gratification at the possibility of having such a wife for
-his son. There was the usual happy marriage; and the present Earl of
-Ilchester and the present Earl of Lansdowne, can claim descent from
-Maureen O'Grady.
-
-~Limerick~.--Like most of the Munster seaboard towns, it was built by
-the Danes; and it was the cock-pit of the fights between the Ostmen and
-the warlike clans who followed O'Brien's banner in the early centuries.
-It made history in Cromwell's days, and until recently the old house
-occupied by Ireton stood within its streets. Ireton sentenced many men
-of eminence to death during the short triumph of Cromwell. Among the
-most noble of the cavaliers who died at Limerick was Geoffrey Barron of
-Clonmel, a young Irish lawyer who acted as civil secretary to the
-Confederates. With exquisite cruelty he was sentenced to be executed
-upon the morning which had previously been fixed for his wedding. He
-asked, as a favour, that he should be permitted to wear his bridegroom
-attire on the scaffold, and Ireton granted the boon.
-
-He made a brave show amid the crop-eared Roundheads.
-
-[Illustration: _Photo, Lawrence, Dublin._ Treaty Stone, Limerick.]
-
-  "Taffeta as white as milk,
-  Made all his suit.
-  Threads of silver in the silk
-  Trailed like moonlight through it.
-  Silver cap and white feather,
-  Stepping proud and high,
-  In his shoon of white leather,
-  Came Geoffrey Barron to die.
-  Then the Roundhead general said,
-  Fingering his sword--
-  Art thou coming to be wed,
-  Like a heathen lord?
-
-  "Go! thy pride thy scaffold is,
-  Give her sigh for sigh.
-  Breath for breath, and kiss for kiss,
-  For Geoffrey Barron must die.
-  But he laughed out as he ran
-  Up the black steps;
-  Never happier bridegroom man,
-  With his wife's lips.
-  If for mortal woman's sake,
-  In silks should go I,
-  I shall for heaven the same pains take,
-  Now, Geoffrey Barron must die."
-
-But the name of Limerick scintillates in those glowing chapters in its
-country's history, when it stoutly withstood the valour and prowess of
-the great soldier-king, William of Orange. Sarsfield, Earl of Lucan, the
-beloved of damsels and dames, was the hero of this period. A handsome,
-large-limbed, brawny soldier, towering over the tallest of his dragoons,
-and true as the steel he wore, he was a fitting leader of a forlorn
-hope. Originally, one of the "Gentlemen of the Guard" under the Merrie
-Monarch, his defence of Limerick was a military achievement worthy of
-the ambition of any general; nor were his Williamite opponents slow to
-cordially appreciate his valour. But he was fated to die, "on a far,
-foreign field." The sieges of Limerick led up to its name of the City of
-the Broken Treaty. William of Nassau, having routed King James in
-August, 1690, invested the city with 35,000 men. Tyrconnel and Lauzun,
-Commander of the French allies, had cleared out, considering that the
-place could not be defended. Sarsfield, although not in command, with
-other kindred spirits, decided to defend the position. The heavy
-ordnance of the Williamites, while on the way to the scene of siege, was
-surprised at night at Ballyneety by Sarsfield and a hero called
-"Galloping O'Hogan," and the guns spiked and the ammunition mined and
-fired. Auxiliary artillery was, however, brought into camp, and the
-assault delivered. The guns breached the walls, the outworks were
-carried, but before the garrison could pour in, the townspeople--men and
-women--the latter, vieing in valour, flowed out and swept away all
-opposition. The siege was raised. But a year later, Ginckle again
-invested the place by land and sea. After three months' defence,
-Sarsfield agreed to capitulate, the chief conditions of the treaty
-being, that Catholics should be admitted to practice their religion
-without hindrance, and that the Jacobite garrison should march out with
-the honours of war. The latter condition was kept, but when Sarsfield
-and his regiments had gone beyond the seas, the former was shamefully
-violated. By the Thomond may be seen the Treaty Stone, on which the
-capitulation papers were signed, October 3rd, 1691. In the Cathedral
-place is the modern monument to Sarsfield. The castle, which was built
-by King John--now a store--is an excellent example of the military
-architecture introduced into Ireland by the Normans. The Shannon, the
-largest river in Ireland, flows through the city. Limerick lace is
-valued wherever people of taste are. The industry still thrives; but the
-former greatness of the glove manufacturers has departed. Bacon curing
-is the great industry of the city to-day, and the names of Denny,
-Matterson, and Shaw--the principal manufacturers--have become household
-words. The greatest factory in Limerick, however, is belonging to the
-famous Condensed Milk Company, organized through the enterprise of Sir
-Thomas Cleeve. The milk of some 15,000 cows contributes to the huge
-output of this great concern.
-
-[Illustration: _Photo, Lawrence, Dublin._ Sarsfield Statue, Limerick.]
-
-[Illustration: _Photo, Lawrence, Dublin._ At Castleconnell, near
-Limerick.]
-
-
-LIMERICK DISTRICT.
-
-From Limerick tours may be made into North Kerry by rail, or by combined
-steamer and coach service along the Shannon lakes and shores. The
-amalgamation of the railway services in the south and west of Ireland
-has contributed greatly to the many facilities which, with an improved
-railway accommodation, now await the tourist.
-
-[Illustration: _Photo, Lawrence, Dublin._ Falls of Doonass-River
-Shannon.]
-
-Some seven miles from Limerick, and about the same distance from
-Killaloe, is the pretty little town of ~Castleconnell~. The place was of
-yore a stronghold of the O'Brien's, and to-day the remains of the old
-castle from which the village takes the name still stand. During the
-Jacobite wars the place was of importance as one of the military keys to
-the Province of Connaught, and Sarsfield and Ginkel alternately
-garrisoned and fought for its possession. The village is situated
-delightfully beside "The lordly Shannon," and is famous as a resort for
-anglers. The scenery in the immediate vicinity is unsurpassed, and the
-Shannon here has been described as possessing "The majesty of the Amazon
-with the grandeur of the Rhine." Taking the well-appointed Shannon Hotel
-as our centre many most enjoyable excursions can be made to the
-beautiful places in the adjoining district. The hotel itself is only
-five minutes' walk from the far-famed Rapids of Doonass, and beside the
-celebrated Chalybeate Spa. Beneath a list of excursions is given of some
-of the pleasant driving and boating trips that may be made. It cannot
-pretend to be exhaustive, however, and is only offered as suggestive.
-Assume that the visitor has three days at his disposal--
-
-     ~First Day.~--Start from Hotel, walk to Chalybeate Spa, World's
-     End, Old Castle and Grounds (admission by pass), cross River at
-     Ferry, walk to "Old Turrett," from which a grand view of the
-     "Rapids" may be obtained--the Scenery at this particular point is
-     unsurpassed--visit St. Synan's Well, return to Hotel, drive to
-     "Clare Glens," see the Cascades--this is one of the most
-     picturesque spots imaginable and well repays a visit.
-
-     ~Second Day.~--DAY TRIP ON THE LORDLY SHANNON (LOUGH
-     DERG).--Take train from Castleconnell Station at 10.40 a.m.
-     for Killaloe where the Shannon Development Co.'s Steamer awaits the
-     arrival of the Train to convey passengers for a Cruise on Lough
-     Derg. Steamer returns to Killaloe about 5.30 p.m., the Train leaves
-     Killaloe at 6.10 p.m. for Castleconnell, arriving at 6.41 p.m.; or
-     take car from Hotel to meet the 8.15 a.m. Steamer at Killaloe for
-     Portumna, return by down Steamer to Killaloe, thence by 6.10 p.m.
-     Train for Castleconnell. This Cruise embraces the whole length of
-     Lough Derg, and affords a grand combination of lake and mountain
-     scenery.
-
-     ~Third Day.~--A selection from the following may be made:--
-
-  (_a_) Drive to Limerick City. See its magnificent Churches,
-  Treaty Stone, etc, etc.
-
-  (_b_) To Killaloe. St. Flannan's Cathedral, a very ancient edifice,
-  Oratory with stone roof, Brian Boru's Fort, and Cragg
-  Hill, from which a very pretty view of Lough Derg may be
-  obtained.
-
-  (_c_) To Glenstal Castle and Grounds (admission by pass).
-
-  (_d_) To Keeper Hill. A splendid panoramic view of the
-  surrounding country afforded from the summit of this Hill,
-  including Lough Derg and "reaches" of the Shannon below
-  Limerick.
-
-  (_e_) To Adare Manor (admission by pass).
-
-  (_f_) Or take Row Boat from Castleconnell to Killaloe _via_
-  O'Brien's Bridge, or to Limerick _via_ Plassy.
-
-  (_g_) Take train from Castleconnell Station at 10.40 a.m. for
-  Nenagh, drive from Nenagh to Dromineer, take Steamer
-  from Dromineer to Killaloe, thence rail or car to Castleconnell.
-
-  (_h_) Or take train from Castleconnell Station at 10.40 a.m. for
-  Killaloe, take Steamer Killaloe to Dromineer, drive from
-  Dromineer to Nenagh, thence rail to Castleconnell.
-
-  (_i_) Lower Shannon Steamer Trip to Kilrush (see special programme
-  of Sailings).
-
-
-Above a bend in the river at the Falls of Doonass the "Rapids" begin,
-and eddying and whirling through the rocks run for nearly half a mile
-along the surface of the river. It is to the angler, however,
-Castleconnell will prove most attractive. The season commences on the
-1st February, and closes on the 31st October. Trout, pike, and perch
-fishing free; salmon and grilse fishing by arrangement. The fishing-rods
-manufactured at Castleconnell have won a world-wide reputation for
-Messrs. Enright and Sons, and Mr. Jack Enright has himself won the
-record as a long distance fly caster. A writer in _The Fishing Gazette_
-having dealt in an appreciative article with Castleconnell gives
-valuable information as to the names and situations of the more
-important pools on the river.
-
-The fisheries in the Castleconnell district taken in rotation from
-below, are: the Prospect or Clareville Fishery, on the Limerick side of
-the river (this means that the fishery extends to midstream; adjoining
-it on the Clare side, and immediately opposite, is the Landscape
-Fishery. Both of these are well-known salmon and peel catches. A few of
-the best pools in Prospect are Pinnee, Salahoughe, Feemoor, and
-Commogue. On Landscape the best pools are Poulahoo, Pallaherro, and
-Filebegs).
-
-Adjoining the Prospect Fishery, on the Limerick side of the river, is
-the New Garden Fishery, which contains the pools of Moreagh, Glassogue,
-Black Weir, and Sporting Eddy. Next to this, on the Limerick side, is
-the Hermitage Fishery, which contains some famous catches, such as Back
-of Leap, Fallahassa, Poolbeg, the Commodore, Bunnymoor, and Head of
-Moreagh. Still on the Limerick side, we next reach the Woodland's
-Fishery, a picturesque portion of the Shannon, and here are the pools of
-Panlaides, Drarhus, Thunnavullion, and Long Eddy. Next is reached the
-Castle Fishery, and the pools here are Balcraheen, Lackaleen, and the
-Lough, the last affording several courses of fly fishing. Still on the
-Limerick side the World's End Fishery adjoins the Castle Fishery, and
-the pools here are the Pantry, the Kitchen, and the Over the Weir.
-
-Returning to the Clare side of the river the fishery next to Landscape
-is the famous Doonas, the lower part of which contains the pools of
-Poolcoom, the Stand, Black Weir, Faalgorribs, Franklin's Eddy, and the
-Old Door, while the upper part includes Lickenish, the Dancing Hole, Old
-Turf, Lurgah, Lacka, and Sallybush. Next on the Clare side we reach the
-Summer Hill Fishery, part of which is opposite the Woodland's Fishery
-and part opposite the Castle Fishery. The pools on Summer Hill are the
-Black Eddy, Clare side of Drarhus, Thunahancha, Figar, Clare side of
-Lackaleen, and Clare side of the Lough. After this the Erinagh Fishery
-is reached, and here the pools are Gorribs and side of the big Eddy.
-
-In the spring salmon fishing is pursued principally with Devon minnows
-as lures, the "cullough" running a good second favourite. Phantom
-minnows and the very large spinning Shannon flies are also useful. A bit
-later on the prawn takes precedence, the bigger the prawn the better. As
-the season advances the lure, whatever it may be--fly, minnow, prawn, or
-what not--should decrease in size until October, when again they should
-assume larger proportions, but not so big as in the spring. Towards the
-latter end of March, and onwards for the rest of the season, artificial
-flies are are almost exclusively used. Truly wonderful specimens of the
-fly dresser's art are some of the Shannon patterns. Fancy a salmon fly
-dressed on an 8-o hook! Yet this is at times absolutely necessary to
-ensure success. The best patterns for various times of the year are--For
-February, March, and April, big Shannon Blue Fly, the Black Goldfinch,
-the Jock Scot, and the Yellow Lahobber; for May, June, and July, Purple
-Mixture, tinsel bodied Green Parrot, purple bodied Green Parrot, Silver
-and Blue Doctors, Purple Widgeon, Orange and Grouse, and Thunder and
-Lightning. Towards the end of the season here, as elsewhere, strange
-fancy patterns will frequently prove successful. The most suitable
-patterns of trout flies (the size of which depends entirely upon the
-height of the water) are--Orange and Grouse, Green Rail, Purple Rail,
-Black Rail, Orange Rail, March Brown, Hare's Ear, silver-tinselled body
-Black Rail, and Orange and Grouse with a sprig of Guinea Fowl or Green
-Parrot in wing.
-
-The tackle for the coarse fish is of the ordinary character.
-
-At the foot of Lough Derg stands ~Killaloe~, an ideal resting place for
-an angler. The cathedral is of some interest, and in the vicinity the
-Protestant Bishop's palace stands. The bridge connecting the town with
-the village of Ballina has thirteen arches, and the huge weir helps as a
-breakwater. Shortly above the bridge of old time stood Kincora, the
-fortified palace of Brian Boru; its glory has departed, and all that
-remains is a mound, crowned with a grove of trees. Here Brian of the
-Tribes held his sway; and still the peasant in Munster, wishing to
-express his welcome, says in Gaelic--"Were mine the boire of the Dane or
-the wine of Kincora, it would be poured for you." Here it was that the
-Norse King, Magnus, wintered early in the twelfth century, and found a
-wife for his son, Sigurd, in the house of Brian. M'Laig, the bard of
-Brian Boru, after the death of his king in 1014, made a lamentation,
-which Mangan thus translated:--
-
-  "Oh! where Kincora is Brian the Great?
-  And where is the beauty that once was thine?
-  Oh! where are the princes and nobles that sate
-  At the feast in thy halls, and drank the red wine?
-    Where! oh, Kincora.
-  They are gone, those heroes of royal birth,
-  Who plundered no church and broke no trust,
-  It is weary for me to be living on earth,
-  When they, oh, Kincora, are below in the dust.
-    Lo, of Kincora."
-
-From Killaloe, northwards for twenty-five miles, Lough Derg at times
-expands in width over eight miles, where its distant shores form a sky
-line--hedged in with Tipperary and Clare Mountains. The lough loses none
-of its picturesque attractiveness to the sportsman, who is informed that
-the whole of the fishing is free.
-
-From Limerick as centre, as we have said, tours may be made into North
-Kerry.
-
-To the average tourist North Kerry is a _terra incognita_, and yet from
-the pleasant pasture lands around "Sweet Adare" in Limerick to where the
-distant mountain of Caherconree sees his regal head reflected in the
-sea--there lies a beautiful land. Beyond Patrickswell, on the Maigue, is
-the little village of Adare, once the camping ground and stronghold of
-"those very great scorners of death," the Desmond Geraldines. Still the
-ruins of Desmond Castle, and of three abbeys, tell the tale that here
-once, beside a citadel of strength, were places of religion and refuge.
-Now, in the depth of the retreat of sylvan splendour, the Earl of
-Dunraven has his noble mansion.[1] At Adare, as well as at Ballingrane,
-six miles away, still are many evidences of the Palatine plantations,
-which were effected here in the eighteenth century. In 1709 a fleet was
-sent to Rotterdam by Queen Anne, and brought to England some 7,000
-refugees from the German Palatinate. Of these, over 3,000 were settled
-in this part of the County Limerick. They were allowed eight acres of
-land for each man, woman, and child, at _5s._ per acre; and the
-Government engaged to pay their rent for twenty years, and supplied
-every man with a musket to protect himself. Industrious and frugal, the
-exiles throve in the land of their adoption; many of them emigrated to
-America, and only a comparatively small number of families still remain.
-These, however, preserve, besides the names, many of the characteristics
-of their predecessors--as Dr. R. T. Mitchell, Inspector of
-Registration in Ireland, testifies in his survey of this very
-district:--"Differing originally in language, though even the oldest of
-the present generation know nothing of the German tongue spoken or
-written, as well as in race and religion, from the natives amongst whom
-they were planted, these Palatines still cling together like the members
-of a clan, and worship together. Most of them have a distinctly foreign
-type of features, and are strongly built, swarthy in complexion, dark
-haired, and brown eyed. The comfortable houses built in 1709 are in
-ruins now. The original square of Court Matrix in the ruined wall can be
-traced, and also, in the very centre of this square the foundations of
-the little Meeting House in which John Wesley occasionally preached to
-them in the interval, 1750-1765. Modern houses stand there now, but not
-closely grouped together. They are all comfortable in appearance, some
-thatched, some slated, some with one story, others with two; nearly all
-have a neat little flower garden in front, and very many have an orchard
-beside or immediately behind the house. There is all the appearance of
-thrift and industry among them." From ~Ballingrane~, a branch line
-passing Askeaton, with its ruined Castle and Abbey ruins, to ~Foynes~, a
-good harbour, from which passage can be made to Kilrush, and thence per
-rail to Kilkee. From the junction the main line runs by ~Rathkeale~ and
-~Newcastle~, where there is a ruined castle of the Knights Templars, and
-by Abbeyfeale and Kilmorna, where Mr. Pierce Mahony bred and kept his
-stud of famous Kerry cattle, to Listowel, an old market town which
-figured in the Desmond rebellion.
-
-[Illustration: _Photo, Roche, Dublin._ Adare Abbey, Croom.]
-
-[Illustration: _Photo, Lawrence, Dublin_ Adare Manor.]
-
-From Listowel the Lartigue railway, unique in the British Isles, runs to
-~Ballybunion~, a beautiful watering place, remarkable for its sea-caves
-and old castle. ~Ardfert~ is remarkable for its ruined Abbey and
-Cathedral, both dedicated to St. Brendon, the story of whose voyage to
-the New World was one of the subjects mentioned at the court of
-Ferdinand and Isabella by Columbus, when inducing them to assist him in
-his mission of discovery. ~Tralee~ is the largest town in the Kingdom of
-Kerry. It is one of the most thriving towns in the south of Ireland, and
-is situated in the vicinity of marine and mountain scenery. Those
-interested in the revival of industry in Ireland will do well to visit
-the Kerry Knitting Co.'s Factory, as well as the fine bacon-curing
-establishment of the Wholesale Co-operative Society which has been
-erected under the management of the well known Mr. Joseph Prosser. At
-Spa and Fenit there is good sea-bathing, and on the Dingle Promontory
-the ascent of Mount Brandon may be made. From Dingle excursions can
-easily be taken to Slea Head, by Ventry, and under the Eagles' Mountain,
-and within sight of the Blasket Islands. ~Smerwick~ has in its
-neighbourhood a coast line of mighty cliffs, the most remarkable of
-which is called the ~Three Sisters~. Smerwick was the scene of the
-massacre of seven hundred Spaniards, who had surrendered in the
-sixteenth century to Lord Deputy Grey's forces. The bloody affair is the
-blackest stain in the careers of the gallant Raleigh and the gentle
-Spenser. Between Smerwick and Ballydavid Head the well preserved remains
-of the ~Oratory of Gallerius~ may be seen.
-
-[Illustration: _Photo, Lawrence, Dublin._ Lartique Railway, Ballybunion.]
-
-[Illustration: _Photo, Lawrence, Dublin._ At Ballybunion.]
-
-[Illustration: _Photo, Lawrence, Dublin._ At Ballybunion.]
-
-    For information as to Sport to be had in the Limerick District, see
-    end of this volume, where particulars are given as to Golf, Fishing,
-    Shooting, Cycling, &c.
-
-[Illustration]
-
-
-
-
-The Shannon Lakes.
-
-DUKE OF YORK ROUTE.
-
-
-The Shannon Development Company run during the season a service of
-steamers between Killaloe and Dromod (county Leitrim). The whole of the
-journey from ~Killaloe~ to Dromod--about one hundred miles--is
-interesting and full of variety, the shores and lakes of the lordly
-river presenting an ever-changing panorama of beautiful scenes. About
-Killaloe the views are very fine. The mountains of Clare and Tipperary
-shadow the town on either side, and away to the north for twenty-three
-miles stretches Lough Derg. Going up the lake, the first stopping place
-is at Scariff, which overlooks the beautiful Inniscattery or Holy
-Island. The reach from here to Portumna is crowded with islands, and on
-both shores are ruined castles and finely wooded demesnes. Dromineer, on
-the opposite bank, four and a quarter miles from Nenagh, is the next
-station. Nearly opposite Portumna, with its ruined and blackened castle,
-are the ruins of the monastery of Tirdaglass.
-
-[Illustration: Sailing on the Shannon.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Kincora, Killaloe.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Shannon Steamer.]
-
-The ancient city of Portumna was once the chief pass and means of
-communication between Connaught and North Munster. Between Portumna, at
-the head of Lough Derg and Banagher, are the rich meadow lands of
-Galway, along which the river winds tranquilly, passing beautifully
-wooded islands; its banks green with rich, low-lying pastures. A few
-miles from Shannon Bridge is Clonmacnoise, over which hang many ancient
-memories of learning, of wars, and of worship. Near Athlone is a point
-in the river where the Counties of Westmeath, Roscommon, and King's
-County meet, and the waters of Lough Ree wash the shores of County
-Roscommon on the one side and of Westmeath and Longford on the other.
-Lough Ree is but little known to the tourist; and yet this lake, with
-its rocky shores full of indentations, and its shoals of sparkling
-islands, is one of the loveliest in Ireland. King John's Castle, on the
-Roscommon side of the lake, is a magnificent Norman ruin, and the town
-of Roscommon--which is not far from the brink of the lake--also contains
-the remains of a fine castle and of a Dominican Friary. The castle,
-which is flanked by four towers of massive masonry, was built in the
-thirteenth century by Sir Robert de Ufford, and afterwards suffered many
-changes of fortune; it is now the property of The O'Conor Don. The abbey
-is chiefly interesting as containing the sculptured tomb of Phelim
-Cathal O'Connor.
-
-[Illustration: _Photo, Lawrence, Dublin._ Lough Ree, Shannon Lakes.]
-
-Circular tourist tickets for one day trips are issued by the Railway
-Company. Details will be seen on summer time tables.
-
-
-
-
-[Illustration]
-
-Cork and District.
-
-CORK.
-
-
-Enshrined in song and _saga_, set in the beautiful valley of a romantic
-river, Cork is one of the pleasantest places within the four shores of
-"the most distressful country." It is the capital of the rich Province
-of Munster, "the wheat of Ireland," says a Gaelic proverb, and while it
-preserves the characteristics of an old Irish town, here, too, the
-traveller, familiar with the quaint cities of the Continent, will meet
-with much that is suggestive of foreign scenes.
-
-Cork sits snugly at the foot of, and leans her back up against, high
-hills that shelter her from the north, and the breeze that blows up from
-the sea is fresh and mildly bracing. From a height to the north
-overlooking the city a bird's-eye view can be had of the entire
-surroundings, and of what the poet Spenser called--
-
-  "The pleasant Lee, that like an island fayre
-  Encloseth Cork in his divided flood."
-
-Away to the west the eye can easily trace the river, winding with haste
-to the sea, through the barony of Muskerry, "the fair country," from its
-fountain home over the hills and far away.
-
-[Illustration: _Photo, Lawrence, Dublin._ Patrick-street, Cork.]
-
-More than halfway along the Mardyke Walk there is a sidepath leading
-down to a ferry across the Lee. Here a good view may be had of the river
-looking towards the city, with Sunday's Well, Blair's Castle, and
-Shandon standing high on the hill.
-
-The history of the foundation of Cork City, and its progress through the
-centuries, is well authenticated. Towards the close of the sixth
-century, the place was founded by Lochan, son of Amirgin, the great
-smith to Tiernach M'Hugh, the proud chief of the O'Mahonys. Lochan has
-since come to be called St. Finbarr. His feast day is a retrenched
-holiday in the diocese of Cork, and his patron day is kept by the
-peasantry at the shrine of Gougane Barra, by the cradle of the river
-Lee. The Irish name, Cork, signifies that the locality was a marsh, and
-in the life of its founder it is described as a "land of many waters."
-
-[Illustration: _Photo, Roche, Dublin._ The Marina, Cork.]
-
-For less than three hundred years the little city throve, and then came
-the Sea Rovers, hungry for spoil. In 820 they burned down Cork, carrying
-away as pillage the silver coffin wherein St. Finbarr was buried.
-Shortly afterwards they returned, and seized on the marshes lying
-beneath Gill Abbey Rock, fortified them, and founded another little
-city--but their own. There they sang their "Mass of the Lances; it began
-at the rising of the sun," and, as the Four Masters assure us,
-"wheresoever they marched they were escorted by fire."
-
-But in time the Rovers were absorbed, and race hatreds died out. They
-paid tribute to the MacCarthys, and were married and given in marriage
-to the Irish. Merovingian Kings came to buy and sell in Cork, and the
-Sagas of the North tell of many a hardy Norseman who fell captive to the
-maidens of Munster. To this day the Danish blood moulds the nature of
-many in Cork, and among the men especially the passionate affection for
-the sea is a characteristic. When the Normans invaded Ireland they found
-Cork a Danish fortress. They broke the power of the Danes in a sea
-fight, and won over the allegiance of MacCarthy, the old King of Cork,
-through the wiles of a woman. The strangers had not been long in the
-city when they, like the Danes before them, were absorbed, and became
-more Irish than the Irish themselves. As their island city grew in
-opulence, they began to assert an independence similar to the free
-cities of the Continent. A historical writer of repute points out that
-they were practically independent of external authority. Their edicts
-had nearly the force of laws. They levied taxes, and regulated commerce.
-They judged, pilloried, and hanged offenders. To suit themselves they
-modified the English laws of property. They set up a mint of their own,
-and their money had to be declared by the English Parliament to be
-"utterly damned."
-
-Their audacity can be imagined from the part they played in Perkin
-Warbeck's rebellion of 1492. They decked him out "with some clothes of
-silk," and John Walters, the Mayor, insisting that the poor Fleming was
-son to the Duke of Clarence, demanded that the Lord Deputy should
-declare him King. Failing in this a number of Cork merchants sent him to
-France, where they duped the King, and induced the Duchess of Burgundy
-to give them armament and money. They then sailed for Kent, and having
-landed there, proclaimed their foundling "Richard the Fourth, King of
-England and Lord of Ireland." But the sequel of all this bravura
-behaviour was not so happy, as Warbeck and Walters lost their heads, and
-Cork lost its charter.
-
-In 1847 the city suffered fearfully from the ravages of famine and
-famine fever. The failure of the potato crop drove the unfortunate,
-hunger-stricken peasantry into the city for sustenance; and it has been
-estimated that upwards of a million of people emigrated in these unhappy
-years through the port of Cork. During the Fenian movement, 1865-67,
-Cork was a hotbed of treason, and more prisoners were sentenced from
-there than from all the other parts of Ireland put together. Thus, in
-the nineteenth century, the name of "Rebel Cork," which was earned so
-far back as the time of Perkin Warbeck, was still deserved.
-
-The manners of the people, gentle and simple, rich and poor, are
-perfect. There is, perhaps, too often a tendency to adopt your view of
-anything or everything with the most accommodating agreeableness. This
-is very pleasant, if not always sincere, but in this respect a thing
-never to be forgotten is that Cork is only a few miles from Blarney, and
-
-  "There is a stone there, whoever kisses,
-    Oh! he never misses to grow eloquent.
-  'Tis he may clamber to a lady's chamber,
-    Or become a Member of Parliament.
-
-  A clever spouter, he'll sure turn out, or
-    An 'out-an'-outer' to be let alone;
-  Don't hope to hinder him, or to bewilder him,
-    Sure he's a pilgrim from the Blarney Stone."
-
-Thackeray, like many another man before his time and since, has paid
-tribute to the loveliness of the girls of Cork. There is a graceful
-charm about them before which the most inveterate bachelor succumbs. The
-accents of the Siren singers were never so insinuating and caressing as
-the Munster brogue as it slips off the tongue of a gentlewoman. Blue
-eyes predominate, but are excelled in lustre by what Froude has been
-pleased to call "the cold grey eyes of the dark Celt of the south of
-Ireland." Edmund Spencer, when he was not busy "undertaking" Rapparees,
-or smoking Raleigh's fragrant weed--"than which there is no more fair
-herb under the broad canopy of heaven"--wooed and won and wedded a fair
-woman of Cork; not of the city, though, but of the county. She was a
-country lass, as he is at pains to point out to the Shandon belles who
-fain would vie with her:--
-
-  "Tell me, ye merchant daughters, did ye see
-  So fayre a creature in your town before?
-  Her goodlie eyes, like sapphyres shining bright;
-  Her forehead, ivory white;
-  Her lips like cherries charming men to byte."
-
-There is nothing of peculiar interest about the streets of Cork but
-their number, their narrowness, and the irregularity of the houses. St.
-Patrick's-street, which is the principal thoroughfare, has many handsome
-shops, and winds its way in three curves through the city.
-
-From the "Dyke," as it is locally known, through the "Band Field"--the
-baby park of Cork--we can cross to an entrance to the Queen's College on
-the Western-road. The College itself is a handsome building of white
-Cork limestone, in the later Tudor style, forming three sides of a
-quadrangle, and consisting of lecture-rooms, museum, examination hall,
-&c. It is built in the centre of well-laid pleasure grounds, which are
-open to the public, and which formerly were the site of St. Finbarr's
-old monastery. During the session proper, practically from November to
-June, visitors will not be admitted through the building without an
-official order, which may be had at the Registrar's office.
-
-[Illustration: _Photo, Roche, Dublin._ Queen's College, Cork.]
-
-During the vacation the steward or assistant officials are in attendance
-to conduct visitors. The large palm-house is one of the most successful
-in Ireland, and the Crawford Observatory will repay a visit. The grounds
-were laid out under the personal supervision of the late president, Dr.
-W. K. Sullivan, a distinguished scientist. While at the south side of
-the city, St. Finbarr's Cathedral[2] (Church of Ireland), eastward from
-the College, should be seen. It is a very dignified design of the French
-Early Pointed style. The nave, aisles, and transepts are grouped under
-three lofty towers with spires.
-
-[Illustration: _Photo, Roche, Dublin._ St. Finbarr's Cathedral, Cork.]
-
-From the foot of the street a few minutes' walk will bring us under the
-old bi-coloured steeple, which contains the famous Shandon Bells. The
-church was built in 1772. The steeple is unique, inasmuch as the
-southern and western sides are of white limestone, and the northern and
-eastern red sandstone--
-
-  "Parti-coloured, like Cork people,
-  Red and white, stands Shandon steeple."
-
-But the "Bells" are the chief attraction, and the quaint inscriptions on
-them amuse the curious. In the stillness of a summer night their sweet
-chimes sound with peculiar cadence across the waters which encircle the
-old city of the Lee. The charter song of Cork is:--
-
-  THE BELLS OF SHANDON.
-
-  With deep affection and recollection
-    I often think of the Shandon bells--
-  Whose sounds so wild would, in days of childhood,
-    Fling round my cradle their magic spells;
-  On this I ponder, where'er I wander,
-    And thus grow fonder, sweet Cork, of thee;
-      With thy bells of Shandon,
-      That sound so grand on
-  The pleasant waters of the river Lee.
-
-  I have heard bells chiming full many a clime in,
-    Tolling sublime in cathedral shrine;
-  While at a glib rate brass tongues would vibrate,
-    But all their music spoke nought to thine;
-  For memory dwelling on each proud swelling
-    Of thy belfry knelling its bold notes free,
-      Made the bells of Shandon
-      Sound far more grand on
-  The pleasant waters of the river Lee.
-
-[Illustration: _Photo, Roche, Dublin._ Shandon Church, Cork.]
-
-Francis Sylvester Mahony, author of this ballad, known in the world of
-literature as "Father Prout," was born in Cork in 1804. He was educated
-for the priesthood, but spent the best years of his life in London, as a
-magazine writer.
-
-Further north than Shandon is St. Mary's Roman Catholic Cathedral, an
-ample piece of architecture, not particularly attractive. Coming down
-the hill towards the city on Pope's-quay, St. Mary's Dominican Church
-may be seen. It is a very beautiful church, of the composite style of
-architecture. The Grecian portico is remarkable for the gracefulness and
-justness of its proportions, and is very much admired. It is, perhaps,
-the most chaste building of its kind in the kingdom.
-
-Besides the churches and public buildings already enumerated, the
-Courthouse and the Municipal Schools of Science and Art should be seen.
-The Courthouse is in Great George-street. In a recent fire there many
-valuable records were destroyed. Courthouses seem to be ill-fated in
-Cork. The old Courthouse fell during the trial for treason in the Penal
-days of the Catholic Bishop of Cork. The present Courthouse was burnt on
-Good Friday, 1891.
-
-The punning, duel-fighting, hanging judge, Lord Norbury, of whom the
-country people still say, "He'd hang a man as soon as knock the head off
-a rush," often dispensed with an escort in the most exciting times, and
-rode here on circuit with a brace of pistols at his saddle-bow. But he
-was a man of uncommon determination. Once, when his acts were unusually
-unjudicial, he was reprimanded from Dublin Castle and threatened with
-compulsory retirement. He rode instanter to Dublin, and never stopped
-until he drew rein at the Castle gate. He demanded to see the Lord
-Lieutenant, but the then Viceroy, Lord Talbot, was in England. He was
-ushered into the presence of a courteous official, who was a little
-astonished to be authoritatively asked, "Who are you?" "I, sir," said
-the Under Secretary, whom he addressed, "am Mr. Gregory." "Then you be
-d----d, and don't Sir me," said his Lordship. "Fifty-two years ago I
-began life at the Irish Bar with fifty guineas and a case of pistols.
-Here it is! I have fought my way to preferment. Within a few months I
-expect a letter of an unpleasant character from the Castle. Tell the
-writer he may take his choice of these, and send me his second." History
-does not record whether "the letter of an unpleasant character" was ever
-written.
-
-[Illustration: _Photo, Guy and Co., Cork._ Cork Exhibition.]
-
-The Municipal Buildings of Science and Art in Emmet-place can bear
-comparison with those of any town of the same size in Great Britain or
-Ireland. The sculpture and picture galleries are open to visitors. The
-splendid collection of casts from the antiques in the Vatican Gallery
-were executed under the superintendence of Canova, and sent by Pope Pius
-VII. to George IV. The ship which carried them by long sea from Italy
-put into Cork, and was there detained for harbour dues. The King,
-instead of paying, transferred the Papal gift to the Cork Society of
-Arts.
-
-A paltry exhibit of coins, antiquities, and fossils forms the Museum.
-Although Cork County has been one of the richest in Ireland in "finds"
-of gold and metal work of the ancient Irish, they are absolutely
-unrepresented.
-
-
-CORK DISTRICT.
-
-The county of Cork is the largest shire in Ireland. The pleasure seeker,
-the artist, the antiquary, the sportsman, the invalid, will each find
-within its broad barriers much to meet his wants. Sir Walter Scott is
-credited with the statement that the history of this single county
-contains more romance than the history of the lowlands and highlands of
-his own dear land of the mountain and the flood.
-
-The surface of the county Cork is as diversified as the people. In some
-places, such as Kilworth, Mushera, and Ballyhoura, the elevation is
-considerable, elsewhere it sinks to a low-lying plain, such as at
-Kilcrea, where the bog is that tradition says saw the last wolf in
-Ireland killed, and Imokilly, where the sea is yearly eating into the
-lowlands. The county is watered by no less than twenty rivers of
-importance.
-
-Making the city the headquarters for a few days, there are many places
-of interest in the vicinity which may with ease be visited. The
-excellent tram system may be availed of by visitors to the sights in its
-immediate vicinity. A drive by Douglas and Vernamount can be
-recommended. Douglas was an old town, famous for its manufacture of sail
-cloth, and in recent years a village providence in the person of the
-late Mr. John Morrogh has resuscitated industry in the district by the
-establishment of a splendidly equipped tweed factory. With a fine day
-and a good "outside jaunting-car" to travel the five miles' drive to
-~Blarney Castle~ will be found most enjoyable. The famous stone, which
-no one should miss kissing, is set in the parapet wall. The word
-"Blarney," meaning pleasant "deluderin' talk," is said to have
-originated at the Court of Queen Elizabeth. MacCarthy, the then
-chieftain over the clan of that name, resided at Blarney, and was
-repeatedly asked to come in from "off his keeping," as the phrase in the
-State Papers goes, to abjure the system of Tanistry by which the clan
-elected the chief, and take tenure of his lands direct from the Crown.
-He was always promising with fair words and soft speech to do what was
-desired, but never could be got to come to the sticking point. The
-Queen, it is told, when one of his speeches was brought to her, said,
-"This is all Blarney; what he says he never means."
-
-By the Great Southern and Western Railway the castle can also be
-reached. By this route a good stretch of the Upper Lee is seen, with
-Carrigrohane Castle, which belonged to the M'Sweeneys, beetling high on
-a rock, and the line runs through the picturesque valley of the
-Sournagh, which may be likened to a Swiss ravine. All the remains of the
-former greatness of Blarney consists of the ruins of two mansions, one
-of the fifteenth century, and the other of the Elizabethan period. In
-its time the place was one of considerable strength, and was erected by
-Cormac MacCarthy Laider, or the Strong-handed chief of his name. Most of
-the outworks and defences are gone. The old square keep, ivy-crowned,
-rises from a huge limestone rock, around which the Coomaun or crooked
-river winds. The Castle is over 120 feet high; the great staircase at
-the right-hand side leads through the entire building, here and there
-small vaulted chambers being set in the massive walls, which are in
-places nine feet thick. The arched room, of which the projecting window
-with three lights overlooks the streamlet below, is known as the Earl's
-Chamber. The last fight in which Blarney Castle figured, was that in
-which the Confederates held out for King Charles in 1642. It fell before
-the superior ordnance of Cromwell's commander, Ireton. It was never
-afterwards used for a dwelling-house, being almost completely
-dismantled. From the summit of the Castle a good view of the surrounding
-country can be had. To the west lies Muskerry, with what Ruskin calls
-"the would-be hills" rising towards Mushera Mountain. To the north is
-St. Ann's Hydropathic Establishment, on a gentle slope, surrounded by
-well-wooded parks. In the village beneath is the well-known Blarney
-Tweed Factory of Messrs. Martin Mahony Brothers, through which visitors
-may be shown when convenient to the courteous proprietors. The "Rock
-Close," which is at the foot of the Castle at the southern side, is one
-beautiful jungle of foliage, in which myrtle, ivy, and arbutus
-intertwine with the rowan tree and the silver hazel.
-
-[Illustration: Blarney Castle.]
-
-If we have gone to Blarney on the "outside jaunting-car," the return
-journey may be made by Bawnafinny, Kerry Pike, and the Sournagh Valley,
-and Northern Lee road. Beneath Bawnafinny, "the pastures of beauty," we
-get a glimpse of Blarney Lake, a broad sheet of water bordered with tall
-trees, above which the old Castle raises its head. It would gladden the
-heart of Izaak Walton, as it is full of fish, among which is the famous
-gillaroo trout, which will not rise to the tantalising fly. The
-peasantry have a legend, that within the lake lies hidden the treasure
-and plate of the last of the MacCarthys, who hid them there sooner than
-allow his conquerors to gain possession of it. The secret is said to be
-known to three of the old family, and before one dies he tells it to
-the other, so that it may be recovered when the MacCarthy "comes to his
-own again." The milk girls also on May mornings are said to have
-frequently seen fairy cows along the banks of the lake, which vanish
-into thin mists when approached by human footsteps!
-
-[Illustration: _Photo, Roche, Dublin._ Blackrock Castle, Cork.]
-
-~Ballincollig~ is a place of some interest. The powder mill is a
-long-established factory, and gives considerable employment in the
-neighbourhood. The large cavalry barracks is amongst the finest in the
-south of Ireland.
-
-~Blackrock~ is little better than a fishing village; but the suburbs
-between it and Cork are filled with villa residences, pleasure grounds,
-and market gardens. Beside the road, between the city and the village,
-are situated the well-known nursery gardens belong to Hartland. The
-daffodil farm, when the flowers are full, is a sight very difficult to
-surpass in the three Kingdoms. Maxwellstown House, on the slope of a
-southern hill, was the scene of a tragedy, not yet forgotten in Cork.
-After a marriage _dejeuner_, the bride retired to her dressing-room to
-don her going-away dress, but the bridegroom waited in vain for her
-return. She had died suddenly in the arms of those who attended her; and
-the story goes that the disconsolate lover dismissed the servants, shut
-up the house with everything just as it was, and went on his way out
-into the wide world alone. Long years afterwards, when news of his death
-came from a far-off land, his next-of-kin had the house re-opened, and
-found everything just as it had been left half a century before, after
-the wedding breakfast. The dust and cobwebs were cleared away, and all
-went to the hammer.
-
-Eastward, towards the harbour's mouth, there is much to be enjoyed.
-Excursionists may take the train direct from the Great Southern and
-Western Railway terminus, or by Passage from the Albert Station, and
-then by steamer to Queenstown. Taking the direct line the train runs
-almost parallel with the promenade called the Marina, which separates
-from the river side the broad pasture known as Cork Park, which is the
-local race course. A race meeting at Cork is well worth witnessing. The
-gay young bucks, described long ago by Arthur Young, still are with us,
-and they and their lady friends make a fine flutter during race week.
-
-[Illustration: _Photo, Lawrence, Dublin._ Queenstown Harbour.]
-
-~Passage~ (~West~) was once the busy site of ship-building and
-dock-yards, but the industry is no longer of anything like its original
-proportions. The town is an old-fashioned place, and has not escaped the
-pen of Father Prout, who, in what he calls "manifestly an imitation of
-that unrivalled dithyramb," The Groves of Blarney--with little of its
-humours and all its absurdity--signs the attractions of what he styles a
-fashionable Irish watering-place:--
-
-  "The town of Passage
-  Is both large and spacious,
-  And situate
-    Upon the say;
-  'Tis nate and dacent,
-  And quite adjacent
-  To come from Cork
-    On a summer's day."
-
-Steamers ply between the railway station at Passage and the many little
-towns around the port. ~Glenbrook~ and ~Monkstown~ are particularly
-picturesque. Above the latter, nestling in the trees, may be seen
-Monkstown Castle, the legend attached to which says it was built for one
-groat. The owner of the site, one of the Archdeckens, an Anglo-Irish
-family, having gone away to the wars in the Lowlands, his better-half
-promised him a pleasant surprise on his return. She employed a number of
-workmen to build the castle, a condition of the contract being that they
-should buy their food from her while so engaged. Truly, she was a shrewd
-woman. Her profits were such, that she had enough to pay the entire cost
-of the work, less one solitary groat.
-
-~Spike Island~ is mentioned in Church History as a present given by a
-Munster King to St. Cartach, of Lismore. In modern times it was used as
-a convict prison, the convicts' labour being employed in the
-construction of the fortifications around the harbour.
-
-~Queenstown~, or, to give it its old Irish name, Cove, is built upon an
-island. It is the paradise of naval pensioners, and the home of all
-nationalities, yet Irish is still a spoken tongue not a mile away,
-behind "Spy Hill." The magnificent Cathedral to St. Colman, the patron
-Saint of Cloyne, occupies a commanding position over the harbour. It is
-in the later florid Gothic architecture, and within one of its
-transepts is buried the celebrated Dr. Coppinger, a learned writer and
-member of the most famous and enduring of the Danish families to whom
-Ireland became a native land. In an old graveyard on the island, Charles
-Wolfe, the writer of the elegy on Sir John Moore, and Tobin, the
-dramatist, are buried. The panorama from Spy Hill embraces the
-enchanting river and the wide harbour, which is capable of holding all
-the ships in the British Navy within the line drawn from the two forts,
-Camden and Carlisle, which guard the entrance. Of Queenstown, the
-_Dublin Health Record_ says:--"The climate is remarkably mild and
-equable, and, at the same time, fairly dry and tonic, and is especially
-suitable as a winter and spring residence for persons with delicate
-chests, to sufferers from chronic catarrhal throat affections, and to
-convalescents from acute diseases. It is particularly appropriate as a
-seaside resort to persons requiring a soothing and sedative atmosphere.
-From the position of Queenstown, winds from the colder points are very
-little felt, and it is completely protected from the north, north-east,
-and north-west winds. The mean temperatures of the seasons are exactly
-similar to those at Torquay, the noted winter health resort in the south
-of England, and higher than those of Bournemouth, Hastings, and Ventnor.
-As a winter health resort, Queenstown possesses all the best natural and
-climatic advantages."
-
-The beach presents the most varied and motley sights to be seen anywhere
-in northern Europe. Merchant seamen from every port of the world
-congregate here; military and man-of-war sailors are ever present,
-pleasure-seeking yachtsmen, pilots and fishers mix with the melancholy
-groups of emigrants, or the irrepressible vendors of impossible wares.
-Beyond in the blue waters, His Majesty's flagship rides at anchor, one
-or more of the "ocean greyhounds," with dead slow engines, are steaming
-out between the forts; tenders, whale-boats, small steamers, tugs, and
-every craft that sails the sea, down to the familiar Munster "hooker,"
-are hurrying to ports far and near, or lying "idle as painted ships upon
-a painted ocean." Most of the Atlantic liners have offices here. Tenders
-convey the mails from the deep-water quays at the Great Southern and
-Western terminus out to the steamers, which usually ride in the fair way
-by the harbour's mouth. Queenstown is the principal port through which
-the emigrants leave Ireland. Young and old, when the "emigration fever"
-is rife, the tides of people may be seen flowing oceanwards. Sometimes
-they have a little money, and are going to better themselves; but most
-usually they are going out penniless to relatives abroad, or "just
-trusting in God." Not an unfrequent sight is to see bare-footed peasant
-children waiting for their turn to cross the gangway which leads to the
-New World. Perhaps they have nothing with them but "a pot of shamrock,"
-or a little mountain thrush or orange-billed blackbird, in a wicker
-cage, to make friends with "beyant the herring-pond." It is very
-curious, but very Irish, that they do not at all seem to want the
-sympathy that is lavished upon them by the onlookers. When they are
-leaving their native place, the "neighbours" hold an "American wake,"
-and in the morning, with heartrending embraces and wild caioning, give
-them the last "Bannact Dea Leat"--"God's blessing be on your way"; but
-when they come to Cove, the sorrow is smothered; they are buoyed up by
-that trusting faith in the future which is the first fibre in the Irish
-nature. They may look melancholy to us, but they themselves make merry,
-and before the "big ship" is but on the "Old Sea," as the Atlantic is
-called, the girls and young men are slipping through rollicking reels to
-improvised music "to show their heart's deep sorrow they are scorning."
-Perhaps, as the Gaelic proverb expresses it, "'Tis the heavy heart that
-has the lightest foot." But a truce to trouble. They tell a story of an
-emigrant and a grand trunk merchant at Queenstown which shows alike the
-hapless condition and happy-go-lucky heart of the Irishman. "Pat," said
-the merchant, "you're going to travel; will you buy a trunk?" "A trunk,"
-answered Pat, "an' for what, yerra?" "To put your clothes in, of
-course." "And meself go naked, is it? Och! lave off your gladiatoring;
-sure it's took up I'd be if I did that!"
-
-~Crosshaven~ and ~Aghada~, two watering places inside the harbour, are
-within easy reach of Cove by steamer, which calls at Currabinny Pier.
-The Owenabwee[3] river runs between Currabinny and Crosshaven; it is a
-beautiful, well-wooded stream which has been celebrated in a
-plaintive-aired Jacobite ballad, the "Lament of the Irish Maiden."
-
-  "On Carrigdhoun the heath is brown,
-    The clouds are dark on Ardnalee,
-  And many a stream comes rushing down
-    To swell the angry Owenabwee.
-  The moaning blast is whistling fast
-    Through many a leafless tree,
-  But I'm alone, for he is gone,
-    My hawk is flown, ochone machree."
-
-A few hundred yards from Crosshaven river there is a fiord of the
-Owenabwee, known as Drake's Pool. Here the great soldier-sailor, Sir
-Francis Drake, with his five little sloops, hid in 1587 from a
-formidable Spanish fleet. The Spaniards entered the harbour, but failing
-to find their quarry, put to sea again in high dudgeon.
-
-Near ~Aghada~, at the other side of the harbour, is Rostellan Castle,
-formerly the residence of the Lords of Thomond. ~Cloyne~ is only four
-miles' drive "on the long car" through a rich countryside, and on the
-way may be seen a Druidical cromlech, at Castlemartyr, in a very fair
-state of preservation. Cloyne Round Tower "points its long fingers to
-the sky" above the ancient church wherein there is a fine alabaster
-statue of the metaphysician, Dr. Berkeley, who was Bishop of Cloyne.
-~Ballycotton~ is seven miles from Cloyne. The cliffs here are high and
-wild, and Youghal, shining white in the sun in summer weather, can be
-easily seen at the mouth of the far-famed Blackwater. There are modern
-hotels and moderate lodgings at Ballycotton. In the season splendid
-deep-sea fishing can be had in the vicinity, and the opportunities of
-sea-bathing are enticing.
-
-[Illustration: Ballycotton Harbour]
-
-[Illustration: _Photo, Lawrence, Dublin._ Ballycotton.]
-
-     For information as to Sport to be had in the Cork District, see end
-     of this volume, where particulars are given as to Golf, Fishing,
-     Shooting, Cycling, &c.
-
-[Illustration]
-
-
-
-
-[Illustration]
-
-The River Blackwater, Youghal, Etc.
-
-
-Edmund Spenser spent most of his time in Cork County, at Kilcoleman
-Castle in the vicinity of Buttevant. The place was well chosen as the
-house of a poet. The surrounding country is very beautiful, and every
-mountain and glen has its story.
-
-The town of ~Buttevant~ took its name from the battle-cry of the
-Barrymores--"Boutez-en-avant," "push forward." The ruins of the
-beautiful Abbey remain. At the time of the supervision of monasteries it
-was described as "a nest of abbots." Buttevant is the railway station
-for Doneraile, and hard by is Cahirmee, where the greatest horse fair in
-the British Isles is annually held. The fair lasts for two days. It is
-held about midsummer, and attracts buyers not only from all parts of
-these countries, but from as far away as Vienna and Stockholm. Spenser
-pays tribute to the beautiful Blackwater which flows through Mallow to
-Youghal--
-
-  "Swift Annsduff, which of the English is called Blackwater."
-
-Far away in the highland country between Cork and Kerry the stream
-rises, and comes floating and pushing down from the haunt of the
-fairies and the outlaw, through the wild country of Meelin. Here is a
-remarkable cave, the hiding place of Donald O'Keeffe, last of the old
-chiefs of the land of Duhallow, who was outlawed after the fall of the
-Jacobites.
-
-[Illustration: _Photo, Roche, Dublin._ In the Woods at Buttevant.]
-
-The river flows through Newmarket, the birthplace of Curran, and
-Kanturk, the birthplace of Barry Yelverton, to ~Mallow~ which is the
-centre of the lines of railway radiating into Kerry, Fermoy, and
-Lismore, as well as to Cork city. The town is very beautifully situated.
-In the distance are the Kilworth mountains, which seem afar off to join
-the ample deer-park at Mallow Castle. It was once one of the liveliest
-and most fashionable resorts in Ireland, but its famous spas, to which
-gentlewomen and gallants came in the last century, are now unfrequented
-and almost forgotten. When abductions, duelling, and such pastimes were
-in vogue, "The Rakes of Mallow" were in their heyday. As Lysaght sang:--
-
-  "Beauing, belleing, dancing, drinking,
-  Breaking windows, damning, sinking,
-  Ever raking, never thinking,
-  Live the rakes of Mallow.
-
-  Spending faster than it comes,
-  Beating waiters, bailiffs, duns,
-  Bacchus' true-begotten sons,
-  Live the rakes of Mallow.
-
-  Living short, but merry lives.
-  Going where the devil drives:
-  Having sweethearts, but no wives,
-  Live the rakes of Mallow."
-
-[Illustration: _Photo, Roche, Dublin._ Mallow Castle.]
-
-~The Blackwater~ flows past Mallow through a rich country surrounded by
-soft-breasted hills and well-planted lawns, to Fermoy, a garrison town
-of importance, from which Mitchelstown, eleven miles away, may be
-reached by a light railway. The caves at Mitchelstown are described
-elsewhere (Waterford section). We will part the branch line here and
-return, _via_ Cork, to Youghal, the point from which to become familiar
-with the Blackwater at its best.
-
-~Youghal~, except in summer-time, when the visitors to its splendid
-strand enliven its appearance, is a sombre old place with an air of
-retired respectability. It is full of memories of other days, for here
-the Dane and the Christian came together; the Norman made it a walled
-town, and the Spaniards came into its harbour.
-
-[Illustration: _Photo, Roche, Dublin._ View on the Blackwater Youghal.]
-
-[Illustration: _Photo, Roche, Dublin._ The Clock Tower, Youghal.]
-
-[Illustration: _Photo, Roche, Dublin._ Sir Walter Raleigh's House at
-Youghal.]
-
-From here Sir Walter Raleigh, its Mayor, went forth to found
-Virginia--and to the scaffold. It was a chartered city, and grew in
-wealth and importance from 1183 to 1579, when it was sacked by Gerald,
-sixteenth Earl of Desmond, then out "upon his keeping." Ormonde drove
-the Geraldines out of the town, and hanged the then Mayor outside his
-own door for aiding them. He rebuilt its walls, and placed here a
-strong garrison. In 1641 it was again besieged, but held out for six
-weeks until relieved. In 1645, Castlehaven attacked it, but was repulsed
-by Broghill, fifth son of the Earl of Cork. Here, during the war with
-the Confederates, money was struck. On the execution of Charles I.,
-Ormonde proclaimed his son King, but the Puritans in the town revolted
-to Cromwell, who wintered here in 1649. In 1660, the Cavaliers and
-broken followers of the Geraldines captured the town, and ten days
-before his actual succession proclaimed Charles II. King. With varying
-fortunes of war, the town passed into the hands of the Jacobites and
-Williamites. The objects of interest, besides the picturesque
-attractions of the strand and beautiful bay, are very many. The Clock
-Tower remains where the old South Gate to the town stood. Tynte's Castle
-was built by Norman settlers in the fifteenth century. St. Mary's
-Cathedral is cruciform, consisting of nave, aisle, transepts, choir, and
-massive tower. In the chantry of Our Blessed Saviour, or south transept,
-besides the memorial to the founder and his countess, is the grotesque
-mausoleum, in florid, glaring Italian style, to the Earl of Cork and his
-family. At Boyle's feet is the kneeling figure of his first wife, Joan;
-at his head is that of his second, Catherine. Over the arch is his
-mother, Joan, and along the margin of the plinth are nine diminutive
-effigies--his children. The tower was evidently constructed rather as a
-defence than simply for a belfry. The churchyard, where there are many
-ancient gravestones, is the chief centre of local superstition, and here
-all local ghostly visitations are alleged to take place. ~Myrtle Grove~,
-whilom the residence of the ill-fated Elizabethan soldier, Raleigh, is
-an unpretentious, ancient gabled dwelling. The interior is remarkable
-for its beautiful oak wainscoting.
-
-During his sojourn in Munster, "Captain Sir Walter Raleigh" performed
-many deeds of dering-do, albeit some of them were far from being like
-Bayard's, without reproach. He was Mayor of Youghal, 1588-9; and, with
-Spenser, was granted the greater part of the forfeited estates of the
-Earl of Desmond. Raleigh's grant comprised property at Youghal and along
-the Blackwater to Affane, already mentioned. In the garden attached to
-Myrtle Grove he is supposed to have planted the potato, the first
-planted in Ireland.
-
-The strand at Youghal is very fine, and sea-bathers are afforded every
-opportunity of enjoying themselves. In summer time the watering-place is
-much patronized, and every year is becoming more attractive. There are
-good hotels, and plenty of residences and lodgings to accommodate
-visitors during the season. In the morning the whole fore-shore is given
-over to the bathers, and in the evenings it is mostly "Oh, listen to the
-band" along the Promenade and in the Green Park. The inroads of the sea
-at Claycastle are at length being successfully encountered by the Case
-groining system, which has been found so efficient elsewhere.
-
-The coast-line from Youghal to Cork is indented with splendid sea
-cliffs, fiords, and strands. Garryvoe lies between Youghal and
-Ballycotton. The sea for miles along this district has been eating into
-the clay cliffs, and threatens to fulfil a Gaelic prophecy that it will
-yet reach Killeagh, a town six miles inland. Near Killeagh is a very
-beautiful scene of sylvan splendour, Glenbower.
-
-The railway line runs direct from Youghal to Cork, passing the thriving
-market town of Midleton, the granary of Cork County, and Carrigtwohill,
-where there are the ruins of a Norman Castle.
-
-A ferry from Youghal brings the passenger into Waterford County. The
-road above Whiting Bay leads to the fishing village of ~Ardmore~. It was
-perhaps, the first place in Ireland where the light of Christianity
-shone, as St. Declan is generally agreed to have been a precursor of the
-National apostle. In the country districts surrounding, as in the
-fishing village itself, the language most in use is Gaelic. The round
-tower, said to be of later date than any other in Ireland, is unique in
-many respects. The Cathedral, with its exquisite chancel arch and
-elaborate exterior arcading, will delight the antiquary and architect.
-Other interesting objects are the Ogham stones in its chancel, and the
-narrow lintelled "Bed" of St. Declan.
-
-[Illustration: _Photo, Lawrence, Dublin._ Strancally Castle, Co.
-Waterford.]
-
-The service of steamers from Youghal to Cappoquin up the ~River
-Blackwater~ depends at present mainly on the state of the tide. But
-despite this and other things, the scenery on the river side will well
-repay inconvenience. Having left the ferry behind, the first place of
-interest is Rhincrew (The Bloody Point), and on the wooded hill the
-ruins of a preceptory of the Knights Templars still remain. Higher up on
-the western bank of the Glendine tributary stands Temple Michael, an
-old fortalice of the Geraldines, which Cromwell battered down for "dire
-insolence."
-
-[Illustration: _Photo, Lawrence, Dublin._ Blackwater River.]
-
-There is a legend which tells that the last of the Geraldines was buried
-at Ardmore, far from his young bride, who lost her life during the siege
-by the regicides. The story says, after his burial, at night his voice
-could be heard clearly, calling across the river, to bring him back and
-bury him by his own. For seven years the awe-struck peasants heard the
-plaintive voice calling, in the tender tongue of the Gael, "Garault,
-come to me,"--"Gerald, a ferry!" At last, some young men of his clan
-went to Ardmore and brought his dead body to Temple Michael, where his
-wife was buried, and henceforth his spirit no longer troubled the silent
-vigils of the fishermen at night.
-
-The bend in the waterway brings one into sight of rich pastures and fine
-demesnes. Ballintray, "The Town of the Strand" has in its vicinity
-Molana Abbey, where the warrior, Raymond Le Gros, lies buried. At the
-broads of Clashmore, the highest water-mark to which the inflowing tide
-comes, one can easily imagine themselves upon an inland lake. Beyond is
-Strancally Castle, beetling over the river, set firmly in a foundation
-of crags. The local tradition carriers will gladly point out "The
-Murdering Hole," a natural fissure in the rocks, and here they will tell
-you that the departed Desmonds destroyed their guests after robbing
-them! Above the confluence of the Bride with the Blackwater,
-Villierstown and Camphire villages are passed, then the Awbeg joins its
-little flood, and beyond the island Dromana Ford is reached. Near is
-Dromana Castle, where "the old Countess of Desmond" was born. In the
-table-book of Robert Sydney, second Earl of Leyicester, written when
-Ambassador at Paris, about 1640, there is the following reference to
-her:--
-
-     "The old Countess of Desmond was a marryed woman in Edward IV. time
-     of England, and lived till towards the end of Queen Elizabeth, so
-     as she must needes be neare one hundred and forty years old. She
-     had a new sett of teeth not long afore her death, and might have
-     lived much longer had she not mett with a kind of violent death,
-     for she would needes climbe a nut-tree to gather nuts, so falling
-     down she hurt her thigh, which brought a fever, and that fever
-     brought death. This my cousin, Walter Fitzwilliam, told me. This
-     old lady, Mr. Haniot told me, came to petition the Queen, and,
-     landing at Bristoll, she came on foot to London, being then so old
-     that her daughter was decrepit, and not able to come with her."
-
-Dromana House, on the eastern branch of the river, is situated on a
-beautiful height, which commands the reaches of the river from Cappoquin
-to Youghal. At more than one point on the river there were opportunities
-of seeing in the distance the cloisters of ~Mount Melleray~--"the little
-town of God," lonely above the mists and shadows of the hills. As we
-walk or drive, the hillside behind the river winds its way through
-cliffs and well-wooded lands in front, the mountains unfold themselves
-range behind range. No one who has ever visited Mount Melleray will
-forget it or the generous Brothers. The Trappists, expelled from France
-in 1830, first settled on the borders of Kerry, but subsequently
-colonised this barren hillside, and already they have transformed it
-into a fine farm, containing rich pastures and thriving plantations. The
-monastery may be visited by gentlemen visitors, and cannot fail to prove
-of extraordinary interest. There are two guest houses, one for gentlemen
-and the other for ladies. No charge is made for their bed or board, and
-all creeds, classes, and nationalities are received with a _caed mille
-failté_. Every week a sermon in Irish is preached to the mountaineers.
-
-[Illustration: _Photo, Roche, Dublin._ Mount Melleray--View from South.]
-
-Either from Melleray or Cappoquin, ~Lismore~ may be reached by car or
-train. It was the home of learning of old, and to-day, not only its
-beautiful position but historic Castle command attention. It is the
-birthplace of Boyle, the philosopher. Ptolemy is asserted very
-confidently by some authorities to have mentioned this place and its
-river. It is certain, however, that the place was long in existence in
-631, when St. Carthage, of Rahan, fled thither. Nothing could be
-prettier than the appearance of the town, and it is a comfortable,
-well-to-do place, monopolising the trade of a large countryside. St.
-Machuda's Cathedral will repay inspection. The Castle is the Irish seat
-of the Duke of Devonshire. It was an ancient fortress, dating back to
-the reign of King John. It stands in a pre-eminently commanding
-position, over the Blackwater, and was the scene of many a hard-fought
-fight, especially in the wars of the Commonwealth, when Castlehaven
-captured it from the Roundheads. A magnificent view of the surrounding
-country may be had from its higher-storied windows. The public are
-freely admitted. From one of the high windows, it is said, when James
-II. was asked to look, he accused the maker of the suggestion of
-desiring to throw him from the dizzy height.
-
-From the Railway Station at Lismore, the most interesting object in view
-is the new Roman Catholic Cathedral, dedicated to St. Carthage, the
-founder of the See, and believed to occupy the site of his cell. Thickly
-surrounded by beautiful lime trees, the warm red sandstones of the
-walling, with the limestone dressing of the windows and doorways, forms
-a brilliant picture. The interior is richly furnished, and altogether
-the church is well worthy of a visit.
-
-[Illustration: _Photo, Roche, Dublin._ The Guest House, Mount Melleray.]
-
-
-
-
-[Illustration]
-
-Waterford and District.
-
-
-Waterford is the port of call for most of the shipping from the West and
-South of England and Wales. The projected system by which steamers will
-run direct from Fishguard to Rosslare Harbour, whatever effect it may
-have upon Waterford as a port, will bring it by many hours nearer to the
-English markets. It is only a question of a few years until this route
-will be at the disposal of tourists and travellers from across the
-Channel. Under the Amalgamation of Railways Act of 1900, Waterford has
-the additional advantage of becoming a terminus of the system. With it
-as centre, railway services are supplied to Cork County and Lismore, to
-Limerick _via_ Carrick-on-Suir and Clonmel, and to Kilkenny _via_
-Kilmacow and Thomastown.
-
-[Illustration: _Photo, Croker, Waterford._ Waterford.]
-
-[Illustration: _Photo, Roche, Dublin._ Waterford, from North Side of
-River.]
-
-"The Star of the Suir"--the City of ~Waterford~--derived its name from
-the Danish words, Vedr-fiord, given to it by its original founders, the
-hardy Norsemen. From whatever side we approach the old town, whether
-land or sea, the sight is equally delightful. From without, approaching
-by the broad waterway, the city stretches forth to meet us, with the
-quaint wooden bridge spanning the noble river, and the hills forming a
-zone behind. Surely the Danes had an eye for beauty, as for maritime
-advantage, in selecting this happy spot for their fortress. In the ninth
-century, when the ploughers of the sea seized on the mouth of the Suir,
-they fortified a little delta some twenty acres in size, having the
-present Quay as its long side. From this little triangle the town grew,
-and in the last century was one of the first seaport towns in Ireland.
-Here, in 1171, Strongbow landed, defeated the Danes and Irish, who had
-confederated to repel him, and sacked the town. It is a strange
-historical coincidence that the Feast of St. Bartholomew was the day on
-which Strongbow landed and countenanced the massacre of the inhabitants.
-Under Raymond Le Gros the carnage was carried out, and in St. Lawrence
-O'Toole's address to the Irish princes at peace with the invader, which
-has been versified by Sir Charles Gavan Duffy, it is referred to in the
-lines:--
-
-  "Tell me not of leagues and treaties,
-    Treaties sealed in faith as true
-  As Black Raymond's, on the bloody
-    Feast of St. Bartholomew."
-
-[Illustration: _Photo, Croker, Waterford._ The Quays, Waterford.]
-
-King John landed here, and the town was walled in and fortified against
-the Irish, who hung like wolves around a fold in the outlying country.
-In the Revolution the town adhered to the King. It was the port most
-used by the Confederates, and here many of their proclamations were
-printed. It was the one place in Ireland which successfully resisted the
-all-conquering Cromwell, and hence received the name from the Cavaliers
-of _Urbs intacta_. An object of historic interest which has been
-restored within the present century is Reginald's Tower. It was built
-originally by Reginald the Dane, son of Sitrius, the great Danish King
-of Dublin and Fingal (The Fair Strangers), whom Brian Boru defeated at
-Clontarf. Here, it is said, DeClair married Eva, whose fair face induced
-him to join his forces to her father's fallen fortunes. Maclise, in his
-wonderful historical picture "Bartered Away,"[4] represents the nuptials
-as taking place on the battlefield, dyed with the blood of the
-vanquished Irish. There could not have been much love in the match after
-all. Strongbow was scarcely dead when his young widow wrote to Raymond
-Le Gros that "a great tooth had fallen out," which he understood to mean
-that the time had arrived for him to come and make her his own, which he
-did. The patron saints of the diocese of Waterford and Lismore are Saint
-Cartach and Saint Otteran, the latter being a Dane who embraced
-Christianity. The Cathedral (Episcopalian) occupies the site of the old
-Danish Cathedral, the existence of which, together with that of Christ
-Church in Dublin, bears testimony to the zeal with which the Danes
-embraced Christianity. The Quay is the most characteristic bit of
-Waterford. Across the bridge, from Mount Misery or Cromwell's Rock, two
-points of vantage, excellent views of the surroundings can be had. The
-Suir, shining silvery, steals in and out among the hills and by the old
-town into the sea. The most interesting of the ancient monuments in
-Waterford is what is commonly called the "French Church," which, more
-correctly, is entitled "The Holy Ghost Friary." Authorities agree in
-assigning the date of its foundation to 1240, but its history has never
-been written. After the Edict of Nantes, the fugitive Huguenots formed a
-little colony in Waterford. The Corporation granted a salary to their
-minister, and they were provided with a place of worship in the choir of
-the old church. All that remain of this once gorgeous pile of
-buildings are the ruins of the tower, Lady Chapel, chancel, and nave.
-The style is Early English, and the most attractive feature is the
-graceful three-lighted east window. The Catholic Cathedral is worth a
-visit. Within easy reach of the Quay is Ballybricken, the heart of the
-bacon industry, and the home of the best known body of pig-buyers in
-Ireland. These men are almost a community to themselves. They have their
-own traditions, and are more like an organisation which would have
-sprung up from a church guild centuries ago than in any way a modern
-trades union. Formerly Waterford was remarkable for the manufacture of
-beautiful cut glass, but the industry has died away. The housekeeper who
-possesses specimens of the art considers herself lucky indeed in her
-possession, as collectors are continually on the alert to procure them.
-In the immediate vicinity of Waterford itself there are many beauty
-spots and places of interest. In the suburb of Newtown stands the
-paternal home of Lord Roberts of Waterford and Candahar, besides whom on
-its roll of famous children Waterford includes the names of Charles
-Keane and Vincent Wallace. Portlaw, four and a half miles away, on the
-south bank of the Suir, was once the centre of a thriving cotton
-industry. Here an order may be had at the estate office to visit
-Curraghmore, the residence of the Marquis of Waterford. The magnificent
-demesne includes over four thousand acres, and Curraghmore is possessed
-of the best-blooded stud of hunters in Ireland.
-
-[Illustration: Imperial Hotel, Waterford.]
-
-[Illustration: Curraghmore.]
-
-[Illustration: _Photo, Croker, Waterford._ Tramore.]
-
-~Tramore~, seven miles away, is reached by train in fifteen minutes. It
-is one of the most popular watering places in the South of Ireland, and
-in the height of the season it is estimated that about four thousand
-visitors augment the normal population of two thousand. Many of the
-Waterford merchants live there, and their villas and the houses of the
-town, rising one street above another on the side of the hill, make a
-pretty picture when viewed from the strand. The hotels are numerous,
-the Grand Hotel can be recommended as being specially comfortable, while
-there are three or four other hotels where very good accommodation can
-be had. The lodging-house accommodation is equal to that to be obtained
-at any Irish seaside resort.
-
-[Illustration: _Photo, Croker, Waterford._ Evening at Tramore.]
-
-In addition to capital sea and trout fishing, the visitor can enjoy the
-pleasures of golf and lawn-tennis, and during the summer months races
-are frequently held at the Tramore Flying Course, which is situated
-within view of the town. The views of this pleasantly situated holiday
-reunion will recall to many minds happy days spent by the Sounding Sea.
-
-The Rabbit Burrow, a little further on, is a mile in length, and helps
-to divide the Back Strand from the spacious bay. Just before reaching
-this Burrow, the visitor will see a tombstone erected to the memory of
-those who were lost in the "Sea Horse" transport, in January, 1816, when
-returning from the Peninsular Campaign. No less than 362 lost their
-lives in this terrible disaster. At the western side of Tramore there
-are many places along the rock-bound coast well worth a visit. Passing
-along in the Newtown direction we come in view of the Ladies' Cove;
-here, years ago, a fishing pier was built by the Board of Works. It was
-swept right away one stormy night over two decades ago, and has not been
-replaced since. Along the Cliff Road we catch views of Gun's Cove, and
-the Gillameen Cove, where excellent bathing facilities, free of charge,
-can be availed of by the visitor.
-
-On the western shore, twelve miles by road from Waterford, is the pretty
-watering place of ~Dunmore~. It is situated at the mouth of the river
-Suir in a valley gently sloping to the sea, and is protected from the
-north winds by a wood which, in the hot summer days, is a most
-delightful resort for visitors. There is also a public park and tennis
-ground, and the facilities for bathing, particularly for gentlemen,
-leave nothing to be desired.
-
-[Illustration: _Photo, Croker, Waterford._ Dunmore.]
-
-In the early part of the last century the place was a mail packet
-station for the mails to and from England. The harbour was built by the
-Government at a cost of about £100,000, and is at present under the
-control of the Board of Works. Here, in the fishing season, are boats
-from all parts of the Kingdom fishing for herring and mackerel, and
-special steamers are constantly running to and from Milford with the
-harvest of the sea.
-
-There are some particularly good villas and houses which can be rented
-in the season, and there is a good hotel just over the harbour, while
-rooms are to be had on reasonable terms at many houses in the town. For
-persons who desire a select quiet place to spend a holiday in, it can be
-recommended strongly, while for those who are fond of sea-fishing or
-yachting no better place in Ireland can be had. Although there is no
-railway connection with Waterford cars run daily, the fare being only
-_1s._ for the twelve miles.
-
-Above the confluence of the Barrow and Suir, six and a half miles from
-the city, from the top of the hill over Cheekpoint (Side a fairy)--where
-"the river Rosse meets the river of Waterford"--a grand panorama
-presents itself. In the distance the mountains shoulder one another for
-prominence; the Comeraghs, the many peaked Galtees, and
-
-  "Sweet Slievenamon, the darling and pride,
-  With soft flowing bosom and brow like a bride."
-
-This beautiful mountain owes its name, "The Hill of the Women," to a
-Finnian legend, which tells that Finn M'Cool promised to make his wife
-of whichever of the fair women of Ireland could reach its summit first,
-when all were started from the foot. Grainne Oge, the Gaelic Helen, of
-course was heroine of the day, and Finn's taking her was the origin of
-one of the most enthralling of the Celtic romances.
-
-[Illustration: _Photo, Croker, Waterford._ Dunmore Harbour.]
-
-Among the more interesting objects at Dunbrody are St. Catherine's
-Church, an old time dependency of the Abbey, and the splendid remains
-of the Cistercian Monastery, rising above the meadows by which the
-Campile Stream flows. The monastic church in general style is Early
-English, and is fairly preserved. It dates from the twelfth century, and
-was founded by Henri de Montmorenzi, Marshal to Henry II.--the same who
-was killed at the Curragh.
-
-There is a severe simplicity about its lines which gives an impression
-of great dignity. The crenelated Tower springs from the nave and
-transept. The Abbots of Dunbrody sat as Lords in Parliament, and
-exercised civil jurisdiction. Above Dunbrody, on the river opposite "The
-Little Island," where was an ancient hermitage, in a straight line is
-Ballinakill House, where James II. spent his last night in Ireland, on
-the day before that celebrated in the ballad, which tells:--
-
-  "Righ Shemus he has gone to France,
-    And left his crown behind,
-  Ill luck be their's, both day and night,
-    Put running in his mind."
-
-~Passage East~ (seven miles), now a fishing village, with spider-legged
-spit light, was reduced by Cromwell in 1649. The old mole still stands.
-At Ballyhack, across the ferry, a strong, square castle is well
-preserved. "New Geneva," in the vicinity, was garrisoned with Hessians
-during the Rebellion of '98. It is mentioned in the well-known Irish
-song, "The Croppy Boy." The place received its name in 1786, when a
-colony of Genoese exiles were established there. On the Waterford coast,
-from the city to where the Blackwater kisses the sea, beside a range of
-noble cliffs, there are many points of interest. The Tower of Hook,
-standing one hundred feet high, on the promontory of the same name on
-the Wexford side, is attributed amongst others to Reginald the Dane,
-Ross MacRume, the founder of New Ross, and Florence de la Hague (1172).
-Its circular walls are of great thickness and strength. When Strongbow
-heard of this Tower of Hook, with Crook (Norse, Krok a nook) on the
-western side, he is alleged to have said "He would take Waterford by
-Hook or Crook," and thus originated a common saying which has come down
-to our own days. The Saltees, two islands off the Wexford coast, were
-the refuge to which Colclough and Bagnall Harvey hastened in vain after
-the suppression of the Rebellion in '98. Helvick Head, the name of which
-also betrays its Danish origin, marks the entrance to Dungarvan Bay. The
-line running from Waterford to Limerick Junction contains many places of
-interest, from which short tours may be made. As we come near to
-~Carrick-on-Suir~ the castle comes into view. The present building was
-mainly erected by the former Earl of Ormonde, "Black Tom," as he is
-known in history. He was one of the many Irish gallants who found favour
-in the eyes of Queen Elizabeth. From Carrick, a drive of eight miles
-brings us to Lough Coumshinawn, a lonely tarn lying high among the
-Comeragh mountains, on one side of which the cliff rises perpendicularly
-to a height of seven hundred feet. The railway from Carrick runs through
-the beautiful valley of the Suir to Kilsheelan, and then passes to the
-left of the Knockmealdown mountains to ~Clonmel~, the capital of the
-"premier county." The town is pleasantly placed in a thriving centre of
-local trade. It figured largely in the fights between Cromwellian and
-Confederate, and some of the old battlements still stand witness to its
-strength in bygone times. The peasantry have a tradition that a cloud
-will ever hang above the town since Father Sheehy's death in the last
-century. The tradition is hinted at in the beautiful emigrant ballad
-"Shameen Dhu," by Katherine Tynan:--
-
-  "Now, God watch over you, Shameen,
-    An' His blessed Mother Mary!
-  'Twas you that had the lightest heart
-    In all sweet Tipperary--
-
-  'Twas you could sing the blackbird's song,
-    In dry or rainy weather:
-  Avic, the long-road wasn't long
-    Whin we thravelled it together.
-
-  Sure, scores of times in the mornin' bright
-    You sung this very road,
-  You med the mare's heart bate so light
-    She never felt her load;
-  'Twas you could lilt wid the thrush's trill,
-    Ah, well, avic machree!
-  God grant you may be singin' still
-    In that lonely far counthrie!"
-
-[Illustration: _Photo, Roche, Dublin._ Holy Cross Abbey at Thurles.]
-
-The name of Laurence Sterne, author of "Tristram Shandy," and of the
-gorgeous Countess of Blessington, are both associated with Clonmel as
-their birthplace. Through a mountain cut, appropriately called "The
-Wilderness," the railway line runs aside to Thurles. The little church
-of Rathronan, standing high on the hill, was the scene of the
-sensational Arbuthnot abduction in the last century. Those who wish for
-details of that unhappy love affair will find the story told in faithful
-words elsewhere. The demesne lands between Clonmel and Fethard are many.
-~Fethard~ was an old walled town, it defied the Cromwellians, and
-surrendered with all the honours of war. After treaty and terms were
-agreed on, the Roundheads found that what they had mistaken as gaping
-mouths of cannon on the fortress were nothing more dangerous than
-innocent churns placed in positions of pretence, not defence. The
-bogland from Fethard to Thurles is uninteresting; the intermediate
-stations are Farranalleen, Laffan's Bridge, and Horse and Jockey, at
-which collieries are still being worked. At Thurles we meet the main
-line of the Great Southern and Western. ~Thurles~, originally a Danish
-town and the scene of the battle between the Norsemen and Irish,
-afterwards became a fortalice of the Knights Templars. Here, by the
-bridge across the Suir, the remains of the old settlement are still to
-be seen. Four miles distant, standing by the banks of the river,
-surrounded by tall trees, are the remains of the once great Cistercian
-~Holy Cross Abbey~. It was built in 1168-69 to house the relic of the
-True Cross sent by the Pope to Brian Boru's grandson, Donald, King of
-Thomond. This interesting relic, after centuries of vicissitudes, is now
-enshrined at the Convent of the Ursulines, in Blackrock, Cork. On the
-feasts of the Finding of the True Cross (May 3rd), and of the Exaltation
-of the Holy Cross (September 14th), and on every Friday in Lent, it is
-presented for public veneration. Thurles is the seat of Episcopal
-residence of the Archdiocese of Cashel. On the main line higher than
-Thurles is Templemore, founded by the Knights Templars. Between Thurles
-and the Limerick Junction is Goold's Cross station, six miles from
-Cashel. The noblest evidence of the early civilization of Ireland is to
-be found in ~Cashel Of the Kings~. Generally the buildings date from the
-early twelfth century, the Round Tower being much earlier and the
-Cathedral later. Cormac's Chapel was consecrated in 1134, being built by
-the Saint King of Munster. It is rich Norman work, comprising nave,
-chancel, and towers at the transepts. The doorways and chancel arch are
-elaborate. The Round Tower is unique when compared with the other
-buildings, as it is of sandstone. It is connected with the transept of
-the Cathedral. The pointed windows, choir, transepts, and tower are very
-beautiful. In the burial-ground outside is the famous Cross of Cashel,
-with a sculptured effigy of St. Patrick. The whole group gathered
-together on the massive Rock of Cashel, whose firmness is a proverb in
-Ireland, presents an imposing array. This Cathedral was the one burnt by
-the Earl of Kildare in 1495, when his excuse was that he thought the
-Archbishop was within. Here, in 1647, a bloody tragedy fell out.
-Murragh-an-Theathaun, "Murrough of the Burnings," as the peasantry still
-call Lord Inchiquin, massacred a number of women and children, who
-sought sanctuary here when Cashel had fallen before his siege train. At
-the foot of the rock are the cruciform remains of the Abbey of the
-Cistercians. If, instead of diverging from Clonmel to Thurles, we
-continue to the Limerick Junction, we pass Cahir, a military station
-with an ancient Castle in excellent repair. From Cahir, tourists can
-drive to Cashel, to Ardfinane, or to ~Mitchelstown~ _via_ Clogheen. The
-Caves at Mitchelstown may be visited from Fermoy, Lismore, or Clogheen,
-and if the visitor is sojourning at any of these places he should find
-his way to these wonderful formations. Besides the caves, Mitchelstown
-contains Caherderinny Castle, Kilbehiny, and Mitchelstown Castle, the
-residence of the Kingston family. Leaving the village of Kilbehiny we
-cross to Skereenarinka, "the height for dancing," and follow a narrow
-hilly road on the Galtee side which leads to the caves, in the townland
-of Coolagarranroe. The different chambers of the larger caves, of which
-the Kingston gallery is most beautiful, have been named: "the House of
-Lords," "the House of Commons," "the Cross of the Four Roads," "the
-Scotchman's," "O'Leary's," and "O'Callaghan's" caves, "the Altar," "the
-Closet," "the Cellar," and "the Garret." The smaller objects of interest
-within have been called: "Lot's Wife," "Mary Queen of Scots," "the Bed
-of Honour," "the Cat and Kittens," "the Flitch of Bacon," &c. From
-Clogheen to Tipperary we cross the Suir, and follow the foot of the
-Galtees. The surrounding country is picturesque and contains some of the
-finest pasture land in Ireland, being part of what is known in Munster
-as the "Golden Vale." Four miles away by a beautiful road, through the
-rising-grounds, the Glen of Aherlow can be reached. The glen is richly
-wooded, and from Newbridge over the Aherlow river, Galteemore (3,015
-feet), the highest peak of the range may be reached. Tipperary town is a
-good market place, and is pleasantly situated beneath Slievenamon. The
-only relic of its former grandeur is that of the Augustinian Friary, a
-foundation of Henry the Third's reign.
-
-[Illustration: _Photo, Roche, Dublin._ Rock of Cashel.]
-
-     For information as to Sport to be had in the Waterford District,
-     see end of this volume, where particulars are given as to Golf,
-     Fishing, Shooting, Cycling, &c.
-
-[Illustration: _Photo, Lawrence, Dublin._ Dungarvan.]
-
-
-
-
-[Illustration]
-
-Killarney and Glengarriff.
-
-
-Killarney.--From Limerick Junction to Mallow, where the branch line runs
-into Kerry, the tourist to Killarney runs by many places of interest.
-~Emly~, now a dwindled village, was once a diocesan city. During the
-wars of the Commonwealth, Terence Albertus O'Brien, Bishop of Emly, was
-executed in Limerick by Ireton. His stole and pectoral cross are still
-in the possession of representatives of the family to which he belonged
-at Mitchelstown.
-
-In the rich plain under the Ballyhoura hills, "the land flowing with
-milk," is the ancient town of ~Kilmallock~. It was the citadel of the
-Earls of Desmond when they held high their crests, and every stone in
-the place is historical.
-
-Two of its four gates still remain, and among the ruins, which have
-secured it the name of the "Baalbec of Ireland," are those of the old
-Dominican Priory and Abbey Church. In the former is the mutilated grave
-of the White Knight, a name still loathsome in the peasant's ear, and on
-whom the bards have let fall their choicest curses.
-
-Lough Gur is of interest to the antiquary. It is ten miles to the north,
-and was the centre of the Desmond country. Here of old, the Kings of
-Cashel kept their Grenan or "Sunny Place" for feasting. The cyclopean
-structure in the vicinity points to the place as being of importance in
-pre-historic times. From Charleville, a thriving town, runs a line of
-railway direct to Limerick. Buttevant and Mallow are particularly
-referred to elsewhere. Millstreet is the border town on the mearings of
-Cork and Kerry.
-
-Beyond the bogland country outside Millstreet is the village of Cullen,
-where tradition says no smith has been known to thrive. Saint Lateerin,
-a virgin of early Christian days, near here made her recluse, and every
-day she walked across the bog, and took "living fire" in her kirtle from
-the forge to her home. The smith once remarking the prettiness of her
-white feet, she momentarily forgot her vow of chastity, and the fire
-burnt through the homespun and blistered her feet. She went back to her
-cell, and prayed that no smith should ever thrive in Cullen, and none
-has ever tried to do so!
-
-~Rathmore~ is on the high road to Gneeveguillia mountain, and to the
-north of the station, and at Christmas time, 1896, occurred the fearful
-_débâcle_ of the bog, which struck terror into the simple inhabitants,
-and, not unnaturally, was attributed by them to super-natural causes.
-Two hundred acres of Bogach-na-Mine formed a landslip and rolled in a
-huge mass southwards, sweeping away several little farmsteads and
-suffocating the inhabitants and cattle. At ~Headford~, the junction for
-Kenmare, the scenery is very wild, and all around
-
-  "Kerry is pushing her high headlands out
-  To give us the kindly greeting."
-
-At last, after about a four hours' run, if we came by the special
-tourist train from Dublin, we have completed our one hundred and
-eighty-six miles, and are in sight of
-
-KILLARNEY,
-
-the home of lakes, which has well been called "the Gem of the Western
-World": its magnificent mountain peaks, its green swards and gushing
-cascades, all surrounded with an atmosphere of romance and tradition.
-Outside the railway station, we are face to face with the finest hotel
-in the south of Ireland. Well placed, well managed, it combines all the
-comforts of a home with the convenience of a well-appointed hostelry. It
-is within easy reach of the principal points of interest.
-
-[Illustration: Boating at Killarney]
-
-[Illustration: Great Southern Hotel--Killarney.]
-
-[Illustration: _Photo, Guy & Co., Cork._ Lakes of Killarney.]
-
-The grounds adjoin Lord Kenmare's beautiful demesne and Deer Park, which
-skirts the lake shores, and contain the splendid Golf Links.
-
-Killarney, or "the Church of the Sloetrees," lies on a flat plateau,
-within a mile from the shores of the far-famed Lough Lene, as the three
-lakes, popularly known as the Lakes of Killarney, are called in Irish.
-The town possesses an Episcopal Palace, a cathedral and churches of
-interest, besides a monastery and School of Arts and Crafts. Otherwise
-it deserves little attention; but on fair days, when the peasantry from
-the neighbouring parishes crowd in, it presents a lively and varying
-aspect. If the town is insignificant, not so its surroundings, for
-nowhere else in the wide world is there such a combination of charms and
-variety of beauty, in mountain and lake scenery, thrown together.
-
-  "For how could river, lake, and sea
-  In softer sister hues agree?
-  Or hills of passionate purple glow
-  Far and near more proudly flow?
-  And when will summer kiss awake
-  Lovelier flowers by lawn or brake?
-  Or brighter berries blush between
-  Foliage of a fresher green?"
-
-There is a story of a tourist who, lingering long in the Holy Land, was
-pained at the irreverent hurry of an American, who arrived there one
-afternoon, scurried over the sacred places, and prepared to depart
-betimes on the morrow. He timidly inquired of the swift-foot why he, who
-had come so far, rushed away so quickly. "Sir," said the American, "I am
-timed to do Europe in a fortnight. I have thrown in the Holy Land, but
-if I stay here longer than one night I cannot see Killarney, which takes
-three days." He was a wise man in his generation. Although enterprising
-people have attempted to do the tour of the Lakes in a day, they have
-always gone away more than satisfied with what they saw, but with hearts
-hungry to return at a future date, and behold the beauties they had
-left unseen.
-
-[Illustration: _Photo, Lawrence, Dublin._ On the Upper Lake, Killarney.]
-
-The ~Lakes Of Killarney~ are three in number, connected by a
-swift-flowing stream, the Long Range, and emptying their waters through
-the river Laune into Castle Haven, on the Kerry coast. The entire
-journey can be performed by boat, but in the suggested tours given, both
-car, and boat, and ponies are pressed into our service.
-
-The divisions of the Lough Lene are:--The Upper Lake (extreme length,
-two-and-a-half miles; extreme breadth, half-a-mile); the Torc, or Middle
-Lake (extreme length, two miles; extreme breadth, seven-eighths of a
-mile); and the Lower Lake (extreme length, five and one-eighth miles;
-extreme breadth, three miles). The first glimpse caught of the lakes,
-lying like broad mirrors beneath the high mountains, is a vision of fair
-delight. Like tall clansmen, Mangerton, Carnthoul, and the gathering
-Cruacha dhu M'Gillicuddy--the black reeks of the McGillicuddy--muster
-around, as it were, to re-tell us
-
-      "The tale of the spell-stricken band,
-  All entranced, with their bridles and broad swords in hand,
-  Who await but the word to give Erin her own"--
-
-that old legend of the sleeping warriors garrisoned within the
-mountain's sides, which is met with in more than one Irish county. The
-Upper Lake is characterised by an untamed, peerless outline, and so near
-to the mountains does it lie, that the fissures in their rugged sides
-are almost countable, and the fingers of fancy almost touch the gorse on
-their slopes. Gliding over its waters, we readily see in them a
-land-locked sea. A ridge of the Glena mountains shuts it out from the
-north, the many-peaked reeks guard the passes to the west, and to the
-south stands up Derrycunnihy--"The Oak Wood of the Rabbits"--between
-which and Torc is the fair bend of a Glen Coumagloun. Between the lips
-of the Lakes and the feet of the hills there appears no distance
-
-  "Save just a trace of silver sand
-  Marks where the water meets the land."
-
-Muffling the boatmen's oars for a moment, we can realise that
-indescribable solemnity with which silent nature hushes everything. Even
-the countless streams that have lost their way across the highlands, in
-their hurry to join the Lakes, seem to cease from babbling. But
-following the sinuous Long Range when we reach the still water beneath
-the Eagle's Nest, Nadanullar, is the psychological moment to awaken the
-echoes that eternally haunt the frowning eyry. A bugle-call sounded here
-is taken up by the barricades of rock, and is repeated even ten times
-over. Small wonder that the fairy hosts are credited with passing it
-along their lines! The mountains take up their dying tones of sweet
-sounds, and answer it one to the other until the ear can no longer
-follow it through space. The ferns and rich foliage of the mountain side
-trail their long fingers in the water, and cluster and quicken among the
-crevices of the rocks. Recently the Laureate visited Ireland for the
-first time; hitherto this land of poetry had been to him but "the
-damnable country" of the politician. He came, he saw, but Killarney
-conquered; and he, like all others who have gazed upon its beauty,
-renders tribute where it rightly belongs. "Damnable" is not the
-adjective to apply to a heavenly land, of which he truly says:--
-
-"Such varied and vigorous vegetation I have seen no otherwhere; and when
-one has said that, one has gone far towards awarding the prize for
-natural beauty. But vegetation, at once robust and graceful, is but the
-fringe and decoration of that enchanting district. The tender grace of
-wood and water is set in a frame-work of hills--now stern, now ineffably
-gentle, now dimpling with smiles; now frowning and rugged with impending
-storm; now muffled and mysterious with mist, only to gaze out on you
-again with clear and candid sunshine. Here the trout leaps; there the
-eagle soars; and there beyond the wild deer dash through the arbutus
-coverts, through which they have come to the margin of the lake to
-drink, and, scared by your footstep or your oar, are away back to
-crosiered bracken or heather covered moorland. But the first, the final,
-the deepest and most enduring impression of Killarney is that of beauty
-unspeakably tender, which puts on at times a garb of grandeur and a look
-of awe, only in order to heighten by passing contrast the sense of soft
-insinuating loveliness. How the missel thrushes sing, as well they may!
-How the streams and runnels gurgle, and leap, and laugh! For the sound
-of journeying water is never out of your ears; the feeling of the moist,
-the fresh, the vernal, is never out of your heart. My companion agreed
-with me, that there is nothing in England or Scotland as beautiful as
-Killarney--meaning by Killarney its lakes, its streams, its hills, its
-vegetation; and if mountain, wood, and water--harmoniously
-blent--constitute the most perfect and adequate loveliness that nature
-presents, it surely must be owned that it has all the world over no
-superior."
-
-[Illustration: _Photo, Lawrence, Dublin._ Shooting the Rapids.]
-
-Leaving the ~Upper Lake~ behind, and bidding adieu to the green islands
-that stud its breast with arbutus and the cedars of Lebanon, the Old
-Weir Bridge meets the eye. 'Neath its arch the waters come down with
-foam and force, the oars are shipped, and we shoot straight through the
-eye of the rapid, thanks to the strong arm and sure nerve of the
-oarsmen. The beautiful reach here is the bosom "where the bright waters
-meet." Amid exquisite combination of colour, a Vallambrosa strewed with
-ferns, lichens, mosses, rich green hollies and arbutus with many
-coloured berries, we tread our way by a passage of beauty round Dinis
-Island into the ~Middle~ or ~Torc Lake~, sheltered by the broad breast
-of the mountain from which it takes its name. Like "Muckross," the
-"Pleasant Point of Wild Swine," the name Torc is called after the wild
-boars, which in former years went "gerasening" over its slopes. Rising
-abruptly, the mountain stands clear between Mangerton and Glena, the
-lower sides well wooded. ~Innis Dinish~, the island at the "beginning of
-the waters," is the port for boats. The Cottage may be visited. The
-Whirlpool, between the waters of the lake and river, has been called
-O'Sullivan's Punch Bowl. Drohid-na-Brickeen, "The Bridge of Little
-Trout," or Brickeen Bridge, and Doolah, where the disused marble
-quarries and copper mines are still pointed out, are within a short
-distance. At the estuary of the Devil's Stream, which flows through the
-ravines on the mountain side, is the Devil's Island--almost
-inaccessible--on which a few stunted trees manage to secure a precarious
-existence. Within the little bay of Dundag is Goose Island. The rocks
-and caves along the lake shores are shrouded with traditions of
-O'Donoghue, Chieftain of the Glens. A long cave is called "The Wine
-Cellar"; at the end is "O'Donoghue's Arm Chair"; his Butler, a solitary
-crag, is called "Jackybwee." The most interesting of the fissures made
-by the waters in the rock side are what the enterprising boatmen have
-agreed to call "Colleen Bawn Rock." By the beautiful Glena Bay, we enter
-the Lower Lake, which is the largest and most charming of the group. It
-sleeps beneath the guardian heights of the Toomies Hills, and a vision
-of more loveliness is nowhere to be found. Low-lying shores, to the east
-and north, are jungled with the fronds of the hill ferns.
-
-  "Oh, the Fern! the fresh hill Fern!
-  That girds our blue lakes from Lough Ine to Lough Erne;
-  That waves on the crags, like the plume of a King,
-  And bends like a nun, over clear well and spring;
-  The fairy's tall palm-tree, the heath birds fresh nest,
-  And the couch the red deer deems the sweetest and best;
-  With the free winds to fan it, and dew-drops to gem,
-  Oh, what can ye match with its beautiful stem!"
-
-[Illustration: _Photo, Lawrence, Dublin._ Eagle's Nest Mountain,
-Killarney.]
-
-The highest mountain in Ireland, ~Carrantual~,[4] at one side lifts its
-lofty brow, "crowned with tiaras fashioned in the sky." On its summit an
-outlaw, known in Munster as the "Shon" or Hawk, after many sleepless
-nights, footsore and weary, slept here with a prayer, "Thank God, at
-last I am above all my enemies." The peasantry pronounce the name
-"Carntwohill," which translated means, the left-handed or inverted
-sickle. The expansiveness of the Lower Lake appears at first to minimise
-its beauty, when compared with its smaller companions. But the more its
-loveliness is explored, the greater the revelation of the harmony and
-luxuriance of the landscape. No less than thirty-five islands, like
-beauty spots of a fairy "drop scene," bedeck the silver sheen of its
-surface. The largest of these, ~Innisfallen~, almost midway between the
-eastern and western shores, is some thirty acres in extent, and is
-engirdled by leafy bowers of green trees. Shaggy sheep are couched in
-repose, or are busy with its verdant lawn. In the early morning, or
-tender gloaming which closes the Munster day, the holy place is
-
-  "Quiet as a nun,
-  Breathless with adoration."
-
-[Illustration: _Photo, Lawrence, Dublin._ The Turnpike Cap of Dunloe.]
-
-Shafts of the dawning or waning sun, as the hour may be, illumine the
-fair pageant. The wavering outlines of the hills make the turret-tops
-to the dark green of the woods and the emerald of the meadows. The
-richest of colours from hill, tree, and rock accumulate on the surface
-of the Lake, burnished like silver. To-day the natural scenery is the
-same as of old, and few will wonder that here a saint found delights to
-prepare him in some degree for the pleasures stored in eternity. Of St.
-Finian Labra we know little beyond that he was a native of Ely
-O'Carroll, then a part of Munster, and was a disciple of St. Brendan.
-But his spirit loiters around Innisfallen, and the most casual of
-travellers will tread lightly on the ground hallowed by his footsteps.
-The monastic remains are many, but by the enthusiastic antiquary alone
-can their fragments and chief features be traced. "_The Annals of
-Innisfallen_," which form one of the chief sources of Irish history,
-were written here 600 years ago. Leaving the "Holy Island," we cross the
-lake and land at the foot of the Toomies Mountains, famous in
-pre-historic myths, to visit the O'Sullivan Cascade. The legend, which
-is too often wasted on sceptical ears, tells that O'Sullivan, a captain
-of his people, renowned amongst them for fleetness of foot and prowess
-as a hunter, on one occasion went to hunt the red deer. The faint yellow
-rays of morning were lighting up the eastern sky as he went forth. Gaily
-the deep-mouthed dogs obeyed, sniffing the fresh breeze across the
-mountain purpled with heather. Scarce had he left home when a
-magnificent stag bounded across his path. Swift as the lightning flash
-the dogs sprung upon the track--away across the moors and down the
-glens, on the scent they went. Throughout that livelong day O'Sullivan
-followed the chase, weary, tired, and thirsty, but still determined to
-make the prize his own. At length night, and darkness with it, came; the
-stag could be seen no more, the dogs, too, were at fault, and the scent
-was lost. Disappointed, and spent with the labour of the chase, the
-huntsman blew a shrill blast on his horn to call the dogs to him, and
-faced for home across the hills. But there was a voice that, loud and
-clear, called upon him--"O'Sullivan, O'Sullivan, turn back!" Brave and
-fearless, like his race, he turned round, to behold before him the
-centre of so many cycles of romance--Finn MacCool. "Why do you dare
-chase my stag?" asked Finn. "Because it was the finest that man ever
-saw," answered O'Sullivan. The answer pleased Finn MacCool.
-"O'Sullivan," said he, "you are a valiant man, and have been wasted in
-the long chase. You thirst, and I will give you to drink." So saying, he
-stamped his huge heel upon the hard rock, and forth burst the waters,
-seething and dashing as they do to this day. O'Sullivan quenched his
-thirst and sped on his way.
-
-[Illustration: _Photo, Lawrence, Dublin._ Meeting of the Waters,
-Killarney.]
-
-From the innermost recess of the glen the water flows down, in one of
-the most fascinating spots to be found within all the delicious realm of
-Kerry. The ivy hangs in dense draperies from the rocks, a sweet disorder
-of arbutus, evergreens, and all the flowers that grow in a radiant land,
-daringly lean across the canyon, and vainly try to trip the rushing
-stream, which, in cascade after cascade, flings itself with passionate
-energy, and a ceaseless murmur, over the rocks. The placidness of the
-huge lake is in strange contrast to the noisy stream which so excitedly
-hastens to meet it, and, as if awed by its dignity, as it comes nearer
-and nearer the mountain stream, sinks its voice, until in a subdued sigh
-it falls into the breast of the lake. Underneath the projecting rock,
-and overhung with luxuriant herbs, O'Sullivan's Grotto offers a quiet
-retreat. Following the wooded shores of Glena Bay, we pass Stags, Burnt,
-and other islands, and come to Glena Cottage, hiding in the foliage of
-leafy trees. Glena means "the valley of good fortune," and a name more
-suggestive of happier thoughts than weird Glownamorra across the
-lake--"the glen of the dead."
-
-[Illustration: _Photo, Lawrence, Dublin._ Muckross Abbey, Killarney.]
-
-A mile's drive through the pleasant demesne lands of Muckross brings us
-to the water's edge at Castlelough Bay, in the middle lake, on a
-promontry of which the ruins of ~Muckross Abbey~ are to be seen. Here,
-in the fifteenth century, Donald M'Carthy founded an Abbey for
-Franciscan friars. The quiet cloisters in the northwest transept, with
-their varying pointed and rounded arches, are unique. The recessed
-doorway by which we enter is very beautiful. The towers and east window
-are in fair preservation. The monuments within the ruined pile tell us
-that it
-
-    "contains
-  In death's embrace M'Carthy More's remains,"
-
-and also reminds us that
-
-  "If Erin's chiefs deserve a generous tear,
-  Heir of their worth, O'Donoghue lies here."
-
-In the centre of the cloisters there grows a great yew tree, spreading
-its many branches and shade over them, and above the side walls, forming
-a dark cowl, which overshadows the old house of the monks. In ancient
-Erin the yew tree was regarded as sacred, and in its shade the Druids
-performed their mystic rites. With the early Christians, as an
-evergreen, it was a symbol of Life Eternal.
-
-The peasants still inherit some of the awe with which the sacred tree
-was held in former days, and they are loth to hurt it with the loss of a
-single leaf. All impressive is the desolate majesty of Muckross,
-whatever time it is visited!
-
-  "But the gay beams of lightsome day
-  Gild but to flout the ruins grey."
-
-At night, when the pale ghost of the moon looks across the lake, when
-the mountains are shrouded in shadows, when the waters are lulling the
-slumbering land,
-
-  "And the owlet hoots o'er the dead man's grave,"
-
-the solemnity of the scene surpasses even that of fair Melrose, by the
-distant Tweed, of which Sir Walter Scott tells.
-
-Driving past the modern mansion in the demesne, along ~Torc Lake~, by
-the groves of Dinis, and through the arches of the Old Weir Bridge, the
-river glistens and sparkles in the sun, while the distant calmer water
-lies deep in sleepy shadows. Beyond the peculiar rock known as the
-White Deer we pass through the Tunnel cut under the huge slope of the
-mountains. Here is a point of view which fascinates all visitors, and
-from which an ample picture of the surroundings may be secured. A mile
-further we cross the Galway river, rushing down a well-worn channel
-through Cournaglown, the valley sides of which are covered with oak
-trees. Already the ceaseless chorus of Derrycunnihy Cascade fills our
-ears. With tumult and cries of havoc, the water springs from an altitude
-on the mountain side, dividing its force into many minor cataracts, as
-it forces the passage barricaded by rocks and boulders, to unite them
-again in a deep pool, and after a second's rest, it musters its full
-strength, and falls in a torrent towards the Middle Lake. Colman's Leap,
-across the stream beneath the Eagle's Nest, is shown here, and of it a
-legend similar to others in many parts of Ireland is told. A mile
-eastward, along the Kenmare road, we come to ~Torc Waterfall~, lovely as
-a capricious _colleen_, whose modes are all the more "deludering" for
-their uncertainty--Torc, whether tripping gently or rushing angrily, "to
-one thing constant never," makes its bed in a fairy realm, a leafy
-garden of ever-changing beauty. Larch and alder, arbutus, oak, and hazel
-thickly curtain the Fall from the passing glance. But a sylvan path
-o'erstrewn with leaves, and bordered with many fronded ferns, discovers
-the fountain in full bearing. White with foam, and angry for its long
-delay in the grip of Mangerton, and the hollow of the Devil's Punch
-Bowl, the flood breaks through the wall of rocks seventy feet high, and
-spits a shower of spray on every futile thing which attempts to stem its
-course or stay its purpose. The panorama spread out beneath the rocks of
-Torc comprehends, in all their glory of colour and contrast, the Middle
-and Lower Lakes beneath the mountains.
-
-[Illustration: _Photo, Lawrence, Dublin._ Torc Waterfall, Killarney.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Ross Castle, Killarney.]
-
-Two and a-half miles northwards by the King's Bridge, or about one mile
-direct from Killarney, within sight of the ~Lower Lake~ and the Purple
-Mountains, are the ruins of Aghadoe, the "Church of the two Yew Trees,"
-founded under the blessing of Saint Finian. The remains of the Round
-Tower and Abbot's Castle can still be seen, but these and the eighth
-century doorway of the old church are all that have weathered the wind
-of centuries. The summit of the old tower is a vantage point for a
-vista. Dr. Todhunter has written a beautiful ballad, in imitation of the
-passionate Irish laments, for an outlaw who was buried there.
-
-
-  AGHADOE.
-
-  There's a glade in Aghadoe, Aghadoe, Aghadoe,
-  There's a green and silent glade in Aghadoe,
-  Where we met, my love and I, love's fair planet in the sky,
-  O'er that sweet and silent glade in Aghadoe.
-
-  There's a glen in Aghadoe, Aghadoe, Aghadoe,
-  There's a deep and secret glen in Aghadoe,
-  Where I hid him from the eyes of the redcoats and their spies
-  That year the trouble came to Aghadoe.
-
-  Oh! my curse on one black heart in Aghadoe, Aghadoe;
-  On Shaun Dhuv, my mother's son, in Aghadoe!
-  When your throat fries in hell's drouth, salt the flame be in your mouth,
-  For the treachery you did in Aghadoe!
-
-  For they tracked me to that glen in Aghadoe, Aghadoe,
-  When the price was on his head in Aghadoe;
-  O'er the mountain, through the wood, as I stole to him with food,
-  Where in hiding lone he lay in Aghadoe.
-
-  But they never took him living in Aghadoe, Aghadoe;
-  With the bullets in his heart in Aghadoe,
-  There he lay, the head--my breast keeps the warmth where once
-      'twould rest--
-  Gone, to win the traitor's gold, from Aghadoe!
-
-  Oh! to creep into that cairn in Aghadoe, Aghadoe,
-  There to rest upon his breast in Aghadoe!
-  Sure your dog for you could die with no truer heart than I,
-  Your own love, cold on your cairn in Aghadoe.
-
-[Illustration: _Photo, Lawrence, Dublin._ The Gap of Dunloe.]
-
-The nearest boat place for Innisfallen is at ~Ross Castle~. We approach
-it from the high road across the moat, where once the drawbridge was let
-up and down. The old keep, wearing a cotamore of ivy, still guards the
-water's edge. By a spiral stone staircase we reach the battlements and
-look out across the lake.
-
-The Castle held out for Charles the First, but was dismantled by Ludlow.
-It was originally a fort of "The O'Donoghue," the chief who centres in
-the many traditions which the boatmen weave around every object of
-interest in Killarney. He lies enchanted beneath the lake, with a city
-full of his people. But at times he has come across the water on his
-fiery steed, or danced to the Rincead-fadda on the shores. Whoever sees
-him is fortunate, because he gives "good luck, which is better than
-money," to all whose eyes meet his.
-
-The ~Gap of Dunloe~ is a gloomy mountain pass cut through the rough
-rocky slope in the hills between the Toomies and the Macgillicuddy's
-Reeks. It is a magnificent defile, four miles long. The rough
-bridle-path running through it, at times almost on the edge of
-precipices, beneath which the wild goats flock. It is approached by a
-winding road, embroidered on one side by a shady little grove of fir,
-larch, stunted oaks, and mountain ash. Through the little windows
-between the trees, when the sun shines, the reflection of the river Loe
-is caught, as it creeps humbly on its way to the lakes. On the other
-side, the mountains throw up a huge wall. Bidding good-bye to the little
-grove, vegetation seems to fear to enter the desolate, sterile places in
-the throat of the Gap. Where the river widens, at Cushvalley Lough, the
-industrious echo-makers most usually greet the visitor. One has scarcely
-recovered from the warmth of their courteous welcome, when some
-suggestive volunteer, aborigine to the place, with a "Mr. Bugler, God
-spare you your wind," secures their services; although you do not call
-the tune, you are expected to pay the musicians. But the trifle spent
-on the gunpowder for their cannons, or the breath from their lungs, is
-well repaid by the mighty mass of air they start into waves of music.
-Here, too, the "auxiliary forces," or pony boys, besiege us with their
-sure-footed, shaggy "coppaleens." They have come galloping down the pass
-at break-neck speed to lend us the assistance of their light cavalry.
-Wonderful creatures they are, these horses and riders. The peasant boys
-are for all the world the modern prototypes of those "rake-helly horse
-boys" of Queen Elizabeth's reign, who filled so many pages of the State
-papers. Sinew and muscle knit their loose limbs together, and, in their
-eyes, mild and calm as those of the quiet cattle in the field, but like
-the surface of their native lakes, covering unfathomed depths, they
-conceal souls swept by deep thoughts, and minds clouded by many
-memories. The long unrenewed, but still to be distinguished, Spanish
-strain is shown in many of their olive-tinted faces and dark features.
-But guides safe, and true, and courteous are they, who know every perch
-of the dark Pass, where at times the craggy cliffs shut out the canopy
-of the sky, and attempt to precipitate themselves across the track. The
-point where the path is narrowest, the peasants have called the "Pike."
-From it onward the mountains begin to recede, and the Pass is more open
-until, crossing a shoulder of the ~Purple Mountain~ past the three great
-expansions of the Commeen Thomeen Lakes, into which St. Patrick is said
-to have driven the last serpent, we suddenly come on a surprising
-spectacle of magnificent scenery. Here, from the head of the Gap, we see
-the Upper Lake spread beneath, to the west, Coomeenduff, or the Black
-Valley, dark as the valley of the shadow of death, in charming contrast
-with the stern grandeur of the mountains. Their melancholy seems to
-reign supreme; the long valley is steeped with shadows in which several
-lakes are set, the light upon which only heightens the sublime darkness
-of the surroundings. The longest of these lakes is called Lough
-Nabricderg, or the "Pool of the Red Trout." Far and wide beneath us lies
-what, in the old times, was MacCarthy More's country, and into which so
-often the Fiery Cross was sped, when the chief of the great clan went
-into action.
-
-Ruskin's ideals of mountains as the great cathedrals of the earth, with
-their gates of rock, pavements of cloud, choirs of stream and stone,
-altars of snow, and vaults of purple, traversed by the continual stars,
-can nowhere be realized more readily than in Killarney. Here the
-mysterious summits, warm with the morning tints or evening's glow, will
-delight and refresh again and again, and reflect to us imperishable
-memories. Crossing the Flesk, if ~Mangerton~ be the desired point, seven
-good miles are to be traversed. From the Muckross, a short detour will,
-if desired, lead to Flesk Castle, standing on a finely wooded hill above
-the wide sweeping river. Eastward, along the Kenmare road, and southward
-for a mile, the mountain path is met. From here, either on foot or on a
-pony, the ascent of Mangerton may be made. The first important object
-that comes in view is Lough Kittane, at the eastern base of the
-mountain. It is nearly five miles in circumference, and its waters
-contain four islands. The ravine behind the lake, with Mangerton on the
-west and Crohane mountain on the east, is the "mustering place of the
-winds," Coomnageeha. In this ravine the Blackwater flows. There are two
-small lakes, Loughnabraude and "the Lake of Beech-crowned Rock," Lough
-Carrigaveha. Away in the bed of the mountains is Keimva Lochlin--the
-pass of the Danes--reminding the historian of "Stern Lochlin's sons of
-roving war," and Dereenanawlar, or "the little oakwood of eagles."
-Moving still higher, eastward the mountains melt into the distant
-counties of Cork and Limerick, and beneath, the smaller highlands recall
-the Psalmist's description of
-
-  "The hills like the lambs of the flock."
-
-[Illustration: McCarthy More's Castle--Lake Hotel Landing Stage.]
-
-To the left, Glown-a-Coppal, the "Horse's Glen," invites the adventurous
-to fathom its depths. The dark lakes lying in its shadows are shoreless,
-but for the gloomy rocks which overhang the water's edge. Where the
-ground becomes more broken and rugged, suddenly a less inaccessible path
-arises, and leads to the Devil's Punch Bowl, a dark tarn, beset with
-strange echoes that strike a death-song on the heart-strings of the
-superstitious. The view from the summit is very wonderful; in the
-foreground of the huge picture, the forest of mountain tops, while
-westward in the distance is the fabled and saint-blessed Mare
-Brendanicum of the old writers, where the fiords embroider the coast
-line.
-
-Descents from Mangerton may be made due south from the eastern angle
-along the Oubeg to Kilgarvan, five miles east from Kenmare; by the
-"Horse's Glen," from Lough Garagary, across the moor to the commencement
-of the bridle-path. Neither way is recommended in the afternoon or
-without a guide. The best route to Carntuol is from the entrance to the
-Gap of Dunloe. There is a beaten track by the side of the waterway of
-the mountain stream, called "Giddagh," the bed of which is filled with
-glacial moraines, leading into a romantic valley, the Hag's Glen, which
-is shut in by the Reeks and Knocknabinaneen. The dark tarn in the Glen,
-as well as every object of prominence, has been seized upon by the
-imaginative peasants, and associated in some wise with the witch who
-here had her local habitation and left it its name. The track across the
-heather leads to the junction of two rivulets from Lough Gonvogh on the
-right, and Lough Callee on the left. The beginning of the summit is
-reached by the rough moraine pavement, and with a little perseverance
-the "parkeen," or "little pasture," on top is reached. Here on the
-wind-swept height it is interesting to find the _London Pride_, or _St.
-Patrick's Cabbage_, and the common _Thrift_ flourishing The view is
-indescribable. Like the jaws of some huge monster, the teeth of the
-Reeks close in everywhere, each with its own blue lake behind. Of
-Killarney we see little; but seawards "everything between this end of
-the world and America," descent may be made, either following the flank
-of the hill, and half way between the two largest lakes beneath,
-striking for the Gap of Dunloe road, or through Coomduff to the shores
-of the Upper Lake.
-
-When the tourist's time is limited, the following excursions, extending
-over three days, will enable him to see a good many of the points of
-interest:--
-
-     TOUR NO. 1. FARE, _8s._ ESTATE TOLLS, _1s._
-
-     Well-appointed coaches, or other conveyances, leave the Hotel
-     (weather permitting) at about 9.30 a.m., for a visit to the
-     celebrated Gap of Dunloe and the grand tour of the Lakes. The route
-     lies along the northern side of the Lower Lake for about six miles,
-     when the exquisite mountain scenery comes in full view, rapidly
-     assuming more interesting features until "Arbutus" Cottage is
-     reached. Here the party must alight, and proceed on ponies, or on
-     foot, at discretion, through the Pass to Lord Brandon's Cottage, at
-     the head of the Upper Lake, where the boats will be in readiness.
-     Arrangements can be made with the Manager of the Hotel, before
-     starting, to provide ponies for _3s._ each to this point. Some
-     wonderful echoes are produced in various parts of the Pass.
-     Luncheon will be served, before entering the boat, on one of the
-     adjoining islands, after which the party will proceed by the Upper
-     Lake and Long Range to the Eagle's Nest Mountain. The boat will
-     then shoot the Rapids under the rustic Old Weir Bridge; stop a
-     short time at the "Meeting of the Waters"; pass through the Middle
-     Lake, and across the Lower Lake to "Sweet Innisfallen Island," to
-     enable the party to view the ruins of the old Abbey, Abbot's Grave,
-     and Bed of Honour; thence to Ross Castle, where the party will
-     resume their drive to the Hotel, which is usually reached about
-     5.30 p.m.
-
-     TOUR NO. 2. FARE, _4s. 6d._ ESTATE TOLLS, _2s._
-
-     The conveyances leave the Hotel about 10 a.m. for the drive through
-     Mr. H. A. Herbert's beautiful demesne. The ancient ruins of
-     Muckross Abbey are soon reached, and, after a short delay to
-     inspect them, the party proceed by the shore of the Middle Lake,
-     over Brickeen Bridge, pass the Colleen Bawn Rocks for Dinis
-     Island; thence, passing the Torc Mountain, to the Cottage and
-     Waterfall of Derrycunihy (Queen's Cottage), the property of the
-     Earl of Kenmare, where luncheon is usually served. Returning, the
-     party will pass under the tunnel on the Kenmare Road, and through
-     fine scenery by road, mountain, and lake to Torc Cascade, where, by
-     an easy footpath, fine views can be obtained of the Waterfall and
-     Lakes; thence to the Hotel, which is usually reached about 3 p.m.
-
-     TOUR No. 3. FARE, _4s. 6d._ ESTATE TOLLS, _1s._
-
-     The conveyances leave the Hotel at about 9.30 a.m., passing through
-     the Earl of Kenmare's Deer Park to the Heights of Aghadoe,
-     obtaining grand views of the Lower Lake, Macgillicuddy's Reeks, and
-     Carran Tual (the highest mountain in Ireland), as also the ruins of
-     the round tower of Aghadoe Church, thence through the Earl of
-     Kenmare's beautiful West and Home Parks, which skirt the
-     north-eastern shores of the Lower Lake, round Ross Island, and to
-     the Hotel, which is usually reached about 2.30 p.m.
-
-
-KENMARE AND GLENGARRIFF.
-
-The coach drive from Killarney to Kenmare is over a fine broad mountain
-road, and from Mulgrove Barrack, about half way, a splendid view of the
-lake country can be obtained. Kenmare, as its name signifies in Irish,
-is at the head of the sea or beautiful bay to which it gives its name on
-the Roughty river. Sir William Pettie, in the seventeenth century,
-founded the town on lands confiscated from the O'Sullivan More. It is a
-market place of importance, and the Convent of the Poor Clares is famous
-the world over for the beautiful lace made here. The town stands on the
-highway between Killarney and Glengarriff, known as "The Prince of
-Wales' route." The coach drives through the town past the Lansdowne
-Arms' Hotel and into the beautiful spot which has been selected for the
-new hotel belonging to the Southern Hotels Company. Already young groves
-and plantations teem about the mansion, which is built on a natural
-terrace overlooking the bay, and facing the high hills of Glenaroughty,
-behind which the Red River rises, and the bare mountain slopes of
-Mucksna.
-
-No visitor should fail, if time permits, to visit the Convent of the
-Poor Clares, and see the lace-makers at work. From Kenmare the train or
-coach may be taken to Killarney.
-
-
-DRIVING EXCURSIONS IN THE VICINITY OF KENMARE.
-
-     No. 1.--Car to Goulane on old road to Killarney, walk to summit of
-     mountain, from which a magnificent view is obtained, returning by
-     Inchamore Cross Roads, Roughty Falls, and Suspension Bridge. _6s._
-
-     No. 2.--Car to Kilgarvan, thence to the Bird Mountain, on the
-     Borlin Road, returning by Lounihan and Letter. Grand panoramic
-     views of the Mangerton Mountains and Roughty Valley. _10s._
-
-     No. 3.--Car to Windy Gap on the Killarney Road, view of Gap of
-     Dunloe and M'Gillicuddy Reeks, thence by Dirreenfeenlahid Lake and
-     Bouchill Mountain, returning by Slieveaduff and Templemore Road.
-     _10s._
-
-     No. 4.--Car to Blackwater Bridge and Waterfall, thence by Old
-     Dromore and Valley of the Blackwater, returning by old road over
-     Coomnakilla; magnificent sea and mountain scenery. _12s._
-
-     No. 5.--Car to Clonee Lakes and Glen of Inchiquin, thence to
-     cascade at head of glen; beautiful drive along the southern shore
-     of Kenmare Bay, affording splendid views of mountain, lake, and
-     river. _15s._
-
-     No. 6.--Car to Derreen by the Lansdowne Road, along the shore of
-     Kenmare Bay and Kilmackillogue Harbour, thence to Glanmore Lake by
-     road skirting Lord Lansdowne's demesne, returning by Furniss
-     (ancient smelting works) and Carriganine Road. _20s._
-
-     It is particularly requested that visitors requiring cars will give
-     not less than an hour's notice at the office.
-
-
-SOUTHERN HOTEL, KENMARE.
-
-HIRE FOR FIXED DISTANCES (Driver's fee included)
-
-                              Two-horse carriage.   One-horse car.
-
-From Kenmare to Parknasilla,           _20s._            _10s._
-
- "     "        Killarney,             _28s._            _14s._
-
- "     "        Glengarriff,           _28s._            _14s._
-
- "     "        Caragh Lake,            --               _25s._
-
- "     "        Waterville,            _50s._             _2s._
-
-Fifty per cent. additional for return journey.
-
-To Glengarriff the coach runs by very beautiful scenery, terminating in
-the lovely creek of the bay at ~Eccles' Hotel~ and by the fair height
-where ~Roche's Hotel~ commands the view. From Glengarriff the coach may
-be continued to Bantry, and the train then taken direct to Cork, along
-the East Bandon line; or the road may be taken through the beautiful
-Pass of Keimaneigh--the "Pass of the Deer"--and by the lovely lake of
-Gougane Barra to Macroom. Here the Cork and Macroom Railway brings the
-tourist back into the City of the Lee.
-
-The road from Kenmare leads high out of the valley up the hill sides. We
-command a good view of Kenmare Sound, and having passed under a number
-of tunnels through the rock we cross the mearings into county Cork.
-
-
-GLENGARRIFF
-
-[Illustration: At Glengarriff.]
-
-[Illustration: Otter Island, Glengarriff.]
-
-[Illustration: _Photo, Lawrence, Dublin._ At Glengarriff.]
-
-[Illustration: _Photo, Lawrence, Dublin._ At Glengarriff.]
-
-[Illustration: Glengarriff Harbour]
-
-[Illustration: Otter Rock Glengarriff]
-
-[Illustration: Gougane Barra. Co Cork]
-
-[Illustration: _Photo, Lawrence, Dublin._ Gougane Barra.]
-
-In a fair spot above the blue waters of the Bay of Bantry,
-~Glengarriff~, as a health resort, vies with its charming young rival,
-Parknasilla. Its climate, too, is softened by the nearness of the Gulf
-Stream, and yew and arbutus, as well as tropical cryptogamia and Alpine
-plants, overgrow every available spot along the sides of the rough
-defile. It is come-at-able from Cork by train to Bantry and then coach,
-or by coach from Killarney or Kenmare. Apart from the beauty of the
-situation and the mildness of its climate, Glengarriff possesses
-splendid facilities for sea bathing and boating. There is excellent
-hotel accommodation both at Eccles', on the shore of the bay, and at
-Roche's, in the midst of beautiful grounds, through which the Owvane, or
-"fair river," flows, making on its way a wild cascade. The drive from
-Glengarriff to Gougane Barra, through the Pass of Keimaneigh, "the path
-of the deer," is one of the great excursions to be made. ~Gougane
-Barra~, the shrine of Saint Finbarr, is in the midst of a lonely lake
-near the source of the Lee. It is still the scene of "patrons" on Saint
-Finbarr's day, and Mass is celebrated in the open air in the middle of
-the lake. There is good trout fishing in the Allua and other streams in
-the Desmond Valley. Callaghan, the poet, has sung of it--
-
-  "There is a green island in lone Gougane Barra,
-  Where Allua of songs rushes forth as an arrow;
-  In deep-valleyed Desmond--a thousand wild fountains
-  Come down to that lake, from their home in the mountains;
-  There grows the wild ash, and a time-stricken willow
-  Looks chidingly down on the mirth of the billow;
-  As, like some gay child, that sad monitor scorning,
-  It lightly laughs back to the laugh of the morning.
-
-  And its zone of dark hills--oh! to see them all bright'ning;
-  When the tempest flings out its red banner of lightning;
-  And the waters rush down, mid the thunders deep rattle,
-  Like clans from their hills at the voice of the battle;
-  And brightly the fire-crested billows are gleaming,
-  And wildly from Mullagh the eagles are screaming."...
-
-The "green island" is a little over half an acre in extent. In its
-centre is a quadrangle, with walls at parts fourteen feet thick, in
-which are eight cells or cloisters rudely arched over. Within, on a
-raised platform, is a large cross with five steps ascending to it. There
-is a large flagstone here with an inscription, giving directions how
-"the rounds" are to be performed on the vigil and forenoon of the feast
-days of St. Finbarr and St. John the Baptist, to whom there is a
-special cultos all over Munster. The road from Gougane runs through
-Inchigeela and Ballingeary by a wild stretch of river inches, called the
-Gearagh, to Macroom, where the old Castle and Convent are worth
-visiting. In the latter the kindergarten system has been introduced with
-great success. It is also here that the Gaelic Feis or Festival is held
-for the locality, which contains a large percentage of Irish-speaking
-people, including numbers of children. From Macroom train runs direct to
-Cork. In the visitors' book at Inchigeela Hotel some vagabond rhymester
-penned the following farewell:--
-
-  Sweet Inchigeela, fare thee well, to-morrow we depart
-  On Mrs. Brophy's outside car, for Gougane B. we start;
-  I add my mite of doggerel to all I have read here,
-  And put my X to all that's writ of this hotel's good cheer.
-
-  O charming Inchigeela, were mine the poet's pen,
-  How I would do the Longfellow, in praising rock and glen;
-  Among thy mountains, hills, and lakes, six happy days we passed,
-  And sigh to think the day draws near that's doomed to be the last.
-
-  We've climbed the rocky mountains, we've plodded o'er the plain,
-  We've bid a wild defiance to the drizzling, drenching rain;
-  And yielding to the influence of your coquettish weather,
-  We've grilled beneath the sunshine on thy "tick" infected heather.
-
-  O lovely Inchigeela! O cosy Lake Hotel!
-  O Hannah! best of waiting-maids, and civilest as well;
-  O were I not so sleepy, a great deal more I'd say,
-  But I must grasp my pilgrim's staff and wend my onward way.
-
-From ~Cromwell's Bridge~, at Glengarriff, the road runs to Berehaven,
-where there is an old Castle of the O'Sullivan's and some splendid
-caves. Cromwell's Bridge, of which one arch only now remains intact, is
-said to have been built here to facilitate the march of the Protector on
-his return from Dunboy Castle, he having threatened, if the bridge was
-not erected on his return, he would hang a man for every hour he was
-delayed. ~Bantry~, or the White Strand, is a thriving town, a pleasant
-drive from Glengarriff. Here the French fleet, with Wolfe Tone on board,
-purported landing in the winter of 1797; but, like the Armada, were
-scattered by a hurricane. Bantry House, the residence of the
-White-Hedges family, is beautifully situated on the side of the bay.
-
-[Illustration: _Photo, Lawrence, Dublin._ Cromwell's Bridge,
-Glengarriff.]
-
-The Cork and Bandon Railway from Bantry is connected with most of the
-towns on the Cork coast. From Skibberreen, the famous fishing village of
-~Baltimore~ may be visited. The Piscatorial School is doing good work,
-and is an enduring monument to the philanthropy of the Baroness
-Burdett-Coutts. Innisherin Island, in Baltimore Harbour, was an old
-fortress of the O'Driscolls--and in particular of "Finnen O'Driscoll,
-the Rover"--of whom it is told:--
-
-  "The men of Clan-London brought over
-    Their strong ships to make him a slave;
-  He met them by Mizen's wild headlands,
-    And the sharks gnaw their bones 'neath the wave."
-
-Baltimore was sacked in the early seventeenth century by Algerine
-pirates, and all the able-bodied inhabitants sold into slavery. These
-pirates were finally put down by the intrepidity of the Commonwealth
-seamen. Kinsale, also on the coast, is a remarkable old town; there
-James II. landed on his ill-fated visit to Ireland. Bandon, beautifully
-situated on the broad river of that name, was long the Derry of the
-South. The memory of these "good old times" only now remains, and Bandon
-is the centre of many successful industries.
-
-    For information as to Sport to be had in the Killarney District,
-    see end of this volume, where particulars are given as to Cycling,
-    Fishing, &c.
-
-[Illustration]
-
-
-
-
-[Illustration: Coaching in Kerry]
-
-[Illustration]
-
-The Lakes and Fiords of Kerry.
-
-
-The Grand Atlantic Tour--Caragh, Cahirciveen, Valencia, Waterville,
-Parknasilla, Kenmare, &c.
-
-The beauty of Killarney is not without a rival, and that even "next
-door" to it in its very own kingdom of Kerry. Leaving behind the
-soft-swelling hills, deep-eyed lakes and dark mountains, we speed
-southward and westward to other lakes and mountains kindred to what we
-have already seen. It is for these lovely lands that the Gulf Stream
-crosses the Atlantic to kiss, that we are making over the wide-armed
-railway which clasps the most picturesque scenery in the country within
-its embrace. Starting from Killarney for Valencia, we leave the train to
-continue its journey northwards to Tralee, at Farranfore Junction. While
-changing into the carriages for the south-west coast, where
-
-  "The mountains kiss high heaven,
-  And the waves clasp one another,"
-
-one look round reveals the amphitheatre of hills. Westward, whither we
-are going, the hills above Glenbeigh point our road to where the
-Atlantic meets the shore. To the eastward, where the morn, in russet
-mantle clad, walks o'er the dew, the line of far-piercing spears,
-Mangerton, Torc, Glena, Toomies, and the Reeks extend. At Killorglin
-(twenty-four miles rail), with a wide-spanning viaduct, we cross the
-Laune, wending its way from the Lakes to Dingle Bay. Here the ruins of
-an old Knights Templar Castle remain to remind us of the historic past.
-For five-and-twenty miles from this place onward, the route runs over
-the southern shore-line of Dingle Bay. Some five miles from Killorglin,
-in a secluded nest of old trees beneath the mountains, lies ~Caragh
-Lake~.
-
-  "Long, long ago, beyond the space
-  Of twice ten hundred years;
-  In Erin old there lived a race
-  Taller than Roman spears."
-
-[Illustration: Fishing in Caragh River]
-
-[Illustration: _Photo, Lawrence, Dublin._ Caragh River and Lake.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Southern Hotel, Caragh Lake.]
-
-And in their romances and love-songs, Caragh was tenderly mentioned, for
-was it not here that Dermot sheltered Grania in the bowers of the
-quicken-trees? All who have read the fine old Finnian romance, "The
-Pursuit of Diarmuid and Grainne," which tells the iliad of their flight
-across ancient Erin, will remember that here on the shores of Kerry he
-met his enemies and discomfited them. In the mists westward from the
-lake is the hill-summit, Seefin, where the disconsolate son of MacCool
-sat. For long this little paradise has remained forgotten by
-scenery-seeking men, but now that it is re-discovered, it will enthral
-all comers. The lake, sheltered under the cloak of the hills, is six
-miles long, and all around its coasts are things of beauty, green velvet
-mosses, dark broom and heather-clad hills, with rowan trees interspersed
-throughout. The grisly mountains are glistening with silver
-threads--small streams that hasten to see themselves reflected in the
-lake. Far from the busy haunts of men, in a sleepy hollow only five
-minutes' walk from the railway station, the ~Southern Hotel~ Company
-has secured a delightful site for their fine hotel. If nature has done
-great things for Caragh, "filthy lucre," too, has done much, and here is
-everything to help the invalid, the sportsman, or "the common or garden"
-tourist to take advantage of the charming pleasure and health resort.
-For the fisherman there are almost endless opportunities. There is
-excellent salmon and trout fishing in the Caragh Lake, and also in the
-Caragh, Carahbeg, Ougarriv, and Meelagh Rivers, while within easy reach
-are Lakes Acoose, Cloon, Coomlonkir, Oulagh, Loughnakirkna, Corravoula,
-and Nabrackdarrig, all of which would gladden the heart of old Izaac
-Walton. Over twenty-five thousand acres of the best shooting in Kerry is
-reserved for the use of guests. It comprises principally grouse,
-woodcock, snipe, duck, wild goose, and plover. Both banks of the Caragh
-River, which is carefully preserved, have also been secured. ~Dooks~, in
-the vicinity, has been selected for an excellent nine-hole golf course,
-of which guests, as honorary members, are entitled to take advantage. A
-flag-station on the railway brings the links within easy walking
-distance. The grand strand along the shore gives every opportunity of
-bathing. Across the beautiful Dingle Bay rises Mount Brandon (3,127
-feet), and Dunmore Head, out at the edge of the ocean, has the Blasket
-Islands scattered around its coast, the treacherous rocks of which were
-so fatal to the Spanish Armada. By car from the hotel to Blackstones
-Bridge, returning by boat through the lake, is a short tour of many
-attractions. Beneath, at one side, lie the bright waters of the bay; on
-the other the dark waters of the lake. The Killorglin road is reached
-about a mile from Acoose Lake, and then following the declivity by a
-mountain stream, we get a good view of Gort-na-gloran Mountain, on the
-east of the lake, and see in the distance the fishing hamlet of Glencar,
-with the Glencar Hotel high up on pasture ground, surrounded by a cordon
-of green fir trees. Except in the Swiss valleys and parts of Norway,
-there is no scenery in Europe to compare with an inland route from
-Caragh to Parknasilla. It lies across the mountains
-
-  "Where the wandering water gushes
-    In the hills above Glencar;
-  In pools among the rushes,
-    That scarce could bathe a star,"
-
-through wild scenery between the gorges of the mountains, and into
-Ballaghbeama Pass. Beneath, in a winding valley, lies Lough Brin,
-turning from which we come into the valley of the Eskdhu, or Blackwater,
-and follow it amid the beeches until it falls into the sea.
-
-[Illustration: _Photo, Lawrence, Dublin._ Pass of Ballaghbeama.]
-
-Leaving Caragh Lake, the railway line follows the flow of the river, the
-next station being ~Glenbeigh~, where there is a growing watering-place.
-The strand is particularly fine, extending over two miles. There is a
-good hotel, with golf links, beside plenty of fishing and boating.
-~Coomasaharn~--the wonderful lake in the vicinity--it has been correctly
-said is surrounded by precipices more awful than anything to be found
-nearer home than the Alps or Pyrenees--clinging to the mountain side, at
-a height of several hundred feet above the sea, with here a cutting or
-embankment, and there a mountain gorge, in which a lovely waterfall is
-almost lost to sight in a labyrinth of foliage.
-
-~Mountain Stage~ and ~Kells~ are passed, and the train glides down an
-incline to Cahirciveen and Valentia Harbour. ~Cahirciveen~, the
-birthplace of Daniel O'Connell, is the most westerly town in the three
-kingdoms. It lies with its back up against the Iveragh Mountains, and
-facing the blue waters of Dingle Bay. Only since the road was cut across
-the hills to Valentia in later years has it come to be of importance. In
-1803 there were only fifteen houses here, and the beginning of its
-uprise in the world was when O'Connell got it made a market town. But in
-legends of the past it is a place of fame, and received its name from
-Sive, one of the beautiful daughters of the great monarch, Owen More.
-~Carhan House~, where the Liberator spent his childhood (but was not
-actually born, as alleged), the ruins of which now only remain, may be
-seen a short distance outside the town.
-
-[Illustration: _Photo, Lawrence, Dublin._ On the Coast near Glenbeigh.]
-
-Two charming fishing harbours under Knocktubber Mountain are worth
-seeing, Councroum, "the Haven's Bend," and Coonana, which is called
-after the woman who bore the great Finn. Here, the mighty fighter of the
-old days, "Conn of the Hundred Battles," fought no less than thirteen of
-his fields, and three pre-historic forts remain to bear testimony to the
-past--Cahir-na-cahal, Cahirgal, and Castlequinn.
-
-[Illustration: _Photo, Lawrence, Dublin._ At Glenbeigh.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Lake Coomasaharn.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Cahirciveen.]
-
-Ballycarbery's ruined castle, too, deserves attention. In ancient times
-it was the fortress of Carbery O'Shea, whose tide-swept tomb is still to
-be seen. Then it passed into the hands of Owen More's descendants, and
-from them to the O'Connells. When the Spaniards sent their "ale" over to
-Erin, and the Kerry women borrowed one another's cloaks to go to Spain
-to sell eggs and dulisc, Ballycarbery, commanding the harbour's mouth,
-was a place frequented by mariners and merchantmen from many a Spanish
-port. There is a story of Morgan of the Wine and a Spanish Captain worth
-re-telling. Two O'Connells lived in Ballycarbery together, one brother,
-Shawn, occupying the lower portion, and the other, Morgan, living in the
-upper apartments. Both at the same moment invited a Spanish captain, who
-had come into the port, to dine with them. The foreigner, embarrassed by
-their hospitality, and not wishing to show an undue preference--as
-neither brother would give way--agreed to give his company to whichever
-gentleman had his repast cooked first. The brothers repaired with speed
-to the castle, and Morgan was chagrined when he had mounted to his
-rooms, to find that Shawn had barricaded the entrance behind him, to
-prevent his servants from drawing water to cook the dinner. But he
-was not to be foiled, for, broaching a cask of wine, he cooked in it
-what he wanted, and as his dinner was first prepared, the Spaniard and
-his brother Shawn were his guests! In the wars of the Commonwealth the
-castle was reduced. ~Derriana Lake~, in the bed of the mountains--with
-wisps of mist on its further shores--is like a dream picture. The fair
-isle floating in its centre is freighted down with oak and arbutus trees
-standing out in relief against the mountain, and reflected in the
-mirror-faced waters. The coloured setting of the surroundings is
-exquisite. The cliffs bristle crest high with rigid firs, the young oak
-copse is entangled with an undergrowth of guelder rose, and in the
-sedges near the heron-frequented reeds, white water lilies open their
-wonderful eyes. Close by, ~Cloonaghlin Lake~, when it is dark with
-mountain shadows and frowning clouds, is sufficiently desolate to awe
-the least susceptible, but when auspiciously the sky is brightened, we
-feel--
-
-  "Truly the light is sweet, and
-  A pleasant thing it is for the
-  Eyes to behold the sun."
-
-The shadows recede into the depths of the water or the hollows of the
-hills, the many colours of the trees show themselves; and song-birds
-begin anew their music, as though a great hawk had been near, and had
-passed them by scathless.
-
-
-VALENCIA ISLAND
-
-May truly be termed the "Next parish to America," and should be visited
-for its noble cliffs, wild headlands, and wonderful jungle of fuschia
-trees. From Valencia Harbour a ferry, manned for upwards of a century by
-the O'Neills, brings passengers and mails across to Knightstown, the
-principal village, and a busy port of industry during the fishing
-season. Glenleam, the Knight of Kerry's residence--about one mile
-inland--is surrounded by beautiful gardens, where, besides arbutus and
-myrtle, many tropical exotics thrive. The fuschias form a thick glade,
-and the trunks of several of them almost defy the ordinary axe or saw.
-There are on the island, besides holy wells, a number of soutterains and
-cairns, that
-
-  "Sit upon the ground
-  To tell sad stories of the death of kings."
-
-[Illustration: _Photo, Lawrence, Dublin._ At Valencia.]
-
-[Illustration: _Photos, Cuthbert, Valencia._ Valencia Harbour. Fishing
-Fleet. Entrance to Valencia Harbour.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Cliffs at Valencia.]
-
-Irish is freely spoken on the island, and if properly introduced, the
-visitor may be able to hear many old stories of Finn and his companions,
-the Gabawn Saior, and other heroes of the peasants' heart. Thick as
-mists at morn legends hover about the island, and beyond the great Slate
-quarries may be seen many caves of great interest. There is a tradition
-on the island that St. Vincent Ferrar landed there. The harbour offers a
-deep and sheltered anchorage, and was formerly much frequented by
-smugglers, whose cave is still shown. Paul Jones often put in here, and
-on one occasion pressed into his service a number of fishermen, whom he
-took from the neighbouring fishing grounds. None of them returned except
-one, who had long been imprisoned in France, but he came home "with a
-stocking full of doubloons," and his children's children are still known
-as "The Paul Jones's."
-
-At ~Brayhead~,
-
-  "Where the broad ocean leans against the land,"
-
-there is a splendid view from nearly eight hundred feet above the sea.
-The rocks around the coast, encircled with white foam, make a beautiful
-contrast to the grey and emerald and gold of the sandy coves and green
-hills.
-
-[Illustration: _Photo, Lawrence, Dublin._ Cliffs at Valencia.]
-
-Dolus and Bolus Heads reach far into the ocean. The ~Skelligs~, "the
-most western of Christ's fortresses in the ancient world," raise their
-heads to the south, while northwards the Great Blasket, a mountainous
-island, and its eleven brothers, with Innisvic Killane, may be seen. On
-the 10th September, 1588, the Armada ship, _Our Lady of the Rosary_, of
-1,000 tons, was wrecked in the Blasket Sound; among the many who
-perished was the Prince of Askule, natural son to King Philip of Spain.
-Around the coast line there have been many wrecks, and not a few are the
-pathetic stories still told of them on the island.
-
-The last wreck of importance gave another opportunity for the intrepid
-islanders to show what stern stuff they were made of. Under the
-captaincy of Mr. Alexander O'Driscoll, the volunteers put off to the
-wreck, and despite of a sea running high, and the buffeting of a great
-storm, saved the lives of the crew, and rendered full salvage. While on
-the island, a visit should be paid to the Anglo-American Cable Company's
-Station, care being taken beforehand to go through the formality of
-applying to the Managing Director (26, Old Bond-street, London, E.C.)
-for an order. Every facility is extended by the courteous local
-officials.
-
-
-THE SKELLIGS--ST. MICHAEL'S ROCK.
-
-From Valencia, or from across the channel at Portmagee, where there is a
-thriving fish-curing industry, the Skelligs can be reached in favourable
-weather. Standing high above the green billows that encircle them with
-collars of white foam, they repay every trouble taken to inspect them.
-The ~Little Skellig~, a fantastic rock, with a great arch like a flying
-buttress under which for centuries the seas have churned deep, is almost
-inaccessible. It is a great breeding ground for gannet, with which,
-during the breeding season, its sides are white as the waves below.
-
-[Illustration: GE Skellig.]
-
-So unused are these magnificent birds to being disturbed by intruders
-that even when within oar's length of them, they remain passive and
-unscared. The ~Great Skellig~ swings high its cliffs seven hundred feet
-above the water. Clinging to the ridge of its impressive rocks "like
-swallows' nests" are the round roofs of the beehive cells which of old
-formed a citadel of Christianity. To Saint Michael the Archangel,
-guardian against all the powers of darkness, the isle is dedicated. Its
-history is of old date, for here Milesius buried the beloved son, Ir,
-that the thieving waters robbed of his soul. Here "the slanting,
-full-sailing ships" of Daire, on their way to the great battle of Ventry
-Harbour, paused in their march along the deep. Here, too, in recording
-times, was the great hero-king of the Norse, Olaf Iryggveson, baptized.
-
-A little cove, deep in the recess of a cavern, makes a landing stage,
-only to be attempted at favourable times. An easy path leads halfway
-round the island; then, mounting a flight of steps, the visitor beholds,
-spread before him, a green valley, the one patch of richness on the
-desolate rock. This is Christ's Saddle, from which, with reverent
-hearts, the "Way of the Cross" may be traversed, ending in the heart of
-Skellig-Michael. Each of the fourteen Stations have descriptive Gaelic
-names, such as "The Stone of Pain," where our Saviour falls the first
-time; "The Rock of the Woman's Piercing Caoine," where His Mother and
-the Holy Women have met. Lonely and deserted, none should enter these
-hallowed places but with feelings of reverence.
-
-
-WATERVILLE.
-
-The morning stillness, broken by the clear blast of the postillion's
-horn, reminds the visitor lingering lovingly over the shores at
-Cahirciveen that the coach for the coast tour is ready. With a crack of
-the whip that would do credit to Will Goldfinch, in the coaching days
-of old, the driver urges on his team, and the blooded four-in-hand cut
-their way clear of the town. The tour along the Atlantic between
-Cahirciveen and Kenmare is nearly fifty miles, and passes through the
-most diversified country. The eleven miles as far as Waterville is first
-inland, passing through dreary stretches of moorland, where the small
-black Kerry cattle manage to thrive, until Ballinskelligs Bay suddenly
-comes in sight. Bolus Head reaches out its great arm into the sea, to
-shelter the Bay from the winds. At one side may be seen the little town
-of Ballinskelligs, with its white Cable Station; and in at the head of
-the waters, beyond where the Inny river joins the sea, Waterville
-spreads itself out around the long shore. Here it lies on the little
-streak of land which protects Lough Currane from the embrace of the
-ocean. Coming down the hill, out of the town, the delusion is that this
-great fresh-water lake is but itself a bay, the mouth of which is
-concealed from view, but not so, for its waters run clear and fresh, and
-as fishful as the Erne. It is the best free fishing lake in Ireland.
-Just outside Waterville the Commercial Cable Company (Mackay-Bennett
-system) have their extensive offices.
-
-[Illustration: _Photos, Cuthbert, Valencia._ Gannets on Little Skelligs.]
-
-[Illustration: Southern Hotel, Waterville.]
-
-The road leads across the Inny, and we enter the little town by the
-pleasantly-situated Butler Arms Hotel. On going further, fronting the
-shore line, we pass the Bay View Hotel, and, following a bend in the
-hill, come suddenly in view of the beautiful Lough Currane, beside
-which, in the midst of plantations, more like a home than a
-well-equipped hostelry, which it is, the ~Southern Hotel~ is built.
-Lough Currane is eight miles in circumference, and its shores are
-fretted with thousands of inlets. Through the windows of the Hotel, a
-charming view is had of the mountains which encircle the lake. On one
-side green slopes and pleasantly wooded heights meet the eye, and on the
-other, old familiar grey-faced mountains, with their heads raised on
-high among the clouds, shining, changing, and fading in the silver
-mists. The surface of the lake, calm-faced and deep-welled, here and
-there lifts up to be admired beautiful islands. Here a saint made his
-temporal home, and in Church Island is the beehive cell where St. Finian
-prayed, "in whose orisons were all our sins remembered." The ruins of
-the sixth century church deserve the attention of the antiquary. Away at
-the head of Lough Currane is Coppal, where sea trout and small brown
-trout abound. It, too, has charms all its own, in parts wild and
-untamed, but again, calm as the race of a sleeping child. Full
-information as to the flies suitable for the lake, and the places well
-to troll, may be had from the best known angler in Kerry, Teigue
-M'Carthy. Like Sir Roger de Coverley's friend, Will Wimble, he can tie
-a fly "to a miracle," and he is an enthusiastic devotee of the "gentle
-art." Besides the attractions for fishermen, there are thousands of
-acres of shooting in the vicinity. There is plenty of opportunity and
-accommodation for bathing by the bay, and a new Golf Links, laid out
-under the best professional advice, affords a further source of
-healthful amusement. Over the hills from Waterville the pre-historic
-remains of Staigue Fort may be visited. It is the best example of
-cyclopean stone forts that remains in Ireland, and by authoritative
-antiquaries is said to be at least 2,000 years old.
-
-[Illustration: _Photo, Cuthbert, Valencia._ Lake Currane.]
-
-[Illustration: _Photo, Cuthbert, Valencia._ Raheen, Lake Currane.]
-
-[Illustration: _Photo, Cuthbert, Valencia._ Arbutus Rock, Lake Currane.]
-
-
-EXCURSIONS IN THE VICINITY OF WATERVILLE.
-
-TOUR 1.--The conveyance will leave the Hotel at 11 a.m. for a
-drive to Derrynane, the historic home of the Liberator, On reaching
-Coomakista Pass--the highest point of the road--a gradual descent brings
-the party to Derrynane House, and further on to Derrynane Hotel, close
-to the remains of the old Abbey. Those who wish to walk can get off the
-car at Coomakista, and walk one and-a-half miles to Lord Dunraven's
-cottage, where they can meet the cars. The path winds along the shore of
-Derrynane Bay, and well repays those who follow it on their way to the
-Abbey, The party can lunch at Derrynane Hotel, and may return by the
-path, and meet the car at Coomakista, or drive the whole way back to
-Waterville. Fare for four persons, _12s._
-
-TOUR 2.--The conveyance will leave the Hotel at 11 a.m., and
-drive along the northern shore of Lough Currane. Crossing the Coomeragh
-by the Ivy Bridge, the road leads us as far as Isknamaclery Lake. At
-this point a unique view is obtained of Isknamaclery Lake and Lough
-Nabrackderrag on the right, and Loughs Namona and Cloonaghlin on the
-left. The party can have the option of proceeding on foot to Derriana
-Lake, or returning and driving along the Coomeragh to Derriana Lodge,
-and from thence returning to Waterville, or they can cross the Dromad
-Hills, and return by the river Inny. Fare for four persons, _12s._
-
-TOUR 3.--The conveyance leaves the Hotel at 11 a.m. for Saint
-Finan's Glen. Before entering the Glen, a fine view is obtained of the
-Iveragh Mountains, and even the M'Gillicuddy Reeks, and later, the Lemon
-Rock and the Skelligs. After luncheon in the Glen, the party will return
-by Bolus Head, visiting the old Abbey of Saint Michael's and
-Ballinskellias Castle, and (with the permission of the Superintendent)
-the Atlantic Cable Station. For sea and mountain combined this view
-cannot be surpassed. Fare for four persons, _16s._
-
-TOUR No. 4.--The conveyance will leave the Hotel at about 11
-a.m., for the remarkable fort of Staigue-an-or. The route lies along the
-southern shore of Lough Currane for about six miles, (passing the
-Waterfall) as far as Isknagahenny (Coppal) Lake, and good views are
-obtained of both lakes. At Isknagahenny Lake the party alights, and
-proceeds on foot for about four miles to the fort. When the highest
-point of the ascent is reached, a magnificent view is obtained of
-Kenmare river and the islands off the coast of Beara Peninsula. The
-descent to the foot is easy. After luncheon the party may return either
-by West Cove and Derrynane to Waterville, or again ascend the mountain
-and return by Lake Road. Fare for four persons, _16s._
-
-Shorter excursions can be arranged.
-
-
-HIRE OF BOATS
-
-Boat and one man, _1s._ per hour, _5s._ per day. Boat and two men, _2s._
-per hour, _10s._ per day.
-
-In no case will the charge be for less than two hours.
-
-POSTING ARRANGEMENTS.
-
-Hire by Time (Driver's Fee included).
-
-                                   Two-horse carriage.  One-horse car.
-
-
-For the first hour,                    _7s. 0d._            _3s. 6d._
-
-For two hours,                         _14s. 0d._            _7s. 0d._
-
-For each additional hour or
-   fraction of an hour                  _3s. 6d._            _2s. 0d._
-
-Hire for Fixed Distances (Driver's Fee included).
-
-Two-horse            One-horse  car.
-carriage.
-
-Waterville to Caragh Lake,                  --         _25s. 0d._
-
-    "      "  Caherciveen,               _15s. 0d._     _8s. 0d._
-
-    "      "  Valentia,                  _15s. 0d._     _8s. 0d._
-
-    "      "  Portmagee,                 _18s. 0d._    _10s. 0d._
-
-    "      "  Derrynane,                 _15s. 0d._     _8s. 0d._
-
-    "      "  Parknasilla,               _30s. 0d._    _16s. 0d._
-
-Fifty per cent. additional for return journey.
-
-[Illustration: Coomakisteen Hill.]
-
-The coach road from Waterville, following the outskirts of
-Ballinskelligs Bay, insinuates itself up a dizzy height. Looking
-backwards, Waterville, "standing with reluctant feet" between the sea
-and the lake, seems to wonder which is more bewitching. Forging ahead
-through the mountain gaps, we pass under ~Coomakiska~, 1,500 feet, and
-~Beenarourke~, 1,000 feet above the sea level. Clearing the gates of the
-mountains, we come into the open highlands above ~Derrynane~, watching
-out from its post over the sea. Truly the home for a chief. Here
-O'Connell spent his happiest days, within the roar of the Atlantic
-billows, but far from the turmoil and stress of the great agitation in
-which his figure looms large as a giant form. Here his hospitable door
-flew open wide to the passing stranger, and across the hills, with the
-fleet-footed hound, he enjoyed the most delightful of sports, coursing!
-Several interesting relics of the Liberator are shown at the house of
-his descendant, the present proprietor. The ruins of ~Derrynane Abbey~,
-in the vicinity of O'Connell's home, stand on a small peninsula, at some
-seasons transformed into an island by the divorcing rush of the high
-tides. It was a foundation of the monks of St. Finbarr, called
-Aghermore, such a place as that described in the life of St. Brendan,
-who, first of the old-world mariners, discovered the great Land of the
-West.
-
-  I grew to manhood by the western wave,
-    Among the mighty mountains on the shore;
-  My bed, the rock within some natural cave,
-    My food, whate'er the sea or seasons bore.
-
-  And there I saw the mighty sea expand,
-    Like Time's unmeasured and unfathomed waves;
-  One with its tide-marks on the ridgy strand,
-    The other with its line of weedy graves.
-
-  And, as beyond the outstretched waves of Time,
-    The eye of Faith a brighter land may meet;
-  So did I dream of some more sunny clime,
-    Beyond the waste of waters at my feet.
-
-From Cahirdaniel village, the site of a Danish fort, the route extends
-directly along the Kenmare Fiord, under the foot of Crohan Mountain. The
-Slieve Misk and Cahar Mountains separate themselves out to win our
-admiration the better. They recall Lady Dufferin's words, addressed
-to other sweet mountains, where
-
-      "The sunlight sleeping
-    On your green banks is a picture rare,
-  You crowd around me like young girls peeping,
-    And puzzling me to say which is most fair;
-  As though you'd see your own sweet faces
-    Reflected in that smooth and silver sea
-  O! my blessing on those lovely places,
-    Though no one cares how dear they are to me."
-
-[Illustration: _Photo, Lawrence, Dublin._ Sneem.]
-
-[Illustration: _Photo, Lawrence, Dublin._ At Sneem.]
-
-[Illustration: _Photo, Lawrence, Dublin._ At Sneem.]
-
-On the road beneath Crohan, a mile north from Coad Church is St.
-Kiernan's Cell, eaten into the face of the sheer rock. In this district
-formerly the mines were worked and copper smelted. As the road winds
-along we can see Staigue-an-or, with its cyclopean mounds, lying low and
-dwarfed on the hillside. By the high mountains, where the coach-horn
-sounds sweet and awakens echoes, the road comes down into the lowlands,
-and from the bridge is seen beautiful landscape, with ~Sneem~ spread out
-in the foreground. Under lovely beechen boughs, and through a glade of
-oak and first we are ushered into
-
-
-PARKNASILLA,
-
-An ideal residence, hidden from the summer sun by a variegated veil of
-the rocky garden foliage; sheltered from the winter's blast by the
-Askeve Mountains and the kind shores that button themselves around its
-inlet sea, of which Mr. A. P. Graves has written:
-
-  "Ocean before, the summer sky above
-    Who could pourtray the mountains' purple smiles--
-  And all the opal hues of earth and heaven,
-    Foam fringing forests, heather-tufted Isles;
-  The roseate dawn--purpureal pomps of even--
-    And young Atlantic's petulant, shifting wiles?
-  Who could do aught but mar the true expression
-    Where all is change? Then why a record shape
-  Of scenes whose nature glories in succession
-    From wood to wave--from wave to distant cape--
-  Like the young poet's dream, fair beyond all possession."
-
-[Illustration: _Photo, Lawrence, Dublin._ At Parknasilla.]
-
-Here in the demesne lands of a Bishop's Old Palace, the ~Southern Hotel~
-new palace has been built. The green turf of its lawn extends down to
-the water's edge. It is a land of arbutus and myrtle, of glades laden
-with the pink and white blossoms of oleander and rhododendron, and thick
-with bells of fuschias, the fair daffodils of Shakespeare and Herrick,
-that fade away too soon:
-
-  "Daffodils that come
-  Before the swallow dares, and take
-  The winds of March with beauty."
-
-Derreen, away in the lap of the landscape, found favour of Froude, and
-at Kilmackilloge he found material for his novel. The beautiful
-~Garinish~ Island is like a little paradise, lost in a land where all is
-lovely. Around the shores, and in the sandy caves, the beautiful seals
-cluster, and at times are so tame as to answer the shrill whistle of the
-boatman, and show their lovely forms on the water's surface near at
-hand. We live in sceptical times, when
-
-  "The powder, the beauty, and the majesty,
-  That had their haunts in dale, or piney mountain,
-  Or forests by slow stream, or pebbly spring,
-  Or chasms and watery depths--all these have vanished.
-  They live no longer in the faith of reason."
-
-But still here, along the old-world shores, where daylight dies, the
-superstitions and traditions of the pagan past still linger among them,
-and there is none more interesting than that which teaches the fishermen
-to regard these beautiful-eyed, plaintive-voiced creatures with
-tenderness. The souls of the dead, drowned at sea, who die out of
-friendship with God, go into the bodies of the seals, and there through
-the ages await the Trump of the Archangel to call them before the Great
-White Throne.
-
-[Illustration: Southern Hotel, Parknasilla.]
-
-"Parknasilla is situated on the northern shore of Kenmare Bay, a bay
-rich in beauty, and with singularly-indented coast lines. Its
-well-sheltered position amidst a number of islets, thickly wooded down
-to the water's edge, has endowed it with unique advantages. This
-protective area gives to Parknasilla claims of a special character, and
-prevents the access to it of all winds except those coming from the
-warmer points, viz., south and south-west; these winds, before reaching
-the southern coast of Ireland, having travelled over the Gulf Stream,
-and being thus subjected to its moderating and balmy influence. We all
-recognise what elevation of the land will do for any place, particularly
-if it shelters that place from winds blowing from the cold quarters.
-Thus, mountain protection is of supreme importance in the choice of a
-health resort, more especially in the winter and spring seasons of the
-year. In this regard Parknasilla is exceptionally favoured, a
-mountainous range closely guarding and protecting it from the northerly
-and easterly winds. The combination of mountain, wood, and water gives a
-special charm to this locality; and a convincing evidence of the
-mildness of the winter and early spring here is the forward character of
-the vegetation, the early budding of the trees, shrubs, and flowers--all
-bearing testimony to the mildness of the climate. Temperature rapidly
-tells its tale on the vegetable world, and there can be no more
-reassuring proof of the equable and balmy character of the climate of a
-district than the early growth of flowering shrubs, plants, and table
-produce. The position of this favoured and sheltered sea inlet upon the
-isothermal map shows it to have a mean annual temperature of 52 degrees,
-being similar in this regard to its neighbour, Glengarriff, and
-registering a higher mean annual temperature than Ventnor or Torquay.
-The mildness of the climate in the earlier spring months is of such a
-character that exercise can be freely partaken of in the open air daily,
-without risk of chill; and this to the invalid is of paramount
-importance. No record has, as yet, been regularly taken of the daily
-sunshine, or of the rainfall, but so far as could be ascertained, the
-rainfall does not appear to be excessive. To sufferers from chronic or
-recurrent affections of the respiratory organs, Parknasilla, in the
-winter and early spring months, would appear to be indicated as a most
-desirable place of residence. I have had the advantage of two recent
-visits to this district, and feel convinced that, when it becomes better
-known, Parknasilla will prove a veritable haven of health and rest to
-the chronic invalid and the convalescent, as well as a delightful
-retreat to the busy man of the 'world's mart,' who may need a temporary
-repose from the worries and cares of daily life. Parknasilla is about a
-two hours' drive or thereabouts from Kenmare, the drive being one of
-exceptional beauty and interest."--_Dublin Journal of Medical Science_,
-May, 1896.
-
-[Illustration: _Photo, Lawrence, Dublin._ Garinish Island, Parknasilla.]
-
-
-DRIVING AND BOATING EXCURSIONS IN THE VICINITY OF PARKNASILLA.
-
-     No. 1--Car to Sneem, and by Killarney Road to Letterfinish; thence
-     to Tahilla Chapel, and return by Dunquilla (ancient fort), or
-     direct. _8s._
-
-     No. 2.--Car to Sneem and Letterfinish; on to Geragh Bridge, and by
-     Blackwater Valley and Coast Road to Tahilla, returning by
-     Dunquilla, or direct, _12s._
-
-     No. 3.--Car to Sneem and Coomyauna Bridge, pony (cost _5s._, to top
-     and back not included), or walk to summit of Beoun Mountain, view
-     of Glencar and M'Gillicuddy Reeks, Cloon, Lakes, and Coomlumina
-     Glen with Dingle Bay in the distance. Return same way. _12s._
-
-     No. 4.--Car to Sneem and Glorah, pony (cost _5s._, to top and back
-     not included), or walk to summit of Finnavagough, view of
-     Foylenagearough, Cloonaghlin, Derriana, and Waterville Lakes.
-     Return same way. _12s._
-
-     No. 5.--Car to Staigue Fort and back. This ancient round stone
-     Fort, in a wonderful state of preservation, is well worth a visit.
-     _16s._
-
-     No. 6.--Car to Blackwater Bridge and Waterfall; along the
-     Blackwater Valley to Lough Erin, view of Ballaghbeama Pass,
-     returning by Geragh Bridge, Sneem Road, and Tahilla. _16s._
-
-     No. 7.--By boat to Reenkilla, car to Glanmore Lake, and by Furniss
-     to Killmakillogue, skirting Derreen, Lord Lansdowne's demesne (fare
-     _5s._, not included). Return by boat (four-oared). _20s._
-
-     No. 8.--By boat to Ormonde's Island; car along shore of Clonea Lake
-     to Inchiquin, Glen and Cascade, thence by Derreen or coast road.
-     (Fare, _10s._, not included.) Return by boat (four-oared). _20s._
-
-     No. 9.--By boat to the Caves, and into Ardgroom Harbour; car by
-     Eyeries to Castletown-Bere, Dunboy Castle, and back (fare _10s._,
-     not included). Return by boat (four-oared). _20s._
-
-     Excursions by Steam Launch will also be organised to the Caves,
-     Ardgroom, Derrynane, and other places of interest on the Kenmare
-     River.
-
-[Illustration: Cycling at Parknasilla.]
-
-[Illustration]
-
-[Illustration: _Photo, Lawrence, Dublin._ Blackwater at Kenmare.]
-
-The demesne around the hotel comprises one hundred acres of beautiful
-land, where tropical flora flourish all the year round. The meadows
-trim, with daisies pied, there are on every mossy bank the dewy lips of
-
-_"Violets dim, But sweeter than the lids of Juno's eyes, Or Cytherea's
-breath."_
-
-The road to Kenmare lies high above the sea. Ardgroom is hiding under
-the Caha mountains, with Glenbeg Lake behind, in the little valley.
-Beneath Derrenamackan the lashing seas wage perpetual warfare against
-the rocks. By the Eskdhu, or Blackwater Bridge, amid the dense foliage
-of the trees, a waterfall bleats from the thicket with plaintive murmur.
-Then it breaks itself free, and amid rocks, and briars, and tangled
-underwood, rushes wildly towards the sea. Between us and the ocean is
-Dromore Castle, the residence of one of the heads of a sept of the
-O'Mahony clan. In the demesne are the ruins of Cappacross, a stronghold
-of the O'Sullivans. Dunkerron Castle, on the shore, gives its name to
-the islands in the bay.
-
-
-
-
-[Illustration]
-
-County Clare.
-
-
-[Illustration: _Photo, Lawrence, Dublin._ Dromoland Castle.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Ennistymon.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Lisdoonvarna Spa.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Kilkee.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Amphitheatre at Kilkee.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Look-out Cliff, Kilkee.]
-
-[Illustration: Golfing at Lahinch]
-
-[Illustration: _Photo, Lawrence, Dublin._ Golfing, Lahinch.]
-
-Clare County possesses the finest cliff scenery in Ireland. From
-Limerick or Galway the county may be explored. On the journey by rail
-from Limerick, beyond Long Pavement, we come on a fine view of Cratloe
-woods. An ancient saint referred to Cratloe as "a pleasant seclusion
-from sin"; but in later times it became a haunt of rapparees, and its
-thick foliage provided what Spenser would call "a meet house for
-rebels." In later times Freney, a noted highwayman, whose exploits
-delighted the Irish peasant, here found a refuge. Bunratty Castle was a
-strong place in feudal times. Here Rinuccini, the Papal Legate to
-Ireland in 1641, sojourned, and his papers contain many references to
-the picturesqueness of the surrounding country, and its herds of wild
-deer. Between Newmarket and Ardsollus is Dromoland, the seat of Lord
-Inchiquin, and the birthplace of William Smith O'Brien, the aristocratic
-leader of the revolutionists of 1848. Crossing the Ardsollus river, we
-are near Quin Abbey, an old Franciscan Priory, and Clare Castle, which
-took its name from an old watch tower in the river Fergus. ~Ennis~ is
-the chief town in the County Clare. It is more quaint than important. It
-is pleasantly placed on the river Fergus, and is a clean town, doing a
-thriving business with the country. The principal monument in the
-town is to Daniel O'Connell, who was returned for Clare in the famous
-election of 1828. The ashes of the controversy that raged around
-O'Connell in his lifetime are long since dead, and if one wanted proof
-of this it is in the recent biography of the great agitator which
-appears in the "Heroes of the Nation" series. In that, the famous Clare
-election is treated with true historic discrimination by the writer, who
-compares the bravery of the Clare peasants at Ennis to the gallant
-Covenanters standing up against Claverhouse's Dragoons at Bothwell
-Bridge. From Ennis, by car and light railway, Ennistymon, Lehinch,
-Lisdoonvarna, and Ballyvaughan may be reached. At Ennistymon there is a
-splendid cascade on the Innagh river. ~Lisdoonvarna~ possesses the
-best known Spa in Ireland. It is come-at-able from Milltown-Malbay or
-Ennistymon. Its friends have called it "The Cheltenham of Ireland." It
-cannot be pretended that the immediate scenery is attractive, but there
-are many interesting drives in the vicinity. The hotels and lodgings are
-good. The sixth century Church of Saint Cronan, pleasantly placed in an
-ash-grove, will give those of an antiquarian taste opportunity of
-beguiling their time during a stay at the beneficial chalybeate and
-sulphurous springs. The drives from Lisdoonvarna may include tours to
-Ballyvaughan and the Cliffs of Moher. The drive by Black Head, the
-north-eastern promontory of county Clare, gives one a fine view as far
-north as the Arran; then we approach Ballyvaughan, in Galway Bay, an
-out-of-the-way old world village. Its approach is by a spiral hill, over
-two miles in length, called "The Corkscrew-road." The sides of the stony
-hills are interspersed with the most delicate maiden-hair fern, growing
-wild. There are two small but neat hotels in Ballyvaughan. From this
-little town Galway might be visited by steamer and the Arran Isles by
-hooker. ~Kilkee~ is admittedly the best bathing-place in these islands.
-It is dashed into with the full force of the Atlantic, but with the
-countless nooks fitted into the rocky coast-line, there are numbers of
-sandy strands suitable for bathing. Here, situated in the very outpost
-of the West of Ireland, it is as up-to-date and as go-a-head as some of
-its more fashionable rivals, while in natural advantages it excels them
-all. It is easy of access by land and sea. The town is protected by a
-long reef of rock, called "Duggerna." The cliff scenery is very
-beautiful. The spots to visit are The Puffing Hole, Saint Senanus' Holy
-Well, Bishop's Island, with its beehive cells and Green Rock. A tour to
-Loophead will bring one in sight of a long line of cliff scenery.
-~Lehinch~ and Liscanor Bay promise to become the best patronised golf
-links in Ireland. Right in front of the little town is a splendid
-strand, and local enterprise has been auxiliary to nature in making the
-spot attractive. ~Spanish Point~ also possesses splendid strands, where
-sea-bathing may be enjoyed with safety. Two miles away is
-~Milltown-Malbay~. The town is business-like, and the coast-line in the
-vicinity is associated with weird tales of wreckers; there some of the
-unfortunate Spaniards came to grief in 1588. The ~Cliffs of Moher~ may
-be visited from Milltown, Lehinch, or Lisdoonvarna. Going up the road
-from Lehinch to ~Liscanor~ we pass a Holy Well dedicated to Saint
-Brigid. The only cliff scenery in the British Isles to compare with that
-of Moher is at the Orkney islands. They make a magnificent embroidery
-into the red sandstone along the coast-line for four miles, rising in
-heights varying from 440 to 700 feet. From their height on a clear day
-the distant Isles of Arran may be seen, and the whole surroundings make
-as gorgeous a seascape as is to be found anywhere in the world. An
-observer will readily recognise that the quaint craft which the
-fishermen still use in the vicinity of Moher, as indeed elsewhere in
-Clare, is the ancient coracle. ~Kilrush~, on the Lower Shannon, is
-chiefly of interest to the antiquary. It can be reached from Limerick,
-by the Shannon, as pointed out already, and from Kilkee by Rail. By a
-ferry from a slip at the foot of the little town, the holy island,
-Scattery, the shrine of Saint Senanus, may be reached. The Round Tower
-is in good preservation, and the remains of the Seven Churches can
-still be traced. Saint Senanus' bed is still pointed out. No peasant
-woman who wishes to be a mother will ever enter this hallowed spot. The
-legend of Saint Senanus is similar to that of Saint Kevin. He was
-haunted by the love of a woman from whom he flew. Thomas Moore in verse
-tells us the hard-heartedness of both the anchorites:--
-
-  "Oh! haste, and leave this sacred isle,
-  Unholy bark, e'er morning smile,
-  For on thy deck, though dark it be,
-    A female form I see.
-  And I have sworn this sainted sod
-  Shall ne'er by woman's feet be trod."
-
-  "Oh! Father, send not hence my bark,
-  Through wintry winds and billows dark;
-  I come with humble heart to share
-    Thy morn and evening-prayer;
-  Nor mine the feet, oh! holy Saint,
-  The brightness of thy sod to taint."
-
-  The lady's prayer Senanus spurned,
-  The wind blew fresh, the bark returned;
-  But legends hint that had the maid
-    Till morning's light delay'd,
-  And given the Saint one rosy smile,
-  She ne'er had left his lonely isle.
-
-[Illustration: _Photo, Lawrence, Dublin._ Cliffs of Moher.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Kilrush.]
-
-[Illustration: Country Car.]
-
-[Illustration]
-
-
-
-
-[Illustration]
-
-Galway and District.
-
-
-Leaving the County Clare by rail we cross into Galway, between Crusheen
-and Tubber. Beyond the marshy country on the right, away in the
-woodlands, nestles Loughcootra Castle. The great lake from which the
-place takes its name covers eight square miles. The hundreds of islets
-here scattered about its surface are the homes of thousands of herons.
-The country people have a belief that this bird is a messenger of good
-omen, and never interfere with it or its young. There is a beautiful
-legend in Irish of a heron which visited St. Columba, at Iona, a
-traveller from his own country. This story is recorded in the
-interesting life of the saint written in the seventh century by Adamnan,
-one of his successors; a beautiful version in English tells of the saint
-rising at dawn of day after a dream of the coming of the bird:--
-
-  "He looked out over the dreary moor,
-  Over the hill so bleak and hoar--
-  'A bird from the land I revisit no more
-    Has come to visit me,
-  Dear Innisfail from thy fragrant shore--
-  Land of my own I shall see no more--
-    Across the driving sea.'
-
-  Then he left his prayer, and 'Brother,' he said,
-  'Take to thee corn, and oil, and bread,
-  A bird has alit--half frozen, half dead--
-    Upon our southern strand.
-  Then warm him and feed him with gentle care,
-  And chafe his wing's and anoint him there,
-    He comes from my own loved land--
-  From my own loved land,' and the old Saint wept;
-  But the Monk arose, while the others slept,
-  And warmed the heron, and fed and kept
-    The bird for a day and night.
-  So Columb feeling, though far away,
-  For Ireland's soil--like the Gael to-day--
-    One favour in heaven's sight."
-
-The magnificent residence was designed and erected similarly to East
-Comer Castle (by Nash, who remodelled Windsor) for Lord Gort, the head
-of the Vereker family, at a cost of £70,000. The black hand of the
-famine of 1847 fed on this property, like many another in Ireland, and
-it passed from its owners under the Encumbered Estates Act. Cove Park,
-the residence of Lady Gregory, is just outside Gort. Her Ladyship has
-found a way to the hearts of the country people by her sympathy with the
-Irish language movement. Her volume, "Mr. Gregory's Letter Box," is a
-valuable contribution to the history of Ireland in the first three
-decades of the nineteenth century. Sir William Gregory's Memoirs it is
-that contain the circumstantial version of the Cabinet scandal, in which
-the name of the Hon. Mrs. Norton (George Meredith's "Diana of the
-Crossways") figures. The story of the leakage of the State secret is as
-follows:--
-
-     "When Sir Robert Peel determined to repeal the Corn Laws he
-     consulted a portion of his Cabinet. They were Sidney Herbert, Lord
-     Lincoln, Sir Jas. Graham, and Lord Aberdeen, all of whom determined
-     that the repeal of the Corn Laws should be kept a profound secret
-     until the whole of the Cabinet had assembled. That same evening
-     Sidney Herbert dined _tête-à-tête_ with Mrs. Norton, the well-known
-     object of his attachment, and with whom he was infatuated. Before
-     dinner was over she wormed out of him the secret of the Cabinet.
-     After dinner she pretended to go to see a sick friend for a short
-     time, and returned in half-an-hour. In the meantime she had taken a
-     cab and driven down to the _Times_ Office, and saw Barnes, the
-     Editor, and told him the Government were going to repeal the Corn
-     Laws. Barnes said to her, "If you have no proof I shall not detain
-     you, but if you have you shall have £500." She gave him the chapter
-     and verse, and returned to poor Sidney Herbert with the cheque in
-     her pocket. The next day the announcement was made in the _Times_
-     which astounded all England. This was on the 5th December, 1845.
-     The other papers disbelieved it. Lord Derby and the Duke of
-     Richmond left the Government."
-
-In the heart of a stony country beset with high fences and rough copple
-stones, stands the little town of ~Gort~, The military stationed there
-now add to its importance. Kilmacduagh, at the base of the Burren Hills,
-contains a church (seventh century) of St. Colman, the Blue-eyed, and a
-Round Tower leaning out of the perpendicular. In pre-historic times all
-this country side at the foot of Burren, from Gort to Loughrea, and for
-miles apart, is said to have been the favourite hunting-ground of Queen
-Maev. ~Kinvara~, away on an inlet of Galway Bay, is a fishing village,
-and the locality is celebrated for the "succulent oysters"--which in the
-season are to be found in every restaurant in Dublin. The antiquary will
-find his way easily to Corcomroe Abbey--the church is still in a good
-state of preservation. Donald More O'Brien, King of Limerick, is
-commonly believed to have built it in the twelfth century. It
-subsequently became subject to Furness, in Lancashire. Donough O'Brien,
-King of Thomond--killed in battle in 1267--is buried here; his monument
-discloses the rude magnificence of his attire. The effigy is looked upon
-by scientists as an example of the attire of an Irish King of the
-thirteenth century.
-
-~Athenry~, as its name, the "Ford of the Kings," signifies, and its
-ruins testify, was of old a place of renown. The tower is entered by a
-small gate tower; before it stands the quaint market cross, on one side
-is the Virgin and Child, on the other the figure of the Crucified. The
-base is relieved with deer and wolf hounds, and at the corner an angel
-holds a scroll, the legend of which is defaced. The Franciscan Priory
-(1464), despite the attempt to modernise it, has still two thirteenth
-century windows, and the south transept has the remains of a very
-beautiful window. The Dominican Priory is said to have been erected at
-the personal request of St. Dominick in 1241. So late as 1644 it was the
-seat of a university acknowledged by Rome.
-
-~Tuam~ is now of little importance. It is to ecclesiastics, however, of
-interest, as the centre of an Archiepiscopal See. The statue to John
-MacHale is worth seeing. He was well known in the first part of the
-nineteenth century as "John of Tuam." An uncompromising Ultramontane, he
-translated Homer into Gaelic, and O'Connell in one of his speeches
-called this great patriot bishop "The Lion of the Fold of Judah." The
-ancient cross in the square is a good specimen of the Irish stone
-crosses.
-
-~Galway~ still possesses the evidence of its former greatness. To-day it
-is simply an old world city in the midst of a sporting county. Of old it
-was a strong-walled town, ever on the alert against alarm and foray,
-with its harbour crowded with the warships of Spain and the merchantmen
-of many a foreign port. There is a famous map of the city, dating back
-to 1651, when the then Lord Deputy Clanricarde pledged the town to the
-Duke of Lorraine. It shows a walled-in town with fourteen gates, each
-guarded by a watch-tower.
-
-[Illustration: _Photo, Lawrence, Dublin._ At Galway.]
-
-In the twelfth century, when De Burgo conquered O'Connor, he made Galway
-the citadel of his western possessions. During the next century there
-gathered into the prosperous town from far and near adventurers and
-merchants--the Blakes and the Bodkins, the Lynches, the Morrises, the
-Martins, the Joyces, &c.; founders of the great families, whose names
-have since been inseparable from Galway. In after times the clanship and
-attachment of these families to their members and each other, drew from
-the Scripture-loving Puritans the scornful appellation--"The Tribes of
-Galway"; but the expression was afterwards adopted by the Galway men as
-an honourable mark of distinction between themselves and their cruel
-oppressors. In old times the merchant princes of the place were renowned
-for their hospitality, which they carried to such an excess that the
-civil authorities interfered with it, in 1518, with a law to the effect
-that
-
-  "No man of this town shall oste or receive into their houses at
-  Christmas, Easter, nor no feaste elles, any of the Burkes,
-  MacWilliams, the Kellies, nor no cepte elles without license of
-  the Mayor and Councill, on payn to forfeit £5; that neither O nor
-  Mac shall strutte nor swaggere through the street of Gallway."
-
-Indeed, the O's and Mac's seem to have made their history by more than
-enjoying the hospitality of their neighbours, and what was not given
-them willingly they at times took by the strength of their right hands.
-Over the western gate of the city was the following meaningful
-inscription:--
-
-  "From the fury of the O'Flaherties, good Lord, deliver us."
-
-The trade with Spain was for centuries a source of great prosperity to
-the town, and those familiar with the characteristics of Spanish
-architecture will see much in Galway to remind them of it. The sympathy
-of the townspeople seems always to have been with the leaders of forlorn
-hopes in Irish history. It was almost destroyed by Ludlow for its
-fidelity to the King in 1652, and having been rebuilt, it again fell
-before the siege trains of the victorious Ginckle in 1691 after the
-battle of Aughrim, the Culloden of Ireland. With the fall of the
-Jacobite standard in that battle, the hopes of the western Irish
-declined. The surviving sons of most of the old families sought service
-abroad in the armies of France, Spain, and Austria. There are many love
-songs of the time in Irish, which have been translated, such as--
-
-
-AFTER AUGHRIM.
-
-  Do you remember long-ago,
-        Kathaleen!
-  When your lover whispered low--
-  "Shall I stay or shall I go,
-        Kathaleen?"
-  And you answered proudly, "Go,
-  And join King James and strike a blow
-        For the Green."
-
-  Mavrone! your hair is white as snow,
-        Kathaleen,
-  Your heart is sad and full of woe--
-  Do you repent you bade him go,
-        Kathaleen?
-  But still you answer proudly, "No,
-  Far better die with Sarsfield so,
-  Than live a slave without a blow
-        For the Green."
-
-Many of the old houses remain. Far and away the most interesting is
-Lynch's mansion at the corner of Abbey Gate-street. On the walls are the
-arms of the Lynches and their crest, a lynx, which it is said was given
-them for the watchfulness with which they guarded a besieged Austrian
-town in the middle ages. Behind Saint Nicholas' Church, in
-Market-street, is the Lynch stone, inscribed with a skull and
-crossbones, and "Vanity of vanity, and all is but vanity," above which
-is an inscription:--
-
-     "This memorial of the stern and unbending justice of the Chief
-     Magistrate of this city, James Lynch Fitzstephen, elected Mayor,
-     A.D. 1493, who condemned and executed his own guilty son, Walter,
-     on this spot, has been restored to its ancient site A.D. 1854, with
-     the approval of the Town Commissioners, by their Chairman, Very
-     Rev. Peter Daly, P.P., and Vicar of Saint Nicholas."
-
-The stern and unbending justice relates to the Mayor's execution of his
-own son. The story tells how a young Spaniard, who was the Mayor's
-guest, crossed in love the Mayor's son. One night, heated with wine and
-inflamed with jealousy, young Lynch drove a stiletto through the heart
-of his rival. His father tried and condemned him for the crime. His
-mother roused the sympathy of the townspeople to such an extent that
-none could be found to act as executioner, but the old Mayor was
-even-handed with them, and hanged the unfortunate culprit with his own
-hands.
-
-No visitor to Galway will fail to find out the Claddagh. It is the most
-conservative community in Ireland, and with them neither old times are
-changed nor old manners gone. The colony inhabit a number of
-low-thatched cottages apart from the town. They live mostly by fishing.
-The Claddagh women dress in blue cloaks and red petticoats, and their
-rings, which visitors procure as keepsakes, represent two hands holding
-a harp. Hardman, in his "Rare History of Galway," wrote of them as
-follows:--
-
-     "The colony, from time immemorial, has been ruled by one of their
-     own body, periodically elected, who is dignified with the title of
-     Mayor, regulates the community according to their own peculiar laws
-     and customs, and settles all their fishery disputes. His decisions
-     are so decisive and so much respected that the parties are seldom
-     known to carry their differences before a legal tribunal or to
-     trouble the civil magistrates."
-
-[Illustration: _Photo, Lawrence, Dublin._ Arran Island. Claddagh.]
-
-Salthill, to the west of the town, is a well-sheltered bathing-place,
-with pleasant villas for visitors. The Queen's College will repay a
-visit. At the bridge in the town excellent salmon fishing is to be had.
-When the fish are making up the river for Corrib or Lough Mask the
-sight is very interesting. From Galway the old Franciscan Monastery at
-Claregalway may be driven to, or an excursion made down the bay to the
-Arran Islands. They are twenty-seven miles from the harbour. There are
-three principal islands, Innismore, Innismaan, and Innisheen, and
-several small isles. Two centuries ago they were described as paved over
-with stones, with wide openings between them for cattle to break their
-legs, and the modern description by Hon. Emily Lawless does not far
-differ.
-
-The dress of the people is mostly white, homespun flannel "bawneens,"
-and sandals of cowhide, fastened across the instep, which they call
-"pampooties."
-
-[Illustration: _Photo, Lawrence, Dublin._ Queen's College, Galway.]
-
-
-
-
-[Illustration]
-
-Connemara and Sligo.
-
-
-The Great Southern and Western Railway line runs northward from Tuam to
-Sligo. To the westward lies Iar Connaught and Connemara, the capital of
-which is Clifden, standing high above Ardhear Bay. If we go direct from
-Galway to Clifden we pass Oughterard and the ruins of Aughnanure Castle,
-formerly the stronghold of "The furious O'Flahertys." From its Tower we
-can get a view of Lough Corrib, with its famous Caislean-no-Circe, long
-the lair of Grace O'Malley, of whom the western peasant may say she
-
-  "Fought, and sailed, and ruled,
-  And loved, and made our world."
-
-Oughterard nowadays is given over to fishermen instead of the fighting
-followers of the western chieftains. The Connaught Glendalough differs
-much from its Leinster namesake, but the Maamturk Mountains and the Glen
-of Innagh have a panorama of scenes difficult, indeed, to rival. Clifden
-is an excellent centre from which to make excursions. Wherever we look
-the Twelve Bens of Bumabeola spring up like uplifted lances. The
-coast-line is beautiful, and from the promontories we see distant Slyne
-Head and the Isles of the West. Mountain climbers will find on the
-summit of Urrisbeg a curious plateau. The district is a good one for
-lake and sea fishing.
-
-[Illustration: _Photo, Lawrence, Dublin._ Achill Head Mayo.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Diamond Mountain, Letterfrack.]
-
-The coast drive to Leenane should not be missed. Leenane itself is on
-the outer flank of "Joyce's County," as a fiord of Killery Bay.
-Letterfrack is but ten miles from Clifden. The mountain scenery in the
-immediate vicinity of the town is delightful. Within easy reach is
-Little Killery Bay and the beautiful valley, The Pass of Kylemore, near
-which is Kylemore Castle, where Mitchell Henry started his model farm in
-1864. The mountain pass of Lehinch cuts through the hills to the sea. A
-journey by Ballinakill brings the adventuresome to Renvyle Bay, where
-there is a comfortable hotel. Leenane is the best starting ground for an
-expedition up the Twelve Bens; from it also a tour may be made to Cong.
-
-About eight miles beyond Leenane is Errig Bridge, from which the best
-view of Croagh Patrick Mountain may be had. But an ascent of the
-mountain is best made from Murrisk Abbey, six miles outside Westport.
-From the mountain side the expansive country from island-set Clew Bay to
-Nephin and Slievemore, in Achill, spreads out to best advantage. The
-famous coach road from Clifden cuts into Westport from the south. The
-Quay and Mall and the Marquis of Sligo's demesne are the "sights" of the
-town. It is a convenient centre from which to visit Achill Island. The
-drive through Newport, Mallaranny, and Achill Sound to Dingort, although
-across an exposed country, on a fine day will more than repay the
-tourist.
-
-The views of Clew Bay are like the changing scenes in a panorama.
-Newport will clamour for the attention of fishermen; and lavish on them
-opportunities for sport. The Glens on the way to Mallaranny will tempt
-excursions, and beyond Burrishoole Bridge the antiquary will deviate
-to Carrighooley Castle, and lend his ears to the peasant tales of Grace
-O'Malley and her husband, the MacWilliam.
-
-[Illustration: _Photo, Lawrence, Dublin._ Glendalough.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Lough Corrib.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Killery Bay.]
-
-Mallaranny is a home of rest. It hides beside a promontory in the bay,
-and its splendid strand faces the south. The direct way to Achill is
-through Dingort. For scenery and sport few places in the west surpass
-the island. The mountain cliff scenery is superb. The seals breed in the
-cliffs, and the rocks are the homes of countless seabirds. At Meenawn,
-the eagles on the island mostly nest. The great horned wild goats offer
-good sport to the marksman, and the deep-sea fisher will delight in the
-shoals and "schools" of herring and mackerel which in the seasons strike
-the coast and into the bays of the island. Did Izaac Walton but live in
-our days he would be sure to find his way to Ballina, because of the Moy
-River and the salmon which "most do congregate there." Loughs Conn and
-Cullin are open free fishing, and on the preserves the terms are most
-liberal. Foxford, beside Lough Conn, will gladden the hearts of those
-interested in philanthropic schemes for the benefit of "the very poor"
-in rural Ireland. Within a few years, enterprises well directed, has
-transformed the district from being a "most distressful country" into a
-thriving, self-respecting, self-advancing locality. Killala, six miles
-from Ballina, is of interest as the point at which General Humbert and
-1,100 Frenchmen invaded Ireland in 1798. Sligo is the most thriving town
-in the west of Ireland. Its public buildings, its commerce, and its
-picturesque position, are one and all notable. Sligo Abbey, a structure
-of the thirteenth century, is a very remarkable pile of ruins. Lough
-Gill contains most beautiful sylvan and sea pictures. There is sea,
-lake, and river fishing _galore_, and mostly free. The point from which
-to see Lough Gill in all its glory is Dooine Rock. Excursions may be
-made to Hazelwood, Glencar, and even to Bundoran, the most deservedly
-patronised watering-place in the north-west of Ireland. Those who
-desire an exquisite souvenir of a visit to Ireland, should not fail to
-procure a piece of Belleek ware, remarkable for its elegance and
-delicacy; and if in the vicinity of Belleek village, permission may be
-obtained to visit the interesting pottery.
-
-[Illustration: _Photo, Lawrence, Dublin._ Kylemore.]
-
-[Illustration: _Photo, Lawrence, Dublin._ Lough Gill.]
-
-    For information as to Sport to be had in the Sligo District, see end
-    of this volume, where particulars are given as to Golf, Fishing,
-    Shooting, Cycling, &c.
-
-[Illustration]
-
-
-
-
-Summer and Winter Resorts
-
-
-The health resorts of Ireland are so many, their attractions and
-advantages so varied, that one wonders why it is that they are
-comparatively so little patronised. The explanation is not far to seek.
-Hitherto they have been but little known, one cause and another have
-helped to keep Ireland a _terra incognita_. The "faculty," however, has
-been for long acquainted with the benefits which the Green Isle
-possesses, and many an insular invalid, consumed with the desire to
-visit some continental resort, has taken the common sense advice of the
-family physician and learned to appreciate the advantages Providence has
-bestowed nearer home.
-
-Winter quarters we have a good store, and beauty spots abound on the
-coast, where summer delights can be enjoyed _galore_, to use an Irish
-expression.
-
-Most of the places referred to beneath have already been described in
-the foregoing pages, but it will, perhaps, be convenient for those in
-search of particular information as to health resorts and seaside
-watering places, to have them collected in one chapter and listed
-alphabetically--
-
-     ~ARDMORE.~--Fishing village, five miles from Youghal, growing as a
-     watering place. Beautifully situated on southern shore of Bay.
-     Splendid strand, good opportunities for bathing. Deep-sea fishing,
-     mackerel, and herring "schools," plenty of lobsters. Cliff scenery
-     in vicinity; the bay is frequented by seals. Gaelic-speaking
-     peasantry. Round tower and ancient church. Good cottage
-     accommodation.
-
-     ~ARRAN ISLANDS.~--Three in number--Innismore, Innismaan,
-     Innisheer--standing out in the Atlantic, a sort of long harbour bar
-     to Galway Bay. Scenery cannot pretend to be attractive. Bathing and
-     deep-sea fishing. Splendid views of cliff scenery on Clare Coast.
-     Steam trip up Galway Bay delightful. An enjoyable inn at Kilronan.
-
-     BALLYBUNION.--Good watering place, splendid strand, fine cliff
-     scenery, sheer on Atlantic Ocean, plenty bathing accommodation.
-     Castle Hotel is comfortable, lodgings clean and cheap. Eight miles
-     from Listowel.
-
-     BLARNEY.--Hydro, at St. Ann's Hill, on the side of pleasant uplands
-     overlooking old castle. Nicely wooded, with lake and trout stream.
-     Cottage homes, within grounds which are between six and seven
-     hundred acres in extent. Sandy soil and pine forests. The
-     residences well sheltered. Six miles from City Cork and Muskerry
-     tram; two miles G. S. W. Railway. Terms and particulars of
-     treatment, &c., to be had from the medical officer, Dr. Altdorfer.
-
-     CAHIRCIVEEN.--An inlet of Valencia Harbour, well sheltered, mild
-     winters. Coach drives through mountain scenery or along coast to
-     Waterville. Valencia three miles.
-
-     CASTLECONNELL.--Fishing village on the Shannon, outside Limerick,
-     six miles. Possesses chalybeate spring. Beautiful river scenery,
-     and splendid fishing. The Shannon Hotel can be recommended.
-
-     DUNMORE EAST.--Pleasant, quiet, and select seaside resort, eleven
-     miles from Waterford, at the mouth of the River Suir. Good strand,
-     well sheltered. Splendid sea fishing and exceptionally good harbour
-     for yachting or boating. Plenty of villa and lodging-accommodation,
-     demand for same on increase in season. Good bathing; good hotel.
-
-     GLENGARRIFF.--Coach from Kenmare or Bantry. Beautiful scenery.
-     Inlet of Bantry Bay. Well wooded, mild climate, winter resort
-     beyond compare. Gulf Stream strikes coast in vicinity. Excellent
-     hotel accommodation. Good cottage accommodation. Plenty coaching
-     and boating facilities in summer; splendid sea bathing. Arbutus
-     grows wild.
-
-     KENMARE.--One of the starting-points for the Grand Atlantic Coast
-     Drive. Thriving pleasant town at the head of the fiord.
-     Macgillicuddy Reeks stand out behind the town. Mountain climbers
-     will make ascent best from point beyond Sohaleen Bridge. Both the
-     Cork and Kerry sides of the bay are very beautiful and worthy of
-     investigation. The Southern Hotels Company has one of its branches
-     outside the railway station. The Lansdowne Arms is an old coaching
-     inn, famed for its mountain mutton and good claret.
-
-     ~KILKEE.~--The best bathing-resort in the three kingdoms. Splendid
-     facilities. The cliff scenery and coast walks attractive. Good
-     villa and cottage accommodation. Modern hotels on esplanade.
-
-     ~KILLARNEY~, see page 136.
-
-     ~LEHINCH.~--Bracing air from Atlantic. Good bathing. Bold coast
-     line. New hotel, fine golf links. Promises to be the most
-     up-to-date watering place in Clare.
-
-     ~LEENANE.~--The pleasant place on Killary Harbour. It has the
-     Mweelrea mountains behind it and the sea in front. The bay is
-     remarkable for sea fishing, while the salmon and trout angler will
-     have his heart's desire in Errif Lake. The Leenane Hotel stands
-     close to the shore, and the Aasleagh Hotel, high above the Errif,
-     is surrounded by demesne lands. The mountain scenery is remarkable.
-
-     ~LISDOONVARNA.~--Inland watering place. An old favourite health
-     resort now more easy of access than hitherto. The spas are
-     sulphurous and chalybeate. The hotel accommodation is unusually
-     good, but still insufficient for the summer and early autumn
-     visitors. The driving tours in the locality take in the most
-     delightful scenery in county Clare.
-
-     ~LUCAN.~--A very old spa. Beautiful sylvan retreat within nine
-     miles of Dublin. Scenery on upper Liffey and drives in vicinity
-     through charming country. The Hydro, equipped with every modern
-     advantage.
-
-     ~PARKNASILLA.~--THE PREMIER WINTER RESORT OF IRELAND. Hotel well
-     sheltered on fiord of Kenmare Bay. The grounds around beautifully
-     wooded and planted with luxuriant shrubs. Absolutely free from
-     winter cold. This country side the pride of Kerry. The seascape and
-     islands in vicinity delightful. Admirable arrangements for boating,
-     fishing, and coaching.
-
-     ~POULAPHOUCA.~--Approached from Harristown on the Tullow branch. The
-     upper Liffey winds here through a beautiful glen with a splendid
-     fall beyond Poulaphouca bridge. Splendid facilities for shooting and
-     fishing are afforded in the surrounding mountain country.
-     Convenient centre for pedestrian and cycle tours. Hotel immediately
-     above the Fall, also good hotel at Blessington: and four miles
-     higher up in the Wicklow Highlands, at Lacken, excellent hotel.
-
-     ~QUEENSTOWN.~--"The Paradise of Pensioners." The port of Cork
-     Harbour. Centre of American tourist traffic. Well sheltered. Long
-     the winter quarters of invalids. Every facility for visitors.
-     Within easy reach of Cork city. Excellent train service. In summer
-     steamer trips on beautiful river. Several good hotels; splendid
-     villa accommodation. A bright cheerful town, full of life and
-     change of colour. A well known specialist (Dr. A. Thomson), in his
-     "Physician's Note Book," puts the query--"Where should a
-     consumptive patient pass the winter months if he can't go abroad?"
-     and answers himself, "There is no place within Great Britain and
-     Ireland so well adapted for the residence of a consumptive patient
-     as Queenstown."
-
-     ~RECESS.~--Midway between Clifden and Kylemore, on the edge of the
-     western Glendalough, guarded behind by mountain scenery, secluded,
-     but all the more attractive to those weary of the busy haunts of
-     men. The lake and mountain scenery exceptionally wild. It is an
-     ideal resort for sportsmen.
-
-     ~TRAMORE.~--One of the most attractive watering places in Ireland.
-     Its name in English signifies "the great strand," and it is no
-     misnomer. The bathing facilities are the best on southern coast,
-     and are not, indeed, surpassed on any other coast. Splendid new
-     hotel up-to-date in every respect, and other hotels to suit all
-     classes, with fine race-course, plenty of lodgings and houses to be
-     had in the season. Twenty minutes run from Waterford by train.
-     Military bands in the summer. Exceptionally good place for
-     families. Tramore is a delightful seaside resort, built on a
-     gradual incline, with a southerly aspect, on the shores of the
-     broad Atlantic. The air is almost proverbial for its restorative
-     qualities, not only in popular but also in scientific opinion. It
-     is beyond all doubt that Tramore has as many hours of sunshine,
-     less rainfall, and more even temperature than any other seaside
-     town in the United Kingdom.
-
-     ~VALENCIA.~--The next parish to America, the home of Atlantic cable
-     stations. The island remarkable for the number of tropical plants
-     which grow in the open. Climate unusually mild. Boating, sailing,
-     and bathing in the season. Deep-sea fishing with islanders. Good
-     hotel, comfortable, clean, and cheap. Other accommodation difficult
-     to obtain.
-
-     ~WATERFORD~, see page 112.
-
-     ~WATERVILLE.~--Principal posting place on Atlantic coast tour.
-     Splendid watering place, beautifully situated on strip of land
-     dividing mountain lake from sea. Fine strand. Sea and lake fishing.
-     The station for Mackey Bennet cable system. Three good hotels,
-     M'Elligott's and Galvin's, on the coast, and the Southern Hotel on
-     the shore of the picturesque Lough Currane, within a stone's throw
-     of the sea. Very good cottage accommodation in summer season.
-
-
-
-
-[Illustration]
-
-Natural History of the South and West of Ireland.
-
-By R. LLOYD PRAEGER, B.A., B.E., &c.
-
-
-The Natural History of the South and West of Ireland possesses a special
-and peculiar interest in the occurrence in this region of a number of
-plants and animals which are rare in or absent from Great Britain and
-the adjoining portions of Europe. Let us first consider the general
-geographical features of this area, and the geological characters which
-have produced those features. Ireland has often been likened to a
-saucer, consisting as it does of a great central plain, fringed with
-mountain groups disposed around the coast. The plain has a slightly
-undulating floor of Carboniferous limestone; the groups of hills are
-mostly formed of older rocks, which break through the level limestones.
-On our journey from Dublin to Athlone, or from Dublin to Mallow, we pass
-across typical portions of the central plain; and the brown ridges of
-Slieve Bloom and Devil's Bit, and the greener heights of the Galtees,
-furnish good examples of the masses of older rocks that rise out of the
-plain.
-
-In considering the features and natural history of this wide area, it
-will be convenient to divide it into districts, which we shall treat of
-in the following order:--
-
-  1. Wicklow and Wexford.
-
-  2. Waterford and East Cork.
-
-  3. West Cork and Kerry.
-
-  4. Clare and East Galway.
-
-  5. West Galway and West Mayo.
-
-  6. Sligo.
-
-  7. The Central Plain and River Shannon.
-
-
-1. ~WICKLOW AND WEXFORD.~--Here we are on the East Coast, looking across
-St. George's Channel towards the shores of Wales. The lovely county of
-Wicklow is the most mountainous in Ireland, having 180 square miles over
-1,000 feet elevation, and 25 square miles over 2,000. Wexford is lower
-and more fertile. The coasts of both counties are in great measure flat
-and sandy, and are the home of many rare plants. A number of species of
-light soils and of gravelly shores have here their Irish headquarters,
-such as the Round-headed Trefoil (_Trifolium glomeratum_) the Sea-Stock
-(_Matthiola sinuata_), the rare Sea-Cudweed (_Diotis candidissima_), and
-the Wild Asparagus (_A. officinalis_). The Murrough, a great gravel
-beach backed by salt marshes which extends from Greystones to Wicklow,
-and the marshes of the River Slaney, may be specially recommended to the
-naturalist. These coasts are the only Irish locality for the handsome
-ground-beetle, _Nebria complanata_, a typical South European animal. The
-Wicklow mountains, which reach in Lugnaquilla a height of 3,039 feet,
-are the main portion of the Leinster highlands, formed by a great mass
-of granite which stretches from Dublin into county Kilkenny. Considering
-their elevation this range is singularly devoid of alpine plants and
-animals, but many interesting species inhabit the lower grounds, famous
-on account of the beauty of the scenery.
-
-Among the Lepidoptera several rare species are characteristic of the
-district, such as the "Bath White" butterfly (_Pontia daplidice_), and
-the "Four-spotted Footman" moth (_OEnistis quadra_).
-
-2. ~WATERFORD AND EAST CORK.~--This is a picturesque district, formed
-largely of slates and sandstones of Old Red Sandstone age. The coast
-is mostly of very bold character, with towering cliff ranges. The
-country is generally undulating and fertile, with occasional mountain
-ranges, of which the Comeraghs are rendered especially interesting and
-picturesque by the deep "cooms," embosoming tarns, which give them their
-name. The Comeraghs and the lovely valley of the Blackwater furnish
-particularly attractive ground for the naturalist. The flora and fauna
-of this area are intermediate in character between that of the district
-last considered and of the surpassingly interesting country that lies to
-the westward, and which will next claim attention. Thus, the coasts
-yield several of the rare plants mentioned in the last paragraph--for
-instance, _Diotis_ and _Asparagus_ grow at Tramore; while at the same
-time we first meet in this area with some of the most famous plants of
-the south-west--London Pride (_Saxifraga umbrosa_), Kidney-leaved
-Saxifrage (_S. Geum_), Great Butterwort (_Pinguicula grandiflora_),
-Irish Spurge (_Euphorbia hiberna_). Two rare butterflies of this
-district are _Dianthæcia cæsia_ and _D. luteago_ var. _Barrettii_; and
-the largest of the British leaf-beetles, _Timarcha lævigata_, has been
-taken near Waterford, and at Tipperary.
-
-[Illustration: _Drawing, J. St. J. Phillips._ Geological Section from
-Bantry Bay to Killarney.]
-
-[Illustration: _Photo, Welch, Belfast._ A Kerry ditchbank showing
-Pennywort two feet in height.]
-
-3. ~WEST CORK AND KERRY.~--This is one of the most beautiful and
-interesting districts in the British Isles, and indeed in Europe. The
-ancient Devonian rocks which prevail have been folded into a grand
-series of simple arches and troughs, the axes running north-east and
-south-west. The arches form noble mountain ranges, which on the coast
-project far into the Atlantic in a series of grand promontories, and
-inland form picturesque highlands, of which Macgillicuddy's Reeks, which
-rise to 3,404, constitute the highest land in Ireland. The valleys in
-their lower portions are occupied by the sea, in the form of long
-island-studded fiords; their upper parts are often filled with
-Carboniferous limestone, and offer a pleasant contrast of tillage and
-green pasture between the gaunt brown mountain-ribs. Here we stand on
-the most western outpost of the European Continent, with the Atlantic on
-three sides. The effect of the encompassing ocean, and the western winds
-which constantly blow in from it, is to produce here and along the whole
-western coast the most uniform annual temperature to be found in Europe.
-Frosts are almost unknown, and great heat and drought likewise. These
-peculiar climatic conditions have resulted in the acquisition and
-preservation of a fauna and flora which spread here from more southern
-latitudes at some time now long gone by, and which in these favoured
-spots still remain to remind us of a period when a state of things
-prevailed very different from what obtains at present. For naturalists
-tell us that there can be no doubt that these southern plants and
-animals migrated to Ireland over land-surfaces now destroyed, having
-spread along the old-time coast line which long ago extended from the
-Pyrenean highlands to Ireland; and as a relic of their march, we find
-some of the species still surviving in the south-west of England, while
-all of them are absent from the rest of England and from the adjoining
-parts of continental Europe.
-
-An enumeration of a few of the most remarkable of the plants, with a
-definition of their range, will make clearer this peculiar feature of
-the natural history of the West of Ireland:--
-
-[Illustration: Saxifraga umbrosa.]
-
-London Pride (_Saxifraga umbrosa_). In Ireland along the west and south
-coasts. Absent from England. On the Continent it is found only in the
-south.
-
-Kidney-leaved Saxifrage (_S. Geum_). In Ireland in the south-west.
-Unknown in England. On the Continent confined to the Pyrenean district
-
-Strawberry-tree (_Arbutus unedo_). In Ireland in the south-west. Unknown
-in England. On the Continent it grows all along the Mediterranean.
-
-Great Butter wort (_Pinguicula grandiflora_). In Ireland in the
-south-west. Unknown in England. On the Continent it grows on the Alps
-and in the south-west.
-
-Irish Spurge (_Euphorbia hiberna_). In Ireland along the south and west
-coasts. In England it is confined to Devonshire. On the Continent it
-occurs only in the south-west.
-
-[Illustration: _Photo, J. St. J. Phillips._ Among the Arbutus, Cloonee
-Lakes.]
-
-[Illustration: _Photo, Welch, Belfast._ Arbutus Islands, Killarney.]
-
-Going for a moment further north, we find in Connemara, and there only,
-a group of three kinds of Heath with the same peculiar distribution:--
-
-[Illustration: _Photo, Welch, Belfast._ The Irish Spurge.]
-
-  St. Dabeoc's Heath (_Dabeocia polifolia_). In Ireland
-  in Connemara. Unknown in England. On the
-  Continent confined to the south-west.
-
-  Mediterranean Heath (_Erica mediterranea_). In
-  Ireland in Connemara. Unknown in England.
-  On the Continent confined to the south-west.
-
-  Mackay's Heath (_E. Mackaiana_). In Ireland in
-  Connemara. Unknown in England. On the
-  Continent in Spain only.
-
-Nor is it the plants alone that exhibit the peculiar relation existing
-between the Natural History of Ireland and of the Pyrenean region.
-Among the animals the same features may be observed, the most striking
-instance being the peculiar Kerry Slug (_Geomalacus maculosus_), which
-is abundant in many parts of the extreme south-west of Ireland, and is
-elsewhere found only in Portugal.
-
-[Illustration: _Drawing, Dr. R. F. Scharff._ The Kerry Slug.]
-
-Mixed with these southern forms in the West of Ireland we find another
-group of still stranger affinities. In pools and lakes from Kerry to
-Donegal grows the curious Pipe-wort (_Eriocaulon septangulare_). It may
-be also found in the Island of Skye, in the West of Scotland, but
-nowhere else in Europe; to see it again we must go to the northern
-regions of North America, where it flourishes under conditions much more
-rigorous than those which obtain in its mild Irish home. The deliciously
-fragrant orchid, _Spiranthes Romanzoviana_, grows in the counties of
-Cork, Armagh, Antrim, and Londonderry; elsewhere only in sub-arctic
-America and the portion of Asia which most nearly approaches the Alaskan
-shores. The "Blue-eyed Grass" of Canada (_Sisyrinchium angustifolium_)
-is likewise confined to the West of Ireland and to North America; and
-further instances might be quoted. In the animal kingdom, too, parallel
-cases have been noted, the most interesting being the discovery of no
-less than three American species of fresh-water sponge, which are
-unknown in the rest of Europe.
-
-To account for the presence of this American group naturalists are
-driven, as in the case of the southern species, to the conclusion that
-these represent one of the very oldest components of our existing fauna
-and flora, and point to a period when the edge of Europe was prolonged
-far to the north-west, forming a continuous land area, presumably by way
-of Iceland and Greenland, to America. And here on the wild western coast
-of Ireland these last inhabitants of the lost lands of Europe still
-survive.
-
-[Illustration: The Kerry Slug, showing the manner in which its
-coloration mimics clusters of lichen among which it lives.]
-
-[Illustration: _Photo, Welch, Belfast._ Nest of Wood Ant at Killarney]
-
-4. ~CLARE AND EAST GALWAY.~--Our last district--West Cork and Kerry--was
-characterised by great ribs of slate and sandstone, and by an absence of
-limestone and the numerous plants which follow in its train. The present
-district forms a marked contrast, being largely composed of
-Carboniferous limestone. And the remarkable thing about these limestones
-is that they are over many miles totally devoid of any covering of soil
-or clay; the grey gnarled rock, fantastically carved and crevassed by
-the action of rain and weather, lies naked and bare. But in the crevices
-of the rock a wonderful variety of rare and beautiful plants abound. One
-or two of these have their home in the far south, like the plants we
-have lately considered, notably the little Close-flowered Orchid,
-_Neotinea intacta_, whose nearest station is about Nice. But the
-majority of the interesting species of these limestones are alpine
-plants, usually found at high elevations on mountains, which here form
-sheets of verdure down to the very edge of the sea. The Mountain Dryas
-(_D. octopetala_), the Bearberry (_Arctostaphylos Uva-ursi_), the lovely
-Spring Gentian (_G. verna_), and the Blue Moor-grass (_Sesleria
-cærulea_) are good examples, all of them growing in great abundance from
-the hill-tops down to the shore. It is this strange mingling of plants
-from the far south, from the far north, and from the mountains, which
-renders the West of Ireland so fascinating a field for the botanist. In
-the barren district of Clare, and in the adjoining Isles of Arran and
-south-west portion of county Galway, this peculiar flora may be seen in
-its greatest perfection. Some very rare insects have been taken in
-eastern Galway, including the Lepidoptera _Nallia ancilla_ and _Lycæna
-artexerus_.
-
-[Illustration: _Photo, Welch, Belfast._ Wolf Spider (_Pisaura
-mirabilis_) spinning nest for young.]
-
-5. ~WEST GALWAY AND WEST MAYO~.--In this district we have again a
-complete change of geology and of scenery. The grey limestones with rich
-grass and rare flowers filling every crevice are gone, and we are in a
-wild region of ancient metamorphic rocks--schists, quartzites, gneisses,
-and granites--which form wide moorlands, dotted with innumerable
-lakelets, with noble mountain groups rising over the wild boggy
-lowlands. To the student of metamorphism the geology of this area is of
-very high interest. The botanist finds himself once again, as in Kerry,
-in a focus of the southern flora already discussed. As stated above,
-Connemara contributes to the list of Pyrenean plants three Heaths, of
-which St. Dabeoc's Heath is the loveliest of the British representatives
-of the order. Here we may also meet again our old Kerry friends the
-London Pride, and on Inisbofin the Irish Spurge--plants which strictly
-avoid the limestone, as do the Heaths. The American element is
-represented by the Pipe-wort, which is common, and the little water
-plant, _Naias flexilis_, which grows near Roundstone. Of the three
-famous Heaths, St. Dabeoc's is abundant throughout Connemara, becoming
-rarer in Mayo. The Mediterranean Heath grows near Roundstone, and in
-immense abundance on the north side of Clew Bay, and again near the
-north-west corner of Mayo, extending inland as far as Lough Conn.
-Mackay's Heath is the rarest, being confined to the neighbourhood of
-Roundstone. As regards its fauna, Connemara and West Mayo yield fewer
-peculiar species than the south-west; but much remains to be done before
-it can be said that the zoology of this area is thoroughly known, and it
-offers a most promising field for the explorer.
-
-
-6. ~SLIGO.~--The visitor who makes Sligo his headquarters finds himself
-in a district of much variety and interest. This is a district that
-cannot be too highly recommended to the naturalist. To the geologist the
-fossiliferous limestones and the metamorphic rocks are alike of
-interest. The botanist naturally turns to the Ben Bulben Mountains,
-which harbour the richest group of alpine plants to be found in Ireland,
-including the pretty _Arenaria ciliata_, which does not grow elsewhere
-in the British Isles. To the zoologist a rich field lies waiting. A
-recent exploration of the limestone glens by a party of English and
-Irish conchologists has shown that in variety of land mollusca this
-district surpasses almost any other in these islands; and good results
-may be confidently expected in other invertebrate groups.
-
-
-7. ~THE CENTRE.~--The area comprised in the field of operations of the
-Great Southern and Western Railway Company include the southern half of
-the great Central Plain of Ireland and the lower course of the Shannon,
-the largest river in the British Isles. Towards the east the counties of
-Carlow and Kilkenny include much picturesque ground, especially along
-the courses of the rivers Nore and Barrow; and as picturesque ground
-implies the existence of hill and valley, wood and rock, the naturalist
-will find himself at home here. The flora is rich, though without any
-very marked features; the Nettle-leaved Bell-flower (_Campanula
-Trachelium_) being the most characteristic species. Regarding the fauna
-much has still to be learned. In Tipperary, Queen's County, and King's
-County we are in typical central plain country--great tracts of slightly
-undulating drift-covered Carboniferous limestone, the surface including
-wide pastures, cultivated ridges, and large areas of peat bog and marsh.
-The bogs, which form so peculiar a feature of the surface of Ireland,
-may be studied here over many miles of country. The noble Shannon, which
-winds slowly southward across the plain, widens at intervals into great
-lake-like expanses, of which Lough Derg is the largest, a place of much
-interest to the student of natural history. One plant which grows here,
-the Willow-leaved Inula (_I. salicina_), is found nowhere else in the
-British Isles; other characteristic Shannon plants are the Water
-Germander (_Teucrium Scordium_) and the rare Stone wort _Chara
-tomentosa_. Further west, in Limerick, a more varied surface prevails.
-Like Waterford and Cork, Limerick is a great centre for animals of the
-"Southern" distributional type, such as the Wood White Butterfly
-(_Leptidia sinapis_) the Brimstone Butterfly (_Gonapteryx rhamm_), and
-the Purple Hair-streak (_Thecla quercus_). The small but handsome
-Ground-beetle, _Panogæus crux-major_, is known in Ireland only from
-Finlough. This species has a typically "germanic" distribution in Great
-Britain. The Water-beetle _Pelobius Hermanni_, a very rare species, and
-the only British member of its family, occurs near Limerick and Cork.
-Cratloe Wood, by the Shannon near Limerick, may be specially recommended
-as a hunting-ground.
-
-[Illustration]
-
-
-
-
-SPORT.
-
-
-For sportsmen Ireland is a happy land, ready to supply their every want.
-Royal Meath, Kildare, Waterford, Tipperary, and Cork County are hunted
-by several good packs during-each season, and "the meets" are duly
-published in the local newspapers.
-
-In the large tracts of bog, moorland, river reaches, and mountain lands
-there is splendid shooting; in Kerry especially, where poaching is put
-down with a heavy hand, there are plenty of opportunities for sport.
-
-In most cases the hosts of the hotels have secured the shooting of many
-thousands of acres in their vicinity.
-
-When the weather is "hard," excellent sport can be had along the
-southern districts.
-
-The gentry most usually preserve their estates with great vigilance, but
-they are generous in giving permission to bona-fide sportsmen.
-
-
-
-
-[Illustration: CYCLING]
-
-GENERAL HINTS
-
-(FROM MECREDY'S ROAD BOOK OF IRELAND.)
-
-
-June and September are the driest months in Ireland. Tourists will find
-the Royal Irish Constabulary the best source of information, and they
-cannot do better than inquire at the various police barracks on the way
-for advice as to places of interest to be visited, and the condition of
-the roads. In unfrequented country districts the footpaths as a rule may
-be taken with impunity, but it is never absolutely safe to do so. It is
-always well to enquire of other cyclists met _en route_. The roads are
-very variable, some being grand and others very bad. Intercourse with
-the peasantry will be found interesting and amusing. Nothing can exceed
-their civility and courtesy; and for those who are not too particular it
-will be found an excellent plan to lunch in their cottages, excellent
-tea, home-made bread, butter and eggs being procurable for 1/-per head.
-There is little use questioning them as to distances, however. They are
-nearly always wrong, and in any case they calculate in Irish miles--11
-Irish equal 14 English. The police, however, are reliable, and give the
-distances in statute miles. Repairers are few and far between, but the
-local blacksmiths are often clever and handy men. The by-roads are
-generally better than the main roads, and the surface is better at the
-edge than in the middle. The mountain roads are as a rule very good, and
-not nearly so hilly as one would expect. The country people are rather
-stupid about getting out of one's way, and live stock on the road are a
-frequent source of danger, especially pigs, sheep, donkeys, and Kerry
-cows. Mountain passes should be negotiated carefully, as mountain
-torrents sometimes sweep away short stretches of otherwise excellent
-roads, and one comes on these spots unexpectedly. The corners, too, are
-excessively sharp, and steep pitches occur unexpectedly.
-
-In most small Provincial towns the Hotels are not good, but in tourists'
-districts, such as Kerry, they are really excellent and the charges are
-reasonable. Where lodgings are required it is a good plan to ask the
-local Head Constable for advice.
-
-
-~CORK DISTRICT.~
-
-Cork is an excellent centre for cycling. The roads are in fair order and
-the inclines moderate. There is abundance of fine scenery, and notably
-in the extreme south and south-west where there are some entrancing
-tit-bits. Magnificent tracts of inland mountain scenery are to be found,
-and many important historical and archæological ruins. There are hotels
-nearly everywhere within easy reach, many of them very good, and in most
-cases affording fair accommodation at reasonable cost.
-
-~One Day Tours from Cork.~
-
-No. 1.--To Queenstown, road 14 miles or rail 12 miles. Thence to East
-Ferry, 5 miles, cross the Ballinacurragh River by ferry. Thence by road
-to Midleton, 4 miles, back to Cork, road or rail, 12 miles. Fine views
-of the River Lee, Lough Mahon, the lovely Harbour of Queenstown,
-Ballinacurragh River, &c.
-
-No. 2.--To Youghal, road or rail, 27 miles. Thence by road to Ardmore, 6
-miles--a watering place with a ruined chapel where there are some
-curious carvings in stone, and a fine and perfect specimen of the old
-Irish round tower, Return same road.
-
-No. 3.--To Midleton, 12 miles, road or rail. Thence to Cloyne, 6 miles,
-where there is an ancient Cathedral still in use. Thence to Ballycotton,
-6 miles, a small watering place. Back by Cloyne and Aghada, on
-Queenstown Harbour, 12 miles. Thence by steamer to Queenstown, or across
-the East Ferry by road to Queenstown, 6 miles. Back by road or rail, 12
-miles.
-
-Hotels at Midleton, Cloyne, and Ballycotton.
-
-No. 4.--To Queenstown, road or rail, then by steamer, 20 minutes across
-the harbour to Crosshaven. Thence by road, 2 miles, to Church Bay. Fine
-view of mouth of the harbour and open Atlantic. Thence by Carrigaline
-and Douglas, back to Cork, 12 miles.
-
-Good hotels at Crosshaven and Church Bay.
-
-No. 5.--Cork to Blarney, by the Valley of the Lee and Carrigrohane, 9
-miles. Famous Castle of Blarney with the "Kissing Stone." The Groves of
-Blarney round the Castle may be seen, also St. Ann's Hydropathic
-establishment. Return by Rathpeacon and Blackpool to Cork, 6 miles.
-
-No. 6.--Cork to Dunkettle, 3 miles, road or rail, thence along the
-Glanmire River to Glanmire, 2 miles. Thence by Sallybrook and Kilcully,
-back to Cork, 6 miles.
-
-~Two Day Tours from Cork.~
-
-No. 1.--Cork to Macroom, road or rail, 25 miles. Thence to Inchigeela,
-10 miles, and Gougane Barra, 10 miles. Beautiful lake scenery, and the
-hermitage at Gougane Barra; a chapel on the Holy Lake is well worth
-seeing. The Pass of Keimaneigh is 3 miles further. From this point the
-traveller can return to sleep at Inchigeela or Macroom, where, at both
-places, there are good hotels; or may continue his journey to
-Glengarriff, Kenmare, or Killarney. If returning to Cork from Macroom,
-the journey may be made by Coachford and Dripsey, distance about 25
-miles.
-
-No. 2.--Cork to Bandon, 20 miles by rail or road. Thence to
-Courtmacsherry and the Old Head of Kinsale, each about 7 miles by road.
-The tourist can sleep at either place, and return to Cork by Kinsale and
-Innishannon, or continue his journey to Bantry, 37-1/2 miles by road or
-rail. Thence to Glengarriff, Killarney, &c.
-
-~Tours for Three or more Days from Cork.~
-
-No. 1.--Cork to Youghal, 28 miles by road or rail. Thence to Temple
-Michael, 3 miles along left bank of the River Blackwater, through
-Dromana to Cappoquin, 11 miles. From Cappoquin the Trappist Monastery of
-Mount Melleray, 3-1/2 miles, can be visited. Returning to Cappoquin the
-tourist can take either bank of the Blackwater, along a beautiful and
-level road to Lismore, 3-1/2 miles. The distance from Lismore to Fermoy
-is 16 miles by road or rail; the road along the Valley of the Blackwater
-being very fine throughout, and most picturesque. At Lismore the
-beautiful castle belonging to the Duke of Devonshire can be seen. The
-tourist can return from Fermoy to Mallow 16 miles, and thence to Cork,
-21 miles. Good hotels at Youghal, Lismore, Fermoy, and Mallow.
-
-No. 2.--Two day tour, No. 1, can be extended to three or more days, by
-proceeding from Inchigeela to Glengarriff, 23 miles, and Killarney, 39
-miles. Good hotels at Inchigeela, Glengarriff, Kenmare, and Killarney.
-
-Two day tour, No. 2, can be similarly extended to three or more days, by
-continuing the journey from Bandon to Bantry, 37-1/2 miles. Thence 10
-miles by road to Glengarriff, thence to Killarney, 39 miles. Good hotels
-at Bantry, Glengarriff, Kenmare, and Killarney. Or from Kenmare, 20
-miles, or from Glengarriff the tourist can ride to Parknasilla, 16 miles
-from Kenmare, where there is an excellent modern hotel and some of the
-loveliest scenery in Ireland.
-
-
-~LIMERICK DISTRICT.~
-
-To the cyclist on tour, Limerick and the surrounding districts offer
-many scenic attractions in wood, lake, and river. The roads are not good
-as a rule, owing in a great measure, to the fact that the city is the
-centre of a large agricultural district. The hotels in the city are
-good, and in the surrounding towns and villages the tourist will find
-good accommodation in hotels and otherwise.
-
-~One Day Tours from Limerick.~
-
-No. 1.--Perhaps the easiest one day tour which the cyclist can enjoy
-from Limerick, as his head quarters, is to Doonass Falls _via_ Clonlara.
-Five miles thence by O'Brien's Bridge, 7 miles, to Killaloe, where an
-excellent lunch can be had. The return home can be made by
-Castleconnell, the popular resort of the devotees of "Izaak Walton,"
-where an excellent tea can be had at the Shannon Hotel.
-
-No. 2.--Castleconnell and Clare Glens, and lengthened visit to
-Castleconnell to view the waterfalls, "The World's End"--a remarkably
-fine reach of the River Shannon. There is much to interest the visitor
-in the gigantic eel fishery, and here also is the renowned Enright,
-whose fishing rods are used all over the world. The Clare Glen, situated
-by the way in Limerick county, is not far from Castleconnell; and if
-liberty is obtained beforehand, the Glenstal Demesne, seat of the
-Barrington family, can be visited. Sir Charles Barrington, the present
-baronet, has never yet refused permission to the cycling tourist to view
-the charming scenery surrounding the Glenstal Castle.
-
-No. 3.--Askeaton, 16-1/2 miles, splendid road, one of the best from
-Limerick; famous old abbey to be visited, with excellent fishing on the
-Deel, granted that the tourist has obtained the requisite permission.
-
-No. 4.--Adare, 9 miles; roads pretty good. Mr. P. Fitzgerald, J.P.,
-Agent to Lord Dunraven, should be written to beforehand for a permit to
-visit the demesne, where some fine old ruins are in an excellent state
-of preservation. The Manor House is a magnificent building, but
-visitors are only allowed to enter when the family are away. This is
-well known as the district which inspired Gerald Griffin to write one of
-his famous poems. Lunch can be had at very moderate terms at the
-Dunraven Arms Hotel. The demesne wall turns eastward to Croom. The name
-of this village is derived from the old war cry of the Geraldines,
-"Munster Branch "--_Crom-a-boo_. To Limerick, from Croom, _via_
-Patrick's Well, there is a pretty good road, 10 miles.
-
-~Two Days Tours from Limerick.~
-
-Ballybunion. Good roads generally, but slightly up-hill when the Kingdom
-is reached. This charming seaside resort is rapidly coming to rival
-Kilkee. It has splendid bathing accommodation, and the coast scenery and
-caves equal to those of any other watering place in Ireland. The visitor
-for the first time makes his acquaintance with the Lartique, or "Single
-Line," Railway--the only one in the United Kingdom--from Listowel to
-Ballybunion, a distance of 8 miles.
-
-Returning to Limerick, a digression can be made to Shanid Castle, near
-Shanagolden. This towering mass of masonry, perched high on a
-hill--three sides of which are precipitous--is almost ignored by
-tourists. It was one of the strongholds of the Desmonds. The other spots
-on the Shannon--homeward bound--are Glinn, where the hereditary Knight
-of Glin has his seat, and where Gerald Griffin resided in his young
-days, near the pretty little village of Loughill. Foynes and Foynes
-Island, seat of Sir Aubrey de Vere, will repay a visit. Hotels are good
-on this line, also roads.
-
-No. 2.--Waterford and Tramore. Decent roads and accommodation, as good
-as can be got once outside Limerick county, border at the Limerick
-Junction, a distance of 20 miles from the Treaty Stone. Splendid views
-of the Galtee ranges can be had, and on towards Clonmel the wooded
-slopes of the minor ranges and hills are a delightful picture. If time
-affords, the tourist can digress from the main road and visit the famous
-Glen of Aherlow. Back to Tipperary for lunch, good hotels, and splendid
-roads. Visit the Kickham monument, and then on to Clonmel. Excellent
-accommodation to be had at Clonmel. Next day Waterford and Tramore, and
-back.
-
-~Tours for Three or more Days from Limerick.~
-
-Ballybunion, Tarbert, Kilrush, Kilkee, Lisdoonvarna, from Ballybunion.
-See "No. 1 Day Tours." Tarbert is only a few miles from Ballybunion.
-There is a steamboat service across the Shannon estuary to Kilrush.
-Thence to Kilkee by road, where first night out can be had. Next day to
-Spanish Point, Milltownmalbay, Lisdoonvarna, to the famous "Spa"; home
-_via_ Ennis, splendid roads.
-
-No. 2.--Killaloe, Scariff, Portumna, and Upper Shannon. A most enjoyable
-trip can be had from Killaloe. See "No. 1 Day Tour." There is a constant
-steamboat service on Lough Derg, which will take a cyclist and his
-machine, and land him at Scariff--on the Clare side--or Portumna,
-"Galway." From either of these towns a tourist can have his chance of
-the most diversified lake and river scenery to be had in the kingdom.
-Without doubt the praises of Lough Derg and the Upper Shannon have not
-been sung sufficiently. From Portumna to Dromineer, on the Tipperary
-shore, by lake steamer, thence to Nenagh on bike; splendid roads home to
-Limerick, 27 miles.
-
-
-~KILLARNEY DISTRICT.~
-
-Killarney is an ideal centre for the cyclist. Good roads proceed in
-every direction, and mounted on his favourite machine the wheelman will
-be able to discover and investigate scenic treasures unknown to the
-ordinary tourist.
-
-~One Day Tours from Killarney.~
-
-No. 1.--Killarney to Gap of Dunloe, 10 miles; Owenreagh Glen, 18 miles;
-Windy Gap, 30 miles. Killarney, total, 36 miles. Care should be taken to
-keep on the proper road through the Glen; there are many crossings. Any
-of the local folk will point out the road.
-
-No. 2.--Killarney to Torc Waterfall, 3 miles; return to Muckross Hotel,
-4 miles; enter demesne at Dinis, 10 miles; on to Kenmare road and home
-to Killarney, 17 miles. The road through Muckross Demesne is in some
-places dangerous owing to its steep and winding character.
-
-No. 3.--Killarney to Ross Castle, 1-1/2 miles; through demesne to
-Library Point, 2-1/2 miles. Back through Ross Island and demesne to
-Mahony's Point, 9-1/2 miles; Killarney, 12-1/2 miles. This road is
-perfectly safe and good, except two descents in Ross Island. Returning
-from Mahony's Point to Killarney by Aghadoe, about 15 miles, splendid
-view of Lower Lake and mountains can be had from the old ruins of
-Aghadoe.
-
-No. 4.--Killarney to Glenflesk _via_ Lough Guittane. Visit Robbers' Den,
-9 miles, home _via_ Headford and Barraduff, 26 miles. Roads good,
-scenery wild and romantic. There are many short and beautiful trips
-which can be made in and about the neighbourhood.
-
-~Two Day Tours from Killarney.~
-
-No. 1.--Killarney to Windy Gap, 16 miles; thence to Parknasilla across
-mountain. Total, 30 miles. Remain for night at Southern Hotel,
-Parknasilla. Parknasilla to Kenmare, 14 miles, and back to Killarney
-_via_ Kilgarvan. Total, 35 miles. Roads fairly good, but in places very
-steep, so that riders must keep a careful watch.
-
-No. 2.--Killarney to Beaufort, 6 miles; thence to Glencar, 19 miles, and
-on to Caragh Lake Hotel, 27 miles. Remain at Caragh Lake Hotel for the
-night. Return to Killarney _via_ Windy Gap and Gerah Cross. There are
-some sharp turns and steep descents requiring care.
-
-~Tours for Three or more Days from Killarney.~
-
-No. 1.--Killarney to Kenmare, 20 miles. Thence by Glengarriff, 40 miles,
-to Macroom, _via_ Inchigeela, Pass of Keimaneigh to Millstreet, and back
-to Killarney. Hotels at Kenmare (Southern Hotel), Glengarriff,
-Inchigeela, Macroom, and Millstreet.
-
-No. 2.--Killarney to Killorglin. Caragh Lake, Cahirciveen, visit
-Valentia, Waterville, Parknasilla, Kenmare, and back to Killarney by
-either rail or road.
-
-
-~WATERFORD DISTRICT.~
-
-Waterford can be recommended as a cycling centre, as the scenery in many
-districts of the South-east of Ireland is beautiful in the extreme, and
-can compare favourably with any in the country, and the roads are first
-rate. The hotels, too, are generally very good, and have been improved
-wonderfully of late, and the tariffs have been so arranged by the
-South-eastern Branch of the Irish Cyclist Association, that all
-requirements of the most slender purse can be satisfactorily arranged.
-
-Below we sketch out a few very enjoyable Tours which can be made, taking
-Waterford as the starting point:--
-
-~First Tour from Waterford.~
-
-Leaving-Waterford by the Newtown-road, we pass the house in which Lord
-Roberts spent his early days, and where his father and mother lived for
-many years. This is actually in the Borough and, from the grounds
-surrounding it, a capital view of the river and part of the City can be
-had. After passing by Newtown we keep along to the left until Parkswood
-is reached, when we run under a bridge and up a hill to Checkpoint, and
-here a magnificent view can be obtained. From the hill overlooking this
-pretty little village seven counties can be seen. Dunbrody Abbey, one of
-the most famous ecclesiastical ruins in Ireland, is situated immediately
-opposite on the other side of the river. Duncannon Fort, a short
-distance from here, comes into view, and we are enabled to see the
-joining of the three rivers--Suir, Nore, and Barrow. We pass from
-Checkpoint, and we reach Passage, a famous fishing station since the
-herring industry has become so prosperous in this part of Ireland. A
-little further on is Woodstown, and right opposite on the far side of
-the river can be seen Duncannon Fort, a fortified place in the days of
-old. Turning to the right by Ballyglan, we mount a steep incline, and we
-then come in view of Hook Tower, a beacon light which is said to be the
-oldest in the kingdom. Dunmore, about five miles from Woodstown, is one
-of the most picturesque, beautiful, and delightful resorts in the whole
-of Ireland. Here there is a magnificent pier, and boating and fishing
-can be enjoyed to one's heart's content. Wheeling back in the Waterford
-direction we make for Tramore, ten miles away. It is beautifully
-situated, and the visitor here can spend several hours in viewing the
-most attractive scenery. Close to the town are the Golf Links and the
-Race Course.
-
-From Tramore to Waterford the run is over a splendid level road, and the
-distance seven miles.
-
-The full distance of this run is 33 miles, and at all the principal
-points capital hotel accommodation can be had.
-
-~Tour Two, from Waterford.~
-
-The first part of this run is to Passage. At the Half-way House take the
-turn over the bridge, up the hill and down a steep decline to Passage.
-At the latter place the ordinary ferryboat can be taken to Ballyhack,
-which is directly opposite. The run from Ballyhack to Duncannon is over
-a fairly surfaced road. At the latter place M'Gonnigal's hotel is well
-appointed. From Duncannon the run to the famous Hook Tower is about
-seven miles, and the surface of the road generally is very good. Along
-this run a splendid view of the Harbour can be obtained, and on the way
-there are several places of interest--Loftus Hall, the Irish seat of the
-Marquis of Ely, stands on the edge of the river unprotected by a single
-tree. It was modernised within the last 25 years, and is now a
-splendidly appointed mansion. Bag-an-Bun, a little distance off, will
-well repay a visit--the coast line at this point being the principal
-attraction. From Hook we run to Fethard, 6 miles to the left, and here
-a very pleasant hour can be spent. Tintern Abbey is the next point to be
-visited. This is one of the most famous Abbeys in the country. From
-Tintern to Dunbrody the distance is 8 miles, and here we can spend a
-considerable time in viewing the great historical ruin, said to be one
-of the finest in the whole of Ireland. Leaving Dunbrody we come to the
-ferry of Ballinlaw, and crossing here ride by Snow-hill and Bellview
-into Waterford. The full distance of this ride is 41 miles.
-
-~Tour Three from Waterford.~
-
-Proceeding up the Cork road we ride up Ballyaneeshagh Hill, and on the
-left see Butlerstown Castle, an ancient building: which, in the days of
-Cromwell, held out for sometime against his forces. At the Sweep we turn
-round to the right and run to the bottom of the hill. A little way from
-the end of the hill the right turn is to be taken again to Kilmeaden, 8
-miles. The ride then is to Portlaw four miles away. Some fifty years ago
-this town was the seat of a great cotton industry. It has since fallen
-into decay, and the place looks like Goldsmith's "Deserted Village."
-Just outside the town is the magnificent demesne of Curraghmore, said to
-be the finest in the three kingdoms. The variety of scenery here is
-almost unsurpassed. Curraghmore is the property of the Marquis of
-Waterford. It is one of the great points of vantage to tourists and
-pic-nic parties. Passing through the demesne we come to the house
-itself, a modern and rather unpretentious structure. The court-yard is,
-however, very large, and is said to be capable of accommodating close
-upon 100 horses. Clonegam Church, where Lord William Beresford, uncle to
-the present Marquis of Waterford, was laid to rest, can be seen on the
-right glistening in the trees on the hill side. Through Curraghmore we
-ride to Clonea, about 5 miles further on, and then to the foot of the
-Comeragh Mountains, which occupy a centre of the county, and which are
-to be seen from all parts, as well as from a considerable portion of
-Tipperary. The greatest natural curiosity in this range is the
-appearance and site of an almost circular lake, by name Coomshinawin.
-From Coomshinawin to Kilmacthomas the distance is about 8 miles.
-Kilmacthomas Woollen Factory may be visited, and a good hotel
-accommodation can be had at Walsh's. From Kilmacthomas to Waterford is
-16-1/2 miles over a good road, the full distance being 45 miles.
-
-~Tour Four, from Waterford.~
-
-Our next tour will be from Waterford, _via_ the Sweep, to Knockaderry, 9
-miles away. At the latter place there is a very fine lake which amply
-supplies the City. Leaving Knockaderry we reach Dunhill, close to which
-place is the Castle of Donile, still distinguished for its peculiar and
-romantic situation, and in ancient times the property of De-La-Poer,
-from whom the present Marquis is descended. The village of Annestown,
-distant about one mile, is on the sea coast, and from it a magnificent
-view of rock and ocean scenery can be had. The run from Annestown to
-Tramore is over a beautiful road, and many pretty views of the coast can
-be seen. The spin to Waterford completes this tour, which is one of
-nearly thirty miles.
-
-~Two Day Tours from Waterford. No. 1.~
-
-Waterford, Dunmore, Annestown, Bonmahon, Stradbally, and Dungarvan.
-
-FIRST DAY.
-
-This is rather a long run of 47 miles, but as the roads are generally
-good and the scenery delightful it should be most enjoyable to the
-Cyclist who may feel in good form. We have already spoken of Annestown.
-From Annestown to Bonmahon the distance is over 5 miles. The road is
-very hilly, but the surface is splendid. At Bonmahon the once famous
-Knockmahon Mines are situated. These mines were the most valuable in the
-country about fifty years ago, but when the value of the metal (copper)
-fell operations were discontinued. Stradbally, 4 miles further on, is a
-delightful little village, said to be the most health-restoring place on
-the south-eastern coast. Here Whelan's Hotel is recommended. Dungarvan
-is 8 miles further on, and the road by the sea is well surfaced and very
-picturesque. At Dungarvan Lawlor's Hotel will be found very comfortable.
-
-SECOND DAY.
-
-A good run can be taken through Ardmore, Youghal, Lismore, and
-Cappoquin, part of which tour embraces the delightful Valley of the
-Blackwater. This complete run will tot about 50 miles.
-
-At Ardmore a very comfortable hotel is kept by Miss Prendergast. At
-Youghal, the Greenpark Hotel is a capital one. In Lismore, the
-Devonshire Arms and Blackwater Vale Hotels are recommended; and Kenny's
-at Cappoquin is also a good one.
-
-~Two Day Tours from Waterford. No. 2.~
-
-FIRST DAY.
-
-Piltown to Curraghmore, round by Coomshinawin. This complete run will be
-about 40 miles. The roads generally are capital, and the scenery as fine
-as can be seen in this part of the country.
-
-SECOND DAY.
-
-From Dungarvan, round by Ballymacarbery, Newcastle, Ardfinan, Clogheen,
-Melleray Abbey, to Dungarvan. This ride runs close upon 60 miles, and
-to undertake it the tourist must have been in cycling form for a
-considerable time. The roads, however, are generally very good.
-Ballymacarbery is 15 miles from Dungarvan; Ardfinan, about 26; then from
-Ardfinan to Clogheen the ride is 6 miles, and from that to Melleray
-about 13. At Melleray, from the Abbey, a grand view can be had of some
-of the most beautiful scenery in the whole of the county.
-
-The following are the best places of refreshment _en
-route_:--Ballymacarbery (Miss Power's), Newcastle, and Ardfinan. Two
-good licensed houses. Clogheen--The Hotel. Melleray--The traveller will
-always be hospitably received here.
-
-~Three or more Day Tours from Waterford. No. 1.~
-
-Waterford, Dunmore, 11; Tramore, 22; Dunhill, 27; Annestown, 28;
-Bonmahon, 34; Stradbally, 38; and Dungarvan, 47 miles.
-
-SECOND AND THIRD DAYS
-
-To Dungarvan--have been previously referred to.
-
-Instead of returning to Waterford by rail, the tourist on the
-fourth day may enjoy a most entertaining tour, _via_ the Pike,
-Coomshinawin--previously referred to--Curraghmore, Piltown, and
-Waterford. This run measures something like 40 miles.
-
-~Three or more Day Tours from Waterford, No. 2.~
-
-Waterford, Mullinavat, 8; Ballyhack, 16; Stoneyford, 21; Danesfort, 25;
-Kilkenny, 30; Thomastown, 40; and Inistioge, 47-1/2 miles.
-
-SECOND DAY.
-
-New Ross, 10; Waterford, 33; and Rosslare, 42 miles.
-
-THIRD DAY.
-
-Lady's Island, 4; Kilmore, 11; Fethard, 20; Hooktower, 26; Duncannon,
-35; and Waterford, 46 miles.
-
-This latter tour embraces some of the finest scenery on the
-south-eastern coast, and the inland scenery at Inistioge is equal to any
-to be seen in any part of Ireland.
-
-
-_IMPORTANT NOTE._
-
-The tariffs for Members of the Irish Cyclists' Association and Cyclists'
-Touring-Club are at most of the hotels in the south-eastern districts:--
-
-Breakfast.--Tea, coffee, or cocoa, with bread and butter, toast and
-preserve, ham and eggs, chops, steaks, cold meat, or fish, _2s._
-Substantial Luncheon, _1s. 6d._ Table d'Hote Dinner, 2_s._ 6_d._ Bed,
-_2s. 6d._
-
-
-
-
-[Illustration: CYCLING]
-
-~SLIGO DISTRICT.~
-
-(FROM MECREDY'S ROAD BOOK).
-
-
-~One Day Tour from Sligo. No. 1.~
-
-Sligo, Dromahaire, 12; Ballysadare, 24; Knockanree Glen, 28; Sligo, 33.
-
-Keeping along the north shore of the lake, Hazlewood Park, 2 miles from
-Sligo, is well worth visiting. The public are admitted, and the tourist
-should ride right down to the shore, which is here very beautiful. The
-road now winds over the hills, and is undulating with fairly good but
-rather loose surface, and it is some miles until the lake is reached
-again. The scene here is indescribably beautiful, and reminds one
-forcibly of Killarney. The lake is studded with islands, and the shores
-are densely wooded, whilst northwards extends one of the most
-fascinating districts we have ever toured in. It consists of a regular
-jumble of mountains, densely wooded, and often most precipitous. The
-gapes of the hills are extremely picturesque, and the scene can be
-revisited time and again without its palling. Those who would like to
-thoroughly explore this lovely neighbourhood should stop at Dromahaire,
-where they will find a most excellent hotel, remarkable alike for
-moderate charges and a cuisine which could not be surpassed. There is
-also an ancient abbey here, well worthy of inspection. Dromahaire is
-some little distance from the lake, and on leaving it the road, now
-excellent, winds round a mountain, and a few miles farther, after taking
-a sharp turn to the right, reaches the lake shore again at its
-southern-most point. Farther on it branches inland again, and at a point
-2 miles from Sligo a sharp turn to the left has to be taken for
-Ballysadare, and if time permits the tourist might proceed on through
-Collooney to Mackree Castle (3 miles), which will mean an addition of 6
-miles to the day's ride. At Ballysadare there are some really beautiful
-waterfalls. Retracing your steps towards Sligo for a short distance,
-proceed along the north shore of Ballysadare Bay. The road is good.
-Presently it begins to ascend a spur of Knockanree Hill, and a narrow
-lane and gate to the right admit to the Glen of the same name. It should
-on no account be missed. It is one of the most extraordinary natural
-phenomenon we have ever seen, and is exceedingly beautiful besides. It
-is very narrow, densely wooded, and the sides are quite precipitous. The
-path wanders through a wealth of undergrowth, and in most places we
-fancy the Glen is not forty feet wide, while here and there it is much
-narrower. In some of these spots the foliage actually meets overhead,
-and we noticed in one place a fallen tree had made a natural bridge
-across. Just at the beginning of the Glen there is a little glade where
-a house once stood.
-
-Keeping-round Knockanree Hill the road comes out on the shore of Sligo
-Bay. The surface is excellent, and the scenery pretty right into Sligo.
-
-~One Day Tour from Sligo. No. 2.~
-
-Sligo, Drumcliff, 5; Carney, 7; Lissadill House, 9; Carney, 11;
-Drumcliff, 13; Rathcormack Chapel, 14; Glencar, 18-1/2; Manorhamilton,
-27, Sligo, 41.
-
-The road is indifferent for some miles, but gradually improves. At
-Drumcliff there is an interesting round tower. Lissadill House is
-delightfully situated on the seashore. The grounds are open to the
-public, and it is a very pleasant ride through on the well-kept avenues.
-
-Retracing your steps to the main road, after passing Rathcormack Chapel,
-turn off to the left for Glencar, along a fairly level by-road, with
-fast, but stony, surface. After 2 miles turn to the left again. In due
-course Glencar is reached. Keeping along the north shore of the lake an
-extraordinary waterfall will be seen on the left. A thin sheet of water
-falls from the top of the cliff, and when the wind is from a particular
-quarter it catches the falling water every few minutes, and scattering
-it in minute particles makes it have the appearance of being suddenly
-cut off. Then all of a sudden it comes with a rush again, and apparently
-with renewed vigour. It is a very strange phenomenon, and fascinating
-withal.
-
-Wheeling along the shores of the lake we come to a larger waterfall at
-the extreme extremity, to which our measurement of 18-1/2 miles is
-taken. There is a fine volume of water here, and the neighbourhood being
-well wooded, gives a pretty effect. A cup of tea can be had at Mr.
-Siberry's, hard by.
-
-From this on to Manorhamilton the road, though good, is uninteresting,
-but if time presses the cyclist can ride direct back to Sligo, round
-Glencar Lake. By adopting this route, however, some beautiful scenery
-will be missed, and we should strongly advise following what is known as
-the old road from Manorhamilton to Sligo (14). Unless a meal is required
-it is better not to go as far as Manorhamilton, but to turn to the
-right, 1-1/2 miles out. This will reduce the day's journey by 3 miles.
-From this turn there is a stiff climb of 2 miles, but the surface is
-good the entire way. At the top of this incline a grand prospect bursts
-on the view. A confusion of miniature mountains, densely wooded, extend
-in every direction, while, as we descend, the waters of Lough Gill come
-into view beneath.
-
-A short distance from the summit the road forks. To the right leads to
-Sligo, while the turn to the left runs direct to the lake's shores, and
-then joins the other road some miles farther on. Both routes lead
-through beautiful scenery. The first is the shortest, but the second the
-prettiest.
-
-
-
-
-[Illustration: GOLFING]
-
-
-~DUBLIN DISTRICT.~
-
-There are a number of splendid Golf Courses round Dublin, but on the
-Dublin District lines of the Great Southern and Western Railway the only
-courses open to visitors are the following:--
-
-~Tullamore.~
-
-The course is of the inland description, and the period of play is from
-October to June. The hazards consist of hedges, ditches, and whins, &c.,
-which are well distributed. Visitors, _5s._ per month.
-
-~Athlone.~
-
-Visitors, _2s. 6d._ per week, _5s._ per month, 9 holes; Par score, 74.
-
-The length of the course is about 1-1/2 miles, and the grass is never
-long. The greens are not large, and the lies are somewhat heavy.
-Straight play is necessary to avoid heavy punishment. The course is
-beautifully situated and commands fine views of the Shannon and Lough
-Ree.
-
-~Banagher.~
-
-The course is situated 1/2 a mile out of the Town, and commands fine
-views of the distant hills. The distance round is about 1 mile. The
-grass is short, and the hazards consist of ruins, walls, and fences.
-Number of holes, 9.
-
-~Birr.~
-
-Visitors, _2s. 6d._ per week. Number of holes, 9.
-
-The course is situated 2-1/2 miles from Birr. The holes are of a very
-sporting character, the hazards being numerous and varied, consisting of
-rocks, hedges, walls, and running water. The grass is short and wiry,
-and good lies are obtained.
-
-
-~LIMERICK DISTRICT.~
-
-~Lehinch.~
-
-Visitors, _5s._ per week, or _1s. 6d._ per day. Number of holes 18. Par
-score, 81.
-
-The course is laid over fine natural Golfing country. The lies are good,
-as the soil is sandy with very short sea grass. The hazards consist of
-natural sand bunkers and sandhills with bent, and are ideal. The greens
-are excellent, and there probably is not in the United Kingdom a finer
-natural Golf Links.
-
-Accommodation at Lehinch Golf Links Hotel and Aberdeen Arms. There are
-some lodges to be had, capable of accommodating small families. Golfers'
-cheap tickets are issued to Members and Visitors at Kingsbridge, Dublin,
-Limerick, and other stations.
-
-~Adare Manor Club.~
-
-Play on this course is confined to Members. Members can introduce a
-Visitor for a few days, but the Links are not open to paying Visitors.
-Number of holes, 9.
-
-This is a very nice course, laid out in the demesne at Adare; the lies
-are perfect, and the greens small and well kept.
-
-~Killaloe.~
-
-Number of holes, 9.
-
-Accommodation, the Lakeside Hotel. The Links are situated about 1 mile
-from the Lakeside Hotel, and comprise a very nice sporting course. The
-hazards are varied, and the lies excellent.
-
-
-~WATERFORD DISTRICT.~
-
-Tramore.
-
-Visitors, _2s. 6d._ per week. Number of holes, 18.
-
-The course is a seaside one, and commands magnificent views of the bay.
-The grass is crisp and short, and the soil sandy.
-
-Accommodation at Grand Hotel and Hibernian Hotel.
-
-~Lismore.~
-
-Visitors, _2s. 6d._ per week; _5s._ per month. Number of holes, 9.
-
-High pastures interspersed with natural bunkers consisting of quarries,
-gorse, ridges, and roads. The greens are moderate, but the play through
-the course is very sporting.
-
-Accommodation at Devonshire Arms Hotel and Blackwater Vale Hotel.
-
-
-~CORK DISTRICT.~
-
-~Littleisland (on G.S. & W.R., 4-3/4 miles from Cork).~
-
-Visitors, _1s._ per day; or _5s._ per week, on application to Secretary.
-Par score, 74 for 18 holes.
-
-Fine grass of a down nature. Hazards, banks, roads, etc., requiring
-skilled play. Greens in first-rate order. Beautiful scenery. Handsome
-pavilion, with every accommodation. Professional attendant.
-
-~Youghal (on G.S. & W R., 27 miles from Cork).~
-
-Visitors, easy Terms by week or month.
-
-Number of holes, 6 at present.
-
-Seaside course. Good turf. Hazards, water, land, peat banks. Owing to
-inroads of the sea, ground has been greatly limited; but will be
-extended, when works now in progress are completed.
-
-~Mallow (on G.S, & W.R., 21 miles from Cork).~
-
-Visitors staying with Members free for one week; _2s. 6d._ weekly
-afterwards. Living at hotels, _5s._ first week; _2s. 6d._ afterwards.
-
-Number of holes, 9; Par score, 36.
-
-Pasture land, limestone bed. Hazards: fences, ditches, roads, a large
-quarry, grass grown. Greens in first-rate order. Good pavilion. Tea
-three times a week free. Grass grows too long for summer play.
-
-~Bandon (on C.B. and S.C.R., 20 miles from Cork).~
-
-Visitors free, if introduced by a Member.
-
-Number of holes, 9.
-
-The turf is composed of short grass. The distance between the holes
-varies from 120 to 360 yards, and the hazards are stone walls, etc.
-
-~Clonakilty (on C.B. and S.C.R., 29-1/4 miles from Cork).~
-
-Visitors, _2s. 6d._ per month; or _10s._ per annum.
-
-Number of holes, 9.
-
-Finely situated; commanding extensive views of surrounding: landscape.
-The course is all grass; rather long-for summer play, but first-rate
-from October to May. The hazards are stone walls and ditches.
-
-~Rushbrooke (on G.S. & W.R., 10-1/2 miles from Cork).~
-
-Visitors residing with Members free for fourteen days. Committee can
-elect temporary Members for a month, on payment of _5s._ Number of
-holes, 9.
-
-Grass on hill, fine view, good pavilion. Greens in good order. Long
-hazards.
-
-
-~SLIGO DISTRICT.~
-
-~Bundoran.~
-
-Station--Bundoran, on G.N.R.
-
-Hotels--The Great Northern Railway, Sweeney's, Hamilton's, etc.
-
-Visitors--_10s._ per month, _5s._ per week. Ladies half price.
-
-Number of holes--9. Par score--75.
-
-The course is partly sandy, and partly inland in character. It is finely
-situated, and commands views of the Atlantic and the mountain ranges.
-The distance round is about 1-1/2 miles, and the holes vary in length
-from 100 to 250 yards. The hazards consist of a cliff, sandbanks, pits,
-stone walls, and water.
-
-~Sligo.~
-
-Station--Sligo, thence by car or steamer. During the season public cars
-and a steamer run four times daily between Sligo and the course; fare,
-_6d._ each way.
-
-Hotels--In Sligo there are good hotels, and good accommodation at
-Ross's.
-
-Visitors--_1s._ per day, _2s. 6d._ per week (if introduced); not
-introduced _5s._ per week, _15s._ per month.
-
-Number of holes, 9. Amateur record, 84.
-
-The air and scenery at the Links are splendid. The grass is ideal turf.
-The distance round is 1-1/2 miles. The hazards are natural sand bunkers,
-broken ground, bent, walls, etc. The lies are good.
-
-
-~GALWAY~
-
-~Galway.~
-
-Visitors, _5s._ per week. Number of holes, 9.
-
-Accommodation at the Railway, Mack's, and Leane's Hotels.
-
-The Salt Hill tram brings the golfer within a mile of the Links, which
-are situated on a hill running out into the sea.
-
-
-
-
-[Illustration: FISHING]
-
-
-DUBLIN DISTRICT.
-
-River.--Liffey. Station.--Lucan, on Great Southern and Western Railway,
-6-3/4 miles from Dublin. Accommodation at Spa Hotel. Salmon and trout
-free.
-
-River.--Liffey. Station.--Hazelhatch, on Great Southern and Western
-Railway, 10 miles from Dublin. Hotel accommodation good. Salmon and
-trout free.
-
-River.--Liffey. Station.--Sallins, on Great Southern and Western
-Railway, 18 miles from Dublin. Accommodation at Healy's Hotel. Splendid
-trout fishing free.
-
-River.--Liffey. Station.--Harristown, on Great Southern and Western
-Railway, 25-1/2 miles from Dublin. Hotel accommodation at Ballymore
-Eustace and Poulaphouca. Splendid trout fishing at Kilcullen: at
-Ballymore Eustace by permission of Mr. John Royce, Stonebrooke House.
-
-River.--Slaney. Station.--Rathvilly, on Great Southern and Western
-Railway, 47 miles from Dublin. Hotel accommodation moderate. Trout
-fishing free.
-
-River.--Barrow. Station.--Bagnalstown, on Great Southern and Western
-Railway, 66 miles from Dublin. Accommodation at Ward's Hotel. Salmon and
-trout free.
-
-River.--Slaney. Station.--Baltinglass, on Great Southern and Western
-Railway, 42 miles from Dublin. Accommodation good. Trout fishing free.
-
-River.--Shannon. Station.--Banagher, on Great Southern and Western
-Railway, 84 miles from Dublin. Accommodation good. Splendid salmon and
-trout fishing free.
-
-River.--Barrow. Station.--Monasterevan, on Great Southern and Western
-Railway, 37 miles from Dublin. Trout, perch, and pike free.
-
-River.--Shannon. Station--Athlone on Great Southern and Western Railway,
-80 miles from Dublin. Hotel accommodation good. Salmon, trout, pike, and
-perch free.
-
-
-~LIMERICK DISTRICT.~
-
-River.--Maigue. Station.--Croom, on Great Southern and Western Railway.
-Accommodation at Croom Hotel and Maigue View Hotel. Salmon, trout, and
-pike fishing by permission of the owners.
-
-River.--Mulcair. Station.--Dromkeen, on Great Southern and Western
-Railway, 11 miles from Limerick. Accommodation good. Salmon and trout in
-abundance, free.
-
-Rivers.--Shannon, Maigue, Camoge. Station.--Patrickswell, on the Great
-Southern and Western Railway, 6 miles from the Shannon, 1-1/2 miles from
-the Maigue, and 4 miles from the Camoge. Accommodation.--Good lodgings
-and small hotel. Salmon and trout in the Maigue, and in Shannon and
-Camoge very fine trout. There are small tributaries which afford very
-good trout fishing free.
-
-River.--Shannon. Station.--Killaloe, on Great Southern and Western
-Railway, 15 miles from Limerick. Accommodation at Lakeside Hotel, Royal
-Hotel, Shannon View Hotel, Grace's Hotel, Lough Derg Hotel, and Hurley's
-Hotel. Salmon and trout. The fishing is excellent. During the past few
-seasons salmon varying from 20 to 40 lbs. have been taken by anglers.
-About 400 yards below and 20 yards above the bridge is a free stretch of
-salmon and trout water, where the catches compare favourably with those
-on preserved waters. Fishings may be hired for a month or longer.
-
-River.--Shannon. Station.--Castleconnell, on Great Southern and Western
-Railway, 9 miles from Limerick. Accommodation good. Castleconnell has a
-high reputation as an angling centre. Salmon fishing may be rented by
-the month, fortnight, week, or day, and the district is noted for the
-heavy fish taken. Trout, pike, and perch fishing is free.
-
-River.--Deel. Station.--Rathkeale, on Great Southern and Western
-Railway, 19 miles from Limerick. Accommodation at Pigott Arms, Eagle
-Hotel, and Hibernian Hotel. Good brown trout fishing, particularly in
-early months of the season--April, May, and June. Also salmon fishing
-by payment of ordinary licence.
-
-River.--Maigue. Station--Adare, on Great Southern and Western Railway.
-Accommodation at Dunraven Arms Hotel. Trout and salmon, permission from
-Mr. P. Fitzgerald, Agent, Adare.
-
-Rivers.--Brosna and Shannon. Station.--Birr, on Great Southern and
-Western Railway. Accommodation at Dooley's and Mathew's Hotels. Other
-private lodgings to be had in the town. Trout and salmon free.
-
-River.--Shannon. Station.--Nenagh, on the Great Southern and Western
-Railway. Good hotels at Dromineer and Nenagh. Splendid salmon and trout
-fishing.
-
-River.--Mulcair. Station.--Boher, on the Great Southern and Western
-Railway. Good salmon and trout fishing free.
-
-
-~CORK DISTRICT.~
-
-Salmon fishing is as a rule strictly preserved.
-
-Trout fishing is everywhere plentiful, and as a rule free.
-
-Rivers.--Lee, Sullane, Bride, &c. Station.--Macroom, on Cork and Macroom
-Railway, 25 miles from Cork. Accommodation at four or five small hotels;
-moderate. Salmon and trout.
-
-River.--Blackwater. Station.--Mallow, on Great Southern and Western
-Railway, 21 miles from Cork. Hotel accommodation good at the Royal
-Hotel, Central Hotel, and others. Salmon and trout.
-
-River.--Bandon. Station.--Bandon, on Cork, Bandon, and South Coast
-Railway, 20 miles from Cork. Accommodation.--Moderate; Angel Hotel,
-Railway Hotel, and Devonshire Arms. Good salmon and trout.
-
-River.--Dripsey. Station.--Dripsey, on Muskerry Railway, 10 miles from
-Cork. Accommodation.--None nearer than St. Ann's Hydropathic, Blarney,
-or Cork. Salmon and trout.
-
-River.--Bandon. Upton, on Cork, Bandon, and South Coast Railway, 15-1/2
-miles from Cork. Accommodation.--None nearer than Bandon. Good salmon
-and trout.
-
-River.--Ballylechy. Station.--Bantry, on Cork, Bandon, and South Coast
-Railway, 57-3/4 miles from Cork. Good accommodation at Vickery's,
-Railway, and Terminus Hotels. Salmon and trout.
-
-
-~WATERFORD DISTRICT.~
-
-River.--Blackwater. Station.--Kilmacow, on Great Southern and Western
-Railway, 4-1/2 miles from Waterford. Accommodation at Farmell's Hotel.
-Trout fishing free.
-
-River.--Blackwater. Station.--Mullinavat, on Great Southern and Western
-Railway, 7-3/4 miles from Waterford. Accommodation at M'Donald's and
-Healy's Hotels. Trout free.
-
-Rivers.--Nore, Arigilla, Jerpoint Brook. Station--Thomastown, on Great
-Southern and Western Railway, 20 miles from Waterford. Accommodation at
-Globe Hotel, Commercial Hotel, Hibernian Hotel. Small portion of Nore
-free. Arigilla River and Jerpoint Brook free.
-
-River.--Nore. Station.--Bennettsbridge on Great Southern and Western
-Railway, 25 miles from Waterford. Accommodation.--None nearer than
-Kilkenny or Thomastown. Salmon and trout; partly free.
-
-River--Blackwater. Station.--Lismore, on Great Southern and Western
-Railway, 43 miles from Waterford. Accommodation at Devonshire Arms Hotel
-and Blackwater View Hotel. Salmon and trout. Charges for salmon rod
-fishing.--For season, _£2_; for one week, _15s._; for one day, _5s._
-
-River.--Blackwater. Station--Cappoquin, on Great Southern and Western
-Railway, 39 miles from Waterford. Accommodation at three hotels, also
-private accommodation. Salmon and trout.
-
-River.--Mahon. Station.--Kilmacthomas, on Great Southern and Western
-Railway, 15 miles from Waterford. Accommodation at E. J. Walsh's and P.
-Cullinan's. Salmon and trout, free.
-
-
-~KILLARNEY DISTRICT.~
-
-River.--Flesk. Station.--Killarney. Accommodation at Killarney. Trout
-and salmon free by permission of Lord Kenmare.
-
-River.--Eirk. Station.--Killarney; thence by car 7 miles. Accommodation
-at Killarney. Brown trout free.
-
-River.--Erhagh. Station.--Killarney; thence by car 6-1/2 miles.
-Accommodation at Killarney. Brown trout; permission required.
-
-
-~SLIGO DISTRICT.~
-
-River.--Ballysadare. Station.--Ballysadare, on Midland Great Western
-Railway. Hotels at Sligo and Ballysadare. Salmon and sea trout
-preserved, also brown trout, for which permission can be had.
-
-
-
-
-[Illustration: LAKE FISHING]
-
-
-~DUBLIN DISTRICT.~
-
-Lake.--Lough Ree, Station.--Athlone, on Great Southern and Western
-Railway, 80 miles from Dublin. Hotel accommodation good. Salmon, trout,
-pike, and perch free.
-
-
-~LIMERICK DISTRICT.~
-
-Lake.--Lough Derg. Station.--Nenagh, on the Great Southern and Western
-Railway. Accommodation at Lough Derg Hotel, Miss Mill's Private Hotel,
-O'Meara's Hotel, Nenagh, and Hibernian Hotels. Some good trout and
-salmon fishing; some by permission, and some fishings may be hired.
-
-Lake.--Inchiquin Lake. Station.--Corofin, on West Clare Railway, 33
-miles from Limerick. Accommodation at Lake Hotel. Famous for trout
-fishing.
-
-Station.--Croom, on Great Southern and Western Railway. Lakes.--Tony
-Hill Lake, 1-1/2 miles from Croom, and Loughgor Lake, 7 miles from
-Croom. Accommodation at Croom Hotel and Maigue View Hotel. Pike free by
-permission of owners.
-
-Lake.--Lough Derg. Station.--Killaloe, on Great Southern and Western
-Railway, 15 miles from Limerick. Hotel accommodation excellent. Lough
-Derg is one of the prettiest pieces of water in Ireland, it is within
-ten minutes row of Killaloe, and the trout fishing is about the best in
-the United Kingdom. In favourable weather large baskets of trout are
-taken, and the fish weigh from 1 lb. to 7 lbs. Pike and perch also
-abound in the lake, the former grows very large.
-
-
-~CORK DISTRICT.~
-
-There is a chain of lakes near Inchigeela (Lake Allan and Gougane Barra)
-where some salmon and pike fishing may be had. There is also a small
-lake near Bruff (Loch Ghur) where trout, pike, etc., may be killed; also
-there are small lakes near Bantry well stocked with trout, &c.
-
-Lake.--Inchigeela. Station.--Macroom, on Cork and Macroom Railway, 25
-miles from Cork. Good hotel, provided with boats, fishermen, etc. Pike
-and trout free.
-
-Lake.--Loch Ghur. Station.--Kilmallock, on Great Southern and Western
-Railway, 42 miles from Cork. Good accommodation at O'Sullivan's Hotel.
-Pike and trout free.
-
-
-~KILLARNEY DISTRICT.~
-
-Killarney for the Angler is a paradise. He can fish a different stream
-or lake every day for a month or longer. The best fishing season is
-March, April, May, and September. Close season, November to February.
-
-Lakes.--Lakes of Killarney, Lough Leane, Muckross Lake, the Long Range,
-Upper Lake. Station.--Killarney, thence by car. Accommodation at
-Killarney. Trout and salmon. Licence required for salmon, cost <i>20s.</i>
-
-Lake.--Guitane. Station.--Killarney, thence by car 5 miles.
-Accommodation at Killarney. Brown and red trout free.
-
-Lake.--Looscannagh. Station.--Killarney, thence by car 10-1/2 miles.
-Accommodation at Killarney. Brown trout, etc., free.
-
-Lake.--Glas Lake. Station.--Killarney, thence by car 5 miles.
-Accommodation at Killarney. Brown trout, etc., free.
-
-Lake.--Gourggh. Station.--Killarney, thence by car 9 miles, walk two
-more. Accommodation at Killarney. Brown trout free.
-
-Lake.--Cushvalley. Station.--Killarney, thence by car about 8 miles.
-Accommodation at Killarney. Brown trout free.
-
-Lake.--Garagarry. Station.--Killarney, thence by car 6 miles.
-Accommodation at Killarney. Brown trout free.
-
-Lake.--Cummeenduff. Station.--Killarney, thence by car 13 miles through
-Gap of Dunloe. Accommodation at Killarney. Amply stocked with trout
-free.
-
-Lake.--Curraghmore. Station.--Killarney, thence by car 15 miles.
-Accommodation at Killarney. Brown trout free.
-
-Lake.--Augur. Station.--Killarney, thence by car 9 miles. Brown trout
-free.
-
-Lake.--Callee. Station.--Killarney, thence by car 8 miles. Accommodation
-at Killarney. Fine stock of trout free.
-
-Lake.--Managh. Station.--Killarney, thence by car 6 miles. Accommodation
-at Killarney. Brown trout free.
-
-
-~SLIGO DISTRICT.~
-
-Lake.--Lough Gill. Station.--Sligo, on Great Southern and Western
-Railway, thence by car 3 miles. Good hotel accommodation at Sligo.
-Salmon, white and brown trout and pike free, by permission, which may be
-obtained without difficulty.
-
-
-
-
-[Illustration: SHOOTING]
-
-
-~DUBLIN DISTRICT.~
-
-Station.--Lucan, on Great Southern and Western Railway, 6-3/4 miles from
-Dublin. Accommodation at Spa hotel. Rough shooting by permission of
-owners.
-
-Station.--Athlone, on Great Southern and Western Railway. 80 miles from
-Dublin. Good hotels. Wild fowl shooting on River Shannon and Lough Ree
-free.
-
-Station.--Monasterevan, on Great Southern and Western Railway, 37 miles
-from Dublin. Good hotels. Rough shooting free along the River Barrow.
-
-Station.--Banagher, on Great Southern and Western Railway, 84 miles from
-Dublin. Good hotel. Wild fowl very plentiful along Rivers Shannon and
-Brosna, free.
-
-Station.--Dunlavin, on Great Southern and Western Railway, 32 miles from
-Dublin. Good hotel. Rough shooting free.
-
-Station.--Rathvilly, on Great Southern and Western Railway, 47 miles
-from Dublin. Good hotel. Snipe and duck fairly abundant, free.
-
-
-~LIMERICK DISTRICT.~
-
-Station.--Croom, on Great Southern and Western Railway, 11 English miles
-from Limerick. Accommodation at Croom Hotel and Murgue View Hotel.
-Rabbits, plover, snipe, duck, at Tory Hill, by permission of owner of
-land.
-
-Station.--Dromkeen, on Great Southern and Western Railway, 11 miles from
-Limerick. Accommodation good. Snipe, duck, plover; free.
-
-Station.--Castleconnell, on Great Southern and Western Railway, 9 miles
-from Limerick. Accommodation good. Wild fowl; shooting on the river.
-
-Station.--Patrickswell, on Great Southern and Western Railway, 7 miles
-from Limerick. Accommodation at Patrickswell Hotel or Dunraven Arms,
-Adare. Geese, duck, widgeon, teal, snipe, and cock; by permission of Mr.
-Peter Fitzgerald, J.P., Mondela House.
-
-Station.--Rathkeale, on Great Southern and Western Railway, 19 miles
-from Limerick. Accommodation at Pigott Arms and Eagle Hotel. Good duck
-shooting; free.
-
-Station.--- Killaloe, on Great Southern and Western Railway, 15 miles
-from Limerick. Accommodation excellent. In winter Lough Derg is visited
-by large quantities of wild fowl, which afford capital sport; and the
-bogs and marshes around Killaloe hold snipe in fair numbers.
-
-
-~CORK DISTRICT.~
-
-There is excellent wild fowl shooting all along the sea coasts, and
-along the rivers for a few miles from the sea. The Youghal coast, the
-Lower Lee, Blackwater, and Bandon Rivers, afford excellent sport of this
-kind; also the deeply indented coasts of Kinsale, Courtmacsherry,
-Skibbereen, and Baltimore.
-
-Station.--Bandon, 20 miles from Cork, on South Coast Railway.
-Accommodation fair at the Angel and Devonshire Arms. Snipe, wild fowl,
-and plover; free.
-
-Station.--Blarney, 5 miles from Cork, on Great Southern and Western
-Railway. Accommodation excellent at St. Ann's Hydropathic Establishment.
-Snipe and plover fairly abundant; free.
-
-Station.--Clonakilty, 33 miles from Cork, on Cork, Bandon, and South
-Coast Railway. Accommodation fairly good at Imperial or Shannon Arms.
-Snipe and plover; free.
-
-Station.--Mitchelstown, miles from Cork, on Great Southern and Western
-Railway. Accommodation fair at Ahearn's or Fitzgerald's. Snipe and
-plover may be had on the slopes of Kilworth Hills, by permission of
-Officer Commanding Kilworth Camp.
-
-Station.--Kinsale, 24 miles from Cork, on Cork, Bandon, and South Coast
-Railway. Accommodation good at Kinsale Arms or Sea View Hotels. Wild
-fowl mostly preserved, but permission may be had.
-
-Station.--Skibbereen, 53-3/4 miles from Cork, on Cork, Bandon, and South
-Coast Railway. Accommodation fair at Commercial, Eldon, and Ilen Valley
-Hotels. Duck, teal, widgeon, snipe, and plover; free.
-
-Station.--Youghal, 26-3/4 miles from Cork, on Great Southern and Western
-Railway. Accommodation good at Adelphi, Devonshire Arms, Green Park,
-Imperial, and Strand Hotels. Wild fowl very plentiful along the sea
-coast and at mouth of Blackwater; free.
-
-
-~WATERFORD DISTRICT.~
-
-Station.--Horse and Jockey, on Great Southern and Western Railway, 48
-miles from Waterford. Accommodation at Thurles, about 4 miles distant.
-Grouse, hares, duck, &c., &c., in Liskeveen Bogs, by permission of D. J.
-Mansergh, Esq., Grallagh Castle, Thurles.
-
-Station.--Ballyhale, on Great Southern and Western Railway, 15 miles
-from Waterford. Accommodation at Mrs. Hayes, Knocktopher Hotel,
-Thomastown. Rough shooting to be had at Courisk and Castlecasker Bogs,
-about 1 mile from the station, in the direction of Innistiogue, but game
-not plenty, being a common; this would be free. A preserve at
-Knocktopher. For permission apply to Captain Langrishe. A preserve at
-Castlemorris. For permission apply to Rev. Wm. D'Montmorency,
-Castlemorris. Applications as to payment and otherwise should be made to
-above-mentioned gentlemen.
-
-Station.--Attanagh, on Great Southern and Western Railway, 45 miles from
-Waterford. Accommodation at Griffith's Hotel, Durrow. About 1,000 acres,
-almost adjoining station; duck, rabbit, snipe, woodcock; free, if with
-permission of occupiers (tenant farmers).
-
-Station.--Kilmacthomas, on Great Southern and Western Railway, 15 miles
-from Waterford. Accommodation at E. J. Walsh's Hotel. There is no
-preserved ground in this vicinity, on which permission is given to
-shoot; snipe are fairly plentiful on surrounding bogs, and this is about
-all the shooting there is. By permission of Charles Mansfield,
-Kilmacthomas, and P. Power, Faithlegg, Waterford.
-
-Station.--Durrow, on Great Southern and Western Railway, 22 miles from
-Waterford. Accommodation at Whelan's and Riley's Hotels. Waterfowl;
-grey and green plover; also duck and snipe, rabbits, &c., by permission
-of farmers.
-
-Station.--Lismore, on Great Southern and Western Railway. Accommodation
-at Devonshire Arms Hotel and Blackwater Vale Hotel. Partridge, grouse,
-woodcock. Permission to be obtained from James Penrose, Esq., Lismore
-Castle.
-
-Station.--Carrick, on Great Southern and Western Railway. Accommodation
-at Bessborough Arms and Kirwan's Hotels. Duck, rabbits, rooks. Free, and
-by permission.
-
-Station.--Mullinavat, on Great Southern and Western Railway, 7-3/4 miles
-from Waterford. Accommodation at M'Donald's Hotel and Hely's Hotel.
-Duck, widgeon, teal, and snipe; shooting free on Bishop's Mountain and
-Moenrin. By permission.
-
-
-~SLIGO DISTRICT.~
-
-Station.--Sligo, on Great Southern and Western Railway, thence by car.
-Place, Rosse's Point. Accommodation--Hotels good. Shooting--free below
-high water mark.
-
-[Illustration]
-
-
-
-
-INDEX.
-
-
-  Achill Head, 246.
-
-  Adare, 59.
-
-  Adare Abbey, 60.
-
-  Adare Manor, 61.
-
-  Adare Manor Golf Links, 292.
-
-  Aghada, 95.
-
-  Aghadoe, 156.
-
-  Among the Arbutus, 266.
-
-  Arbutus Island, Killarney, 267.
-
-  Arbutus Rock, Lake Currane, 202.
-
-  Ardfert, 62.
-
-  Ardmore, 105, 256.
-
-  Arran Islands, 243, 256.
-
-  Athenry, 237.
-
-  Athlone, 39.
-
-  Athlone Golf Links, 291.
-
-
-  Ballincollig, 89.
-
-  Ballingrane, 62.
-
-  Ballybunion, 62, 65, 257.
-
-  Ballycotton, 96.
-
-  Baltimore, 172.
-
-  Banagher Golf Links, 291.
-
-  Bandon Golf Links, 293.
-
-  Bank of Ireland, 17.
-
-  Bantry, 172.
-
-  Beenarourke, 204.
-
-  Birr Castle, 39.
-
-  Birr Golf Links, 292.
-
-  Black Abbey, 36.
-
-  Blackrock, 89.
-
-  Blackrock Castle, Cork, 89.
-
-  Blackwater River, 101, 107.
-
-  Blackwater River, Youghal, &c., 98.
-
-  Blackwater at Kenmare, 219.
-
-  Blarney, 77, 257.
-
-  Blarney Castle, 86.
-
-  Boating at Killarney, 135.
-
-  Boher, 46.
-
-  Brayhead, 192.
-
-  Bundoran Golf Links, 294.
-
-  Bunratty Castle, 221.
-
-  Buttevant, 98.
-
-
-  Cahirciveen, 182, 187, 257.
-
-  Caragh Lake, 178.
-
-  Caragh Lake, Southern Hotel, 178.
-
-  Carlow, 33.
-
-  Carrantual, Killarney, 146.
-
-  Carrick-on-Suir, 127.
-
-  Carton House, Maynooth, 28.
-
-  Cashel, 130.
-
-  Castleconnell, 53, 257.
-
-  Castletown, 27.
-
-  Castletown House, 27.
-
-  Caves of Mitchelstown, 131.
-
-  Charleville, 134.
-
-  Christ Church Cathedral, 20.
-
-  Claddagh, 243.
-
-  Clare and East Galway Natural History, 272.
-
-  Clew Bay, 248.
-
-  Clifden, 245.
-
-  Cliffs of Moher, 231.
-
-  Cliffs at Valencia, 191.
-
-  Clock Tower, Youghal, 102.
-
-  Clonakilty Golf Links, 293.
-
-  Clondalkin, 26.
-
-  Clonmacnoise, 44.
-
-  Clonmel, 127.
-
-  Cloonaghlin Lake, 188.
-
-  Cloyne, 95.
-
-  Connemara and Sligo, 245.
-
-  Coomakista, 204.
-
-  Coomakisteen Hill, 205.
-
-  Coomasaharn, 182.
-
-  Cork, 73.
-
-  Cork District, 85.
-
-  Cork District--
-    Cycling, 279.
-    Fishing, 297, 300.
-    Shooting, 303.
-
-  Cork Exhibition, 84.
-
-  County Clare, 221.
-
-  Cratloe Woods, 221.
-
-  Cromwell's Bridge, 171.
-
-  Crosshaven, 95.
-
-  Curragh Camp, 31, 32.
-
-  Curraghmore Ho., 118.
-
-  Custom Ho., Dublin, 21.
-
-  Cycling, 278.
-
-
-  Dame St., Dublin, 18.
-
-  Derriana Lake, 188.
-
-  Derrynane, 206.
-
-  Derrynane Abbey, 206.
-
-  Diamond Mountain, 247.
-
-  Dinish Island, Killarney, 144.
-
-  Dooks, 180.
-
-  Dromod, 67.
-
-  Dromoland Castle, 222.
-
-  Dublin Castle, 19.
-
-  Dublin and District, 15.
-
-  Dublin District--
-    Fishing, 295, 299.
-    Golfing, 291.
-    Shooting, 302.
-
-  Duke of York Route, 67.
-
-  Dungarvan, 132.
-
-  Dunmore, 122.
-
-  Dunmore East, 257.
-
-
-  Eagle's Nest, Killarney, 145.
-
-  Eccles' Hotel, Glengarriff, 166.
-
-  Emly, 133.
-
-  Ennis, 221.
-
-  Ennistymon, 223.
-
-
-  Falls of Doonass, 54.
-
-  Fenit, 66.
-
-  Fethard, 128.
-
-  Fishing, 295.
-
-  Four Courts, Dublin, 23.
-
-  Foynes, 62.
-
-
-  Galteemore, 132.
-
-  Galway, 238.
-
-  Galway and Dist., 235.
-
-  Galway Golf Links, 294.
-
-  Galway, Queen's College, 244.
-
-  Gannets on Little Skellig, 197.
-
-  Gap of Dunloe, 157.
-
-  Garinish Island, 212, 215.
-
-  Geological Section, Bantry to Killarney, 263.
-
-  Glenbeigh, 182.
-
-  Glenbrook, 92.
-
-  Glendalough, 249.
-
-  Glengarriff, 166, 257.
-
-  Golfing, 291.
-
-  Golfing at Lehinch, 229.
-
-  Gort, 237.
-
-  Gougane Barra, 169.
-
-  Grattan, 17.
-
-  Great Cross of the Scriptures, 45.
-
-  Guest House, Mount Melleray, 111.
-
-
-  Harristown, 29.
-
-  Headford, 134.
-
-  Holy Cross Abbey, 129.
-
-
-  Imperial Hotel, Waterford, 117.
-
-  Inchigeela, 171.
-
-  Innisfallen, Killarney, 146.
-
-  Irish Spurge, 268.
-
-
-  Kells, 38, 182.
-
-  Kenmare, 257.
-
-  Kenmare and Glengarriff, 164.
-
-  Kenmare, Southern Hotel, 166, 218.
-
-  Kerry Ditchbank, 264.
-
-  Kerry Slug, 269.
-
-  Kildare, 31.
-
-  Kilkee, 225, 228, 258.
-
-  Kilkenny, 33, 34.
-
-  Kilkenny Castle, 35.
-
-  Killaloe, 58, 67.
-
-  Killaloe Golf Links, 292.
-
-  Killery Bay, 251.
-
-  Killarney, 136, 258.
-
-  Killarney, Arbutus Island, 267.
-
-  Killarney, Carrantual, 146.
-
-  Killarney, Dinish, 144.
-
-  Killarney, Eagle's Nest, 145.
-
-  Killarney, Gap of Dunloe, 157.
-
-  Killarney, Innisfallen, 146.
-
-  Killarney, Meeting of the Waters, 149.
-
-  Killarney, Muckross Abbey, 151.
-
-  Killarney, Shooting the Rapids, 143.
-
-  Killarney, Torc, 153.
-
-  Killarney, Up. Lake, 139.
-
-  Killarney District, Cycling, 283.
-
-  Killarney District, Fishing, 298, 300.
-
-  Killarney and Glengarriff, 133.
-
-  Killarney, Southern Hotel, 136.
-
-  Killorglin, 178.
-
-  Kilmallock, 133.
-
-  Kilrush, 232.
-
-  Kincora, 69.
-
-  Kinvara, 237.
-
-  Kylemore, 253.
-
-
-  Lake Coomasaharn, 186.
-
-  Lake Currane, 200.
-
-  Lakes and Fjords of Kerry, 175.
-
-  Lartigue Railway, 63.
-
-  Leenane, 248, 258.
-
-  Lehinch, 258.
-
-  Lehinch Golf Links, 292.
-
-  Letterfrack, 248.
-
-  Limerick, 47.
-
-  Limerick District, Cycling, 281.
-
-  Limerick District, Fishing, 296, 299.
-
-  Limerick District, Golf Links, 292.
-
-  Limerick District, Shooting, 303.
-
-  Limerick Junction, 46.
-
-  Liscanor, 232.
-
-  Lisdoonvarna, 224, 258.
-
-  Lismore, 110.
-
-  Lismore Golf Links, 293.
-
-  Littleisland Golf Links, 293.
-
-  Look-out Cliff, Kilkee, 227.
-
-  Lough Corrib, 245, 250.
-
-  Lough Gill, 252, 254.
-
-  Lough Gur, 134.
-
-  Lough Ree, 71.
-
-  Lucan, 26, 258.
-
-
-  Mallaranny, 252.
-
-  Mallow, 99.
-
-  Mallow Castle, 100.
-
-  Mallow Golf Links, 293.
-
-  Mangerton, 160.
-
-  Marina, Cork, 75.
-
-  Maryborough, 39.
-
-  Meeting of the Waters, Killarney, 149.
-
-  Midleton, 105.
-
-  Milltown Malbay, 232.
-
-  Mitchelstown, 131.
-
-  Monasterevan, 38.
-
-  Monkstown, 92.
-
-  Mount Melleray, 109.
-
-  Mount Melleray, Guest House, 111.
-
-  Mountain Stage, 182.
-
-  Muckross Abbey, 151.
-
-  Myrtle Grove, 104.
-
-
-  Naas, 28.
-
-  National Library, Dublin, 23.
-
-  Natural History, 260.
-
-  Nest of Wood Ant, 271.
-
-  Newcastle, 62.
-
-  Newbridge, 31.
-
-  Newport, 248.
-
-  North Kerry, 59.
-
-
-  Oughterard, 245.
-
-  Oratory of Gallerius,66.
-
-
-  Parknasilla, 210, 258.
-
-  Parknasilla, Southern Hotel, 212, 213.
-
-  Passage (East), 126.
-
-  Passage (West), 90.
-
-  Pass of Ballaghbeama, 181.
-
-  Patrick Street, Cork, 74.
-
-  Pennywort, 264.
-
-  Portarlington, 38.
-
-  Portumna, 67.
-
-  Poulaphouca, 258.
-
-  Poulaphouca Waterfall, 30.
-
-  Purple Mountain, Killarney, 159.
-
-  Queen's College, Cork, 79.
-
-  Queen's College, Galway, 244.
-
-  Queenstown, 92, 258.
-
-  Queenst'n Harbour, 91.
-
-
-  Raheen Lake, Currane, 201.
-
-  Rathkeale, 62.
-
-  Rathmore, 134.
-
-  Recess, 259.
-
-  Roche's Hotel, Glengarriff, 166.
-
-  Roscrea, 39.
-
-  Ross Castle, Killarney, 155, 158.
-
-  Round Tower, Clondalkin, 25.
-
-  Rushbrook Golf Links, 294.
-
-
-  Salmon Leap, Lucan, 26.
-
-  Salthill, Galway, 242.
-
-  Sarsfield Statue, Limerick, 50.
-
-  Saxifraga umbrosa, 265.
-
-  Scariff, 67.
-
-  Shandon Church, Cork, 82.
-
-  Shannon Development Company, 67.
-
-  Shannon Steamer, 70.
-
-  Shooting, 302.
-
-  Shooting the Rapids, Killarney, 143.
-
-  Sir Walter Raleigh's House, 103.
-
-  Skelligs, 194.
-
-  Slea Head, 66.
-
-  Sligo District--
-    Cycling, 289.
-    Fishing, 298, 301.
-    Shooting, 305.
-
-  Sligo Golf Links, 294.
-
-  Sligo, Nat. History, 274.
-
-  Smerwick, 66.
-
-
-  Southern Hotel, Caragh Lake, 178.
-
-  Southern Hotel, Kenmare, 166, 218.
-
-  Southern Hotel, Killarney, 136.
-
-  Southern Hotel, Parknasilla, 212, 213.
-
-  Southern Hotel, Waterville, 198.
-
-  Spa, 66.
-
-  Spanish Point, 232.
-
-  Spike Island, 92.
-
-  Sport, 277.
-
-  Staigue Fort, 202.
-
-  St. Canice's Cathedral, 36.
-
-  St. Finbarr's Cathedral, 80.
-
-  St. Michael's Rock, 194.
-
-  St. Patrick's Cathedral, 20.
-
-  Straffan, 28.
-
-  Strancally Castle, 106.
-
-  St. Stephen's Green, 17.
-
-  Sneem, 207.
-
-  Suir, 116.
-
-  Summer and Winter Resort, 256.
-
-
-  Thomastown, 38.
-
-  Three Sisters, 66.
-
-  Thurles, 128.
-
-  Torc, 153.
-
-  Tralee, 66.
-
-  Tramore, 119, 259.
-
-  Tramore Golf Links, 292.
-
-  Treaty Stone, Lim'k. 48.
-
-  Trinity College, 18.
-
-  Tuam, 238.
-
-  Tullamore Golf Links, 291.
-
-  Tullow, 29.
-
-  Twelve Bens, 245.
-
-
-  Upper Lake, Killarney, 139.
-
-
-  Valencia, 259.
-
-  Valencia Harbour, 190.
-
-  Valencia Island, 188.
-
-
-  Waterford, 112, 259.
-
-  Waterford and District, 112.
-
-  Waterford District--
-    Cycling, 284.
-    Fishing, 297.
-    Golf Links, 292.
-    Shooting, 304.
-
-  Waterford and East Cork, Natural History, 262.
-
-  Waterford, The Quays, 115.
-
-  Waterville, 196, 259.
-
-  Waterville, Southern Hotel, 199.
-
-  West Cork, &c., Natural History, 262.
-
-  West Galway and West Mayo, Natural History, 272.
-
-  Westport, 248.
-
-  Wicklow and Wexford, Natural History, 261.
-
-  Wolf Spider, 273.
-
-
-  Youghal, 101.
-
-  Youghal Golf Links, 293.
-
-
-       *       *       *       *       *
-
-
-Advertisements.
-
-
-
-
-~Gresham Hotel, DUBLIN.~
-
-[Illustration]
-
-This Old Established and First Class Hotel is situate in
-Sackville-street, one of the finest thoroughfares in the world. Many
-improvements have of late been made--Electric Light, &c. Visitors to
-Dublin will find their Requirements catered for at the Gresham in a
-manner unsurpassed by any Hotel in the City. No efforts are spared to
-ensure in every possible way the comfort of its Patrons.
-
-~120 BEDROOMS.~
-
-~Spacious Saloons and Ball Room on Ground Floor.~
-
-~FIRST CLASS CUISINE.~ ~MODERATE CHARGES.~
-
-~JAMES FARRELLY, Manager.~
-
-
-       *       *       *       *       *
-
-
-~DUBLIN SHELBOURNE HOTEL~
-
-Charmingly situated facing the beautiful St. Stephen's Green Park.
-
-FIRST CLASS
-
-WITH
-
-MODERATE CHARGES
-
-CHOICEST WINES
-
-AND
-
-FRENCH CUISINE.
-
-HYDRAULIC LIFT,
-
-ELECTRIC LIGHT,
-
-TELEPHONE NO. 150.
-
-EVERY MODERN CONVENIENCE.
-
-
-       *       *       *       *       *
-
-
-~The "Hammam" Hotel~ AND ~Turkish Baths~,
-
-SACKVILLE ST. DUBLIN,
-
-[Illustration]
-
-"Three Days' Guide to Dublin" free on application.
-
-Daily Terms from 8/6.
-
-
-       *       *       *       *       *
-
-
-_By Special Permission of Her late Most Gracious Majesty Queen
-Victoria._
-
-~The ROYAL VICTORIA Hotel,~
-
-PATRONISED BY _His Majesty King Edward VII., H.R.H. the Duke of
-Connaught, the Royal Families of France and Belgium, the Nobility and
-Gentry of Great Britain and Ireland, and leading American Families._
-
-[Illustration]
-
-MAGNIFICENTLY situated on Lower Lake, facing Innisfallen. Highly
-recommended for its superior comfort. The only Hotel in Killarney at
-which King Edward VII. stayed when Prince of Wales.
-
-JOHN O'LEARY, PROPRIETOR.
-
-
-       *       *       *       *       *
-
-
-~LAKE HOTEL, KILLARNEY LAKES.~
-
-_Patronised by HIS MOST GRACIOUS MAJESTY THE KING._
-
-~Under New Management. Standing in its own Grounds upwards of 60 acres
-on the Shore of the Lower Lake.~
-
-Unrivalled in situation, concentrating in one view all that is
-picturesque and sublime in the scenery.
-
-[Illustration]
-
-NEWLY FURNISHED; Electric Light throughout (Bedrooms included). Boating,
-Fishing, and Shooting. Conveyances Daily for Local Tours at fixed rates
-for each Person, also for Private Hiring. Billiards, Tennis.
-
-THE ONLY HOTEL IN THE DISTRICT DIRECTLY ON THE LAKE SHORE.
-
-Hotel Omnibus meets all Trains. The Glengarriff Coach stops at Entrance
-Gates to take up and set down Passengers.
-
-The Railway Company allow only the Porters of their own Hotel on the
-Arrival Platform. The Lake Hotel Porters will be found at the Station
-Entrance.
-
-~Address THE MANAGER.~
-
-
-       *       *       *       *       *
-
-
-~WEST END HOTEL, KILKEE.~
-
-~First-Class Accommodation.~
-
-Beautifully Situated. Overlooking Bay. Magnificent Coast Scenery.
-
-Nearest Bathing Resorts.
-
-Recently Furnished. Board per Week or per Day.
-
-'Bus and Porter await arrival of all Trains.
-
-Coupons of The Irish Railway Companies Tourist Office, 2, Charing Cross,
-London.
-
-
-       *       *       *       *       *
-
-
-~KILKEE, CO. CLARE.~
-
-~Royal Marine Hotel.~
-
-Extensive additions have been made for the coming season. It is the most
-central Hotel in Kilkee, commanding full view of Bay and Cliffs. Is
-within two minutes' walk of Railway Station, principal Bathing Resorts,
-Post Office, and places of Worship. This Hotel contains all facilities
-and convenience of a First-Class Hotel, with the quiet and comforts of
-home. Tourists and Visitors will find it to their advantage to patronise
-the above Hotel.
-
-~Arrangements made for Private Families.~
-
-_The Hotel Omnibus attends the trains._
-
-OWN DAIRY.
-
-~Address: PROPRIETOR.~
-
-
-       *       *       *       *       *
-
-
-~Castleconnell, CO. LIMERICK.~
-
-"One of Ireland's beauty spots." Seven miles from Limerick.
-
-[Illustration]
-
-~SHANNON HOTEL.~
-
-(Mrs. K. Enright, Proprietress.)
-
-_ANGLERS' AND TOURIST RESORT._
-
-Head-Quarters C.T.C.
-
-Five miles walk along the banks of the Shannon. MAGNIFICENT RIVER
-SCENERY, Including "FAR-FAMED RAPIDS OF DOONASS."
-
-~Cycling.~ ~Boating.~ ~Driving.~ ~Pretty Walks.~
-
-~Castleconnell~ can be reached from
-
-  London in              13-1/2 hours.
-  Liverpool under        11  "
-  Leeds                  13  "
-  Manchester             11-1/4  "
-  Birmingham             12  "
-  York                   14 hours, 20 mins.
-  Bristol                15 hours.
-  Dublin                  3  "
-  Cork                    2 hours, 55 mins.
-  Killarney       under   4 hours.
-  Waterford               3 hours, 20 mins.
-  Killaloe                --       20 minutes.
-
-N.B.--Salmon Fishing by arrangement; Trout Fishing FREE; also
-good Pike, Perch, and Roach Fishing FREE.
-
-Telephone 502, Limerick.
-
-
-       *       *       *       *       *
-
-
-[Illustration]
-
-ROYAL HOTEL,
-
-VALENCIA ISLAND, CO. KERRY.
-
-This Hotel has been patronised by H. M. The KING And Their
-Royal Highnesses The PRINCE and PRINCESS OF WALES.
-
-~It is now considered the Most Comfortable and Up-to-Date Hotel in
-Ireland.~
-
-~HOT AND COLD SEA WATER BATHS.~
-
-CHARGES FIXED AND MODERATE.
-
-
-       *       *       *       *       *
-
-
-CUNARD LINE,
-
-INAUGURATED JULY 4th, 1840.
-
-NOTICE.--The Steamers of this Line come alongside the Prince's Stage,
-Liverpool, to land or embark Passengers without the intervention of
-Tenders, and London Passengers depart from or arrive at the Riverside
-Railway Station on the Quay adjoining.
-
-[Illustration]
-
-FLEET.
-
-  CAMPANIA.
-  LUCANIA.
-  ETRURIA.
-  UMBRIA.
-  AURANIA.
-  IVERNIA.
-  SAXONIA.
-  ULTONIA.
-  SYLVANIA.
-  VERIA.
-  CYPRIA.
-  PAVIA.
-  TYRIA.
-  SAMARIA.
-  SARAGOSSA.
-  ALEPPO.
-  CHERBOURG.
-  CARPATHIA, Building
-
-~Sailings to and from New York and Boston on Saturdays and Tuesdays.~
-
-~FASTEST SHIPS BETWEEN LIVERPOOL AND NEW YORK.~
-
-~LARGEST SHIPS BETWEEN LIVERPOOL AND BOSTON.~
-
-~Fitted with Marconi's System of Wireless Telegraphy.~
-
-The Twin-Screw Ships "IVERNIA" and "SAXONIA," which sail between
-Liverpool and Boston, are among the largest Ships afloat, and their
-remarkable steadiness makes sea-sickness practically impossible.
-
-UNSURPASSED ACCOMMODATION AT MODERATE FARES FOR ALL CLASSES AND FOR ALL
-STEAMERS.
-
-       *       *       *       *       *
-
-~MEDITERRANEAN SERVICE.~
-
-FREQUENT FREIGHT SAILINGS FROM LIVERPOOL
-
-~For Syria, Smyrna, Constantinople, Malta, Genoa, Leghorn, Naples,
-Brindisi, Trieste, Venice, Fiume, Bari, Ancona, Palermo, Messina,
-Catania, Patras, and Corfu.~
-
-       *       *       *       *       *
-
-HAVRE SERVICE.
-
-~Freight Steamers from Liverpool and Havre weekly.~
-
-       *       *       *       *       *
-
-* * * For full particulars apply at the Company's Offices: in New York, at
-29, Broadway; in Boston, at 99, State-street; in Havre, at 28, Quai
-d'Orleans; in Paris, at 2, bis Rue Scribe; in London, at 32,
-Cockspur-street, S.W., and 93, Bishopsgate-street, E.C.; in Manchester,
-at 18, Brazennose-street; in Glasgow, at 30, Jamaica-street; in Leith,
-at Exchange Buildings; in Belfast, at 49, Queen's-square; in Queenstown,
-at Cunard Wharf; or to
-
-~THE CUNARD STEAM SHIP COMPANY, LIMITED~,
-
-8, WATER-STREET, LIVERPOOL.
-
-
-       *       *       *       *       *
-
-
-Great Western Railway of England.
-
-  SHORTEST ROUTE
-  BETWEEN
-  ~ENGLAND~
-  AND THE
-  SOUTH AND WEST OF IRELAND.
-
-  FAST AND COMFORTABLE NEW STEAMERS
-  SAIL REGULARLY BETWEEN
-  ~WATERFORD AND CORK~
-  AND
-  ~NEW MILFORD~.
-
-  ~OPEN SEA PASSAGE~
-  BETWEEN
-  Waterford and New Milford.
-  Under 5 Hours.
-
-  ~THE BOAT TRAINS~
-  RUNNING BETWEEN
-  NEW MILFORD AND PADDINGTON
-  In connection with the Steamers are provided with
-
-  ~Central Corridors.~
-  ~Lighted by Electricity.~
-  ~Lavatory Accommodation.~
-
-  _Direct Communication with Guard._
-
-REFRESHMENTS may be obtained in the trains by First, Second, and Third
-Class Passengers.
-
-For further information as to train service, fares, &c., see the
-Company's time tables.
-
-Full particulars will be supplied on application to Mr. H. J. NICHOLLS,
-Great Western Railway Company's Offices, Waterford; Mr. A. W. PERKS,
-Adelphi Wharf, Waterford; Mr. E. FOGG, Railway Chambers, King Street,
-Cork; Mr. ALFRED DODD, Great Western Agent, Limerick Terminus; Messrs.
-COOK & SON, Main Street, Killarney; or to Mr. T. I. ALLEN,
-Superintendent of the Line, Paddington Station, London.
-
-~J. L. WILKINSON, General Manager.~
-
-_July, 1902._
-
-
-       *       *       *       *       *
-
-
-~WATERFORD.~
-
-~_IMPERIAL HOTEL._~
-
-~FIRST CLASS HOTEL,~
-
-Patronised by the Aristocracy, Tourists and Commercial Gentlemen.
-
-  ~Spacious Drawing,
-  Coffee, Commercial,
-  Billiard and Bath Rooms.
-  Smoking, Stock, and Rent Rooms.~
-
-Sanitation Certified. The Hotel has been recently enlarged,
-re-furnished, and decorated.
-
-~TARIFF MODERATE.~
-
-~_COMMERCIAL ROOM DINNER_~ from 1.45 to 3.30 daily.
-
-~Table d'Hote at 7.30 daily.~
-
-_Omnibus meets all Trains and Steamers._
-
-Telephone, No. 22. Telegrams--"IMPERIAL," Waterford.
-
-~W. A. MURRAY, Proprietor.~
-
-
-       *       *       *       *       *
-
-
-FOOTNOTES:
-
-[1] Permission to visit Adare Manor may be obtained (on application)
-from the Head Steward, Adare.
-
-[2] The other places of worship in Cork are as follows:--_Roman
-Catholic:_ St. Mary's Cathedral, Clarence-street; SS. Peter and Paul's,
-Patrick-street (designed by Pugin); St. Patrick's, King-street (Military
-Mass); St. Finbarr's, Dunbar-street (here Hogan's masterpiece, "The Dead
-Christ," may be seen under High Altar); St. Joseph's, Mayfield; St.
-Finbarr's, West, Lough-road; St. Augustine's Priory (Augustinians),
-Great George-street; St. Mary's (Dominicans), Pope's-quay; St. Francis'
-(Franciscans), Liberty-street; Holy Trinity (Friars Minors Capuchins),
-Charlotte-quay; St. Vincent's (Congregation of the Mission), Sunday's
-Well; and Chapel of Convent of St. Mary's of the Isle, Fitton-street.
-_Church of Ireland:_ Christ Church, South Main-street; St. Ann's,
-Church-street; St. Luke's, Summer Hill; St. Mary's, Shanakiel-road; St.
-Nicholas', Cove-street; St. Paul's, Paul-street; St. Peter's, North
-Main-street; Cork Episcopal Free Church, Langford-row; St. Michael's,
-Blackrock; and Frankfield Church. _Other Denominations:_ Baptist Church,
-King-street; Congregational Church, George-street; Patrick-street
-Methodist Chapel; Society of Friends, Grattan-street; Presbyterian,
-Summer Hill; Plymouth Brethren, Prince's-street; and Cork Hebrews, 10,
-South Terrace.
-
-[3] "Amber water." It recently passed from the representatives of the
-late Sir John Pope Hennessy into the possession of Sir Henry Blake.
-Permission to visit the house may be obtained on application to Mr.
-French, Land Agent, South Mall, Cork.
-
-[4] To be seen in the National Gallery, Dublin.
-
-[5] Heights of the Principal Mountains, According to the Ordnance
-Survey.
-
-  Carrantual,              3,414 feet.
-  Mangerton,               2,756  "
-  Purple Mount,            2,739  "
-  Toomies,                 2,413  "
-  Torc,                    1,764  "
-  Eagle's Nest,            1,103  "
-
-  Elevation of Loughs above the Sea.
-
-  Devil's Punch Bowl,      2,206 feet.
-  Gum-Meem-Na-Copasta      2,156  "
-  Gouragh,                 1,226  "
-  Callee,                  1,096  "
-  Black Lough,               587  "
-  Cush Valley,               337  "
-  Kittane,                   256  "
-  Coom-a-Dhuv,               197  "
-  Upper Lake,                 70  "
-  Lower Lake,                 66  "
-
-
-  PRINTED BY ALEX. THOM & CO., LIMITED,
-  87, 88, & 89, ABBEY STREET,
-  DUBLIN.
+Uma vela aos sabbados.
+
+Eis aqui como, após tantas canceiras, tocavamos o porto a que nos
+deviamos ter abrigado logo. Não nos censures, piloto de má sorte,
+não se navegam corações como os outros mares deste mundo. Estavamos
+contentes, entramos a falar do futuro. Eu promettia a minha esposa uma
+vida socegada e bella, na roça ou fóra da cidade. Viriamos aqui uma vez
+por anno. Se fosse em arrabalde, seria longe, onde ninguem nos fosse
+aborrecer. A casa, na minha opinião, não devia ser grande nem pequena,
+um meio termo; plantei-lhe flôres, escolhi moveis, uma sege e um
+oratorio. Sim, haviamos de ter um oratorio bonito, alto, de jacarandá,
+com a imagem de Nossa Senhora da Conceição. Demorei-me mais nisto que
+no resto, em parte porque eramos religiosos, em parte para compensar a
+batina que eu ia deitar as ortigas: mas ainda restava uma parte que
+attribuo ao intuito secreto e inconsciente de captara protecção do ceu.
+Haviamos de accender uma vela aos sabbabos...
+
+
+
+
+L
+
+Um meio termo.
+
+Mezes depois fui para o seminario de S. José. Se eu pudesse contar as
+lagrimas que chorei na vespera e na manhã, sommaria mais que todas
+as vertidas desde Adão e Eva. Ha nisto alguma exageração; mas é bom
+ser emphatico, uma ou outra vez, para compensar este escrupulo de
+exactidão que me afflige. Entretanto, se eu me ativer só á lembrança da
+sensação, não fico longe da verdade; aos quinze annos, tudo é infinito.
+Realmente, por mais preparado que estivesse, padeci muito. Minha mãe
+tambem padeceu, mas soffria com alma e coração; demais, o padre Cabral
+achára um meio termo, experimentar-me a vocação; se no fim de dous
+annos, eu não revelasse vocação ecclesiastica, seguiria outra carreira.
+
+--As promessas devem ser cumpridas conforme Deus quer. Supponha que
+Nosso Senhor nega disposição a seu filho, e que o costume do seminario
+não lhe dá o gosto que me concedeu a mim, é que a vontade divina é
+outra. A senhora não podia pôr em seu filho, antes de nascido, uma
+vocação que Nosso Senhor lhe recusou...
+
+Era uma concessão do padre. Dava a minha mãe um perdão antecipado,
+fazendo vir do credor a relevação da divida. Os olhos della brilharam,
+mas a bocca disse que não. José Dias, não tendo alcançado ir commigo
+para a Europa, agarrou-se ao mais proximo, e apoiou o «alvitre do Sr.
+protonotario»; só lhe parecia que um anno era bastante.
+
+--Estou certo, disse elle, piscando-me o olho, que dentro de um anno a
+vocação ecclesiastica do nosso Bentinho se manifesta clara e decisiva.
+Ha de dar um padre de mão cheia. Tambem se não vier em um anno...
+
+E a mim, mais tarde, em particular:
+
+--Vá por um anno; um anno passa depressa. Se não sentir gosto nenhum,
+é que Deus não quer, como diz o padre, e nesse caso, meu amiguinho, o
+melhor remedio é a Europa.
+
+Capitú deu-me egual conselho, quando minha mãe lhe annunciou a minha
+ida definitiva para o seminario:
+
+--Minha filha, você vae perder o seu companheiro de creança...
+
+Fez-lhe tão bem este tratamento de _filha_ (era a primeira vez que
+minha mãe lh'o dava), que nem teve tempo de ficar triste; beijou-lhe
+a mão, e disse-lhe que já sabia disso por mim mesmo. Em particular
+animou-me a supportar tudo com paciencia; no fim de um anno as cousas
+estariam mudadas, e um anno andava depressa. Não foi ainda a nossa
+despedida; esta fez-se na vespera, por um modo que pede capitulo
+especial. O que unicamente digo aqui é que, ao passo que nos prendiamos
+um ao outro, ella ia prendendo minha mãe, fez-se mais assidua e terna,
+vivia ao pé della, com os olhos nella. Minha mãe era de natural
+sympathico, e egualmente sensivel; tanto se doía como se aprazia de
+qualquer cousa. Entrou a achar em Capitú uma porção de graças novas, de
+dotes finos e raros; deu-lhe um anel dos seus e algumas galanterias.
+Não consentiu em photographar-se, como a pequena lhe pedia, para lhe
+dar um retrato; mas tinha uma miniatura, feita aos vinte e cinco annos,
+e, depois de algumas hesitações, resolveu dar-lh'a. Os olhos de Capitú,
+quando recebeu o mimo, não se descrevem; não eram obliquos, nem de
+ressaca, eram direitos, claros, lucidos. Beijou o retrato com paixão,
+minha mãe fez-lhe a mesma cousa a ella. Tudo isto me lembra a nossa
+despedida.
+
+
+
+
+LI
+
+Entre luz e fusco.
+
+Entre luz e fusco, tudo ha de ser breve como esse instante. Nem durou
+muito a nossa despedida, foi o mais que pôde, em casa della, na sala
+de visitas, antes do accender das velas; ahi é que nos despedimos
+de uma vez. Jurámos novamente que haviamos de casar um com outro, e
+não foi só o aperto de mão que sellou o contracto, como no quintal,
+foi a conjuncção das nossas boccas amorosas... Talvez risque isto na
+impressão, se até lá não pensar de outra maneira; se pensar, fica. E
+desde já fica, porque, em verdade, é a nossa defesa. O que o mandamento
+divino quer é que não juremos _em vão_ pelo santo nome de Deus. Eu
+não ia mentir ao seminario, uma vez que levava um contracto feito
+no proprio cartorio do ceu. Quanto ao sello, Deus, como fez os mãos
+limpas, assim fez os labios limpos, e a malicia está antes na tua
+cabeça perversa que na daquelle casal de adolescentes... Oh! minha
+doce companheira da meninice, eu era puro, e puro fiquei, e puro entrei
+na aula de S. José, a buscar de apparencia a investidura sacerdotal, e
+antes della a vocação. Mas a vocação eras tu, a investidura eras tu.
+
+
+
+
+LII
+
+O velho Padua.
+
+Ja agora conto tambem os adeuses do velho Padua. Logo cedo veiu á nossa
+casa. Minha mãe disse-lhe que fosse falar-me ao quarto.
+
+--Dá licença? perguntou mettendo a cabeça pela porta.
+
+Fui apertar-lhe a mão; elle abraçou-me com ternura.
+
+--Seja feliz! disse-me. A mim e a toda a minha gente creia que ficam
+muitas saudades. Todos nós estimamos muito o senhor, como merece. Se
+lhe disserem outra cousa, não acredite. São intrigas. Tambem eu, quando
+me casei, fui victima de intrigas; desfizeram-se. Deus é grande e
+descobre a verdade. Se algum dia perder sua mãe e seu tio,--cousa que
+eu, por esta luz que me allumia, não desejo, porque são boas pessoas,
+excedentes pessoas, e eu sou grato ás finezas recebidas... Não, eu não
+sou como outros, certos parasitas, vindos de fóra para desunião das
+familias, aduladores baixos, não; eu sou de outra especie; não vivo
+papando os jantares nem morando em casa alheia... Emfim, são os mais
+felizes!
+
+--Porque falará assim? pensei. Naturalmente sabe que José Dias diz mal
+delle.
+
+--Mas, como ia dizendo, se algum dia perder os seus parentes, póde
+contar com a nossa companhia. Não é sufficiente em importancia, mas a
+affeição é immensa, creia. Padre que seja, a nossa casa está ás suas
+ordens. Quero só que me não esqueça; não esqueça o velho Padua...
+
+Suspirou e continuou:
+
+--Não esqueça o seu velho Padua, e, se tem algum trapinho que me deixe
+em lembrança, um caderno latino, qualquer cousa, um botão de collete,
+cousa que já lhe não preste para nada. O valer é a lembrança.
+
+Tive um sobresalto. Havia embrulhado em um papel um cacho dos meus
+cabellos, tão grandes e tão bonitos, cortados na vespera. A intenção
+era leval-os a Capitú, ao sair; mas tive ideia de dal-o ao pae, a filha
+saberia lomal-o e guardal-o. Peguei do embrulho e dei-lh'o.
+
+--Aqui está, guarde.
+
+--Um cachinho dos seus cabellos! exclamou Padua abrindo e fechando o
+embrulho. Oh! obrigado! obrigado por mim e pela minha gente! Vou dai-o
+á velha, para guardal-o, ou á pequena, que é mais cuidadosa que a mãe.
+Que lindos que são! Como é que se corta uma belleza destas? Dê cá um
+abraço! outro! mais outro! adeus!
+
+Tinha os olhos humidos devéras; levava a cara dos desenganados, como
+quem empregou em um só bilhete todas as suas economias de esperanças, e
+vê sair branco o maldito numero,--um numero tão bonito!
+
+
+
+
+LIII
+
+A caminho!
+
+Fui para o seminario. Poupa-me as outras despedidas. Minha mãe
+apertava-me ao peito. Prima Justina suspirava. Talvez chorasse mal ou
+nada. Ha pessoas a quem as lagrimas não acodem logo nem nunca; diz-se
+que padecem mais que as outras. Prima Justina disfarçava naturalmente
+os seus padecimentos intimos, emendando os descuidos de minha mãe,
+fazendo-me recommendações, dando ordens. Tio Cosme, quando eu lhe
+beijei a mão em despedida, disse-me rindo:
+
+--Anda lá, rapaz, volta-me papa!
+
+José Dias, composto e grave, não dizia nada a principio; tinhamos
+falado na vespera, no quarto delle, onde fui ver se era ainda possivel
+evitar o seminario. Já não era, mas deu-me esperanças e principalmente
+animou-me muito. Antes de um anno estariamos a bordo. Como eu achasse
+muito breve, explicou-se.
+
+--Dizem que não é bom tempo de atravessar o Atlantico, vou indagar; se
+não fôr, iremos em Março ou Abril.
+
+--Posso estudar medicina aqui mesmo.
+
+José Dias correu os dedos pelos suspensorios com um gesto de
+impaciencia, apertou os beiços, até que formalmente rejeitou o alvitre.
+
+--Não duvidaria approvar a ideia, disse elle, se na Escola de Medicina
+não ensinassem, exclusivamente, a podridão allopatha. A allopathia
+é o erro dos seculos, e vae morrer; é o assassinato, é a mentira, é
+a illusão. Se lhe disserem que póde apprender na Escola de Medicina
+aquella parte da sciencia commum a todos os systemas, é verdade; a
+allopathia é erro na therapeutica. Physiologia, anatomia, pathologia,
+não são allopathicas nem homeopathicas, mas é melhor apprender logo
+tudo de uma vez, por livros e por lingua de homens cultores da
+verdade...
+
+Assim falára na vespera e no quarto. Agora não dizia nada, ou proferia
+algum aphorismo sobre a religião e a familia; lembro-me deste:
+«Dividil-o com Deus é ainda possuil-o.» Quando minha mãe me deu o
+ultimo beijo: «Quadro amantissimo!» suspirou elle. Era manhã de um
+lindo dia. Os moleques cochichavam; as escravas tomavam a benção:
+«Benção, nhõ Bentinho! não se esqueça de sua Joanna! Sua Miquelina fica
+rezando por vosmecê!» Na rua José Dias insistiu nas esperanças:
+
+--Aguente um anno; até lá tudo estará arranjado.
+
+
+
+
+LIV
+
+Panegyrico de Santa Monica.
+
+No seminario... Ah! não vou contar o seminario, nem me bastaria a isso
+um capitulo. Não, senhor meu amigo; algum dia, sim, é possivel que
+componha um abreviado do que alli vi e vivi, das pessoas que tratei,
+dos costumes, de todo o resto. Esta sarna de escrever, quando pega aos
+cincoenta annos, não despega mais. Na mocidade é possivel curar-se um
+homem della; e, sem ir mais longe, aqui mesmo no seminario tive um
+companheiro que compoz versos, a maneira dos de Junqueira Freire, cujo
+livro de frade poeta era recente. Ordenou-se: annos depois encontrei-o
+no còro de S. Pedro e pedi-lhe que me mostrasse os versos novos.
+
+--Que versos? perguntou meio espantado.
+
+--Os seus. Pois não se lembra que no seminario...
+
+--Ah! sorriu elle.
+
+Sorriu, e continuando a procurar n'um livro aberto a hora em que tinha
+do cantar no dia seguinte, confessou-me que não fizera mais versos
+depois de ordenado. Foram cocegas da mocidade; coçou-se, passou, estava
+bom. E falou-me em prosa de uma infinidade de cousas do dia, a vida
+cara, um sermão do padre X... uma vigairaria mineira...
+
+Contrario a isso foi um seminarista que não seguiu a carreira.
+Chamava-se... Não é preciso dizer o nome; baste o caso. Tinha composto
+um _Panegyrico de Santa Monica_, elogiado por algumas pessoas e então
+lido entre os seminaristas. Alcançou licença de imprimil-o, o dedicou-o
+a Santo Agostinho. Tudo isso é historia velha; o que é mais moço é que
+um dia, em 1882, indo ver certo negocio em repartição de marinha, alli
+dei com este meu collega, feito chefe de uma secção administrativa.
+Deixára seminario, deixára lettras, casára e esquecera tudo, menos
+o _Panegyrico de Santa Monica_, umas vinte e nove paginas, que veiu
+distribuindo pela vida fóra. Como eu precisasse de algumas informações,
+fui pedir-lh'as, e seria impossivel achar melhor nem mais prompta
+vontade; deu-me tudo, claro, certo, copioso. Naturalmente conversamos
+do passado, memorias pessoaes, casos de estudo, incidentes de nada,
+um livro, um verbo, um mote, toda a velha palhada saiu cá fóra, e
+rimos juntos, e suspiramos de companhia. Vivemos algum tempo do nosso
+velho seminario. Ou porque eram delle, ou porque eramos então moços,
+as recordações traziam tal poder de felicidade que, se alguma sombra
+contraria houve então, não appareceu agora. Elle confessou-me que
+perdera de vista todos os companheiros do seminario.
+
+--Tambem eu, quasi todos; uma vez ordenados, voltaram naturalmente ás
+suas provincias, e os daqui tomaram vigairarias fóra.
+
+--Bom tempo! suspirou elle.
+
+E, após alguma reflexão, fitando em mim uns olhos murchos e teimosos,
+perguntou-me:
+
+--Conservou o meu _Panegyrico?_
+
+Não achei que dizer; tentei mover os beiços, mas não tinha palavra;
+afinal, perguntei:
+
+--Panegyrico? Que panegyrico?
+
+--O meu _Panegyrico de Santa Monica._
+
+Não me lembrou logo, mas a explicação devia bastar; e depois de
+alguns instantes de pesquiza mental, respondi que por muito tempo o
+conservára, mas as mudanças, as viagens...
+
+--Hei de levar-lhe um exemplar.
+
+Antes de vinte e quatro horas estava em minha casa, com o folheto, um
+velho folheto de vinte e seis annos, encardido, manchado do tempo, mas
+sem lacuna, e com uma dedicatoria manuscripta e respeitosa.
+
+--E o penultimo exemplar, disse-me; agora só me resta um, que não posso
+dar a ninguem.
+
+E como me visse folhear o opusculo:
+
+--Veja se lhe lembra algum pedaço, disse-me.
+
+Vinte e seis annos de intervallo fazem morrer amizades mais estreitas e
+assiduas, mas era cortezia, era quasi caridade recordar alguma lauda;
+li uma dellas, accentuando certas phrases para lhe dar a impressão de
+que achavam echo em minha memoria. Concordou que fossem bellas, mas
+preferia outras, e apontou-as.
+
+--Recorda-se bem?
+
+--Perfeitamente. _Panegyrico de Santa Monica!_ Como isto me faz
+remontar os annos da minha mocidade! Nunca me esqueceu o seminario,
+creia. Os annos passam, os acontecimentos vêm uns sobre outros, e as
+sensações tambem, e vieram amizades novas, que tambem se foram depois,
+como é lei da vida... Pois, meu caro collega, nada fez apagar aquelle
+tempo da nossa convivencia, os padres, as licções, os recreios... os
+nossos recreios, lembra-se? o padre Lopes, oh! o padre Lopes...
+
+Elle, com os olhos no ar, devia estar ouvindo, e naturalmente ouvia,
+mas só me disse uma palavra, e ainda assim depois de algum tempo de
+silencio, recolhendo os olhos e um suspiro!
+
+--Tem agradado muito este meu _Panegyrico!_
+
+
+
+
+LV
+
+Um soneto.
+
+Dita a palavra, apertou-me as mãos com as forças todas de um vasto
+agradecimento, despediu-se e saiu. Fiquei só com o _Panegyrico_, e
+o que as folhas delle me lembraram foi tal que merece um capitulo
+ou mais. Antes, porém, e porque tambem eu tive o meu _Panegyrico_,
+contarei a historia de um soneto que nunca fiz; era no tempo do
+seminario, e o primeiro verso é o que ides ler:
+
+     Oh! flòr do ceu! oh! flòr candida e pura!
+
+Como e porque me saiu este verso da cabeça, não sei; saiu assim,
+estando eu na cama, como uma exclamação solta, e, ao notar que tinha
+a medida de verso, pensei em compor com elle alguma cousa, um soneto.
+A insonmia, musa de olhos arregalados, não me deixou dormir uma longa
+hora ou duas; as cocegas pediam-me unhas, e eu coçava-me com alma.
+Não escolhi logo, logo o soneto; a principio cuidei de outra fórma, e
+tanto de rima como de verso solto, mas afinal ative-me ao soneto. Era
+um poema breve e prestadio. Quanto á ideia, o primeiro verso não era
+ainda uma ideia, era uma exclamação; a ideia viria depois. Assim na
+cama, envolvido no lençol, tratei de poetar. Tinha o alvoroço da mãe
+que sente o filho, e o primeiro filho. Ia ser poeta, ia competir com
+aquelle monge da Bahia, pouco antes revelado, e então na moda; eu,
+seminarista, diria em verso as minhas tristezas, como elle dissera as
+suas no claustro. Decorei bem o verso, e repetia-o em voz baixa, aos
+lençóes; francamente, achava-o bonito, e ainda agora não me parece máu:
+
+     Oh! flòr do ceu! oh! flòr candida e pura!
+
+Quem era a flòr? Capitú, naturalmente; mas podia ser a virtude, a
+poesia, a religião, qualquer outro conceito a que coubesse a metaphora
+da flòr, e flòr do ceu. Aguardei o resto, recitando sempre o verso,
+e deitado ora sobre o lado direito, ora sobre o esquerdo; atinai
+deixei-me estar de costas, com os olhos no tecto, mas nem assim vinha
+mais nada. Então adverti que os sonetos mais gabados eram os que
+concluiam com chave de ouro, isto é, um desses versos capitaes no
+sentido e na fórma. Pensei em forjar uma de taes chaves, considerando
+que o verso final, saindo chronologicamente dos treze anteriores, com
+difficuldade traria a perfeição louvada; imaginei que taes chaves eram
+fundidas antes da fechadura. Assim foi que me determinei a compôr o
+ultimo verso do soneto, e, depois de muito suar, saiu este:
+
+     Perde-se a vida, ganha-se a batalha!
+
+Sem vaidade, e falando como se fosse de outro, era um verso magnifico.
+Sonoro, não ha duvida. E tinha um pensamento, a victoria ganha á custa
+da propria vida, pensamento alevantado e nobre. Que não fosse novidade,
+é possivel, mas tambem não era vulgar; e ainda agora não explico por
+que via mysteriosa entrou n'uma cabeça de tão poucos annos. Naquella
+occasião achei-o sublime. Recitei uma e muitas vezes a chave de ouro;
+depois repeti os dous versos seguidamente, e dispuz-me a ligal-os pelos
+doze centraes. A ideia agora, á vista do ultimo verso, pareceu-me
+melhor não ser Capitú; seria a justiça. Era mais proprio dizer que, na
+pugna pela justiça, perder-se-hia acaso a vida, mas a batalha ficava
+ganha. Tambem me occorreu acceitar a batalha, no sentido natural, e
+fazer della a lula pela patria, por exemplo; nesse caso a flor do ceu
+seria a liberdade. Esta accepção, porém, sendo o poeta um seminarista,
+podia não caber tanto como a primeira, e gastei alguns minutos em
+escolher uma ou outra. Achei melhor a justiça, mas afinal acceitei
+definitivamente uma ideia nova, a caridade, e recitei os dous versos,
+cada um a sou modo, um languidamente:
+
+     Oh! flòr do ceu! oh! flòr candida e pura!
+
+e o outro com grande brio:
+
+     Perde-se a vida, ganha-se a batalha!
+
+A sensação que tive é que ia sair um soneto perfeito. Começar bem e
+acabar bem não era pouco. Para me dar um banho de inspiração, evoquei
+alguns sonetos celebres, e notei que os mais delles eram facilimos;
+os versos saíam uns dos outros, com a ideia em si, tão naturalmente,
+que se não acabava de crer se ella é que os fizera, se elles é que a
+suscitavam. Então tornava ao meu soneto, e novamente repetia o primeiro
+verso e esperava o segundo; o segundo não vinha, nem terceiro, nem
+quarto; não vinha nenhum. Tive alguns impetos de raiva, e mais de
+uma vez pensei em sair da cama e ir ver tinta e papel; póde ser que,
+escrevendo, os versos acudissem, mas...
+
+Cançado de esperar, lembrou-me alterar o sentido do ultimo verso, com a
+simples transposição do duas palavras, assim:
+
+     Ganha-se a vida, perde-se a batalha!
+
+O sentido vinha a ser justamente o contrario, mas talvez isso mesmo
+trouxesse a inspiração. Neste caso, era uma ironia: não exercendo a
+caridade, póde-se ganhar a vida, mas perde-se a batalha do ceu. Criei
+forças novas o esperei. Não tinha janella; se tivesse, é possivel que
+fosse pedir uma ideia á noite. E quem sabe se os vagalumes, luzindo cá
+em baixo, não seriam para mim como rimas das estrellas, e esta viva
+metaphora não me daria os versos esquivos, com os seus consoantes e
+sentidos proprios?
+
+Trabalhei em vão, busquei, catei, esperei, não vieram os versos. Pelo
+tempo adeante escrevi algumas paginas em prosa, e agora estou compondo
+esta narração, não achando maior difficuldade que escrever, bem ou
+mal. Pois, senhores, nada me consola daquelle soneto que não fiz. Mas,
+como eu creio que os sonetos existem feitos, como as odes e os dramas,
+e as demais obras de arte, por uma razão de ordem metaphysica, dou
+esses dous versos ao primeiro desoccupado que os quizer. Ao domingo, ou
+se estiver chovendo, ou na roça, em qualquer occasião de lazer, póde
+tentar ver se o soneto sae. Tudo é dar-lhe uma ideia e encher o centro
+que falta.
+
+
+
+
+LVI
+
+Um seminarista.
+
+Tudo me ia repetindo o diabo do opusculo, com as suas lettras
+velhas e citações latinas. Vi sair daquellas folhas muitos perfis
+de seminaristas, os irmãos Albuquerques, por exemplo, um dos quaes
+é conego na Bahia, emquanto o outro seguiu medicina e dizem haver
+descoberto um especifico contra a febre amarella. Vi o Bastos, um
+magricella, que está de vigario em Meia-Ponte, se não morreu já;
+Luiz Borges, apesar de padre, fez-se politico, e acabou senador do
+imperio... Quantas outras caras me fitavam das paginas frias do
+_Panegyrico!_ Não, não eram frias; traziam o calor da juventude
+nascente, o calor do passado, o meu proprio calor. Queria lel-as outra
+vez, e lograva entender algum texto, tão recente como no primeiro
+dia, ainda que mais breve. Era um encanto ir por elle; ás vezes,
+inconscientemente, dobrava a folha como se estivesse lendo de verdade;
+creio que era quando os olhos me caíam na palavra do fim da pagina, e a
+mão, acostumada a ajudal-os, faziam o seu officio...
+
+Eis aqui outro seminarista. Chamava-se Ezequiel de Souza Escobar. Era
+um rapaz esbelto, olhos claros, um pouco fugitivos, como as mãos, como
+os pés, como a fala, como tudo. Quem não estivesse acostumado com
+elle podia acaso sentir-se mal, não sabendo por onde lhe pegasse. Não
+fitava de rosto, não falava claro nem seguido; as mãos não apertavam
+as outras, nem se deixavam apertar dellas, porque os dedos, sendo
+delgados e curtos, quando a gente cuidava tel-os entre os seus, já
+não tinha nada. O mesmo digo dos pés, que tão depressa estavam aqui
+como lá. Esta difficuldade em pousar foi o maior obstaculo que achou
+para tomar os costumes do seminario. O sorriso era instantaneo, mas
+tambem ria folgado e largo. Uma cousa não seria tão fugitiva, como o
+resto, a reflexão; iamos dar com elle, muita vez, olhos enfiados em si,
+cogitando. Respondia-nus sempre que meditava algum ponto espiritual, ou
+então que recordava a licção da vespera. Quando elle entrou na minha
+intimidade pedia-me frequentemente explicações e repetições miudas,
+e tinha memoria para guardal-as todas, até as palavras. Talvez esta
+faculdade prejudicasse alguma outra.
+
+Era mais velho que eu trez annos, filho de um advogado de Corityba,
+aparentado com um commerciante do Rio de Janeiro, que servia de
+correspondente ao pae. Este era homem de fortes sentimentos
+catholicos. Escobar tinha uma irmã, que era um anjo, dizia elle.
+
+--Não é só na belleza que é um anjo, mas tambem na bondade. Não imagina
+que boa creatura que ella é. Escreve-me muita vez, hei de mostrar-lhe
+as cartas della.
+
+De facto, eram simples e affectuosas, cheias de caricias e conselhos.
+Escobar contava-me historias della, interessantes, todas as quaes
+vinham a dar na bondade e no espirito daquella creatura; taes eram
+que me fariam capaz de acabar casando com ella, se não fosse Capitú.
+Morreu pouco depois. Eu, seduzido pelas palavras delle, estive quasi
+a contar-lhe logo, logo, a minha historia. A principio fui timido,
+mas elle fez-se entrado na minha confiança. Aquelles modos fugitivos
+cessavam quando elle queria, e o meio e o tempo os fizeram mais
+pousados. Escobar veiu abrindo a alma toda, desde a porta da rua até
+ao fundo do quintal. A alma da gente, como sabes, e uma casa assim
+disposta, não raro com janellas para todos os lados, muita luz e ar
+puro. Tambem as ha fechadas e escuras, sem janellas, ou com poucas e
+gradeadas, á semelhança de conventos o prisões. Outrosim, capellas e
+bazares, simples alpendres ou paços sumptuosos.
+
+Não sei o que era a minha. Eu não era ainda casmurro, nem dom casmurro;
+o receio é que me tolhia a franqueza, mas como as portas não tinham
+chaves nem fechaduras, bastava empurral-as, e Escobar empurrou-as e
+entrou. Cá o achei dentro, cá ficou, até que...
+
+
+
+
+LVII
+
+De preparação.
+
+Ah! mas não eram só os seminaristas que me iam saindo daquellas folhas
+velhas do _Panegyrico._ Ellas me trouxeram tambem sensações passadas,
+taes e tantas que eu não poderia dizel-as todas, sem tirar espaço ao
+resto. Uma dessas, e das primeiras, quizera contal'a aqui eu latim.
+Não é que a materia não ache termos honestos em nossa lingua, que é
+casta para os castos, como póde ser torpe para os torpes. Sim, leitora
+castissima, como diria o meu finado José Dias, podeis ler o capitulo
+até ao fim, sem susto nem vexame.
+
+Já agora metto a historia em outro capitulo. Por mais composto que este
+me saia, ha sempre no assumpto alguma cousa menos austera, que pede
+umas linhas de repouso e preparação. Sirva este de preparação. E isto é
+muito, leitor meu amigo; o coração, quando examina a possibilidade do
+que ha de vir. as proporções dos acontecimentos e a copia delles, fica
+robusto e disposto, e o mal é menor mal. Tambem, se não fica então, não
+fica nunca. E aqui verás tal ou qual esperteza minha; porquanto, ao ler
+o que vás ler, é provavel que o aches menos cru do que esperavas.
+
+
+
+
+LVIII
+
+O tratado.
+
+Foi o caso que, uma segunda-feira, voltando eu para o seminario, vi
+cair na rua uma senhora. O meu primeiro gesto, em tal caso, devia ser
+de pena ou de riso; não foi uma nem outra cousa, porquanto (e é isto
+que eu quizera dizer em latim) porquanto, a senhora tinha as meias mui
+lavadas, e não as sujou, levava ligas de seda, e não as perdeu. Varias
+pessoas acudiram, mas não tiveram tempo de a levantar; ella ergueu-se
+muito vexada, sacudiu-se, agradeceu, e enfiou pela rua proxima.
+
+--Este gosto de imitar as francezas da rua do Ouvidor, dizia-me José
+Dias andando e commentando a queda, é evidentemente um erro. As nossas
+moças devem andar como sempre andaram, com sou vagar e paciencia, e não
+este tique-tique afrancezado...
+
+Eu mal podia ouvil-o. As meias e as ligas da senhora branqueavam e
+enroscavam-se deante de mim, e andavam, caíam, erguiam-se e iam-se
+embora. Quando chegámos á esquina, olhei para a outra rua, e vi, a
+distancia, a nossa desastrada, que ia no mesmo passo, tique-tique,
+tique-tique...
+
+--Parece que não se machucou, disse eu.
+
+--Tanto melhor para ella, mas é impossivel que não tenha arranhado os
+joelhos; aquella presteza é manha...
+
+Creio que foi «manha» que elle disse; eu fiquei «nos joelhos
+arranhados». Dalli em deante, até o seminario, não vi mulher na rua, a
+quem não desejasse uma quéda; a algumas adivinhei que trazia as meias
+esticadas e as ligas, justas... Tal haveria que nem levasse meias...
+Mas eu as via com ellas... Ou então... Tambem é possivel...
+
+Vou esgarçando isto com reticencias, para dar uma ideia das minhas
+ideias, que eram assim diffusas e confusas; com certeza não dou nada.
+A cabeça ia-me quente, e o andar não era seguro. No seminario, a
+primeira hora foi insupportavel. As batinas traziam ar de saias, e
+lembravam-me a quéda da senhora. Já não era uma só que eu via cair;
+todas as que eu encontrara na rua, mostravam-me agora de relance as
+ligas azues; eram azues. De noite, sonhei com ellas. Uma multidão de
+abominaveis creaturas veiu andar á roda de mim, tique-tique... Eram
+bellas, umas finas, outras grossas, todas ageis como o diabo. Accordei,
+busquei afugental-as com esconjuros e outros methodos, mas tão depressa
+dormi como tornaram, e, com as mãos presas em volta de mim, faziam
+um vasto circulo de saias, ou, trepadas no ar, choviam pés e pernas
+sobre a minha cabeça. Assim fui até madrugada. Não dormi mais; rezei
+padre-nossos, ave-marias, e credos, e sendo este livro a verdade pura,
+é força confessar que tive de interromper mais de uma vez as minhas
+orações para acompanhar no escuro uma figura ao longe, tique-tique,
+tique-tique... Pegava depressa na oração, sempre no meio para
+concertal-a bem, como se não tivesse havido interrupção, mas certamente
+não unia a phrase nova á antiga.
+
+Vindo o mal pela manha adeante, tentei vencel-o, mas por um modo que
+o não perdesse de todo. Sabios da escriptura, adivinhai o que podia
+ser. Foi isto. Não podendo rejeitar de mim aquelles quadros, recorri a
+um tratado entre a minha consciencia e a minha imaginação. As visões
+feminis seriam de ora avante consideradas como simples encarnações dos
+vicios, e por isso mesmo contemplaveis, como o melhor modo de temperar
+o caracter e aguerril-o para os combates asperos da vida. Não formulei
+isto por palavras, nem fui preciso; o contracto fez-se tacitamente, com
+alguma repugnancia, mas fez-se. E por alguns dias, era eu mesmo que
+evocava as visões para fortalecer-me, e não as rejeitava, senão quando
+ellas mesmas, de cançadas, se iam embora.
+
+
+
+
+LIX
+
+Convivas de boa memoria.
+
+Ha dessas reminiscências que não descançam antes que a penna ou a
+lingua as publique. Um antigo dizia arrenegar de conviva que tem boa
+memoria. A vida é cheia de taes convivas, e eu sou acaso um delles,
+comquanto a prova de ter a memoria fraca seja exactamente não me acudir
+agora o nome de tal antigo; mas era um antigo, e basta.
+
+Não, não, a minha memoria não é boa. Ao contrario, é comparavel a
+alguem que tivesse vivido por hospedarias, sem guardar dellas nem caras
+nem nomes, e sómente raras circumstancias. A quem passe a vida na
+mesma casa de familia, com os seus eternos moveis e costumes, pessoas
+e affeições, é que se lhe grava tudo pela continuidade e repetição.
+Como eu invejo os que não esqueceram a còr das primeiras calças que
+vestiram! Eu não atino com a das que enfiei hontem. Juro só que não
+eram amarellas porque execro essa côr; mas isso mesmo póde ser olvido
+e confusão.
+
+E antes seja olvido que confusão; explico-me. Nada se emenda bem nos
+livros confusos, mas tudo se póde metter nos livros omissos. Eu, quando
+leio algum desta outra casta, não me afflijo nunca. O que faço, em
+chegando ao fim, é cerrar os olhos e evocar todas as cousas que não
+achei nelle. Quantas ideias finas me acodem então! Que de reflexões
+profundas! Os rios, as montanhas, as egrejas que não vi nas folhas
+lidas, todos me apparecem agora com as suas aguas, as suas arvores,
+os seus altares, e os generaes sacam das espadas que tinham ficado
+na bainha, e os clarins soltam as notas que dormiam no metal, e tudo
+marcha com uma alma imprevista.
+
+É que tudo se acha fóra de um livro falho, leitor amigo. Assim preencho
+as lacunas alheias; assim pódes tambem preencher as minhas.
+
+
+
+
+LX
+
+Querido opusculo!
+
+Assim fiz eu ao _Panegyrico de Santa Monica_, e fiz mais: puz-lhe não
+só o que faltava da santa, mas ainda cousas que não eram della. Viste o
+soneto, as meias, as ligas, o seminarista Escobar e vários outros. Vás
+agora ver o mais que naquelle dia me foi saindo das paginas amarellas
+do opusculo.
+
+Querido opusculo, tu não prestavas para nada, mas que mais presta um
+velho par de chinellas? Entretanto, ha muita vez no casal de chinellas
+um como aroma e calor de dous pés. Gastas e rotas, não deixam de
+lembrar que uma pessoa as calçava de manhã, ao erguer da cama, ou as
+descalçava á noite, ao entrar nella. E se a comparação não vale, porque
+as chinellas são ainda uma parte da pessoa e tiveram o contacto dos
+pés, aqui estão outras lembranças, como a pedra da rua, a porta da
+casa, um assobio particular, um prégão de quitanda, como aquelle das
+cocadas que contei no cap. XVIII. Justamente, quando contei o prégão
+das cocadas, fiquei tão curtido de saudades que me lembrou fazel-o
+escrever por um amigo, mestre de musica, e grudal-o ás pernas do
+capitulo. Se depois jarretei o capitulo, foi porque outro musico, a
+quem o mostrei, me confessou ingenuamente não achar no trecho escripto
+nada que lhe accordasse saudades. Para que não aconteça o mesmo aos
+outros profissionaes que por ventura me lerem, melhor é poupar ao
+editor do livro o trabalho e a despeza da gravura. Vès que não puz
+nada, nem ponho. Já agora creio que não basta que os pregões de rua,
+como os opusculos de seminario, encerrem casos, pessoas e sensações; é
+preciso que a gente os tenha conhecido e padecido no tempo, sem o que
+tudo é calado e incolor.
+
+Mas, vamos ao mais que me foi saindo das paginas amarellas.
+
+
+
+
+LXI
+
+A vacca de Homero.
+
+O mais foi muito. Vi sairem os primeiros dias da separação, duros e
+opacos, sem embargo das palavras de conforto que me deram os padres e
+os seminaristas, e as de minha mãe e tio Cosme, trazidas por José Dias
+ao seminario.
+
+--Todos estão saudosos, disse-me este, mas a maior saudade está
+naturalmente no maior dos corações; e qual é elle? perguntou escrevendo
+a resposta nos olhos.
+
+--Mamãe, acudi eu.
+
+José Dias apertou-me as mãos com alvoroço, e logo pintou a tristeza de
+minha mãe, que falava de mim todos os dias, quasi a todas as horas.
+Como a approvasse sempre, e accrescentasse alguma palavra relativamente
+aos dotes que Deus me dera, o desvanecimento de minha mãe nessas
+occasiões era indescriptivel; e contava-me tudo isso cheio de uma
+admiração lacrimosa. Tio Cosme tambem se enternecia muito.
+
+--Hontem até se deu um caso interessante. Tendo eu dito á
+Excellentissima que Deus lhe dera, não um filho, mas um anjo do ceu, o
+doutor ficou tão commovido que não achou outro modo de vencer o choro
+senão fazendo-me um daquelles elogios de galhofa que só elle sabe. Não
+é preciso dizer que D. Gloria enxugou furtivamente uma lagrima. Ou ella
+não fosse mãe! Que coração amantissimo!
+
+--Mas, Sr. José Dias, e a minha saida daqui?
+
+--Isso é negocio meu. A viagem á Europa é o que é preciso, mas póde
+fazer-se daqui a um ou dous annos, em 1859 ou 1860...
+
+--Tão tarde!
+
+--Era melhor que fosse este mesmo anno, mas demos tempo ao tempo. Tenha
+paciencia, vá estudando, não se perde nada em ir sabendo já daqui
+alguma cousa; e, demais, ainda não acabando padre, a vida do seminario
+é util, e vale sempre entrar no mundo ungido com os santos oleos da
+theologia...
+
+Neste ponto,--lembra-me como se fosse hoje,--os olhos de José
+Dias fulguraram tão intensamente que me encheram de espanto. As
+palpebras cairam depois, e assim ficaram por alguns instantes, até
+que novamente se ergueram, e os olhos fixaram-se na parede do palco,
+como que embebidos em alguma cousa, se não era em si mesmos; depois
+despegaram-se da parede e entraram a vagar pelo pateo todo. Podia
+comparal-o aqui á vacca de Homero; andava e gemia em volta da cria
+que acabava de parir. Não lhe perguntei o que é que tinha, já por
+acanhamento, já porque dous lentes, um delles de theologia, vinham
+caminhando na nossa direcção. Ao passarem por nós, o aggregado, que os
+conhecia, cortejou-os com as deferencias devidas, e pediu-lhes noticias
+minhas.
+
+--Por ora nada se póde affiançar, disse um delles. mas parece que dará
+conta da mão.
+
+--É o que eu lhe dizia agora mesmo, acudiu José Dias. Conto ouvir-lhe
+a missa nova; mas ainda que não chegue a ordenar-se, não póde ter
+melhores estudos que os que fizer aqui. Para a viagem da existencia,
+concluiu demorando mais as palavras, irá ungido com os santos oleos da
+theologia...
+
+Desta vez a fulguração dos olhos foi menor, as palpebras não lhe cairam
+nem as pupillas fizeram os movimentos anteriores. Ao contrario, todo
+elle era attenção e interrogação; quando muito, um sorriso claro e
+amigo lhe errava nos labios. O lente de theologia gostou da metaphora,
+e disse-lh'o; elle agradeceu, explicando que eram ideias que lhe
+escapavam no correr da conversação; não escrevia nem orava. Eu é que
+não gostei nada; e logo que os lentes se foram, sacudi a cabeça:
+
+--Não quero saber dos santos oleos da theologia; desejo sair daqui o
+mais cedo que puder, ou já...
+
+--Já, meu anjo, não póde ser; mas póde succeder que muito antes do que
+imaginamos. Quem sabe se este mesmo anno de 58? Tenho um plano feito,
+e penso já nas palavras com que hei de expôl-o a D. Gloria; estou certo
+que ella cederá e irá comnosco.
+
+--Duvido que mamãe embarque.
+
+--Veremos. Mãe é capaz de tudo; mas, com ella ou sem ella, tenho por
+certa a nossa ida, e não haverá esforço que eu não empregue, deixe
+estar. Paciencia é que é preciso. E não faça aqui nada que dê logar a
+censuras ou queixas; muita docilidade e toda a apparente satisfação.
+Não ouviu o elogio do lente? E que você tem-se portado bem. Pois
+continue.
+
+--Mas, 1859 ou 1860 é muito tarde.
+
+--Será este anno, replicou José Dias.
+
+--Daqui a tres mezes?
+
+--Ou seis.
+
+--Não; tres mezes.
+
+--Pois sim. Tenho agora um plano, que me parece melhor que outro
+qualquer. É combinar a ausencia de vocação ecclesiastica e a
+necessidade de mudar de ares. Você porque não tosse?
+
+--Por que não tusso?
+
+--Já, já, não, mas eu hei de avisar você para tossir, quando fôr
+preciso, aos poucos, uma tossesinha secca, e algum fastio; eu irei
+preparando a Excellentissima... Oh! tudo isto é em beneficio della.
+Uma vez que o filho não póde servir a egreja, como deve ser servida, o
+melhor modo de cumprir a vontade de Deus é dedical-o a outra cousa. O
+mundo tambem é egreja para os bons...
+
+Pareceu-me outra vez a vacca de Homero, como se este «mundo tambem é
+egreja para os bons», fosse outro bezerro, irmão dos «santos oleos da
+theologia.» Mas não dei tempo á ternura materna, e repliquei:
+
+--Ah! entendo! mostrar que estou doente para embarcar, não é?
+
+José Dias hesitou um pouco, depois explicou-se:
+
+--Mostrar a verdade, porque, francamente, Bentinho, eu ha mezes que
+desconfio do seu peito. Você não anda bom do peito. Em pequeno,
+teve umas febres e uma ronqueira... Passou tudo, mas ha dias em que
+está mais descorado. Não digo que já seja o mal, mas o mal póde vir
+depressa. N'uma hora cae a casa. Por isso, se aquella santa senhora não
+quizer ir comnosco,--ou para que vá mais depressa, acho que uma boa
+tosse... Se a tosse ha de vir de verdade, melhor é apressal-a... Deixe
+estar, eu aviso...
+
+--Bem, mas em saindo daqui não ha de ser para embarcar logo; saio
+primeiro, depois cuidaremos do embarque; o embarque é que póde ficar
+para o anno. Não dizem que o melhor tempo é abril ou maio? Pois seja
+maio. Primeiro deixo o seminario, daqui a dous mezes...
+
+E porque a palavra me estivesse a pigarrear na garganta, dei uma volta
+rapida, e perguntei-lhe á queima-roupa:
+
+--Capitú como vae?
+
+
+
+
+LXII
+
+Uma ponta de Iago.
+
+A pergunta era imprudente, na occasião em que eu cuidava de transferir
+o embarque. Equivalia a confessar que o motivo principal ou unico
+da minha repulsa ao seminario era Capitú, e lazer crer improvavel a
+viagem. Comprehendi isto depois que falei; quiz emendar-me, mas nem
+soube como, nem elle me deu tempo.
+
+--Tem andado alegre, como sempre; é uma tontinha. Aquillo emquanto não
+pegar algum peralta da visinhança, que case com ella...
+
+Estou que empallideci; pelo menos, senti correr um frio pelo corpo
+todo. A noticia de que ella vivia alegre, quando eu chorava todas
+as noites, produziu-me aquelle effeito, acompanhado de um bater de
+coração, tão violento, que ainda agora cuido ouvil-o. Ha alguma
+exageração nisto; mas o discurso humano é assim mesmo, um composto de
+partes excessivas e partes diminutas, que se compensam, ajustando-se.
+Por outro lado, se entendermos que a audiencia aqui não é das orelhas,
+senão da memoria, chegaremos á exacta verdade. A minha memoria ouve
+ainda agora as pancadas do coração naquelle instante. Não esqueças
+que era a emoção do primeiro amor. Estive quasi a perguntar a José
+Dias que me explicasse a alegria de Capitú, o que é que ella fazia, se
+vivia rindo, cantando ou pulando, mas retive-me a tempo, e depois outra
+ideia...
+
+Outra ideia, não,--um sentimento cruel e desconhecido, o puro ciume,
+leitor das minhas entranhas. Tal foi o que me mordeu, ao repetir
+commigo as palavras de José Dias: « Algum peralta da visinhança.» Em
+verdade, nunca pensara em tal desastre. Vivia tão nella, della e para
+ella, que a intervenção de um peralta era como uma noção sem realidade;
+nunca me acudiu que havia peraltas na visinhança, vária idade e feitio,
+grandes passeadores das tardes. Agora lembrava-me que alguns olhavam
+para Capitú,--e tão senhor me sentia della que era como se olhassem
+para mim, um simples dever de admiração e de inveja. Separados um do
+outro pelo espaço e pelo destino, o mal apparecia-me agora, não só
+possivel, mas certo. E a alegria de Capitú confirmava a suspeita; se
+ella vivia alegre é que já namorava a outro, acompanhal-o-hia com os
+olhos na rua, falar-lhe-hia á janella, ás ave-marias, trocariam flores
+e...
+
+E... que? Sabes o que é que trocariam mais; se o não achas por ti
+mesmo, escusado é ler o resto do capitulo e do livro, não acharás mais
+nada, ainda que eu o diga com todas as lettras da etymologia. Mas se o
+achaste, comprehenderás que eu, depois de estremecer, tivesse um impeto
+de atirar-me pelo portão fora, descer o resto da ladeira, correr,
+chegar a casa do Padua, agarrar Capitú e intimar-lhe que me confessasse
+quantos, quantos, quantos já lhe dera o peralta da visinhança. Não
+fiz nada. Os mesmos sonhos que ora conto não tiveram, naquelles tres
+ou quatro minutos, esta logica de movimentos e pensamentos. Eram
+soltos, emendados e mal emendados, com o desenho truncado e torto,
+uma confusão, um turbilhão, que me cegava e ensurdecia. Quando tornei
+a mim, José Dias concluía uma phrase, cujo principio não ouvi, e
+o mesmo fim era vago: «A conta que dará de si.» Que conta e quem?
+Cuidei naturalmente que falava ainda de Capitú, e quiz perguntar-lh'o,
+mas a vontade morreu ao nascer, como tantas outras gerações dellas.
+Limitei-me a inquirir do aggregado quando é que iria a casa ver minha
+mãe.
+
+--Estou com saudades de mamãe. Posso ir já esta semana?
+
+--Vae sabbado.
+
+--Sabbado? Ah! sim! sim! Peça a mamãe que me mande buscar sabbado!
+Sabbado! Este sabbado, não? Que me mande buscar, sem falta.
+
+
+
+
+LXIII
+
+Metades de um sonho.
+
+Fiquei ancioso pelo sabbado. Até lá os sonhos perseguiam-me, ainda
+accordado, e não os digo aqui para não alongar esta parte do livro. Um
+só ponho, e no menor numero de palavras, ou antes porei dous, porque
+um nasceu de outro, a não ser que ambos formem duas metades de um só.
+Tudo isto é obscuro, dona leitora, mas a culpa é do vosso sexo, que
+perturbava assim a adolescencia de um pobre seminarista. Não fosse
+elle, e este livro seria talvez uma simples pratica parochial, se eu
+fosse padre, ou uma pastoral, se bispo, ou uma encyclica, se papa, como
+me recommendára tio Cosme: «Anda lá, meu rapaz, volta-me papa!» Ah!
+porque não cumpri esse desejo? Depois de Napoleão, tenente e imperador,
+todos os destinos estão neste seculo.
+
+Quanto ao sonho foi isto. Como estivesse a espiar os peraltas da
+visinhança, vi um destes que conversava com a minha amiga ao pé da
+janella. Corri ao logar, elle fugiu; avancei para Capitú, mas não
+estava só, tinha o pae ao pé de si, enxugando os olhos e mirando um
+triste bilhete de loteria. Não me parecendo isto claro, ia pedir a
+explicação, quando elle de si mesmo a deu; o peralta fôra levar-lhe a
+lista dos premios da loteria, e o bilhete saira branco. Tinha o numero
+4004. Disse-me que esta symetria de algarismos era mysteriosa e bella,
+e provavelmente a roda andára mal; era impossivel que não devesse ter
+a sorte grande. Emquanto elle falava, Capitú dava-me com os olhos
+todas as sortes grandes e pequenas. A maior destas devia ser dada com
+a bocca. E aqui entra a segunda parte do sonho. Padua desappareceu,
+como as suas esperanças do bilhete. Capitú inclinou-se para fóra,
+eu relancei do olhos pela rua, estava deserta. Peguei-lhe nas mãos,
+resmunguei não sei que palavras, e accordei sósinho no dormitorio.
+
+O interesse do que acabas de ler não está na materia do sonho, mas nos
+esforços que fiz para ver se dormia novamente e pegava nelle outra vez.
+Nunca dos nuncas poderás saber a energia e obstinação que empreguei em
+fechar os olhos, apertal-os bem, esquecer tudo para dormir, mas não
+dormia. Esse mesmo trabalho fez-me perder o somno até á madrugada.
+Sobre a madrugada, consegui concilial-o, mas então nem peraltas, nem
+bilhetes de loteria, nem sortes grandes ou pequenas,--nada dos nadas
+veiu ter commigo. Não sonhei mais aquella noite, e dei mal as licções
+daquelle dia.
+
+
+
+
+LXIV
+
+Uma ideia e um escrupulo.
+
+Relendo o capitulo passado, acóde-me uma ideia e um escrupulo. O
+escrupulo é justamente de escrever a ideia, não a havendo mais
+banal na terra, posto que daquella banalidade do sol e da lua, que
+o ceu nos dá todos os dias e todos os mezes. Deixei o manuscripto,
+e olhei para as paredes. Sabes que esta casa do Engenho Novo, nas
+dimensões, disposições e pinturas, é reproducção da minha antiga casa
+de Matacavallos. Outrosim, como te disse no capitulo II, o meu fim
+em imitar a outra foi ligar as duas pontas da vida, o que aliás não
+alcancei. Pois o mesmo succedeu áquelle sonho do seminario, por mais
+que tentasse dormir e dormisse. Donde concluo que um dos officios do
+homem é fechar e apertar muito os olhos, a ver se continua pela noite
+velha o sonho truncado da noite moça. Tal é a ideia banal e nova que
+eu não quizera pôr aqui, e só provisoriamente a escrevo.
+
+Antes de concluir este capitulo, fui á janella indagar da noite por que
+razão os sonhos hão de ser assim tão tenues que se esgarçam ao menor
+abrir de olhos ou voltar de corpo, e não continuam mais. A noite não
+me respondeu logo. Estava deliciosamente bella, os morros pallejavam
+de luar e o espaço morria de silencio. Como eu insistisse, declarou-me
+que os sonhos já não pertencem á sua jurisdicção. Quando elles moravam
+na ilha que Luciano lhes deu, onde ella tinha o seu palacio, e donde os
+fazia sair com as suas caras de varia feição, dar-me-hia explicações
+possiveis. Mas os tempos mudaram tudo. Os sonhos antigos foram
+aposentados, e os modernos moram no cerebro da pessoa. Estes, ainda que
+quizessem imitar os outros, não poderiam fazel-o; a ilha dos sonhos,
+como a dos amores, como todas as ilhas de todos os mares, são agora
+objecto da ambição e da rivalidade da Europa e dos Estados-Unidos.
+
+Era uma allusão ás Fillipinas. Pois que não amo a politica, e ainda
+menos a politica internacional, fechei a janella e vim acabar este
+# capitulo para ir dormir. Não peço agora os sonhos de Luciano, nem
+outros, filhos da memoria ou da digestão; basta-me um somno quieto e
+apagado. De manhã, com a fresca, irei dizendo o mais da minha historia
+e suas pessoas.
+
+
+
+
+LXV
+
+A dissimulação.
+
+Chegou o sabbado, chegaram outros sabbados, e eu acabei affeiçoando-me
+á vida nova. Ia alternando a casa e o seminario. Os padres gostavam de
+mim, os rapazes tambem, e Escobar mais que os rapazes e os padres. No
+fim de cinco semanas estive quasi a contar a este as minhas penas e
+esperanças; Capitú refreou-me.
+
+--Escobar é muito meu amigo, Capitú!
+
+--Mas não é meu amigo.
+
+--Póde vir a ser; elle já me disse que ha de vir cá para conhecer mamãe.
+
+--Não importa; você não tem direito de contar um segredo que não é só
+seu, mas tambem meu, e eu não lhe dou licença de dizer nada a pessoa
+nenhuma.
+
+Era justo, calei-me e obedeci. Outra cousa em que obedeci ás suas
+reflexões foi, logo no primeiro sabbado, quando eu fui á casa della,
+e, após alguns minutos de conversa, me aconselhou a ir embora.
+
+--Hoje não fique aqui mais tempo; vá para casa, que eu lá vou logo. É
+natural que D. Gloria queira estar com você muito tempo, ou todo, se
+puder.
+
+Em tudo isso mostrava a minha amiga tanta lucidez que eu bem podia
+deixar de citar um terceiro exemplo, mas os exemplos não se fizeram
+senão para ser citados, e este é tão bom que a omissão seria um crime.
+Foi á minha terceira ou quarta vinda á casa. Minha mãe depois que lhe
+respondi ás mil perguntas que me fez sobre o tratamento que me davam,
+os estudos, as relações, a disciplina, e se me doia alguma cousa, e
+se dormia bem, tudo o que a ternura das mães inventa para cançar a
+paciencia de um filho, concluiu voltando-se para José Dias:
+
+--Sr. José Dias, ainda duvida que saia daqui um bom padre?
+
+--Excellentissima...
+
+--E você, Capitú, interrompeu minha mãe voltando-se para a filha do
+Padua que estava na sala, com ella,--você não acha que o nosso Bentinho
+dará um bom padre?
+
+--Acho que sim, senhora, respondeu Capitú cheia de convicção.
+
+Não gostei da convicção. Assim lh'o disse, na manhã seguinte, na
+quintal della, recordando as palavras da vespera, e lançando-lho em
+rosto, pela primeira vez, a alegria que ella mostrára desde a minha
+entrada no seminario, quando eu vivia curtido de saudades. Capitú
+fez-se muito séria, e perguntou-me como é que queria que se portasse,
+uma vez que suspeitavam de nós; tambem tivera noites desconsoladas, e
+os dias, em casa della, foram tão tristes como os meus; podia indagal-o
+do pae e da mãe. A mãe chegou a dizer-lhe, por palavras encobertas, que
+não pensasse mais em mim.
+
+--Com D. Gloria e D. Justina mostro-me naturalmente alegre, para que
+não pareça que a denuncia de José Dias é verdadeira. Se parecesse,
+ellas tratariam de separar-nos mais, e talvez acabassem não me
+recebendo... Para mim, basta o nosso juramento de que nos havemos de
+casar um com outro.
+
+Era isto mesmo; deviamos dissimular para matar qualquer suspeita, e ao
+mesmo tempo gosar toda a liberdade anterior, e construir tranquillos o
+nosso futuro. Mas o exemplo completa-se com o que ouvi no dia seguinte,
+ao almoço; minha mãe, dizendo tio Cosme que ainda queria ver com que
+mão havia en de abençoar o povo á missa, contou que, dias antes,
+estando a falar de moças que se casam cedo, Capitú lhe dissera: «Pois a
+mim quem me ha de casar ha de ser o padre Bentinho; eu espero que elle
+se ordene!» Tio Cosmo riu da graça, José Dias não dessorriu, só prima
+Justina é que franziu a testa, e olhou para mim interrogativamente. Eu,
+que havia olhado para todos, não pude resistir ao gesto da prima, e
+tratei de comer. Mas comi mal; estava tão contente com aquella grande
+dissimulação de Capitú que não vi mais nada, e, logo que almocei, corri
+a referir-lhe a conversa e a louvar-lhe a astucia. Capitú sorriu de
+agradecida.
+
+--Você tem razão, Capitú, concluí eu; vamos enganar toda esta gente.
+
+--Não é? disse ella com ingenuidade.
+
+
+
+
+LXVI
+
+Intimidade.
+
+Capitú ia agora entrando na alma de minha mãe. Viviam o mais do tempo
+juntas, falando de mim, a proposito do sol e da chuva, ou de nada;
+Capitú ia lá coser, ás manhãs; alguma vez ficava para jantar.
+
+Prima Justina não acompanhava a parenta naquellas finezas, mas não
+tratava de todo mal a minha amiga. Era assaz sincera para dizer o mal
+que sentia de alguem, e não sentia bem de pessoa alguma. Talvez do
+marido, mas o marido era morto; em todo caso, não existira homem capaz
+de competir com elle na affeição, no trabalho e na honestidade, nas
+maneiras e na agudeza de espirito. Esta opinião, segundo tio Cosme,
+era posthuma, pois em vida andavam ás brigas, e os ultimos seis mezes
+acabaram separados. Tanto melhor para a justiça della; o louvor dos
+mortos é um modo de orar por elles. Tambem gostaria de minha mãe, ou
+se algum mal pensou della foi entre si e o travesseiro. Comprehende-se
+que, de apparencia, lhe désse a estima devida. Não penso que ella
+aspirasse a algum legado; as pessoas assim dispostas excedem os
+serviços naturaes, fazem-se mais risonhas, mais assiduas, multiplicam
+os cuidados, precedem os famulos. Tudo isso era contrario á natureza
+de prima Justina, feita de azedume e de implicancia. Como vivesse de
+favor na casa, explica-se que não desestimasse a dona e calasse os seus
+resentimentos, ou só dissesse mal della a Deus e ao diabo.
+
+Caso tivesse resentimentos de minha mãe, não era uma razão mais para
+detestar Capitú, nem ella precisava de razões supplementares. Comtudo,
+a intimidade de Capitú fel-o mais aborrecivel á minha parenta. Se a
+principio não a tratava mal, com o tempo trocou de maneiras e acabou
+fugindo-lhe. Capitú, attenta, desde que a não via, indagava della e
+ia procural-a. Prima Justina tolerava esses cuidados. A vida é cheia
+de obrigações que a gente cumpre, por mais vontade que tenha de os
+infringir deslavadamente. Demais, Capitú usava certa magia que captiva;
+prima Justina acabava sorrindo, ainda que azedo, mas a sós com minha
+mãe achava alguma palavra ruim que dizer da menina.
+
+Como minha mãe adoecesse de uma febre, que a pòz ás portas da morte,
+quiz que Capitú lhe servisse de enfermeira. Prima Justina, posto que
+isto a aliviasse de cuidados penosos, não perdoou á minha amiga a
+intervenção. Um dia, perguntou-lhe se não tinha que fazer em casa;
+outro dia, rindo, soltou-lhe este epigramma: «Não precisa correr tanto;
+o que tiver de ser seu ás mãos lhe ha de ir.»
+
+
+
+
+LXVII
+
+Um peccado.
+
+Já agora não tiro a doente da cama sem contar o que se deu commigo. Ao
+cabo de cinco dias, minha mãe amanheceu tão transtornada que ordenou me
+mandassem buscar ao seminario. Em vão tio Cosme:
+
+--Mana Gloria, você assusta-se sem motivo, a febre passa...
+
+--Não! não! mandem buscal-o! Posso morrer, e a minha alma não se salva,
+se Bentinho não estiver ao pé de mim.
+
+--Vamos assustal-o,
+
+--Pois não lhe digam nada, mas vão buscal-o, já, já, não se demorem.
+
+Cuidaram fosse delirio; mas, não custando nada trazer-me, José Dias
+foi incumbido do recado. Entrou tão atordoado que me assustou. Contou
+particularmente ao reitor o que havia, e recebi licença para ir a casa.
+Na rua, iamos calados, elle não alterando o passo do costume,--a
+premissa antes da consequencia, a consequencia antes do conclusão,--mas
+cabisbaixo e suspirando, eu temendo ler no rosto delle alguma noticia
+dura e definitiva. Só me falára na doença, como negocio simples; mas
+o chamado, o silencio, os suspiros podiam dizer alguma cousa mais. O
+coração batia-me com força, as pernas bambeavam-me, mais de uma vez
+cuidei cair...
+
+O anceio de escutar a verdade complicava-se em mim com o temor de a
+saber. Era a primeira vez que a morte me apparecia assim perto, me
+envolvia, me encarava com os olhos furados e escuros. Quanto mais
+andava aquella rua dos Barbonos, mais me aterrava a ideia de chegar a
+casa, de entrar, de ouvir os prantos, de ver um corpo defuncto... Oh!
+eu não poderia nunca expòr aqui tudo o que senti naquelles terriveis
+minutos. A rua, por mais que José Dias andasse superlativamente
+devagar, parecia fugir-me debaixo dos pés, as casas voavam de um e
+outro lado, e uma corneta que nessa occasião tocava no quartel dos
+Municipaes Permanentes resoava aos meus ouvidos como a trombeta do
+juizo final.
+
+Fui, cheguei aos Arcos, entrei na rua de Matacavallos. A casa não era
+logo alli, mas muito além da dos Invalidos, perto da do Senado. Trez ou
+quatro vezes, quizera interrogar o meu companheiro, sem ousar abrir a
+bocca; mas agora, já nem tinha tal desejo. Ia só andando, acceitando o
+peor, como um gesto do destino, como uma necessidade da obra humana,
+e foi então que a Esperança, para combater o Terror, me segredou ao
+coração, não estas palavras, pois nada articulou parecido com palavras,
+mas uma ideia que poderia ser traduzida por ellas: «Mamãe defuncta,
+acaba o seminario.»
+
+Leitor, foi um relampago. Tão depressa alumiou a noite, como se esvaiu,
+e a escuridão fez-se mais cerrada, pelo effeito do remorso que me
+ficou. Foi uma suggestão da luxuria e do egoismo. A piedade filial
+desmaiou um instante, com a perspectiva da liberdade certa, pelo
+desapparecimento da divida e do devedor; foi um instante, menos que um
+instante, o centesimo de um instante, ainda assim o sufficiente para
+complicar a minha afflicção com um remorso.
+
+José Dias suspirava. Uma vez olhou para mim tão cheio de pena que me
+pareceu haver-me adivinhado, e eu quiz pedir-lhe que não dissesse nada
+a ninguem, que eu ia castigar-me, etc. Mas a pena trazia tanto amor,
+que não podia ser pezar do meu peccado; mas então era sempre a morte de
+minha mãe... Senti uma angustia grande, um nó na garganta, e não pude
+mais, chorei de uma vez.
+
+--Que é, Bentinho?
+
+--Mamãe...?
+
+--Não! não! Que ideia é essa? O estado della é gravissimo, mas não é
+mal de morte, e Deus póde tudo. Enxugue os olhos, que é feio um mocinho
+da sua edade andar chorando na rua. Não ha de ser nada, uma febre... As
+febres, assim como dão com força assim tambem se vão embora... Com os
+dedos, não; onde está o lenço?
+
+Enxuguei os olhos, posto que de todas as palavras de José Dias uma só
+me ficasse no coração; foi aquelle _gravissimo._ Vi depois que elle só
+queria dizer _grave_, mas o uso do superlativo faz a bocca longa, e,
+por amor do periodo, José Dias fez crescer a minha tristeza. Se achares
+neste livro algum caso da mesma familia, avisa-me, leitor, para que o
+emende na segunda edição; nada ha mais feio que dar pernas longuissimas
+a ideias brevissimas. Enxuguei os olhos, repito, e fui andando, ancioso
+agora por chegar a casa, e pedir perdão a minha mãe do ruim pensamento
+que tive. Emfim, chegámos, entramos, subi tremulo os seis degraus da
+escada, e d'ahi a pouco, debruçado sobre a cama, ouvia as palavras
+ternas de minha mãe que me apertava muito as mãos, chamando-me seu
+filho. Estava queimando, os olhos ardiam nos meus, toda ella parecia
+consumida por um volcão interno. Ajoelhei-me ao pé do leito, mas como
+este era alto, fiquei longe das suas caricias:
+
+--Não, meu filho, levanta, levanta!
+
+Capitú, que estava na alcova, gostou de ver a minha entrada, os
+meus gestos, palavras e lagrimas, segundo me disse depois; mas não
+suspeitou naturalmente todas as causas da minha afflicção. Entrando no
+meu quarto, pensei em dizer tudo a minha mãe, logo que ella ficasse
+boa, mas esta ideia não me mordia, era uma velleidade pura, uma acção
+que eu não faria nunca, por mais que o peccado me doesse. Então,
+levado do remorso, usei ainda uma vez do meu velho meio das promessas
+espirituaes, e pedi a Deus que me perdoasse e salvasse a vida de
+minha mãe, e eu lhe rezaria dous mil padre-nossos. Padre que me lês,
+perdoa este recurso; foi a ultima vez que o empreguei. A crise em
+que me achava, não menos que o costume e a fé, explica tudo. Eram
+mais dous mil; onde iam os antigos? Não paguei uns nem outros, mas
+saindo de almas candidas e verdadeiras taes promessas são como a moeda
+fiduciaria,--ainda que o devedor as não pague, valem a somma que dizem.
+
+
+
+
+LXVIII
+
+Adiemos a virtude.
+
+Poucos teriam animo de confessar aquelle meu pensamento da rua de
+Matacavallos. Eu confessarei tudo o que importar á minha historia.
+Montaigne escreveu de si: _ce ne sont pas mes gestes que j'ecris; c'est
+moi, c'est mon essence._ Ora, ha só um modo de escrever a propria
+essencia, é contal-a toda, o bem e o mal. Tal faço eu, á medida que me
+vae lembrando o convindo á construção ou reconstrucção de mim mesmo.
+Por exemplo, agora que contei um peccado, diria com muito gosto alguma
+bella acção contemporanea, se me lembrasse, mas não me lembra; fica
+transferida a melhor opportunidade.
+
+Nem perderás em esperar, meu amigo; ao contrario, acóde-me agora que...
+Não só as bellas acções são bellas em qualquer occasião, como são
+tambem possiveis e provaveis, pela theoria que tenho dos peccados e
+das virtudes, não menos simples que clara. Reduz-se a isto que cada
+pessoa nasce com certo numero delles e dellas, alliados por matrimonio
+para se compensarem na vida. Quando um de taes conjuges é mais forte
+que o outro, elle só guia o individuo, sem que este, por não haver
+praticado tal virtude ou commettido tal peccado, se possa dizer isento
+de um ou de outro; mas a regra é dar-se a pratica simultanea dos dous,
+com vantagem do portador de ambos, e alguma vez com resplendor maior da
+terra e do ceu. É pena que eu não possa fundamentar isto com um ou mais
+casos extranhos; falta-me tempo.
+
+Pelo que me toca, é certo que nasci com alguns daquelles casaes, e
+naturalmente ainda os possuo. Já me succedeu, aqui no Engenho Novo, por
+estar uma noite com muita dòr de cabeça, desejar que o trem da Central
+estourasse longe dos meus ouvidos e interrompesse a linha por muitas
+horas, ainda que morresse alguem; e no dia seguinte perdi o trem da
+mesma estrada, por ter ido dar a minha bengala a um cego que não trazia
+bordão. _Voilà mes gestes, voilà mon essence._
+
+
+
+
+LXIX
+
+A missa.
+
+Um dos gestos que melhor exprimem a minha essencia foi a devoção
+com que corri no domingo proximo a ouvir missa em S. Antonio dos
+Pobres. O aggregado quiz ir commigo, e principiou a vestir-se, mas
+era tão lento nos suspensorios e nas presilhas, que não pude esperar
+por elle. Demais, eu queria estar só. Sentia necessidade de evitar
+qualquer conversação que me desviasse o pensamento do fim a que ia,
+e era reconciliar-me com Deus, depois do que se passou no capitulo
+LXVII. Nem era só pedir-lhe perdão do peccado, era tambem agradecer
+o restabelecimento de minha mãe, e, visto que digo tudo, fazel-o
+renunciar ao pagamento da minha promessa. Jehovah, posto que divino,
+ou por isso mesmo, é um Rothschild muito mais humano, e não faz
+moratorias, perdoa as dividas integralmente, uma vez que o devedor
+queira devéras emendar a vida e cortar nas despezas. Ora, eu não
+queria outra cousa; dalli em deante não faria mais promessas que não
+pudesse pagar, e pagaria logo as que fizesse.
+
+Ouvi missa; ao levantar a Deus, agradeci a vida e saude de minha mãe;
+depois pedi perdão do peccado e relevação da divida, e recebi a benção
+final do officiante como um acto solemne de reconciliação. No fim,
+lembrou-me que a egreja estabeleceu no confessionario um cartorio
+seguro, e na confissão o mais authentico dos instrumentos para o ajuste
+de contas moraes entre o homem e Deus. Mas a minha incorrigivel timidez
+me fechou essa porta certa; receiei não achar palavras com que dizer ao
+confessor o meu segredo. Como o homem muda! Hoje chego a publical-o.
+
+
+
+
+LXX
+
+Depois da missa.
+
+Rezei ainda, persignei-me, fechei o livro de missa e caminhei para a
+porta. A gente mão era muita, mas a egreja tambem não é grande, e não
+pude sair logo, logo, mas devagar. Havia homens e mulheres, velhos e
+moços, sedas e chitas, e provavelmente olhos feios e bellos, mas eu
+não vi uns nem outros. Ia na direcção da porta, com a onda, ouvindo
+as saudações e os cochichos. No adro, onde se fez claro, parei e
+olhei para todos. Vi então uma moça e um homem, que saíam da egreja e
+pararam; e a moça olhava para mim falando ao homem, e o homem olhava
+para mim, ouvindo a moça. E chegaram-me estas palavras:
+
+--Mas que queres?
+
+--Queria saber della; papae pergunte.
+
+Era sinhásinha Sancha, a companheira de collegio de Capitú, que
+queria noticias de minha mãe. O pae veiu a mim; disse-lhe que estava
+restabelecida. Depois saimos, mostrou-me a casa delle, e, como eu vinha
+na mesma direcção, viemos juntos. Gurgel era homem de quarenta annos ou
+pouco mais, com propensão a engrossar o ventre; era muito obsequioso;
+chegando á porta da casa, quiz por força que eu fosse almoçar com elle.
+
+--Obrigado; mamãe espera-me.
+
+--Manda-se lá um preto dizer que o senhor fica almoçando, e irá mais
+tarde.
+
+--Venho outro dia.
+
+Sinhásinha Sancha, voltada para o pae, ouvia e esperava. Não era feia;
+só se lhe podia notar a semelhança do nariz, que tambem acabava grosso,
+mas ha feições que tiram a graça de uns para dal-a a outros. Vestia
+simples. Gurgel era viuvo e morria pela filha. Como eu recusasse o
+almoço, quiz que descançasse alguns minutos. Não pude recusar e subi.
+Quis saber a minha edade, os meus estudos, a minha fé, e dava-me
+conselhos para o caso de vir a ser padre; disse-me o numero do armazem,
+rua da Quitanda. Emfim, despedi-me, veiu ao patamar da escada; a filha
+deu-me rocommendações para Capitú e para minha mãe. Da rua olhei para
+cima; o pae estava á janella e fez-me um gosto largo de despedida.
+
+
+
+
+LXXI
+
+Visita de Escobar.
+
+Em casa, tinham já mentido dizendo a minha mãe que eu voltára e estava
+mudando de roupa.
+
+«A missa das oito já ha de ter acabado... Bentinho devia estar de
+volta... Teria acontecido alguma cousa, mano Cosme?... Mandem ver...»
+Assim falava ella, de minuto a minuto, mas eu entrei e commigo a
+tranquillidade.
+
+Era o dia das boas sensações. Escobar foi visitar-me e saber da saude
+de minha mãe. Nunca me visitára até alli, nem as nossas relações
+estavam já tão estreitas, como vieram a ser depois; mas sabendo a razão
+da minha saida, tres dias antes, aproveitou o domingo para ir ter
+commigo e perguntar se continuava o perigo ou não. Quando lhe disse que
+não, respirou.
+
+--Tive receio, disse elle.
+
+--Os outros souberam?
+
+--Parece que sim: alguns souberam.
+
+Tio Cosme e José Dias gostaram do moço; o aggregado disse-lhe que vira
+uma vez o pae no Rio de Janeiro. Escobar era muito polido; e, comquanto
+falasse mais do que veiu a falar depois, ainda assim não era tanto como
+os rapazes da nossa edade; naquelle dia achei-o um pouco mais expansivo
+que de costume. Tio Cosme quiz que jantasse comnosco. Escobar reflectiu
+um instante e acabou dizendo que o correspondente do pae esperava por
+elle. Eu, lembrando-me das palavras do Gurgel, repeti-as:
+
+--Manda-se lá um preto dizer que o senhor janta aqui, e irá depois.
+
+--Tanto incommodo!
+
+--Incommodo nenhum, interveiu tio Cosme.
+
+Escobar acceitou, e jantou. Notei que os movimentos rápidos que tinha e
+dominava na aula tambem os dominava agora, na sala como na mesa. A hora
+que passou commigo foi de franca amizade. Mostrei-lhe os poucos livros
+que possuia. Gostou muito do retrato de meu pae; depois de alguns
+instantes de contemplação, virou-se e disse-me:
+
+--Vê-se que era um coração puro!
+
+Os olhos de Escobar, claros como já disse, eram dulcissimos; assim
+os definiu José Dias, depois que elle saiu, e mantenho esta palavra,
+apesar dos quarenta annos que traz em cima de si. Nisto não houve
+exageração do aggregado. A cara rapada mostrava uma pelle alva e lisa.
+A testa é que era um pouco baixa, vindo a risca do cabello quasi em
+cima da sobrancelha esquerda; mas tinha sempre a altura necessaria
+para não affrontar as outras feições, nem diminuir a graça dellas.
+Realmente, era interessante de rosto, a bocca fina e chocarreira, o
+nariz curvo e delgado. Tinha o séstro de sacudir o hombro direito, de
+quando em quando, e veiu a perdel-o, desde que um de nós lh'o notou
+um dia no seminario; primeiro exemplo que vi de que um homem póde
+corrigir-se muito bem dos defeitos miudos.
+
+Nunca deixei de sentir tal ou qual desvanecimento em que os meus amigos
+agradassem a todos. Em casa, ficaram querendo bem a Escobar; a mesma
+prima Justina achou que era um moço muito apreciavel, apesar... Apesar
+de que? perguntou-lhe José Dias, vendo que ella não acabava a phrase.
+Não teve resposta, nem podia tel-a; prima Justina provavelmente não
+viu defeito claro ou importante no nosso hospede; o _apesar_ era uma
+especie de resalva para algum que lhe viesse a descobrir um dia; ou
+então foi obra de uso velho, que a levou a restringir, onde não achára
+restricção.
+
+Escobar despediu-se logo depois de jantar; fui leval-o á porta,
+onde esperámos a passagem de um omnibus. Disse-me que o armazem do
+correspondente era na rua dos Pescadores, e ficava aberto até ás nove
+horas: elle é que se não queria demorar fóra. Separámo-nos com muito
+affecto: elle, de dentro do omnibus, ainda me disse adeus, com a mão.
+Conservei-me á porta, a ver se, ao longe, ainda olharia para traz, mas
+não olhou.
+
+--Que amigo é esse tamanho? perguntou alguem de uma janella ao pé.
+
+Não é preciso dizer que era Capitú. São cousas que se adivinham na
+vida, como nos livros, sejam romances, sejam historias verdadeiras. Era
+Capitú, que nos espreitara desde algum tempo, por dentro da veneziana,
+e agora abrira inteiramente a janella, e apparecera. Viu as nossas
+despedidas tão rasgadas e affectuosas, e quiz saber quem era que me
+merecia tanto.
+
+--É o Escobar, disse eu indo pôr-me embaixo da janella, a olhar para
+cima.
+
+
+
+
+LXXII
+
+Uma reforma dramatica.
+
+Nem eu, nem tu, nem ella, nem qualquer outra pessoa desta historia
+poderia responder mais, tão certo é que o destino, como todos os
+dramaturgos, não annuncia as peripecias nem o desfecho. Elles chegam a
+seu tempo, até que o panno cae, apagam-se as luzes, e os espectadores
+vão dormir. Nesse genero ha porventura alguma cousa que reformar, e
+eu proporia, como ensaio, que as peças começassem pelo fim. Othello
+mataria a si e a Desdemona no primeiro acto, os tres seguintes seriam
+dados á acção lenta e decrescente do ciume, e o ultimo ficaria só com
+as scenas iniciaes da ameaça dos turcos, as explicações de Othello e
+Desdemona, e o bom conselho do fino Iago: «Mette dinheiro na bolsa.»
+Desta maneira, o espectador, por um lado, acharia no theatro a charada
+habitual que os periodicos lhe dão, porque os ultimos actos explicariam
+o desfecho do primeiro, especie de conceito, e, por outro lado, ia
+para a cama com uma boa impressão de ternura e de amor:
+
+     Ella amou o que me affligira,
+     Eu amei a piedade della.
+
+
+
+
+LXXIII
+
+O contra-regra.
+
+O destino não é só dramaturgo, é tambem o seu proprio contra-regra,
+isto é, designa a entrada dos personagens em scena, dá-lhes as cartas
+e outros objectos, e executa dentro os signaes correspondentes
+ao dialogo, uma trovoada, um carro, um tiro. Quando eu era moço,
+representou-se ahi, em não sei que theatro, um drama que acabava pelo
+juizo final. O principal personagem era Ashaverus, que no ultimo
+quadro concluia um monologo por esta exclamação: «Ouço a trombeta do
+archanjo!» Não se ouviu trombeta nenhuma. Ashaverus, envergonhado,
+repetiu a palavra, agora mais alto, para advertir o contra-regra, mas
+ainda nada. Então caminhou para o fundo, disfarçamente tragico, mas
+effectivamente com o fim de falar ao bastidor, e dizer em voz surda:**
+«O piston! o piston! o piston!» O publico ouviu esta palavra e desatou
+a rir, até que, quando a trombeta soou devéras, e Ashaverus bradou
+pela terceira vez que era a do archanjo, um gaiato da platéa corrigiu
+cá debaixo: «Não, senhor, é o piston do archanjo!»
+
+Assim se explicam a minha estada debaixo da janella de Capitú e a
+passagem de um cavalleiro, um _dandy_, como então diziamos. Montava
+um bello cavallo alazão, firme na sella, redea na mão esquerda, a
+direita á cinta, botas de verniz, figura e postura esbeltas: a cara
+não me era desconhecida. Tinham passado outros, e ainda outros viriam
+atraz; todos iam ás suas namoradas. Era uso do tempo namorar a cavallo.
+Relê Alencar: «Porque um estudante (dizia um dos seus personagens de
+theatro de 1858) não póde estar sem estas duas cousas, um cavallo e uma
+namorada.» Relê Alvares de Azevedo. Uma das suas poesias é destinada
+a contar (1851) que residia em Catumby, e, para ver a namorada no
+Cattete, alugara um cavallo por trez mil reis... Trez mil reis! tudo se
+perde na noite dos tempos!
+
+Ora, o _dandy_ do cavallo baio não passou como os outros; era a
+trombeta do juizo final e soou a tempo; assim faz o Destino, que é o
+seu proprio contra-regra. O cavalleiro não se contentou de ir andando,
+mas voltou a cabeça para o nosso lado, o lado de Capitú, e olhou
+para Capitú, e Capitú para elle; o cavallo andava, a cabeça do homem
+deixava-se ir voltando para traz. Tal foi o segundo dente de ciume que
+me mordeu. A rigor, era natural admirar as bellas figuras; mas aquelle
+sujeito costumava pagar alli, ás tardes; morava no antigo Campo da
+Acclamação, e depois... e depois... Vão lá raciocinar com um coração de
+braza, como era o meu!
+
+Nem disse nada a Capitú; saí da rua á pressa, enfiei pelo meu corredor,
+e, quando dei por mim, estava na sala de visitas.
+
+
+
+
+LXXIV
+
+A presilha.
+
+Na sala de visitas, tio Cosme e José Dias conversavam, um sentado,
+outro andando e parando. A vista de José Dias lembrou-me o que elle
+me disséra no seminario: «Aquillo emquanto não pegar algum peralta da
+visinhança que case com ella....» Era certamente allusão ao cavalleiro.
+Tal recordação aggravou a impressão que eu trazia da rua; mas não
+seria essa palavra, inconscientemente guardada, que me dispoz a crer
+na malicia dos seus olhares? A vontade que tive foi pegar em José Dias
+pela gola, leval-o ao corredor e perguntar-lhe se falara de verdade ou
+por hypothese; mas José Dias, que parára ao ver-me entrar, continuou a
+andar e a falar. Eu, impaciente, queria ir á casa ao pé, imaginava que
+Capitú saisse da janella assustada e não tardasse a apparecer, para
+indagar e explicar.... E os dous falavam, até que tio Cosme ergueu-se
+para ir ver a doente, e José Dias veiu ter commigo, ao vão da outra
+janella.
+
+Ha um instante tinha eu desejo de lhe perguntar o que havia entre
+Capitú e os peraltas do bairro; agora, imaginando que vinha justamente
+dizer-m'o, fiquei com medo de ouvil-o. Quiz tapar-lhe a bocca. José
+Dias viu no meu rosto algum signal differente da expressão habitual, e
+perguntou-me com interesse:
+
+--Que é, Bentinho?
+
+Para não fital-o, deixei cair os olhos. Os olhos, caindo, viram que uma
+das presilhas das calças do aggregado estava desabotoada, e, como elle
+insistisse em saber o que é que eu tinha, respondi apontando com o dedo:
+
+--Olhe a presilha, abotoe a presilha.
+
+José Dias inclinou-se, eu saí correndo.
+
+
+
+
+LXXV
+
+O desespero.
+
+Escapei ao aggregado, escapei a minha mãe não indo ao quarto della, mas
+não escapei a mim mesmo. Corri ao meu quarto, e entrei atraz de mim.
+Eu falava-me, eu perseguia-me, eu atirava-me á cama, e rolava commigo,
+e chorava, e abafava os soluços com a ponta do lençol. Jurei não ir
+ver Capitú aquella tarde, nem nunca mais, e fazer-me padre de uma vez.
+Via-me já ordenado, deante d'ella, que choraria de arrependimento e me
+pediria perdão, mas eu, frio e sereno, não teria mais que desprezo,
+muito desprezo; voltava-lhe as costas. Chamava-lhe perversa. Duas vezes
+dei por mim mordendo os dentes, como se a tivesse entre elles.
+
+Da cama ouvia voz della, que viera passar o resto da tarde com minha
+mãe, e naturalmente commigo, como das outras vezes; mas, por maior que
+fosse o abalo que me deu, não me fez sair do quarto. Capitú ria alto,
+falava alto, como se me avisasse; eu continuava surdo, a sós commigo
+e o meu desprezo. A vontade que me dava era cravar-lhe as unhas no
+pescoço, enterral-as bem, até ver-lhe sair a vida com o sangue....
+
+
+
+
+LXXVI
+
+Explicação.
+
+Ao fim de algum tempo, estava socegado, mas abatido. Como me achasse
+estirado na cama, com os olhos no tecto, lembrou-me a recommendação que
+minha mãe fazia de me não deitar depois de jantar para evitar alguma
+congestão. Ergui-me de golpe, mas não saí do quarto. Capitú ria agora
+menos e falava mais baixo; estaria afflicta com a minha reclusão, mas
+nem por isso me abalou.
+
+Não ceei e dormi mal. Na manhã seguinte não estava melhor, estava
+differente. A minha dòr agora complicava-se do receio de haver ido além
+do que convinha, deixando de examinar o negocio. Posto que a cabeça
+me doesse um pouco, simulei maior incommodo, com o fim de não ir ao
+seminario e falar a Capitú. Podia estar zangada commigo, podia não
+querer-me agora e preferir o cavalleiro. Quiz resolver tudo, ouvil-a e
+julgal-a; podia ser que tivesse defesa e explicação.
+
+Tinha ambas as cousas. Quando soube a causa da minha reclusão da
+vespera, disse-me que era grande injuria que lhe fazia; não podia
+crer que depois da nossa troca de juramentos, tão leviana a julgasse
+que pudesse crer.... E aqui romperam-lhe lagrimas, e fez um gesto de
+separação; mas eu acudi de prompto, peguei-lhe das mãos e beijei-as
+com tanta alma e calor que as senti estremecer. Enxugou os olhos com
+os dedos, eu os beijei de novo, por elles e pelas lagrimas; depois
+suspirou, depois abanou a cabeça. Confessou-me que não conhecia o
+rapaz, senão como os outros que alli passavam ás tardes, a cavallo ou a
+pé. Se olhara para elle, era prova exactamente de não haver nada entre
+ambos; se houvesse, era natural dissimular.
+
+--E que poderia haver, se elle vae casar? concluiu.
+
+--Vae casar?
+
+Ia casar, disse-me com quem, com uma moça da rua dos Barbonos. Esta
+razão quadrou-me mais que tudo, e ella o sentiu no meu gesto; nem por
+isso deixou de dizer que, para evitar nova equivocação, deixaria de ir
+mais á janella.
+
+--Não! não! não! não lhe peço isto!
+
+Consentiu em retirar a promessa, mas fez outra, e foi que, á primeira
+suspeita da minha parte, tudo estaria dissolvido entro nós. Acceitei a
+ameaça, e jurei que nunca a haveria de cumprir: era a primeira suspeita
+e a ultima.
+
+
+
+
+LXXVII
+
+Prazer das dôres velhas.
+
+Contando aquella crise do meu amor adolescente, sinto uma cousa que não
+sei se explico bem, e é que as dôres daquella quadra, a tal ponto se
+espiritualisaram com o tempo, que chegam a diluir-se no prazer. Não é
+claro isto, mas nem tudo é claro na vida ou nos livros. A verdade é que
+sinto um gosto particular em referir tal aborrecimento, quando é certo
+que elle me lembra outros que não quizera lembrar por nada.
+
+
+
+
+LXXVIII
+
+Segredo por segredo.
+
+De resto, naquelle mesmo tempo senti tal ou qual necessidade de contar
+a alguem o que se passava entre mim e Capitú. Não referi tudo, mas só
+uma parte, e foi Escobar que a recebeu. Quando voltei ao seminario,
+na quarta-feira, achei-o inquieto; disse-me que era sua intenção ir
+ver-me, se eu me demorasse mais um dia em casa. Perguntava-me com
+interesse o que é que tivera, e se estava bom de todo.
+
+--Estou.
+
+Ouvia, espetando-me os olhos. Tres dias depois disse que me estavam
+achando muito distrahido; era bom disfarçar o mais que pudesse. Elle, á
+sua parte, tinha razões para andar distrahido tambem, mas buscava ficar
+attento.
+
+--Então parece-lhe....?
+
+--Sim, você ás vezes está que não ouve nada, olhando para hontem;
+disfarce, Santiago.
+
+--Tenho motivos....
+
+--Creio; ninguem se distrae á toa.
+
+--Escobar....
+
+Hesitei; elle esperou.
+
+--Que é?
+
+--Escobar, você é meu amigo, eu sou seu amigo tambem; aqui no seminario
+você é a pessoa que mais me tem entrado no coração, e lá fóra, a não
+ser a gente da familia, não tenho propriamente um amigo.
+
+--Se eu disser a mesma cousa, retorquiu elle sorrindo, perde a graça;
+parece que estou repetindo. Mas a verdade é que não tenho aqui relações
+com ninguem, você é o primeiro e creio que já notaram; mas eu não me
+importo com isso.
+
+Commovido, senti que a voz se me precipitava da garganta.
+
+--Escobar, você é capaz de guardar um segredo?
+
+--Você que pergunta é porque duvida, e nesse caso....
+
+--Desculpe, é um modo de falar. Eu sei que é moço serio, e faço de
+conta que me confesso a um padre.
+
+--Se precisa de absolvição, está absolvido.
+
+--Escobar, eu não posso ser padre. Estou aqui, os meus acreditam, o
+esperam; mas eu não posso ser padre.
+
+--Nem eu, Santiago.
+
+--Nem você?
+
+--Segredo por segredo; tambem eu tenho o proposito de não acabar o
+curso; meu desejo é o commercio, mas não diga nada, absolutamente
+nada; fica só entre nós. E não é que eu não seja religioso; sou
+religioso, mas o commercio é a minha paixão.
+
+--Só isso?
+
+--Que mais ha de ser?
+
+Dei duas voltas e sussurrei a primeira palavra da minha confidencia,
+tão escassa e surda, que não a ouvi eu mesmo; sei porém que disse «uma
+pessoa...» com reticencia. Uma pessoa....? Não foi preciso mais para
+que elle entendesse. Uma pessoa devia ser uma moça. Nem cuides que
+pasmou de me ver namorado; achou até natural e espetou-me outra vez os
+olhos. Então contei-lhe por alto o que podia, mas demoradamente para
+ter o gosto de repisar o assumpto. Escobar escutava com interesse; no
+fim da nossa conversação, declarou-me que era segredo enterrado em
+cemiterio. Deu-me de conselho que não me fizesse padre. Não podia levar
+para a egreja um coração que não era do ceu, mas da terra; seria um mau
+padre, nem seria padre. Ao contrario. Deus protegia os sinceros; uma
+vez que eu só podia servil-o no mundo, ahi me cumpria ficar.
+
+Não calculas o prazer que me deu a confidencia que lhe fiz. Era como
+que uma felicidade mais. Aquelle coração moço que me ouvia e me dava
+razão, trazia a este mundo um aspecto extraordinario. Era um grande e
+bello mundo, a vida uma carreira excellente, e eu nem mais nem menos um
+mimoso do ceu; eis a minha sensação. Nota que eu não lhe disse tudo,
+nem o melhor; não lhe referi o capitulo do penteado, por exemplo, nem
+outros assim; mas o contado era muito.
+
+Que voltámos ao assumpto, não é preciso dizel-o. Voltámos uma e muitas
+vezes; eu louvava as qualidades moraes de Capitú, materia adequada á
+admiração de um seminarista, a simpleza, a modestia, o amor do trabalho
+e os costumes religiosos. Não lhe tocava nas graças physicas, nem elle
+me perguntava por ellas; apenas insinuei a conveniencia de a conhecer
+de vista.
+
+--Agora não é possivel, disse-lhe na primeira semana, ao voltar de
+casa; Capitú vae passar uns dias com uma amiga da rua dos Invalidos.
+Quando ella vier, você irá lá; mas póde ir antes, póde ir sempre;
+porque não foi hontem jantar commigo?
+
+--Você não me convidou.
+
+--Pois precisa convidar? Lá em casa todos ficaram gostando muito de
+você.
+
+--Tambem eu fiquei gostando de todos, mas se é possivel fazer
+distincção, confesso-lhe que sua mãe é uma senhora adoravel.
+
+--Não é verdade? retorqui cheio de alvoroço.
+
+
+
+
+LXXIX
+
+Vamos ao capitulo.
+
+Com effeito, gostei de ouvil-o falar assim. Sabes a opinião que eu
+tinha de minha mãe. Ainda agora, depois de interromper esta linha para
+mirar-lhe o retrato que pende da parede, acho que trazia no rosto
+impressa aquella qualidade. Nem de outro modo se explica a opinião de
+Escobar, que apenas trocara com ella quatro palavras. Uma só bastava a
+penetrar-lhe a essencia intima; sim, sim, minha mãe era adoravel. Por
+mais que me estivesse então obrigando a uma carreira que eu não queria,
+não podia deixar de sentir que era adoravel, como uma santa.
+
+E por ventura era certo que me obrigava á carreira ecclesiastica? Aqui
+chego a um ponto, que esperei viesse depois, tanto que já pesquizava em
+que altura lhe daria um capitulo. Realmente, não cabia dizer agora o
+que só mais tarde presumi descobrir; mas, uma vez que toquei no ponto,
+melhor é acabar com elle. É grave e complexo, delicado e subtil, um
+destes em que o autor tem de attender ao filho, e o filho ha de ouvir
+o autor, para que um e outro digam a verdade, só a verdade, mas toda a
+verdade. Cabe ainda notar que esse ponto é que torna justamente a santa
+mais adoravel, sem prejuizo (ao contrario!) da parte humana e terrestre
+que havia nella. Basta de prefacio ao capitulo; vamos ao capitulo.
+
+
+
+
+LXXX
+
+Venhamos ao capitulo.
+
+Venhamos ao capitulo. Minha mãe era temente a Deus; sabes disto, e das
+suas praticas religiosas, e da fé pura que as animava. Nem ignoras que
+a minha carreira ecclesiastica era objecto de promessa feita quando
+fui concebido. Tudo está contado opportunamente. Outrosim, sabes que
+para o fim de apertar o vinculo moral da obrigação, confiou os seus
+projectos e motivos a parentes e familiares. A promessa, feita com
+fervor, acceita com misericordia, foi guardada por ella, com alegria,
+no mais intimo do coração. Penso que lhe senti o sabor da felicidade no
+leite que me deu a mamar. Meu pae, se vivesse, é possivel que alterasse
+os planos, e, como tinha a vocação da politica, é provavel que me
+encaminhasse somente á politica, embora os dous officios não fossem nem
+sejam inconciliaveis, e mais de um padre entre na luta dos partidos e
+no governo dos homens. Mas meu pae morrera sem saber nada, e ella ficou
+deante do contracto, como unica devedora.
+
+Um dos aphorismos de Franklin é que, para quem tem de pagar na paschoa,
+a quaresma é curta. A nossa quaresma não foi mais longa que as outras,
+e minha mãe, posto me mandasse ensinar latim e doutrina, começou a
+adiar a minha entrada no seminario. É o que se chama, commercialmente
+falando, reformar uma lettra. O credor era archi-millionario, não
+dependia daquella quantia para comer, e consentiu nas transferencias de
+pagamento, sem sequer aggravar a taxa do juro. Um dia, porém, um dos
+familiares que serviam de endossantes da letra, falou da necessidade de
+entregar o preço ajustado; está n'um dos capitulos primeiros. Minha mãe
+concordou e recolhi-me a S. José.
+
+Ora, nesse mesmo capitulo, verteu ella umas lagrimas, que enxugou sem
+explicar, e que nenhum dos presentes, nem tio Cosme, mau prima Justina,
+nem o aggregado José Dias entendeu absolutamente; eu, que estava atraz
+da porta, não as entendi mais que elles. Bem examinadas, apesar da
+distancia, vê-se que eram saudades prévias, a magoa da separação,--e
+póde ser tambem (é o principio do ponto), póde ser que arrependimento
+da promessa. Catholica e devota, sentia muito bem que as promessas
+se cumprem; a questão é se é opportuno e adequado fazel-as todas, e
+naturalmente inclinava-se á negativa. Porque é que Deus a puniria,
+negando-lhe um segundo filho? A vontade divina podia ser a minha vida,
+sem necessidade de lh'a dedicar _ab ovo._ Era um raciocinio tardio;
+devia ter sido feito no dia em que fui gerado. Em todo caso, era uma
+conclusão primeira; mas, não bastando concluir para destruir, tudo se
+manteve, e eu fui para o seminario.
+
+Um cochilo da fé teria resolvido a questão a meu favor, mas a fé velava
+com os seus grandes olhos ingenuos. Minha mãe faria, se pudesse,
+uma troca de promessa, dando parte dos seus annos para conservar-me
+comsigo, fóra do clero, casado e pae; é o que presumo, assim como
+supponho que rejeitou tal ideia, por lhe parecer uma deslealdade. Assim
+a senti sempre na corrente da vida ordinaria.
+
+Succedeu que a minha ausencia foi logo temperada pela assiduidade de
+Capitú. Esta começou a fazer-se-lhe necessaria. Pouco a pouco veiu-lhe
+a persuasão de que a pequena me faria feliz. Então (é o final do ponto
+annunciado), a esperança de que o nosso amor, tornando-me absolutamente
+incompativel com o seminario, me levasse a não ficar lá nem por Deus
+nem pelo diabo, esta esperança intima e secreta entrou a invadir o
+coração de minha mãe. Neste caso, eu romperia o contracto sem que ella
+tivesse culpa. Ella ficava commigo sem acto propriamente seu. Era como
+se, tendo confiado a alguem a importancia de uma divida para leval-a
+ao credor, o portador guardasse o dinheiro comsigo e não levasse nada.
+Na vida commum, o acto de terceiro não desobriga o contractante; mas a
+vantagem de contractar com o ceu é que intenção vale dinheiro.
+
+Has de ter tido conflictos parecidos com esse, e, se és religioso,
+haverás buscado alguma vez conciliar o ceu e a terra, por modo identico
+ou analogo. O ceu e a terra acabam conciliando-se; elles são quasi
+irmãos gemeos, tendo o ceu sido feito no segundo dia e a terra no
+terceiro. Como Abrahão, minha mãe levou o filho ao monte da Visão,
+e mais a lenha para o holocausto, o fogo e o cutello. E atou Isaac
+em cima do feixe de lenha, pegou do cutello e levantou-o ao alto. No
+momento de fazel-o cair, ouve a voz do anjo que lhe ordena da parte do
+Senhor: «Não faças mal algum a teu filho; conheci que temes a Deus.»
+Tal seria a esperança secreta de minha mãe.
+
+Capitú era naturalmente o anjo da Escriptura. A verdade é que minha mãe
+não podia tel-a agora longe de si. A affeição crescente era manifesta
+por actos extraordinarios. Capitú passou a ser a flôr da casa, o sol
+das manhãs, o frescor das tardes, a lua das noites; lá vivia horas e
+horas, ouvindo, falando e cantando. Minha mãe apalpava-lhe o coração,
+revolvia-lhe os olhos, e o meu nome era entre ambas como a senha da
+vida futura.
+
+
+
+
+LXXXI
+
+Uma palavra.
+
+Assim contado o que descobri mais tarde, posso trasladar para aqui
+uma palavra de minha mãe. Agora se entenderá que ella me dissesse, no
+primeiro sabbado, quando eu cheguei a casa, e soube que Capitú estava
+na rua dos Invalidos, com Sinhásinha Gurgel.
+
+--Porque não vaes vel-a? Não me disseste que o pae de Sancha te
+offereceu a casa?
+
+--Offereceu.
+
+--Pois então? Mas é se queres. Capitú devia ter voltado hoje para
+acabar um trabalho commigo; certamente a amiga pediu-lhe que dormisse
+lá.
+
+--Talvez ficassem namorando, insinuou prima Justina.
+
+Não a matei por não ter a mão ferro nem corda, pistola nem punhal; mas
+os olhos que lhe deitei, se pudessem matar, teriam supprido tudo. Um
+dos erros da Providencia foi deixar ao homem unicamente os braços e
+os dentes, como armas de ataque, e as pernas como armas de fuga ou de
+defesa. Os olhos bastavam ao primeiro effeito. Um mover delles faria
+parar ou cair um inimigo ou um rival, exerceriam vingança prompta,
+com este accressimo que, para desnortear a justiça, os mesmos olhos
+matadores seriam olhos piedosos, e correriam a chorar a victima.
+Prima Justina escapou aos meus; eu é que não escapei ao effeito da
+insinuação, e no domingo, ás onze horas, corri á rua dos Invalidos.
+
+O pae de Sancha recebeu-me em desalinho e triste. A filha estava
+enferma; caira na vespera com uma febre, que se ia aggravando. Como
+elle queria muito á filha, pensava já vel-a morta, e annunciou-me que
+se mataria tambem. Eis aqui um capitulo funebre como um cemiterio,
+mortes, suicidios e assassinatos. Eu anciava por um raio de luz clara e
+ceu azul. Foi Capitú que os trouxe á porta da sala, vindo dizer ao pae
+de Sancha que a filha o mandara chamar.
+
+--Está peor? perguntou Gurgel assustado.
+
+--Não, senhor, mas quer falar-lhe.
+
+--Fique aqui um bocadinho, disse-lhe elle; e voltando-se para mim: É a
+enfermeira de Sancha, que não quer outra; eu já volto.
+
+Capitú trazia signaes de fadiga e commoção, mas tão depressa me viu,
+ficou toda outra, a mocinha de sempre, fresca e lepida, não menos que
+espantada. Custou-lhe a crer que fosse eu. Falou-me, quiz que lhe
+falasse, e effectivamente conversámos por alguns minutos, mas tão
+baixo e abafado que nem as paredes ouviram, ellas que tèm ouvidos. De
+resto, se ellas ouviram algo, nada entenderam, nem ellas nem os moveis,
+que estavam tão tristes como o dono.
+
+
+
+
+LXXXII
+
+O canapé.
+
+Delles, só o canapé pareceu haver comprehendido a nossa situação
+moral, visto que nos offereceu os serviços da sua palhinha, com tal
+insistencia que os acceitámos e nos sentámos. Data dahi a opinião
+particular que tenho do canapé. Elle faz alliar a intimidade e o
+decoro, e mostra a casa toda sem sair da sala. Dous homens sentados
+nelle pódem debater o destino de um imperio, e duas mulheres a graça
+de um vestido; mas, um homem e uma mulher só por aberração das leis
+naturaes dirão outra cousa que não seja de si mesmos. Foi o que
+fizemos, Capitú e eu. Vagamente lembra-me que lhe perguntei se a demora
+alli seria grande...
+
+--Não sei; a febre parece que cede... mas...
+
+Tambem me lembra, vagamente, que lhe expliquei a minha visita á rua dos
+Invalidos, com a pura verdade, isto é, a conselho de minha mãe.
+
+--Conselho della? murmurou Capitú.
+
+E accrescentou com os olhos, que brilhavam extraordinariamente:
+
+--Seremos felizes!
+
+Repeti esta palavras, com os simples dedos, apertando os della. O
+canapé, quer visse ou não, continuou a prestar os seus serviços ás
+nossas mãos presas e ás nossas cabeças juntas ou quasi juntas.
+
+
+
+
+LXXXIII
+
+O retrato.
+
+Gurgel tornou á sala e disse a Capitú que a filha chamava por ella.
+Eu levantei-me depressa e não achei compostura; mettia os olhos pelas
+cadeiras. Ao contrario, Capitú ergueu-se naturalmente e perguntou-lhe
+se a febre augmentára.
+
+--Não, disse elle.
+
+Nem sobresalto nem nada, nenhum ar de mysterio da parte de Capitú;
+voltou-se para mim, e disse-me que levasse lembranças a minha mãe e
+a prima Justina, e que até breve; estendeu-me a mão e enfiou pelo
+corredor. Todas as minhas invejas foram com ella. Como era possivel que
+Capitú se governasse tão facilmente e eu não?
+
+--Está uma moça, observou Gurgel olhando tambem para ella.
+
+Murmurei que sim. Na verdade, Capitú ia crescendo ás carreiras, as
+fórmas arredondavam-se e avigoravam-se com grande intensidade;
+moralmente, a mesma cousa. Era mulher por dentro e por fóra, mulher á
+direita e á esquerda, mulher por todos os lados, e desde os pés até á
+cabeça. Esse arvorecer era mais apressado, agora que eu a via de dias
+a dias; de cada vez que vinha a casa achava-a mais alta e mais cheia;
+os olhos pareciam ter outra reflexão, e a bocca outro imperio. Gurgel,
+voltando-se para a parede da sala, onde pendia um retrato de moça,
+perguntou-me se Capitú era parecida com o retrato.
+
+Um dos costumes da minha vida foi sempre concordar com a opinião
+provavel do meu interlocutor, desde que a materia não me aggrava,
+aborrece ou impõe. Antes de examinar se effectivamente Capitú era
+parecida com o retrato, fui respondendo que sim. Então elle disse que
+era o retrato da mulher delle, e que as pessoas que a conheceram diziam
+a mesma cousa. Tambem achava que as feições eram semelhantes, a testa
+principalmente e os olhos. Quanto ao genio, era um; pareciam irmãs.
+
+--Finalmente, até a amizade que ella tem a Sanchinha; a mãe não era
+mais amiga della... Na vida ha dessas semelhanças assim exquisitas.
+
+
+
+
+LXXXIV
+
+Chamado.
+
+No saguão e na rua, examinei ainda commigo se effectivamente elle
+teria desconfiado alguma cousa, mas achei que não e puz-me a andar. Ia
+satisfeito com a visita, com a alegria de Capitú, com os louvores de
+Gurgel, a tal ponto que não acudi logo a uma voz que me chamava:
+
+--Sr. Bentinho! Sr. Bentinho!
+
+Só depois que a voz cresceu e o dono della chegou á porta é que eu
+parei e vi o que era e onde estava. Estava já na rua de Matacavallos.
+A casa era uma loja de louça, escassa e pobre; tinha as portas
+meio-cerradas, e a pessoa que me chamava era um pobre homem grisalho e
+mal vestido.
+
+--Sr. Bentinho, disse-me elle chorando; sabe que meu filho Manduca
+morreu?
+
+--Morreu?
+
+--Morreu ha meia hora, enterra-se amanhã. Mandei recado a sua mãe
+agora mesmo, e ella fez-me a caridade de mandar algumas flores para
+botar no caixão. Meu pobre filho! Tinha de morrer, e foi bom que
+morresse, coitado, mas apesar de tudo sempre doe. Que vida que elle
+teve!... Um dia destes ainda se lembrou do senhor, e perguntou se
+estava no seminario... Quer vel-o? Entre, ande vel-o...
+
+Custa-me dizer isto, mas antes peque por excessivo que por diminuto.
+Quiz responder que não, que não queria ver o Manduca, e fiz até um
+gesto para fugir. Não era medo; n'outra occasião póde ser até que
+entrasse com facilidade e curiosidade, mas agora ia tão contente! Ver
+um defuncto ao voltar de uma namorada... Ha cousas que se não ajustam
+nem combinam. A simples noticia era já uma turvação grande. Às minhas
+ideias de ouro perderam todas a côr e o metal para se trocarem em
+cinza escura e feia, e não distingui mais nada. Penso que cheguei
+a dizer que tinha pressa, mas provavelmente não falei por palavras
+claras, nem sequer humanas, porque elle, encostado ao portal, abria-me
+espaço com o gesto, e eu, sem alma para entrar nem fugir, deixei ao
+corpo fazer o que pudesse, e o corpo acabou entrando.
+
+Não culpo ao homem; para elle, a cousa mais importante do momento
+era o filho. Mas tambem não me culpem a mim; para mim, a cousa mais
+importante era Capitú. O mal foi que os dous casos se conjugassem na
+mesma tarde, e que a morte de um viesse metter o nariz na vida do
+outro. Eis o mal todo. Se eu passasse antes ou depois, ou se o Manduca
+esperasse algumas horas para morrer, nenhuma nota aborrecida viria
+interromper as melodias da minha alma. Porque morrer exactamente ha
+meia hora? Toda hora é apropriada ao obito; morre-se muito bem ás seis
+ou sete horas da tarde.
+
+
+
+
+LXXXV
+
+O defuncto.
+
+Tal foi o sentimento confuso com que entrei na loja de louça. A
+loja era escura, e o interior da casa menos luz tinha, agora que as
+janellas da área estavam cerradas. A um canto da sala de jantar vi a
+mãe chorando; á porta da alcova duas creanças olhavam espantadas para
+dentro, com o dedo na bocca. O cadaver jazia na cama; a cama...
+
+Suspendamos a penna e vamos á janella espairecer a memoria. Realmente,
+o quadro era feio, já pela morte, já pelo defuncto, que era horrivel...
+Isto aqui, sim, é outra cousa. Tudo o que vejo lá fóra respira vida, a
+cabra que rumina ao pé de uma carroça, a gallinha que marisca no chão
+da rua, o trem da Estrada Central que bufa, assobia, fumega e passa, a
+palmeira que investe para o ceu, e finalmente aquella torre de egreja,
+apesar de não ter musculos nem folhagem. Um rapaz, que alli no becco
+empina um papagaio de papel, não morreu nem morre, posto tambem se
+chame Manduca.
+
+Verdade é que o outro Manduca era mais velho que este,** pouco mais
+velho. Teria dezoito ou dezenove annos, mas tanto lhe darias quinze
+como vinte e dous, a cara não permittia trazer a edade á vista, antes a
+escondia nas dobras da... Vá, diga-se tudo; é morto, os seus parentes
+são mortos, se existe algum não é em tal evidencia que se vexe ou
+dôa. Diga-se tudo; Manduca padecia de uma cruel enfermidade, nada
+menos que a lepra. Vivo era feio; morto pareceu-me horrivel. Quando
+eu vi, estendido na cama, o triste corpo daquelle meu visinho, fiquei
+apavorado e desviei os olhos. Não sei que mão occulta me compelliu a
+olhar outra vez, ainda que de fugida; cedi, olhei, tornei a olhar, até
+que recuei de todo e saí do quarto.
+
+--Padeceu muito! suspirou o pae.
+
+--Coitado de Manduca! soluçava a mãe.
+
+Eu cuidei de sair, disse que era esperado em casa, e despedi-me. O pae
+perguntou-me se lhe faria o favor de ir ao enterro; respondi com a
+verdade, que não sabia, faria o que minha mãe quizesse. E rapido saí,
+atravessei a loja, e saltei á rua.
+
+
+
+
+LXXXVI
+
+Amai, rapazes!
+
+Era tão perto, que antes de tres minutos me achei em casa. Parei
+no corredor, a tomar folego; buscava esquecer o defuncto, pallido
+e disforme, e o mais que não disse para não dar a estas paginas um
+aspecto repugnante, mas pódes imaginal-o. Tudo arredei da vista, em
+poucos segundos; bastou-me pensar na outra casa, e mais na vida e na
+cara fresca e lepida de Capitú... Amai, rapazes! e, principalmente,
+amai moças lindase graciosas; ellas dão remedio ao mal, aroma ao
+infecto, trocam a morte pela vida... Amai, rapazes!
+
+
+
+
+LXXXVII
+
+A sege.
+
+Chegara ao ultimo degrau, e uma ideia me entrou no cerebro, como se
+estivesse a esperar por mim, entre as grades da cancella. Ouvi de
+memoria as palavras do pae de Manduca pedindo-me que fosse ao enterro
+no dia seguinte. Parei no degrau. Reflecti um instante; sim, podia ir
+ao enterro, pediria a minha mãe que me alugasse um carro...
+
+Não cuides que era o desejo de andar de carro, por mais que tivesse o
+gosto da conducção. Em pequeno, lembra-me que ia assim muita vez com
+minha mãe ás visitas de amizade ou de ceremonia, e á missa, se chovia.
+Era uma velha sege de meu pae, que ella conservou o mais que poude. O
+cocheiro, que era nosso escravo, tão velho como a sege, quando me via á
+poria, vestido, esperando minha mãe, dizia-me rindo:
+
+--Pae João vae levar nhonhô!
+
+E era raro que eu não lhe recommendasse:
+
+--João, demora muito as bestas; vae devagar.
+
+--Nhã Gloria não gosta.
+
+--Mas demora!
+
+Fica entendido que era para saborear a sege, não pela vaidade, porque
+ella não permittia ver as pessoas que iam dentro. Era uma velha sege
+obsoleta, de duas rodas, estreita e curta, com duas cortinas de couro
+na frente, que corriam para os lados quando era preciso entrar ou sair.
+Cada cortina tinha um oculo de vidro, por onde eu gostava de espiar
+para fóra.
+
+--Senta, Bentinho!
+
+--Deixa espiar, mamãe!
+
+E em pé, quando era mais pequeno, mettia a cara no vidro, e via o
+cocheiro com as suas grandes botas, escanchado na mula da esquerda, e
+segurando a redea da outra; na mão levava o chicote grosso e comprido.
+Tudo incommodo, as botas, o chicote e as mulas, mas elle gostava e
+eu tambem. Dos lados via passar as casas, lojas ou não, abertas ou
+fechadas, com gente ou sem ella, e na rua as pessoas que iam e vinham,
+ou atravessavam deante da sege, com grandes pernadas ou passos miudos.
+Quando havia impedimento de gente ou de animaes, a sege parava, e então
+o espectaculo era particularmente interessante; as pessoas paradas na
+calçada ou á porta das casas, olhavam para a sege e falavam entre si,
+naturalmente sobre quem iria dentro. Quando fui crescendo em edade
+imaginei que adivinhavam e diziam: «É aquella senhora da rua de
+Matacavallos, que tem um filho, Bentinho...»
+
+A sege ia tanto com a vida recondita de minha mãe, que quando já não
+havia nenhuma outra, continuámos a andar nella, e era conhecida na rua
+e no bairro pela «sege antiga». Afinal minha mãe consentiu em deixal-a,
+sem a vender logo; só abriu mão della porque as despezas de cocheira
+a obrigaram a isso. A razão de a guardar inutil foi exclusivamente
+sentimental; era a lembrança do marido. Tudo o que vinha de meu pae
+era conservado como um pedaço delle, um resto da pessoa, a mesma alma
+integral e pura. Mas o uso, esse era filho tambem do carrancismo que
+ella confessava aos amigos. Minha mãe exprimia bem a fidelidade aos
+velhos habitos, velhas maneiras, velhas ideias, velhas modas. Tinha o
+seu museo de reliquias, pentes desusados, um trecho de mantilha, umas
+moedas de cobre datadas de 1824 e 1825, e, para que tudo fosse antigo,
+a si mesma se queria fazer velha; mas já deixei dito que, neste ponto,
+não alcançava tudo o que queria.
+
+
+
+
+LXXXVIII
+
+Um pretexto honesto.
+
+Não, a ideia de ir ao enterro não vinha da lembrança do carro e suas
+doçuras. A origem era outra: era porque, acompanhando o enterro no dia
+seguinte, não iria ao seminario, e podia fazer outra visita a Capitú,
+um tanto mais demorada. Eis ahi o que era. A lembrança do carro podia
+vir accessoriamente depois, mas a principal e immediata foi aquella.
+Voltaria á rua dos Invalidos, a pretexto de saber de Sinházinha Gurgel.
+Contava que tudo me saisse como naquelle dia, Gurgel afflicto, Capitú
+commigo no canapé, as mãos presas, o penteado...
+
+--Vou pedir a mamãe.
+
+Abri a cancella. Antes de transpôl-a, assim como ouvira da memoria a
+palavra do pae do morto, ouvi agora a da mãe, e repeti a meia voz:
+
+--Coitado de Manduca!
+
+
+
+
+LXXXIX
+
+A recusa.
+
+Minha mãe ficou perplexa quando lhe pedi para ir ao enterro.
+
+--Perder um dia de seminario...
+
+Fiz-lhe notar a amizade que o Manduca me tinha, e depois era gente
+pobre... Tudo o que me lembrou dizer, disse. Prima Justina opinou pela
+negativa.
+
+--Você acha que não deve ir? perguntou-lhe minha mãe.
+
+--Acho que não. Que amizade é essa que eu nunca vi?
+
+Prima Justina venceu. Quando referi o caso ao aggregado, este sorriu, e
+disse-me que o motivo escondido da prima era provavelmente não dar ao
+enterro «o lustre da minha pessoa.» Fosse o que fosse, fiquei amuado;
+no dia seguinte, pensando no motivo, não me desagradou; mais tarde
+achei-lhe um sabor particular.
+
+
+
+
+XC
+
+A polemica.
+
+No dia seguinte, passei pela casa do defuncto, sem entrar nem
+parar,--ou, se parei, foi só um instante, ainda mais breve que este em
+que vol-o digo. Se me não engano, andei até mais depressa, receiando
+que me chamassem como na vespera. Uma vez que não ia ao enterro, antes
+longe que proximo. Fui andando e pensando no pobre diabo.
+
+Não eramos amigos, nem nos conheciamos de muito. Intimidade, que
+intimidade podia haver entre a doença delle e a minha saude? Tivemos
+relações breves e distantes. Fui pensando nellas, recordando algumas.
+Reduziam-se todas a uma polemica, entre nós, dous annos antes, a
+proposito... Mal podeis crer a que proposito foi. Foi a guerra da
+Criméa.
+
+Manduca vivia no interior da casa, deitado na cama, lendo por
+desfastio. Ao domingo, sobre a tarde, o pae enfiava-lhe uma camisola
+escura, e trazia-o para o fundo da loja, donde elle espiava um palmo da
+rua e a gente que passava. Era todo o seu recreio. Foi alli que o vi
+uma vez, e não fiquei pouco espantado; a doença ia-lhe comendo parte
+das carnes, os dedos queriam apertar-se; o aspecto não attrahia, de
+certo. Tinha eu de treze para quatorze annos. Da segunda vez que o vi
+alli, como falassemos da guerra da Criméa, que então ardia e andava nos
+jornaes, Manduca disse que os alliados haviam de vencer, e eu respondi
+que não.
+
+--Pois veremos, tornou elle. Só se a justiça não vencer neste mundo, o
+que é impossivel, e a justiça está com os alliados.
+
+--Não, senhor, a razão é dos russos.
+
+Naturalmente, iamos com o que nos diziam os jornaes da cidade,
+transcrevendo os de fóra, mas póde ser tambem que cada um de nós
+tivesse a opinião do seu temperamento. Fui sempre um tanto moscovita
+nas minhas ideias. Defendi o direito da Russia, Manduca fez o mesmo ao
+dos alliados, e o terceiro domingo em que entrei na loja tocámos outra
+vez no assumpto. Então Manduca propoz que trocassemos a argumentação
+por escripto, e na terça ou quarta-feira recebi duas folhas de papel
+contendo a exposição e defesa do direito dos alliados, e da integridade
+da Turquia, concluindo por esta phrase prophetica:
+
+«Os russos não hão de entrar em Constantinopla!»
+
+Li-a e metti-me a refutal-a. Não me recorda um só dos argumentos que
+empreguei, nem talvez interesse conhecel-os, agora que o seculo está
+a expirar; mas a ideia que me ficou delles é que eram irrespondiveis.
+Fui eu mesmo levar-lhe o meu papel. Fizeram-me entrar na alcova, onde
+elle jazia estirado na cama, mal coberto por uma colcha de retalhos.
+Ou gosto da polemica ou qualquer outra causa que não alcanço, não me
+deixou sentir toda a repugnancia que saía da cama e do doente, e o
+prazer com que lhe dei o papel foi sincero. Manduca, pela sua parte,
+por mais nojosa que tivesse então a cara, o sorriso que a accendou
+dissimulou o mal physico. A convicção com que me recebeu o papel e
+disse que ia ler e responderia é que não tem palavras nossas nem
+alheias que a digam de todo e com verdade; não era exaltada, não era
+ruidosa, não tinha gestos, nem a molestia os permittiria, era simples,
+grande, profunda, um goso infinito de victoria, antes de saber os meus
+argumentos. Tinha já papel, penna e tinta ao pé da cama. Dias depois
+recebi a réplica; não me lembra se trazia cousas novas ou não; o calor
+é que crescia, e o final era o mesmo:
+
+«Os russos não hão de entrar em Constantinopla!»
+
+Trepliquei, e dahi continuou por algum tempo uma polemica ardente, em
+que nenhum de nós cedia, defendendo cada um os seus clientes com força
+e brio. Manduca era mais longo e prompto que eu. Naturalmente a mim
+sobravam mil cousas que distrahiam, o estudo, os recreios, a familia,
+e a propria saude, que me chamava a outros exercicios. Manduca, salvo
+o palmo de rua ao domingo de tarde, tinha só esta guerra, assumpto da
+cidade e do mundo, mas que ninguem ia tratar com elle. O acaso dera-lhe
+em mim um adversario; elle, que tinha gosto á escripta, deitou-se ao
+debate, como a um remedio novo e radical. As horas tristes e compridas
+eram agora breves e alegres; os olhos desapprenderam de chorar, se por
+ventura choravam antes. Senti esta mudança delle nas proprias maneiras
+do pae e da mãe.
+
+--Não imagina como elle anda agora, depois que o senhor lhe escreve
+aquelles papeis, dizia-me o dono da loja, uma vez, á porta da rua. Fala
+e ri muito. Logo que eu mando o caixeiro levar-lhe os papeis delle,
+entra a indagar da resposta, e se demorará muito, e que pergunte ao
+moleque, quando passar. Emquanto espera, relê jornaes e toma notas. Mas
+tambem, apenas recebe os seus papeis, atira-se a lel-os, e começa logo
+a escrever a resposta. Ha occasiões em que não come ou come mal; tanto
+que eu queria pedir-lhe uma cousa, é que não os mande á hora do almoço
+ou de jantar...
+
+Fui eu que cancei primeiro. Comecei a demorar as respostas, até que não
+dei mais nenhuma; elle ainda teimou duas ou tres vezes depois do meu
+silencio, mas não recebendo contestação alguma, por fadiga tambem ou
+por não aborrecer, acabou de todo com as suas apologias. A ultima, como
+a primeira, como todas, affirmava a mesma predicção eterna:
+
+«Os russos não hão de entrar em Constantinopla!»
+
+Não entraram, effectivamente, nem então, nem depois, nem até agora.
+Mas a predicção será eterna? Não chegarão a entrar algum dia? Problema
+difficil. O proprio Manduca, para entrar na sepultura, gastou tres
+annos de dissolução, tão certo é que a natureza, como a historia, não
+se faz brincando. A vida delle resistiu como a Turquia; se afinal
+cedeu foi porque lhe faltou uma alliança como a anglo-franceza, não se
+podendo considerar tal o simples accordo da medicina e da pharmacia.
+Morreu afinal, como os Estados morrem; no nosso caso particular, a
+questão é saber, não se a Turquia morrerá, porque a morte não poupa a
+ninguem, mas se os russos entrarão algum dia em Constantinopla; essa
+era a questão para o meu visinho leproso, debaixo da triste, rota e
+infecta colcha de retalhos...
+
+
+
+
+XCI
+
+Achado que consola.
+
+É claro que as reflexões que ahi deixo não foram feitas então, a
+caminho do seminario, mas agora no gabinete do Engenho Novo. Então,
+não fiz propriamente nenhuma, a não ser esta: que servi de allivio um
+dia ao meu visinho Manduca. Hoje, pensando melhor, acho que não só
+servi de allivio, mas até lhe dei felicidade. E o achado consola-me;
+já agora não esquecerei mais que dei dous ou tres mezes de felicidade
+a um pobre diabo, fazendo-lhe esquecer o mal e o resto. É alguma
+cousa na liquidação da minha vida. Se ha no outro mundo tal ou qual
+premio para as virtudes sem intenção, esta pagará um ou dous dos meus
+muitos peccados. Quanto ao Manduca, não creio que fosse peccado opinar
+contra a Russia, mas, se era, elle estará purgando ha quarenta annos
+a felicidade que alcançou em dous ou tres mezes,--donde concluirá (já
+tarde) que era ainda melhor haver gemido sómente, sem opinar cousa
+nenhuma.
+
+
+
+
+XCII
+
+O diabo não é tão feio como se pinta.
+
+Manduca enterrou-se sem mim. A muitas outros aconteceu a mesma cousa,
+sem que eu sentisse nada, mas este caso affligiu-me particularmente
+pela razão já dita. Tambem senti não sei que melancolia ao recordar a
+primeira polemica da vida, o gosto com que elle recebia os meus papeis
+e se propunha a refutal-os, não contando o gosto do carro... Mas o
+tempo apagou depressa todas essas saudades e resurreições. Nem foi só
+elle; duas pessoas vieram ajudal-o, Capitú, cuja imagem dormiu commigo
+na mesma noite, e outra que direi no capitulo que vem. O resto deste
+# capitulo e só para pedir que, se alguem tiver de ler o meu livro com
+alguma attenção mais da que lhe exigir o preço do exemplar, não deixe
+de concluir que o diabo não é tão feio como se pinta. Quero dizer...
+
+Quero dizer que o meu visinho de Matacavallos, temperando o mal com
+a opinião anti-russa, dava á podridão das suas carnes um reflexo
+espiritual que as consolava. Ha consolações maiores, de certo, e uma
+das mais excellentes é não padecer esse nem outro mal algum, mas a
+natureza é tão divina que se diverte com taes contrastes, e aos mais
+nojentos ou mais afflictos acena com uma flòr. E talvez saia assim a
+flòr mais bella; o meu jardineiro affirma que as violetas, para terem
+um cheiro superior, hão mister de estrume de porco. Não examinei, mas
+deve ser verdade.
+
+
+
+
+XCIII
+
+Um amigo por um defuncto.
+
+Quanto á outra pessoa que teve a força obliterativa, foi o meu collega
+Escobar que no domingo, antes do meio dia, veiu ter a Matacavallos. Um
+amigo suppria assim um defuncto, e tal amigo que durante cerca de cinco
+minutos esteve com a minha mão entre as suas, como se me não visse
+desde longos mezes.
+
+--Você janta commigo, Escobar?
+
+--Vim para isto mesmo.
+
+Minha mãe agradeceu-lhe a amizade que me tinha, e elle respondeu com
+muita polidez, ainda que um tanto atado, como se carecesse de palavra
+prompta. Já viste que não era assim, a palavra obedecia-lhe, mas o
+homem não é sempre o mesmo em todos os instantes. O que elle disse, em
+resumo, foi que me estimava pelas minhas boas qualidades e aprimorada
+educação; no seminario todos me queriam bem, nem podia deixar de ser
+assim, accrescentou. Insistia na educação, nos bons exemplos, «na doce
+e rara mãe» que o ceu me deu... Tudo isso com a voz engasgada e tremula.
+
+Todos ficaram gostando delle. Eu estava tão contente como se Escobar
+fosse invenção minha. José Dias desfechou-lhe dous superlativos, tio
+Cosme dous capotes, e prima Justina não achou tacha que lhe pôr;
+depois, sim, no segundo ou terceiro domingo, veiu ella confessar-nos
+que o meu amigo Escobar era um tanto mettidiço e tinha uns olhos
+policiaes a que não escapava nada.
+
+--São os olhos delle, expliquei.
+
+--Nem eu digo que sejam de outro.
+
+--São olhos reflectidos, opinou tio Cosme.
+
+--Seguramente, acudiu José Dias, entretanto, póde ser que a senhora D.
+Justina tenha alguma razão. A verdade é que uma cousa não impede outra,
+e a reflexão casa-se muito bem á curiosidade natural. Parece curioso,
+isso parece, mas...
+
+--A mim parece-me um mocinho muito serio, disse minha mãe.
+
+--Justamente! confirmou José Dias para não discordar della.
+
+Quando eu referi a Escobar aquella opinião de minha mãe (sem lhe contar
+as outras naturalmente) vi que o prazer delle foi extraordinario.
+Agradeceu, dizendo que eram bondades, e elogiou tambem minha mãe,
+senhora grave, distincta e moça, muito moça... Que edade teria?
+
+--Já fez quarenta, respondi eu vagam ente por vaidade.
+
+--Não é possivel! exclamou Escobar. Quarenta annos! Nem parece trinta;
+está muito moça e bonita. Tambem a alguem ha de você sair, com esses
+olhos que Deus lhe deu; são exactamente os della. Enviuvou ha muitos
+annos?
+
+Contei-lhe o que sabia da vida della e de meu pae. Escobar escutava
+attento, perguntando mais, pedindo explicação das passagens omissas ou
+só escuras. Quando eu lhe disse que não me lembrava nada da roça, tão
+pequenino viera, contou-me duas ou tres reminiscencias dos seus tres
+annos de edade, ainda agora frescas. E não contavamos voltar á roça?
+
+--Não, agora não voltamos mais. Olhe, aquelle preto que alli vae
+passando, é de lá. Thomaz!
+
+--Nhonhô!
+
+Estavamos na horta da minha casa, e o preto andava em serviço;
+chegou-se a nós e esperou.
+
+--É casado, disse eu para Escobar. Maria onde está?
+
+--Está soccando milho, sim, senhor.
+
+--Você ainda se lembra da roça, Thomaz?
+
+--Alembra, sim, senhor.
+
+--Bem, vá-se embora.
+
+Mostrei outro, mais outro, e ainda outro, este Pedro, aquelle José,
+aquelle outro Damião...
+
+--Todas as lettras do alphabeto, interrompeu Escobar.
+
+Com effeito, eram differentes lettras, e só então reparei nisto;
+apontei ainda outros escravos, alguns com os mesmos nomes,
+distinguindo-se por um appellido, ou da pessoa, como João Fulo, Maria
+Gorda, ou de nação como Pedro Benguella, Antonio Moçambique...
+
+--E estão todos aqui em casa? perguntou elle.
+
+--Não, alguns andam ganhando na rua, outros estão alugados. Não era
+possivel ter todos em casa. Nem são todos os da roça; a maior parte
+ficou lá.
+
+--O que me admira é que D. Gloria se acostumasse logo a viver em casa
+da cidade, onde tudo é apertado; a de lá é naturalmente grande.
+
+--Não sei, mas parece. Mamãe tem outras casas maiores que esta; diz
+porém que ha de morrer aqui. As outras estão alugadas. Algumas são bem
+grandes, como a da rua da Quitanda...
+
+--Conheço essa; é bonita.
+
+--Tem tambem no Rio Comprido, na Cidade-Nova, uma no Cattete...
+
+--Não lhe hão de faltar tectos, concluiu elle sorrindo com sympathia.
+
+Caminhámos para o fundo. Passámos o lavadouro; elle parou um instante
+ahi, mirando a pedra de bater roupa e fazendo reflexões a proposito
+do asseio; depois continuámos. Quaes foram as reflexões não me lembra
+agora; lembra-me só que as achei engenhosas, e ri, elle riu tambem. A
+minha alegria accordava a delle, e o ceu estava tão azul, e o ar tão
+claro, que a natureza parecia rir tambem comnosco. São assim as boas
+horas deste mundo. Escobar confessou esse accordo do interno com o
+externo, por palavras tão finas e altas que me commoveram; depois, a
+proposito da belleza moral que se ajusta á physica, tornou a falar de
+minha mãe, «um anjo dobrado», disse elle.
+
+
+
+
+XCIV
+
+Ideias arithmeticas.
+
+Não digo o mais, que foi muito. Nem elle sabia só elogiar e pensar,
+sabia tambem calcular depressa e bem. Era das cabeças arithmeticas
+de Holmes (2+2=4). Não se imagina a facilidade com que elle sommava
+ou multiplicava de cór. A divisão, que foi sempre uma das operações
+difficeis para mim, era para elle como nada: cerrava um pouco os olhos,
+voltados para cima, e sussurrava as denominações dos algarismos: estava
+prompto. Isto com sete, treze, vinte algarismos. A vocação era tal que
+o fazia amar os proprios signaes das sommas, e tinha esta opinião que
+os algarismos, sendo poucos, eram muito mais conceituosos que as vinte
+e cinco letras do alphabeto.
+
+--Ha lettras inuteis e lettras dispensaveis, dizia elle. Que serviço
+diverso prestam o _d_ e o _t_? Tem quasi o mesmo som. O mesmo digo do
+_b_ e do _p_, o mesmo do _s_, do _c_ e do _z_, o mesmo do _k_ e do
+_g_, etc. São trapalhices calligraphicas. Veja os algarismos: não ha
+dous que façam o mesmo officio; 4 é 4, e 7 é 7. E admire a belleza com
+que um 4 e um 7 formam esta cousa que se exprime por 11. Agora dobre 11
+e terá 22; multiplique por egual numero, dá 484, e assim por deante.
+Mas onde o perfeição é maior é no emprego do _zero._ O valor do _zero_
+é, em si mesmo, nada; mas o officio deste signal negativo é justamente
+augmentar. Um 5 sósinho é um 5; ponha-lhe dous 00, é 500. Assim, o que
+não vale nada faz valer muito, cousa que não fazem as letras dobradas,
+pois eu tanto _approvo_ com um _p_ como com dous _pp._
+
+Criado na orthographia de meus paes, custava-me a ouvir taes
+blasphemias, mas não ousava refutal-o. Com tudo, um dia, proferi
+algumas palavras de defesa, ao que elle respondeu que era um
+preconceito, e accrescentou que as ideias arithmeticas podiam ir ao
+infinito, com a vantagem que eram mais faceis de menear. Assim que,
+eu não era capaz de resolver de momento um problema philosophico ou
+linguistico, ao passo que elle podia sommar, em tres minutos, quaesquer
+quantias.
+
+--Por exemplo... dê-me um caso, dê-me uma porção de numeros que eu não
+saiba nem possa saber antes... olhe, dê-me o numero das casas de sua
+mãe e os alugueis de cada uma, e se eu não disser a somma total em
+dous, em um minuto, enforque-me!
+
+Acceitei a aposta, e na semana seguinte levei-lhe escriptos em um
+papel os algarismos das casas e dos alugueis. Escobar pegou no papel,
+passou-os pelos olhos afim de os decorar, e emquanto eu fitava o
+relogio, elle erguia as pupillas, cerrava as palpebras, e sussurrava...
+Oh! o vento não é mais rápido! Foi dito e feito; em meio minuto
+bradava-me:
+
+--Dá tudo 1:070$000 mensaes.
+
+Fiquei pasmado. Considera que eram não menos de nove casas, e que os
+alugueis variavam de uma para outra, indo de 70$000 a 180$000. Pois
+tudo isto em que eu gastaria tres ou quatro minutos,--e havia de ser
+no papel,--fel-o Escobar de cór, brincando. Olhava-me triumphalmente,
+e perguntava se não era exacto. Eu, só por lhe mostrar que sim, tirei
+do bolso o papelinho que levava com a somma total, e mostrei-lh'o; era
+aquillo mesmo, nem um erro: 1:070$000.
+
+--Isto prova que as ideias arithmeticas são mais simples, e portanto
+mais naturaes. A natureza é simples. A arte é atrapalhada.
+
+Fiquei tão enthusiasmado com a facilidade mental do meu amigo, que não
+pude deixar de abraçal-o. Era no pateo; outros seminaristas notaram a
+nossa effusão; um padre que estava com elles não gostou.
+
+--A modestia, disse-nos, não consente esses gestos excessivos; pódem
+estimar-se com moderação.
+
+Escobar observou-me que os outros e o padre falavam de inveja e
+propoz-me viver separados. Interrompi-o dizendo que não; se era
+inveja, tanto peor para elles.
+
+--Quebremos-lhe a castanha na bocca!
+
+--Mas...
+
+--Fiquemos ainda mais amigos que até aqui.
+
+Escobar apertou-me a mão ás escondidas, com tal força que ainda me
+doem os dedos. É illusão, de certo, se não é effeito das longas horas
+que tenho estado a escrever sem parar. Suspendamos a penna por alguns
+instantes...
+
+
+
+
+XCV
+
+O papa.
+
+A amizade de Escobar fez-se grande e fecunda; a de José Dias não lhe
+quiz ficar atraz. Na primeira semana disse-me este em casa:
+
+--Agora é certo que você vae sair já do seminario.
+
+--Como?
+
+--Espere até amanhã. Vou jogar com elles que me chamaram; amanhã, lá
+no quarto, no quintal, ou na rua, indo á missa, conto-lhe o que ha. A
+ideia é tão santa que não está mal no santuario. Amanhã, Bentinho.
+
+--Mas é cousa certa?
+
+--Certíssima!
+
+No dia seguinte revelou-me o mysterio. Ao primeiro aspecto,
+confesso que fiquei deslumbrado. Trazia uma nota de grandeza e de
+espiritualidade que falava aos meus olhos de seminarista. Era não
+menos que isto. Minha mãe, ao parecer delle, estava arrependida do que
+fizera, e desejaria ver-me cá fóra, mas entendia que o vinculo moral da
+promessa a prendia indissoluvelmente. Cumpria rompel-o, e para tanto
+valia a Escriptura, com o poder de desligar dado aos apostolos. Assim
+que, elle e eu iriamos a Roma pedir a absolvição do papa... Que me
+parecia?
+
+--Parece-me bem, respondi depois de alguns segundos de reflexão. Póde
+ser um bom remedio.
+
+--É o unico, Bentinho, é o unico! Vou já hoje conversar com D. Gloria,
+exponho-lhe tudo, e podemos partir daqui a dous mezes, ou antes...
+
+--Melhor é falar domingo que vem; deixe-me pensar primeiro...
+
+--Oh! Bentinho! interrompeu o aggregado. Pensar em que? Você o que
+quer... Digo? não se amofina com o seu velho? Você o que quer é
+consultar a uma pessoa.
+
+Rigorosamente, eram duas pessoas, Capitú e Escobar, mas eu neguei a pés
+juntos que quizesse consultar ninguem. E que pessoa, o reitor? Não era
+natural que lhe confiasse tal assumpto. Não, nem reitor, nem professor,
+nem ninguem; era só o tempo de reflectir, uma semana, no domingo daria
+a resposta, e desde já lhe dizia que a ideia não me parecia má.
+
+--Não?
+
+--Não.
+
+--Pois resolvamos hoje mesmo.
+
+--Não se vae a Roma brincando.
+
+--Quem tem bocca vae a Roma, e bocca no nosso caso é a moeda. Ora,
+você póde muito bem gastar comsigo... Commigo, não; um par de calças,
+tres camisas e o pão diário, não preciso mais. Serei como S. Paulo,
+que vivia do officio emquanto ia prégando a palavra divina. Pois eu
+vou, não prégal-a, mas buscal-a. Levaremos cartas do internuncio e
+do bispo, cartas para o nosso ministro, cartas de capuchinhos...
+Bem sei a objecção que se póde oppôr a esta ideia; dirão que é dado
+pedir a dispensa cá de longe; mas, além do mais que não digo, basta
+reflectir que é muito mais solemne e bonito ver entrar no Vaticano,
+e prostrar-se aos pés do papa o proprio objecto do favor, o levita
+promettido, que vae pedir para sua mãe ternissima e dulcissima a
+dispensa de Deus. Considere o quadro, você beijando o pé ao príncipe
+dos apostolos; Sua Santidade, com o sorriso evangelico, inclina-se,
+interroga, ouve, absolve e abençoa. Os anjos o contemplam, a Virgem
+recommenda ao santissimo filho que todos os seus desejos, Bentinho,
+sejam satisfeitos, e que o que você amar na terra seja egualmente amado
+no ceu...
+
+Não digo mais, porque é preciso acabar o capitulo, e elle não acabou o
+discurso. Falou a todos os meus sentimentos de catholico e de namorado.
+Vi a alma alliviada de minha mãe, vi a alma feliz de Capitú, ambas em
+casa, e eu com ellas, e elle comnosco, tudo mediante uma pequena viagem
+a Roma, que eu só geographicamente sabia onde ficava; espiritualmente,
+tambem, mas a distancia que estaria da vontade de Capitú é que
+não. Eis o ponto essencial. Se Capitú achasse longe, não iria; mas
+era preciso ouvil-a, e assim tambem a Escobar, que me daria um bom
+conselho.
+
+
+
+
+XCVI
+
+Um substituto.
+
+Expuz a Capitú a ideia de José Dias. Ouviu-me attentamente, e acabou
+triste.
+
+--Você indo, disse ella, esquece-me inteiramente.
+
+--Nunca!
+
+--Esquece. A Europa dizem que é tão bonita, e a Italia principalmente.
+Não é de lá que vêm as cantoras? Você esquece-me, Bentinho. E não
+haverá outro meio? D. Gloria está morta para que você saia do seminario.
+
+--Sim, mas julga-se presa pela promessa.
+
+Capitú não achava outra ideia, nem acabava de adoptar esta. De caminho,
+pediu-me que, se acaso fosse a Roma, jurasse que no fim de seis mezes
+estaria de volta.
+
+--Juro.
+
+--Por Deus?
+
+--Por Deus, por tudo. Juro que no fim de seis mezes estarei de volta.
+
+--Mas se o papa não tiver ainda soltado a você?
+
+--Mando dizer isso mesmo.
+
+--E se você mentir?
+
+Esta palavra doeu-me muito, e não achei logo que lhe replicasse.
+Capitú metteu o negocio á bulha, rindo e chamando-me disfarçado.
+Depois, declarou crer que eu cumpriria o juramento, mas ainda assim
+não consentiu logo; ia ver se não haveria outra cousa, e eu que visse
+tambem por meu lado.
+
+Quando voltei ao seminario, contei tudo ao meu amigo Escobar, que
+me ouviu com egual attenção e acabou com a mesma tristeza da outra.
+Os olhos, de costume fugidios, quasi me comeram de contemplação. De
+repente, vi-lhe no rosto um clarão, um reflexo de ideia. E ouvi-lhe
+dizer com volubilidade:
+
+--Não, Bentinho, não é preciso isso. Ha melhor,--não digo melhor,
+porque o Santo Padre vale sempre mais que tudo,--mas ha cousa que
+produz o mesmo effeito.
+
+--Que é?
+
+--Sua mãe fez promessa a Deus de lhe dar um sacerdote, não é? Pois bem,
+dê-lhe um sacerdote, que não seja você. Ella póde muito bem tomar a si
+algum mocinho orphão, fazel-o ordenar á sua custa, está dado um padre
+ao altar, sem que você...
+
+--Entendo, entendo, é isso mesmo.
+
+--Não acha? continuou elle. Consulte sobre isto o protonotario; elle
+lhe dirá se não é a mesma cousa, ou eu mesmo consulto, se quer; e se
+elle hesitar, fala-se ao Sr. bispo.
+
+Eu, reflectindo:
+
+--Sim, parece que é isso; realmente, a promessa cumpre-se, não se
+perdendo o padre.
+
+Escobar observou que, pelo lado economico, a questão era facil; minha
+mãe gastaria o mesmo que commigo, e um orphão não precisaria grandes
+commodidades. Citou a somma dos alugueis das casas, 1:070$000, além dos
+escravos...
+
+--Não ha outra cousa, disse eu.
+
+--E saimos juntos.
+
+--Você tambem?
+
+--Tambem eu. Vou melhorar o meu latim e saio; nem dou theologia. O
+proprio latim não é preciso; para quê no commercio?
+
+--_In hoc signo vinces_, disse eu rindo.
+
+Sentia-me pilherico. Oh! como a esperança alegra tudo. Escobar sorriu,
+parecendo gostar da resposta. Depois ficámos a cuidar de nós mesmos,
+cada um com os seus olhos perdidos, provavelmente. Os delle estavam
+assim, quando tornei de longe, e agradeci de novo o plano lembrado; não
+podia havel-o melhor. Escobar ouviu-me contentissimo.
+
+--Ainda uma vez, disse elle gravemente, a religião e a liberdade fazem
+boa companhia.
+
+
+
+
+XCVII
+
+A saida.
+
+Tudo se fez por esse teor. Minha mãe hesitou um pouco, mas acabou
+cedendo, depois que o padre Cabral, tendo consultado o bispo, voltou a
+dizer-lhe que sim, que podia ser. Saí do seminario no fim do anno.
+
+Tinha então pouco mais de dezesete... Aqui devia ser o meio do livro,
+mas a inexperiencia fez-me ir atraz da penna, e chego quasi ao fim
+do papel, com o melhor da narração por dizer. Agora não ha mais que
+leval-a a grandes pernadas, capitulo sobre capitulo, pouca emenda,
+pouca reflexão, tudo em resumo. Já esta pagina vale por mezes, outras
+valerão por annos, e assim chegaremos ao fim. Um dos sacrificios
+que faço a esta dura necessidade é a analyse das minhas emoções dos
+dezesete annos. Não sei se alguma vez tiveste dezesete annos. Se
+sim, deves saber que é a edade em que a metade do homem e a metade
+do menino formam um só curioso. Eu era um curiosissimo, diria o meu
+aggregado José Dias, e não diria mal. O que essa qualidade superlativa
+me rendeu não poderia nunca dizel-o aqui, sem cair no erro que acabo de
+condemnar; a analyse das minhas emoções daquelle tempo é que entrava
+no meu plano. Posto que filho do seminario e de minha mãe, sentia
+já, debaixo do recolhimento casto, uns assomos de petulancia e de
+atrevimento; eram do sangue, mas eram tambem das moças que na rua ou da
+janella não me deixavam viver socegado. Achavam-me lindo, e diziam-m'o;
+algumas queriam mirar de mais perto a minha belleza, e a vaidade é um
+principio de corrupção.
+
+
+
+
+XCVIII
+
+Cinco annos.
+
+Venceu a razão; fui-me aos estudos. Passei os dezoito annos, os
+dezenove, os vinte, os vinte e um; aos vinte e dous era bacharel em
+direito.
+
+Tudo mudára em volta de mim. Minha mãe resolvera-se a envelhecer;
+ainda assim os cabellos brancos vinham de má vontade, aos poucos e
+espalhadamente; a touca, os vestidos, os sapatos rasos e surdos eram
+os mesmos de outr'ora. Já não andaria tanto de um lado para outro. Tio
+Cosme padecia do coração e ia descançar. A prima Justina apenas estava
+mais edosa. José Dias tambem, não tanto que me não fizesse a fineza
+de ir assistir á minha graduação, e descer commigo a serra, lepido e
+viçoso, como se o bacharel fosse elle. A mãe de Capitú fallecera, o pae
+aposentára-se no mesmo cargo em que quiz dar demissão da vida.
+
+Escobar começava a negociar em café depois de haver trabalhado quatro
+annos em uma das primeiras casas do Rio de Janeiro. Era opinião de
+prima Justina que elle affagára a ideia de convidar minha mãe a
+segundas nupcias; mas, se tal ideia houve, cumpre não esquecer a grande
+differença de edade. Talvez elle não pensasse em mais que associal-a
+aos seus primeiros tentamens commerciaes, e de facto, a pedido meu,
+minha mãe adeantou-lhe alguns dinheiros, que elle lhe restituiu,
+logo que poude, não sem este remoque: «D. Gloria é medrosa e não tem
+ambição.»
+
+A separação não nos esfriou. Elle foi o terceiro na troca das cartas
+entre mim e Capitú. Desde que a viu animou-me muito no nosso amor. As
+relações que travou com o pae de Sancha estreitaram as que já trazia
+com Capitú, e fel-o servir a ambos nós, como amigo. A principio,
+custou-lhe a ella acceital-o, preferia José Dias, mas José Dias
+repugnava-me por um resto de respeito de creança. Venceu Escobar; posto
+que vexada, Capitú entregou-lhe a primeira carta, que foi mãe e avó
+das outras. Nem depois de casado suspendeu elle o obsequio... Que elle
+casou,--adivinha com quem,--casou com a boa Sancha, a amiga de Capitú,
+quasi irmã della, tanto que alguma vez, escrevendo-me, chamava a esta
+a «sua cunhadinha.» Assim se formam as affeições e os parentescos, as
+aventuras e os livros.
+
+
+
+
+XCIX
+
+O filho é a cara do pae.
+
+Minha mãe, quando eu regressei bacharel quasi estalou de felicidade.
+Ainda ouço a voz de José Dias, lembrando o evangelho de S. João, e
+dizendo ao ver-nos abraçados.
+
+--Mulher, eis ahi o teu filho! Filho, eis ahi a tua mãe!
+
+Minha mãe, entre lagrimas:
+
+--Mano Cosme, é a cara do pae, não é?
+
+--Sim, tem alguma cousa, os olhos, a disposição do rosto. É o pae, um
+pouco mais moderno, concluiu por chalaça. E diga-me agora, mana Gloria,
+não foi melhor que elle não teimasse em ser padre? Veja se este peralta
+daria um padre capaz.
+
+--Como vae o meu substituto?
+
+--Vae indo, ordena-se para o anno, respondeu tio Cosme. Has de ir ver a
+ordenação; eu tambem, se o meu senhor coração consentir. É bom que te
+sintas na alma do outro, como se recebesses em ti mesmo a sagração.
+
+--Justamente! exclamou minha mãe. Mas veja bem, mano Cosme, veja se não
+é a figura do meu defuncto. Olha, Bentinho, olha bem para mim. Sempre
+achei que te parecias com elle, agora é muito mais. O bigode é que
+desfaz um pouco...
+
+--Sim, mana Gloria, o bigode realmente... mas é muito parecido.
+
+E minha mãe beijava-me com uma ternura que não sei escrever. Tio
+Cosme, para alegral-a, chamava-me doutor, José Dias tambem, e todos em
+casa, a prima, os escravos, as visitas, Padua, a filha, e ella mesma
+repetiam-me o titulo.
+
+
+
+
+C
+
+«Tu serás feliz, Bentinho!»
+
+No quarto, desfazendo a mala e tirando a carta de bacharel de dentro
+da lata, ia pensando na felicidade e na gloria. Via o casamento e a
+carreira illustre, emquanto José Dias me ajudava calado e zeloso.
+Uma fada invisivel desceu alli, e me disse em voz egualmente macia e
+callida: «Tu serás feliz, Bentinho; tu vaes ser feliz.»
+
+--E porque não seria feliz? perguntou José Dias endireitando o tronco e
+fitando-me.
+
+--Você ouviu? perguntei eu erguendo-me tambem, espantado.
+
+--Ouvi o que?
+
+--Ouviu uma voz que dizia que eu serei feliz?
+
+--É boa! Você mesmo é que está dizendo...
+
+Ainda agora sou capaz de jurar que a voz era da fada; naturalmente as
+fadas, expulsas dos contos e dos versos, metteram-se no coração da
+gente e falam de dentro para fóra. Esta, por exemplo, muita vez a ouvi
+clara e distincta. Ha de ser prima das feiticeiras da Escocia: «Tu
+serás rei, Macbeth!»--«Tu serás feliz, Bentinho!» Ao cabo, é a mesma
+predicção, pela mesma toada universal e eterna. Quando voltei do meu
+espanto, ouvi o resto do discurso de José Dias:
+
+--... Ha de ser feliz, como merece, assim como mereceu esse diploma
+que alli está, que não é favor de ninguem. A distincção que tirou em
+todas as materias é prova disso; já lhe contei que ouvi da bocca dos
+lentes, em particular, os maiores elogios. Demais, a felicidade não é
+só a gloria, é tambem outra cousa... Ah! você não confiou tudo ao velho
+José Dias! O pobre José Dias está ahi para um canto, é cajú chupado,
+não vale nada; agora são os novos, os Escobares... Não lhe nego que é
+moço muito distincto, e trabalhador, e marido de truz; mas, **enfim, velho
+tambem sabe amar...
+
+--Mas que é?
+
+--Que ha de ser? Quem é que não sabe tudo?... Aquella intimidade de
+visinhos tinha de acabar nisto, que é verdadeiramente uma benção do
+ceu, porque ella é um anjo, é um _anjissimo_... Perdoe a cincada,
+Bentinho, foi um modo de accentuar a perfeição daquella moça. Cuidei
+o contrario, outr'ora; confundi os modos de creança com expressões de
+caracter, e não vi que essa menina travêssa e já de olhos pensativos
+era a flòr caprichosa de um fructo sadio e doce... Porque é que não
+me contou tambem o que outros sabem, e cá em casa está mais que
+adivinhado e approvado?
+
+--Mamãe approva devéras?
+
+--Pois então? Temos falado sobre isso, e ella fez-me o favor de pedir a
+minha opinião. Pergunte-lhe o que é que eu lhe disse em termos claros
+e positivos; pergunte-lhe. Disse-lhe que não podia desejar melhor nora
+para si, boa, discreta, prendada, amiga da gente... e uma dona de casa,
+que não lhe digo nada. Depois da morte da mãe, tomou conta de tudo.
+Padua, agora que se aposentou, não faz mais que receber o ordenado e
+entregal-o á filha. A filha é que distribue o dinheiro, paga as contas,
+faz o rol das despezas, cuida de tudo, mantimento, roupa, luz; você
+já a viu o anno passado. E quanto á formosura você sabe melhor que
+ninguem...
+
+--Mas, devéras, mamãe consultou o senhor sobre o nosso casamento?
+
+--Positivamente, não; fez-me o favor de perguntar se Capitú não daria
+uma boa esposa; eu é que, na resposta, falei em nora. D. Gloria não
+negou e até deu um ar de riso.
+
+--Mamãe sempre que me escrevia, falava de Capitú.
+
+--Você sabe que ellas se dão muito, e por isso é que sua prima anda
+cada vez mais amuada. Talvez agora case mais depressa.
+
+--Prima Justina?
+
+--Não sabe? São contos, naturalmente; mas emfim, o doutor João da Gosta
+enviuvou ha poucos mezes, e dizem (não sei, o protonotario é que me
+contou) dizem que os dous andam meio inclinados a acabar com a viuvez,
+entre si, casando-se. Ha de ver que não ha nada, mas não é fora de
+proposito, comquanto ella sempre achasse que o doutor era um feixe de
+ossos... Só se ella é um cemiterio, commentou rindo; e logo serio: Digo
+isto por gracejo...
+
+Não ouvi o resto. Ouvia só a voz da minha fada interior, que me
+repetia, mas já então sem palavras: «Tu serás feliz, Bentinho » E a voz
+de Capitú me disse a mesma cousa, com termos diversos, e assim tambem
+a de Escobar, os quaes ambos me confirmaram a noticia de José Dias
+pela sua propria impressão. Emfim, minha mãe, algumas semanas depois,
+quando lhe fui pedir licença para casar, além do consentimento, deu-me
+egual prophecia, salva a redacção própria de mãe: «Tu serás feliz, meu
+filho!»
+
+
+
+
+CI
+
+No ceu.
+
+Pois sejamos felizes de uma vez, antes que o leitor pegue em si, morto
+de esperar, e vá espairecer a outra parte; casemo-nos. Foi em 1865,
+uma tarde do março, por signal que chovia. Quando chegámos ao alto da
+Tijuca, onde era o nosso ninho de noivos, o ceu recolheu a chuva e
+accendeu as estrellas, não só as já conhecidas, mas ainda as que só
+serão descobertas daqui a muitos seculos. Foi grande fineza e não foi
+unica. S. Pedro, que tem as chaves do ceu, abriu-nos as portas delle,
+fez-nos entrar, e depois de tocar-nos com o baculo, recitou alguns
+versiculos da sua primeira epistola: «As mulheres sejam sujeitas a seus
+maridos... Não seja o adorno dellas o enfeite dos cabellos riçados ou
+as rendas de ouro, mas o homem que está escondido no coração.... Do
+mesmo modo, vós, maridos, co-habitai com ellas, tratando-as com honra,
+como a vasos mais fracos, e herdeiras comvosco da graça da vida....»
+Em seguida, fez signal aos anjos, e elles entoaram um trecho do
+_Cantico_, tão concertadamente, que desmentiriam a hypothese do tenor
+italiano, se a execução fosse na terra; mas era no ceu. A musica ia com
+o texto, como se houvessem nascido juntos, á maneira de uma opera de
+Wagner. Depois, visitámos uma parte daquelle logar infinito. Descança
+que não farei descripção alguma, nem a lingua humana possue fórmas
+idoneas para tanto.
+
+Ao cabo, póde ser que tudo fosse um sonho; nada mais natural a um
+ex-seminarista que ouvir por toda a parte latim e Escriptura. É verdade
+que Capitú, que não sabia Escriptura nem latim, decorou algumas
+palavras, como estas, por exemplo: «Sentei-me á sombra daquelle que
+tanto havia desejado.» Quanto ás de S. Pedro, disse-me no dia seguinte
+que estava por tudo, que eu era a unica renda e o unico enfeite que
+jamais poria em si. Ao que eu repliquei que a minha esposa teria sempre
+as mais finas rendas deste mundo.
+
+
+
+
+CII
+
+De casada.
+
+Imagina um relogio que só tivesse pendulo, sem mostrador, de maneira
+que não se vissem as horas escriptas. O pendulo iria de um lado para
+outro, mas nenhum signal externo mostraria a marcha do tempo. Tal foi
+aquella semana da Tijuca.
+
+De quando em quando, tornavamos ao passado e divertiamo-nos em
+relembrar as nossas tristezas e calamidades, mas isso mesmo era um modo
+de não sairmos de nós. Assim vivemos novamente a nossa longa espera de
+namorados, os annos da adolescencia, a denuncia que está nos primeiros
+capitulos, e riamos de José Dias, que conspirou a nossa desunião, e
+acabou festejando o nosso consorcio. Uma ou outra vez, falavamos em
+descer, mas as manhãs marcadas eram sempre de chuva ou de sol, e nós
+esperávamos um dia encoberto, que teimava em não vir.
+
+Não obstante, achei que Capitú estava um tanto impaciente por descer.
+Concordava em ficar, mas ia falando do pae e de minha mãe, da falta de
+noticias nossas, disto e daquillo, a ponto que nos arrufámos um pouco.
+Perguntei-lhe se já estava aborrecida de mim.
+
+--Eu?
+
+--Parece.
+
+--Você ha de ser sempre creança, disse ella fechando-me a cara entre
+as mãos e chegando muito os olhos aos meus. Então eu esperei tantos
+annos para aborrecer-me em sete dias? Não, Bentinho; digo isto porque
+é realmente assim, creio que elles pódem estar desejosos de ver-nos e
+imaginar alguma doença, e, confesso, pela minha parte, que queria ver
+papae.
+
+--Pois vamos amanhã.
+
+--Não; ha de ser com tempo encoberto, redarguiu rindo.
+
+Peguei-lhe no riso e na palavra, mas a impaciencia continuou, e
+descemos com sol.
+
+A alegria com que poz o seu chapéo de casada, e o ar de casada com
+que me deu a mão para entrar e sair do carro, e o braço para andar
+na rua, tudo me mostrou que a causa da impaciencia de Capitú eram os
+signaes exteriores do novo estado. Não lhe bastava ser casada entre
+quatro paredes e algumas arvores; precisava do resto do mundo tambem.
+E quando eu me vi embaixo, pisando as ruas com ella, parando, olhando,
+falando, senti a mesma cousa. Inventava passeios para que me vissem,
+me confirmasses e me invejassem. Na rua, muitos voltavam a cabeça
+curiosos, outros paravam, alguns perguntavam: «Quem são?» e um sabido
+explicava: «Este é o doutor Santiago, que casou ha dias com aquella
+moça, D. Capitolina, depois de uma longa paixão de creanças; moram na
+Gloria, as familias residem em Matacavallos.» E ambos os dous: « É uma
+mocetona!»
+
+
+
+
+CIII
+
+A felicidade tem boa alma.
+
+Mocetona é vulgar; José Dias achou melhor. Foi a unica pessoa cá de
+baixo que nos visitou na Tijuca, levando abraços dos nossos e palavras
+suas, mas palavras que eram musicas verdadeiras; não as ponho aqui para
+ir poupando papel, mas foram deliciosas. Um dia, comparou-nos a aves
+criadas em dous vãos de telhado contiguos. Imagina o resto, as aves
+emplumando as azas e surtindo ao ceu, e o ceu agora mais largo para
+poder contel-as tambem. Nenhum de nós riu; ambos escutavamos commovidos
+e convencidos, esquecendo tudo, desde a tarde de 1858.... A felicidade
+tem boa alma.
+
+
+
+
+CIV
+
+As pyramides.
+
+José Dias dividia-se agora entre mim e minha mãe, alternando os
+jantares da Gloria com os almoços de Matacavallos. Tudo corria bem.
+Ao fim de dous annos de casado, salvo o desgosto grande de não ter um
+filho, tudo corria bem. Perdera meu sogro, é verdade, e o tio Cosme
+estava por pouco, mas a saude de minha mãe era boa; a nossa excellente.
+
+Eu era advogado de algumas casas ricas, e os processos vinham chegando.
+Escobar contribuira muito para as minhas estréas no fòro. Interveiu com
+um advogado celebre para que me admitisse á sua banca, e arranjou-me
+algumas procurações, tudo espontaneamente.
+
+Demais, as nossas relações de familia estavam previamente feitas;
+Sancha e Capitú continuavam depois de casadas a amizade da escola,
+Escobar e eu a do seminario. Elles moravam em Andarahy, aonde queriam
+que fossemos muitas vezes, e, não podendo ser tantas como desejavamos,
+iamos lá jantar alguns domingos, ou elles vinham fazel-o comnosco.
+Jantar é pouco. Iamos sempre muito cedo, logo depois do almoço, para
+gozarmos o dia compridamente, e só nos separavamos ás nove, dez e onze
+horas, quando não podia ser mais. Agora que penso naquelles dias de
+Andarahy e da Gloria, sinto que a vida e o resto não sejam tão rijos
+como as Pyramides.
+
+Escobar e a mulher viviam felizes; tinham uma filhinha. Em tempo ouvi
+falar de uma aventura do marido, negocio de theatro, não sei que actriz
+ou bailarina, mas se foi certo, não deu escandalo. Sancha era modesta,
+o marido trabalhador. Como eu um dia dissesse a Escobar que lastimava
+não ter um filho, replicou-me:
+
+--Homem, deixa lá. Deus os dará quando quizer, e se não der nenhum é
+que os quer para si, e melhor será que fiquem no ceu.
+
+--Uma creanca, um filho é o complemento natural da vida.
+
+--Virá, so fòr necessário.
+
+Não vinha. Capitú pedia-o em suas orações, eu mais de uma vez dava
+por mim a rezar e a pedil-o. Já não era como em creança; agora pagava
+antecipadamente, como os alugueis da casa.
+
+
+
+
+CV
+
+Os braços.
+
+No mais, tudo corria bem. Capitú gostava de rir e divertir-se, e, nos
+primeiros tempos, quando iamos a passeios ou espectaculos, era como
+um passaro que saisse da gaiola. Arranjava-se com graça e modestia.
+Embora gostasse de joias, como as outras moças, não queria que eu lhe
+comprasse muitas nem caras, e um dia affligiu-se tanto que prometti não
+comprar mais nenhuma; mas foi só por pouco tempo.
+
+A nossa vida era mais ou menos placida. Quando não estavamos com a
+familia ou com amigos, ou se não iamos a algum espectaculo ou serão
+particular (e estes eram raros) passavamos as noites á nossa janella
+da Gloria, mirando o mar e o ceu, a sombra das montanhas e dos navios,
+ou a gente que passava na praia. Ás vezes, eu contava a Capitú a
+historia da cidade, outras dava-lhe noticias de astronomia; noticias
+de amador que ella escutava attenta e curiosa, nem sempre tanto que não
+cochillasse um pouco. Não sabendo piano, apprendeu depois de casada, e
+depressa, e dahi a pouco tocava nas casas de amizade. Na Gloria era uma
+das nossas recreações; tambem cantava, mas pouco e raro, por não ter
+voz; um dia chegou a entender que era melhor não cantar nada e cumpriu
+o alvitre. De dansar gostava, e enfeitava-se com amor quando ia a um
+baile; os braços é que... Os braços merecem um periodo.
+
+Eram bellos, e na primeira noite que os levou nús a um baile, não creio
+que houvesse eguaes na cidade, nem os seus, leitora, que eram então de
+menina, se eram nascidos, mas provavelmente estariam ainda no marmore,
+donde vieram, ou nas mãos do divino esculptor. Eram os mais bellos da
+noite, a ponto que me encheram de desvanecimento. Conversava mal com
+as outras pessoas, só para vel-os, por mais que elles se entrelaçassem
+aos das casacas alheias. Já não foi assim no segundo baile; nesse,
+quando vi que os homens não se fartavam de olhar para elles, de os
+buscar, quasi de os pedir, e que roçavam por elles as mangas pretas,
+fiquei vexado e aborrecido. Ao terceiro não fui, e aqui tive o apoio
+de Escobar, a quem confiei candidamente os meus tedios; concordou logo
+commigo.
+
+--Sanchinha tambem não vae, ou irá de mangas compridas; o contrario
+parece-me indecente.
+
+--Não é? Mas não diga o motivo; hão de chamar-nos seminaristas. Capitú
+já me chamou assim.
+
+Nem por isso deixei de contar a Capitú a approvação de Escobar. Ella
+sorriu e respondeu que os braços de Sanchinha eram mal feitos, mas
+cedeu depressa, e não foi ao baile; a outros foi, mas levou-os meio
+vestidos de escomilha ou não sei quê, que nem cobria nem descobria
+inteiramente, como o sendal de Camões.
+
+
+
+
+CVI
+
+Dez libras esterlinas.
+
+Já disse que era poupada, ou fica dito agora, e não só de dinheiro
+mas tambem de cousas usadas, dessas que se guardam por tradição, por
+lembrança ou por saudade. Uns sapatos, por exemplo, uns sapatinhos
+rasos de fitas pretas que se cruzavam no peito do pé e principio da
+perna, os ultimos que usou antes de calçar botinas, trouxe-os para
+casa, e tirava-os de longe em longe da gaveta da commoda, com outras
+velharias, dizendo-me que eram pedaços de creança. Minha mãe, que tinha
+o mesmo genio, gostava de ouvir falar e fazer assim.
+
+Quanto ás puras economias de dinheiro, direi um caso, e basta. Foi
+justamente por occasião de uma licção de astronomia, á praia da Gloria.
+Sabes que alguma vez a fiz cochilar um pouco. Uma noite perdeu-se em
+fitar o mar, com tal força e concentração, que me deu ciumes.
+
+--Você não me ouve, Capitú.
+
+--Eu? Ouço perfeitamente.
+
+--O que é que eu dizia?
+
+--Você... você falava de Sirius.
+
+--Qual, Sirius, Capitú. Ha vinte minutos que eu falei de Sirius.
+
+--Falava de... falava de Marte, emendou ella apressada.
+
+Realmente, era de Marte, mas é claro que só apanhára o som da palavra,
+não o sentido. Fiquei serio, e o impeto que me deu foi deixar a sala;
+Capitú, ao percebel-o, fez-se a mais mimosa das creaturas, pegou-me na
+mão, confessou-me que estivera contando, isto é, sommando uns dinheiros
+para descobrir certa parcella que não achava. Tratava-se de uma
+conversão de papel em ouro. A principio suppuz que era um recurso para
+desentadar-me, mas d'ahi a pouco estava eu mesmo calculando tambem, já
+então com papel e lapis, sobre o joelho, e dava a differença que ella
+buscam.
+
+--Mas que libras são essas? perguntei-lhe no fim.
+
+Capitú fitou-me rindo, e replicou que a culpa de romper o segredo era
+minha. Ergueu-se, foi ao quarto e voltou com dez libras esterlinas, na
+mão; eram as sobras do dinheiro que eu lhe dava mensalmente para as
+despezas.
+
+--Tudo isto?
+
+--Não é muito, dez libras só; é o que a avarenta de sua mulher poude
+arranjar, em alguns mezes, concluiu fazendo tinir o ouro na mão.
+
+--Quem foi o corretor?
+
+--O seu amigo Escobar.
+
+--Como é que elle não me disse nada?
+
+--Foi hoje mesmo.
+
+--Elle esteve cá?
+
+--Pouco antes de você chegar; eu não disse para que você não
+desconfiasse.
+
+Tive vontade de gastar o dobro do ouro em algum presente commemorativo,
+mas Capitú deteve-me. Ao contrario, consultou-me sobre o que haviamos
+de fazer daquellas libras.
+
+--São suas, respondi.
+
+--São nossas, emendou.
+
+--Pois você guarde-as.
+
+No dia seguinte, fui ter com Escobar ao armazem, e ri-me do segredo de
+ambos. Escobar sorriu e disse-me que estava para ir ao meu escriptorio
+contar-me tudo. A cunhadinha (continuava a dar este nome a Capitú)
+tinha-lhe falado naquillo por occasião da nossa ultima visita a
+Andarahy, e disse-lhe a razão do segredo.
+
+--Quando contei isto a Sanchinha, concluiu elle, ficou espantada: «Como
+é que Capitú póde economisar, agora que tudo está tão caro?»--«Não sei,
+filha; sei que arranjou dez libras.»
+
+--Vê se ella apprende tambem.
+
+--Não creio; Sanchinha não é gastadeira, mas tambem não é poupada; o
+que lhe dou chega, mas só chega.
+
+Eu, depois de alguns instantes de reflexão:
+
+--Capitú é um anjo!
+
+Escobar concordou de cabeça, mas sem enthusiasmo, como quem sentia não
+poder dizer o mesmo da mulher. Assim pensarias tu tambem, tão certo
+é que as virtudes das pessoas proximas nos dão tal ou qual vaidade,
+orgulho ou consolação.
+
+
+
+
+CVII
+
+Ciumes do mar.
+
+Se não fosse a astronomia, não descobriria eu tão cedo as dez libras
+de Capitú; mas não é por isso que torno a ella, é para que não cuides
+que a vaidade de professor é que me fez padecer com a desattenção de
+Capitú e ter ciumes do mar. Não, meu amigo. Venho explicar-te que tive
+taes ciumes pelo que podia estar na cabeça de minha mulher, não fóra
+ou acima della. É sabido que as distracções de uma pessoa pódem ser
+culpadas, metade culpadas, um terço, um quinto, um decimo de culpadas,
+pois que em materia de culpa a graduação é infinita. A recordação
+de uns simples olhos basta para fixar outros que os recordem e se
+deleitem com a imaginação delles. Não é mister peccado effectivo e
+mortal, nem papel trocado, simples palavra, aceno, suspiro ou signal
+ainda mais miudo e leve. Um anonymo ou anonyma que passe na esquina da
+rua faz com que mettamos Sirius dentro do Marte, e tu sabes, leitor,
+a differença que ha de um a outro na distancia e no tamanho, mas a
+astronomia tem dessas confusões. Foi isto que mo fez empallidecer,
+calar e querer fugir da sala para voltar. Deus sabe quando;
+provavelmente, dez minutos depois. Dez minutos depois, estaria eu outra
+vez na sala, ao piano ou á janella, continuando a licção interrompida:
+
+--Marte está a distancia de...
+
+Tão pouco tempo? Sim, tão pouco tempo, dez minutos. Os meus ciumes eram
+intensos, mas curtos; com pouco derrubaria tudo, mas com o mesmo pouco
+ou menos reconstruiria o ceu, a terra e as estrellas.
+
+A verdade é que fiquei mais amigo de Capitú, se era possivel, ella
+ainda mais meiga, o ar mais brando, as noites mais claras, e Deus mais
+Deus. E não foram propriamente as dez libras esterlinas que fizeram
+isto, nem o sentimento de economia que revelavam e que eu conhecia,
+mas as cautelas que Capitú empregou para o fim de descobrir-me um dia
+o cuidado de todos os dias. Escobar tambem se me fez mais pegado ao
+coração. As nossas visitas foram-se tornando mais proximas, e as nossas
+conversações mais intimas.
+
+
+
+
+CVIII
+
+Um filho.
+
+Pois nem todo isso me matava a sède de um filho, um triste menino
+que fosse, amarello e magro, mas um filho, um filho proprio da minha
+pessoa. Quando iamos a Andarahy e viamos a filha de Escobar e Sancha,
+familiarmente Capitúsinha, por differençal-a de minha mulher, visto
+que lhe deram o mesmo nome á pia, ficavamos cheios de invejas. A
+pequena era graciosa e gorducha, faladeira e curiosa. Os paes, como
+os outros paes, contavam as travessuras e agudezas da menina, e nós,
+quando voltavamos á noite para a Gloria, vinhamos suspirando as nossas
+invejas, e pedindo mentalmente ao ceu que nol-as matassem...
+
+... As invejas morreram, as esperanças nasceram, e não tardou que
+viesse ao mundo o fructo dellas. Não era escasso nem feio, como eu já
+pedia, mas um rapagão robusto e lindo.
+
+A minha alegria quando elle nasceu, não sei dizel-a; nunca a tive
+egual, nem creio que a possa haver identica, ou que de longe ou
+de perto se pareça com ella. Foi uma vertigem e uma loucura. Não
+cantava na rua por natural vergonha, nem em casa para não affligir
+Capitú convalescente. Tambem não caía, porque ha um deus para os paes
+novos. Fóra, vivia com o espirito no menino; em casa, com os olhos, a
+observal-o, a miral-o, a perguntar-lhe donde vinha, e porque é que eu
+estava tão inteiramente nelle, e varias outras tolices sem palavras,
+mas pensadas ou deliradas a cada instante. Talvez perdi algumas causas
+no fòro por descuido.
+
+Capitú não era menos terna para elle e para mim. Davamos as mãos um
+ao outro, e, quando não olhavamos para o nosso filho, conversavamos
+de nós, do nosso passado e do nosso futuro. As horas de maior encanto
+e mysterio eram as de amamentação. Quando eu via o meu filho chupando
+o leite da mãe, e toda aquella união da natureza para a nutrição e
+vida de um ser que não fòra nada, mas que o nosso destino affirmou
+que seria, e a nossa constancia e o nosso amor fizeram que chegasse a
+ser, ficava que não sei dizer nem digo; positivamente não me lembra, e
+receio que o que dissesse me saisse escuro.
+
+Escusai minucias. Assim que, não é preciso contar a dedicação de minha
+mãe e de Sancha, que tambem foi passar com Capitú os primeiros dias e
+noites. Quiz rejeitar o obsequio de Sandia; respondeu-me que eu não
+tinha nada com isso; tambem Capitú, em solteira, fora tratal-a á rua
+dos Invalidos.
+
+--Não se lembra que o senhor foi lá vel-a?
+
+--Lembra-me; mas Escobar...
+
+--Eu virei jantar com vocês, e ás noites sigo para Andarahy; oito dias,
+e está tudo passado. Bem se vê que você é pae de primeira viagem.
+
+--Tambem você; onde está a segunda?
+
+Usavamos então estas graças em familia. Hoje, que me recolhi á minha
+casmurrice, não sei se ainda ha tal linguagem, mas deve haver. Escobar
+cumpriu o que disse; jantava comnosco, e ia-se á noite. Sobre tarde
+desciamos á praia ou iamos ao Passeio Publico, fazendo elle os seus
+calculos, eu os meus sonhos. Eu via o meu filho medico, advogado,
+negociante, metti-o em varias universidades e bancos, e até acceitei a
+hypothese de ser poeta. A possibilidade de politico foi consultada, e
+cri que me saisse orador, e grande orador.
+
+--Póde ser, redarguia Escobar; ninguem diria o que veiu a ser
+Desmosthenes.
+
+Escobar acompanhava muita vez as minhas creancices; tambem interrogava
+o futuro. Chegou a falar da hypothese de casar o pequeno com a filha.
+A amizade existe; esteve toda nas mãos com que apertei as de Escobar,
+ao ouvir-lhe isto, e na total ausencia de palavras com que alli
+assignei o pacto; estas vieram depois, de atropelo, afinadas pelo
+coração, que batia com grande força. Acceitei a lembrança, e propuz
+que os encaminhassemos a este fim, pela educarão egual e commum, pela
+infancia unida e correcta.
+
+Era minha ideia que Escobar fosse padrinho do pequeno; a madrinha devia
+ser e seria minha mãe. Mas a primeira parte se trocou por intervenção
+do tio Cosme, que, ao ver a creança, disse-lhe entre outros carinhos.
+
+--Anda, toma o benção a teu padrinho, velhaco.
+
+E, voltando-se para mim:
+
+--Não desisto do favor; e ha de ser depressa o baptisado, antes que a
+minha doença me leve de vez.
+
+Contei discretamente a anecdota a Escobar, para que elle me
+comprehendesse e desculpasse; riu-se e não se magoou. Fez mais, quiz
+que o almoço do baptisado fosse na chacara delle, e foi. Eu ainda
+tentei espaçar a cerimonia a ver se tio Cosme succumbia primeiro á
+doença, mas parece que esta era mais de aborrecer que de matar. Não
+houve remedio senão levar o menino á pia, onde se lhe deu o nome de
+Ezequiel; era o de Escobar, e eu quiz supprir deste modo a falta de
+compadrio.
+
+
+
+
+CIX
+
+Um filho unico.
+
+Ezequiel, quando começou o capitulo anterior, não era ainda gerado;
+quando acabou era christão e catholico. Este outro é destinado a fazer
+chegar o meu Ezequiel aos cinco annos, um rapagão bonito, com os seus
+olhos claros, já inquietos, como se quizessem namorar todas as moças da
+visinhança, ou quasi todas.
+
+Agora, se considerares que elle foi unico, que nenhum outro veiu, certo
+nem incerto, morto nem vivo, um só e unico, imaginarás os cuidados que
+nos deu, os somnos que nos tirou, e que sustos nos metteram as crises
+dos dentes e outras, a menor febricula, toda a existencia commum das
+creanças. A tudo acudiamos, segundo cumpria e urgia, cousa que não era
+necessario dizer, mas ha leitores tão obtusos, que nada entendem, se se
+lhes não relata tudo e o resto. Vamos ao resto.
+
+
+
+
+CX
+
+Rasgos da infancia.
+
+O resto come-me ainda muitos capitulos; ha vidas que os tem menos, e
+fazem-se ainda assim completas e acabadas.
+
+Aos cinco e seis annos, Ezequiel não parecia desmentir os meus sonhos
+da praia da Gloria; ao contrario, adivinhavam-se nelle todos as
+vocações possiveis, desde vadio até apostolo. Vadio é aqui posto no
+bom sentido, no sentido de homem que pensa e cala; mettia-se ás vezes
+comsigo, e nisto fazia lembrar a mãe, desde pequena. Assim tambem,
+agitava-se todo e instava por ir persuadir ás visinhas que os doces que
+eu lhe trazia eram doces devéras; não o fazia antes de farto d'elles,
+mas tambem os apostolos não levam a boa doutrina senão depois de a
+terem toda no coração. Escobar, bom negociante, opinava que a causa
+principal desta outra inclinação, talvez fosse convidar implicitamente
+as visinhas a egual apostolado, quando os paes lhe trouxessem doces; e
+ria-se da propria graça, e annunciava-me que o faria seu socio.
+
+Gostava de musica, não menos que de doce, e eu disse a Capitú que lhe
+tirasse ao piano o prégão do preto das cocadas de Matacavallos...
+
+--Não me lembra.
+
+--Não diga isso; você não se lembra daquelle preto que vendia doce, ás
+tardes...
+
+--Lembro-me de um preto que vendia doce, mas não sei mais da toada.
+
+--Nem das palavras?
+
+--Nem das palavras.
+
+A leitora, que ainda se lembrará das palavras, dado que me tenha lido
+com attenção, ficará espantada de tamanho esquecimento, tanto mais que
+lhe lembrarão ainda as vozes da sua infancia e adolescencia; haverá
+olvidado algumas, mas nem tudo fica na cabeça. Assim me replicou
+Capitú, e não achei treplica. Fiz, porém, o que ella não esperava;
+corri aos meus papeis velhos. Em S. Paulo, quando estudante, pedi a
+um professor de musica que me transcrevesse a toada do prégão; elle
+o fez com prazer (bastou-me repetir-lh'o de memoria), e eu guardei o
+papelinho; fui procural-o. D'ahi a pouco interrompi um romance que ella
+tocava, com o pedacinho de papel na mão. Expliquei-lh'o; ella teclou as
+dezeseis notas.
+
+Capitú achou á toada um sabor particular, quasi delicioso; contou ao
+filho a historia do prégão, e assim o cantava e teclava. Ezequiel
+aproveitou a musica para pedir-me que desmentisse o texto dando-lhe
+algum dinheiro.
+
+Fazia de medico, de militar, de actor e bailarino. Nunca lhe dei
+oratorios; mas cavallos de pau e espada á cinta eram com elle. Já não
+falo dos batalhões que passavam na rua, e que elle corria a ver: todas
+as creancas o fazem. O que nem todas fazem é ter os olhos que esta
+tinha. Em nenhuma vi as ancias de gosto com que assistia á passagem da
+tropa e ouvia tocar a marcha dos tambores.
+
+--Olha, papae! olha!
+
+--Estou vendo, meu filho!
+
+--Olha o commandante! Olha o cavallo do commandante! Olha os soldados!
+
+Um dia amanheceu tocando corneta com a mão; dei-lhe uma cornetinha de
+metal. Comprei-lhe soldadinhos de chumbo, gravuras de batalhas que
+elle mirava por muito tempo, querendo que lhe explicasse uma peça
+de artilharia, um soldado caído, outro de espada alçada, e todos os
+seus amores iam para o de espada alçada. Um dia (ingenua edade!)
+perguntou-me impaciente:
+
+--Mas, papae, porque é que elle não deixa cair a espada de uma vez?
+
+--Meu filho, é porque é pintado.
+
+--Mas então porque é que elle se pintou?
+
+Ri-me do engano e expliquei-lhe que não era o soldado que se tinha
+pintado no papel, mas o gravador, e tive de explicar tambem, o que era
+gravador e o que era gravura: as curiosidades de Capitú, em summa.
+
+Taes são os principaes rasgos da infancia: mais um e acabo o capitulo.
+Um dia, na chacara de Escobar, deu com um gato que tinha um rato
+atravessado na bocca. O gato nem deixava a presa, nem via por onde
+fugisse. Ezequiel não disse nada, deteve-se, acocorou-se, e ficou
+olhando. Ao vel-o assim attento, perguntámos-lhe de longe o que era;
+fez-nos signal que nos calassemos. Escobar concluiu:
+
+--Vão ver que é o gato que apanhou algum rato. Os ratos continuam a
+infestar-me a casa, que é o diabo. Vamos ver.
+
+Capitú quiz tambem ver o filho; acompanhei-os. Effectivamente, era
+um gato e um rato, lance banal, sem interesse nem graça. A unica
+circumstancia particular era estar o rato vivo, esperneando, e o meu
+pequeno enlevado. De resto, o instante foi curto. O gato, logo que
+sentiu mais gente, dispoz-se a correr; o menino, sem tirar-lhe os olhos
+de cima, fez-nos outro signal de silencio; e o silencio não podia
+ser maior. Ia dizer religioso, risquei a palavra, mas aqui a ponho
+outra vez, não só por significar a totalidade do silencio, mas tambem
+porque havia naquella acção do gato e do rato alguma cousa que prendia
+com ritual. O unico rumor eram os ultimos guinchos do rato, aliás
+frouxissimos; as pernas mal se lhe moviam e desordenadamente. Um tanto
+aborrecido, bati palmas para que o gato fugisse, e o gato fugiu. Os
+outros nem tiveram tempo de atalhar-me, Ezequiel ficou abatido.
+
+--Ora, papae!
+
+--Que foi? A esta hora o rato está comido.
+
+--Pois sim, mas eu queria ver.
+
+Os dous riram-se; eu mesmo achei-lhe graça.
+
+
+
+
+CXI
+
+Contado depressa.
+
+Achei-lhe graça, e não lh'a nego ainda agora, apesar do tempo passado,
+dos successos occorridos, e da tal ou qual sympathia ao rato que acho
+em mim; teve graça. Não me pesa dizel-o; os que amam a natureza como
+ella quer ser amada, sem repudio parcial nem exclusões injustas, não
+acham nella nada inferior. Amo o rato, não desamo o gato. Já pensei
+em os fazer viver juntos, mas vi que são incompativeis. Em verdade,
+um roe-me os livros, outro o queijo; mas não é muito que eu lhes
+perdoe, se já perdoei a um cachorro que me levou o descanço em peores
+circumstancias. Contarei o caso depressa.
+
+Foi quando nasceu Ezequiel; a mãe estava com febre, Sancha vivia ao pé
+della, e tres cães na rua latiam toda a noite. Procurei o fiscal, e foi
+como se procurasse o leitor, que só agora sabe disto. Então resolvi
+matal-os; comprei veneno, mandei fazer tres bolas de carne, e eu mesmo
+inseri nellas a droga. De noite, saí; era uma hora; nem a doente, nem
+a enfermeira podiam dormir, com a bulha dos cães. Quando elles me
+viram, afastaram-se, dous desceram para o lado da praia do Flamengo, um
+ficou a curta distancia, como que esperando. Fui-me a elle, assobiando
+e dando estalinhos com os dedos. O diabo ainda latiu, mas fiado nos
+signaes de amizade, foi-se calando, até que se calou de todo. Como
+eu continuasse, elle veiu a mim, devagar, mexendo a cauda, que é o
+seu modo de rir delles; eu tinha já na mão as bolas envenenadas, e ia
+deitar-lhe uma dellas, quando aquelle riso especial, carinho, confiança
+ou o que quer que seja, me atou a vontade; fiquei assim não sei como,
+tocado de pena e guardei as bolas no bolso. Ao leitor póde parecer
+que foi o cheiro da carne que remetteu o cão ao silencio. Não digo
+que não; eu cuido que elle não me quiz attribuir perfidia ao gesto, e
+entregou-se-me. A conclusão é que se livrou.
+
+
+
+
+CXII
+
+As imitações de Ezequiel.
+
+Tal não faria Ezequiel. Não comporia bolas envenenadas, supponho, mas
+não as recusaria tambem. O que faria com certeza era ir atraz dos cães,
+a pedrada, até onde lhe dessem as pernas. E se tivesse um pau, iria a
+pau. Capitú morria por aquelle batalhador futuro.
+
+--Não sae a nós, que gostamos da paz, disse-me ella um dia, mas papae
+em moço era assim tambem; mamãe é que contava.
+
+--Sim, não sairá maricas, repliquei; eu só lhe descubro um
+defeitosinho, gosta de imitar os outros.
+
+--Imitar como?
+
+--Imitar os gestos, as modos, os altitudes; imita prima Justina, imita
+José Dias; já lhe achei até um geito dos pés de Escobar e dos olhos...
+
+Capitú deixou-se estar pensando e olhando para mim, e disse afinal que
+era preciso emendal-o. Agora reparava que realmente era vezo do filho,
+mas parecia-lhe que era só imitar por imitar, como succede a muitas
+pessoas grandes, que tomam as maneiras dos outros; e para que não fosse
+mais longe...
+
+--Tambem não vamos mortifical-o. Sempre ha tempo de corrigil-o.
+
+--Ha, vou ver. Você tambem não era assim, quando se zangava com
+alguem...
+
+--Quando me zangava, concordo; vingança de menino.
+
+--Sim, mas eu não gosto de imitações em casa.
+
+--E naquelle tempo gostavas de mim? disse eu batendo-lhe na face.
+
+A resposta do Capitú foi um riso doce de escarneo, um desses risos que
+não se descrevem, e apenas se pintarão; depois estirou os braços e
+atirou-m'os sobre os hombros, tão cheios de graça que pareciam (velha
+imagem!) um collar de flores. Eu fiz o mesmo aos meus, e senti não
+haver alli um esculptor que nos transferisse a altitude a um pedaço de
+marmore. Só brilharia o artista, é certo. Quando uma pessoa ou um grupo
+saem bem, ninguem quer saber de modelo, mas da obra, e a obra é que
+fica. Não importa; nós saberiamos que eramos nós.
+
+
+
+
+CXIII
+
+Embargos de terceiro.
+
+Por falar nisto, é natural que me perguntes se, sendo antes tão cioso
+della, não continuei a sel-o apesar do filho e dos annos. Sim, senhor,
+continuei. Continuei, a tal ponto que o menor gesto me affligia, a mais
+intima palavra, uma insistencia qualquer: muita vez só a indifferença
+bastava. Cheguei a ter ciumes de tudo e de todos. Um visinho, um par
+de valsa, qualquer homem, moço ou maduro, me enchia de terror ou
+desconfiança. E certo que Capitú gostava de ser vista, e o meio mais
+proprio a tal fim (disse-me uma senhora, um dia) é ver tambem, e não ha
+ver sem mostrar que se vê.
+
+A senhora que me disse isto cuido que gostou de mim, e foi naturalmente
+por não achar da minha parte correspondencia aos seus affectos que
+me explicou daquella maneira os seus olhos teimosos. Outros olhos
+me procuravam tambem, não muitos, e não digo nada sobre elles, tendo
+aliás confessado a principio as minhas aventuras vindouras, mas eram
+ainda vindouras. Naquelle tempo, por mais mulheres bonitas que achasse,
+nenhuma receberia a minima parte do amor que tinha a Capitú. A minha
+propria mãe não queria mais que metade. Capitú era tudo e mais que
+tudo; não vivia nem trabalhava que não fosse pensando nella. Ao theatro
+iamos juntos; só me lembra que fosse duas vezes sem ella, um beneficio
+de actor, e uma estréa de opera, a que ella não foi por ter adoecido,
+mas quiz por força que eu fosse. Era tarde para mandar o camarote a
+Escobar; saí, mas voltei no fim do primeiro acto. Encontrei Escobar á
+porta do corredor.
+
+--Vinha falar-te, disse-me elle.
+
+Expliquei-lhe que tenha saido para o theatro, donde voltára receioso de
+Capitú, que ficára doente.
+
+--Doente de que? perguntou Escobar.
+
+--Queixava-se da cabeça e do estomago.
+
+--Então, vou-me embora. Vinha para aquelle negocio dos embargos...
+
+Eram uns embargos de terceiro; occorrera um incidente importante, e,
+tendo elle jantado na cidade, não quiz ir para casa sem dizer-me o que
+era, mas já agora falaria depois...
+
+--Não, falemos já, sóbe; ella póde estar melhor. Se estiver peor,
+desces.
+
+Capitú estava melhor e até boa. Confessou-me que apenas tivera uma
+dor de cabeça de nada, mas aggravára o padecimento para que eu fosse
+divertir-me. Não falava alegre, o que me fez desconfiar quo mentia,
+para me não metter medo, mas jurou que era a verdade pura. Escobar
+sorriu e disse:
+
+--A cunhadinha está tão doente como você ou eu. Vamos aos embargos.
+
+
+
+
+CXIV
+
+Em que se explica o explicado.
+
+Antes de ir aos embargos, expliquemos ainda um ponto que já ficou
+explicado, mas não bem explicado. Viste que eu pedi (cap. CX) a um
+professor de musica de S. Paulo que me escrevesse a toada daquelle
+prégão de doces de Matacavallos. Em si, a materia é chocha, e não vale
+a pena de um capitulo, quanto mais dous; mas ha materias taes que
+trazem ensinamentos interessantes, senão agradaveis. Expliquemos o
+explicado.
+
+Capitú e eu tinhamos jurado não esquecer mais aquelle prégão; foi em
+momento de grande ternura, e o tabellião divino sabe as cousas que se
+juram em taes momentos, elle que as registra nos livros eternos.
+
+--Você jura?
+
+--Juro, disse ella estendendo tragicamente o braço.
+
+Aproveitei o gesto para beijar-lhe a mão; estava ainda no seminario.
+Quando fui para S. Paulo, querendo um dia relembrar a toada, vi que a
+ia perdendo inteiramente; consegui recordal-a e corri ao professor, que
+me fez o obsequio de a escrever no pedacinho de papel. Foi para não
+faltar ao juramento que fiz isto. Mas has de crer que, quando corri aos
+papeis velhos, naquelle noite da Gloria, tambem me não lembrava já da
+toada nem do texto? Fiz-me de pontual ao juramento, e este é que foi o
+meu peccado; esquecer, qualquer esquece.
+
+Ao certo, ninguem sabe se ha de manter ou não um juramento. Cousas
+futuras! Portanto, a nossa constituição politica, transferindo o
+juramento á affirmação simples, é profundamente moral. Acabou com um
+peccado terrivel. Faltar ao compromisso é sempre infidelidade, mas a
+alguem que tenha mais temor a Deus que aos homens não lhe importara
+mentir, uma vez ou outra, desde que não mette a alma no purgatorio. Não
+confundam purgatorio com inferno, que é o eterno naufragio. Purgatorio
+é uma casa de penhores, que empresta sobre todas as virtudes, a juro
+alto e prazo curto. Mas os prazos renovam-se, até que um dia uma ou
+duas virtudes medianas pagam todos os peccados grandes e pequenos.
+
+
+
+
+CXV
+
+Duvidas sobre duvidas.
+
+Vamos agora aos embargos... E porque iremos aos embargos? Deus sabe o
+que custa escrevel-os, quanto mais contal-os. Da circumstancia nova que
+Escobar me trazia apenas digo o que lhe disse então, isto é, que não
+valia nada.
+
+--Nada?
+
+--Quasi nada.
+
+--Então vale alguma cousa.
+
+--Para reforçar as razões que já temos vale menos que o chá que você
+vae tomar commigo.
+
+--É tarde para tomar chá.
+
+--Tomaremos depressa.
+
+Tomámos depressa. Durante elle, Escobar olhava para mim desconfiado,
+como se cuidasse que eu recusava a circumstancia nova por forrar-me a
+escrevel-a; mas tal suspeita não ia com a nossa amizade.
+
+Quando elle saiu, referi as minhas duvidas a Capitú; ella as desfez
+com a arte fina que possuia, um geito, uma graça toda sua, capaz de
+dissipar as mesmas tristezas de Olympio.
+
+--Seria o negocio dos embargos, concluiu; e elle que veiu até aqui, a
+esta hora, é que está impressionado com a demanda.
+
+--Tens razão.
+
+Palavra puxa palavra, falei de outras duvidas. Eu era então um poço
+dellas; coaxavam dentro do mim, como verdadeiras rans, a ponto de me
+tirarem o somno algumas vezes. Disse-lhe que começava a achar minha mãe
+um tanto fria e arredia com ella. Pois aqui mesmo valeu a arte fina de
+Capitú!
+
+--Ja disse a você o que é; cousas de sogra. Mamãesinha tem ciumes de
+você; logo que elles passem e as saudades augmentem, ella torna a ser o
+que era. Em lhe faltando o neto...
+
+--Mas eu tenho notado que já é fria tambem com Ezequiel. Quando elle
+vae commigo, mamãe não lhe faz as mesmas graças.
+
+--Quem sabe se não anda doente?
+
+--Vamos nós jantar com ella amanhã?
+
+--Vamos... Não... Pois vamos.
+
+Fomos jantar com a minha velha. Já lhe podia chamar assim, posto
+que os seus cabellos brancos não o fossem todos nem totalmente, e o
+rosto estivesse comparativamente fresco; era uma especie de mocidade
+quinquagenaria ou do ancianidade viçosa, á escolha... Mas nada de
+melancolias; não quer falar dos olhos molhados, á entrada e á saida.
+Pouco entrou na conversação. Tambem não era differente da costumada.
+José Dias falou do casamento e suas bellezas, da politica, da Europa
+e da homeopathia, tio Cosme das suas molestias, prima Justina da
+visinhança, ou de José Dias, quando este saía da sala.
+
+Quando voltámos, á noite, viemos por alli a pé, falando das minhas
+duvidas. Capitú novamente me aconselhou que esperassemos. Sogras
+eram todas assim; lá vinha um dia e mudavam. Ao passo que me falava,
+recrudescia de ternura. Dalli em deante foi cada vez mais doce commigo;
+não me ia esperar á janella, para não espertar-me os ciumes, mas quando
+eu subia, via no alto da escada, entre as grades da cancella, a cara
+deliciosa da minha amiga e esposa, risonha como toda a nossa infancia.
+Ezequiel ás vezes estava com ella; nós o havíamos acostumado a ver o
+osculo da chegada e da saida, e elle enchia-me a cara de beijos.
+
+
+
+
+CXVI
+
+Filho do homem.
+
+Apalpei José Dias sobre as maneiras novas de minha mãe; ficou
+espantado. Não havia nada, nem podia haver cousa nenhuma, tantos eram
+os louvores incessantes que elle ouvia «á bella e virtuosa Capitú.»
+
+--Agora, quando os ouço, entro tambem no côro, mas a principio ficava
+envergonhadissimo. Para quem chegou, como eu, a arrenegar deste
+casamento, era duro confessar que elle foi uma verdadeira benção do
+ceu. Que digna senhora nos saiu a creança travessa de Matacavallos! O
+pae é que nos separou um pouco, em quanto não nos conheciamos, mas tudo
+acabou em bem. Pois, sim, senhor, quando D. Gloria elogia a sua nora e
+comadre...
+
+--Então mamãe?...
+
+--Perfeitamente!
+
+--Mas, porque e não nos visita ha tanto tempo?
+
+--Creio que tem andando mais achacada dos seus rheumatismos. Este anno
+tem feito muito frio... Imagine a afflicção della, que andava o dia
+inteiro; agora é obrigada a estar quieta, ao pé do irmão, que lá tem o
+seu mal...
+
+Quiz observar-lhe que tal razão explicava a interrupção das visitas,
+e não a frieza quando iamos nós a Matacavallos; mas não estendi tão
+longe a intimidade do aggregado. José Dias pediu para ver o nosso
+«prophetasinho» (assim chamava a Ezequiel) e fez-lhe as festas do
+costume. Desta vez falou ao modo biblico (estivera na vespera a folhear
+o livro de Ezequiel, como soube depois), e perguntava-lhe: «Como vae
+isso, filho do homem?» «Dize-me, filho do homem, onde estão os teus
+brinquedos?» «Queres comer doce, filho do homem?»
+
+--Que filho do homem é esse, perguntou-lhe Capitú agastada.
+
+--São os modos de dizer da Biblia.
+
+--Pois eu não gosto delles, replicou ella com aspereza.
+
+--Tem razão, Capitú, concordou o aggregado. Voce não imagina como a
+Biblia é cheia de expressões cruas e grosseiras. Eu falava assim para
+variar... Tu como vaes, meu anjo? Meu anjo, como é que eu ando na rua?
+
+--Não, atalhou Capitú; já lhe vou tirando esse costume do imitar os
+outros.
+
+**--Mas tem muita graça; a mim, quando elle copia os meus gestos,
+parece-me que sou eu mesmo, pequenino. Outro dia chegou a fazer um
+gesto de D. Gloria, tão bom que ella lhe deu um beijo em paga. Vamos,
+como é que eu ando?
+
+--Não, Ezequiel, disse eu, mamãe não quer.
+
+Eu mesmo achava feio tal séstro. Alguns dos gestos já lhe iam ficando
+mais repetidos, como o das mãos e pés de Escobar; ultimamente, até
+apanhara o modo de voltar da cabeça deste, quando falava, e o de
+deixal-a cair, quando ria. Capitú ralhava. Mas o menino era travesso,
+como o diabo; apenas começámos a falar de outra cousa, saltou ao meio
+da sala, dizendo a José Dias:
+
+--O senhor anda assim.
+
+Não podemos deixar de rir, eu mais que ninguem. A primeira pessoa que
+fechou a cara, que o reprehendeu e chamou a si foi Capitú.
+
+--Não quero isso, ouviu?
+
+
+
+
+CXVII
+
+Amigos proximos.
+
+Já então Escobar deixára Andarahy e comprára uma casa no Flamengo, casa
+que ainda alli vi, ha dias, quando me deu na gana experimentar se as
+sensações antigas estavam mortas ou dormiam só; não posso dizel-o bem,
+porque os somnos, quando são pesados, confundem vivos e defunctos, a
+não ser a respiração. Eu respirava um pouco, mas póde ser que fosse do
+mar, meio agitado. Emfim, passei, accendi um charuto, e dei por mim no
+Cattete; tinha subido pela rua da Princeza, uma rua antiga... Ó ruas
+antigas! ó casas antigas! ó pernas antigas! Todos nós éramos antigos, e
+não é preciso dizer que no máu sentido, no sentido de velho e acabado.
+
+Velha é a casa, mas não lhe alteraram nada. Não sei até se ainda tem
+o mesmo numero. Não digo que numero é para não irem indagar e cavar
+a historia. Não é que Escobar ainda lá more nem sequer viva; morreu
+pouco depois, por um modo que hei de contar. Emquanto viveu, uma vez
+que estavamos tão proximos, tinhamos por assim dizer uma só casa, eu
+vivia na delle, elle na minha, e o pedaço de praia entre a Gloria e
+o Flamengo era como um caminho de uso proprio e particular. Fazia-me
+pensar nas duas casas de Matacavallos, com o seu muro de permeio.
+
+Um historiador da nossa lingua, creio que João de Barros, põe na boca
+de um rei barbaro algumas palavras mansas, quando os portuguezes lhe
+propunham estabelecer alli ao pé uma fortaleza; dizia o rei que os
+bons amigos deviam ficar longe uns dos outros, não perto, para se não
+zangarem como as aguas do mar que batiam furiosas no rochedo que elles
+viam dalli. Que a sombra do escriptor me perdoe, se eu duvido que o
+rei dissesse tal palavra nem que ella seja verdadeira. Provavelmente
+foi o mesmo escriptor que a inventou para adornar o texto, e não fez
+mal, porque é bonita; realmente, é bonita. Eu creio que o mar então
+batia na pedra, como é seu costume, desde Ullysses e antes. Agora
+que a comparação seja verdadeira é que não. Seguramente ha inimigos
+contiguos, mas tambem ha amigos do perto e do peito. E o escriptor
+esquecia (salvo se ainda não era do seu tempo) esquecia o adagio:
+longe dos olhos, longe do coração. Nós não podiamos ter os corações
+agora mais perto. As nossas mulheres viviam na casa uma da outra, nós
+passavamos as noites cá ou lá conversando, jogando ou mirando o mar.
+Os dous pequenos passavam dias, ora no Flamengo, ora na Gloria.
+
+Como eu observasse que podia acontecer com elles o que se dera entre
+mim e Capitú, acharam todos que sim, e Sancha accrescentou que até já
+se iam parecendo. Eu expliquei:
+
+--Não; é porque Ezequiel imita os gestos dos outros.
+
+Escobar concordou commigo, e insinuou que alguma vez as creanças que
+se frequentam muito acabam parecendo-se umas com as outras. Opinei de
+cabeça, como me succedia nas materias que eu não sabia bem nem mal.
+Tudo podia ser. O certo é que elles se queriam muito, e podiam acabar
+casados, mas não acabaram casados.
+
+
+
+
+CXVIII
+
+A mão de Sancha.
+
+Tudo acaba, leitor; é um velho truismo, a que se póde accrescentar
+que nem tudo o que dura dura muito tempo. Esta segunda parte não acha
+crentes faceis; ao contrario, a ideia de que um castello de vento dura
+mais que o mesmo vento de que é feito, difficilmente se despegará
+da cabeça, e é bom que seja assim, para que se não perca o costume
+daquellas construcções quasi eternas.
+
+O nosso castello era solido, mas um domingo... Na vespera tinhamos
+passado a noite no Flamengo, não só os dous casaes inseparaveis, como
+ainda o aggregado e prima Justina. Foi então que Escobar, falando-me á
+janella, disse-me que fossemos lá jantar no dia seguinte; precisavamos
+falar de um projecto em familia, um projecto para os quatro.
+
+--Para os quatro? Uma contradança.
+
+--Não. Não és capaz de adivinhar o que seja, nem eu digo. Vem amanhã.
+
+Sancha não tirava os olhos de nós durante a conversa, ao canto da
+janella. Quando o marido saiu, veiu ter commigo. Perguntou-me de que
+é que falaramos; disse-lhe que de um projecto que eu não sabia qual
+fosse; ella pediu-me segredo, e revelou-me o que era: uma viagem á
+Europa dalli a dous annos. Disse isto de costas para dentro, quasi
+suspirando. O mar batia com grande força na praia; havia ressaca.
+
+--Vamos todos? perguntei por fim.
+
+--Vamos.
+
+Sancha ergueu a cabeça e olhou para mim com tanto prazer que eu,
+graças ás relações della e Capitú, não se me daria beijal-a na testa.
+Entretanto, os olhos de Sancha não convidavam a expansões fraternaes,
+pareciam quentes e intimativos, diziam outra cousa, e não tardou que se
+afastassem da janella, onde eu fiquei olhando para o mar, pensativo. A
+noite era clara.
+
+Dalli mesmo busquei os olhos de Sancha, ao pé do piano; encontrei-os
+em caminho. Pararam os quatro e ficaram deante uns dos outros, uns
+esperando que os outros passassem, mas nenhuns passavam. Tal se dá
+na rua entre dous teimosos. A cautela desligou-nos; eu tornei a
+voltar-me para fóra. E assim posto entrei a cavar na memoria se a
+alguma vez olhára para ella com a mesma expressão, e fiquei incerto.
+Tive uma certeza só, é que um dia pensei nella, como se pensa na bella
+desconhecida que passa**; mas então dar-se-hia que ella adivinhando...
+Talvez o simples pensamento me transluzisse cá fóra, e ella me fugisse
+outr'ora irritada ou acanhada, e agora por um movimento invencivel...
+Invencivel; esta palavra foi como uma benção de padre á missa, que a
+gente recebe e repete em si mesma.
+
+--O mar amanhã está de desafiar a gente, disse-me a voz de Escobar, ao
+pé de mim.
+
+--Você entra no mar amanhã?
+
+--Tenho entrado com mares maiores, muito maiores.--Você não imagina o
+que é um bom mar em hora bravia. É preciso nadar bem, como eu, e ter
+estes pulmões,--disse elle batendo no peito, e estes braços; apalpa.
+
+Apalpei-lhe os braços, como se fossem os de Sancha. Custa-me esta
+confissão, mas não posso supprimil-a; era jarretar a verdade. Nem só
+os apalpei com essa ideia, mas ainda senti outra cousa: achei-os mais
+grossos e fortes que os meus, e tive-lhes inveja; accresce que sabiam
+nadar.
+
+Quando saímos, tornei a falar com os olhos á dona da casa. A mão della
+apertou muito a minha, e demorou-se mais que de costume.
+
+A modestia pedia então, como agora, que eu visse naquelle gesto de
+Sancha uma sancção ao projecto do marido e um agradecimento. Assim
+devia ser, mas um fluido particular que me correu todo o corpo desviou
+de mim a conclusão que deixo escripta. Senti ainda os dedos de Sancha
+entre os meus, apertando uns aos outros. Foi um instante de vertigem
+e de peccado. Passou depressa no relogio do tempo; quando cheguei o
+relogio ao ouvido, trabalhavam só os minutos da virtude e da razão.
+
+**--...Uma senhora deliciosissima, concluiu José Dias um discurso que
+vinha fazendo.
+
+--Deliciosissima! repeti com algum ardor, que moderei logo,
+emendando-me: Realmente, uma bella noite!
+
+--Como devem ser todas as daquella casa, continuou o aggregado. Cá
+fóra, não; cá fóra o mar está zangado; escute.
+
+Ouvia-se o mar forte,--como já se ouvia de casa,--a ressaca era
+grande, e, a distancia, viam-se crescer as ondas. Capitú e prima
+Justina, que iam adeante, detiveram-se n'uma das voltas da praia, e
+fomos conversando os quatro; mas eu conversava mal. Não havia meio de
+esquecer inteiramente a mão de Sancha nem os olhos que trocámos. Agora
+achava-lhes isto, agora aquillo. Os instantes do diabo intercalavam-se
+nos minutos de Deus, e o relogio foi assim marcando alternativamente
+a minha perdição e a minha salvação. José Dias despediu-se de nós
+á porta. Prima Justina dormiu em nossa casa; iria embora, no dia
+seguinte, depois do almoço e da missa. Eu recolhi-me ao meu gabinete,
+onde me demorei mais que de costume.
+
+O retrato de Escobar, que eu tinha alli, ao pé do de minha mãe,
+falou-me como se fosse a propria pessoa. Combati sinceramente os
+impulsos que trazia do Flamengo; rejeitei a figura da mulher do
+meu amigo, e chamei-me desleal. Demais, quem me affirmava que
+houvesse alguma intenção daquella especie no gesto da despedida e nos
+anteriores? Tudo podia ligar-se ao interesse da nossa viagem. Sancha
+e Capitú eram tão amigas que seria um prazer mais para ellas irem
+juntas. Quando houvesse alguma intenção sexual, quem me provaria que
+não era mais que uma sensação fulgurante, destinada a morrer com a
+noite e o somno? Ha remorsos que não nascem de outro peccado, nem tem
+maior duração. Agarrei-me a esta hypothese que se conciliava com a
+mão de Sancha, que eu sentia de memoria dentro da minha mão, quente e
+demorada, apertada e apertando...
+
+Sinceramente, eu achava-me mal entre um amigo e a attracção. A timidez
+póde ser que fosse outra causa daquella crise; não é só o ceu que dá as
+nossas virtudes, a timidez tambem, não contando o acaso, mas o acaso
+é um méro accidente; a melhor origem dellas é o ceu. Entretanto, como
+a timidez vem do ceu, que nos dá a compleição, a virtude, filha della
+é, genealogicamente, o mesmo sangue celestial. Assim reflectiria, se
+pudesse; mas a principio vaguei á tôa. Paixão não era nem inclinação.
+Capricho seria ou quê? Ao fim de vinte minutos era nada, inteiramente
+nada. O retrato de Escobar pareceu falar-me; vi-lhe a altitude franca e
+simples, sacudi a cabeça e fui deitar-me.
+
+
+
+
+CXIX
+
+Não faça isso, querida.
+
+A leitora, que é minha amiga e abriu este livro com o fim de descançar
+da cavatina de hontem para a valsa de hoje, quer fechal-o ás pressas,
+ao ver que beiramos um abysmo. Não faça isso, querida; eu mudo de rumo.
+
+
+
+
+CXX
+
+Os autos.
+
+Na manhã seguinte accordei livre das abominações da vespera;
+chamei-lhes allucinações, tomei café, percorri os jornaes e fui
+estudar uns autos. Capitú e prima Justina sairam para a missa das
+nove, na Lapa. A figura de Sancha desappareceu inteiramente no meio
+das allegações da parte adversa, que eu ia lendo nos autos, allegações
+falsas, inadmissiveis, sem apoio na lei nem nas praxes. Vi que era
+facil ganhar a demanda; consultei Dalloz, Pereira e Souza...
+
+Uma só vez olhei para o retrato de Escobar. Era uma bella photographia
+tirada um anno antes. Estava de pé, sobrecasaca abotoada, a mão
+esquerda no dorso de uma cadeira, a direita mettida ao peito, o olhar
+ao longe para a esquerda do espectador. Tinha garbo e naturalidade.
+A moldura que lhe mandei pôr não encobria a dedicatoria, escripta
+embaixo, não nas costas do cartão: «Ao meu querido Bentinho o seu
+querido Escobar 20-4-70.» Estas palavras fortaleceram-me os pensamentos
+daquella manhã, e espancaram de todo as recordações da vespera.
+Naquelle tempo a minha vista era boa; eu podia lel-as do logar em que
+estava. Tornei aos autos.
+
+
+
+
+CXXI
+
+A catastrophe.
+
+No melhor delles, ouvi passos precipitados na escada, a campainha soou,
+soaram palmas, golpes na cancella, vozes, acudiram todos, acudi eu
+mesmo. Era um escravo da casa de Sancha que me chamava:
+
+--Para ir lá... sinhô nadando, sinhô morrendo.
+
+Não disse mais nada, ou eu não lhe ouvi o resto. Vesti-me, deixei
+recado a Capitú e corri ao Flamengo.
+
+Em caminho, fui adivinhando a verdade. Escobar metteu-se a nadar, como
+usava fazer, arriscou-se um pouco mais fóra que de costume, apesar do
+mar bravio, foi enrolado e morreu. As canoas que acudiram mal puderam
+trazer-lhe o cadaver.
+
+
+
+
+CXXII
+
+O enterro.
+
+A viuva... Poupo-vos as lagrimas da viuva, as minhas, as da outra
+gente. Sai de lá cerca de onze horas; Capitú e prima Justina
+esperavam-me, uma com o parecer abatido e estupido, outra enfastiada
+apenas.
+
+--Vão fazer companhia a pobre Sanchinha; eu vou cuidar do enterro.
+
+Assim fizemos. Quiz que o enterro fosse pomposo, e a affluencia dos
+amigos foi numerosa. Praia, ruas, praça da Gloria, tudo eram carros,
+muitos delles particulares. A casa, não sendo grande, não podiam lá
+caber todos; muitos estavam na praia, falando do desastre, apontando
+o logar em que Escobar fallecèra, ouvindo referir a chegada do morto.
+José Dias ouviu tambem falar dos negocios do finado, divergindo alguns
+na avaliação dos bens, mas havendo accordo em que o passivo devia ser
+pequeno. Elogiavam as qualidades de Escobar. Um ou outro discutia
+o recente gabinete Rio Branco; estavamos em Março de 1871. Nunca me
+esqueceu o mez nem o anno.
+
+Como eu houvesse resolvido falar no cemiterio, escrevi algumas linhas e
+mostrei-as em casa a José Dias, que as achou realmente dignas do morto
+e de mim. Pediu-me o papel, recitou lentamente o discurso, pesando
+as palavras, e confirmou a primeira opinião; no Flamengo espalhou a
+noticia. Alguns conhecidos vieram interrogar-me:
+
+--Então, vamos ouvil-o?
+
+--Quatro palavras.
+
+Poucas mais seriam. Tinha-as escripto com receio de que a emoção me
+impedisse de improvisar. No tilbury em que andei uma ou duas horas, não
+fizera mais que recordar o tempo do seminario, as relações de Escobar,
+as nossas sympathias, a nossa amizade, começada, continuada e nunca
+interrompida, até que um lance da fortuna fez separar para sempre duas
+creaturas que promettiam ficar por muito tempo unidas. De quando em
+quando enxugava os olhos. O cocheiro aventurou duas ou tres perguntas
+sobre a minha situação moral; não me arrancando nada, continuou o seu
+officio. Chegando a casa, deitei aquellas emoções ao papel; tal seria o
+discurso.
+
+
+
+
+CXXIII
+
+Olhos de ressaca.
+
+Emfim, chegou a hora da encommendação e da partida. Sancha quiz
+despedir-se do marido, e o desespero daquelle lance consternou a todos.
+Muitos homem choravam tambem, as mulheres todas. Só Capitú, amparando
+a viuva, parecia vencer-se a si mesma. Consolava a outra, queria
+arrancal-a dalli. A confusão era geral. No meio della, Capitú olhou
+alguns instantes para o cadaver tão fixa, tão apaixonadamente fixa, que
+não admira lhe saltassem algumas lagrimas poucas e caladas...
+
+As minhas cessaram logo. Fiquei a ver as della; Capitú enxugou-as
+depressa, olhando a furto para a gente que estava na sala. Redobrou
+de caricias para a amiga, e quiz leval-a; mas o cadaver parece que
+a retinha tambem. Momento houve em que os olhos de Capitú fitaram o
+defuncto, quaes os da viuva, sem o pranto nem palavras desta, mas
+grandes e abertos, como a vaga do mar lá fóra, como se quizesse tragar
+tambem o nadador da manhã.
+
+
+
+
+CXXIV
+
+O discurso.
+
+--Vamos, são horas...
+
+Era José Dias que me convidava a fechar o ataúde. Fechámol-o, e eu
+peguei n'uma das argolas; rompeu o alarido final. Palavra que, quando
+cheguei á porta, vi o sol claro, tudo gente e carros, as cabeças
+descobertas, tive um daquelles meus impulsos que nunca chegavam á
+execução: foi atirar á rua caixao, defuncto e tudo. No carro disse a
+José Dias que se calasse. No cemiterio tive de repetir a cerimonia
+da casa, desatar as correias, e ajudar a levar o feretro á cova. O
+que isto me custou imagina. Descido o cadaver á cova, trouxeram a cal
+e a pá; sabes disto, terás ido a mais de um enterro, mas o que não
+sabes nem póde saber nenhum dos teus amigos, leitor, ou qualquer outro
+extranho, é a crise que me tornou quando vi todos os olhos em mim,
+os pés quietos, as orelhas attentas, e, ao cabo de alguns instantes
+de total silencio, um sussurro vago, algumas vozes interrogativas,
+signaes, e alguem, José Dias, que me dizia ao ouvido:
+
+--Então, fale.
+
+Era o discurso. Queriam o discurso. Tinham jus ao discurso annunciado.
+Machinalmente, metti a mão no bolso, saquei o papel e li-o aos
+trambolhões, não todo, nem seguido, nem claro; a voz parecia-me entrar
+em vez de sair, as mãos tremiam-me. Não era só a emoção nova que me
+fazia assim, era o proprio texto, as memorias do amigo, as saudades
+confessadas, os louvores á pessoa e aos seus meritos; tudo isto que
+eu era obrigado a dizer e dizia mal. Ao mesmo tempo, temendo que me
+adivinhassem a verdade, forcejava por escondel-a bem. Creio que poucos
+me ouviram, mas o gesto geral foi de comprehensão e de approvação.
+As mãos que me deram a apertar eram de solidariedade; alguns diziam:
+«Muito bonito! muito bem! magnifico!» José Dias achou que a eloquencia
+estivera na altura da piedade. Um homem, que me pareceu jornalista,
+pediu-me licença para levar o manuscripto e imprimil-o. Só a minha
+grande turvação recusaria um obsequio tão simples.
+
+
+
+
+CXXV
+
+Uma comparação.
+
+Priamo julga-se o mais infeliz dos homens, por beijar a mão daquelle
+que lhe matou o filho. Homero é que relata isto, e é um bom autor, não
+obstante contal-o em verso, mas ha narrações exactas em verso, e até
+mau verso. Compara tu a situação de Priamo com a minha; eu acabava de
+louvar as virtudes do homem que recebera defuncto aquelles olhos... E
+impossivel que algum Homero não tirasse da minha situação muito melhor
+effeito, ou quando menos, egual. Nem digas que nos faltam Homeros,
+pela causa apontada em Camões; não, senhor, faltam-nos, é certo, mas é
+porque os Priamos procuram a sombra e o silencio. As lagrimas, se as
+tèm, são enxugadas atraz da porta, para que as caras appareçam limpas
+e serenas; os discursos são antes de alegria que do melancolia, e tudo
+passa como se Achilles não matasse Heitor.
+
+
+
+
+CXXVI
+
+Scismando.
+
+Pouco depois de sair do cemiterio, rasguei o discurso e deitei os
+pedaços pela portinhola fóra, sem embargo dos esforços de José Dias
+para impedil-o.
+
+--Não presta para nada, disse-lhe eu, e como posso ter a tentação de
+dal-o a imprimir, fica já destruido de uma vez. Não presta, não vale
+nada.
+
+José Dias demonstrou longamente o contrario, depois elogiou o enterro,
+e por ultimo fez o panegyrico do morto, uma grande alma, espirito
+activo, coração recto, amigo, bom amigo, digno da esposa amantissima
+que Deus lhe dera...
+
+Neste ponto do discurso, deixei-o falar sósinho e peguei a scismar
+commigo. O que scismei foi tão escuro e confuso que não me deixou tomar
+pé. No Cattete mandei parar o carro, disse a José Dias que fosse buscar
+as senhoras ao Flamengo e as levasse para casa; eu iria a pé.
+
+--Mas...
+
+--Vou fazer uma visita.
+
+A razão d'isto era acabar de scismar, e escolher uma resolução que
+fosse adequada ao momento. O carro andaria mais depressa que as
+pernas; estas iriam pausadas ou não, podiam afrouxar o passo, parar,
+arrepiar caminho, e deixar que a cabeça scismasse á vontade. Fui
+andando e scismando. Tinha já comparado o gesto de Sancha na vespera e
+o desespero daquelle dia; eram inconciliaveis. A viuva era realmente
+amantissima. Assim se desvaneceu de todo a illusão da minha vaidade.
+Não seria o mesmo caso de Capitú? Cuidei de recompôr-lhe os olhos, a
+posição em que a vi, o ajuntamento de pessoas que devia naturalmente
+impôr-lhe a dissimulação, se houvesse algo que dissimular. O que aqui
+vae por ordem logica e deductiva, tinha sido antes uma barafunda de
+ideias e sensações, graças aos solavancos do carro e ás interrupções de
+José Dias. Agora, porém, raciocinava e evocava claro e bem. Conclui de
+mim para mim que era a antiga paixão que me offuscava ainda e me fazia
+desvairar como sempre.
+
+Quando cheguei a esta conclusão final, chegava tambem á porta de
+casa, mas voltei para traz, e subi outra vez a rua do Cattete. Eram
+as duvidas que me affligiam ou a necessidade de affligir Capitú com
+a minha grande demora? Ponhamos que eram as duas causas; andei largo
+espaço, até que me senti socegar, e endireitei para casa. Batiam oito
+hora n'uma padaria.
+
+
+
+
+CXXVII
+
+O barbeiro.
+
+Perto de casa, havia um barbeiro, que me conhecia de vista, amava a
+rabeca e não tocava inteiramente mal. Na occasião em que ia passando,
+executava não sei que peça. Parei na calçada a ouvil-o (tudo são
+pretextos a um coração agoniado), elle viu-me, o continuou a tocar. Não
+attendeu a um freguez, e logo a outro, que alli foram, a despeito da
+hora e de ser domingo, confiar-lhe as caras á navalha. Perdeu-os sem
+perder uma nota; ia tocando para mim. Esta consideração fez-me chegar
+francamente a porta da loja, voltado para elle. Ao fundo, levantando
+a cortina de chita que fechava o interior da casa, vi apontar uma
+moça trigueira, vestido claro, flôr no cabello. Era a mulher delle;
+creio que me descobriu de dentro, e veiu agradecer-me com a presença o
+favor que eu fazia ao marido. Se me não engano, chegou a dizel-o com
+os olhos. Quanto ao marido, tocava agora com mais calor; sem ver a
+mulher, sem ver freguezes, grudava a face ao instrumento, passava a
+alma ao arco, e tocava, tocava...
+
+Divina arte! Ia-se formando um grupo, deixei a porta da loja e
+vim andando para casa; enfiei pelo corredor e subi as escadas sem
+estrepito. Nunca me esqueceu o caso deste barbeiro, ou por estar
+ligado a um momento grave da minha vida, ou por esta maxima, que os
+compiladores, pódem tirar daqui e inserir nos compendios de escola.
+A maxima é que a gente esquece devagar as boas acções que pratica,
+e verdadeiramente não as esquece nunca. Pobre barbeiro! perdeu duas
+barbas naquella noite, que eram o pão do dia seguinte, tudo para ser
+ouvido de um transeunte. Suppõe agora que este, em vez de ir-se embora,
+como eu fui, ficava á porta a ouvil-o e a namorar-lhe a mulher; então
+é que elle, todo arco, todo rabeca, tocaria desesperadamente. Divina
+arte!
+
+
+
+
+CXXVIII
+
+Punhado de successos.
+
+Como ia dizendo, subi as escadas sem estrepito, empurrei a cancella,
+que estava apenas encostada, o dei com prima Justina e José Dias
+jogando cartas na saleta proxima. Capitú levantou-se do canapé e veiu
+a mim. O rosto della era agora sereno e puro. Os outros suspenderam
+o jogo, e todos falámos do desastre e da viuva. Capitú censurou a
+imprudencia de Escobar, e não dissimulou a tristeza que lhe trazia a
+dor da amiga. Perguntei-lhe por que não ficára com Sancha aquella noite.
+
+--Tem lá muita gente; ainda assim offereci-me, mas não quiz. Tambem lhe
+disse que era melhor vir para cá, e passar aqui uns dias comnosco.
+
+--Tambem não quiz?
+
+--Tambem não.
+
+--Entretanto, a vista do mar ha de ser-lhe penosa, todas as manhãs,
+ponderou José Dias, e não sei como poderá...
+
+--Mas, passa; o que é que não passa? atalhou prima Justina.
+
+E como em torno desta ideia, começassemos uma troca de palavras,
+Capitú saiu para ir ver se o filho dormia. Ao passar pelo espelho,
+concertou os cabellos tão demoradamente que pareceria affectação, se
+não soubessemos que ella era muito amiga de si. Quando tornou trazia
+os olhos vermelhos; disse-nos que, ao mirar o filho dormindo pensára
+na filhinha de Sancha, e na afflicção da viuva. E, sem se lhe dar das
+visitas, nem reparar se havia algum criado, abraçou-me e disse-me que,
+se quizesse pensar nella, era preciso pensar primeiro na minha vida.
+José Dias achou a phrase «lindissima», e perguntou a Capitú porque é
+que não fazia versos. Tentei metter o caso á bulha, e assim acabámos a
+noite.
+
+No dia seguinte, arrependi-me de haver rasgado o discurso, não que
+quizesse dal-o a imprimir, mas era lembrança do finado. Pensei em
+recompôl-o, mas só achei phrases soltas, que uma vez juntas não tinham
+sentido. Tambem pensei em fazer outro, mas era já difficil, e podia ser
+apanhado em falso pelos que me tinham ouvido no cemiterio. Quanto a
+recolher os pedacinhos de papel deitados á rua, era tarde; estariam já
+varridos.
+
+Inventariei as lembranças de Escobar, livros, um tinteiro de bronze,
+uma bengala de marfim, um passaro, o album de Capitú, duas paizagens
+do Paraná e outras. Tambem elle as possuia de minha mão. Vivemos
+assim a trocar memorias e regalos, ora em dia de annos, ora sem razão
+particular. Tudo isso me empanava os olhos... Vieram os jornaes do
+dia: davam noticia do desastre e da morte de Escobar, os estudos e
+os negocios deste, as qualidades pessoaes, a sympathia do commercio,
+e tambem falavam dos bens deixados, da mulher e da filha. Todo isso
+foi na segunda feira. Na terça-feira foi aberto o testamento, que me
+nomeava segundo testamenteiro; o primeiro logar cabia á mulher. Não
+me deixava nada, mas as palavras que me escrevera em carta separada
+eram sublimes de amizade e estima. Capitú desta vez chorou muito; mas
+compoz-se depressa.
+
+Testamento, inventario, tudo andou quasi tão depressa como aqui vae
+dito. Ao cabo de pouco tempo, Sancha retirou-se para a casa dos
+parentes no Paraná.
+
+
+
+
+CXXIX
+
+A D. Sancha.
+
+D. Sancha, peço-lhe que não leia este livro; ou, se o houver lido até
+aqui, abandone o resto. Basta fechal-o; melhor será queimal-o, para lhe
+não dar tentação e abril-o outra vez. Se, apesar do aviso, quizer ir
+até o fim, a culpa é sua; não respondo pelo mal que receber. O que já
+lhe tiver feito, contando os gestos daquelle sabbado, esse acabou, uma
+vez que os acontecimentos, e eu com elles, desmentimos a minha illusão;
+mas o que agora a alcançar, esse é indelevel. Não, amiga minha, não
+leia mais. Vá envelhecendo, sem marido nem filha, que eu faço a mesma
+cousa, e é ainda o melhor que se póde fazer depois da mocidade. Um dia,
+iremos daqui até a porta do ceu, onde nos encontraremos renovados, como
+as plantas novas, _come piante novelle_,
+
+                Rinovalatte di novelle fronde.
+
+O resto em Dante.
+
+
+
+
+CXXX
+
+Um dia...
+
+Porquanto, um dia Capitú quiz saber o que é que me fazia andar calado
+e aborrecido. E propoz-me a Europa, Minas, Petropolis, uma serie de
+bailes, mil desses remedios aconselhados aos melancolicos. Eu não
+sabia que lhe respondesse; recusei as diversões. Como insistisse,
+repliquei-lhe que os meus negocios andavam mal. Capitú sorriu para
+animar-me. E que tinha que andassem mal? Tornariam a andar bem, e até
+lá as joias, os objectos de algum valor seriam vendidos, e iriamos
+residir em algum becco. Viveriamos socegados e esquecidos; depois
+tornariamos á tona da agua. A ternura com que me disse isto era de
+commover as pedras. Pois nem assim. Respondi-lhe seccamente que
+não era preciso vender nada. Deixei-me estar calado e aborrecido.
+Ella propoz-me jogar cartas ou damas, um passeio a pé, uma visita a
+Matacavallos; e, como eu não acceitasse nada, foi para a sala, abriu o
+piano, e começou a tocar; eu aproveitei a ausencia, peguei do chapéo e
+saí.
+
+... Perdão, mas este capitulo devia ser precedido de outro, em que
+contasse um incidente, occorrido poucas semanas antes, dous mezes
+depois da partida de Sancha. Vou escrevel-o; podia antepôl-o a este,
+antes de mandar o livro ao prélo, mas custa muito alterar o numero dos
+paginas; vae assim mesmo, depois a narração seguirá direita até o fim.
+Demais, é curto.
+
+
+
+
+CXXXI
+
+Anterior ao anterior.
+
+Foi o caso que a minha vida em outra vez doce e placida, a banca do
+advogado rendia-me bastante, Capitú estava mais bella, Ezequiel ia
+crescendo. Começava o anno de 1872.
+
+--Você já reparou que Ezequiel tem nos olhos uma espressão exquisita?
+perguntou-me Capitú. Só vi duas pessoas assim, um amigo de papae e o
+defuncto Escobar. Olha, Ezequiel; olha firme, assim, vira para o lado
+de papae, não precisa revirar os olhos, assim, assim...
+
+Era depois de jantar; estavamos ainda á mesa, Capitú brincava com
+o filho, ou elle com ella, ou um com outro, porque, em verdade,
+queriam-se muito, mas é tambem certo que elle me queria ainda mais a
+mim. Approximei-me de Ezequiel, achei que Capitú tinha razão; eram os
+olhos de Escobar, mas não me pareceram exquisitos por isso. Afinal
+não haveria mais que meia duzia de expressões no mundo, e muitas
+semelhanças se dariam naturalmente. Ezequiel não entendeu nada, olhou
+espantado para ella e para mim, e afinal saltou-me ao collo:
+
+--Vamos passear, papae?
+
+--Logo, meu filho.
+
+Capitú, alheia a ambos, fitava agora a outra borda da mesa; mas,
+dizendo-lhe eu que, na belleza, os olhos de Ezequiel saíam aos da mãe,
+Capitú sorriu abanando a cabeça com um ar que nunca achei em mulher
+alguma, provavelmente porque não gostei tanto das outras. As pessoas
+valem o que vale a affeição da gente, e é dahi que mestre Povo tirou
+aquelle adagio que quem o feio ama bonito lhe parece. Capitú tinha meia
+duzia de gestos unicos na terra. Aquelle entrou-me pela alma dentro.
+Assim fica explicado que eu corresse á minha esposa e amiga e lhe
+enchesse a cara de beijos; mas este outro incidente não é radicalmente
+necessario á comprehensão do capitulo passado e dos futuros; fiquemos
+nos olhos de Ezequiel.
+
+
+
+
+CXXXII
+
+O debuxo e o colorido.
+
+Nem só os olhos, mas as restantes feições, a cara, o corpo, a pessoa
+inteira, iam-se apurando com o tempo. Eram como um debuxo primitivo
+que o artista vae enchendo e colorindo aos poucos, e a figura entra a
+ver, sorrir, palpitar, falar quasi, até que a familia pendura o quadro
+na parede, em memoria do que foi e já não póde ser. Aqui podia ser e
+era. O costume valeu muito contra o effeito da mudança: mas a mudança
+fez-se, não á maneira de theatro, fez-se como a manhã que aponta
+vagarosa, primeiro que se possa ler uma carta, depois lê-se a carta na
+rua, em casa, no gabinete, sem abrir as janellas; a luz coada pelas
+persianas basta a distinguir as lettras. Li a carta, mal a principio e
+não toda, depois fui lendo melhor. Fugia-lhe, é certo, mettia o papel
+no bolso, corria a casa, fechava-me, não abria as vidraças, chegava a
+fechar os olhos. Quando novamente abria os olhos e a carta, a lettra
+era clara e a noticia clarissima.
+
+Escobar vinha assim surgindo da sepultura, do seminario e do Flamengo
+para se sentar commigo á mesa, receber-me na escada, beijar-me no
+gabinete de manhã, ou pedir-me á noite a benção do costume. Todas
+essas acções eram repulsivas; eu tolerava-as e praticava-as, para me
+não descobrir a mim mesmo e ao mundo. Mas o que pudesse dissimular
+ao mundo, não podia fazel-o a mim, que vivia mais perto de mim que
+ninguem. Quando nem mãe nem filho estavam commigo o meu desespero
+era grande, e eu jurava matal-os a ambos, ora de golpe, ora devagar,
+para dividir pelo tempo da morte todas os minutos da vida embaçada
+e agoniada. Quando, porém, tornava a casa e via no alto da escada a
+creaturinha que me queria e esperava, ficava desarmado e differia o
+castigo de um dia para outro.
+
+O que se passava entre mim e Capitú naquelles dias sombrios, não se
+notará aqui, por ser tão miudo e repetido, e já tão tarde que não
+se poderá dizel-o sem falha nem canceira. Mas o principal irá. E o
+principal é que os nossos temporaes eram agora continuos e terriveis.
+Antes de descoberta aquella má terra da verdade, tivemos outros de
+pouca dura; não tardava que o ceu se fizesse azul, o sol claro e o mar
+chão, por onde abríamos novamente as velas que nos levavam ás ilhas e
+costas mais bellas do universo, até que outro pé de vento desbaratava
+tudo, e nós, postos á capa, esperavamos outra bonança, que não era
+tardia nem dubia, antes total, proxima e firme.
+
+Releva-me estas metaphoras; cheiram ao mar e á maré que deram morte ao
+meu amigo e comborço Escobar. Cheiram tambem aos olhos de ressaca de
+Capitú. Assim, posto sempre fosse homem de terra, conto aquella parte
+da minha vida, como um marujo contaria o seu naufragio.
+
+Já entre nós só faltava dizer a palavra ultima; nós a liamos, porém,
+nos olhos um do outro, vibrante e decisiva, e sempre que Ezequiel vinha
+para nós não fazia mais que separar-nos. Capitú propoz mettel-o em um
+collegio, donde só viesse aos sabbados; custou muito ao menino acceitar
+esta situação.
+
+--Quero ir com papae! Papae ha de ir commigo! bradava elle.
+
+Fui eu mesmo que o levei um dia de manhã, uma segunda feira. Era no
+antigo largo da Lapa, perto da nossa casa. Levei-o a pé, pela mão, como
+levára o ataúde do outro. O pequeno ia chorando e fazendo perguntas a
+cada passo, se voltaria para casa, e quando, e se eu iria vel-o...
+
+--Vou.
+
+--Papae não vae!
+
+--Vou sim.
+
+--Jura, papae!
+
+--Pois sim.
+
+--Papae não diz que jura.
+
+--Pois juro.
+
+E lá o levei e deixei. A ausencia temporaria não atalhou o mal, e toda
+a arte fina de Capitú para fazel-o attenuar, ao menos, foi como se
+não fosse; eu sentia-me cada vez peor. A mesma situação nova aggravou
+a minha paixão. Ezequiel vivia agora mais fóra da minha vista; mas a
+volta delle, ao fim das semanas, ou pelo descostume em que eu ficava,
+ou porque o tempo fosse andando e completando a semelhança, era a
+volta de Escobar mais vivo e ruidoso. Até a voz; dentro de pouco, já
+me parecia a mesma. Aos sabbados, buscava não jantar em casa e só
+entrar quando elle estivesse dormindo; mas não escapava ao domingo, no
+gabinete, quando eu me achava entre jornaes e autos. Ezequiel entrava
+turbulento, expansivo, cheio de riso e de amor, porque o demo do
+pequeno cada vez morria mais por mim. Eu, a falar verdade, sentia agora
+uma aversão que mal podia disfarçar, tanto a ella como aos outros. Não
+podendo encobrir inteiramente esta disposição moral, cuidava de me
+não fazer encontradiço com elle, ou só o menos que pudesse; ora tinha
+trabalho que me obrigava a fechar o gabinete, ora saía ao domingo para
+ir passear pela cidade o arrebaldes o meu mal secreto.
+
+
+
+
+CXXXIII
+
+Uma ideia.
+
+Um dia,--era uma sexta feira,--não pude mais. Certa ideia, que
+negrejava em mim, abriu as azas e entrou a batel-as de um lado para
+outro, como fazem as ideias que querem sair. O ser sexta-feira creio
+que foi acaso, mas tambem póde ter sido proposito; fui educado no
+terror daquelle dia; ouvi cantar balladas em casa, vindas da roça e
+da antiga metropole, nas quaes a sexta-feira era o dia de agouro.
+Entretanto, não havendo almanaks no cerebro, é provavel que a ideia
+não batesse as azas senão pela necessidade que sentia do vir ao ar e
+á vida. A vida é tão bella que a mesma ideia da morte precisa de vir
+primeiro a ella, antes de se ver cumprida. Já me vás entendendo; lê
+agora outro capitulo.
+
+
+
+
+CXXXIV
+
+O dia de sabbado.
+
+A ideia saiu finalmente do cerebro. Era noite, e não pude dormir, por
+mais que a sacudisse de mim. Tambem nenhuma noite me passou tão curta.
+Amanheceu, quando cuidava não ser mais que uma ou duas horas. Sai,
+suppondo deixar a ideia em casa; ella veiu commigo. Cá fóra tinha a
+mesma côr escura, as mesmas azas trepidas, e posto avoasse com ellas,
+era como se fosse fixa; eu a levava na retina, não que me encobrisse as
+cousas externas, mas via-as atra vez della, com a côr mais pallida que
+de costume, e sem se demorarem nada.
+
+Não me lembra bem o resto do dia. Sei que escrevi algumas cartas,
+comprei uma substancia, que não digo, para não espertar o desejo de
+proval-a. A pharmacia falliu, é verdade; o dono fez-se banqueiro, e
+o banco prospera. Quando me achei com a morte no bolso senti tamanha
+alegria como se acabasse de tirar a sorte grande, ou ainda maior,
+porque o premio da loteria gasta-se, e a morte não se gasta. Fui a
+casa de minha mãe, com o fim de despedir-me, a titulo de visita. Ou de
+verdade ou por illusão, tudo alli me pareceu melhor nesse dia, minha
+mãe menos triste, tio Cosme esquecido do coração, prima Justina da
+lingua. Passei uma hora em paz. Cheguei a abrir mão do projecto. Que
+era preciso para viver? Nunca mais deixar aquella casa, ou prender
+aquella hora a mim mesmo...
+
+
+
+
+CXXXV
+
+Othello.
+
+Jantei fóra. De noite fui ao theatro. Representava-se justamente
+_Othello_, que eu não vira nem lera nunca; sabia apenas o assumpto,
+e estimei a coincidencia. Vi as grandes raivas do mouro, por causa
+de um lenço,--um simples lenço!--e aqui dou materia á meditação dos
+psychologos deste e de outros continentes, pois não me pude furtar á
+observação de que um lenço bastou a accender os ciumes de Othello e
+compor a mais sublime tragedia deste mundo. Os lenços perderam-se, hoje
+são precisos os proprios lençóes; alguma vez nem lençóes ha, e valem
+só as camisas. Taes eram as ideias que me iam passando pela cabeça,
+vagas e turvas, á medida que o mouro rolava convulso, e Iago distilava
+a sua calumnia. Nos intervallos não me levantava da cadeira; não queria
+expôr-me a encontrar algum conhecido. As senhoras ficavam quasi todas
+nos camarotes, emquanto os homens iam fumar. Então eu perguntava a
+mim mesmo se alguma daquellas não teria amado alguem que jazesse agora
+no cemiterio, e vinham outras incoherencias, até que o panno subia e
+continuava a peça. O ultimo acto mostrou-me que não eu, mas Capitú
+devia morrer. Ouvi as supplicas de Desdemona, as suas palavras amorosas
+e puras, e a furia do mouro, e a morte que este lhe deu entre applausos
+freneticos do publico.
+
+--E era innocente, vinha eu dizendo rua abaixo;--que faria o publico,
+se ella devéras fosse culpada, tão culpada como Capitú? E que morte lhe
+daria o mouro? Um travesseiro não bastaria; era preciso sangue e fogo,
+um fogo intenso e vasto, que a consumisse de todo, e a reduzisse a pó,
+e o pó seria lançado ao vento, como eterna extincção...
+
+Vaguei pelas ruas o resto da noite. Ceei, é verdade, um quasi nada,
+mas o bastante para ir até á manhã. Vi as ultimas horas da noite e
+as primeiras do dia, vi os derradeiros passeadores e os primeiros
+varredores, as primeiras carroças, os primeiros ruidos, os primeiros
+albores, um dia que vinha depois do outro e me veria ir para nunca mais
+voltar. As ruas que eu andava como que me fugiam por si mesmas. Não
+tornaria a contemplar o mar da Gloria, nem a serra dos Orgãos, nem a
+fortaleza de Santa-Cruz e as outras. A gente que passava não era tanta,
+como nos dias communs da semana, mas era já numerosa e ia a algum
+trabalho, que repetiria depois; eu é que não repetiria mais nada.
+
+Cheguei a casa, abri a porta devagarinho, subi pé ante-pé, e metti-me
+no gabinete; iam dar seis horas. Tirei o veneno do bolso, fiquei em
+mangas de camisa, e escrevi ainda uma carta, a ultima, dirigida a
+Capitú. Nenhuma das outras era para ella; senti necessidade de lhe
+dizer uma palavra em que lhe ficasse o remorso da minha morte. Escrevi
+dous textos. O primeiro queimei-o por ser longo e diffuso. O segundo
+continha só o necessário, claro e breve. Não lhe lembrava o nosso
+passado, nem as lutas havidas, nem alegria alguma; falava-lhe só de
+Escobar e da necessidade de morrer.
+
+
+
+
+CXXXVI
+
+A chicara de café.
+
+O meu plano foi esperar o café, dissolver nelle a droga e ingeril-a.
+Até lá, não tendo esquecido de todo a minha historia romana, lembrou-me
+que Catão, antes de se matar, leu e releu um livro de Platão. Não tinha
+Platão commigo; mas um tomo truncado de Plutarcho, em que era narrada
+a vida do celebre romano, bastou-me a occupar aquelle pouco tempo, e,
+para em tudo imital-o, estirei-me no canapé. Nem era só imital-o nisso;
+tinha necessidade de incutir em mim a coragem delle, assim como elle
+precisára dos sentimentos do philosopho, para intrepidamente morrer. Um
+dos males da ignorancia é não ter este remedio á ultima hora. Ha muita
+gente que se mata sem elle, e nobremente expira; mas estou que muita
+mais gente poria termo aos seus dias, se pudesse achar essa especie de
+cocaina moral dos bons livros. Entretanto, querendo fugir a qualquer
+suspeita de imitação, lembra-me bem que, para não ser encontrado ao pé
+de mim o livro de Plutarcho, nem ser dada a noticia nas gazetas com a
+da côr das calças que eu então vestia, assentei de pôl-o novamente no
+seu logar, antes de beber o veneno.
+
+O copeiro trouxe o café. Ergui-me, guardei o livro, e fui para a
+mesa onde ficára a chicara. Já a casa estava em rumores; era tempo
+de acabar commigo. A mão tremeu-me ao abrir o papel em que trazia a
+droga embrulhada. Ainda assim tive animo de despejar a substancia
+na chicara, e comecei a mexer o café, os olhos vagos, a memoria em
+Desdemona innocente; o espectaculo da vespera vinha intrometter-se na
+realidade da manhã. Mas a photographia de Escobar deu-me o animo que me
+ia faltando; lá estava elle, com a mão nas costas da cadeira, a olhar
+ao longe...
+
+--Acabemos com isto, pensei.
+
+Quando ia a beber, cogitei se não seria melhor esperar que Capitú e o
+filho saissem para a missa; beberia depois; era melhor. Assim disposto,
+entrei a passear no gabinete. Ouvi a voz de Ezequiel no corredor, vi-o
+entrar e correr a mim bradando:
+
+--Papae! papae!
+
+Leitor, houve aqui um gesto que eu não descrevo por havel-o
+inteiramente esquecido, mas crê que foi bello e tragico.
+Effectivamente, a figura do pequeno fez-me recuar até dar de costas na
+estante. Ezequiel abraçou-me os joelhos, esticou-se na ponta dos pés,
+como querendo subir e dar-me o beijo do costume; e repetia, puxando-me:
+
+--Papae! papae!
+
+
+
+
+CXXXVII
+
+Segundo impulso.
+
+Se eu não olhasse para Ezequiel, é provavel que não estivesse aqui
+escrevendo este livro, porque o meu primeiro impeto foi correr ao café
+e bebel-o. Cheguei a pegar na chicara, mas o pequeno beijava-me a mão,
+como de costume, e a vista delle, como o gesto, deu-me outro impulso
+que me custa dizer aqui; mas vã lá, diga-se tudo. Chamem-me embora
+assassino; não serei eu que os desdiga ou contradiga; o meu segundo
+impulso foi criminoso. Inclinei-me e perguntei a Ezequiel se já tomára
+café.
+
+--Já, papae; vou á missa com mamãe.
+
+--Toma outra chicara, meia chicara só.
+
+--E papae?
+
+--Eu mando vir mais; anda, bebe!
+
+Ezequiel abriu a boca. Cheguei-lhe a chicara, tão tremulo que quasi a
+entornei, mas disposto a fazel-a cair pela guela abaixo, caso o sabor
+lhe repugnasse, ou a temperatura, porque o café estava frio... Mas não
+sei que senti que me fez recuar. Puz a chicara em cima da mesa, e dei
+por mim a beijar doudamente a cabeça do menino.
+
+--Papae papae! exclamava Ezequiel.
+
+--Não, não, eu não sou teu pae!
+
+
+
+
+CXXXVIII
+
+Capitú que entra.
+
+Quando levantei a cabeça, dei com a figura de Capitú deante de mim.
+Eis ahi outro lance, que parecerá de theatro, e é tão natural como o
+primeiro, uma vez que a mãe e o filho iam á missa, e Capitú não saía
+sem falar-me. Era já um falar secco e breve; a mór parte das vezes, eu
+nem olhava para ella. Ella olhava sempre, esperando.
+
+Desta vez, ao dar com ella, não sei se era dos meus olhos, mas Capitú
+pareceu-me livida. Seguiu-se um daquelles silencios, a que, sem mentir,
+se pódem chamar de um seculo, tal é a extensão do tempo nas grandes
+crises. Capitú recompoz-se; disse ao filho que se fosse embora, e
+pediu-me que lhe explicasse...
+
+--Não ha que explicar, disse eu.
+
+--Ha tudo; não entendo as tuas lagrimas nem as de Ezequiel. Que houve
+entre vocês?
+
+--Não ouviu o que lhe disse?
+
+Capitú respondeu que ouvira choro e rumor de palavras. Eu creio que
+ouvira tudo claramente, mas confessal-o seria perder a esperança do
+silencio e da reconciliação; por isso negou a audiencia e confirmou
+unicamente a vista. Sem lhe contar o episodio do café, repeti-lhe as
+palavras do final do capitulo.
+
+--O que? perguntou ella como se ouvira mal.
+
+--Que não é meu filho.
+
+Grande foi a estupefacção de Capitú, e não menor a indignação que
+lhe succedeu, tão naturaes ambas que fariam duvidar as primeiras
+testemunhas de vista do nosso fôro. Já** ouvi que as ha para varios
+casos, questão de preço; eu não creio, tanto mais que a pessoa que me
+contou isto acabava de perder uma demanda. Mas, haja ou não testemunhas
+alugadas, a minha era verdadeira; a propria natureza jurava por si, e
+eu não queria duvidar della. Assim que, sem attender á linguagem de
+Capitú, aos seus gestos, á dôr que a retorcia, a cousa nenhuma, repeti
+as palavras ditas duas vezes com tal resolução que a fizeram afrouxar.
+Após alguns instantes, disse-me ella:
+
+--Só se póde explicar tal injuria pela convicção sincera; entretanto,
+você que era tão cioso dos menores gestos, nunca revelou a menor sombra
+de desconfiança. Que é que lhe deu tal ideia? Diga,--continuou vendo
+que eu não respondia nada,--diga tudo; depois do que ouvi, posso ouvir
+o resto, não póde ser muito. Que é que lhe deu agora tal convicção?
+Ande, Bentinho, fale! fale! Despeça-me d'aqui, mas diga tudo primeiro.
+
+--Ha cousas que se não dizem.
+
+--Que se não dizem só metade; mas já que disse metade, diga tudo.
+
+Tinha-se sentado n'uma cadeira ao pé da mesa. Podia estar um tanto
+confusa, o porte não era de accusada. Pedi-lhe ainda uma vez que não
+teimasse.
+
+--Não, Bentinho, ou conte o resto, para que eu me defenda, se você acha
+que tenho defesa, ou peço-lhe desde já a nossa separação: não posso
+mais!
+
+--A separação é cousa decidida, redargui pegando-lhe na proposta. Era
+melhor que a fizessemos por meias palavras ou em silencio; cada um iria
+com a sua ferida. Uma vez, porém, que a senhora insiste, aqui vae o que
+lhe posso dizer, e é tudo.
+
+Não disse tudo; mal pude alludir aos amores de Escobar sem proferir-lhe
+o nome. Capitú não poude deixar de rir, de um riso que eu sinto
+não poder transcrever aqui; depois, em um tom juntamente ironico e
+melancolico:
+
+--Pois até os defunctos! Nem os mortos escapam aos seus ciumes!
+
+Concertou a capinha e ergueu-se. Suspirou, creio que suspirou, emquanto
+eu, que não pedia outra cousa mais que a plena justificação della,
+disse-lhe não sei que palavras adequadas a este fim. Capitú olhou para
+mim com desdem, e murmurou:
+
+--Sei a razão disto; é a casualidade da semelhança... A vontade de
+Deus explicará tudo... Ri-se? É natural; apesar do seminario, não
+acredita em Deus; eu creio... Mas não falemos nisto; não nos fica bem
+dizer mais nada.
+
+
+
+
+CXXXIX
+
+A photographia.
+
+Palavra que estive a pique de crer que era victima de uma grande
+illusão, uma phantasmagoria de allucinado; mas a entrada repentina de
+Ezequiel, gritando:--«Mamãe! mamãe! é hora da missa!» restituiu-me
+á consciencia da realidade. Capitú e eu, involuntariamente, olhámos
+para a photographia de Escobar, e depois um para o outro. Desta vez
+a confusão della fez-se confissão pura. Este era aquelle; havia por
+força alguma photographia de Escobar pequeno que seria o nosso pequeno
+Ezequiel. De bocca, porém, não confessou nada; repetiu as ultimas
+palavras, puxou do filho e sairam para a missa.
+
+
+
+
+CXL
+
+Volta da egreja.
+
+Ficando só, era natural pegar do café e bebel-o. Pois, não, senhor;
+tinha perdido o gosto á morte. A morte era uma solução; eu acabava de
+achar outra, tanto melhor quanto que não era definitiva, e deixava
+a porta aberta á reparação, se devesse havel-a. Não disse _perdão_,
+mas _reparação_, isto é, justiça. Qualquer que fosse a razão do acto,
+rejeitei a morte, e esperei o regresso de Capitú. Este foi mais
+demorado que de costume; cheguei a temer que ella houvesse ido á casa
+de minha mãe, mas não foi.
+
+--Confiei a Deus todas as minhas amarguras, disse-me Capitú ao voltar
+da egreja; ouvi dentro de mim que a nossa separação é indispensavel, e
+estou ás suas ordens.
+
+Os olhos com que me disse isto eram embuçados, como espreitando um
+gesto de recusa ou de espera. Contava com a minha debilidade ou com
+a propria incerteza em que eu podia estar da paternidade do outro,
+mas falhou tudo. Acaso haveria em mim um homem novo, um que apparecia
+agora, desde que impressões novas e fortes o descobriam? Nesse caso era
+um homem apenas encoberto. Respondi-lhe que ia pensar, e fariamos o que
+eu pensasse. Em verdade vos digo que tudo estava pensado e feito.
+
+No intervallo, evocára as palavras do finado Gurgel, quando me
+mostrou em casa delle o retrato da mulher, parecido com Capitú. Has
+de lembrar-te dellas; se não, relê o capitulo, cujo numero não ponho
+aqui, por não me lembrar já qual seja, mas não fica longe. Reduzem-se
+a dizer que ha taes semelhanças inexplicaveis... Pelo dia adeante, e
+nos outros dias, Ezequiel ia ter commigo ao gabinete, e as feições
+do pequeno davam ideia clara das do outro, ou eu ia attentando
+mais nellas. De envolta, lembravam-me episodios vagos e remotos,
+palavras, encontros e incidentes, tudo em que a minha cegueira não
+poz malicia, e a que faltou o meu velho ciume. Uma vez em que os fui
+achar sósinhos e calados, um segredo que me fez rir, uma palavra
+della sonhando, todas essas reminiscencias vieram vindo agora, em tal
+atropello que me atordoaram... E porque os não esganei um dia, quando
+desviei os olhos da rua onde estavam duas andorinhas trepadas no fio
+telegraphico? Dentro, as minhas outras andorinhas estavam trepadas no
+ar, os olhos enfiados nos olhos, mas tão cautelosos que se desenfiaram
+logo, dizendo-me uma palavra amiga e alegre. Contei-lhes o namoro
+das andorinhas de fóra, e acharam-lhe graça; Escobar declarou que,
+para elle, seria melhor se as andorinhas, em vez de trepadas no fio
+de arame, estivessem á mesa do jantar cosidas. «Nunca comi os ninhos
+dellas, continuou, mas devem ser bons, se os chins os inventaram.» E
+ficámos a tratar dos chins e dos classicos que falaram delles, emquanto
+Capitú, confessando que a aborreciamos, foi a outros cuidados. Agora
+lembrava-me tudo o que então me pareceu nada.
+
+
+
+
+CXLI
+
+A solução.
+
+Aqui está o que fizemos. Pegámos em nós e fomos para a Europa,
+não passear, nem ver nada, novo nem velho; parámos na Suissa. Uma
+professora do Rio-Grande, que foi comnosco, ficou de companhia a
+Capitú, ensinando a lingua materna a Ezequiel, que apprenderia o resto
+nas escolas do paiz. Assim regulada a vida, tornei ao Brazil.
+
+Ao cabo de alguns mezes, Capitú começára a escrever-me cartas, a que
+respondi com brevidade e sequidão. As della eram submissas, sem odio,
+acaso affectuosas, e para o fim saudosas; pedia-me que a fosse ver.
+Embarquei um anno depois, mas não a procurei, e repeti a viagem com o
+mesmo resultado. Na volta, os que se lembravam della, queriam noticias,
+e eu dava-lh'as, como se acabasse de viver com ella; naturalmente as
+viagens eram feitas com o intuito de simular isto mesmo, e enganar a
+opinião. Um dia, finalmente...
+
+
+
+
+CXLII
+
+Uma santa.
+
+Entenda-se que, se nas viagens que fiz á Europa, José Dias não foi
+commigo, não é que lhe faltasse vontade; ficava de companhia a tio
+Cosme, quasi invalido, e a minha mãe, que envelheceu depressa. Tambem
+elle estava velho, posto que rijo. Ia a bordo despedir-se de mim, e
+as palavras que me dizia, os gestos de lenço, os proprios olhos que
+enxugava eram taes que me commoviam tambem. A ultima vez não foi o
+bordo.
+
+--Venha...
+
+--Não posso.
+
+--Está com medo?
+
+--Não; não posso. Agora, adeus, Bentinho, não sei sé me verá mais;
+creio que vou para a outra Europa, a eterna...
+
+Não foi logo; minha mãe embarcou primeiro. Procura no cemiterio de S.
+João Baptista uma sepultura sem nome, com esta unica indicação: _Uma
+santa._ É ahi. Fiz fazer essa inscripção com alguma difficuldade. O
+esculptor achou-a exquisita; o administrador do cemiterio consultou o
+vigario da parochia; este ponderou-me que as santas estão no altar e no
+ceu.
+
+--Mas, perdão, atalhei, eu não quero dizer que naquella sepultura está
+uma canonisada. A minha ideia é dar com tal palavra uma definição
+terrena de todas as virtudes que a finada possuiu na vida. Tanto é
+assim que, sendo a modestia uma dellas, desejo conserval-a postuma, não
+lhe escrevendo o nome.
+
+--Todavia, o nome, afiliação, as datas...
+
+--Quem lhe importará com datas, filiação, nem nomes, depois que eu
+acabar?
+
+--Quer dizer que era uma santa senhora, não?
+
+--Justamente. O protonotario Cabral, se fosse vivo, confirmaria aqui o
+que lhe digo.
+
+--Nem eu contesto a verdade, hesito só na formula. Conheceu então o
+protonotario?
+
+--Conheci-o. Era um padre-modelo.
+
+--Bom canonista, bom latinista, pio e caridoso, continuou o vigário.
+
+--E possuia algumas prendas de sociedade, disse eu; lá em casa sempre
+ouvi que era insigne parceiro ao gamão...
+
+--Tinha muito bom dado! suspirou lentamente o vigario. Um dado de
+mestre!
+
+--Então, parece-lhe...?
+
+--Uma vez que não ha outro sentido, nem poderia havel-o, sim, senhor,
+admitte-se...
+
+José Dias assistiu a estas diligencias, com grande melancolia. No fim,
+quando saimos, disse mal do padre, chamou-lhe meticuloso. Só lhe achava
+desculpa por não ter conhecido minha mãe, nem elle nem os outros homens
+do cemiterio.
+
+--Não a conheceram; se a conhecessem, mandariam esculpir _santissima._
+
+
+
+
+CXLIII
+
+O ultimo superlativo.
+
+Não foi o ultimo superlativo de José Dias. Outros teve que não vale
+a pena escrever aqui, até que veiu o ultimo, o melhor delles, o mais
+doce, o que lhe fez da morte um pedaço de vida. Já então morava
+commigo; posto que minha mãe lhe deixasse uma pequena lembrança, veiu
+dizer-me que, com legado ou sem elle, não se separaria de mim. Talvez a
+esperança delle fosse enterrar-me. Correspondia-se com Capitú, a quem
+pedia que lhe mandasse o retrato de Ezequiel; mas Capitú ia adiando a
+remessa de correio a correio, até que elle não pediu mais nada, a não
+ser o coração do joven estudante; pedia-lhe tambem que não deixasse de
+falar a Ezequiel no velho amigo do pae e do avô, «destinado pelo ceu
+a amar o mesmo sangue.» Era assim que elle preparava os cuidados da
+terceira geração; mas a morte veiu antes de Ezequiel. A doença foi
+rapida. Mandei chamar um medico homeopatha.
+
+--Não, Bentinho, disse elle; basta um allopatha; em todas as escolas se
+morre. Demais, foram ideias da mocidade, que o tempo levou; converto-me
+á fé de meus paes. A allopathia é o catholicismo da medicina...
+
+Morreu sereno, após uma agonia curta. Pouco antes ouviu que o ceu
+estava lindo, e pediu que abrissemos a janella.
+
+--Não, o ar póde fazer-lhe mal.
+
+--Que mal? Ar é vida.
+
+Abrimos a janella. Realmente, estava um ceu azul e claro. José Dias
+soergueu-se e olhou para fóra; após alguns instantes, deixou cair a
+cabeça, murmurando: Lindissimo! Foi a ultima palavra que proferiu neste
+mundo. Pobre José Dias! Porque hei de negar que chorei por elle?
+
+
+
+
+CXLIV
+
+Uma pergunta tardia.
+
+Assim chorem por mim todos os olhos de amigos e amigas que deixo neste
+mundo, mas não é provavel. Tenho-me feito esquecer. Móro longe e saio
+pouco. Não é que haja effectivamente ligado as duas pontas da vida.
+Esta casa do Engenho Novo, comquanto reproduza a de Matacavallos,
+apenas me lembra aquella, e mais por effeito de comparação e de
+reflexão que de sentimento. Já disse isto mesmo.
+
+Hão de perguntar-me por que razão, tendo a propria casa velha, na mesma
+rua antiga, não impedi que a demolissem e vim reproduzil-a nesta. A
+pergunta devia ser feita a principio, mas aqui vae a resposta. A razão
+é que, logo que minha mãe morreu, querendo ir para lá, fiz primeiro
+uma longa visita de inspecção por alguns dias, e toda a casa me
+desconheceu. No quintal a aroeira e a pitangueira, o poço, a caçamba
+velha e o lavadouro, nada sabia de mim. A casuarina era a mesma que eu
+deixara ao fundo, mas o tronco, em vez de recto, como outr'ora, tinha
+agora um ar de ponto de interrogação; naturalmente pasmava do intruso.
+Corri os olhos pelo ar, buscando algum pensamento que alli deixasse, e
+não achei nenhum. Ao contrario, a ramagem começou a sussurrar alguma
+cousa que não entendi logo, e parece que era a cantiga das manhãs
+novas. Ao pé dessa musica sonora e jovial, ouvi tambem o grunhir dos
+porcos, especie de troça concentrada e philosophica.
+
+Tudo me era extranho e adverso. Deixei que demolissem a casa, e,
+mais tarde, quando vim para o Engenho Novo, lembrou-me fazer esta
+reproducção por explicações que dei ao architecto segundo contei em
+tempo.
+
+
+
+
+CXLV
+
+O regresso.
+
+Ora, foi já nesta casa que um dia, estando a vestir-me para almoçar,
+recebi um cartão com este nome:
+
+     EZEQUIEL A. DE SANTIAGO
+
+--A pessoa está ahi? perguntei ao criado.
+
+--Sim, senhor; ficou esperando.
+
+Não fui logo, logo; fil-o esperar um dez ou quinze minutos na sala.
+Só depois é que me lembrou que cumpria ter certo alvoroço e correr,
+abraçal-o, falar-lhe na mãe. A mãe,--creio que ainda não disse que
+estava morta e enterrada. Estava; lá repousa na velha Suissa. Acabei de
+vestir-me ás pressas. Quando saí do quarto, tomei ares de pae, um pae
+entre manso e crespo, metade Dom Casmurro. Ao entrar na sala, dei com
+um rapaz, de costas, mirando o busto de Massinissa, pintado na parede.
+Vim cauteloso, e não fiz rumor. Não obstante, ouviu-me os passos, e
+voltou-se depressa. Conheceu-me pelos retratos e correu para mim. Não
+me mexi; era nem mais nem menos o meu antigo e joven companheiro do
+seminario de S. José, um pouco mais baixo, menos cheio de corpo, e,
+salvo as cores, que eram vivas, o mesmo rosto do meu amigo. Trajava á
+moderna, naturalmente, e as maneiras eram differentes, mas o aspecto
+geral reproduzia a pessoa morta. Era o proprio, o exacto, o verdadeiro
+Escobar. Era o meu comborço; era o filho de seu pae. Vestia de luto
+pela mãe; eu tambem estava de preto. Sentámo-nos.
+
+--Papae não faz differença dos ultimos retratos, disse-me elle.
+
+A voz era a mesma de Escobar, o sotaque era afrancezado. Expliquei-lhe
+que realmente pouco diferia do que era, e comecei um interrogatorio
+para ter menos que falar e dominar assim a minha emoção. Mas isto mesmo
+dava animação á cara delle, e o meu collega do seminario ia resurgindo
+cada vez mais do cemiterio. Eil-o aqui, deante de mim, com egual riso
+e maior respeito; total, o mesmo obsequio e a mesma graça. Anciava por
+ver-me. A mãe falava muito em mim, louvando-me extraordinariamente,
+como o homem mais puro do mundo, o mais digno de ser querido.
+
+--Morreu bonita, concluiu.
+
+--Vamos almoçar.
+
+Se pensas que o almoço foi amargo, enganas-te. Teve seus minutos de
+aborrecimento, é verdade; a principio doeu-me que Ezequiel não fosse
+realmente meu filho, que me não completasse e continuasse. Se o rapaz
+tem saido á mae, eu acabava crendo tudo, tanto mais facilmente quanto
+que elle parecia haver-me deixado na vespera, evocava a meninice,
+scenas e palavras, a ida para o collegio...
+
+--Papae ainda se lembra quando me levou para o collegio? perguntou
+rindo.
+
+--Pois não hei de lembrar-me?
+
+--Era na Lapa; eu ia desesperado, e papae não parava, dava-me cada
+puxão, e eu com as perninhas.... Sim, senhor, acceito.
+
+Estendeu o copo ao vinho que eu lhe offerecia, bebeu um gole, e
+continuou a comer. Escobar comia assim tambem, com a cara mettida no
+prato. Contou-me a vida na Europa, os estudos, particularmente os de
+archeologia, que era a sua paixão. Falava da antiguidade com amor,
+contava o Egypto e os seus milhares de seculos, sem se perder nos
+algarismos; tinha a cabeça arithmetica do pae. Eu, posto que a ideia
+da paternidade do outro me estivesse já familiar, não gostava da
+resurreição. Ás vezes, fechava os olhos para não ver gestos nem nada,
+mas o diabrete falava e ria, e o defuncto falava e ria por elle.
+
+Não havendo remedio senão ficar com elle, fiz-me pae deveras. A ideia
+de que pudesse ter visto alguma photographia de Escobar, que Capitú por
+descuido levasse comsigo, não me acudiu, nem, se acudisse, persistiria.
+Ezequiel cria em mim, como na mãe. Se fosse vivo José Dias, acharia
+nelle a minha propria pessoa. Prima Justina quiz vel-o, mas estando
+enferma, pediu-me que o levasse lá. Conhecia aquella parenta. Creio que
+o desejo de ver Ezequiel era para o fim de verificar no moço o debuxo
+que por ventura houvesse achado no menino. Seria um regalo ultimo;
+atalhei-o a tempo.
+
+--Está muito mal, disse eu a Ezequiel que queria ir vel-a, qualquer
+emoção póde trazer-lhe a morte. Iremos vel-a, quando ficar melhor.
+
+Não fomos; a morte levou-a dentro de poucos dias. Ella descança no
+Senhor ou como quer que seja. Ezequiel viu-lhe a cara no caixão e não a
+conheceu, nem podia, tão outra a fizeram os annos e a morte. No caminho
+para o cemiterio, iam-lhe lembrando uma porção de cousas, alguma rua,
+alguma torre, um trecho de praia, e era todo alegria. Assim acontecia
+sempre que voltava para casa, ao fim do dia; contava-me as recordações
+que ia recebendo das ruas e das casas. Admirava-se que muitas destas
+fossem as mesmas que elle deixára, como se as casas morressem meninas.
+
+Ao cabo de seis mezes, Ezequiel falou-me em uma viagem á Grecia, ao
+Egypto, e á Palestina, viagem scientifica, promessa feita a alguns
+amigos.
+
+--De que sexo? perguntei rindo.
+
+Sorriu vexado, e respondeu-me que as mulheres eram creaturas tão
+da moda e do dia que nunca haviam de entender uma ruina de trinta
+seculos. Eram dous collegas da universidade. Prometti-lhe recursos,
+e dei-lhe logo os primeiros dinheiros precisos. Commigo disse que
+uma das consequencias dos amores furtivos do pae era pagar eu as
+archeologias do filho; antes lhe pagasse a lepra.... Quando esta ideia
+me atravessou o cerebro, senti-me tão cruel e perverso que peguei no
+rapaz, e quiz apertal-o ao coração, mas recuei; encarei-o depois, como
+se faz a um filho de verdade; os olhos que elle me deitou foram ternos
+e agradecidos.
+
+
+
+
+CXLVI
+
+Não houve lepra.
+
+Não houve lepra, mas ha febres por todas essas terras humanas, sejam
+velhas ou novas. Onze mezes depois, Ezequiel morreu de uma febre
+typhoide, e foi enterrado nas immediações de Jerusalem, onde os dous
+amigos da universidade lhe levantaram um tumulo com esta inscripção,
+tirada do propheta Ezequiel, em grego: «Tu eras perfeito nos teus
+caminhos.» Mandaram-me ambos os textos, grego e latino, o desenho da
+sepultura, a conta das despesas e o resto do dinheiro que elle levava;
+pagaria o triplo para não tornar a vel-o.
+
+Como quizesse verificar o texto, consultei a minha Vulgata, e achei que
+era exacto, mas tinha ainda um complemento: «Tu eras perfeito nos teus
+caminhos, _desde o dia da tua creação._» Parei e perguntei calado:
+«Quando seria o dia da creação de Ezequiel?» Ninguem me respondeu. Eis
+ahi mais um mysterio para ajuntar aos tantos deste mundo. Apesar de
+tudo, jantei bem e fui ao theatro.
+
+
+
+
+CXLVII
+
+A exposição retrospectiva.
+
+Já sabes que a minha alma, por mais lacerada que tenha sido, não
+ficou ahi para um canto como uma flor livida e solitaria. Não lhe dei
+essa côr ou descôr. Vivi o melhor que pude, sem me faltarem amigas
+que me consolassem da primeira. Caprichos de pouca dura, é verdade.
+Ellas é que me deixavam como pessoas que assistem a uma exposição
+retrospectiva, e, ou se fartam de vel-a, ou a luz da sala esmorece. Uma
+só dessas visitas tinha carro á porta e cocheiro de libré. As outras
+iam modestamente, _calcante pede_, e, se chovia, eu é que ia buscar um
+carro de praça, e as mettia dentro, com grandes despedidas, e maiores
+recommendações:
+
+--Levas o catalogo?
+
+--Levo; até amanhã.
+
+--Até amanhã.
+
+Não voltavam mais. Eu ficava á porta, esperando, ia até á esquina,
+espiava, consultava o relogio, e não via nada nem ninguem. Então, se
+apparecia outra visita, dava-lhe o braço, entravamos, mostrava-lhe
+as paizagens, os quadros historicos ou de genero, uma aquarella,
+um pastel, uma _gouache_, e tambem esta cançava, e ia embora com o
+catalogo na mão....
+
+
+
+
+CXLVIII
+
+E bem, e o resto?
+
+Agora, porque é que nenhuma dessas caprichosas me fez esquecer a
+primeira amada do meu coração? Talvez porque nenhuma tinha os olhos
+de ressaca, nem os de cigana obliqua e dissimulada. Mas não é este
+propriamente o resto do livro. O resto é saber se a Capitú da praia
+da Gloria já estava dentro da de Matacavallos, ou se esta foi mudada
+naquella por effeito de algum caso incidente. Jesus, filho de Sirach,
+se soubesse dos meus primeiros ciumes, dir-me-hia, como no seu cap. IX,
+vers. 1: «Não tenhas ciumes de tua mulher para que ella não se metta a
+enganar-te com a malicia que apprender de ti.» Mas eu creio que não,
+e tu concordarás commigo; se te lembras bem da Capitú menina, has de
+reconhecer que uma estava dentro da outra, como a fruta dentro da casca.
+
+E bem, qualquer que seja a solução, uma cousa fica, e é a summa das
+summas, ou o resto dos restos, a saber, que a minha primeira amiga e
+o meu maior amigo, tão extremosos ambos e tão queridos tambem, quiz o
+destino que acabassem juntando-se e enganando-me.... A terra lhes seja
+leve! Vamos á _Historia dos suburbios._
+
+
+FIM
+
+
+
+
+INDICE
+
+    Capitulo I         Do titulo
+             II        Do livro
+             III       A denuncia
+             IV        Um dever amarissimo!
+             V         O aggregado
+             VI        Tio Cosme
+             VII       D. Gloria
+             VIII      É tempo!
+             IX        A opera
+             X         Acceito a theoria
+             XI        A promessa
+             XII       Na varanda
+             XIII      Capitú
+             XIV       A inscripção
+             XV        Outra voz repentina
+             XVI       O administrador interino
+             XVII      Os vermes
+             XVIII     Um plano
+             XIX       Sem falta
+             XX        Mil padre-nossos e mil ave-marias
+             XXI       Prima Justina
+             XXII      Sensações alheias
+             XXIII     Prazo dado
+             XXIV      De mãe e de servo
+             XXV       No Passeio Publico
+             XXVI      As leis são bellas
+             XXVII     Ao portão
+             XXVIII    Na rua
+             XXIX      O imperador
+             XXX       O Santissimo
+             XXXI      As curiosidades de Capitú
+             XXXII     Olhos de ressaca
+             XXXIII    O penteado
+             XXXIV     Sou homem!
+             XXXV      O protonotario apostolico
+             XXXVI     Ideia sem pernas e ideia sem braços
+             XXXVII    A alma é cheia de mysterios
+             XXXVIII   Que susto, meu Deus!
+             XXXIX     A vocação
+             XL        Uma egua
+             XLI       A audiencia secreta
+             XLII      Capitú reflectindo
+             XLIII     Você tem medo?
+             XLIV      O primeiro filho
+             XLV       Abane a cabeça, leitor
+             XLVI      As pazes
+             XLVII     «A senhora saiu»
+             XLVIII    Juramento do poço
+             XLIX      Uma vela aos sabbados
+             L         Um meio termo
+             LI        Entre luz e fusco
+             LII       O velho Padua
+             LIII      A caminho!
+             LIV       Panegyrico de Santa Monica
+             LV        Um soneto
+             LVI       Um seminarista
+             LVII      De preparação
+             LVI       O tratado
+             LIX       Convivas de boa memoria
+             LX        Querido opusculo
+             LXI       A vacca de Homero
+             LXII      Uma ponta de Iago
+             LXII      Metades de um sonho
+             LXIV      Uma ideia e um escrupulo
+             LXV       A dissimulação
+             LXVI      Intimidade
+             LXVI      Um peccado
+             LXVII     Adiemos a virtude
+             LXIX      A missa
+             LXX       Depois da missa
+             LXXI      Visita de Escobar
+             LXXII     Uma reforma dramatica
+             LXXIH     O contra-regra
+             LXXIV     A presilha
+             LXXV      O desespero
+             LXXVI     Explicação
+             LXXVII    Prazer das dôres velhas
+             LXXVIII   Segredo por segredo
+             LXXIX     Vamos ao capitulo
+             LXXX      Venhamos ao capitulo
+             LXXXI     Uma palavra
+             LXXXII    O canapé
+             LXXXIII   O retrato
+             LXXXIV    Chamado
+             LXXXV     O defuncto
+             LXXXVI    Amai, rapazes
+             LXXXVII   A sege
+             LXXXVIII  Um pretexto honesto
+             LXXXIX    A recusa
+             XC        A polemica
+             XCI       Achado que consola
+             XCII      O diabo não é tão feio como se pinta
+             XCIII     Um amigo por um defuncto
+             XCIV      Ideias arithmeticas
+             XCV       O papa
+             XCVI      Um substituto
+             XCVII     A saida
+             XCVIII    Cinco annos
+             XCIX      O filho é a cara do pae
+             C         «Tu serás feliz, Bentinho!»
+             CI        No ceu
+             CII       De casada
+             CIII      A felicidade tem boa alma
+             CIV       As pyramides
+             CV        Os braços
+             CVI       Dez libras esterlinas
+             CVII      Ciumes do mar
+             CVIII     Um filho
+             CIX       Um filho unico
+             CX        Rasgos da infancia
+             CXI       Contado depressa
+             CXII      As imitações de Ezequiel
+             CXIII     Embargos de terceiro
+             CXIV      Em que se explica o explicado
+             CXV       Duvidas sobre duvidas
+             CXVI      Filho do homem
+             CXVII     Amigos proximos
+             CXVIII    A mão de Sancha
+             CXIX      Não faça isso, querida
+             CXX       Os autos
+             CXXI      A catastrophe
+             CXXII     O enterro
+             CXXIII    Olhos de ressaca
+             CXXIV     O discurso
+             CXXV      Uma comparação
+             CXXVI     Scismando
+             CXXVII    O barbeiro
+             CXXVIII   Punhado de successos
+             CXXIX     A D. Sancha
+             CXXX      Um dia
+             CXXXI     Anterior ao anterior
+             CXXXII    O debuxo e o colorido
+             CXXXIII   Uma ideia
+             CXXXIV    O dia de sabbado
+             CXXXV     Othello
+             CXXXVI    A chicara de café
+             CXXXVII   Segundo impulso
+             CXXXVIII  Capitú que entra
+             CXXXIX    A photographia
+             CXL       Volta da egreja
+             CXLI      A solução
+             CXLII     Uma santa
+             CXLIII    O ultimo superlativo
+             CXLIV     Uma pergunta tardia
+             CXLV      O regresso
+             CXLVI     Não houve lepra
+             CXLVII    A exposição retrospectiva
+             CXLVIII   É bem, e o resto?

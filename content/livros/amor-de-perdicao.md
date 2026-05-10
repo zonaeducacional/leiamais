@@ -5,12517 +5,6543 @@ ano: "1862"
 categoria: "Romantismo"
 ---
 
-E-text prepared by Chuck Greif from digital text provided by the Worchel
-Institute for the Study of Beat and Bohemian Literature
-(http://home.swbell.net/worchel/index.html)
+Produced by Biblioteca Nacional Digital (http://bnd.bn.pt),
+Rita Farinha and the Online Distributed Proofreading Team
+at https://www.pgdp.net
 
 
 
-Note: This book by Henry Murger, originally published in 1851, was
-      the source of two operas titled "La Bohème"--one by Giacomo
-      Puccini (1896) and the other by Ruggero Leoncavallo (1897).
-      Project Gutenberg also has the original French version of
-      the book (Scènes de la vie de bohème); see
-      https://www.gutenberg.org/etext/18446.
 
 
 
 
+AMOR DE PERDIÇÃO.
 
-BOHEMIANS OF THE LATIN QUARTER
 
-by
 
-HENRY MURGER
 
+AMOR DE PERDIÇÃO
 
 
+(MEMORIAS D'UMA FAMILIA).
 
 
+ROMANCE
 
+POR
 
-1888
-
-Vizetelly & Co. London
-
-
-
-
-TABLE OF CONTENTS
-
-Preface
-Chapter I, How The Bohemian Club Was Formed
-Chapter II, A Good Angel
-Chapter III, Lenten Loves
-Chapter IV, Ali Rodolphe; Or, The Turk Perforce
-Chapter V, The Carlovingian Coin
-Chapter VI, Mademoiselle Musette
-Chapter VII, The Billows of Pactolus
-Chapter VIII, The Cost Of a Five Franc Piece
-Chapter IX, The White Violets
-Chapter X, The Cape of Storms
-Chapter XI, A Bohemian Cafe
-Chapter XII, A Bohemian "At Home"
-Chapter XIII, The House Warming
-Chapter XIV, Mademoiselle Mimi
-Chapter XV, Donec Gratus
-Chapter XVI, The Passage of the Red Sea
-Chapter XVII, The Toilette of the Graces
-Chapter XVIII, Francine's Muff
-Chapter XIX, Musette's Fancies
-Chapter XX, Mimi in Fine Feather
-Chapter XXI, Romeo and Juliet
-Chapter XXII, Epilogue To The Loves Of Rodolphe And Mademoiselle Mimi
-Chapter XXIII, Youth Is Fleeting
-
-
-
-
-PREFACE
-
-
-The Bohemians of whom it is a question in this book have no connection
-with the Bohemians whom melodramatists have rendered synonymous with
-robbers and assassins. Neither are they recruited from among the
-dancing-bear leaders, sword swallowers, gilt watch-guard vendors, street
-lottery keepers and a thousand other vague and mysterious professionals
-whose main business is to have no business at all, and who are always
-ready to turn their hands to anything except good.
-
-The class of Bohemians referred to in this book are not a race of today,
-they have existed in all climes and ages, and can claim an illustrious
-descent. In ancient Greece, to go no farther back in this genealogy,
-there existed a celebrated Bohemian, who lived from hand to mouth round
-the fertile country of Ionia, eating the bread of charity, and halting
-in the evening to tune beside some hospitable hearth the harmonious lyre
-that had sung the loves of Helen and the fall of Troy. Descending the
-steps of time modern Bohemia finds ancestors at every artistic and
-literary epoch. In the Middle Ages it perpetuates the Homeric tradition
-with its minstrels and ballad makers, the children of the gay science,
-all the melodious vagabonds of Touraine, all the errant songsters who,
-with the beggar's wallet and the trouvere's harp slung at their backs,
-traversed, singing as they went, the plains of the beautiful land where
-the eglantine of Clemence Isaure flourished.
-
-At the transitional period between the days of chivalry and the dawn of
-the Renaissance, Bohemia continued to stroll along all the highways of
-the kingdom, and already to some extent about the streets of Paris.
-There is Master Pierre Gringoire, friend of the vagrants and foe to
-fasting. Lean and famished as a man whose very existence is one long
-Lent, he lounges about the town, his nose in the air like a pointer's,
-sniffing the odor from kitchen and cook shop. His eyes glittering
-with covetous gluttony cause the hams hung outside the pork
-butcher's to shrink by merely looking at them, whilst he jingles in
-imagination--alas! and not in his pockets--the ten crowns promised him
-by the echevins in payment of the pious and devout fare he has composed
-for the theater in the hall of the Palais de Justice. Beside the doleful
-and melancholy figure of the lover of Esmeralda, the chronicles of
-Bohemia can evoke a companion of less ascetic humor and more cheerful
-face--Master François Villon, par excellence, is this latter, and one
-whose poetry, full of imagination, is no doubt on account of those
-presentiments which the ancients attributed to their fates, continually
-marked by a singular foreboding of the gallows, on which the said Villon
-one day nearly swung in a hempen collar for having looked too closely at
-the color of the king's crowns. This same Villon, who more than once
-outran the watch started in his pursuit, this noisy guest at the dens of
-the Rue Pierre Lescot, this spunger at the court of the Duke of Egypt,
-this Salvator Rosa of poesy, has strung together elegies the
-heartbreaking sentiment and truthful accents of which move the most
-pitiless and make them forget the ruffian, the vagabond and the
-debauchee, before this muse drowned in her own tears.
-
-Besides, amongst all those whose but little known work has only been
-familiar to men for whom French literature does not begin the day when
-"Malherbe came," François Villon has had the honor of being the most
-pillaged, even by the big-wigs of modern Parnassus. They threw
-themselves upon the poor man's field and coined glory from his humble
-treasure. There are ballads scribbled under a penthouse at the street
-corner on a cold day by the Bohemian rhapsodist, stanzas improvised in
-the hovel in which the "belle qui fut haultmire" loosened her gilt
-girdle to all comers, which now-a-days metamorphosed into dainty
-gallantries scented with musk and amber, figure in the armorial bearing
-enriched album of some aristocratic Chloris.
-
-But behold the grand century of the Renaissance opens, Michaelangelo
-ascends the scaffolds of the Sistine Chapel and watches with anxious air
-young Raphael mounting the steps of the Vatican with the cartoon of the
-Loggie under his arm. Benvenuto Cellini is meditating his Perseus,
-Ghiberti is carving the Baptistery doors at the same time that Donatello
-is rearing his marbles on the bridges of the Arno; and whilst the city
-of the Medici is staking masterpieces against that of Leo X and
-Julius II, Titian and Paul Veronese are rendering the home of Doges
-illustrious. Saint Mark's competes with Saint Peter's.
-
-This fever of genius that had broken out suddenly in the Italian
-peninsula with epidemic violence spreads its glorious contagion
-throughout Europe. Art, the rival of God, strides on, the equal of
-kings. Charles V stoops to pick up Titian's brush, and Francis I dances
-attendance at the printing office where Etienne Dolet is perhaps
-correcting the proofs of "Pantagruel."
-
-Amidst this resurrection of intelligence, Bohemia continued as in the
-past to seek, according to Balzac's expression, a bone and a kennel.
-Clement Marot, the familiar of the ante-chamber of the Louvre, became,
-even before she was a monarch's mistress, the favorite of that fair
-Diana, whose smile lit up three reigns. From the boudoir of Diane de
-Poitiers, the faithless muse of the poet passed to that of Marguerite de
-Valois, a dangerous favor that Marot paid for by imprisonment. Almost
-at the same epoch another Bohemian, whose childhood on the shores of
-Sorrento had been caressed by the kisses of an epic muse, Tasso, entered
-the court of the Duke of Ferrara as Marot had that of Francis I. But
-less fortunate than the lover of Diane and Marguerite, the author of
-"Jerusalem Delivered" paid with his reason and the loss of his genius
-the audacity of his love for a daughter of the house of Este.
-
-The religious contests and political storms that marked the arrival of
-Medicis in France did not check the soaring flight of art. At the moment
-when a ball struck on the scaffold of the Fontaine des Innocents Jean
-Goujon who had found the Pagan chisel of Phidias, Ronsard discovered the
-lyre of Pindar and founded, aided by his pleiad, the great French lyric
-school. To this school succeeded the reaction of Malherbe and his
-fellows, who sought to drive from the French tongue all the exotic
-graces that their predecessors had tried to nationalize on Parnassus. It
-was a Bohemian, Mathurin Regnier, who was one of the last defenders of
-the bulwarks of poetry, assailed by the phalanx of rhetoricians and
-grammarians who declared Rabelais barbarous and Montaigne obscure. It
-was this same cynic, Mathurin Regnier, who, adding fresh knots to the
-satiric whip of Horace, exclaimed, in indignation at the manners of his
-day, "Honor is an old saint past praying to."
-
-The roll call of Bohemia during the seventeenth century contains a
-portion of the names belonging to the literature of the reigns of Louis
-XIII and Louis XIV, it reckons members amongst the wits of the Hôtel
-Rambouillet, where it takes its share in the production of the
-"Guirlande de Julie," it has its entries into the Palais Cardinal, where
-it collaborates, in the tragedy of "Marianne," with the poet-minister
-who was the Robespierre of the monarchy. It bestrews the couch of Marion
-Delorme with madrigals, and woos Ninon de l'Enclos beneath the trees of
-the Place Royal; it breakfasts in the morning at the tavern of the
-Goinfres or the Epee Royale, and sups in the evening at the table of the
-Duc de Joyeuse; it fights duels under a street lamp for the sonnet of
-Urania against the sonnet of Job. Bohemia makes love, war, and even
-diplomacy, and in its old days, weary of adventures, it turns the Old
-and New Testament into poetry, figures on the list of benefices, and
-well nourished with fat prebendaryships, seats itself on an episcopal
-throne, or a chair of the Academy, founded by one of its children.
-
-It was in the transition period between the sixteenth and eighteenth
-centuries that appeared those two lofty geniuses, whom each of the
-nations amongst which they lived opposed to one another in their
-struggles of literary rivalry. Moliere and Shakespeare, those
-illustrious Bohemians, whose fate was too nearly akin.
-
-The most celebrated names of the literature of the eighteenth century
-are also to be found in the archives of Bohemia, which, amongst the
-glorious ones of this epoch, can cite Jean Jacques Rousseau and
-d'Alembert, the foundling of the porch of Notre Dame, and amongst the
-obscure, Malfilâtre and Gilbert, two overrated reputations, for the
-inspiration of the one was but a faint reflection of the weak lyricism
-of Jean Baptiste Rousseau, and the inspiration of the other but the
-blending of proud impotence with a hatred which had not even the excuse
-of initiative and sincerity, since it was only the paid instrument of
-party rancour.
-
-We close with this epoch this brief summary of Bohemia in different
-ages, a prolegomena besprinkled with illustrious names that we have
-purposely placed at the beginning of this work, to put the reader on his
-guard against any misapplication he might fall into on encountering the
-title of Bohemians; long bestowed upon classes from which those whose
-manners and language we have striven to depict hold it an honor to
-differ.
-
-Today, as of old, every man who enters on an artistic career, without
-any other means of livelihood than his art itself, will be forced to
-walk in the paths of Bohemia. The greater number of our contemporaries
-who display the noblest blazonry of art have been Bohemians, and amidst
-their calm and prosperous glory they often recall, perhaps with regret,
-the time when, climbing the verdant slope of youth, they had no other
-fortune in the sunshine of their twenty years than courage, which is the
-virtue of the young, and hope, which is the wealth of the poor.
-
-For the uneasy reader, for the timorous citizen, for all those for whom
-an "i" can never be too plainly dotted in definition, we repeat as an
-axiom: "Bohemia is a stage in artistic life; it is the preface to the
-Academy, the Hôtel Dieu, or the Morgue."
-
-We will add that Bohemia only exists and is only possible in Paris.
-
-We will begin with unknown Bohemians, the largest class. It is made up
-of the great family of poor artists, fatally condemned to the law of
-incognito, because they cannot or do not know how to obtain a scrap of
-publicity, to attest their existence in art, and by showing what they
-are already prove what they may some day become. They are the race of
-obstinate dreamers for whom art has remained a faith and not a
-profession; enthusiastic folk of strong convictions, whom the sight of a
-masterpiece is enough to throw into a fever, and whose loyal heart beats
-high in presence of all that is beautiful, without asking the name of
-the master and the school. This Bohemian is recruited from amongst those
-young fellows of whom it is said that they give great hopes, and from
-amongst those who realize the hopes given, but who, from carelessness,
-timidity, or ignorance of practical life, imagine that everything is
-done that can be when the work is completed, and wait for public
-admiration and fortune to break in on them by escalade and burglary.
-They live, so to say, on the outskirts of life, in isolation and
-inertia. Petrified in art, they accept to the very letter the symbolism
-of the academical dithyrambic, which places an aureola about the heads
-of poets, and, persuaded that they are gleaming in their obscurity, wait
-for others to come and seek them out. We used to know a small school
-composed of men of this type, so strange, that one finds it hard to
-believe in their existence; they styled themselves the disciples of art
-for art's sake. According to these simpletons, art for art's sake
-consisted of deifying one another, in abstaining from helping chance,
-who did not even know their address, and in waiting for pedestals to
-come of their own accord and place themselves under them.
-
-It is, as one sees, the ridiculousness of stoicism. Well, then we again
-affirm, there exist in the heart of unknown Bohemia, similar beings
-whose poverty excites a sympathetic pity which common sense obliges you
-to go back on, for if you quietly remark to them that we live in the
-nineteenth century, that the five-franc piece is the empress of
-humanity, and that boots do not drop already blacked from heaven, they
-turn their backs on you and call you a tradesman.
-
-For the rest, they are logical in their mad heroism, they utter neither
-cries nor complainings, and passively undergo the obscure and rigorous
-fate they make for themselves. They die for the most part, decimated by
-that disease to which science does not dare give its real name, want. If
-they would, however, many could escape from this fatal _denouement_
-which suddenly terminates their life at an age when ordinary life is
-only beginning. It would suffice for that for them to make a few
-concessions to the stern laws of necessity; for them to know how to
-duplicate their being, to have within themselves two natures, the poet
-ever dreaming on the lofty summits where the choir of inspired voices
-are warbling, and the man, worker-out of his life, able to knead his
-daily bread, but this duality which almost always exists among strongly
-tempered natures, of whom it is one of the distinctive characteristics,
-is not met with amongst the greater number of these young fellows, whom
-pride, a bastard pride, has rendered invulnerable to all the advice of
-reason. Thus they die young, leaving sometimes behind them a work which
-the world admires later on and which it would no doubt have applauded
-sooner if it had not remained invisible.
-
-In artistic struggles it is almost the same as in war, the whole of the
-glory acquired falls to the leaders; the army shares as its reward the
-few lines in a dispatch. As to the soldiers struck down in battle, they
-are buried where they fall, and one epitaph serves for twenty thousand
-dead.
-
-So, too, the crowd, which always has its eyes fixed on the rising sun,
-never lowers its glance towards that underground world where the obscure
-workers are struggling; their existence finishes unknown and without
-sometimes even having had the consolation of smiling at an accomplished
-task, they depart from this life, enwrapped in a shroud of indifference.
-
-There exists in ignored Bohemia another fraction; it is composed of
-young fellows who have been deceived, or have deceived themselves. They
-mistake a fancy for a vocation, and impelled by a homicidal fatality,
-they die, some the victims of a perpetual fit of pride, others
-worshippers of a chimera.
-
-The paths of art, so choked and so dangerous, are, despite encumberment
-and obstacles, day by day more crowded, and consequently Bohemians were
-never more numerous.
-
-If one sought out all the causes that have led to this influx, one might
-perhaps come across the following.
-
-Many young fellows have taken the declamations made on the subject of
-unfortunate poets and artists quite seriously. The names of Gilbert,
-Malfilâtre, Chatterton, and Moreau have been too often, too imprudently,
-and, above all, too uselessly uttered. The tomb of these unfortunates
-has been converted into a pulpit, from whence has been preached the
-martyrdom of art and poetry,
-
-    "Farewell mankind, ye stony-hearted host,
-     Flint-bosomed earth and sun with frozen ray,
-     From out amidst you, solitary ghost
-     I glide unseen away."
-
-This despairing song of Victor Escousse, stifled by the pride which had
-been implanted in him by a factitious triumph, was for a time the
-"Marseillaise" of the volunteers of art who were bent on inscribing
-their names on the martyrology of mediocrity.
-
-For these funereal apotheoses, these encomiastic requiems, having all
-the attraction of the abyss for weak minds and ambitious vanities, many
-of these yielding to this attraction have thought that fatality was the
-half of genius; many have dreamt of the hospital bed on which Gilbert
-died, hoping that they would become poets, as he did a quarter of an
-hour before dying, and believing that it was an obligatory stage in
-order to arrive at glory.
-
-Too much blame cannot be attached to these immortal falsehoods, these
-deadly paradoxes, which turn aside from the path in which they might
-have succeeded so many people who come to a wretched ending in a career
-in which they incommode those to whom a true vocation only gives the
-right of entering on it.
-
-It is these dangerous preachings, this useless posthumous exaltations,
-that have created the ridiculous race of the unappreciated, the whining
-poets whose muse has always red eyes and ill-combed locks, and all the
-mediocrities of impotence who, doomed to non-publication, call the muse
-a harsh stepmother, and art an executioner.
-
-All truly powerful minds have their word to say, and, indeed, utter it
-sooner or later. Genius or talent are not unforeseen accidents in
-humanity; they have a cause of existence, and for that reason cannot
-always remain in obscurity, for, if the crowd does not come to seek
-them, they know how to reach it. Genius is the sun, everyone sees it.
-Talent is the diamond that may for a long time remain hidden in
-obscurity, but which is always perceived by some one. It is, therefore,
-wrong to be moved to pity over the lamentations and stock phrases of
-that class of intruders and inutilities entered upon an artistic career
-in which idleness, debauchery, and parasitism form the foundations of
-manners.
-
-Axiom, "Unknown Bohemianism is not a path, it is a blind alley."
-
-Indeed, this life is something that does not lead to anything. It is a
-stultified wretchedness, amidst which intelligence dies out like a lamp
-in a place without air, in which the heart grows petrified in a fierce
-misanthropy, and in which the best natures become the worst. If one has
-the misfortune to remain too long and to advance too far in this blind
-alley one can no longer get out, or one emerges by dangerous breaches
-and only to fall into an adjacent Bohemia, the manners of which belong
-to another jurisdiction than that of literary physiology.
-
-We will also cite a singular variety of Bohemians who might be called
-amateurs. They are not the least curious. They find in Bohemian life an
-existence full of seductions, not to dine every day, to sleep in the
-open air on wet nights, and to dress in nankeen in the month of December
-seems to them the paradise of human felicity, and to enter it some
-abandon the family home, and others the study which leads to an assured
-result. They suddenly turn their backs upon an honorable future to seek
-the adventure of a hazardous career. But as the most robust cannot stand
-a mode of living that would render Hercules consumptive, they soon give
-up the game, and, hastening back to the paternal roast joint, marry
-their little cousins, set up as a notary in a town of thirty thousand
-inhabitants, and by their fireside of an evening have the satisfaction
-of relating their artistic misery with the magniloquence of a traveller
-narrating a tiger hunt. Others persist and put their self-esteem in it,
-but when once they have exhausted those resources of credit which a
-young fellow with well-to-do relatives can always find, they are more
-wretched than the real Bohemians, who, never having had any other
-resources, have at least those of intelligence. We knew one of these
-amateur Bohemians who, after having remained three years in Bohemia and
-quarrelled with his family, died one morning, and was taken to the
-common grave in a pauper's hearse. He had ten thousand francs a year.
-
-It is needless to say that these Bohemians have nothing whatever in
-common with art, and that they are the most obscure amongst the least
-known of ignored Bohemia.
-
-We now come to the real Bohemia, to that which forms, in part, the
-subject of this book. Those who compose it are really amongst those
-called by art, and have the chance of being also amongst its elect. This
-Bohemia, like the others, bristles with perils, two abysses flank it on
-either side--poverty and doubt. But between these two gulfs there is at
-least a road leading to a goal which the Bohemians can see with their
-eyes, pending the time when they shall touch it with their hand.
-
-It is official Bohemia so-called because those who form part of it have
-publicly proved their existence, have signalised their presence in the
-world elsewhere than on a census list, have, to employ one of their own
-expressions, "their name in the bill," who are known in the literary and
-artistic market, and whose products, bearing their stamp, are current
-there, at moderate rates it is true.
-
-To arrive at their goal, which is a settled one, all roads serve, and
-the Bohemians know how to profit by even the accidents of the route.
-Rain or dust, cloud or sunshine, nothing checks these bold adventurers,
-whose sins are backed by virtue. Their mind is kept ever on the alert by
-their ambition, which sounds a charge in front and urges them to the
-assault of the future; incessantly at war with necessity, their
-invention always marching with lighted match blows up the obstacle
-almost before it incommodes them. Their daily existence is a work of
-genius, a daily problem which they always succeed in solving by the aid
-of audacious mathematics. They would have forced Harpagon to lend them
-money, and have found truffles on the raft of the "Medusa." At need,
-too, they know how to practice abstinence with all the virtue of an
-anchorite, but if a slice of fortune falls into their hands you will see
-them at once mounted on the most ruinous fancies, loving the youngest
-and prettiest, drinking the oldest and best, and never finding
-sufficient windows to throw their money out of. Then, when their last
-crown is dead and buried, they begin to dine again at that table spread
-by chance, at which their place is always laid, and, preceded by a pack
-of tricks, go poaching on all the callings that have any connection with
-art, hunting from morn till night that wild beast called a five-franc
-piece.
-
-The Bohemians know everything and go everywhere, according as they have
-patent leather pumps or burst boots. They are to be met one day leaning
-against the mantel-shelf in a fashionable drawing room, and the next
-seated in the arbor of some suburban dancing place. They cannot take ten
-steps on the Boulevard without meeting a friend, and thirty, no matter
-where, without encountering a creditor.
-
-Bohemians speak amongst themselves a special language borrowed from the
-conversation of the studios, the jargon of behind the scenes, and the
-discussions of the editor's room. All the eclecticisms of style are met
-with in this unheard of idiom, in which apocalyptic phrases jostle cock
-and bull stories, in which the rusticity of a popular saying is wedded
-to extravagant periods from the same mold in which Cyrano de Bergerac
-cast his tirades; in which the paradox, that spoilt child of modern
-literature, treats reason as the pantaloon is treated in a pantomime; in
-which irony has the intensity of the strongest acids and the skill of
-those marksmen who can hit the bull's-eye blindfold; a slang
-intelligent, though unintelligible to those who have not its key, and
-the audacity of which surpasses that of the freest tongues. This
-Bohemian vocabulary is the hell of rhetoric and the paradise of
-neologism.
-
-Such is in brief that Bohemian life, badly known to the puritans of
-society, decried by the puritans of art, insulted by all the timorous
-and jealous mediocrities who cannot find enough of outcries, lies, and
-calumnies to drown the voices and the names of those who arrive through
-the vestibule to renown by harnessing audacity to their talent.
-
-A life of patience, of courage, in which one cannot fight unless clad in
-a strong armour of indifference impervious to the attacks of fools and
-the envious, in which one must not, if one would not stumble on the
-road, quit for a single moment that pride in oneself which serves as a
-leaning staff; a charming and a terrible life, which has conquerors and
-its martyrs, and on which one should not enter save in resigning oneself
-in advance to submit to the pitiless law _væ victis_.
-
-H. M.
-
-
-
-
-CHAPTER I
-
-HOW THE BOHEMIAN CLUB WAS FORMED
-
-
-One morning--it was the eighth of April--Alexander Schaunard, who
-cultivated the two liberal arts of painting and music, was rudely
-awakened by the peal of a neighbouring cock, which served him for an
-alarm.
-
-"By Jove!" exclaimed Schaunard, "my feathered clock goes too fast: it
-cannot possibly be today yet!" So saying, he leaped precipitately out of
-a piece of furniture of his own ingenious contrivance, which, sustaining
-the part of bed by night, (sustaining it badly enough too,) did duty by
-day for all the rest of the furniture which was absent by reason of the
-severe cold for which the past winter had been noted.
-
-To protect himself against the biting north-wind, Schaunard slipped on
-in haste a pink satin petticoat with spangled stars, which served him
-for dressing-gown. This gay garment had been left at the artist's
-lodging, one masked-ball night, by a _folie_, who was fool enough to let
-herself be entrapped by the deceitful promises of Schaunard when,
-disguised as a marquis, he rattled in his pocket a seducingly sonorous
-dozen of crowns--theatrical money punched out of a lead plate and
-borrowed of a property-man. Having thus made his home toilette, the
-artist proceeded to open his blind and window. A solar ray, like an
-arrow of light, flashed suddenly into the room, and compelled him to
-open his eyes that were still veiled by the mists of sleep. At the same
-moment the clock of a neighbouring church struck five.
-
-"It is the Morn herself!" muttered Schaunard; "astonishing, but"--and he
-consulted an almanac nailed to the wall--"not the less a mistake. The
-results of science affirm that at this season of the year the sun ought
-not to rise till half-past five: it is only five o'clock, and there he
-is! A culpable excess of zeal! The luminary is wrong; I shall have to
-make a complaint to the longitude-office. However, I must begin to be a
-little anxious. Today is the day after yesterday, certainly; and since
-yesterday was the seventh, unless old Saturn goes backward, it must be
-the eighth of April today. And if I may believe this paper," continued
-Schaunard, going to read an official notice-to-quit posted on the wall,
-"today, therefore, at twelve precisely, I ought to have evacuated the
-premises, and paid into the hands of my landlord, Monsieur Bernard, the
-sum of seventy-five francs for three quarters' rent due, which he
-demands of me in very bad handwriting. I had hoped--as I always do--that
-Providence would take the responsibility of discharging this debt, but
-it seems it hasn't had time. Well, I have six hours before me yet. By
-making good use of them, perhaps--to work! to work!"
-
-He was preparing to put on an overcoat, originally of a long-haired,
-woolly fabric, but now completely bald from age, when suddenly, as if
-bitten by a tarantula, he began to execute around the room a polka of
-his own composition, which at the public balls had often caused him to
-be honoured with the particular attention of the police.
-
-"By Jove!" he exclaimed, "it is surprising how the morning air gives one
-ideas! It strikes me that I am on the scent of my air; Let's see." And,
-half-dressed as he was, Schaunard seated himself at his piano. After
-having waked the sleeping instrument by a terrific hurly-burly of notes,
-he began, talking to himself all the while, to hunt over the keys for
-the tune he had long been seeking.
-
-"Do, sol, mi, do la, si, do re. Bah! it's as false as Judas, that re!"
-and he struck violently on the doubtful note. "We must represent
-adroitly the grief of a young person picking to pieces a white daisy
-over a blue lake. There's an idea that's not in its infancy! However,
-since it is fashion, and you couldn't find a music publisher who would
-dare to publish a ballad without a blue lake in it, we must go with the
-fashion. Do, sol, mi, do, la, si, do, re! That's not so bad; it gives a
-fair idea of a daisy, especially to people well up in botany. La, si,
-do, re. Confound that re! Now to make the blue lake intelligible. We
-should have something moist, azure, moonlight--for the moon comes in too;
-here it is; don't let's forget the swan. Fa, mi, la, sol," continued
-Schaunard, rattling over the keys. "Lastly, an adieu of the young girl,
-who determines to throw herself into the blue lake, to rejoin her
-beloved who is buried under the snow. The catastrophe is not very
-perspicuous, but decidedly interesting. We must have something tender,
-melancholy. It's coming, it's coming! Here are a dozen bars crying like
-Magdalens, enough to split one's heart--Brr, brr!" and Schaunard shivered
-in his spangled petticoat, "if it could only split one's wood! There's a
-beam in my alcove which bothers me a good deal when I have company at
-dinner. I should like to make a fire with it--la, la, re, mi--for I feel
-my inspiration coming to me through the medium of a cold in the head. So
-much the worse, but it can't be helped. Let us continue to drown our
-young girl;" and while his fingers assailed the trembling keys,
-Schaunard, with sparkling eyes and straining ears, gave chase to the
-melody which, like an impalpable sylph, hovered amid the sonorous mist
-which the vibrations of the instrument seemed to let loose in the room.
-
-"Now let us see," he continued, "how my music will fit into my poet's
-words;" and he hummed, in voice the reverse of agreeable, this fragment
-of verse of the patent comic-opera sort:
-
-    "The fair and youthful maiden,
-     As she flung her mantle by,
-     Threw a glance with sorrow laden
-     Up to the starry sky
-     And in the azure waters
-     Of the silver-waved lake."
-
-"How is that?" he exclaimed, in transports of just indignation; "the
-azure waters of a silver lake! I didn't see that. This poet is an idiot.
-I'll bet he never saw a lake, or silver either. A stupid ballad too, in
-every way; the length of the lines cramps the music. For the future I
-shall compose my verses myself; and without waiting, since I feel in the
-humour, I shall manufacture some couplets to adapt my melody to."
-
-So saying, and taking his head between his hands, he assumed the grave
-attitude of a man who is having relations with the Muses. After a few
-minutes of this sacred intercourse, he had produced one of those strings
-of nonsense-verses which the libretti-makers call, not without reason,
-monsters, and which they improvise very readily as a ground-work for the
-composer's inspiration. Only Schaunard's were no nonsense-verses, but
-very good sense, expressing with sufficient clearness the inquietude
-awakened in his mind by the rude arrival of that date, the eighth of
-April.
-
-Thus they ran:
-
-    "Eight and eight make sixteen just,
-     Put down six and carry one:
-     My poor soul would be at rest
-     Could I only find some one,
-     Some honest poor relation,
-     Who'd eight hundred francs advance,
-     To pay each obligation,
-     Whenever I've a chance."
-
-     Chorus
-
-     "And ere the clock on the last and fatal morning
-     Should sound mid-day,
-     To old Bernard, like a man who needs no warning,
-     To old Bernard, like a man who needs no warning,
-     To old Bernard, like a man who needs no warning,
-     My rent I'd pay!"
-
-"The duece!" exclaimed Schaunard, reading over his composition, "one and
-some one--those rhymes are poor enough, but I have no time to make them
-richer. Now let us try how the notes will unite with the syllables." And
-in his peculiarly frightful nasal tone he recommenced the execution of
-his ballad. Satisfied with the result he had just obtained, Schaunard
-congratulated himself with an exultant grimace, which mounted over his
-nose like a circumflex accent whenever he had occasion to be pleased
-with himself. But this triumphant happiness was destined to have no long
-duration. Eleven o'clock resounded from the neighbouring steeple. Every
-stroke diffused itself through the room in mocking sounds which seemed
-to say to the unlucky Schaunard, "Are you ready?"
-
-The artist bounded on his chair. "The time flies like a bird!" he
-exclaimed. "I have but three-quarters of an hour left to find my
-seventy-five francs and my new lodging. I shall never get them; that
-would be too much like magic. Let me see: I give myself five minutes to
-find out how to obtain them;" and burying his head between his knees, he
-descended into the depths of reflection.
-
-The five minutes elapsed, and Schaunard raised his head without having
-found anything which resembled seventy-five francs.
-
-"Decidedly, I have but one way of getting out of this, which is simply
-to go away. It is fine weather and my friend Monsieur Chance may be
-walking in the sun. He must give me hospitality till I have found the
-means of squaring off with Monsieur Bernard."
-
-Having stuffed into the cellar-like pockets of his overcoat all the
-articles they would hold, Schaunard tied up some linen in a
-handkerchief, and took an affectionate farewell of his home. While
-crossing the court, he was suddenly stopped by the porter, who seemed to
-be on the watch for him.
-
-"Hallo! Monsieur Schaunard," cried he, blocking up the artist's way,
-"don't you remember that this is the eighth of April?"
-
-    "Eight and eight make sixteen just,
-     Put down six and carry one,"
-
-hummed Schaunard. "I don't remember anything else."
-
-"You are a little behindhand then with your moving," said the porter;
-"it is half-past eleven, and the new tenant to whom your room has been
-let may come any minute. You must make haste."
-
-"Let me pass, then," replied Schaunard; "I am going after a cart."
-
-"No doubt, but before moving there is a little formality to be gone
-through. I have orders not to let you take away a hair unless you pay
-the three quarters due. Are you ready?"
-
-"Why, of course," said Schaunard, making a step forward.
-
-"Well come into my lodge then, and I will give you your receipt."
-
-"I shall take it when I come back."
-
-"But why not at once?" persisted the porter.
-
-"I am going to a money changer's. I have no change."
-
-"Ah, you are going to get change!" replied the other, not at all at his
-ease. "Then I will take care of that little parcel under your arm, which
-might be in your way."
-
-"Monsieur Porter," exclaimed the artist, with a dignified air, "you
-mistrust me, perhaps! Do you think I am carrying away my furniture in a
-handkerchief?"
-
-"Excuse me," answered the porter, dropping his tone a little, "but such
-are my orders. Monsieur Bernard has expressly charged me not to let you
-take away a hair before you have paid."
-
-"But look, will you?" said Schaunard, opening his bundle, "these are not
-hairs, they are shirts, and I am taking them to my washerwoman, who
-lives next door to the money changer's twenty steps off."
-
-"That alters the case," said the porter, after he had examined the
-contents of the bundle. "Would it be impolite, Monsieur Schaunard, to
-inquire your new address?"
-
-"Rue de Rivoli!" replied the artist, and having once got outside the
-gate, he made off as fast as possible.
-
-"Rue de Rivoli!" muttered the porter, scratching his nose, "it's very
-odd they should have let him lodgings in the Rue de Rivoli, and never
-come here to ask about him. Very odd, that. At any rate, he can't carry
-off his furniture without paying. If only the new tenant don't come
-moving in just as Monsieur Schaunard is moving out! That would make a
-nice mess! Well, sure enough," he exclaimed, suddenly putting his head
-out of his little window, "here he comes, the new tenant!"
-
-In fact, a young man in a white hat, followed by a porter who did not
-seem over-burdened by the weight of his load, had just entered the
-court. "Is my room ready?" he demanded of the house-porter, who had
-stepped out to meet him.
-
-"Not yet, sir, but it will be in a moment. The person who occupies it
-has gone after a cart for his things. Meanwhile, sir, you may put your
-furniture in the court."
-
-"I am afraid it's going to rain," replied the young man, chewing a
-bouquet of violets which he held in his mouth, "My furniture might be
-spoiled. My friend," continued he, turning to the man who was behind
-him, with something on a trunk which the porter could not exactly make
-out, "put that down and go back to my old lodging to fetch the remaining
-valuables."
-
-The man ranged along the wall several frames six or seven feet high,
-folded together, and apparently being capable of being extended.
-
-"Look here," said the new-comer to his follower, half opening one of the
-screens and showing him a rent in the canvas, "what an accident! You
-have cracked my grand Venetian glass. Take more care on your second
-trip, especially with my library."
-
-"What does he mean by his Venetian glass?" muttered the porter, walking
-up and down with an uneasy air before the frames ranged against the
-wall. "I don't see any glass. Some joke, no doubt. I only see a screen.
-We shall see, at any rate, what he will bring next trip."
-
-"Is your tenant not going to make room for me soon?" inquired the young
-man, "it is half-past twelve, and I want to move in."
-
-"He won't be much longer," answered the porter, "but there is no harm
-done yet, since your furniture has not come," added he, with a stress on
-the concluding words.
-
-As the young man was about to reply, a dragoon entered the court.
-
-"Is this Monsieur Bernard's?" he asked, drawing a letter from a huge
-leather portfolio which swung at his side.
-
-"He lives here," replied the porter.
-
-"Here is a letter for him," said the dragoon; "give me a receipt," and
-he handed to the porter a bulletin of despatches which the latter
-entered his lodge to sign.
-
-"Excuse me for leaving you alone," said he to the young man who was
-stalking impatiently about the court, "but this is a letter from the
-Minister to my landlord, and I am going to take it up to him."
-
-Monsieur Bernard was just beginning to shave when the porter knocked at
-his door.
-
-"What do you want, Durand?"
-
-"Sir," replied the other, lifting his cap, "a soldier has just brought
-this for you. It comes from the Ministry." And he handed to Monsieur
-Bernard the letter, the envelope of which bore the stamp of the War
-Department.
-
-"Heavens!" exclaimed Monsieur Bernard, in such agitation that he all but
-cut himself. "From the Minister of War! I am sure it is my nomination as
-Knight of the Legion of Honour, which I have long solicited. At last
-they have done justice to my good conduct. Here, Durand," said he,
-fumbling in his waistcoat-pocket, "here are five francs to drink to my
-health. Stay! I haven't my purse about me. Wait, and I will give you the
-money in a moment."
-
-The porter was so overcome by this stunning fit of generosity, which was
-not at all in accordance with his landlord's ordinary habits, that he
-absolutely put on his cap again.
-
-But Monsieur Bernard, who at any other time would have severely
-reprimanded this infraction of the laws of social hierarchy, appeared
-not to notice it. He put on his spectacles, broke the seal of the
-envelope with the respectful anxiety of a vizier receiving a sultan's
-firman, and began to read the dispatch. At the first line a frightful
-grimace ploughed his fat, monk-like cheeks with crimson furrows, and his
-little eyes flashed sparks that seemed ready to set fire to his bushy
-wig. In fact, all his features were so turned upside-down that you would
-have said his countenance had just suffered a shock of face-quake.
-
-For these were the contents of the letter bearing the ministerial stamp,
-brought by a dragoon--orderly, and for which Durand had given the
-government a receipt:
-
-     "Friend landlord: Politeness-who, according to ancient mythology,
-     is the grandmother of good manners--compels me to inform you that I
-     am under the cruel necessity of not conforming to the prevalent
-     custom of paying rent--prevalent especially when the rent is due. Up
-     to this morning I had cherished the hope of being able to celebrate
-     this fair day by the payments of my three quarters. Vain chimera,
-     bitter illusion! While I was slumbering on the pillow of
-     confidence, ill-luck--what the Greeks call _ananke_--was scattering
-     my hopes. The returns on which I counted--times are so bad!-have
-     failed, and of the considerable sums which I was to receive I have
-     only realised three francs, which were lent me, and I will not
-     insult you by the offer of them. Better days will come for our dear
-     country and for me. Doubt it not, sir! When they come, I shall fly
-     to inform you of their arrival, and to withdraw from your lodgings
-     the precious objects which I leave there, putting them under your
-     protection and that of the law, which hinders you from selling them
-     before the expiration of a year, in case you should be disposed to
-     try to do so with the object of obtaining the sum for which you
-     stand credited in the ledger of my honesty. I commend to your
-     special care my piano, and also the large frame containing sixty
-     locks of hair whose different colours run through the whole gamut
-     of capillary shades; the scissors of love have stolen them from the
-     forehead of the Graces."
-
-     "Therefore, dear sir, and landlord, you may dispose of the roof
-     under which I have dwelt. I grant you full authority, and have
-     hereto set my hand and seal."
-
-     "ALEXANDER SCHAUNARD"
-
-On finishing this letter, (which the artist had written at the desk of a
-friend who was a clerk in the War Office,) Monsieur Bernard indignantly
-crushed it in his hand, and as his glance fell on old Durand, who was
-waiting for the promised gratification, he roughly demanded what he was
-doing.
-
-"Waiting, sir."
-
-"For what?"
-
-"For the present, on account of the good news," stammered the porter.
-
-"Get out, you scoundrel! Do you presume to speak to me with your cap
-on?"
-
-"But, sir--"
-
-"Don't you answer me! Get out! No, stay there! We shall go up to the
-room of that scamp of an artist who has run off without paying."
-
-"What! Monsieur Schaunard?" ejaculated the porter.
-
-"Yes," cried the landlord with increasing fury, "and if he has carried
-away the smallest article, I send you off, straight off!"
-
-"But it can't be," murmured the poor porter, "Monsieur Schaunard has not
-run away. He has gone to get change to pay you, and order a cart for his
-furniture."
-
-"A cart for his furniture!" exclaimed the other, "run! I'm sure he has
-it here. He laid a trap to get you away from your lodge, fool that you
-are!"
-
-"Fool that I am! Heaven help me!" cried the porter, all in a tremble
-before the thundering wrath of his superior, who hurried him down the
-stairs. When they arrived in the court the porter was hailed by the
-young man in the white hat.
-
-"Come now! Am I not soon going to be in possession of my lodging? Is
-this the eighth of April? Did I hire a room here and pay you a deposit
-to bind the bargain? Yes or no?"
-
-"Excuse me, sir," interposed the landlord, "I am at your service.
-Durand, I will talk to the gentleman myself. Run up there, that scamp
-Schaunard has come back to pack up. If you find him, shut him in, and
-then come down again and run for the police."
-
-Old Durand vanished up the staircase.
-
-"Excuse me, sir," continued the landlord, with a bow to the young man
-now left alone with him, "to whom have I the honour of speaking?"
-
-"Your new tenant. I have hired a room in the sixth story of this house,
-and am beginning to be tired of waiting for my lodging to become
-vacant."
-
-"I am very sorry indeed," replied Monsieur Bernard, "there has been a
-little difficulty with one of my tenants, the one whom you are to
-replace."
-
-"Sir," cried old Durand from a window at the very top of the house,
-"Monsieur Schaunard is not here, but his room--stupid!--I mean he has
-carried nothing away, not a hair, sir!"
-
-"Very well, come down," replied the landlord. "Have a little patience, I
-beg of you," he continued to the young man. "My porter will bring down
-to the cellar the furniture in the room of my defaulting tenant, and you
-may take possession in half an hour. Beside, your furniture has not come
-yet."
-
-"But it has," answered the young man quietly.
-
-Monsieur Bernard looked around, and saw only the large screens which had
-already mystified his porter.
-
-"How is this?" he muttered. "I don't see anything."
-
-"Behold!" replied the youth, unfolding the leaves of the frame, and
-displaying to the view of the astonished landlord a magnificent interior
-of a palace, with jasper columns, bas-reliefs, and paintings of old
-masters.
-
-"But your furniture?" demanded Monsieur Bernard.
-
-"Here it is," replied the young man, pointing to the splendid furniture
-_painted_ in the palace, which he had bought at a sale of second-hand
-theatrical decorations.
-
-"I hope you have some more serious furniture than this," said the
-landlord. "You know I must have security for my rent."
-
-"The deuce! Is a palace not sufficient security for the rent of a
-garret?"
-
-"No sir, I want real chairs and tables in solid mahogany."
-
-"Alas! Neither gold nor mahogany makes us happy, as for the ancient poet
-well says. And I can't bear mahogany; it's too common a wood. Everybody
-has it."
-
-"But surely sir, you must have some sort of furniture."
-
-"No, it takes up too much room. You are stuck full of chairs, and have
-no place to sit down."
-
-"But at any rate, you have a bed. What do you sleep on?"
-
-"On a good conscience, sir."
-
-"Excuse me, one more question," said the landlord, "What is your
-profession?"
-
-At this very moment the young man's porter, returning on his second
-trip, entered the court. Among the articles with which his truck was
-loaded, an easel occupied a conspicuous position.
-
-"Sir! Sir!!" shrieked old Durance, pointing out the easel to his
-landlord, "it's a painter!"
-
-"I was sure he was an artist!" exclaimed the landlord in his turn, the
-hair of his wig standing up in affright, "a painter!! And you never
-inquired after this person," he continued to his porter, "you didn't
-know what he did!"
-
-"He gave me five francs _arrest_," answered the poor fellow, "how could
-I suspect--"
-
-"When you have finished," put in the stranger--
-
-"Sir," replied Monsieur Bernard, mounting his spectacles with great
-decision, "since you have no furniture, you can't come in. The law
-authorizes me to refuse a tenant who brings no security."
-
-"And my word, then?"
-
-"Your word is not furniture, you must go somewhere else. Durance will
-give you back your earnest money."
-
-"Oh dear!" exclaimed the porter, in consternation, "I've put it in the
-Savings' Bank."
-
-"But consider sir," objected the young man. "I can't find another
-lodging in a moment! At least grant me hospitality for a day."
-
-"Go to a hotel!" replied Monsieur Bernard. "By the way," added he,
-struck with a sudden idea, "if you like, I can let you a furnished room,
-the one you were to occupy, which has the furniture of my defaulting
-tenant in it. Only you know that when rooms are let this way, you pay in
-advance."
-
-"Well," said the artist, finding he could do no better, "I should like
-to know what you are going to ask me for your hole."
-
-"It is a very comfortable lodging, and the rent will be twenty-five
-francs a month, considering the circumstances, paid in advance."
-
-"You have said that already, the expression does not deserve being
-repeated," said the young man, feeling in his pocket. "Have you change
-for five hundred francs?"
-
-"I beg your pardon," quoth the astonished landlord.
-
-"Five hundred, half a thousand; did you never see one before?"
-continued the artist, shaking the bank-note in the faces of the landlord
-and porter, who fairly lost their balance at the sight.
-
-"You shall have it in a moment, sir," said the now respectful owner of
-the house, "there will only be twenty francs to take out, for Durand
-will return your deposit."
-
-"He may keep it," replied the artist, "on condition of coming every
-morning to tell me the day of the week and month, the quarter of the
-moon, the weather it is going to be, and the form of government we are
-under."
-
-Old Durand described an angle of ninety degrees forward.
-
-"Yes, my good fellow, you shall serve me for almanac. Meanwhile, help my
-porter to bring the things in."
-
-"I shall send you your receipt immediately," said the landlord, and that
-very night the painter Marcel was installed in the lodging of the
-fugitive Schaunard. During this time the aforesaid Schaunard was beating
-his roll-call, as he styled it, through the city.
-
-Schaunard had carried the art of borrowing to the perfection of a
-science. Foreseeing the possible necessity of having to _spoil the
-foreigners_, he had learned how to ask for five francs in every language
-of the world. He had thoroughly studied all the stratagems which specie
-employs to escape those who are hunting for it, and knew, better than a
-pilot knows the hours of the tide, at what periods it was high or low
-water; that is to say, on what days his friends and acquaintances were
-accustomed to be in funds. Accordingly, there were houses where his
-appearance of a morning made people say, not "Here is Monsieur
-Schaunard," but "This is the first or the fifteenth." To facilitate, and
-at the same time equalize this species of tax which he was going to
-levy, when compelled by necessity, from those who were able to pay it to
-him, Schaunard had drawn up by districts and streets an alphabetical
-table containing the names of all his acquaintances. Opposite each name
-was inscribed the maximum of the sum which the party's finances
-authorized the artist to borrow of him, the time when he was flush, and
-his dinner hour, as well as his usual bill of fare. Beside this table,
-he kept a book, in perfect order, on which he entered the sums lent him,
-down to the smallest fraction; for he would never burden himself beyond
-a certain amount which was within the fortune of a country relative,
-whose heir-apparent he was. As soon as he owed one person twenty francs,
-he closed the account and paid him off, even if obliged to borrow for
-the purpose of those to whom he owed less. In this way he always kept up
-a certain credit which he called his floating debt, and as people knew
-that he was accustomed to repay as soon as his means permitted him,
-those who could accommodate him were very ready to do so.
-
-But on the present occasion, from eleven in the morning, when he had
-started to try and collect the seventy-five francs requisite, up to six
-in the afternoon, he had only raised three francs, contributed by three
-letters (M., V., and R.) of his famous list. All the rest of the
-alphabet, having, like himself, their quarter to pay, had adjourned his
-claim indefinitely.
-
-The clock of his stomach sounded the dinner-hour. He was then at the
-Maine barrier, where letter U lived. Schaunard mounted to letter U's
-room, where he had a knife and fork, when there were such articles on
-the premises.
-
-"Where are you going, sir?" asked the porter, stopping him before he had
-completed his ascent.
-
-"To Monsieur U," replied the artist.
-
-"He's out."
-
-"And madame?"
-
-"Out too. They told me to say to a friend who was coming to see them
-this evening, that they were gone out to dine. In fact, if you are the
-gentleman they expected, this is the address they left." It was a scrap
-of paper on which his friend U. had written. "We are gone to dine with
-Schaunard, No.__, Rue de__. Come for us there."
-
-"Well," said he, going away, "accident does make queer farces
-sometimes." Then remembering that there was a little tavern near by,
-where he had more than once procured a meal at a not unreasonable rate,
-he directed his steps to this establishment, situated in the adjoining
-road, and known among the lowest class of artistdom as "Mother Cadet's."
-It is a drinking-house which is also an eating-house, and its ordinary
-customers are carters of the Orleans railway, singing-ladies of Mont
-Parnasse, and juvenile "leads" from the Bobino theatre. During the warm
-season the students of the numerous painters' studios which border on
-the Luxembourg, the unappreciated and unedited men of the letters, the
-writers of leaders in mysterious newspapers, throng to dine at "Mother
-Cadet's," which is famous for its rabbit stew, its veritable sour-crout,
-and a miled white wine which smacks of flint.
-
-Schaunard sat down in the grove; for so at "Mother Cadet's" they called
-the scattered foliage of two or three rickety trees whose sickly boughs
-had been trained into a sort of arbor.
-
-"Hang the expense!" said Schaunard to himself, "I have to have a good
-blow-out, a regular Belthazzar's feast in private life," and without
-more ado, he ordered a bowl of soup, half a plate of sour-crout, and two
-half stews, having observed that you get more for two halves than one
-whole one.
-
-This extensive order attracted the attention of a young person in white
-with a head-dress of orange flowers and ballshoes; a veil of _sham
-imitation_ lace streamed down her shoulders, which she had no special
-reason to be proud of. She was a _prima donna_ of the Mont Parnasse
-theatre, the greenroom of which opens into Mother Cadet's kitchen; she
-had come to take a meal between two acts of _Lucia_, and was at that
-moment finishing with a small cup of coffee her dinner, composed
-exclusively of an artichoke seasoned with oil and vinegar.
-
-"Two stews! Duece take it!" said she, in an aside to the girl who acted
-as waiter at the establishment. "That young man feeds himself well. How
-much do I owe, Adele?"
-
-"Artichoke four, coffee four, bread one, that makes nine sous."
-
-"There they are," said the singer and off she went humming:
-
-    "This affection Heaven has given."
-
-"Why she is giving us the la!" exclaimed a mysterious personage half
-hidden behind a rampart of old books, who was seated at the same table
-with Schaunard.
-
-"Giving it!" replied the other, "keeping it, I should say. Just
-imagine!" he added, pointing to the vinegar on the plate from which
-Lucia had been eating her artichoke, "pickling that falsetto of hers!"
-
-"It is a strong acid, to be sure," added the personage who had first
-spoken. "They make some at Orleans which has deservedly a great
-reputation."
-
-Schaunard carefully examined this individual, who was thus fishing for a
-conversation with him. The fixed stare of his large blue eyes, which
-always seemed looking for something, gave his features the character of
-happy tranquility which is common among theological students. His face
-had a uniform tint of old ivory, except his cheeks, which had a coat, as
-it were of brickdust. His mouth seemed to have been sketched by a
-student in the rudiments of drawing, whose elbow had been jogged while
-he was tracing it. His lips, which pouted almost like a negro's,
-disclosed teeth not unlike a stag-hound's and his double-chin reposed
-itself upon a white cravat, one of whose points threatened the stars,
-while the other was ready to pierce the ground. A torrent of light hair
-escaped from under the enormous brim of his well-worn felt-hat. He wore
-a hazel-coloured overcoat with a large cape, worn thread-bare and rough
-as a grater; from its yawning pockets peeped bundles of manuscripts and
-pamphlets. The enjoyment of his sour-crout, which he devoured with
-numerous and audible marks of approbation, rendered him heedless of the
-scrutiny to which he was subjected, but did not prevent him from
-continuing to read an old book open before him, in which he made
-marginal notes from time to time with a pencil that he carried behind
-his ear.
-
-"Hullo!" cried Schaunard suddenly, making his glass ring with his knife,
-"my stew!"
-
-"Sir," said the girl, running up plate in hand, "there is none left,
-here is the last, and this gentleman has ordered it." Therewith she
-deposited the dish before the man with the books.
-
-"The deuce!" cried Schaunard. There was such an air of melancholy
-disappointment in his ejaculation, that the possessor of the books was
-moved to the soul by it. He broke down the pile of old works which
-formed a barrier between him and Schaunard, and putting the dish in the
-centre of the table, said, in his sweetest tones:
-
-"Might I be so bold as to beg you, sir, to share this with me?"
-
-"Sir," replied the artist, "I could not think of depriving you of it."
-
-"Then will you deprive me of the pleasure of being agreeable to you?"
-
-"If you insist, sir," and Schaunard held out his plate.
-
-"Permit me not to give you the head," said the stranger.
-
-"Really sir, I cannot allow you," Schaunard began, but on taking back
-his plate he perceived that the other had given him the very piece which
-he implied he would keep for himself.
-
-"What is he playing off his politeness on me for?" he muttered to
-himself.
-
-"If the head is the most noble part of man," said the stranger, "it is
-the least agreeable part of the rabbit. There are many persons who
-cannot bear it. I happen to like it very much, however."
-
-"If so," said Schaunard, "I regret exceedingly that you robbed yourself
-for me."
-
-"How? Excuse me," quoth he of the books, "I kept the head, as I had the
-honor of observing to you."
-
-"Allow me," rejoined Schaunard, thrusting his plate under his nose,
-"what part do you call that?"
-
-"Good heavens!" cried the stranger, "what do I see? Another head? It is
-a bicephalous rabbit!"
-
-"Buy what?" said Schaunard.
-
-"Cephalous--comes from the Greek. In fact, Baffon (who used to wear
-ruffles) cites some cases of this monstrosity. On the whole, I am not
-sorry to have eaten a phenomenon."
-
-Thanks to this incident, the conversation was definitely established.
-Schaunard, not willing to be behindhand in courtesy, called for an extra
-quart of wine. The hero of the books called for a third. Schaunard
-treated to salad, the other to dessert. At eight o'clock there were six
-empty bottles on the table. As they talked, their natural frankness,
-assisted by their libations, had urged them to interchange biographies,
-and they knew each other as well as if they had always lived together.
-He of the books, after hearing the confidential disclosures of
-Schaunard, had informed him that his name was Gustave Colline; he was a
-philosopher by profession, and got his living by giving lessons in
-rhetoric, mathematics and several other _ics_.
-
-What little money he picked up by his profession was spent in buying
-books. His hazel-coloured coat was known to all the stall keepers on the
-quay from the Pont de la Concorde to the Pont Saint Michel. What he did
-with these books, so numerous that no man's lifetime would have been
-long enough to read them, nobody knew, least of all, himself. But this
-hobby of his amounted to monomania: when he came home at night without
-bringing a musty quarto with him, he would repeat the saying of Titus,
-"I have lost a day." His enticing manners, his language, which was a
-mosaic of every possible style, and the fearful puns which embellished
-his conversation, completely won Schaunard, who demanded on the spot
-permission of Colline to add his name to those on the famous list
-already mentioned.
-
-They left Mother Cadet's at nine o'clock at night, both fairly primed,
-and with the gait of men who have been engaged in close conversation
-with sundry bottles.
-
-Colline offered to stand coffee, and Schaunard accepted on condition
-that he should be allowed to pay for the accompanying nips of liquor.
-They turned into a cafe in the Rue Saint Germain l'Auxerrois, and
-bearing on its sign the name of Momus, god of play and pleasure.
-
-At the moment they entered a lively argument broke out between two of
-the frequenters of the place. One of them was a young fellow whose face
-was hidden by a dense thicket of beard of several distinct shades. By
-way of a balance to this wealth of hair on his chin, a precocious
-baldness had despoiled his forehead, which was as bare as a billiard
-ball. He vainly strove to conceal the nakedness of the land by brushing
-forward a tuft of hairs so scanty that they could almost be counted. He
-wore a black coat worn at the elbows, and revealing whenever he raised
-his arms too high a ventilator under the armpits. His trousers might
-have once been black, but his boots, which had never been new, seemed to
-have already gone round the world two or three times on the feet of the
-Wandering Jew.
-
-Schaunard noticed that his new friend Colline and the young fellow with
-the big beard nodded to one another.
-
-"You know the gentleman?" said he to the philosopher.
-
-"Not exactly," replied the latter, "but I meet him sometimes at the
-National Library. I believe that he is a literary man."
-
-"He wears the garb of one, at any rate," said Schaunard.
-
-The individual with whom this young fellow was arguing was a man of
-forty, foredoomed, by a big head wedged between his shoulders without
-any break in the shape of a neck, to the thunderstroke of apoplexy.
-Idiocy was written in capital letters on his low forehead, surmounted by
-a little black skull-cap. His name was Monsieur Mouton, and he was a
-clerk at the town hall of the 4th Arrondissement, where he acted as
-registrar of deaths.
-
-"Monsieur Rodolphe," exclaimed he, in the squeaky tones of a eunuch,
-shaking the young fellow by a button of his coat which he had laid hold
-of. "Do you want to know my opinion? Well, all your newspapers are of no
-use whatsoever. Come now, let us put a supposititious case. I am the
-father of a family, am I not? Good. I go to the cafe for a game at
-dominoes? Follow my argument now."
-
-"Go on," said Rodolphe.
-
-"Well," continued Daddy Mouton, punctuating each of his sentences by a
-blow with his fist which made the jugs and glasses on the table rattle
-again. "Well, I come across the papers. What do I see? One which says
-black when the other says white, and so on and so on. What is all that
-to me? I am the father of a family who goes to the cafe--"
-
-"For a game at dominoes," said Rodolphe.
-
-"Every evening," continued Monsieur Mouton. "Well, to put a case--you
-understand?"
-
-"Exactly," observed Rodolphe.
-
-"I read an article which is not according to my views. That puts me in a
-rage, and I fret my heart out, because you see, Monsieur Rodolphe,
-newspapers are all lies. Yes, lies," he screeched in his shrillest
-falsetto, "and the journalists are robbers."
-
-"But, Monsieur Mouton--"
-
-"Yes, brigands," continued the clerk. "They are the cause of all our
-misfortunes; they brought about the Revolution and its paper money,
-witness Murat."
-
-"Excuse me," said Rodolphe, "you mean Marat."
-
-"No, no," resumed Monsieur Mouton, "Murat, for I saw his funeral when I
-was quite a child--"
-
-"But I assure you--"
-
-"They even brought you a piece at the Circus about him, so there."
-
-"Exactly," said Rodolphe, "that was Murat."
-
-"Well what else have I been saying for an hour past?" exclaimed the
-obstinate Mouton. "Murat, who used to work in a cellar, eh? Well, to put
-a case. Were not the Bourbons right to guillotine him, since he had
-played the traitor?"
-
-"Guillotine who? Play the traitor to whom?" cried Rodolphe,
-button-holing Monsieur Mouton in turn.
-
-"Why Marat."
-
-"No, no, Monsieur Mouton. Murat, let us understand one another, hang it
-all!"
-
-"Precisely, Marat, a scoundrel. He betrayed the Emperor in 1815. That is
-why I say all the papers are alike," continued Monsieur Mouton,
-returning to the original theme of what he called an explanation. "Do
-you know what I should like, Monsieur Rodolphe? Well, to put a case. I
-should like a good paper. Ah! not too large and not stuffed with
-phrases."
-
-"You are exacting," interrupted Rodolphe, "a newspaper without phrases."
-
-"Yes, certainly. Follow my idea?"
-
-"I am trying to."
-
-"A paper which should simply give the state of the King's health and of
-the crops. For after all, what is the use of all your papers that no one
-can understand? To put a case. I am at the town hall, am I not? I keep
-my books; very good. Well, it is just as if someone came to me and said,
-'Monsieur Mouton, you enter the deaths--well, do this, do that.' What do
-you mean by this and that? Well, it is the same thing with newspapers,"
-he wound up with.
-
-"Evidently," said a neighbor who had understood.
-
-And Monsieur Mouton having received the congratulations of some of the
-other frequenters of the cafe who shared his opinion, resumed his game
-at dominoes.
-
-"I have taught him his place," said he, indicating Rodolphe, who had
-returned to the same table at which Schaunard and Colline were seated.
-
-"What a blockhead!" said Rodolphe to the two young fellows.
-
-"He has a fine head, with his eyelids like the hood of a cabriolet, and
-his eyes like glass marbles," said Schaunard, pulling out a wonderfully
-coloured pipe.
-
-"By Jupiter, sir," said Rodolphe, "that is a very pretty pipe of yours."
-
-"Oh! I have a much finer one I wear in society," replied Schaunard,
-carelessly, "pass me some tobacco, Colline."
-
-"Hullo!" said the philosopher, "I have none left."
-
-"Allow me to offer you some," observed Rodolphe, pulling a packet of
-tobacco out of his pocket and placing it on the table.
-
-To this civility Colline thought it his duty to respond by an offer of
-glasses round.
-
-Rodolphe accepted. The conversation turned on literature. Rodolphe,
-questioned as to the profession already revealed by his garb, confessed
-his relation with the Muses, and stood a second round of drinks. As the
-waiter was going off with the bottle Schaunard requested him to be good
-enough to forget it. He had heard the silvery tinkle of a couple of
-five-franc pieces in one of Colline's pockets. Rodolphe had soon reached
-the same level of expansiveness as the two friends, and poured out his
-confidences in turn.
-
-They would no doubt have passed the night at the cafe if they had not
-been requested to leave. They had not gone ten steps, which had taken
-them a quarter of an hour to accomplish, before they were surprised by a
-violent downpour. Colline and Rodolphe lived at opposite ends of Paris,
-one on the Ile Saint Louis, and the other at Montmartre.
-
-Schaunard, who had wholly forgotten that he was without a residence,
-offered them hospitality.
-
-"Come to my place," said he, "I live close by, we will pass the night in
-discussing literature and art."
-
-"You shall play and Rodolphe will recite some of his verses to us," said
-Colline.
-
-"Right you are," said Schaunard, "life is short, and we must enjoy
-ourselves whilst we can."
-
-Arriving at the house, which Schaunard had some difficulty in
-recognizing, he sat down for a moment on a corner-post waiting for
-Rodolphe and Colline, who had gone into a wine-shop that was still open
-to obtain the primary element of a supper. When they came back,
-Schaunard rapped several times at the door, for he vaguely recollected
-that the porter had a habit of keeping him waiting. The door at length
-opened, and old Durand, half aroused from his first sleep, and no longer
-recalling that Schaunard had ceased to be his tenant, did not disturb
-himself when the latter called out his name to him.
-
-When they had all three gained the top of the stairs, the ascent of
-which had been as lengthy as it was difficult, Schaunard, who was the
-foremost, uttered a cry of astonishment at finding the key in the
-keyhole of his door.
-
-"What is the matter?" asked Rodolphe.
-
-"I cannot make it out," muttered the other. "I find the key in the door,
-though I took it away with me this morning. Ah! we shall see. I put it
-in my pocket. Why, confound it, here it is still!" he exclaimed,
-displaying a key. "This is witchcraft."
-
-"Phantasmagoria," said Colline.
-
-"Fancy," added Rodolphe.
-
-"But," resumed Schaunard, whose voice betrayed a commencement of alarm,
-"do you hear that?"
-
-"What?"
-
-"What?"
-
-"My piano, which is playing of its own accord _do la mi re do, la si sol
-re._ Scoundrel of a re, it is still false."
-
-"But it cannot be in your room," said Rodolphe, and he added in a
-whisper to Colline, against whom he was leaning heavily, "he is tight."
-
-"So I think. In the first place, it is not a piano at all, it is a
-flute."
-
-"But you are screwed too, my dear fellow," observed the poet to the
-philosopher, who had sat down on the landing, "it is a violin."
-
-"A vio--, pooh! I say, Schaunard," hiccupped Colline, pulling his friend
-by the legs, "here is a joke, this gentleman makes out that it is a
-vio--"
-
-"Hang it all," exclaimed Schaunard in the height of terror, "it is
-magic."
-
-"Phantasma-goria," howled Colline, letting fall one of the bottles he
-held by his hand.
-
-"Fancy," yelled Rodolphe in turn.
-
-In the midst of this uproar the room door suddenly opened, and an
-individual holding a triple-branched candlestick in which pink candles
-were burning, appeared on the threshold.
-
-"What do you want, gentlemen?" asked he, bowing courteously to the three
-friends.
-
-"Good heavens, what am I about? I have made a mistake, this is not my
-room," said Schaunard.
-
-"Sir," added Colline and Rodolphe, simultaneously, addressing the person
-who had opened the door, "be good enough to excuse our friend, he is as
-drunk as three fiddlers."
-
-Suddenly a gleam of lucidity flashed through Schaunard's intoxication,
-he read on his door these words written in chalk:
-
-     "I have called three times for my New Year's gift--PHEMIE."
-
-"But it is all right, it is all right, I am indeed at home," he
-exclaimed, "here is the visiting card Phemie left me on New Year's Day;
-it is really my door."
-
-"Good heavens, sir," said Rodolphe, "I am truly bewildered."
-
-"Believe me, sir," added Colline, "that for my part, I am an active
-partner in my friend's confusion."
-
-The young fellow who had opened the door could not help laughing.
-
-"If you come into my room for a moment," he replied, "no doubt your
-friend, as soon as he has looked around, will see his mistake."
-
-"Willingly."
-
-And the poet and philosopher each taking Schaunard by an arm, led him
-into the room, or rather the palace of Marcel, whom no doubt our readers
-have recognized.
-
-Schaunard cast his eyes vaguely around him, murmuring, "It is
-astonishing how my dwelling is embellished!"
-
-"Well, are you satisfied now?" asked Colline.
-
-But Schaunard having noticed the piano had gone to it, and was playing
-scales.
-
-"Here, you fellows, listen to this," said he, striking the notes, "this
-is something like, the animal has recognized his master,_ si la sol, fa
-mi re._ Ah! wretched re, you are always the same. I told you it was my
-instrument."
-
-"He insists on it," said Colline to Rodolphe.
-
-"He insists on it," repeated Rodolphe to Marcel.
-
-"And that," added Schaunard, pointing to the star-adorned petticoat that
-was lying on a chair, "it is not an adornment of mine, perhaps? Ah!"
-
-And he looked Marcel straight in the face.
-
-"And this," continued he, unfastening from the wall the notice to quit
-already spoken of.
-
-And he began to read, "Therefore Monsieur Schaunard is hereby required
-to give up possession of the said premises, and to leave them in
-tenantable repair, before noon on the eighth day of April. As witness
-the present formal notice to quit, the cost of which is five francs."
-"Ha! ha! so I am not the Monsieur Schaunard to whom formal notice to
-quit is given at a cost of five francs? And these, again," he continued,
-recognizing his slippers on Marcel's feet, "are not those my papouches,
-the gift of a beloved hand? It is your turn, sir," said he to Marcel,
-"to explain your presence amongst my household goods."
-
-"Gentlemen," replied Marcel, addressing himself more especially to
-Colline and Rodolphe, "this gentleman," and he pointed to Schaunard, "is
-at home, I admit."
-
-"Ah!" exclaimed Schaunard, "that's lucky."
-
-"But," continued Marcel, "I am at home too."
-
-"But, sir," broke in Rodolphe, "if our friend recognizes--"
-
-"Yes," said Colline, "if our friend--"
-
-"And if on your side you recall that--," added Rodolphe, "how is it
-that--"
-
-"Yes," replied his echo Colline, "how is it that--"
-
-"Have the kindness to sit down, gentlemen," replied Marcel, "and I will
-explain the mystery to you."
-
-"If we were to liquify the explanation?" risked Colline.
-
-"Over a mouthful of something," added Rodolphe.
-
-The four young fellows sat down to table and attacked a piece of cold
-veal which the wine-shop keeper had let them have.
-
-Marcel then explained what had taken place in the morning between
-himself and the landlord when he had come to move in.
-
-"Then," observed Rodolphe, "this gentleman is quite right, and we are in
-his place?"
-
-"You are at home," said Marcel politely.
-
-But it was a tremendous task to make Schaunard understand what had taken
-place. A comical incident served to further complicate the situation.
-Schaunard, when looking for something in a sideboard, found the change
-of the five hundred franc note that Marcel had handed to Monsieur
-Bernard that morning.
-
-"Ah! I was quite sure," he exclaimed, "that Fortune would not desert me.
-I remember now that I went out this morning to run after her. On account
-of its being quarter-day she must have looked in during my absence. We
-crossed one another on the way, that it is. How right I was to leave the
-key in my drawer!"
-
-"Delightful madness!" murmured Rodolphe, looking at Schaunard, who was
-building up the money in equal piles.
-
-"A dream, a falsehood, such is life," added the philosopher.
-
-Marcel laughed.
-
-An hour later they had all four fallen asleep.
-
-The next day they woke up at noon, and at first seemed very much
-surprised to find themselves together. Schaunard, Colline, and Rodolphe
-did not appear to recognize one another, and addressed one another as
-"sir." Marcel had to remind them that they had come together the evening
-before.
-
-At that moment old Durand entered the room.
-
-"Sir," said he to Marcel, "it is the month of April, eighteen hundred
-and forty, there is mud in the streets, and His Majesty Louis-Philippe
-is still King of France and Navarre. What!" exclaimed the porter on
-seeing his former tenant, "Monsieur Schaunard, how did you come here?"
-
-"By the telegraph," replied Schaunard.
-
-"Ah!" replied the porter, "you are still a joker--"
-
-"Durand," said Marcel, "I do not like subordinates mingling in
-conversation with me, go to the nearest restaurant and have a breakfast
-for four sent up. Here is the bill of fare," he added, handing him a
-slip of paper on which he had written it. "Go."
-
-"Gentlemen," continued Marcel, addressing the three young fellows, "you
-invited me to supper last night, allow me to offer you a breakfast this
-morning, not in my room, but in ours," he added, holding out his hand to
-Schaunard.
-
-"Oh! no," said Schaunard sentimentally, "let us never leave one
-another."
-
-"That's right, we are very comfortable here," added Colline.
-
-"To leave you for a moment," continued Rodolphe. "Tomorrow the 'Scarf of
-Iris,' a fashion paper of which I am editor, appears, and I must go and
-correct my proofs; I will be back in an hour."
-
-"The deuce!" said Colline, "that reminds me that I have a lesson to give
-to an Indian prince who has come to Paris to learn Arabic."
-
-"Go tomorrow," said Marcel.
-
-"Oh, no!" said the philosopher, "the prince is to pay me today. And then
-I must acknowledge to you that this auspicious day would be spoilt for
-me if I did not take a stroll amongst the bookstalls."
-
-"But will you come back?" said Schaunard.
-
-"With the swiftness of an arrow launched by a steady hand," replied the
-philosopher, who loved eccentric imagery.
-
-And he went out with Rodolphe.
-
-"In point of fact," said Schaunard when left alone with Marcel, "instead
-of lolling on the sybarite's pillow, suppose I was to go out to seek
-some gold to appease the cupidity of Monsieur Bernard?"
-
-"Then," said Marcel uneasily, "you still mean to move?"
-
-"Hang it," replied Schaunard, "I must, since I have received a formal
-notice to quit, at a cost of five francs."
-
-"But," said Marcel, "if you move, shall you take your furniture with
-you?"
-
-"I have that idea. I will not leave a hair, as Monsieur Bernard says."
-
-"The deuce! That will be very awkward for me," said Marcel, "since I
-have hired your room furnished."
-
-"There now, that's so," replied Schaunard. "Ah! bah," he added in a
-melancholy tone, "there is nothing to prove that I shall find my
-thousand francs today, tomorrow, or even later on."
-
-"Stop a bit," exclaimed Marcel, "I have an idea."
-
-"Unfold it."
-
-"This is the state of things. Legally, this lodging is mine, since I
-have paid a month in advance."
-
-"The lodging, yes, but as to the furniture, if I pay, I can legally take
-it away, and if it were possible I would even take it away illegally."
-
-"So that," continued Marcel, "you have furniture and no lodging, and I
-have lodging and no furniture."
-
-"That is the position," observed Schaunard.
-
-"This lodging suits me," said Marcel.
-
-"And for my part is has never suited me better," said Schaunard.
-
-"Well then, we can settle this business," resumed Marcel, "stay with me,
-I will apply house-room, and you shall supply the furniture."
-
-"And the rent?" said Schaunard.
-
-"Since I have some money just now I will pay it, it will be your turn
-next time. Think about it."
-
-"I never think about anything, above all accepting a suggestion which
-suits me. Carried unanimously, in point of fact, Painting and Music are
-sisters."
-
-"Sisters-in-law," observed Marcel.
-
-At that moment Colline and Rodolphe, who had met one another, came in.
-
-Marcel and Schaunard informed them of their partnership.
-
-"Gentlemen," said Rodolphe, tapping his waistcoat pocket, "I am ready to
-stand dinner all round."
-
-"That is just what I was going to have the honour of proposing," said
-Colline, taking out a gold coin which he stuck in his eye like a glass.
-"My prince gave me this to buy an Arabic grammar, which I have just paid
-six sous ready cash for."
-
-"I," said Rodolphe, "have got the cashier of the 'Scarf of Iris' to
-advance me thirty francs under the pretext that I wanted it to get
-vaccinated."
-
-"It is general pay-day then?" said Schaunard, "there is only myself
-unable to stand anything. It is humiliating."
-
-"Meanwhile," said Rodolphe, "I maintain my offer of a dinner."
-
-"So do I," said Colline.
-
-"Very well," said Rodolphe, "we will toss up which shall settle the
-bill."
-
-"No," said Schaunard, "I have something far better than that to offer
-you as a way of getting over the difficulty."
-
-"Let us have it."
-
-"Rodolphe shall pay for dinner, and Colline shall stand supper."
-
-"That is what I call Solomonic jurisprudence," exclaimed the
-philosopher.
-
-"It is worse than Camacho's wedding," added Marcel.
-
-The dinner took place at a Provencal restaurant in the Rue Dauphine,
-celebrated for its literary waiters and its "Ayoli." As it was necessary
-to leave room for the supper, they ate and drank in moderation. The
-acquaintance, begun the evening before between Colline and Schaunard and
-later on with Marcel, became more intimate; each of the young fellows
-hoisted the flag of his artistic opinions, and all four recognized that
-they had like courage and similar hopes. Talking and arguing they
-perceived that their sympathies were akin, that they had all the same
-knack in that chaff which amuses without hurting, and that the virtues
-of youth had not left a vacant spot in their heart, easily stirred by
-the sight of the narration of anything noble. All four starting from the
-same mark to reach the same goal, they thought that there was something
-more than chance in their meeting, and that it might after all be
-Providence who thus joined their hands and whispered in their ears the
-evangelic motto, which should be the sole charter of humanity, "Love one
-another."
-
-At the end of the repast, which closed in somewhat grave mood, Rodolphe
-rose to propose a toast to the future, and Colline replied in a short
-speech that was not taken from any book, had no pretension to style,
-and was merely couched in the good old dialect of simplicity, making
-that which is so badly delivered so well understood.
-
-"What a donkey this philosopher is!" murmured Schaunard, whose face was
-buried in his glass, "here is he obliging me to put water in my wine."
-
-After dinner they went to take coffee at the Cafe Momus, where they had
-already spent the preceding evening. It was from that day that the
-establishment in question became uninhabitable by its other frequenters.
-
-After coffee and nips of liqueurs the Bohemian clan, definitely founded,
-returned to Marcel's lodging, which took the name of Schaunard's
-Elysium. Whilst Colline went to order the supper he had promised, the
-others bought squibs, crackers and other pyrotechnic materials, and
-before sitting down to table they let off from the windows a magnificent
-display of fireworks which turned the whole house topsy-turvey, and
-during which the four friends shouted at the top of their voices--
-
-    "Let us celebrate this happy day."
-
-The next morning they again found themselves all four together but
-without seeming astonished this time. Before each going about his
-business they went together and breakfasted frugally at the Cafe Momus,
-where they made an appointment for the evening and where for a long time
-they were seen to return daily.
-
-Such are the chief personages who will reappear in the episodes of which
-this volume is made up, a volume which is not a romance and has no other
-pretension than that set forth on its title-page, for the "Bohemians of
-the Latin Quarter" is only a series of social studies, the heroes of
-which belong to a class badly judged till now, whose greatest crime is
-lack of order, and who can even plead in excuse that this very lack of
-order is a necessity of the life they lead.
-
-
-
-
-CHAPTER II
-
-A GOOD ANGEL
-
-
-Schaunard and Marcel, who had been grinding away valiantly a whole
-morning, suddenly struck work.
-
-"Thunder and lightning! I'm hungry!" cried Schaunard. And he added
-carelessly, "Do we breakfast today?"
-
-Marcel appeared much astonished at this very inopportune question.
-
-"How long has it been the fashion to breakfast two days running?" he
-asked. "And yesterday was Thursday." He finished his reply by tracing
-with his mahl-stick the ecclesiastic ordinance:
-
-    "On Friday eat no meat,
-     Nor aught resembling it."
-
-Schaunard, finding no answer, returned to his picture, which represented
-a plain inhabited by a red tree and a blue tree shaking branches; an
-evident allusion to the sweets of friendship, which had a very
-philosophical effect.
-
-At this moment the porter knocked; he had brought a letter for Marcel.
-
-"Three sous," said he.
-
-"You are sure?" replied the artist. "Very well, you can owe it to us."
-
-He shut the door in the man's face, and opened the letter. At the first
-line, he began to vault around the room like a rope-dancer and thundered
-out, at the top of his voice, this romantic ditty, which indicated with
-him the highest pitch of ecstasy:
-
-    "There were four juveniles in our street;
-     They fell so sick they could not eat;
-     They carried them to the hospital!--
-     Tal! Tal! Tal! Tal!"
-
-"Oh yes!" said Schaunard, taking him up:
-
-    "They put all four into one big bed,
-     Two at the feet and two at the head."
-
-"Think I don't know it?" Marcel continued:
-
-    "There came a sister of Charity--
-     Ty! Ty! tee! tee!"
-
-"If you don't stop," said Schaunard, who suspected signs of mental
-alienation, "I'll play the allegro of my symphony on 'The Influence of
-Blue in the Arts.'" So saying, he approached the piano.
-
-This menace had the effect of a drop of cold water in a boiling fluid.
-Marcel grew calm as if by magic. "Look there!" said he, passing the
-letter to his friend. It was an invitation to dine with a deputy, an
-enlightened patron of the arts in general and Marcel in particular,
-since the latter had taken the portrait of his country-house.
-
-"For today," sighed Schaunard. "Unluckily the ticket is not good for
-two. But stay! Now I think of it, your deputy is of the government
-party; you cannot, you must not accept. Your principles will not permit
-you to partake of the bread which has been watered by the tears of the
-people."
-
-"Bah!" replied Marcel, "my deputy is a moderate radical; he voted
-against the government the other day. Besides, he is going to get me an
-order, and he has promised to introduce me in society. Moreover, this
-may be Friday as much as it likes; I am famished as Ugolino, and I mean
-to dine today. There now!"
-
-"There are other difficulties," continued Schaunard, who could not help
-being a little jealous of the good fortune that had fallen to his
-friend's lot. "You can't dine out in a red flannel shirt and slippers."
-
-"I shall borrow clothes of Rodolphe or Colline."
-
-"Infatuated youth! Do you forget that this is the twentieth, and at this
-time of the month their wardrobe is up to the very top of the spout?"
-
-"Between now and five o'clock this evening I shall find a dress-coat."
-
-"I took three weeks to get one when I went to my cousin's wedding and
-that was in January."
-
-"Well, then, I shall go as I am," said Marcel, with a theatrical stride.
-"It shall certainly never be said that a miserable question of etiquette
-hindered me from making my first step in society."
-
-"Without boots," suggested his friend.
-
-Marcel rushed out in a state of agitation impossible to describe. At the
-end of two hours he returned, loaded with a false collar.
-
-"Hardly worth while to run so far for that," said Schaunard. "There was
-paper enough to make a dozen."
-
-"But," cried Marcel, tearing his hair, "we must have some
-things--confound it!" And he commenced a thorough investigation of every
-corner of the two rooms. After an hour's search, he realized a costume
-thus composed:
-
-A pair of plaid trousers, a gray hat, a red cravat, a blue waistcoat,
-two boots, one black glove, and one glove that had been white.
-
-"That will make two black gloves on a pinch," said Schaunard. "You are
-going to look like the solar spectrum in that dress. To be sure, a
-colourist such as you are--"
-
-Marcel was trying the boots. Alas! They are both for the same foot! The
-artist, in despair, perceived an old boot in a corner which had served
-as the receptacle of their empty bladders. He seized upon it.
-
-"From Garrick to Syllable," said his jesting comrade, "one square-toed
-and the other round."
-
-"I am going to varnish them and it won't show."
-
-"A good idea! Now you only want the dress-coat."
-
-"Oh!" cried Marcel, biting his fists:
-
-    "To have one would I give ten years of life,
-     And this right hand, I tell thee."
-
-They heard another knock at the door. Marcel opened it.
-
-"Monsieur Schaunard?" inquired a stranger, halting on the threshold.
-
-"At your service," replied the painter, inviting him in.
-
-The stranger had one of those honest faces which typify the provincial.
-
-"Sir," said he. "My cousin has often spoke to me of your talent for
-portrait painting, and being on the point of making a voyage to the
-colonies, whither I am deputed by the sugar refiners of the city of
-Nantes, I wish to leave my family something to remember me by. That is
-why I am come to see you."
-
-"Holy Providence!" ejaculated Schaunard. "Marcel, a seat for Monsieur--"
-
-"Blancheron," said the new-comer, "Blancheron of Nantes, delegate of the
-sugar interest, Ex-Mayor, Captain of the National Guard, and author of a
-pamphlet on the sugar question."
-
-"I am highly honoured at having been chosen by you," said the artist,
-with a low reverence to the delegate of the refiners. "How do you wish
-to have your portrait taken?"
-
-"In miniature," replied Blancheron, "like that," and he pointed to a
-portrait in oil, for the delegate was one of that class with whom
-everything smaller than the side of a house is miniature. Schaunard had
-the measure of his man immediately, especially when the other added that
-he wished to be painted with the best colours.
-
-"I never use any other," said the artist. "How large do you wish it to
-be?"
-
-"About so big," answered the other, pointing to a kit-cat. "How much
-will it be?"
-
-"Sixty francs with the hands, fifty without."
-
-"The deuce it will! My cousin talked of thirty francs."
-
-"It depends on the season. Colours are much dearer at some times of the
-year than at others."
-
-"Bless me! It's just like sugar!"
-
-"Precisely."
-
-"Fifty francs then be it."
-
-"You are wrong there; for ten francs more you will have your hands, and
-I will put in them your pamphlet on the sugar question, which will have
-a very good effect."
-
-"By Jove, you are right!"
-
-"Thunder and lightning!" said Schaunard to himself, "if he goes on so, I
-shall burst, and hurt him with one of the pieces."
-
-"Did you see?" whispered Marcel.
-
-"What?"
-
-"He has a black coat."
-
-"I take. Let me manage."
-
-"Well," quoth the delegate, "when do we begin? There is no time to
-lose, for I sail soon."
-
-"I have to take a little trip myself the day after tomorrow; so, if you
-please, we will begin at once. One good sitting will help us along some
-way."
-
-"But it will soon be night, and you can't paint by candle light."
-
-"My room is arranged so that we can work at all hours in it. If you will
-take off your coat, and put yourself in position, we will commence."
-
-"Take off my coat! What for?"
-
-"You told me that you intend this portrait for your family."
-
-"Certainly."
-
-"Well, then, you ought to be represented in your at-home dress--in your
-dressing gown. It is the custom to be so."
-
-"But I haven't any dressing gown here."
-
-"But I have. The case is provided for," quoth Schaunard, presenting to
-his sitter a very ragged garment, so ornamented with paint-marks that
-the honest provincial hesitated about setting into it.
-
-"A very odd dress," said he.
-
-"And very valuable. A Turkish vizier gave it to Horace Vernet, and he
-gave it to me when he had done with it. I am a pupil of his."
-
-"Are you a pupil of Vernet's?"
-
-"I am proud to be," said the artist. "Wretch that I am!" he muttered to
-himself, "I deny my gods and masters!"
-
-"You have reason to be proud, my young friend," replied the delegate
-donning the dressing-gown with the illustrious origin.
-
-"Hang up Monsieur Blancheron's coat in the wardrobe," said Schaunard to
-his friend, with a significant wink.
-
-"Ain't he too good?" whispered Marcel as he pounced on his prey, and
-nodded towards Blancheron. "If you could only keep a piece of him."
-
-"I'll try; but do you dress yourself, and cut. Come back by ten; I will
-keep him till then. Above all, bring me something in your pocket."
-
-"I'll bring you a pineapple," said Marcel as he evaporated.
-
-He dressed himself hastily; the dress-coat fit him like a glove. Then he
-went out by the second door of the studio.
-
-Schaunard set himself to work. When it was fairly night, Monsieur
-Blancheron heard the clock strike six, and remembered that he had not
-dined. He informed Schaunard of the fact.
-
-"I am in the same position," said the other, "but to oblige you, I will
-go without today, though I had an invitation in the Faubourg St.
-Germain. But we can't break off now, it might spoil the resemblance."
-And he painted away harder than ever. "By the way," said he, suddenly,
-"we can dine without breaking off. There is a capital restaurant
-downstairs, which will send us up anything we like." And Schaunard
-awaited the effect of his trial of plurals.
-
-"I accept your idea," said Blancheron, "an in return, I hope you will do
-me the honor of keeping me company at table."
-
-Schaunard bowed. "Really," said he to himself, "this is a fine fellow--a
-very god-send. Will you order the dinner?" he asked his Amphitryon.
-
-"You will oblige me by taking that trouble," replied the other,
-politely.
-
-"So much the worse for you, my boy," said the painter as he pitched down
-the stairs, four steps at a time. Marching up to the counter, he wrote
-out a bill of fare that made the Vatel of the establishment turn pale.
-
-"Claret! Who's to pay for it?"
-
-"Probably not I," said Schaunard, "but an uncle of mine that you will
-find up there, a very good judge. So, do your best, and let us have
-dinner in half an hour, served on your porcelain."
-
-At eight o'clock, Monsieur Blancheron felt the necessity of pouring into
-a friend's ear his idea on the sugar question, and accordingly recited
-his pamphlet to Schaunard, who accompanied him on the piano.
-
-At ten, they danced the galop together.
-
-At eleven, they swore never to separate, and to make wills in each
-other's favor.
-
-At twelve, Marcel returned, and found them locked in a mutual embrace,
-and dissolved in tears. The floor was half an inch deep in fluid--either
-from that cause or the liquor that had been spilt. He stumbled against
-the table, and remarked the splendid relics of the sumptuous feast. He
-tried the bottles, they were utterly empty. He attempted to rouse
-Schaunard, but the later menaced him with speedy death, if he tore him
-from his friend Blancheron, of whom he was making a pillow.
-
-"Ungrateful wretch!" said Marcel, taking out of his pocket a handful of
-nuts, "when I had brought him some dinner!"
-
-
-
-
-CHAPTER III
-
-LENTEN LOVES
-
-
-One evening in Lent Rodolphe returned home early with the idea of
-working. But scarcely had he sat down at his table and dipped his pen in
-the ink than he was disturbed by a singular noise. Putting his ear to
-the treacherous partition that separated him from the next room, he
-listened, and plainly distinguished a dialogue broken by the sound of
-kisses and other amourous interruptions.
-
-"The deuce," thought Rodolphe, glancing at his clock, "it is still
-early, and my neighbor is a Juliet who usually keeps her Romeo till long
-after the lark has sung. I cannot work tonight."
-
-And taking his hat he went out. Handing in his key at the porter's
-lodge he found the porter's wife half clasped in the arms of a gallant.
-The poor woman was so flustered that it was five minutes before she
-could open the latch.
-
-"In point of fact," though Rodolphe, "there are times when porters grow
-human again."
-
-Passing through the door he found in its recess a sapper and a cook
-exchanging the luck-penny of love.
-
-"Hang it," said Rodolphe, alluding to the warrior and his robust
-companion, "here are heretics who scarcely think that we are in Lent."
-
-And he set out for the abode of one of his friends who lived in the
-neighborhood.
-
-"If Marcel is at home," he said to himself, "we will pass the evening in
-abusing Colline. One must do something."
-
-As he rapped vigorously, the door was partly opened, and a young man,
-simply clad in a shirt and an eye-glass, presented himself.
-
-"I cannot receive you," said he to Rodolphe.
-
-"Why not?" asked the latter.
-
-"There," said Marcel, pointing to a feminine head that had just peeped
-out from behind a curtain, "there is my answer."
-
-"It is not a pretty one," said Rodolphe, who had just had the door
-closed in his face. "Ah!" said he to himself when he got into the
-street, "what shall I do? Suppose I call on Colline, we could pass the
-time in abusing Marcel."
-
-Passing along the Rue de l'Ouest, usually dark and unfrequented,
-Rodolphe made out a shade walking up and down in melancholy fashion, and
-muttering in rhyme.
-
-"Ho, ho!" said Rodolphe, "who is this animated sonnet loitering here?
-What, Colline!"
-
-"What Rodolphe! Where are you going?"
-
-"To your place."
-
-"You won't find me there."
-
-"What are you doing here?"
-
-"Waiting."
-
-"What are you waiting for?"
-
-"Ah!" said Colline in a tone of raillery, "what can one be waiting for
-when one is twenty, when there are stars in the sky and songs in the
-air?"
-
-"Speak in prose."
-
-"I am waiting for a girl."
-
-"Good night," said Rodolphe, who went on his way continuing his
-monologue. "What," said he, "is it St. Cupid's Day and cannot I take a
-step without running up against people in love? It is scandalously
-immoral. What are the police about?"
-
-As the gardens of the Luxembourg were still open, Rodolphe passed into
-them to shorten his road. Amidst the deserted paths he often saw
-flitting before him, as though disturbed by his footsteps, couples
-mysteriously interlaced, and seeking, as a poet has remarked, the
-two-fold luxury of silence and shade.
-
-"This," said Rodolphe, "is an evening borrowed from a romance." And yet
-overcome, despite himself, by a langourous charm, he sat down on a seat
-and gazed sentimentally at the moon.
-
-In a short time he was wholly under the spell of a feverish
-hallucination. It seemed to him that the gods and heroes in marble who
-peopled the garden were quitting their pedestals to make love to the
-goddesses and heroines, their neighbors, and he distinctly heard the
-great Hercules recite a madrigal to the Vedella, whose tunic appeared to
-him to have grown singularly short.
-
-From the seat he occupied he saw the swan of the fountain making its way
-towards a nymph of the vicinity.
-
-"Good," thought Rodolphe, who accepted all this mythology, "There is
-Jupiter going to keep an appointment with Leda; provided always that the
-park keeper does not surprise them."
-
-Then he leaned his forehead on his hand and plunged further into the
-flowery thickets of sentiment. But at this sweet moment of his dream
-Rodolphe was suddenly awakened by a park keeper, who came up and tapped
-him on the shoulder.
-
-"It is closing time, sir," said he.
-
-"That is lucky," thought Rodolphe. "If I had stayed here another five
-minutes I should have had more sentiment in my breast than is to be
-found on the banks of the Rhine or in Alphonse Karr's romances."
-
-And he hastened from the gardens humming a sentimental ballad that was
-for him the _Marseillaise_ of love.
-
-Half an hour later, goodness knows how, he was at the Prado, seated
-before a glass of punch and talking with a tall fellow celebrated on
-account of his nose, which had the singular privilege of being aquiline
-when seen sideways, and a snub when viewed in front. It was a nose that
-was not devoid of sharpness, and had a sufficiency of gallant adventures
-to be in such a case to give good advice and be useful to its friend.
-
-"So," said Alexander Schaunard, the man with the nose, "you are in
-love."
-
-"Yes, my dear fellow, it seized on me, just now, suddenly, like a bad
-toothache in the heart."
-
-"Pass me the tobacco," said Alexander.
-
-"Fancy," continued Rodolphe, "for the last two hours I have met nothing
-but lovers, men and women in couples. I had the notion of going into the
-Luxembourg Gardens, where I saw all manner of phantasmagorias, that
-stirred my heart extraordinarily. Ellegies are bursting from me, I bleat
-and I coo; I am undergoing a metamorphosis, and am half lamb half turtle
-dove. Look at me a bit, I must have wool and feathers."
-
-"What have you been drinking?" said Alexander impatiently, "you are
-chaffing me."
-
-"I assure you that I am quite cool," replied Rodolphe. "That is to say,
-no. But I will announce to you that I must embrace something. You see,
-Alexander, it is not good for man to live alone, in short, you must help
-me to find a companion. We will stroll through the ballroom, and the
-first girl I point out to you, you must go and tell her that I love
-her."
-
-"Why don't you go and tell her yourself?" replied Alexander in his
-magnificent nasal bass.
-
-"Eh? my dear fellow," said Rodolphe. "I can assure you that I have quite
-forgot how one sets about saying that sort of thing. In all my love
-stories it has been my friends who have written the preface, and
-sometimes even the _denouement_; I never know how to begin."
-
-"It is enough to know how to end," said Alexander, "but I understand
-you. I knew a girl who loved the oboe, perhaps you would suit her."
-
-"Ah!" said Rodolphe. "I should like her to have white gloves and blue
-eyes."
-
-"The deuce, blue eyes, I won't say no--but gloves--you know that we
-can't have everything at once. However, let us go into the aristocratic
-regions."
-
-"There," said Rodolphe, as they entered the saloon favored by the
-fashionables of the place, "there is one who seems nice and quiet," and
-he pointed out a young girl fairly well dressed who was seated in a
-corner.
-
-"Very good," replied Alexander, "keep a little in the background, I am
-going to launch the fire-ship of passion for you. When it is necessary
-to put in an appearance I will call you."
-
-For ten minutes Alexander conversed with the girl, who from time to time
-broke out in a joyous burst of laughter, and ended by casting towards
-Rodolphe a smiling glance which said plainly enough, "Come, your
-advocate has won the cause."
-
-"Come," said Alexander, "the victory is ours, the little one is no doubt
-far from cruel, but put on an air of simplicity to begin with."
-
-"You have no need to recommend me to do that."
-
-"Then give me some tobacco," said Alexander, "and go and sit down beside
-her."
-
-"Good heavens," said the young girl when Rodolphe had taken his place by
-her side, "how funny you friend is, his voice is like a trumpet."
-
-"That is because he is a musician."
-
-Two hours later Rodolphe and his companion halted in front of a house
-in the Rue St. Denis.
-
-"It is here that I live," said the girl.
-
-"Well, my dear Louise, when and where shall I see you again?"
-
-"At your place at eight o'clock tomorrow evening."
-
-"For sure?"
-
-"Here is my pledge," replied Louise, holding up her rosy cheek to
-Rodolphe's, who eagerly tasted this ripe fruit of youth and health.
-
-Rodolphe went home perfectly intoxicated.
-
-"Ah!" said he, striding up and down his room, "it can't go off like
-that, I must write some verses."
-
-The next morning his porter found in his room some thirty sheets of
-paper, at the top of which stretched in solitary majesty of line--
-
-    "Ah; love, oh! love, fair prince of youth."
-
-That morning, contrary to his habits, Rodolphe had risen very early, and
-although he had slept very little, he got up at once.
-
-"Ah!" he exclaimed, "today is the great day. But then twelve hours to
-wait. How shall I fill up these twelve eternities?"
-
-And as his glance fell on his desk he seemed to see his pen wriggle as
-though intending to say to him "Work."
-
-"Ah! yes, work indeed! A fig for prose. I won't stop here, it reeks of
-ink."
-
-He went off and settled himself in a cafe where he was sure not to meet
-any friends.
-
-"They would see that I am in love," he thought, "and shape my ideal for
-me in advance."
-
-After a very brief repast he was off to the railway station, and got
-into a train. Half an hour later he was in the woods of Ville d'Avray.
-
-Rodolphe strolled about all day, let loose amongst rejuvenated nature,
-and only returned to Paris at nightfall.
-
-After having put the temple which was to receive his idol in nature,
-Rodolphe arrayed himself for the occasion, greatly regretting not being
-able to dress in white.
-
-From seven to eight o'clock he was a prey to the sharp fever of
-expectation. A slow torture, that recalled to him the old days and the
-old loves which had sweetened them. Then, according to habit, he already
-began to dream of an exalted passion, a love affair in ten volumes, a
-genuine lyric with moonlight, setting suns, meetings beneath the
-willows, jealousies, sighs and all the rest. He was like this every time
-chance brought a woman to his door, and not one had left him without
-bearing away any aureola about her head and a necklace of tears about
-her neck.
-
-"They would prefer new boots or a bonnet," his friend remarked to him.
-
-But Rodolphe persisted, and up to this time the numerous blunders he had
-made had not sufficed to cure him. He was always awaiting a woman who
-would consent to pose as an idol, an angel in a velvet gown, to whom he
-could at his leisure address sonnets written on willow leaves.
-
-At length Rodolphe heard the "holy hour" strike, and as the last stroke
-sounded he fancied he saw the Cupid and Psyche surmounting his clock
-entwine their alabaster arms about one another. At the same moment two
-timid taps were given at the door.
-
-Rodolphe went and opened it. It was Louise.
-
-"You see I have kept my word," said she.
-
-Rodolphe drew the curtain and lit a fresh candle.
-
-During this operation the girl had removed her bonnet and shawl, which
-she went and placed on the bed. The dazzling whiteness of the sheets
-caused her to smile, and almost to blush.
-
-Louise was rather pleasing than pretty; her fresh colored face presented
-an attractive blending of simplicity and archness. It was something like
-an outline of Greuze touched up by Gavarni. All her youthful attractions
-were cleverly set off by a toilette which, although very simple,
-attested in her that innate science of coquetry which all women possess
-from their first swaddling clothes to their bridal robe. Louise
-appeared besides to have made an especial study of the theory of
-attitudes, and assumed before Rodolphe, who examined her with the
-artistic eye, a number of seductive poses. Her neatly shod feet were of
-satisfactory smallness, even for a romantic lover smitten by Andalusian
-or Chinese miniatures. As to her hands, their softness attested
-idleness. In fact, for six months past she had no longer any reason to
-fear needle pricks. In short, Louise was one of those fickle birds of
-passage who from fancy, and often from necessity, make for a day, or
-rather a night, their nest in the garrets of the students' quarter, and
-remain there willingly for a few days, if one knows how to retain them
-by a whim or by some ribbons.
-
-After having chatted for an hour with Louise, Rodolphe showed her, as an
-example, the group of Cupid and Psyche.
-
-"Isn't it Paul and Virginia?"
-
-"Yes," replied Rodolphe, who did not want to vex her at the outset by
-contradicting her.
-
-"They are very well done," said Louise.
-
-"Alas!" thought Rodolphe, gazing at her, "the poor child is not up to
-much as regards literature. I am sure that her only orthography is that
-of the heart. I must buy her a dictionary."
-
-However, as Louise complained of her boots incommoding her, he
-obligingly helped her to unlace them.
-
-All at once the light went out.
-
-"Hallo!" exclaimed Rodolphe, "who has blown the candle out?"
-
-A joyful burst of laughter replied to him.
-
-A few days later Rodolphe met one of his friends in the street.
-
-"What are you up to?" said the latter. "One no longer sees anything of
-you."
-
-"I am studying the poetry of intimacy," replied Rodolphe.
-
-The poor fellow spoke the truth. He sought from Louise more than the
-poor girl could give him. An oaten pipe, she had not the strains of a
-lyre. She spoke to, so to say, the jargon of love, and Rodolphe
-insisted upon speaking the classic language. Thus they scarcely
-understood each other.
-
-A week later, at the same ball at which she had found Rodolphe, Louise
-met a fair young fellow, who danced with her several times, and at the
-close of the entertainment took her home with him.
-
-He was a second year's student. He spoke the prose of pleasure very
-fluently, and had good eyes and a well-lined pocket.
-
-Louise asked him for ink and paper, and wrote to Rodolphe a letter
-couched as follows:--
-
-     "Do not rekkon on me at all. I sende you a kiss for the last time.
-      Good bye.
-
-      Louise."
-
-As Rodolphe was reading this letter on reaching home in the evening, his
-light suddenly went out.
-
-"Hallo!" said he, reflectively, "it is the candle I first lit on the
-evening that Louise came--it was bound to finish with our union. If I
-had known I would have chosen a longer one," he added, in a tone of half
-annoyance, half of regret, and he placed his mistress' note in a drawer,
-which he sometimes styled the catacomb of his loves.
-
-One day, being at Marcel's, Rodolphe picked up from the ground to light
-his pipe with, a scrap of paper on which he recognized his handwriting
-and the orthography of Louise.
-
-"I have," said he to his friend, "an autograph of the same person, only
-there are two mistakes the less than in yours. Does not that prove that
-she loved me better than you?"
-
-"That proves that you are a simpleton," replied Marcel. "White arms and
-shoulders have no need of grammar."
-
-
-
-
-CHAPTER IV
-
-ALI RODOLPHE; OR, THE TURK PERFORCE
-
-
-Ostracized by an inhospitable proprietor, Rodolphe had for some time
-been leading a life compared with which the existence of a cloud is
-rather stationary. He practiced assiduously the arts of going to bed
-without supper, and supping without going to bed. He often dined with
-Duke Humphrey, and generally slept at the sign of a clear sky. Still,
-amid all these crosses and troubles, two things never forsook him; his
-good humor and the manuscript of "The Avenger," a drama which had gone
-the rounds of all the theaters in Paris.
-
-One day Rodolphe, who had been jugged for some slight choreographic
-extravagances, stumbled upon an uncle of his, one Monetti, a stove maker
-and smokey chimney doctor, and sargeant of the National Guard, whom he
-had not seen for an age. Touched by his nephew's misfortunes, Uncle
-Monetti promised to ameliorate his position. We shall see how, if the
-reader is not afraid of mounting six stories.
-
-Take note of the banister, then, and follow. Up we go! Whew! One hundred
-and twenty-five steps! Here we are at last. One more step, and we are in
-the room; one more yet, and we should be out of it again. It's little,
-but high up, with the advantages of good air and a fine prospect.
-
-The furniture is composed of two French stoves, several German ditto,
-some ovens on the economic plan, (especially if you never make fire in
-them,) a dozen stove pipes, some red clay, some sheet iron, and a whole
-host of heating apparatus. We may mention, to complete the inventory, a
-hammock suspended from two nails inserted in the wall, a three-legged
-garden chair, a candlestick adorned with its _bobeche_, and some other
-similar objects of elegant art. As to the second room--that is to say,
-the balcony--two dwarf cypresses, in pots, make a park of it for fine
-weather.
-
-At the moment of our entry, the occupant of the premises, a young man,
-dressed like a Turk of the Comic Opera, is finishing a repast, in which
-he shamelessly violates the law of the Prophet. Witness a bone that was
-once a ham, and a bottle that has been full of wine. His meal over, the
-young Turk stretches himself on the floor in true Eastern style, and
-begins carelessly to smoke a _narghile_. While abandoning himself to
-this Asiatic luxury, he passes his hand from time to time over the back
-of a magnificent Newfoundland dog, who would doubtless respond to its
-caresses where he not also in terra cotta, to match the rest of the
-furniture.
-
-Suddenly a noise was heard in the entry, and the door opened, admitting
-a person who, without saying a word, marched straight to one of the
-stoves, which served the purpose of a secretary, opened the stove-door,
-and drew out a bundle of papers.
-
-"Hallo!" cried the new-comer, after examining the manuscript
-attentively, "the chapter on ventilators not finished yet!"
-
-"Allow me to observe, uncle," replied the Turk, "the chapter on
-ventilators is one of the most interesting in your book, and requires to
-be studied with care. I am studying it."
-
-"But you miserable fellow, you are always saying that same thing. And
-the chapter on stoves--where are you in that?"
-
-"The stoves are going on well, but, by the way, uncle, if you could give
-me a little wood, it wouldn't hurt me. It is a little Siberia here. I am
-so cold, that I make a thermometer go down below zero by just looking at
-it."
-
-"What! you've used up one faggot already?"
-
-"Allow me to remark again, uncle, there are different kinds of faggots,
-and yours was the very smallest kind."
-
-"I'll send you an economic log--that keeps the heat."
-
-"Exactly, and doesn't give any."
-
-"Well," said the uncle as he went off, "you shall have a little faggot,
-and I must have my chapter on stoves for tomorrow."
-
-"When I have fire, that will inspire me," answered the Turk as he heard
-himself locked in.
-
-Were we making a tragedy, this would be the time to bring in a
-confidant. Noureddin or Osman he should be called, and he should advance
-towards our hero with an air at the same time discreet and patronizing,
-to console him for his reverses, by means of these three verses:
-
-    'What saddening grief, my Lord, assails you now?
-     Why sits this pallor on your noble brow?
-     Does Allah lend your plans no helping hand?
-     Or cruel Ali, with severe command,
-     Remove to other shores the beauteous dame,
-     Who charmed your eyes and set your heart on flame!'
-
-But we are not making a tragedy, so we must do without our confidant,
-though he would be very convenient.
-
-Our hero is not what he appears to be. The turban does not make the
-Turk. This young man is our friend Rodolphe, entertained by his uncle,
-for whom he is drawing up a manual of "The Perfect Chimney Constructor."
-In fact, Monsieur Monetti, an enthusiast for his art, had consecrated
-his days to this science of chimneys. One day he formed the idea of
-drawing up, for the benefit of posterity, a theoretic code of the
-principles of that art, in the practice of which he so excelled, and he
-had chosen his nephew, as we have seen, to frame the substance of his
-ideas in an intelligible form. Rodolphe was found in board, lodging, and
-other contingencies, and at the completion of the manual was to receive
-a recompense of three hundred francs.
-
-In the beginning, to encourage his nephew, Monetti had generously made
-him an advance of fifty francs. But Rodolphe, who had not seen so much
-silver together for nearly a year, half crazy, in company with his
-money, stayed out three days, and on the fourth came home alone!
-Thereupon the uncle, who was in haste to have his "Manual" finished
-inasmuch as he hoped to get a patent for it, dreading some new diversion
-on his nephew's part, determined to make him work by preventing him from
-going out. To this end he carried off his garments, and left him instead
-the disguise under which we have seen him. Nevertheless, the famous
-"Manual" continued to make very slow progress, for Rodolphe had no
-genius whatever for this kind of literature. The uncle avenged himself
-for this lazy indifference on the great subject of chimneys by making
-his nephew undergo a host of annoyances. Sometimes he cut short his
-commons, and frequently stopped the supply of tobacco.
-
-One Sunday, after having sweated blood and ink upon the great chapter of
-ventilators, Rodolphe broke the pen, which was burning his fingers, and
-went out to walk--in his "park." As if on purpose to plague him, and
-excite his envy the more, he could not cast a single look about him
-without perceiving the figure of a smoker on every window.
-
-On the gilt balcony of a new house opposite, an exquisite in his
-dressing gown was biting off the end of an aristocratic "Pantellas"
-cigar. A story above, an artist was sending before him an odorous cloud
-of Turkish tobacco from his amber-mouthed pipe. At the window of a
-_brasserie_, a fat German was crowning a foaming tankard, and emitting,
-with the regularity of a machine, the dense puffs that escaped from his
-meershaum. On the other side, a group of workmen were singing as they
-passed on their way to the barriers, their "throat-scorchers" between
-their teeth. Finally, all the other pedestrians visible in the street
-were smoking.
-
-"Woe is me!" sighed Rodolphe, "except myself and my uncle's chimneys,
-all creation is smoking at this hour!" And he rested his forehead on the
-bar of the balcony, and thought how dreary life was.
-
-Suddenly, a burst of long and musical laughter parted under his feet.
-Rodolphe bent forward a little, to discover the source of this volley of
-gaiety, and perceived that he had been perceived by the tenant of the
-story beneath him, Mademoiselle Sidonia, of the Luxembourg Theater. The
-young lady advanced to the front of her balcony, rolling between her
-fingers, with the dexterity of a Spaniard, a paper-full of light-colored
-tobacco, which she took from a bag of embroidered velvet.
-
-"What a sweet cigar girl it is!" murmured Rodolphe, in an ecstacy of
-contemplation.
-
-"Who is this Ali Baba?" thought Mademoiselle Sidonia on her part. And
-she meditated on a pretext for engaging in conversation with Rodolphe,
-who was himself trying to do the very same.
-
-"Bless me!" cried the lady, as if talking to herself, "what a bore! I've
-no matches!"
-
-"Allow me to offer you some, mademoiselle," said Rodolphe, letting fall
-on the balcony two or three lucifers rolled up in paper.
-
-"A thousand thanks," replied Sidonia, lighting her cigarette.
-
-"Pray, mademoiselle," continued Rodolphe, "in exchange for the trifling
-service which my good angel has permitted me to render you, may I ask
-you to do me a favor?"
-
-"Asking already," thought the actress, as she regarded Rodolphe with
-more attention. "They say these Turks are fickle, but very agreeable.
-Speak sir," she continued, raising her head towards the young man, "what
-do you wish?"
-
-"The charity of a little tobacco, mademoiselle, only one pipe. I have
-not smoked for two whole days."
-
-"Most willingly, but how? Will you take the trouble to come downstairs?"
-
-"Alas! I can't! I am shut up here, but am still free to employ a very
-simple means." He fastened his pipe to a string, and let it glide down to
-her balcony, where Sidonia filled it profusely herself. Rodolphe then
-proceeded, with much ease and deliberation, to remount his pipe, which
-arrived without accident. "Ah, mademoiselle!" he exclaimed, "how much
-better this pipe would have seemed, if I could have lighted it at your
-eyes!"
-
-It was at least the hundredth edition of this amiable pleasantry, but
-Sidonia found it superb for all that, and thought herself bound to
-reply, "You flatter me."
-
-"I assure you, mademoiselle, in right-down earnest, I think you
-handsomer than all the Three Graces together."
-
-"Decidedly, Ali Baba is very polite," thought Sidonia. "Are you really a
-Turk?" she asked Rodolphe.
-
-"Not by profession," he replied, "but by necessity. I am a dramatic
-author."
-
-"I am an artist," she replied, then added, "My dear sir and neighbor,
-will you do me the honor to dine and spend the evening with me?"
-
-"Alas!" answered Rodolphe, "though your invitation is like opening
-heaven to me, it is impossible to accept it. As I had the honor to tell
-you, I am shut up here by my uncle, Monsieur Monetti, stove-maker and
-chimney doctor, whose secretary I am now."
-
-"You shall dine with me for all that," replied Sidonia. "Listen, I shall
-re-enter my room, and tap on the ceiling. Look where I strike and you
-will find the traces of a trap which used to be there, and has since
-been fastened up. Find the means of removing the piece of wood which
-closes the hole, and then, although we are each in our own room, we
-shall be as good as together."
-
-Rodolphe went to work at once. In five minutes a communication was
-established between the two rooms.
-
-"It is a very little hole," said he, "but there will always be room
-enough to pass you my heart."
-
-"Now," said Sidonia, "we will go to dinner. Set your table, and I will
-pass you the dishes."
-
-Rodolphe let down his turban by a string, and brought it back laden with
-eatables, then the poet and the actress proceeded to dine--on their
-respective floors. Rodolphe devoured the pie with his teeth, and Sidonia
-with his eyes.
-
-"Thanks to you, mademoiselle," he said, when their repast was finished,
-"my stomach is satisfied. Can you not also satisfy the void of my heart,
-which has been so long empty?"
-
-"Poor fellow!" said Sidonia, and climbing on a piece of furniture, she
-lifted up her hand to Rodolphe's lips, who gloved it with kisses.
-
-"What a pity," he exclaimed, "you can't do as St. Denis, who had the
-privilege of carrying his head in his hands!"
-
-To the dinner succeeded a sentimental literary conversation. Rodolphe
-spoke of "The Avenger," and Sidonia asked him to read it. Leaning over
-the hole, he began declaiming his drama to the actress, who, to hear
-better, had put her arm chair on the top of a chest of drawers. She
-pronounced "The Avenger" a masterpiece, and having some influence at the
-theater, promised Rodolphe to get his piece received.
-
-But at the most interesting moment a step was heard in the entry, about
-as light as that of the Commander's ghost in "Don Juan." It was Uncle
-Monetti. Rodolphe had only just time to shut the trap.
-
-"Here," said Monetti to his nephew, "this letter has been running after
-you for a month."
-
-"Uncle! Uncle!" cried Rodolphe, "I am rich at last! This letter informs
-me that I have gained a prize of three hundred francs, given by an
-academy of floral games. Quick! my coat and my things! Let me go to
-gather my laurels. They await me at the Capitol!"
-
-"And my chapter on ventilators?" said Monetti, coldly.
-
-"I like that! Give me my things, I tell you; I can't go out so!"
-
-"You shall go out when my 'Manual' is finished," quoth the uncle,
-shutting up his nephew under lock and key.
-
-Rodolphe, when left alone, did not hesitate on the course to take. He
-transformed his quilt into a knotted rope, which he fastened firmly to
-his own balcony, and in spite of the risk, descended by this extempore
-ladder upon Mademoiselle Sidonia's.
-
-"Who is there?" she cried, on hearing Rodolphe knock at her window.
-
-"Hush!" he replied, "open!"
-
-"What do you want? Who are you?"
-
-"Can you ask? I am the author of 'The Avenger,' come to look for my
-heart, which I dropped through the trap into your room."
-
-"Rash youth!" said the actress, "you might have killed yourself!"
-
-"Listen, Sidonia," continued Rodolphe, showing her the letter he just
-received. "You see, wealth and glory smile on me, let love do the same!"
+CAMILLO CASTELLO BRANCO.
 
        *       *       *       *       *
 
-The following morning, by means of a masculine disguise, which Sidonia
-procured for him, Rodolphe was enabled to escape from his uncle's
-lodging. He ran to the secretary of the academy of floral games, to
-receive a crown of gold sweetbrier, worth three hundred francs, which
-lived
+Quem viu jámais vida amorosa, que não a visse afogada nas lagrimas do
+desastre ou do arrependimento?
 
-    "--as live roses the fairest--
-     The space of a day."
-
-A month after, Monsieur Monetti was invited by his nephew to assist at
-the first representation of "The Avenger." Thanks to the talent of
-Mademoiselle Sidonia, the piece had a run of seventeen nights, and
-brought in forty francs to its author.
-
-Some time later--it was in the warm season--Rodolphe lodged in the
-Avenue St. Cloud, third tree as you go out of the Bois de Boulogne, on
-the fifth branch.
-
-
-
-
-CHAPTER V
-
-THE CARLOVINGIAN COIN
-
-
-Towards the end of December the messengers of Bidault's agency were
-entrusted with the distribution of about a hundred copies of a letter of
-invitation, of which we certify that the following to be a true and
-genuine copy:--
-
-     -----
-
-     _M.M. Rodolphe and Marcel request the honor of your company on
-     Saturday next, Christmas Eve. Fun!_
-
-     _P.S. Life is short!_
-
-                  _PROGRAM OF THE ENTERTAINMENT_
-
-                             _PART I_
-
-     _7 o'clock--Opening of the saloons. Brisk and witty conversation._
-
-     _8.--Appearance of the talented authors of "The Mountain in Labor,"
-     comedy refused at the Odeon Theater._
-
-     _8:30.--M. Alexander Schaunard, the eminent virtuoso, will play
-     his imitative symphony, "The Influence of Blue in Art," on the
-     piano._
-
-     _9.--First reading of the essay on the "Abolition of the penalty of
-     tragedy."_
-
-     _9:30.--Philosophical and metaphysical argument between M. Colline,
-     hyperphysical philosopher, and M. Schaunard. To avoid any collision
-     between the two antagonists, they will both be securely fastened._
-
-     _10.--M. Tristan, master of literature, will narrate his early
-     loves, accompanied on the piano by M. Alexander Schaunard._
-
-     _10:30.--Second reading of the essay on the "Abolition of the
-     penalty of tragedy."_
-
-     _11.--Narration of a cassowary hunt by a foreign prince._
-
-                             _PART II_
-
-     _Midnight.--M. Marcel, historical painter, will execute with his
-     eyes bandaged an impromptu sketch in chalk of the meeting of
-     Voltaire and Napolean in the Elyssian Fields. M. Rodolphe will also
-     improvise a parallel between the author of Zaire, and the victor of
-     Austerlitz._
-
-     _12:30.--M. Gustave Colline, in a decent undress, will give an
-     imitation of the athletic games of the 4th Olympiad._
-
-     _1.--Third reading of the essay on the "Abolition of the penalty of
-     tragedy," and subscription on behalf of tragic authors who will one
-     day find themselves out of employment._
-
-     _2.--Commencement of games and organization of quadrilles to last
-     until morning._
-
-     _6.--Sunrise and final chorus._
-
-     _During the whole of entertainment ventilators will be in action._
-
-     _N.B. Anyone attempting to read or recite poetry will be summarily
-     ejected and handed over to the police. The guests are equally
-     requested not to help themselves to the candle ends._
-
-Two days later, copies of this invitation were circulating among the
-lower depths of art and literature, and created a profound sensation.
-
-There were, however, amongst the invited guests, some who cast doubt
-upon the splendor of the promises made by the two friends.
-
-"I am very skeptical about it," said one of them. "I have sometimes gone
-to Rodolphe's Thursdays in the Rue de la Tour d'Auvergne, when one could
-only sit on anything morally, and where all one had to drink was a
-little filtered water in eclectic pottery."
-
-"This time," said another, "it is really serious. Marcel has shown me
-the program of the fete, and the effect will be magical."
-
-"Will there be any ladies?"
-
-"Yes. Phemie Teinturiere has asked to be queen of the fete and Schaunard
-is to bring some ladies of position."
-
-This is in brief the origin of this fete which caused such stupefaction
-in the Bohemian world across the water. For about a year past, Marcel
-and Rodolphe had announced this sumptuous gala which was always to take
-place "next Saturday," but painful circumstances had obliged their
-promise to extend over fifty-two weeks, so that they had come to pass of
-not being able to take a step without encountering some ironical remark
-from one of their friends, amongst whom there were some indiscreet
-enough to put forward energetic demand for its fulfillment. The matter
-beginning to assume the character of a plague, the two friends resolved
-to put an end to it by liquidating the undertaking into which they had
-entered. It was thus that they sent out the invitation given above.
-
-"Now," said Rodolphe, "there is no drawing back. We have burnt our
-ships, and we have before us just a week to find the hundred francs that
-are indispensable to do the thing properly."
-
-"Since we must have them, we shall," replied Marcel.
-
-And with the insolent confidence which they had in luck, the two friends
-went to sleep, convinced that their hundred francs were already on the
-way, the way of impossibility.
-
-However, as on the day before that appointed for the party, nothing as
-of yet had turned up, Rodolphe thought perhaps, be safer to give luck a
-helping hand, unless he were to be discredited forever, when the time
-came to light up. To facilitate matters the two friends progressively
-modified the sumptuosity of the program they had imposed upon
-themselves.
-
-And proceeding from modification to modification, after having seriously
-reduced the item "cakes," and carefully revised and pruned down the item
-"liquors," the total cost was reduced to fifteen francs.
-
-The problem was simplified, but not yet solved.
-
-"Come, come," said Rodolphe, "we must now have recourse to strong
-measures, we cannot cry off this time."
-
-"No, that is impossible," replied Marcel.
-
-"How long is it since I have heard the story of the Battle of
-Studzianka?"
-
-"About two months."
-
-"Two months, good, that is a decent interval; my uncle will have no
-ground for grumbling. I will go tomorrow and hear his account of that
-engagement, that will be five francs for certain."
-
-"I," said Marcel, "will go and sell a deserted manor house to old
-Medicis. That will make another five francs. If I have time enough to
-put in three towers and a mill, it will perhaps run to ten francs, and
-our budget will be complete."
-
-And the two friends fell asleep dreaming that the Princess Belgiojoso
-begged them to change their reception day, in order not to rob her of
-her customary guests.
-
-Awake at dawn, Marcel took a canvas and rapidly set to work to build up
-a deserted manor house, an article which he was in the habit of
-supplying to a broker of the Place de Carrousel. On his side, Rodolphe
-went to pay a visit to his Uncle Monetti, who shone in the story of the
-Retreat from Moscow, and to whom Rodolphe accorded five or six times in
-course of the year, when matters were really serious, the satisfaction
-of narrating his campaigns, in return for a small loan which the veteran
-stove maker did not refuse too obstinately when due enthusiasm was
-displayed in listening to his narrations.
-
-About two o'clock, Marcel with hanging head and a canvas under his arm,
-met on the Place de Carrousel Rodolphe, who was returning from his
-uncle's, and whose bearing also presaged ill news.
-
-"Well," asked Marcel, "did you succeed?"
-
-"No, my uncle has gone to Versailles. And you?"
-
-"That beast of a Medicis does not want any more ruined manor houses. He
-wants me to do him a Bombardment of Tangiers."
-
-"Our reputations are ruined forever if we do not give this party,"
-murmured Rodolphe. "What will my friend, the influential critic, think
-if I make him put on a white tie and yellow kids for nothing."
-
-And both went back to the studio, a prey to great uneasiness.
-
-At that moment the clock of a neighbor struck four.
-
-"We have only three hours before us," said Rodolphe despondingly.
-
-"But," said Marcel, going up to his friend, "are you quite sure, certain
-sure, that we have no money left anywhere hereabout? Eh?"
-
-"Neither here, nor elsewhere. Where do you suppose it could come from?"
-
-"If we looked under the furniture, in the stuffing of the arm chairs?
-They say that the emigrant noblemen used to hide their treasures in the
-days of Robespierre. Who can tell? Perhaps our arm chair belonged to an
-emigrant nobleman, and besides, it is so hard that the idea has often
-occurred to me that it must be stuffed with metal. Will you dissect it?"
-
-"This is mere comedy," replied Rodolphe, in a tone in which severity was
-mingled with indulgence.
-
-Suddenly Marcel, who had gone on rummaging in every corner of the
-studio, uttered a loud cry of triumph.
-
-"We are saved!" he exclaimed. "I was sure that there was money here.
-Behold!" and he showed Rodolphe a coin as large as a crown piece, and
-half eaten away by rust and verdigris.
-
-It was a Carlovingian coin of some artistic value. The legend, happily
-intact, showed the date of Charlemagne's reign.
-
-"That, that's worth thirty sous," said Rodolphe, with a contemptuous
-glance at his friend's find.
-
-"Thirty sous well employed will go a great way," replied Marcel. "With
-twelve hundred men Bonaparte made ten thousand Austrians lay down their
-arms. Skill can replace numbers. I will go and swap the Carlovingian
-crown at Daddy Medicis'. Is there not anything else saleable here?
-Suppose I take the plaster cast of the tibia of Jaconowski, the Russian
-drum major."
-
-"Take the tibia. But it is a nuisance, there will not be a single
-ornament left here."
-
-During Marcel's absence, Rodolphe, his mind made up that that party
-should be given in any case, went in search of his friend Colline, the
-hyperphysical philosopher, who lived hard by.
-
-"I have come," said he, "to ask you to do me a favor. As host I must
-positively have a black swallow-tail, and I have not got one; lend me
-yours."
-
-"But," said Colline hesitating, "as a guest I shall want my black
-swallow-tail too."
-
-"I will allow you to come in a frock coat."
-
-"That won't do. You know very well I have never had a frock coat."
-
-"Well, then, it can be settled in another way. If needs be, you need not
-come to my party, and can lend me your swallow-tail."
-
-"That would be unpleasant. I am on the program, and must not be
-lacking."
-
-"There are plenty of other things that will be lacking," said Rodolphe.
-"Lend me your black swallow-tail, and if you will come, come as you
-like; in your shirt sleeves, you will pass for a faithful servant."
-
-"Oh no!" said Colline, blushing. "I will wear my great coat. But all the
-same, it is very unpleasant." And as he saw Rodolphe had already seized
-on the famous black swallow-tail, he called out to him, "Stop a bit.
-There are some odds and ends in the pockets."
-
-Colline's swallow-tail deserves a word or two. In the first place it was
-of a decided blue, and it was from habit that Colline spoke of it as "my
-black swallow-tail." And as he was the only one of the band owning a
-dress coat, his friends were likewise in the habit of saying, when
-speaking of the philosopher's official garment, "Colline's black
-swallow-tail." In addition to this, this famous garment had a special
-cut, the oddest imaginable. The tails, very long, and attached to a very
-short waist, had two pockets, positive gulfs, in which Colline was
-accustomed to store some thirty of the volumes which he eternally
-carried about with him. This caused his friends to remark that during
-the time that the public libraries were closed, savants and literary men
-could go and refer to the skirts of Colline's swallow-tail--a library
-always open.
-
-That day, extraordinary to relate, Colline's swallow-tail only contained
-a quarto volume of Bayle, a treatise on the hyperphysical faculties in
-three volumes, a volume of Condillac, two of Swedenborg and Pope's
-"Essay on Man." When he had cleared his bookcase-garment, he allowed
-Rodolphe to clothe himself in it.
-
-"Hallo!" said the latter, "the left pocket still feels very heavy; you
-have left something in it."
-
-"Ah!" exclaimed Colline, "that is so. I forgot to empty the foreign
-languages pocket."
-
-And he took out from this two Arabic grammars, a Malay dictionary, and a
-stock breeder's manual in Chinese, his favorite reading.
-
-When Rodolphe returned home he found Marcel playing pitch-and-toss with
-three five franc pieces. At first Rodolphe refused his friend's
-proferred hand--he thought some crime had been committed.
-
-"Let us make haste, let us make haste," said Marcel, "we have the
-fifteen francs required. This is how it happened. I met an antiquary at
-Medicis'. When he saw the coin he was almost taken ill; it was the only
-one wanting in his cabinet. He had sent everywhere to get this vacancy
-filled up, and had lost all hope. Thus, when he had thoroughly examined
-my Carlovingian crown piece, he did not hesitate for a moment to offer
-me five francs for it. Medicis nudged me with his elbow; a look from
-him completed the business. He meant, 'share the profits of the sale,
-and I will bid against him.' We ran it up to thirty francs. I gave the
-Jew fifteen, and here are the rest. Now our guests may come; we are in a
-position to dazzle them. Hallo! You have got a swallow-tail!"
-
-"Yes," said Rodolphe, "Colline's swallow-tail." And as he was feeling
-for his handkerchief, Rodolphe pulled out a small volume in a Tartar
-dialect, overlooked in the foreign literature pocket.
-
-The two friends at once proceeded to make their preparations. The studio
-was set in order, a fire kindled in the stove, the stretcher of a
-picture, garnished with composite candles, suspended from the ceiling
-as a chandelier, and a writing table placed in the middle of the studio
-to serve as a rostrum for the orators. The solitary armchair, which was
-to be reserved for the influential critic, was placed in front of it,
-and upon a table were arranged all the books, romances, poems,
-pamphlets, &c., the authors of which were to honor the company with
-their presence.
-
-In order to avoid any collision between members of the different schools
-of literature, the studio had been, moreover, divided into four
-compartments, at the entrance to each of which could be read, on four
-hurriedly manufactured placards, the inscriptions--"Poets," "Prose
-Writers," "Classic School," and "Romantic School."
-
-The ladies were to occupy a space reserved in the middle of the studio.
-
-"Humph! Chairs are lacking," said Rodolphe.
-
-"Oh!" remarked Marcel, "there are several on the landing, fastened along
-the wall. Suppose we were to gather them."
-
-"Certainly, let us gather them by all means," said Rodolphe, starting
-off to seize on the chairs, which belonged to some neighbor.
-
-Six o'clock struck: the two friends went off to a hasty dinner, and
-returned to light up the saloons. They were themselves dazzled by the
-result. At seven o'clock Schaunard arrived, accompanied by three ladies,
-who had forgotten their diamonds and their bonnets. One of them wore a
-red shawl with black spots. Schaunard pointed out this lady particularly
-to Rodolphe.
-
-"She is a woman accustomed to the best society," said he, "an
-Englishwoman whom the fall of the Stuarts has driven into exile, she
-lives in a modest way by giving lessons in English. Her father was Lord
-Chancellor under Cromwell, she told me, so we must be polite with her.
-Don't be too familiar."
-
-Numerous footsteps were heard on the stairs. It was the guests arriving.
-They seemed astonished to see a fire burning in the stove.
-
-Rodolphe's swallow-tail went to greet the ladies, and kissed their hands
-with a grace worthy of the Regency. When there was a score of persons
-present, Schaunard asked whether it was not time for a round of drinks.
-
-"Presently," said Marcel. "We are waiting for the arrival of the
-influential critic to set fire to the punch."
-
-At eight o'clock the whole of the guests had arrived, and the execution
-of the program commenced. Each item was alternated with a round of drink
-of some kind, no one ever knew what.
-
-Towards ten o'clock the white waistcoat of the influential critic made
-its appearance. He only stayed an hour, and was very sober in the
-consumption of refreshments.
-
-At midnight, as there was no more wood, and it was very cold, the guests
-who were seated drew lots as to who should cast his chair into the fire.
-
-By one o'clock every one was standing.
-
-Amiable gaiety did not cease to reign amongst the guests. There were no
-accidents to be regretted, with the exception of a rent in the foreign
-languages pocket of Colline's swallow-tail and a smack in the face given
-by Schaunard to the daughter of Cromwell's Lord Chancellor.
-
-This memorable evening was for a week the staple subject of gossip in
-the district, and Phemie Teinturiere, who had been the queen of the
-fete, was accustomed to remark, when talking it over with her friends,--
-
-"It was awfully fine. There were composite candles, my dear."
-
-
-
-
-CHAPTER VI
-
-MADEMOISELLE MUSETTE
-
-
-Mademoiselle Musette was a pretty girl of twenty who shortly after her
-arrival in Paris had become what many pretty girls become when they
-have a neat figure, plenty of coquesttishness, a dash of ambition and
-hardly any education. After having for a long time shone as the star of
-the supper parties of the Latin Quarter, at which she used to sing in a
-voice, still very fresh if not very true, a number of country ditties,
-which earned her the nickname under which she has since been
-immortalized by one of our neatest rhymsters, Mademoiselle Musette
-suddenly left the Rue de la Harpe to go and dwell upon the Cytherean
-heights of the Breda district.
-
-She speedily became one of the foremost of the aristocracy of pleasure
-and slowly made her way towards that celebrity which consists in being
-mentioned in the columns devoted to Parisian gossip, or lithographed at
-the printsellers.
-
-However Mademoiselle Musette was an exception to the women amongst whom
-she lived. Of a nature instinctively elegant and poetical, like all
-women who are really such, she loved luxury and the many enjoyments
-which it procures; her coquetry warmly coveted all that was handsome and
-distinguished; a daughter of the people, she would not have been in any
-way out of her element amidst the most regal sumptuosity. But
-Mademoiselle Musette, who was young and pretty, had never consented to
-be the mistress of any man who was not like herself young and handsome.
-She had been known bravely to refuse the magnificient offers of an old
-man so rich that he was styled the Peru of the Chaussee d'Antin, and who
-had offered a golden ladder to the gratification of her fancies.
-Intelligent and witty, she had also a repugnance for fools and
-simpletons, whatever might be their age, their title and their name.
-
-Musette, therefore, was an honest and pretty girl, who in love adopted
-half of Champfort's famous amphoris, "Love is the interchange of two
-caprices." Thus her connection had never been preceded by one of those
-shameful bargains which dishonor modern gallantry. As she herself said,
-Musette played fair and insisted that she should receive full change for
-her sincerity.
-
-But if her fancies were lively and spontaneous, they were never durable
-enough to reach the height of a passion. And the excessive mobility of
-her caprices, the little care she took to look at the purse and the
-boots of those who wished to be considered amongst them, brought about a
-corresponding mobility in her existence which was a perpetual
-alternation of blue broughams and omnibuses, first floors and fifth
-stories, silken gowns and cotton frocks. Oh cleaning girl! Living poem
-of youth with ringing laugh and joyous song! Tender heart beating for
-one and all beneath your half-open bodice! Ah Mademoiselle Musette,
-sister of Bernette and Mimi Pinson, it would need the pen of Alfred de
-Musset to fitly narrate your careless and vagabond course amidst the
-flowery paths of youth; and he would certainly have celebrated you, if
-like me, he had heard you sing in your pretty false notes, this couplet
-from one of your favorite ditties:
-
-    "It was a day in Spring
-     When love I strove to sing
-     Unto a nut brown maid.
-     O'er face as fair as dawn
-     Cast a bewitching shade,"
-
-The story we are about to tell is one of the most charming in the life
-of this charming adventuress who wore so many green gowns.
-
-At a time when she was the mistress of a young Counsellor of State, who
-had gallantly placed in her hands the key of his ancestral coffers,
-Mademoiselle Musette was in the habit of receiving once a week in her
-pretty drawing room in the Rue de la Bruyere. These evenings resembled
-most Parisian evenings, with the difference that people amused
-themselves. When there was not enough room they sat on one another's
-knees, and it often happened that the same glass served for two.
-Rodolphe, who was a friend of Musette and never anything more than a
-friend, without either of them knowing why--Rodolphe asked leave to
-bring his friend, the painter Marcel.
-
-"A young fellow of talent," he added, "for whom the future is
-embroidering his Academician's coat."
-
-"Bring him," said Musette.
-
-The evening they were to go together to Musette's Rodolphe called on
-Marcel to fetch him. The artist was at his toilet.
-
-"What!" said Rodolphe, "you are going into society in a colored shirt?"
-
-"Does that shock custom?" observed Marcel quietly.
-
-"Shock custom, it stuns it."
-
-"The deuce," said Marcel, looking at his shirt, which displayed a
-pattern of boars pursued by dogs, on a blue ground. "I have not another
-here. Oh! Bah! So much the worse, I will put on a collar, and as
-'Methuselah' buttons to the neck no one will see the color of my lines."
-
-"What!" said Rodolphe uneasy, "you are going to wear 'Methuselah'?"
-
-"Alas!" replied Marcel, "I must, God wills it and my tailor too; besides
-it has a new set of buttons and I have just touched it up with ivory
-black."
-
-"Methuselah" was merely Marcel's dress coat. He called it so because it
-was the oldest garment of his wardrobe. "Methuselah" was cut in the
-fashion of four years' before and was, besides of a hideous green, but
-Marcel declared that it looked black by candlelight.
-
-In five minutes Marcel was dressed, he was attired in the most perfect
-bad taste, the get-up of an art student going into society.
-
-M. Casimir Bonjour will never be so surprised the day he learns his
-election as a member of the Institute as were Rodolphe and Marcel on
-reaching Mademoiselle Musette's.
-
-This is the reason for their astonishment: Mademoiselle Musette who for
-some time past had fallen out with her lover the Counsellor of State,
-had been abandoned by him at a very critical juncture. Legal proceedings
-having been taken by her creditors and her landlord, her furniture had
-been seized and carried down into the courtyard in order to be taken
-away and sold on the following day. Despite this incident Mademoiselle
-Musette had not for a moment the idea of giving her guests the slip and
-did not put off her party. She had the courtyard arranged as a drawing
-room, spread a carpet on the pavement, prepared everything as usual,
-dressed to receive company, and invited all the tenants to her little
-entertainment, towards which Heaven contributed its illumination.
-
-This jest had immense success, never had Musette's evenings displayed
-such go and gaiety; they were still dancing and singing when the porters
-came to take away furniture and carpets and the company was obliged to
-withdraw.
-
-Musette bowed her guests out, singing:
-
-    "They will laugh long and loud, tralala,
-     At my Thursday night's crowd
-     They will laugh long and loud, tralala."
-
-Marcel and Rodolphe alone remained with Musette, who ascended to her
-room where there was nothing left but the bed.
-
-"Ah, but my adventure is no longer such a lively one after all," said
-Musette. "I shall have to take up my quarters out of doors."
-
-"Oh madame!" said Marcel, "if I had the gifts of Plutus I should like to
-offer you a temple finer than that of Solomon, but--"
-
-"You are not Plutus. All the same I thank you for your good intentions.
-Ah!" she added, glancing around the room, "I was getting bored here, and
-then the furniture was old. I had had it nearly six months. But that is
-not all, after the dance one should sup."
-
-"Let us sup-pose," said Marcel, who had an itch of punning, above all
-in the morning, when he was terrible.
-
-As Rodolphe had gained some money at the lansquenet played during the
-evening, he carried off Musette and Marcel to a restaurant which was
-just opening.
-
-After breakfast, the three, who had no inclination for sleep, spoke of
-finishing the day in the country, and as they found themselves close to
-the railway station they got into the first train that started, which
-landed them at Saint Germain.
-
-During the whole of the night of the party and all of the rest of the
-day Marcel, who was gunpowder which a single glance sufficed to kindle,
-had been violently smitten by Mademoiselle Musette and paid her
-"highly-colored court," as he put it to Rodolphe. He even went so far as
-to propose to the pretty girl to buy her furniture handsomer than the
-last with the result of the sale of his famous picture, "The Passage of
-the Red Sea." Hence the artist saw with pain the moment arrive when it
-became necessary to part from Musette, who whilst allowing him to kiss
-her hands, neck and sundry other accessories, gently repulsed him every
-time that he tried to violently burgle her heart.
-
-On reaching Paris, Rodolphe left his friend with the girl, who asked the
-artist to see her to her door.
-
-"Will you allow me to call on you?" asked Marcel, "I will paint your
-portrait."
-
-"My dear fellow," replied she, "I cannot give you my address, since
-tomorrow I may no longer have one, but I will call and see you, and I
-will mend your coat, which has a hole so big that one could shoot the
-moon through it."
-
-"I will await your coming like that of the messiah," said Marcel.
-
-"Not quite so long," said Musette, laughing.
-
-"What a charming girl," said Marcel to himself, as he slowly walked
-away. "She is the Goddess of Mirth. I will make two holes in my coat."
-
-He had not gone twenty paces before he felt himself tapped on the
-shoulder. It was Mademoiselle Musette.
-
-"My dear Monsieur Marcel," said she, "are you a true knight?"
-
-"I am. 'Rubens and my lady,' that is my motto."
-
-"Well then, hearken to my woes and pity take, most noble sir," returned
-Musette, who was slightly tinged with literature, although she murdered
-grammar in fine style, "the landlord has taken away the key of my room
-and it is eleven o'clock at night. Do you understand?"
-
-"I understand," said Marcel, offering Musette his arm. He took her to
-his studio on the Quai aux Fleurs.
-
-Musette was hardly able to keep awake, but she still had strength
-enough to say to Marcel, taking him by the hand, "You remember what you
-have promised?"
-
-"Oh Musette! charming creature!" said the artist in a somewhat moved
-tone, "you are here beneath a hospitable roof, sleep in peace. Good
-night, I am off."
-
-"Why so?" said Musette, her eyes half closed. "I am not afraid, I can
-assure you. In the first place, there are two rooms. I will sleep on
-your sofa."
-
-"My sofa is too hard to sleep on, it is stuffed with carded pebbles. I
-will give you hospitality here, and ask it for myself from a friend who
-lives on the same landing. It will be more prudent," said he. "I usually
-keep my word, but I am twenty-two and you are eighteen, Musette,--and I
-am off. Good night."
-
-The next morning at eight o'clock Marcel entered her room with a pot of
-flowers that he had gone and bought in the market. He found Musette, who
-had thrown herself fully dressed on the bed, and was still sleeping. At
-the noise made by him she woke, and held out her hand.
-
-"What a good fellow," said she.
-
-"Good fellow," repeated Marcel, "is not that a term of ridicule?"
-
-"Oh!" exclaimed Musette, "why should you say that to me? It is not nice.
-Instead of saying spiteful things offer me that pretty pot of flowers."
-
-"It is, indeed, for you that I have brought them up," said Marcel. "Take
-it, and in return for my hospitality sing me one of your songs, the echo
-of my garret may perhaps retain something of your voice, and I shall
-still hear you after you have departed."
-
-"Oh! so you want to show me the door?" said Musette. "Listen, Marcel, I
-do not beat about the bush to say what my thoughts are. You like me and
-I like you. It is not love, but it is perhaps its seed. Well, I am not
-going away, I am going to stop here, and I shall stay here as long as
-the flowers you have just given me remain unfaded."
-
-"Ah!" exclaimed Marcel, "they will fade in a couple of days. If I had
-known I would have bought immortelles."
+D. Francisco Manoel, (_Epanaphora amorosa_).
 
        *       *       *       *       *
 
-For a fortnight Musette and Marcel lived together, and led, although
-often without money, the most charming life in the world. Musette felt
-for the artist an affection which had nothing in common with her
-preceding passions, and Marcel began to fear that he was seriously in
-love with his mistress. Ignorant that she herself was very much afraid
-of being equally smitten, he glanced every morning at the condition of
-the flowers, the death of which was to bring about the severance of
-their connection, and found it very difficult to account for their
-continued freshness. But he soon had a key to the mystery. One night,
-waking up, he no longer found Musette beside him. He rose, hastened into
-the next room, and perceived his mistress, who profited nightly by his
-slumbers to water the flowers and hinder them from perishing.
+PORTO
 
+EM CASA DE N. MORÉ--EDITOR,
 
+PRAÇA DE D. PEDRO.
 
+A mesma casa em Coimbra, Rua da Calçada.
 
-CHAPTER VII
+Casa de Commissões em Paris, 2 bis, Rua d'Arcole.
 
-THE BILLOWS OF PACTOLUS
+1862.
 
 
-It was the nineteenth of March, 184--. Should Rodolphe reach the age of
-Methuselah, he will never forget the date; for it was on that day, at
-three in the afternoon, that our friend issued from a banker's where he
-had just received five hundred francs in current and sounding specie.
 
-The first use Rodolphe made of this slice of Peru which had fallen into
-his pocket was not to pay his debts, inasmuch as he had sworn to himself
-to practice economy and go to no extra expense. He had a fixed idea on
-this subject, and declared that before thinking of superfluities, one
-ought to provide for necessaries. Therefore it was that he paid none of
-his creditors, and bought a Turkish pipe which he had long coveted.
 
-Armed with this purchase, he directed his steps towards the lodging of
-his friend Marcel, who had for some time given him shelter. As he
-entered Marcel's studio, Rodolphe's pockets rang like a village-steeple
-on a grand holiday. On hearing this unusual sound, Marcel supposed it
-was one of his neighbors, a great speculator, counting his profits on
-'Change, and muttered, "There's that impertinent fellow next door
-beginning his music again! If this is to go on, I shall give notice to
-the landlord. It's impossible to work with such a noise. It tempts one
-to quit one's condition of poor artist and turn robber, forty times
-over."
+PORTO: 1862--TYP. DE SEBASTIÃO JOSÉ PEREIRA.
 
-So, never suspecting that it was his friend Rodolphe changed into a
-Croesus, Marcel again set to work on his "Passage of the Red Sea," which
-had been on his easel nearly three years.
+Rua do Almada, 641.
 
-Rodolphe, who had not yet spoken, meditating an experiment which he was
-about to make on his friend, said to himself, "We shall laugh in a
-minute. Won't it be fun?" and he let fall a five-franc piece on the
-floor.
 
-Marcel raised his eyes and looked at Rodolphe, who was as grave as an
-article in the "Revue des deux Mondes." Then he picked up the piece of
-money with a well-satisfied air, and made a courteous salute to it; for,
-vagabond artist as he was, he understood the usages of society, and was
-very civil to strangers. Knowing, moreover, that Rodolphe had gone out
-to look for money, Marcel, seeing that his friend had succeeded in his
-operations, contented himself with admiring the result, without
-inquiring by what means it had been obtained. Accordingly, he went to
-work again without speaking, and finished drowning an Egyptian in the
-waves of the Red Sea. As he was terminating this homicide, Rodolphe let
-fall another piece, laughing in his sleeve at the face the painter was
-going to make.
 
-At the sonorous sound of the metal, Marcel bounded up as if he had
-received an electric shock, and cried, "What! Number two!"
 
-A third piece rolled on the floor, then another, then one more; finally
-a whole quadrille of five-franc pieces were dancing in the room.
+AO ILLUSTRISSIMO E EXCELENTISSIMO SENHOR
 
-Marcel began to show evident signs of mental alienation; and Rodolphe
-laughed like the pit of a Parisian theatre at the first representation
-of a very tragical tragedy. Suddenly, and without any warning, he
-plunged both hands into his pockets, and the money rushed out in a
-supernatural steeple-chase. It was an inundation of Pactolus; it was
-Jupiter entering Danae's chamber.
 
-Marcel remained silent, motionless, with a fixed stare; his astonishment
-was gradually operating upon him a transformation similar to that which
-the untimely curiosity of Lott's wife brought upon her: by the time that
-Rodolphe had thrown his last hundred francs on the floor, the painter
-was petrified all down one side of his body.
+*ANTONIO MARIA DE FONTES PEREIRA DE MELLO*
 
-Rodolphe laughed and laughed. Compared with his stormy mirth, the
-thunder of an orchestra of sax-horns would have been no more than the
-crying of a child at the breast.
+DEDICA
 
-Stunned, strangled, stupefied by his emotions, Marcel thought himself in
-a dream. To drive away the nightmare, he bit his finger till he brought
-blood, and almost made himself scream with pain. He then perceived that,
-though trampling upon money, he was perfectly awake. Like a personage in
-a tragedy, he ejaculated:
+O Author.
 
-"Can I believe my eyes?" and then seizing Rodolphe's hand, he added,
-"Explain to me this mystery."
 
-"Did I explain it 'twould be one no more."
 
-"Come, now!"
 
-"This gold is the fruit of the sweat of my brow," said Rodolphe, picking
-up the money and arranging it on the table. He then went a few steps and
-looked respectfully at the five hundred francs ranged in heaps, thinking
-to himself, "Now then, my dreams will be realized!"
+_Ill.^mo e Ex.^mo Snr.
 
-"There cannot be much less than six thousand francs there," thought
-Marcel to himself, as he regarded the silver which trembled on the
-table. "I've an idea! I shall ask Rodolphe to buy my 'Passage of the Red
-Sea.'"
+Ha de pensar muita gente que V. Ex.^a não dá valor algum a este livro,
+que a minha gratidão lhe dedica, porque muita gente está persuadida que
+ministros do estado não lêem novellas. É um engano. Uma vez ouvi eu um
+collega de V. Ex.^a discorrer no parlamento ácerca de caminhos de ferro.
+Com tanto engenho o fazia, de tantas flôres matizára aquella árida
+materia, que me deleitou ouvil-o. Na noite d'esse dia encontrei o
+collega de V. Ex.^a a lêr a Fanny, aquella Fanny, que sabia tanto de
+caminhos de ferro como eu.
 
-All at once Rodolphe put himself into a theatrical attitude, and, with
-great solemnity of voice and gesture, addressed the artist:
+Que V. Ex.^a tem romances na sua bibliotheca, é convicção minha. Que lá
+tem alguns, que não leu porque o tempo lhe falece, e outros porque não
+merecem tempo, também o creio. Dê V. Ex.^a, no lote dos segundos, um
+logar a este livro, e terá assim V. Ex.^a significado que o recebe e
+aprecia, por levar em si o nome do mais agradecido e respeitador criado
+de V. Ex.^a
 
-"Listen to me, Marcel: the fortune which has dazzled your eyes is not
-the product of vile maneuvers; I have not sold my pen; I am rich, but
-honest. This gold, bestowed by a generous hand, I have sworn to use in
-laboriously acquiring a serious position--such as a virtuous man should
-occupy. Labor is the most scared of duties--."
+Na cadêa da Relação do Porto,
 
-"And the horse, the noblest of animals," interrupted Marcel.
+aos 26 de Setembro de 1861.
 
-"Bah! where did you get that sermon? Been through a course of good
-sense, no doubt."
+Camillo Castello Branco_.
 
-"Interrupt me not," replied Rodolphe, "and truce to your railleries.
-They will be blunted against the buckler of invulnerable resolution in
-which I am from this moment clad."
 
-"That will do for prologue. Now the conclusion."
 
-"This is my design. No longer embarrassed about the material wants of
-life, I am going seriously to work. First of all, I renounce my vagabond
-existence: I shall dress like other people, set up a black coat, and go
-to evening parties. If you are willing to follow in my footsteps, we
-will continue to live together but you must adopt my program. The
-strictest economy will preside over our life. By proper management we
-have before us three months' work without any preoccupation. But we must
-be economical."
 
-"My dear fellow," said Marcel, "economy is a science only practicable
-for rich people. You and I, therefore, are ignorant of its first
-elements. However, by making an outlay of six francs we can have the
-works of Monsieur Jean-Baptiste Say, a very distinguished economist, who
-will perhaps teach us how to practice the art. Hallo! You have a Turkish
-pipe there!"
+PREFACIO.
 
-"Yes, I bought it for twenty-five francs."
 
-"How is that! You talk of economy, and give twenty-five francs for a
-pipe!"
+Folheando os livros de antigos assentamentos, no cartorio das cadêas da
+Relação do Porto, li, no das entradas dos presos desde 1803 a 1805, a
+folhas 232, o seguinte:
 
-"And this is an economy. I used to break a two-sous pipe every day, and
-at the end of the year that came to a great deal more."
+     _Simão Antonio Botelho, que assim disse chamar-se, ser solteiro, e
+     estudante na Universidade de Coimbra, natural da cidade de Lisboa,
+     e assistente na occasião de sua prisão na cidade de Vizeu, idade de
+     dezoito annos, filho de Domingos José Correia Botelho e de D. Rita
+     Preciosa Caldeirão Castello-Branco, estatura ordinaria, cara
+     redonda, olhos castanhos, cabello e barba preta, vestido com
+     jaqueta de baetão azul, collête de fustão pintado e calça de panno
+     pedrez. E fiz este assento, que assignei.
 
-"True, I should never have thought of that."
+     Filippe Moreira Dias_.
 
-They heard a neighboring clock strike six.
+Á margem esquerda d'este assento está escripto:
 
-"Let us have dinner at once," said Rodolphe. "I mean to begin from
-tonight. Talking of dinner, it occurs to me that we lose much valuable
-time every day in cooking ours; now time is money, so we must economize
-it. From this day we will dine out."
+     _Foi para a India em 17 de Março de 1807_.
 
-"Yes," said Marcel, "there is a capital restaurant twenty steps off.
-It's rather dear, but not far to go, so we shall gain in time what we
-lose in money."
+Não será fiar demasiadamente na sensibilidade do leitor, se cuido que o
+degredo de um moço de dezoito annos lhe havia de fazer dó.
 
-"We will go there today," said Rodolphe, "but tomorrow or next day we
-will adopt a still more economical plan. Instead of going to the
-restaurant, we will hire a cook."
+Dezoito annos! O arrebol dourado e escarlate da manhã da vida! As
+louçanias do coração que ainda não sonha em fructos, e todo se embalsama
+no perfume das flôres! Dezoito annos! O amor d'aquella idade! A passagem
+do seio da familia, dos braços de mãe, dos beijos das irmãs para as
+caricias mais dôces da virgem, que se lhe abre ao lado como flôr da
+mesma sazão e dos mesmos aromas, e á mesma hora da vida! Dezoito
+annos!... E degradado da patria, do amor, e da familia! Nunca mais o ceo
+de Portugal, nem liberdade, nem irmãos, nem mãe, nem rehabilitação, nem
+dignidade, nem um amigo!... É triste!
 
-"No, no," put in Marcel, "we will hire a servant to be cook and
-everything. Just see the immense advantages which will result from it.
-First of all, our rooms will be always in order; he will clean our
-boots, go on errands, wash my brushes; I will even try and give him a
-taste of the fine arts, and make him grind colors. In this way, we shall
-save at least six hours a day."
-
-Five minutes after, the two friends were installed in one of the little
-rooms of the restaurant, and continuing their schemes of economy.
-
-"We must get an intelligent lad," said Rodolphe, "if he has a sprinkling
-of spelling, I will teach him to write articles, and make an editor of
-him."
-
-"That will be his resource for his old age," said Marcel, adding up the
-bill. "Well, this is dear, rather! Fifteen francs! We used both to dine
-for a franc and a half."
-
-"Yes," replied Rodolphe, "but then we dined so badly that we were
-obliged to sup at night. So, on the whole, it is an economy."
-
-"You always have the best of the argument," muttered the convinced
-artist. "Shall we work tonight?"
-
-"No, indeed! I shall go to see my uncle. He is a good fellow, and will
-give me good advice when I tell him my new position. And you, Marcel?"
-
-"I shall go to Medicis to ask him if he has any restorations of pictures
-to give me. By the way, give me five francs."
-
-"For what?"
-
-"To cross the Pont des Arts."
-
-"Two sous to cross a bridge when you can go over another for nothing!
-That is a useless expense; and, though an inconsiderable one, is a
-violation of our rule."
-
-"I am wrong, to be sure," said Marcel. "I will take a cab and go by the
-Pont Neuf."
-
-So the two friends quitted each other in opposite directions, but
-somehow the different roads brought them to the same place, and they
-didn't go home till morning.
-
-Two days after, Rodolphe and Marcel were completely metamorphosed.
-Dressed like two bridegrooms of the best society, they were so elegant,
-and neat, and shining, that they hardly recognized each other when they
-met in the street. Still their system of economy was in full blast,
-though it was not without much difficulty that their "organization of
-labor" had been realized. They had taken a servant; a big fellow
-thirty-four years old, of Swiss descent, and about as clever as an
-average donkey.
-
-But Baptiste was not born to be a servant; he had a soul above his
-business; and if one of his masters gave him a parcel to carry, he
-blushed with indignation, and sent it by porter. However, he had some
-merits; for instance, he could hash hare well and his first profession
-having been that of distiller, he passed much of his time--or his
-masters', rather--in trying to invent a new kind of liniment; he also
-succeeded in the preparation of lamp-black. But where he was unrivalled
-was in smoking Marcel's cigars and lighting them with Rodolphe's
-manuscripts.
-
-One day Marcel wanted to put Baptiste into costume, and make him sit for
-Pharaoh in his "Passage of the Red Sea." To this proposition Baptiste
-replied by a flat refusal, and demanded his wages.
-
-"Very well," said Marcel, "I will settle with you tonight."
-
-When Rodolphe returned, his friends declared that they must send away
-Baptiste. "He is of no use to us at all."
-
-"No, indeed--only an ornament, and not much of that."
-
-"Awfully stupid."
-
-"And equally lazy."
-
-"We must turn him off."
-
-"Let us!"
-
-"Still, he has some good points. He hashes hare very well."
-
-"And the lamp-black! He is a very Raphael for that."
-
-"Yes, but that's all he is good for. We lose time arguing with him."
-
-"He keeps us from working."
-
-"He is the cause of my 'Passage' not being finished in time for the
-Exhibition. He wouldn't sit for Pharaoh."
-
-"Thanks to him, I couldn't finish my article in time. He wouldn't go to
-the public library and hunt up the notes I wanted."
-
-"He is ruining us."
-
-"Decidedly we can't keep him."
-
-"Send him away then! But we must pay him."
-
-"That we'll do. Give me the money, and I will settle accounts with
-him."
-
-"Money! But it is not I who keeps the purse, but you."
-
-"Not at all! It is you who are charged with the financial department."
-
-"But I assure you," said Marcel, "I have no money."
-
-"Can there be no more? It is impossible! We can't have spent five
-hundred francs in eight days, especially living with the most rigid
-economy as we have done, and confining ourselves to absolute
-necessaries: [absolute superfluities, he should have said]. We must
-look over our accounts; and we shall find where the mistake is."
-
-"Yes, but we shan't find where the money is. However, let us see the
-account-book, at any rate."
-
-And this is the way they kept their accounts which had been begun under
-the auspices of Saint Economy:
-
-_"March 19. Received 500 francs. Paid, a Turkish pipe, 25 fr.; dinner,
-15 fr.; sundries, 40 fr."_
-
-"What are those sundries?" asked Rodolphe of Marcel, who was reading.
-
-"You know very well," replied the other, "that night when we didn't go
-home till morning. We saved fuel and candles by that."
-
-"Well, afterwards?"
-
-_"March 20. Breakfast, 1 fr. 50 c.; tobacco, 20 c.; dinner, 2 fr.; an
-opera glass, 2 fr. 50 c._--that goes to your account. What did you want
-a glass for? You see perfectly well."
-
-"You know I had to give an account of the Exhibition in the 'Scarf of
-Iris.' It is impossible to criticize paintings without a glass. The
-expense is quite legitimate. Well?--"
-
-"A bamboo cane--"
-
-"Ah, that goes to your account," said Rodolphe. "You didn't want a
-cane."
-
-"That was all we spent the 20th," was Marcel's only answer. "The 21st we
-breakfasted out, dined out, and supped out."
-
-"We ought not to have spent much that day."
-
-"Not much, in fact--hardly thirty francs."
-
-"But what for?"
-
-"I don't know; it's marked sundries."
-
-"Vague and treacherous heading!"
-
-"'21st. (The day that Baptiste came.) _5 francs to him on account of his
-wages. 50 centimes to the organ man.'"_
-
-"23rd. Nothing set down. 24th, ditto. Two good days!"
-
-_"'25th. Baptiste, on account, 3 fr._ It seems to me we give him money
-very often," said Marcel, by way of reflection.
-
-"There will be less owing to him," said Rodolphe. "Go on!"
-
-_"'26th. Sundries, useful in an artistic point of view, 36 fr.'"_
-
-"What did we buy that was useful? I don't recollect. What can it have
-been?"
-
-"You don't remember! The day we went to the top of Notre Dame for a
-bird's-eye view of Paris."
-
-"But it costs only eight sous to go up the tower."
-
-"Yes, but then we went to dine at Saint Germain after we came down."
-
-"Clear as mud!"
-
-"27th. Nothing to set down."
-
-"Good! There's economy for you."
-
-_"'28th. Baptiste, on account, 6 fr.'"_
-
-"Now this time I am sure we owe Baptiste nothing more. Perhaps he is
-even in our debt. We must see."
-
-"29th. Nothing set down, except the beginning of an article on 'Social
-Morals.'"
-
-"30th. Ah! We had company at dinner--heavy expenses the 30th, 55 fr.
-31st.--that's today--we have spent nothing yet. You see," continued
-Marcel, "the account has been kept very carefully, and the total does
-not reach five hundred francs."
-
-"Then there ought to be money in the drawer."
-
-"We can see," said Marcel, opening it.
-
-"Anything there?"
-
-"Yes, a spider."
-
-    "A spider in the morning
-     Of sorrow is a warning," hummed Rodolphe.
-
-"Where the deuce has all the money gone?" exclaimed Marcel, totally
-upset at the sight of the empty drawer.
-
-"Very simple," replied Rodolphe. "Baptiste has had it all."
-
-"Stop a minute!" cried Marcel, rummaging in the drawer, where he
-perceived a paper. "The bill for last quarter's rent!"
-
-"How did it come there?"
-
-"And paid, too," added Marcel. "You paid the landlord, then!"
-
-"Me! Come now!" said Rodolphe.
-
-"But what means--"
-
-"But I assure you--"
-
-"Oh, what can be this mystery?" sang the two in chorus to the final air
-of "The White Lady."
-
-Baptiste, who loved music, came running in at once. Marcel showed him
-the paper.
-
-"Ah, yes," said Baptiste carelessly, "I forgot to tell you. The landlord
-came this morning while you were out. I paid him, to save him the
-trouble of coming back."
-
-"Where did you find the money?"
-
-"I took it out of the open drawer. I thought, sir, you had left it open
-on purpose, and forgot to tell me to pay him, so I did just as if you
-had told me."
-
-"Baptiste!" said Marcel, in a white heat, "you have gone beyond your
-orders. From this day you cease to form part of our household. Take off
-your livery!"
-
-Baptiste took off the glazed leather cap which composed his livery, and
-handed it to Marcel.
-
-"Very well," said the latter, "now you may go."
-
-"And my wages?"
-
-"Wages? You scamp! You have had fourteen francs in a little more than a
-week. What do you do with so much money? Do you keep a dancer?"
-
-"A rope dancer?" suggested Rodolphe.
-
-"Then I am to be left," said the unhappy domestic, "without a covering
-for my head!"
-
-"Take your livery," said Marcel, moved in spite of himself, and he
-restored the cap to Baptiste.
-
-"Yet it is that wretch who has wrecked our fortunes," said Rodolphe,
-seeing poor Baptiste go out. "Where shall we dine today?"
-
-"We shall know tomorrow," replied Marcel.
-
-
-
-
-CHAPTER VIII
-
-THE COST OF A FIVE FRANC PIECE
-
-
-One Saturday evening, at a time when he had not yet gone into
-housekeeping with Mademoiselle Mimi, who will shortly make her
-appearance, Rodolphe made the acquaintance at the table d'hote he
-frequented of a ladies' wardrobe keeper, named Mademoiselle Laure.
-Having learned that he was editor of "The Scarf of Iris" and of "The
-Beaver," two fashion papers, the milliner, in hope of getting her goods
-puffed, commenced a series of significant provocations. To these
-provocations Rodolphe replied by a pyrotechnical display of madrigals,
-sufficient to make Benserade, Voiture, and all other dealers in the
-fireworks of gallantry jealous; and at the end of the dinner,
-Mademoiselle Laure, having learned that he was a poet, gave him clearly
-to understand that she was not indisposed to accept him as her Petrarch.
-She even, without circumlocution, made an appointment with him for the
-next day.
-
-"By Jove," said Rodolphe to himself, as he saw Mademoiselle Laure home,
-"this is certainly a very amiable young person. She seems to me to have
-a good grammar and a tolerably extensive wardrobe. I am quite disposed
-to make her happy."
-
-On reaching the door of her house, Mademoiselle Laure relinquished
-Rodolphe's arm, thanking him for the trouble he had taken in
-accompanying her to such a remote locality.
-
-"Oh! madame," replied Rodolphe, bowing to the ground, "I should like you
-to have lived at Moscow or the islands of the Sound, in order to have
-had the pleasure of being your escort the longer."
-
-"That would be rather far," said Laure, affectedly.
-
-"We could have gone by way of the Boulevards, madame," said Rodolphe.
-"Allow me to kiss you hand in the shape of your cheek," he added,
-kissing his companion on the lips before Laure could make any
-resistance.
-
-"Oh sir!" she exclaimed, "you go too fast."
-
-"It is to reach my destination sooner," said Rodolphe. "In love, the
-first stages should be ridden at a gallop."
-
-"What a funny fellow," though the milliner, as she entered her dwelling.
-
-"A pretty girl," said Rodolphe, as he walked away.
-
-Returning home, he went to bed at once, and had the most delightful
-dreams. He saw himself at balls, theaters, and public promenades with
-Mademoiselle Laure on his arm, clad in dresses more magnificent than
-those of the girl with the ass's skin of the fairy tale.
-
-The next morning at eleven o'clock, according to habit, Rodolphe got up.
-His first thought was for Mademoiselle Laure.
-
-"She is a very well mannered woman," he murmured, "I feel sure that she
-was brought up at Saint Denis. I shall at length realize the happiness
-of having a mistress who is not pitted with the small-pox. Decidedly I
-will make sacrifices for her. I will go and draw my screw at 'The Scarf
-of Iris.' I will buy some gloves, and I will take Laure to dinner at a
-restaurant where table napkins are in use. My coat is not up to much,"
-said he as he dressed himself, "but, bah! black is good wear."
-
-And he went out to go to the office of "The Scarf of Iris."
-
-Crossing the street he came across an omnibus, on the side of which was
-pasted a bill, with the words, "Display of Fountains at Versailles,
-today, Sunday."
-
-A thunderbolt falling at Rodolphe's feet would not have produced a
-deeper impression upon him than the sight of this bill.
-
-"Today, Sunday! I had forgotten it," he exclaimed. "I shall not be able
-to get any money. Today, Sunday!!! All the spare coin in Paris is on its
-way to Versailles."
-
-However, impelled by one of those fabulous hopes to which a man always
-clings, Rodolphe hurried to the office of the paper, reckoning that some
-happy chance might have taken the cashier there.
-
-Monsieur Boniface had, indeed, looked in for a moment, but had left at
-once.
-
-"For Versailles," said the office messenger to Rodolphe.
-
-"Come," said Rodolphe, "it is all over!... But let me see," he thought,
-"my appointment is for this evening. It is noon, so I have five hours to
-find five francs in--twenty sous an hour, like the horses in the Bois du
-Boulogne. Forward."
-
-As he found himself in a neighborhood where the journalist, whom he
-styled the influential critic, resided, Rodolphe thought of having a try
-at him.
-
-"I am sure to find him in," said he, as he ascended the stairs, "it is
-the day he writes his criticism--there is no fear of his being out. I
-will borrow five francs of him."
-
-"Hallo! it's you, is it?" said the journalist, on seeing Rodolphe. "You
-come at the right moment. I have a slight service to ask of you."
-
-"How lucky it falls out," thought the editor of "The Scarf of Iris."
-
-"Were you at the Odeon Theater last night?"
-
-"I am always at the Odeon."
-
-"You have seen the new piece, then?"
-
-"Who else would have seen it? I am the Odeon audience."
-
-"That is true," said the critic, "you are one of the caryatides of the
-theater. It is even rumored that it is you who finds the money for its
-subvention. Well, that is what I want of you, a summary of the plot of
-the new piece."
-
-"That is easy, I have the memory of a creditor."
-
-"Whom is this piece by?" asked the critic of Rodolphe, whilst the latter
-was writing.
-
-"A gentleman."
-
-"It cannot be up to much."
-
-"Well, it is not as strong as a Turk."
-
-"Then it cannot be very robust. The Turks, you see, have usurped a
-reputation for strength. Besides, there are no longer any Turks except
-at masked balls and in the Champs-Elysees where they sell dates. One of
-my friends knows the East and he assures me that all the natives of it
-were born in the Rue Coquenard."
-
-"That is smart," said Rodolphe.
-
-"You think so?" observed the critic, "I will put it in my article."
-
-"Here is my analysis of the piece, it is to the point," resumed
-Rodolphe.
-
-"Yes, but it is short."
-
-"By putting in dashes and developing your critical opinion it will fill
-some space."
-
-"I have scarcely time, my dear fellow, and then my critical opinion will
-not fill enough space either."
-
-"You can stick in an adjective at every third word."
-
-"Cannot you tail on to your analysis a little, or rather a long
-criticism of the piece, eh?" asked the critic.
-
-"Humph," said Rodolphe. "I have certainly some opinions upon tragedy,
-but I have printed them three times in 'The Beaver' and 'The Scarf of
-Iris.'"
-
-"No matter, how many lines do your opinions fill?"
-
-"Forty lines."
-
-"The deuce, you have strong opinions. Well, lend me your forty lines."
-
-"Good," thought Rodolphe, "if I turn out twenty francs' worth of copy
-for him he cannot refuse me five. I must warn you," said he to the
-critic, "that my opinions are not quite novel. They are rather worn at
-the elbows. Before printing them I yelled them in every cafe in Paris,
-there is not a waiter who does not know them by heart."
-
-"What does that matter to me? You surely do not know me. Is there
-anything new in the world except virtue?"
-
-"Here you are," said Rodolphe, as he finished.
-
-"Thunder and tempests, there is still nearly a column wanting. How is
-this chasm to be filled?" exclaimed the critic. "Since you are here
-supply me with some paradoxes."
-
-"I have not any about me," said Rodolphe, "though I can lend you some.
-Only they are not mine, I bought them for half a franc from one of my
-friends who was in distress. They have seen very little use as yet."
-
-"Very good," said the critic.
-
-"Ah!" said Rodolphe to himself, setting to write again. "I shall
-certainly ask him for ten francs, just now paradoxes are as dear as
-partridges." And he wrote some thirty lines containing nonsense about
-pianos, goldfish and Rhine wine, which was called toilet wine just as
-we speak of toilet vinegar.
-
-"It is very good," said the critic. "Now do me the favor to add that the
-place where one meets more honest folk than anywhere else is the
-galleys."
-
-"Why?"
-
-"To fill a couple of lines. Good, now it is finished," said the
-influential critic, summoning his servant to take the article to the
-printers.
-
-"And now," thought Rodolphe, "let us strike home." And he gravely
-proposed his request.
-
-"Ah! my dear fellow," said the critic, "I have not a sou in the place.
-Lolette ruins me in pommade, and just now she stripped me of my last
-copper to go to Versailles and see the Nereids and the brazen monsters
-spout forth the floods."
-
-"To Versailles. But it is an epidemic!" exclaimed Rodolphe.
-
-"But why do you want money?"
-
-"That is my story," replied Rodolphe, "I have at five this evening an
-appointment with a lady, a very well bred lady who never goes out save
-in an omnibus. I wish to unite my fortunes with hers for a few days, and
-it appears to me the right thing to enable her to take the pleasures of
-this life. For dinner, dances, &c., &c., I must have five francs, and if
-I do not find them French literature is dishonoured in my person."
-
-"Why don't you borrow the sum of the lady herself?" exclaimed the
-critic.
-
-"The first time of meeting, it is hardly possible. Only you can get me
-out of this fix."
-
-"By all the mummies of Egypt I give you my word of honor that I have not
-enough to buy a sou pipe. However, I have some books that you can sell."
-
-"Impossible today, Mother Mansut's, Lebigre's, and all the shops on the
-quays and in the Rue Saint Jacques are closed. What books are they?
-Volumes of poetry with a portrait of the author in spectacles? But such
-things never sell."
-
-"Unless the author is criminally convicted," said the critic. "Wait a
-bit, here are some romances and some concert tickets. By setting about
-it skillfully you may, perhaps, make money of them."
-
-"I would rather have something else, a pair of trowsers, for instance."
-
-"Come," said the critic, "take this copy of Bossuet and this plaster
-cast of Monsieur Odilon Barrot. On my word of honor, it is the widow's
-mite."
-
-"I see that you are doing your best," said Rodolphe. "I will take away
-these treasures, but if I get thirty sous out of them I shall regard it
-as the thirteenth labor of Hercules."
-
-After having covered about four leagues Rodolphe, by the aid of an
-eloquence of which he had the secret on great occasions, succeeded in
-getting his washerwoman to lend him two francs on the volumes of poetry,
-the romances and the bust of Monsieur Barrot.
-
-"Come," said he, as he recrossed the Seine, "here is the sauce, now I
-must find the dish itself. Suppose I go to my uncle."
-
-Half an hour later he was at his Uncle Monetti's, who read upon his
-nephew's face what was the matter. Hence he put himself on guard and
-forestalled any request by a series of complaints, such as:
-
-"Times are hard, bread is dear, debtors do not pay up, rents are
-terribly high, commerce decaying, &c., &c.," all the hypocritical litany
-of shopkeepers.
-
-"Would you believe it," said the uncle, "that I have been forced to
-borrow money from my shopman to meet a bill?"
-
-"You should have sent to me," said Rodolphe. "I would have lent it you,
-I received two hundred francs three days ago."
-
-"Thanks, my lad," said the uncle, "but you have need of your fortune.
-Ah! whilst you are here, you might, you who write such a good hand, copy
-out some bills for me that I want to send out."
-
-"My five francs are going to cost me dear," said Rodolphe to himself,
-setting about the task, which he condensed.
-
-"My dear uncle," said he to Monetti, "I know how fond you are of music
-and I have brought you some concert tickets."
-
-"You are very kind, my boy. Will you stay to dinner?"
-
-"Thanks, uncle, but I am expected at dinner in the Faubourg Saint
-Germain, indeed, I am rather put out about it for I have not time to run
-home and get the money to buy gloves."
-
-"You have no gloves, shall I lend you mine?" said his uncle.
-
-"Thanks, we do not take the same size, only you would greatly oblige me
-by the loan of--"
-
-"Twenty nine sous to buy a pair? Certainly, my boy, here you are. When
-one goes into society one should be well dressed. Better be envied than
-pitied, as your aunt used to say. Come, I see you are getting on in the
-world, so much the better. I would have given you more," he went on,
-"but it is all I have in the till. I should have to go upstairs and I
-cannot leave the shop, customers drop in every moment."
-
-"You were saying that business was not flourishing?"
-
-Uncle Monetti pretended not to hear, and said to his nephew who was
-pocketing the twenty nine sous:
-
-"Do not be in a hurry about repayment."
-
-"What a screw," said Rodolphe, bolting. "Ah!" he continued, "there are
-still thirty-one sous lacking. Where am I to find them? I know, let's be
-off to the crossroads of Providence."
-
-This was the name bestowed by Rodolphe on the most central point in
-Paris, that is to say, the Palais Royal, a spot where it is almost
-impossible to remain ten minutes without meeting ten people of one's
-acquaintance, creditors above all. Rodolphe therefore went and stationed
-himself at the entrance to the Palais Royal. This time Providence was
-long in coming. At last Rodolphe caught sight of it. Providence had a
-white hat, a green coat, and a gold headed cane--a well dressed
-Providence.
-
-It was a rich and obliging fellow, although a phalansterian.
-
-"I am delighted to see you," said he to Rodolphe, "come and walk a
-little way with me; we can have a talk."
-
-"So I am to have the infliction of the phalanstere," murmured Rodolphe,
-suffering himself to be led away from the wearer of the white hat, who,
-indeed, phalanstered him to the utmost.
-
-As they drew near the Pont des Arts Rodolphe said to his companion--
-
-"I must leave you, not having sufficient to pay the toll."
-
-"Nonsense," said the other, catching hold of Rodolphe and throwing two
-sous to the toll keeper.
-
-"This is the right moment," thought the editor of "The Scarf of Iris,"
-as they crossed the bridge. Arrived at the further end in front of the
-clock of the Institute, Rodolphe stopped short, pointed to the dial
-with a despairing gesture, and exclaimed:--
-
-"Confound it all, a quarter to five! I am done for."
-
-"What is the matter?" cried his astonished friend.
-
-"The matter is," said Rodolphe, "that, thanks to your dragging me here
-in spite of myself, I have missed an appointment."
-
-"An important one?"
-
-"I should think so; money that I was to call for at five o'clock
-at--Batignolles. I shall never be able to get there. Hang it; what am I
-to do?"
-
-"Why," said the phalansterian, "nothing is simpler; come home with me
-and I will lend you some."
-
-"Impossible, you live at Montrouge, and I have business at six o'clock
-at the Chaussee d'Antin. Confound it."
-
-"I have a trifle about me," said Providence, timidly, "but it is very
-little."
-
-"If I had enough to take a cab I might get to Batignolles in time."
-
-"Here is the contents of my purse, my dear fellow, thirty one sous."
-
-"Give it to me at once, that I may bolt," said Rodolphe, who had just
-heard five o'clock strike, and who hastened off to keep his appointment.
-
-"It has been hard to get," said he, counting out his money. "A hundred
-sous exactly. At last I am supplied, and Laure will see that she has to
-do with a man who knows how to do things properly. I won't take a
-centime home this evening. We must rehabilitate literature, and prove
-that its votaries only need money to be wealthy."
-
-Rodolphe found Mademoiselle Laure at the trysting place.
-
-"Good," said he, "for punctuality she is a feminine chronometer."
-
-He spent the evening with her, and bravely melted down his five francs
-in the crucible of prodigality. Mademoiselle Laure was charmed with his
-manners, and was good enough only to notice that Rodolphe had not
-escorted her home at the moment when he was ushering her into his own
-room.
-
-"I am committing a fault," said she. "Do not make me repent of it by the
-ingratitude which is characteristic of your sex."
-
-"Madame," said Rodolphe, "I am known for my constancy. It is such that
-all my friends are astonished at my fidelity, and have nicknamed me the
-General Bertrand of Love."
-
-
-
-
-CHAPTER IX
-
-THE WHITE VIOLETS
-
-
-About this time Rodolphe was very much in love with his cousin Angela,
-who couldn't bear him; and the thermometer was twelve degrees below
-freezing point.
-
-Mademoiselle Angela was the daughter of Monsieur Monetti, the chimney
-doctor, of whom we have already had occasion to speak. She was eighteen
-years old, and had just come from Burgundy, where she lived five years
-with a relative who was to leave her all her property. This relative was
-an old lady who had never been young apparently--certainly never
-handsome, but had always been very ill-natured, although--or perhaps
-because--very superstitious. Angela, who at her departure was a charming
-child, and promised to be a charming girl, came back at the end of the
-five years a pretty enough young lady, but cold, dry, and uninteresting.
-Her secluded provincial life, and the narrow and bigoted education she
-had received, had filled her mind with vulgar prejudices, shrunk her
-imagination, and converted her heart into a sort of organ, limited to
-fulfilling its function of physical balance wheel. You might say that
-she had holy water in her veins instead of blood. She received her
-cousin with an icy reserve; and he lost his time whenever he attempted
-to touch the chord of her recollections--recollections of the time when
-they had sketched out that flirtation in the Paul-and-Virginia style
-which is traditional between cousins of different sexes. Still Rodolphe
-was very much in love with his cousin Angela, who couldn't bear him; and
-learning one day that the young lady was going shortly to the wedding
-ball of one of her friends, he made bold to promise Angela a bouquet of
-violets for the ball. And after asking permission of her father, Angela
-accepted her cousin's gallant offer--always on condition that the
-violets should be white.
-
-Overjoyed at his cousin's amiability, Rodolphe danced and sang his way
-back to Mount St. Bernard, as he called his lodging--why will be seen
-presently. As he passed by a florist's in crossing the Palais Royal, he
-saw some white violets in the showcase, and was curious enough to ask
-their price. A presentable bouquet could not be had for less than ten
-francs; there were some that cost more.
-
-"The deuce!" exclaimed Rodolphe, "ten francs! and only eight days to
-find this fortune! It will be a hard pull, but never mind, my cousin
-shall have her flowers."
-
-This happened in the time of Rodolphe's literary genesis, as the
-transcendentalists would say. His only income at that period was an
-allowance of fifteen francs a month, made him by a friend, who, after
-living a long while in Paris as a poet, had, by the help of influential
-acquaintances, gained the mastership of a provincial school. Rodolphe,
-who was the child of prodigality, always spent his allowance in four
-days; and, not choosing to abandon his holy but not very profitable
-profession of elegiac poet, lived for the rest of the month on the rare
-droppings from the basket of Providence. This long Lent had no terrors
-for him; he passed through it gaily, thanks to his stoical temperament
-and to the imaginary treasures which he expended every day while
-waiting for the first of the month, that Easter which terminated his
-fast. He lived at this time at the very top of one of the loftiest
-houses in Paris. His room was shaped like a belvidere, and was a
-delicious habitation in summer, but from October to April a perfect
-little Kamschatka. The four cardinal winds which penetrated by the four
-windows,--there was one on each of the four sides--made fearful music in
-it throughout the cold seasons. Then in irony as it were, there was a
-huge fireplace, the immense chimney of which seemed a gate of honor
-reserved for Boreas and his retinue. On the first attack of cold,
-Rodolphe had recourse to an original system of warming; he cut up
-successively what little furniture he had, and at the end of a week his
-stock was considerably abridged; in fact, he had only a bed and two
-chairs left; it should be remarked that these items were insured against
-fire by their nature, being of iron. This manner of heating himself he
-called _moving up the chimney_.
-
-It was January, and the thermometer, which indicated twelve degrees
-below freezing point on the Spectacle Quay, would have stood two or
-three lower if moved to the belvidere, which Rodolphe called
-indifferently Mount St. Bernard, Spitzenberg, and Siberia.
-
-The night when he promised his cousin the white violets, he was seized
-with a great rage on returning home; the four cardinal winds, in playing
-puss-in-the-corner round his chamber, had broken a pane of glass--the
-third time in a fortnight. After exploding in a volley of frantic
-imprecations upon Eolus and all his family, and plugging up the breach
-with a friend's portrait, Rodolphe lay down, dressed as he was, between
-his two mattresses, and dreamed of white violets all night.
-
-At the end of five days, Rodolphe had found nothing to help him toward
-realizing his dreams. He must have the bouquet the day after tomorrow.
-Meanwhile, the thermometer fell still lower, and the luckless poet was
-ready to despair as he thought the violets might have risen higher.
-Finally his good angel had pity on him, and came to his relief as
-follows.
-
-One morning, Rodolphe went to take his chance of getting a breakfast
-from his friend Marcel the painter, and found him conversing with a
-woman in mourning. It was a widow who had just lost her husband, and who
-wanted to know how much it would cost to paint on the tomb which she had
-erected, a man's hand, with this inscription beneath:
-
-    "I WAIT FOR HER TO WHOM MY FAITH WAS PLIGHTED."
-
-To get the work at a cheaper rate, she observed to the artist that when
-she was called to rejoin her husband, he would have another hand to
-paint--her hand with a bracelet on the wrist and the supplementary line
-beneath:
-
-    "AT LENGTH, BEHOLD US THUS ONCE MORE UNITED."
-
-"I shall put this clause in my will," she said, "and require that the
-task be intrusted to you."
-
-"In that case, madame," replied the artist, "I will do it at the price
-you offer--but only in the hope of seeing your hand. Don't go and forget
-me in your will."
-
-"I should like to have this as soon as possible," said the disconsolate
-one, "nevertheless, take your time to do it well and don't forget the
-scar on the thumb. I want a living hand."
-
-"Don't be afraid, madame, it shall be a speaking one," said Marcel, as
-he bowed the widow out. But hardly had she crossed the threshold when
-she returned, saying, "I have one more thing to ask you, sir: I should
-like to have inscribed on my husband's tomb something in verse which
-would tell of his good conduct and his last words. Is that good style?"
-
-"Very good style--they call that an epitaph--the very best style."
-
-"You don't know anyone who would do that for me cheap? There is my
-neighbor Monsieur Guerin, the public writer, but he asks the clothes off
-my back."
-
-Here Rodolphe looked at Marcel, who understood him at once.
-
-"Madame," said the artist, pointing to Rodolphe, "a happy fortune has
-conducted hither the very person who can be of service to you in this
-mournful juncture. This gentleman is a renowned poet; you couldn't find
-a better one."
-
-"I want something very melancholy," said the widow, "and the spelling
-all right."
-
-"Madame," replied Marcel, "my friend spells like a book. He had all the
-prizes at school."
-
-"Indeed!" said the widow, "my grand-nephew had just had a prize too; he
-is only seven years old."
-
-"A very forward child, madame."
-
-"But are you sure that the gentleman can make very melancholy verses?"
-
-"No one better, madame, for he has undergone much sorrow in his life.
-The papers always find fault with his verses for being too melancholy."
-
-"What!" cried the widow, "do they talk about him in the papers? He must
-know quite as much, then, as Monsieur Guerin, the public writer."
-
-"And a great deal more. Apply to him, madame, and you will not repent of
-it."
-
-After having explained to Rodolphe the sort of inscription in verse
-which she wished to place on her husband's tomb, the widow agreed to
-give Rodolphe ten francs if it suited her--only she must have it very
-soon. The poet promised she should have it the very next day.
-
-"Oh good genius of Artemisia!" cried Rodolphe as the widow disappeared.
-"I promise you that you shall be suited--full allowance of melancholy
-lyrics, better got up than a duchess, orthography and all. Good old
-lady! May Heaven reward you with a life of a hundred and seven
-years--equal to that of a good brandy!"
-
-"I object," said Marcel.
-
-"That's true," said Rodolphe, "I forgot that you have her hand to paint,
-and that so long a life would make you lose money." And lifting his
-hands he gravely ejaculated, "Heaven, do not grant my prayer! Ah!" he
-continued, "I was in jolly good luck to come here."
-
-"By the way," asked Marcel, "what did you want?"
-
-"I recollect--and now especially that I have to pass the night in making
-these verses, I cannot do without what I came to ask you for, namely,
-first, some dinner; secondly, tobacco and a candle; thirdly, your
-polar-bear costume."
-
-"To go to the masked ball?"
-
-"No, indeed, but as you see me here, I am as much frozen up as the grand
-army in retreat from Russia. Certainly my green frock-coat and
-Scotch-plaid trowsers are very pretty, but much too summery; they would
-do to live under the equator; but for one who lodges near the pole, as I
-do, a white bear skin is more suitable; indeed I may say necessary."
-
-"Take the fur!" said Marcel, "it's a good idea; warm as a dish of
-charcoal; you will be like a roll in an oven in it."
-
-Rodolphe was already inside the animal's skin.
-
-"Now," said he, "the thermometer is going to be really mad."
-
-"Are you going out so?" said Marcel to his friend, after they had
-finished an ambiguous repast served in a penny dish.
-
-"I just am," replied Rodolphe. "Do you think I care for public opinion?
-Besides, today is the beginning of carnival."
-
-He went half over Paris with all the gravity of the beast whose skin he
-occupied. Only on passing before a thermometer in an optician's window
-he couldn't help taking a sight at it.
-
-Having returned home not without causing great terror to his porter,
-Rodolphe lit his candle, carefully surrounding it with an extempore
-shade of paper to guard it against the malice of the winds, and set to
-work at once. But he was not long in perceiving that if his body was
-almost entirely protected from the cold, his hands were not; a terrible
-numbness seized his fingers which let the pen fall.
-
-"The bravest man cannot struggle against the elements," said the poet,
-falling back helpless in his chair. "Caeser passed the Rubicon, but he
-could not have passed the Beresina."
-
-All at once he uttered a cry of joy from the depths of his bear-skin
-breast, and jumped up so suddenly as to overturn some of his ink on its
-snowy fur. He had an idea!
-
-Rodolphe drew from beneath his bed a considerable mass of papers, among
-which were a dozen huge manuscripts of his famous drama, "The Avenger."
-This drama, on which he had spent two years, had been made, unmade, and
-remade so often that all the copies together weighed fully fifteen
-pounds. He put the last version on one side, and dragged the others
-towards the fireplace.
-
-"I was sure that with patience I should dispose of it somehow," he
-exclaimed. "What a pretty fagot! If I could have foreseen what would
-happen, I could have written a prologue, and then I should have more
-fuel tonight. But one can't foresee everything." He lit some leaves of
-the manuscript, in the flame of which he thawed his hands. In five
-minutes the first act of "The Avenger" was over, and Rodolphe had
-written three verses of his epitaph.
-
-It would be impossible to describe the astonishment of the four winds
-when they felt fire in the chimney.
-
-"It's an illusion," quoth Boreas, as he amused himself by brushing back
-the hair of Rodolphe's bear skin.
-
-"Let's blow down the pipe," suggested another wind, "and make the
-chimney smoke." But just as they were about to plague the poor poet, the
-south wind perceived Monsieur Arago at a window of the Observatory
-threatening them with his finger; so they all made off, for fear of
-being put under arrest. Meanwhile the second act of "The Avenger" was
-going off with immense success, and Rodolphe had written ten lines. But
-he only achieved two during the third act.
-
-"I always thought that third act too short," said Rodolphe, "luckily the
-next one will take longer; there are twenty three scenes in it,
-including the great one of the throne." As the last flourish of the
-throne scene went up the chimney in fiery flakes, Rodolphe had only
-three couplets more to write. "Now for the last act. This is all
-monologue. It may last five minutes." The catastrophe flashed and
-smouldered, and Rodolphe in a magnificent transport of poetry had
-enshrined in lyric stanzas the last words of the illustrious deceased.
-"There is enough left for a second representation," said he, pushing the
-remainder of the manuscript under his bed.
-
-At eight o'clock next evening, Mademoiselle Angela entered the ballroom;
-in her hand was a splendid nosegay of white violets, and among them two
-budding roses, white also. During the whole night men and women were
-complimenting the young girl on her bouquet. Angela could not but feel a
-little grateful to her cousin who had procured this little triumph for
-her vanity; and perhaps she would have thought more of him but for the
-gallant persecutions of one of the bride's relatives who had danced
-several times with her. He was a fair-haired youth, with a magnificent
-moustache curled up at the ends, to hook innocent hearts. The bouquet
-had been pulled to pieces by everybody; only two white roses were left.
-The young man asked Angela for them; she refused--only to forget them
-after the ball on a bench, whence the young fair-haired youth hastened
-to take them.
-
-At that moment it was fourteen degrees below freezing point in
-Rodolphe's belvidere. He was leaning against his window looking out at
-the lights in the ballroom, where his cousin Angela, who didn't care for
-him, was dancing.
-
-
-
-
-CHAPTER X
-
-THE CAPE OF STORMS
-
-
-In the opening month of each of the four seasons there are some
-terrible epochs, usually about the 1st and the 15th. Rodolphe, who could
-not witness the approach of one or the other of these two dates without
-alarm, nicknamed them the Cape of Storms. On these mornings it is not
-Aurora who opens the portals of the East, but creditors, landlords,
-bailiffs and their kidney. The day begins with a shower of bills and
-accounts and winds up with a hailstorm of protests. _Dies irae_.
-
-Now one morning, it was the 15th of April, Rodolphe was peacefully
-slumbering--and dreaming that one of his uncles had just bequeathed him
-a whole province in Peru, the feminine inhabitants included.
-
-Whilst he was wallowing in this imaginary Pacolus, the sound of a key
-turning in the lock interrupted the heir presumptive just at the most
-dazzling point of his golden dream.
-
-Rodolphe sat up in bed, his eyes and mind yet heavy with slumber, and
-looked about him.
-
-He vaguely perceived standing in the middle of his room a man who had
-just entered.
-
-This early visitor bore a bag slung at his back and a large pocketbook
-in his hand. He wore a cocked hat and a bluish-grey swallow-tailed coat
-and seemed very much out of breath from ascending the five flights of
-stairs. His manners were very affable and his steps sounded as
-sonorously as that of a money-changer's counter on the march.
-
-Rodolphe was alarmed for a moment, and at the sight of the cocked hat
-and the coat thought that he had a police officer before him.
-
-But the sight of the tolerably well filled bag made him perceive his
-mistake.
-
-"Ah! I have it," thought he, "it is something on account of my
-inheritance, this man comes from the West Indies. But in that case why
-is he not black?"
-
-And making a sign to the man, he said, pointing to the bag, "I know all
-about it. Put it down there. Thanks."
-
-The man was a messenger of the Bank of France. He replied to Rodolphe's
-request by holding before his eyes a small strip of paper covered with
-writing and figures in various colored inks.
-
-"You want a receipt," said Rodolphe. "That is right. Pass me the pen
-and ink. There, on the table."
-
-"No, I have come to take money," replied the messenger. "An acceptance
-for a hundred and fifty francs. It is the 15th of April."
-
-"Ah!" observed Rodolphe, examining the acceptance. "Pay to the order
-of---- Birmann. It is my tailor. Alas," he added, in melancholy tones
-casting his eyes alternately upon a frock coat thrown on the bed and
-upon the acceptance, "causes depart but effects return. What, it is the
-15th of April? It is extraordinary, I have not yet had any strawberries
-this year."
-
-The messenger, weary of delay, left the room, saying to Rodolphe, "You
-have till four o'clock to pay."
-
-"There is no time like the present," replied Rodolphe. "The humbug," he
-added regretfully, following the cocked hat with his eyes, "he has taken
-away his bag."
-
-Rodolphe drew the curtains of his bed and tried to retrace the path to
-his inheritance, but he made a mistake on the road and proudly entered
-into a dream in which the manager of the Theatre Francais came hat in
-hand to ask him for a drama for his theater, and in which he, aware of
-the customary practice, asked for an advance. But at the very moment
-when the manager appeared to be willing to comply the sleeper was again
-half awakened by the entry of a fresh personage, another creature of the
-15th.
-
-It was Monsieur Benoit, landlord of the lodging house in which Rodolphe
-was residing. Monsieur Benoit was at once the landlord, the bootmaker
-and the money lender of his lodgers. On this morning he exhaled a
-frightful odor of bad brandy and overdue rent. He carried an empty bag
-in his hand.
-
-"The deuce," thought Rodolphe, "this is not the manager of the Theater
-Francais, he would have a white cravat and the bag would be full."
-
-"Good morning, Monsieur Rodolphe," said Monsieur Benoit, approaching the
-bed.
-
-"Monsieur Benoit! Good morning. What has given me the pleasure of this
-visit?"
-
-"I have come to remind you that it is the 15th of April."
-
-"Already! How time flies, it is extraordinary, I must see about buying a
-pair of summer trousers. The 15th of April. Good heavens! I should never
-have thought of it but for you, Monsieur Benoit. What gratitude I owe
-you for this!"
-
-"You also owe me a hundred and sixty-two francs," replied Monsieur
-Benoit, "and it is time this little account was settled."
-
-"I am not in any absolute hurry--do not put yourself out, Monsieur
-Benoit. I will give you time."
-
-"But," said the landlord, "you have already put me off several times."
-
-"In that case let us come to a settlement, Monsieur Benoit, let us come
-to a settlement, it is all the same to me today as tomorrow. Besides we
-are all mortal. Let us come to a settlement."
-
-An amiable smile smoothed the landlord wrinkles and even his empty bag
-swelled with hope.
-
-"What do I owe you?" asked Rodolphe.
-
-"In the first place, we have three months' rent at twenty-five francs,
-that makes seventy-five francs."
-
-"Errors excepted," said Rodolphe. "And then?"
-
-"Then three pairs of boots at twenty francs."
-
-"One moment, one moment, Monsieur Benoit, do not let us mix matters,
-this is no longer to do with the landlord but the bootmaker. I want a
-separate account. Accounts are a serious thing, we must not get
-muddled."
-
-"Very good," said Monsieur Benoit, softened by the hope of at length
-writing "Paid" at the foot of his accounts. "Here is a special bill for
-the boots. Three pairs of boots at twenty francs, sixty francs."
-
-Rodolphe cast a look of pity on a pair of worn out boots.
-
-"Alas!" he thought, "they could not be worse if they had been worn by
-the Wandering Jew. Yet it was in running after Marie that they got so
-worn out. Go on, Monsieur Benoit."
-
-"We were saying sixty francs," replied the latter. "Then money lent,
-twenty seven francs."
-
-"Stop a bit, Monsieur Benoit. We agreed that each dog would have his
-kennel. It is as a friend that you lent me money. Therefore, if you
-please, let us quit the regions of bootmaking and enter those of
-confidence and friendship which require a separate account. How much
-does your friendship for me amount to?"
-
-"Twenty seven francs."
-
-"Twenty seven francs. You have purchased a friend cheaply, Monsieur
-Benoit. In short, we were saying, seventy five, sixty, and twenty
-seven. That makes altogether---?"
-
-"A hundred and sixty two francs," said Monsieur Benoit, presenting the
-three bills.
-
-"A hundred and sixty two francs," observed Rodolphe, "it is
-extraordinary. What a fine thing arithmetic is. Well, Monsieur Benoit,
-now that the account is settled we can both rest easy, we know exactly
-how we stand. Next month I will ask you for a receipt, and as during
-this time the confidence and friendship you must entertain towards me
-can only increase, you can, in case it should become necessary, grant me
-a further delay. However, if the landlord and the bootmaker are
-inclined to be hasty, I would ask the friend to get them to listen to
-reason. It is extraordinary, Monsieur Benoit, but every time I think of
-your triple character as a landlord, a bootmaker, and a friend, I am
-tempted to believe in the Trinity."
-
-Whilst listening to Rodolphe the landlord had turned at one and the same
-time red, green, white, and yellow, and at each fresh jest from his
-lodger that rainbow of anger grew deeper and deeper upon his face.
-
-"Sir," said he, "I do not like to be made game of. I have waited long
-enough. I give you notice of quit, and unless you let me have some
-money this evening, I know what I shall have to do."
-
-"Money! money! Am I asking you for money?" said Rodolphe. "Besides, if I
-had any, I should not give it to you. On a Friday, it would be unlucky."
-
-Monsieur Benoit's wrath grew tempestuous, and if the furniture had not
-belonged to him he would no doubt have smashed some of it.
-
-"You are forgetting your bag," cried Rodolphe after him. "What a
-business," murmured the young fellow, as he found himself alone. "I
-would rather tame lions. But," he continued, jumping out of bed and
-dressing hurriedly, "I cannot stay here. The invasion will continue. I
-must flee; I must even breakfast. Suppose I go and see Schaunard. I will
-ask him for some breakfast, and borrow a trifle. A hundred francs will
-be enough. Yes, I'm off to Schaunard's."
-
-Going downstairs, Rodolphe met Monsieur Benoit, who had received further
-shocks from his other lodgers, as was attested by his empty bag.
-
-"If any one asks for me, tell them I have gone into the country--to the
-Alps," said Rodolphe. "Or stay, tell them that I no longer live here."
-
-"I shall tell the truth," murmured Monsieur Benoit, in a very
-significant tone.
-
-Schaunard was living at Montmartre. It was necessary to go right through
-Paris. This peregrination was one most dangerous to Rodolphe.
-
-"Today," said he, "the streets are paved with creditors."
-
-However, he did not go along by the outer Boulevards, as he had felt
-inclined to. A fanciful hope, on the contrary, urged him to follow the
-perilous itinerary of central Paris. Rodolphe thought that on a day when
-millions were going about the thoroughfares in the money-cases of bank
-messengers, it might happen that a thousand franc note, abandoned on the
-roadside, might lie awaiting its Good Samaritan. Thus he walked slowly
-along with his eyes on the ground. But he only found two pins.
-
-After a two hours' walk he got to Schaunard's.
-
-"Ah, it's you," said the latter.
-
-"Yes, I have come to ask you for some breakfast."
-
-"Ah, my dear fellow, you come at the wrong time. My mistress has just
-arrived, and I have not seen her for a fortnight. If you had only called
-ten minutes earlier."
-
-"Well, have you got a hundred francs to lend me?"
-
-"What! you too!" exclaimed Schaunard, in the height of astonishment.
-"You have come to ask me for money! You, in the ranks of my enemies!"
-
-"I will pay you back on Monday."
-
-"Or at the Greek Calends. My dear fellow, you surely forget what day it
-is. I can do nothing for you. But there is no reason to despair; the
-day is not yet over. You may still meet with Providence, who never gets
-up before noon."
-
-"Ah!" replied Rodolphe, "Providence has too much to do looking after
-little birds. I will go and see Marcel."
-
-Marcel was then residing in the Rue de Breda. Rodolphe found him in a
-very downcast mood, contemplating his great picture that was to
-represent the passage of the Red Sea.
-
-"What is the matter?" asked Rodolphe, as he entered. "You seem quite in
-the dumps."
-
-"Alas!" replied the painter, in allegorical language, "for the last
-fortnight it has been Holy Week."
-
-"Red herrings and black radishes. Good, I remember."
-
-Indeed, Rodolphe's memory was still salt with the remembrance of a time
-when he had been reduced to the exclusive consumption of the fish in
-question.
-
-"The deuce," said he, "that is serious. I came to borrow a hundred
-francs of you."
-
-"A hundred francs," said Marcel. "You are always in the clouds. The idea
-of coming and asking me for that mythological amount at a period when
-one is always under the equator of necessity. You must have been taking
-hashish."
-
-"Alas!" said Rodolphe, "I have not been taking anything at all."
-
-And he left his friend on the banks of the Red Sea.
-
-From noon to four o'clock Rodolphe successively steered for every house
-of his acquaintance. He went through the forty eight districts of Paris,
-and covered about eight leagues, but without any success. The influence
-of the 15th of April made itself feel with equal severity everywhere.
-However, dinner time was drawing near. But it scarcely appeared that
-dinner was likely to follow its example, and it seemed to Rodolphe that
-he was on the raft of the wrecked Medusa.
-
-As he was crossing the Pont Neuf an idea all at once occurred to him.
-
-"Oh! oh!" said he to himself, retracing his steps, "the 15th of April.
-But I have an invitation to dinner for today."
-
-And fumbling in his pocket, he drew out a printed ticket, running as
-follows:
-
-+------------------------------------------------------+
-|                                                      |
-|               Barriere de la Villette,               |
-|                 Au Grand Vainqueur.                  |
-|            Dining Room to seat 300 people.           |
-|                                                      |
-|                    ____________                      |
-|                                                      |
-|                 Anniversary Dinner                   |
-|              In Honor of the Birth Of                |
-|                                                      |
-|              THE HUMANITARIAN MESSIAH                |
-|                                                      |
-|                   April 15, 184-                     |
-|                                                      |
-|                     _______                          |
-|                                                      |
-|                     Admit One                        |
-|     N.B.--Only half a bottle of wine per head        |
-+------------------------------------------------------+
-
-"I do not share the opinions of the disciples of this Messiah," said
-Rodolphe to himself, "but I will willingly share their repast." And with
-the swiftness of a bird he covered the distance separating him from the
-Barriere de la Villette.
-
-When he reached the halls of the Grand Vainqueur, the crowd was
-enormous. The dining room, seating three hundred, was thronged with
-five hundred people. A vast horizon of veal and carrots spread itself
-before the eyes of Rodolphe.
-
-At length they began to serve the soup.
-
-As the guests were carrying their spoons to their lips, five or six
-people in plain clothes, and several police officers in uniform, pushed
-into the room, with a commissary of police at their head.
-
-"Gentlemen," said the commissary, "by order of the authorities, this
-dinner cannot take place. I call upon you to withdraw."
-
-"Oh!" said Rodolphe, retiring with everyone else. "Oh! what a fatality
-has spoiled my dinner."
-
-He sadly resumed the road to his dwelling, and reached it at about
-eleven at night.
-
-Monsieur Benoit was awaiting him.
-
-"Ah! it is you," said the landlord. "Have you thought of what I told you
-this morning? Have you brought me any money?"
-
-"I am to receive some tonight. I will give you some of it tomorrow
-morning," replied Rodolphe, looking for his key and his candlestick in
-their accustomed place. He did not find them.
-
-"Monsieur Rodolphe," said the landlord, "I am very sorry, but I have let
-your room, and I have no other vacant now--you must go somewhere else."
-
-Rodolphe had a lofty soul, and a night in the open air did not alarm
-him. Besides, in the event of bad weather, he could sleep in a box at
-the Odeon Theater, as he had already done before. Only he claimed "his
-property" from Monsieur Benoit, the said property consisting of a
-bundle of papers.
-
-"That is so," said the landlord. "I have no right to detain those
-things. They are in the bureau. Come up with me; if the person who has
-taken your room has not gone to bed, we can go in."
-
-The room had been let during the day to a girl named Mimi, with whom
-Rodolphe had formerly begun a love duet. They recognized one another at
-once. Rodolphe began to whisper to Mimi and tenderly squeezed her hand.
-
-"See how it rains," said he, calling attention to the noise of the storm
-that had just broken overhead.
-
-"Sir," said she, pointing to Rodolphe, "this is the gentleman I was
-expecting this evening."
-
-"Oh!" said Monsieur Benoit, grinning on the wrong end of his face.
-
-Whilst Mademoiselle Mimi was hurriedly getting ready an improvised
-supper, midnight struck.
-
-"Ah!" said Rodolphe to himself, "the 15th of April is over. I have at
-length weathered my Cape of Storms. My dear Mimi," said the young man,
-taking the pretty girl in his arms and kissing her on the back of the
-neck, "it would have been impossible for you to have allowed me to be
-turned out of doors. You have the bump of hospitality."
-
-
-
-
-CHAPTER XI
-
-A BOHEMIAN CAFE
-
-
-You shall hear how it came to pass that Carolus Barbemuche, platonist
-and literary man generally, became a member of the Bohemian Club, in the
-twenty-fourth year of his age.
-
-At that time, Gustave Colline, the great philosopher, Marcel, the great
-painter, Schaunard, the great musician, and Rodolphe, the great poet (as
-they called one another), regularly frequented the Momus Cafe, where
-they were surnamed "the Four Musqueteers," because they were always seen
-together. In fact, they came together, went away together, played
-together, and sometimes didn't pay their shot together, with a unison
-worthy of the best orchestra.
-
-They chose to meet in a room where forty people might have been
-accommodated, but they were usually there alone, inasmuch as they had
-rendered the place uninhabitable by its ordinary frequenters. The chance
-customer who risked himself in this den, became, from the moment of his
-entrance, the victim of the terrible four; and, in most cases, made his
-escape without finishing his newspaper and cup of coffee, seasoned as
-they were by unheard-of maxims on art, sentiment, and political economy.
-The conversation of the four comrades was of such a nature that the
-waiter who served them had become an idiot in the prime of his life.
-
-At length things reached such a point that the landlord lost all
-patience and came up one night to make a formal statement of his griefs:
-
-"Firstly. Monsieur Rodolphe comes early in the morning to breakfast, and
-carries off to his room all the papers of the establishment, going so
-far as to complain if he finds that they have been opened. Consequently,
-the other customers, cut off from the usual channels of public opinion
-and intelligence, remain until dinner in utter ignorance of political
-affairs. The Bosquet party hardly knows the names of the last cabinet."
-
-"Monsieur Rodolphe has even obliged the cafe to subscribe to 'The
-Beaver,' of which he is chief editor. The master of the establishment at
-first refused; but as Monsieur Rodolphe and his party kept calling the
-waiter every half hour, and crying, 'The Beaver! bring us 'The Beaver'
-some other customers, whose curiosity was excited by these obstinate
-demands, also asked for 'The Beaver.' So 'The Beaver' was subscribed
-to--a hatter's journal, which appeared every month, ornamented with a
-vignette and an article on 'The Philosophy of Hats and other things in
-general,' by Gustave Colline."
-
-"Secondly. The aforesaid Monsieur Colline, and his friend Monsieur
-Rodolphe, repose themselves from their intellectual labors by playing
-backgammon from ten in the morning till midnight and as the
-establishment possess but one backgammon board, they monopolize that, to
-the detriment of the other amateurs of the game; and when asked for the
-board, they only answer, 'Some one is reading it, call tomorrow.' Thus
-the Bosquet party find themselves reduced to playing piquet, or talking
-about their old love affairs."
-
-"Thirdly. Monsieur Marcel, forgetting that a cafe is a public place,
-brings thither his easel, box of colors, and, in short, all the
-instruments of his art. He even disregards the usages of society as far
-as to send for models of different sexes; which might shock the morals
-of the Bosquet party."
-
-"Fourthly. Following the example of his friend, Monsieur Schaunard talks
-of bringing his piano to the cafe and he has not scrupled to get up a
-chorus on a motive from his symphony, 'The Influence of Blue in Art.'
-Monsieur Schaunard has gone farther: he has inserted in the lantern
-which serves the establishment for sign, a transparency with this
-inscription:
-
-     'COURSE OF MUSIC, VOCAL AND INSTRUMENTAL,
-                 FOR BOTH SEXES,
-                     GRATIS.
-             APPLY AT THE COUNTER.'
-
-In consequence of this, the counter aforesaid is besieged every night by
-a number of badly dressed individuals, wanting to know where you go in."
-
-"Moreover, Monsieur Schaunard gives meetings to a lady calling herself
-Mademoiselle Phemie, who always forgets to bring her bonnet. Wherefore,
-Monsieur Bosquet, Jr., has declared that he will never more put foot in
-an establishment where the laws of nature are thus outraged."
-
-"Fifthly. Not content with being very poor customers, these gentlemen
-have tried to be still more economical. Under pretence of having caught
-the mocha of the establishment in improper intercourse with chicory,
-they have brought a lamp with spirits-of-wine, and make their own
-coffee, sweetening it with their own sugar; all of which is an insult to
-the establishment."
-
-"Sixthly. Corrupted by the discourse of these gentlemen, the waiter
-Bergami (so called from his whiskers), forgetting his humble origin and
-defying all control, has dared to address to the mistress of the house
-a piece of poetry suggestive of the most improper sentiments; by the
-irregularity of its style, this letter is recognized as a direct
-emanation from the pernicious influence of Monsieur Rodolphe and his
-literature."
-
-"Consequently, in spite of the regret which he feels, the proprietor of
-the establishment finds himself obliged to request the Colline party to
-choose some other place for their revolutionary meetings."
-
-Gustave Colline, who was the Cicero of the set, took the floor and
-demonstrated to the landlord that his complaints were frivolous and
-unfounded; that they did him great honor in making his establishment a
-home of intellect; that their departure and that of their friends would
-be the ruin of his house, which their presence elevated to the rank of a
-literary and artistic club.
-
-"But," objected the other, "you and those who come to see you call for
-so little."
-
-"This temperance to which you object," replied Colline, "is an argument
-in favor of our morals. Moreover, it depends on yourself whether we
-spend more or not. You have only to open an account with us."
-
-The landlord pretended not to hear this, and demanded some explanation
-of the incendiary letter addressed by Bergami to his wife. Rodolphe,
-accused of acting as secretary to the waiter, strenuously asserted his
-innocence--
-
-"For," said he, "the lady's virtue was a sure barrier--"
-
-The landlord would not repress a smile of pride. Finally, Colline
-entangled him completely in the folds of his insidious oratory, and
-everything was arranged, on the conditions that the party should cease
-making their own coffee, that the establishment should receive "The
-Beaver" gratis, that Phemie should come in a bonnet, that the backgammon
-board should be given up to the Bosquets every Sunday from twelve to
-two, and above all, that no one should ask for tick.
-
-On this basis everything went well for some time.
-
-It was Christmas Eve. The four friends came to the cafe accompanied by
-their friends of the other sex. There was Marcel's Musette, Rodolphe's
-new flame, Mimi, a lovely creature, with a voice like a pair of cymbals,
-and Schaunard's idol, Phemie Teinturiere. That night, Phemie, according
-to agreement, had her bonnet on. As to Madame Colline that should have
-been, no one ever saw her; she was always at home, occupied in
-punctuating her husband's manuscripts. After the coffee, which was on
-this great occasion escorted by a regiment of small glasses of brandy,
-they called for punch. The waiter was so little accustomed to the order,
-that they had to repeat it twice. Phemie, who had never been to such a
-place before, seemed in a state of ecstacy at drinking out of glasses
-with feet. Marcel was quarreling with Musette about a new bonnet which
-he had not given her. Mimi and Rodolphe, who were in their honeymoon,
-carried on a silent conversation, alternated with suspicious noises. As
-to Colline, he went about from one to the other, distributing among them
-all the polite and ornamental phrases which he had picked up in the
-"Muses' Almanac."
-
-While this joyous company was thus abandoning itself to sport and
-laughter, a stranger at the bottom of the room, who occupied a table by
-himself, was observing with extraordinary attention the animated scene
-before him. For a fortnight or thereabout, he had come thus every night,
-being the only customer who could stand the terrible row which the club
-made. The boldest pleasantries had failed to move him; he would remain
-all the evening, smoking his pipe with mathematical regularity, his eyes
-fixed as if watching a treasure, and his ears open to all what was said
-around him. As to his other qualities, he seemed quiet and well off, for
-he possessed a watch with a gold chain; and one day, Marcel, meeting
-him at the bar, caught him in the act of changing a louis to pay his
-score. From that moment, the four friends designated him by the name of
-"The Capitalist."
-
-Suddenly Schaunard, who had very good eyes, remarked that the glasses
-were empty.
-
-"Yes," exclaimed Rodolphe, "and this is Christmas Eve! We are good
-Christians, and ought to have something extra."
-
-"Yes, indeed," added Marcel, "let's call for something supernatural."
-
-"Colline," continued Rodolphe, "ring a little for the waiter."
-
-Colline rang like one possessed.
-
-"What shall we have?" asked Marcel.
-
-Colline made a low bow and pointed to the women.
-
-"It is the business of these ladies to regulate the nature and order of
-our refreshment."
-
-"I," said Musette, smacking her lips, "should not be afraid of
-Champagne."
-
-"Are you crazy?" exclaimed Marcel. "Champagne! That isn't wine to begin
-with."
-
-"So much the worse; I like it, it makes a noise."
-
-"I," said Mimi, with a coaxing look at Rodolphe, "would like some
-Beaune, in a little basket."
-
-"Have you lost your senses?" said Rodolphe.
-
-"No, but I want to lose them," replied Mimi. The poet was thunderstruck.
-
-"I," said Phemie, dancing herself on the elastic sofa, "would rather
-have parfait amour; it's good for the stomach."
-
-Schaunard articulated, in a nasal tone, some words which made Phemie
-tremble on her spring foundation.
-
-"Bah!" said Marcel, recovering himself the first. "Let us spend a
-hundred francs for this once!"
-
-"Yes," said Rodolphe, "they complain of our not being good customers.
-Let's astonish them!"
-
-"Ay," said Colline, "let us give ourselves up to the delights of a
-splendid banquet! Do we not owe passive obedience to these ladies? Love
-lies on devotion; wine is the essence of pleasure, pleasure the duty of
-youth; women are flowers and must be moistened. Moisten away! Waiter,
-waiter!" and Colline hung upon the bell rope with feverish excitement.
-
-Swift as the wind, the waiter came. When he heard talk of Champagne,
-Burgundy, and various liqueurs, his physiognomy ran through a whole
-gamut of astonishment. But there was more to come.
-
-"I have a hole in my inside," said Mimi. "I should like some ham."
-
-"And I some sardines, and bread and butter," struck in Musette.
-
-"And I, radishes," quoth Phemie, "and a little meat with them."
-
-"We should have no objection," answered they.
-
-"Waiter!" quoth Colline, gravely, "bring us all that is requisite for a
-good supper."
-
-The waiter turned all the colors of the rainbow. He descended slowly to
-the bar, and informed his master of the extraordinary orders he had
-received.
-
-The landlord took it for a joke; but on a new summons from the bell, he
-ascended himself and addressed Colline, for whom he had a certain
-respect. Colline explained to him that they wished to see Christmas in
-at his house, and that he would oblige them by serving what they had
-asked for. Momus made no answer, but backed out, twisting his napkin.
-For a quarter of an hour he held a consultation with his wife, who,
-thanks to her liberal education at the St. Denis Convent, fortunately
-had a weakness for arts and letters, and advised him to serve the
-supper.
-
-"To be sure," said the landlord, "they may have money for once, by
-chance."
-
-So he told the waiter to take up whatever they asked for, and then
-plunged into a game of piquet with an old customer. Fatal imprudence!
-
-From ten to twelve the waiter did nothing but run up and downstairs.
-Every moment he was asked for something more. Musette would eat English
-fashion, and change her fork at every mouthful. Mimi drank all sorts of
-wine, in all sorts of glasses. Schaunard had a quenchless Sahara in his
-throat. Colline played a crossfire with his eyes, and while munching his
-napkin, as his habit was, kept pinching the leg of the table, which he
-took for Phemie's knee. Marcel and Rodolphe maintained the stirrups of
-self-possession, expecting the catastrophe, not without anxiety.
-
-The stranger regarded the scene with grave curiosity; from time to time
-he opened his mouth as if for a smile; then you might have heard a
-noise like that of a window which creaks in shutting. It was the
-stranger laughing to himself.
-
-At a quarter before twelve the bill was sent up. It amounted to the
-enormous sum of twenty five francs and three-quarters.
-
-"Come," said Marcel, "we will draw lots for who shall go and diplomatize
-with our host. It is getting serious." They took a set of dominoes; the
-highest was to go.
-
-Unluckily, the lot fell upon Schaunard, who was an excellent virtuoso,
-but a very bad ambassador. He arrived, too, at the bar just as the
-landlord had lost his third game. Momus was in a fearful bad humor, and,
-at Schaunard's first words, broke out into a violent rage. Schaunard was
-a good musician, but he had an indifferent temper, and he replied by a
-double discharge of slang. The dispute grew more and more bitter, till
-the landlord went upstairs, swearing that he would be paid, and that no
-one should stir until he was. Colline endeavored to interpose his
-pacifying oratory; but, on perceiving a napkin which Colline had made
-lint of, the host's anger redoubled; and to indemnify himself, he
-actually dared to lay profane hands on the philosopher's hazel overcoat
-and the ladies' shawls.
-
-A volley of abuse was interchanged by the Bohemians and the irate
-landlord.
-
-The women talked to one another of their dresses and their conquests.
-
-At this point the stranger abandoned his impassible attitude; gradually
-he rose, made a step forward, then another, and walked as an ordinary
-man might do; he approached the landlord, took him aside, and spoke to
-him in a low tone. Rodolphe and Marcel followed him with their eyes. At
-length, the host went out, saying to the stranger:
-
-"Certainly, I consent, Monsieur Barbemuche, certainly; arrange it with
-them yourself."
-
-Monsieur Barbemuche returned to his table to take his hat; put it on,
-turned around to the right, and in three steps came close to Rodolphe
-and Marcel. He took off his hat, bowed to the men, waved a salute to the
-women, pulled out his handkerchief, blew his nose, and began in a feeble
-voice:
-
-"Gentlemen, excuse the liberty I am about to take. For a long time, I
-have been burning with desire to make your acquaintance, but have never,
-till now, found a favorable opportunity. Will you allow me to seize the
-present one?"
-
-"Certainly, certainly," said Colline. Rodolphe and Marcel bowed, and
-said nothing. The excessive delicacy of Schaunard came nigh spoiling
-everything.
-
-"Excuse me, sir," said he briskly, "but you have not the honor of
-knowing us, and the usages of society forbid--would you be so good as to
-give me a pipeful of tobacco? In other respects I am of my friends'
-opinion."
-
-"Gentlemen," continued Barbemuche. "I am a disciple of the fine arts,
-like yourselves. So far as I have been able to judge from what I have
-heard of your conversation, our tastes are the same. I have a most eager
-desire to be a friend of yours, and to be able to find you here every
-night. The landlord is a brute: but I said a word to him, and you are
-quite free to go. I trust you will not refuse me the opportunity of
-finding you here again, by accepting this slight service."
-
-A blush of indignation mounted to Schaunard's face. "He is speculating
-on our condition," said he. "We cannot accept. He has paid our bill. I
-will play him at billiards for the twenty five francs and give him
-points."
-
-Barbemuche accepted his proposition, and had the good sense to lose.
-This gained him the esteem of the party. They broke up with the
-understanding that they were to meet next day.
-
-"Now," said Schaunard, "our dignity is saved. We owe him nothing."
-
-"We can almost ask him for another supper," said Colline.
-
-
-
-
-CHAPTER XII
-
-A BOHEMIAN "AT HOME"
-
-
-The night when he paid out of his own purse for the supper consumed at
-the cafe, Barbemuche managed to make Colline accompany him. Since his
-first presence at the meetings of the four friends whom he had relieved
-from their embarrassing position, Carolus had especially remarked
-Gustave, and already felt an attractive sympathy for this Socrates
-whose Plato he was destined to become. It was for this reason he had
-chosen him to be his introducer. On the way, Barbemuche proposed that
-they should enter a cafe which was still open, and take something to
-drink. Not only did Colline refuse, but he doubled his speed in passing
-the cafe, and carefully pulled down his hyperphysic hat over his face.
-
-"But why won't you come in?" politely asked the other.
-
-"I have my reasons," replied Colline. "There is a barmaid in that
-establishment who is very much addicted to the exact sciences, and I
-could not help having a long discussion with her, to avoid which I
-never pass through this street at noon, or any other time of day. To
-tell you the truth," added he innocently, "I once lived with Marcel in
-this neighborhood."
-
-"Still I should be very glad to offer you a glass of punch, and have a
-few minutes' talk with you. Is there no other place in the vicinity
-where you could step in without being hindered by any mathematical
-difficulties?" asked Barbemuche, who thought it a good opportunity for
-saying something very clever.
-
-Colline mused an instant. "There is a little place here," he said,
-pointing to a wine shop, "where I stand on a better footing."
-
-Barbemuche made a face, and seemed to hesitate. "Is it a respectable
-place?" he demanded.
-
-His cold and reserved attitude, his limited conversation, his discreet
-smile, and especially his watch chain with charms on it, all led Colline
-to suppose that Barbemuche was a clerk in some embassy, and that he
-feared to compromise himself by going into some wine shop.
-
-"There is no danger of anyone seeing us," said he. "All the diplomatic
-body is in bed by this time."
-
-Barbemuche made up his mind to go in, though at the bottom of his heart
-he would have given a good deal for a false nose. For greater security,
-he insisted on having a private room, and took care to fasten a napkin
-before the glass door of it. These precautions taken, he appeared more
-at ease, and called for a bowl of punch. Excited a little by the
-generous beverage, Barbemuche became more communicative, and, after
-giving some autobiographical details, made bold to express the hope he
-had conceived of being personally admitted a member of the Bohemian
-Club, for the accomplishment of which ambitious design he solicited the
-aid of Colline.
-
-Colline replied that, for his part, he was entirely at the service of
-Barbemuche, but, nevertheless, he could make no positive promise. "I
-assure you of my vote," said he. "But I cannot take it upon me to
-dispose of those of my comrades."
-
-"But," asked Barbemuche, "for what reasons could they refuse to admit me
-among them?"
-
-Colline put down the glass which he was just lifting to his mouth, and,
-in a very serious tone, addressed the rash Carolus, saying, "You
-cultivate the fine arts?"
-
-"I labor humble in those noble fields of intelligence," replied the
-other, who felt bound to hang out the colors of his style.
-
-Colline found the phrase well turned, and bowed in acknowledgment.
-
-"You understand music?" he continued.
-
-"I have played on the bass-viol."
-
-"A very philosophical instrument. Then, if you understand music, you
-also understand that one cannot, without violation of the laws of
-harmony, introduce a fifth performer into a quartet; it would cease to
-be a quartet."
-
-"Exactly, and become a quintet."
-
-"A quintet, very well, now attend to me. You understand astronomy?"
-
-"A little, I'm a bachelor of arts."
-
-"There is a little song about that," said Colline. "'Dear bachelor, says
-Lisette'--I have forgotten the tune. Well then, you know that there are
-four cardinal points. Now suppose there were to turn up a fifth cardinal
-point, all the harmony of nature would be upset. What they call a
-cataclysm--you understand?"
-
-"I am waiting for the conclusion," said Carolus, whose intelligence
-began to be a little shaky.
-
-"The conclusion--yes, that is the end of the argument, as death is the
-end of life, and marriage of love. Well, my dear sir, I and my friends
-are accustomed to live together, and we fear to impair, by the
-introduction of another person, the harmony which reigns in our habits,
-opinions, tastes, and dispositions. To speak frankly, we are going to
-be, some day, the four cardinal points of contemporary art; accustomed
-to this idea, it would annoy us to see a fifth point."
-
-"Nevertheless," suggested Carolus, "where you are four it is easy to be
-five."
-
-"Yes, but then we cease to be four."
-
-"The objection is a trivial one."
-
-"There is nothing trivial in this world; little brooks make great
-rivers; little syllables make big verses; the very mountains are made of
-grains of sand--so says 'The Wisdom of Nations,' of which there is a
-copy on the quay--tell me, my dear sir, which is the furrow that you
-usually follow in the noble fields of intelligence?"
-
-"The great philosophers and the classic authors are my models. I live
-upon their study. 'Telemachus' first inspired the consuming passion I
-feel."
-
-"'Telemachus'--there are lots of him on the quay," said Colline. "You
-can find him there at any time. I have bought him for five sous--a
-second-hand copy--I would consent to part with it to oblige you. In
-other respects, it is a great work; very well got up, considering the
-age."
-
-"Yes, sir," said Carolus. "I aspire to high philosophy and sound
-literature. According to my idea, art is a priesthood--."
-
-"Yes, yes," said Colline. "There's a song about that too," and he began
-to hum....
-
-    "Art's a priesthood, art's a priesthood,"
-
-to the air of the drinking song in "Robert the Devil."
-
-"I say, then, that art being a solemn mission, writers ought, above all
-things--"
-
-"Excuse me," said Colline, who heard one of the small hours striking,
-"but it's getting to be tomorrow morning very fast."
-
-"It is late, in fact," said Carolus. "Let us go."
-
-"Do you live far off?"
-
-"Rue Royale St. Honore, No. 10."
-
-Colline had once had occasion to visit this house, and remembered that
-it was a splendid private mansion.
-
-"I will mention you to my friends," said he to Carolus on parting, "and
-you may be sure that I shall use all my influence to make them favorably
-disposed to you. Ah, let me give you one piece of advice."
-
-"Go on," said the other.
-
-"Be very amiable and polite to Mademoiselles Mimi, Musette and Phemie;
-these ladies exercise an authority over my friends, and by managing to
-bring their mistresses' influence to bear upon them you will contrive
-far more easily to obtain what you require from Marcel, Schaunard and
-Rodolphe."
-
-"I'll try," said Carolus.
-
-Next day, Colline tumbled in upon the Bohemian association. It was the
-hour of breakfast, and for a wonder, breakfast had come with the hour.
-The three couples were at table, feasting on artichokes and pepper
-sauce.
-
-"The deuce!" exclaimed the philosopher. "This can't last, or the world
-would come to an end. I arrive," he continued, "as the ambassador of the
-generous mortal whom we met last night."
-
-"Can he be sending already to ask for his money again?" said Marcel.
-
-"It has nothing to do with that," replied Colline. "This young man
-wishes to be one of us; to have stock in our society, and share the
-profits, of course."
-
-The three men raised their heads and looked at one another.
-
-"That's all," concluded Colline. "Now the question is open."
-
-"What is the social position of your principal?" asked Rodolphe.
-
-"He is no principal of mine," answered the other. "Last night he begged
-me to accompany him, and overflowed me with attentions and good liquor
-for a while. But I have retained my independence."
-
-"Good," said Schaunard.
-
-"Sketch us some leading features of his character," said Marcel.
-
-"Grandeur of soul, austerity of manners, afraid to go into wine shops,
-bachelor of arts, candid as a transparency, plays on the bass-viol, is
-disposed to change a five franc piece occasionally."
-
-"Good again!" said Schaunard.
-
-"What are his hopes?"
-
-"As I told you already, his ambition knows no bounds; he aspires to be
-'hail-fellow-well-met' with us."
-
-"That is to say," answered Marcel, "he wishes to speculate upon us, and
-to be seen riding in our carriages."
-
-"What is his profession?" asked Rodolphe.
-
-"Yes," said Marcel, "what does he play on?"
-
-"Literature and mixed philosophy. He calls art a priesthood."
-
-"A priesthood!" cried Rodolphe, in terror.
-
-"So he says."
-
-"And what is his road in literature?"
-
-"He goes after 'Telemachus'."
-
-"Very good," said Schaunard, eating the seed of his artichoke.
-
-"Very good! You dummy!" broke our Marcel. "I advise you not to say that
-in the street."
-
-Schaunard relieved his annoyance at this reproof by kicking Phemie under
-the table for taking some of his sauce.
-
-"Once more," said Rodolphe. "What is his condition in the world? What
-does he live on, and where does he live? And what is his name?"
-
-"His station is honorable. He is professor of everything in a rich
-family. His name is Carolus Barbemuche. He spends his income in
-luxurious living and dwells in the Rue Royale."
-
-"Furnished lodging?"
-
-"No, there is real furniture."
-
-"I claim the floor," said Marcel. "To me it is evident that Colline has
-been corrupted. He has already sold his vote for so many drinks. Don't
-interrupt me! (Colline was rising to protest.) You shall have your
-turn. Colline, mercenary soul that he is, has presented to you this
-stranger under an aspect too favorable to be true. I told you before; I
-see through this person's designs. He wants to speculate on us. He says
-to himself, 'Here are some chaps making their way. I must get into their
-pockets. I shall arrive with them at the goal of fame.'"
-
-"Bravo!" quoth Schaunard, "have you any more sauce there?"
-
-"No," replied Rodolphe, "the edition is out of print."
-
-"Looking at the question from another point of view," continued Marcel,
-"this insidious mortal whom Colline patronizes, perhaps aspires to our
-intimacy only from the most culpable motives. Gentlemen, we are not
-alone here!" continued the orator, with an eloquent look at the women.
-"And Colline's client, smuggling himself into our circle under the cloak
-of literature, may perchance be but a vile seducer. Reflect! For one, I
-vote against his reception."
-
-"I demand the floor," said Rodolphe, "only for a correction. In his
-remarkable extemporary speech, Marcel has said that this Carolus, with
-the view of dishonoring us, wished to introduce himself under the cloak
-of literature."
-
-"A Parliamentary figure."
-
-"A very bad figure; literature has no cloak!"
-
-"Having made a report, as chairman of committee," resumed Colline,
-rising, "I maintain the conclusions therein embodied. The jealousy which
-consumes him disturbs the reason of our friend Marcel; the great artist
-is beside himself."
-
-"Order!" cried Marcel.
-
-"So much so, that, able designer as he is, he has just introduced into
-his speech a figure the incorrectness of which has been ably pointed out
-by the talented orator who preceded me."
-
-"Colline is an ass!" shouted Marcel, with a bang of his fist on the
-table that caused a lively sensation among the plates. "Colline knows
-nothing in an affair of sentiment; he is incompetent to judge of such
-matters; he has an old book in place of a heart."
-
-Prolonged laughter from Schaunard. During the row, Colline kept gravely
-adjusting the folds of his white cravat as if to make way for the
-torrents of eloquence contained beneath them. When silence was
-reestablished, he thus continued:
-
-"Gentlemen, I intend with one word to banish from your minds the
-chimerical apprehensions which the suspicions of Marcel may have
-engendered in them respecting Carolus."
-
-"Oh, yes!" said Marcel ironically.
-
-"It will be as easy as that," continued Colline, blowing the match with
-which he had lighted his pipe.
-
-"Go on! Go on!" cried Schaunard, Rodolphe, and the women together.
-
-"Gentlemen! Although I have been personally and violently attacked in
-this meeting, although I have been accused of selling for base liquors
-the influence which I possess; secure in a good conscience I shall not
-deign to reply to those assaults on my probity, my loyalty, my morality.
-[Sensation.] But there is one thing which I will have respected. [Here
-the orator, endeavoring to lay his hand on his heart, gave himself a rap
-in the stomach.] My well tried and well known prudence has been called
-in question. I have been accused of wishing to introduce among you a
-person whose intentions were hostile to your happiness--in matters of
-sentiment. This supposition is an insult to the virtue of these
-ladies--nay more, an insult to their good taste. Carolus Barbemuche is
-decidedly ugly." [Visible denial on the face of Phemie; noise under the
-table; it is Schaunard kicking her by way of correcting her compromising
-frankness.]
-
-"But," proceeded Colline, "what will reduce to powder the contemptible
-argument with which my opponent has armed himself against Carolus by
-taking advantage of your terrors, is the fact that the said Carolus is a
-Platonist." [Sensation among the men; uproar among the women.]
-
-This declaration of Colline's produced a reaction in favor of Carolus.
-The philosopher wished to improve the effect of his eloquent and adroit
-defense.
-
-"Now then," he continued, "I do not see what well founded prejudices can
-exist against this young man, who, after all, has rendered us a service.
-As to myself, who am accused of acting thoughtlessly in wishing to
-introduce him among us, I consider this opinion an insult to my dignity.
-I have acted in the affair with the wisdom of the serpent; if a formal
-vote does not maintain me this character for prudence, I offer my
-resignation."
-
-"Do you make it a cabinet question?" asked Marcel.
-
-"I do."
-
-The three consulted, and agreed by common consent to restore to the
-philosopher that high reputation for prudence which he claimed. Colline
-then gave the floor to Marcel, who, somewhat relieved of his prejudices,
-declared that he might perhaps favor the adoption of the report. But
-before the decisive and final vote which should open to Carolus the
-intimacy of the club, he put to the meeting this amendment:
-
-     "WHEREAS, the introduction of a new member into our society is a
-      grave matter, and a stranger might bring with him some elements of
-      discord through ignorance of the habits, tempers, and opinions of
-      his comrades,
-
-      RESOLVED, that each member shall pass a say with the said Carolus,
-      and investigate his manner of life, tastes, literary capacity, and
-      wardrobe. The members shall afterward communicate their several
-      impressions, and ballot on his admission accordingly. Moreover,
-      before complete admission, the said Carolus shall undergo a
-      noviciate of one month, during which time he shall not have the
-      right to call us by our first names or take our arm in the street.
-      On the day of reception, a splendid banquet shall be given at the
-      expense of the new member, at a cost of not less than twelve
-      francs."
-
-This amendment was adopted by three votes against one. The same night
-Colline went to the cafe early on purpose to be the first to see
-Carolus. He had not long to wait for him. Barbemuche soon appeared,
-carrying in his hand three huge bouquets of roses.
-
-"Hullo!" cried the astonished Colline. "What do you mean to do with that
-garden?"
-
-"I remember what you told me yesterday. Your friends will doubtless
-come with their ladies, and it is on their account that I bring these
-flowers--very handsome ones."
-
-"That they are; they must have cost fifteen sous, at least."
-
-"In the month of December! If you said fifteen francs you would have
-come nearer."
-
-"Heavens!" cried Colline, "three crowns for these simple gifts of flora!
-You must be related to the Cordilleras. Well my dear sir, that is
-fifteen francs which we must throw out of the window."
-
-It was Barbemuche's turn to be astonished. Colline related the jealous
-suspicions with which Marcel had inspired his friends, and informed
-Carolus of the violent discussion which had taken place between them
-that morning on the subject of his admission.
-
-"I protested," said Colline, "that your intentions were the purest, but
-there was strong opposition nevertheless. Beware of renewing these
-suspicions by much politeness to the ladies; and to begin, let us put
-these bouquets out of the way." He took the roses and hid them in a
-cupboard. "But this is not all," he resumed. "Before connecting
-themselves intimately with you, these gentlemen desire to make a
-private examination, each for himself, of your character, tastes, etc."
-
-Then, lest Barbemuche might do something to shock his friends, Colline
-rapidly sketched a moral portrait of each of them. "Contrive to agree
-with them separately," added the philosopher, "and they will end by all
-liking you."
-
-Carolus agreed to everything. The three friends soon arrived with their
-friends of the other sex. Rodolphe was polite to Carolus, Schaunard
-familiar with him, while Marcel remained cold. Carolus forced himself to
-be gay and amiable with the men and indifferent to the women. When they
-broke up for the night, he asked Rodolphe to dine with him the next day,
-and to come as early as noon. The poet accepted, saying to himself,
-"Good! I am to begin the inquiry, then."
-
-Next morning at the hour appointed, he called on Carolus, who did indeed
-live in a very handsome private house, where he occupied a sufficiently
-comfortable room. But Rodolphe was surprised to find at that time of day
-the shutters closed, the curtains drawn, and two lighted candles on the
-table. He asked Barbemuche the reason.
-
-"Study," replied the other, "is the child of mystery and silence."
-
-They sat down and talked. At the end of an hour, Carolus, with infinite
-oratorial address, brought in a phrase which, despite its humble form,
-was neither more nor less than a summons made to Rodolphe to hear a
-little work, the fruit of Barbemuche's vigils.
-
-The poet saw himself caught. Curious, however, to learn the color of the
-other's style, he bowed politely, assured him that he was enchanted,
-that Carolus did not wait for him to finish the sentence. He ran to bolt
-the door, and then took up a small memorandum book, the thinness of
-which brought a smile of satisfaction to the poet's face.
-
-"Is that the manuscript of your work?" he asked.
-
-"No," replied Carolus. "It is the catalog of my manuscripts and I am
-looking for the one which you will allow me to read you. Here it is:
-'Don Lopez or Fatality No. 14.' It's on the third shelf," and he
-proceeded to open a small closet in which Rodolphe perceived, with
-terror, a great quantity of manuscripts. Carolus took out one of these,
-shut the closet, and seated himself in front of the poet.
-
-Rodolphe cast a glance at one of the four piles of elephant paper of
-which the work was composed. "Come," said he to himself, "it's not in
-verse, but it's called 'Don Lopez.'"
-
-Carolus began to read:
-
-"On a cold winter night, two cavaliers, enveloped in large cloaks, and
-mounted on sluggish mules, were making their way side by side over one
-of the roads which traverse the frightful solitudes of the Sierra
-Morena."
-
-"May the Lord have mercy on me!" ejaculated Rodolphe mentally.
-
-Carolus continued to read his first chapter, written in the style above
-throughout. Rodolphe listened vaguely, and tried to devise some means of
-escape.
-
-"There is the window, but it's fastened; and beside, we are in the
-fourth story. Ah, now I understand all these precautions."
-
-"What do you think of my first chapter?" asked Carolus. "Do not spare
-any criticism, I beg of you."
-
-Rodolphe thought he remembered having heard some scraps of philosophical
-declamation upon suicide, put forth by the hero of the romance, Don
-Lopez, to wit; so he replied at hazard:
-
-"The grand figure of Don Lopez is conscientiously studied; it reminds me
-of 'Savoyard Vicar's Confession of Faith;' the description of Don
-Alvar's mule pleases me exceedingly; it is like a sketch of Gericault's.
-There are good lines in the landscape; as to the thoughts, they are
-seeds of Rousseau planted in the soil of Lesage. Only allow me to make
-one observation: you use too many stops, and you work the word
-henceforward too hard. It is a good word, and gives color, but should
-not be abused."
-
-Carolus took up a second pile of paper, and repeated the title "Don
-Lopez or, Fatality."
-
-"I knew a Don Lopez once," said Rodolphe. "He used to sell cigarettes
-and Bayonne chocolate. Perhaps he was a relative of your man. Go on."
-
-At the conclusion of the second chapter, the poet interrupted his host:
-
-"Don't you feel your throat a little dry?" he inquired.
-
-"Not at all," replied Carolus. "We are coming to the history of
-Inesilla."
-
-"I am very curious to hear it, nevertheless, if you are tired--"
-
-"Chapter third!" enunciated Carolus in a voice that gave no signs of
-fatigue.
-
-Rodolphe took a careful survey of Barbemuche and perceived that he had a
-short neck and a ruddy complexion. "I have one hope left," thought the
-poet on making this discovery. "He may have an attack of apoplexy."
-
-"Will you be so good as to tell me what you think of the love scene?"
-
-Carolus looked at Rodolphe to observe in his face what effect the
-dialogue produced upon him. The poet was bending forward on his chair,
-with his neck stretched out in the attitude of one who is listening for
-some distant sound.
-
-"What's the matter with you?"
-
-"Hist!" said Rodolphe, "don't you hear? I thought somebody cried fire!
-Suppose we go and see."
-
-Carolus listened an instant but heard nothing.
-
-"It must have been a ringing in my ears," said the other. "Go on, Don
-Alvar interests me exceedingly; he is a noble youth."
-
-Carolus continued with all the music that he could put into his voice:
-
-"Oh Inesilla! Whatever thou art, angel or demon; and whatever be thy
-country, my life is thine, and thee will follow, be it to heaven or
-hell!"
-
-Someone knocked at the door.
-
-"It's my porter," said Barbemuche, half opening the door.
-
-It was indeed the porter with a letter. "What an unlucky chance!" cried
-Carolus, after he had perused it. "We must put off our reading until some
-other time. I have to go out immediately. If you please, we will execute
-this little commission together, as it is nothing private, and then we
-can come back to dinner."
-
-"There," thought Rodolphe, "is a letter that has fallen from heaven. I
-recognize the seal of Providence."
-
-When he rejoined the comrades that night, the poet was interrogated by
-Marcel and Schaunard.
-
-"Did he treat you well?" they asked.
-
-"Yes, but I paid dear for it."
-
-"How? Did Carolus make you pay?" demanded Schaunard with rising choler.
-
-"He read a novel at me, inside of which the people are named Don Lopez
-and Don Alvar; and the tenors call their mistresses 'angel,' or
-'demon.'"
-
-"How shocking!" cried the Bohemians, in chorus.
-
-"But otherwise," said Colline, "literature apart, what is your opinion
-of him?"
-
-"A very nice young man. You can judge for yourselves; Carolus means to
-treat us all in turn; he invites Schaunard to breakfast with him
-tomorrow. Only look out for the closet with the manuscripts in it."
-
-Schaunard was punctual and went to work with the minuteness of an
-auctioneer taking an inventory, or a sheriff levying an execution.
-Accordingly he came back full of notes; he had studied Carolus chiefly
-in respect of movables and worldly goods.
-
-"This Barbemuche," he said, on being asked his opinion, "is a lump of
-good qualities. He knows the names of all the wines that were ever
-invented, and made me eat more nice things than my aunt ever did on her
-birthday. He is on very good terms with the tailors in the Rue
-Vivienne, and the bootmakers of the Passage des Panoramas; and I have
-observed that he is nearly our size, so that, in case of need, we can
-lend him our clothes. His habits are less austere than Colline chose to
-represent them; he went wherever I pleased to take him, and gave me
-breakfast in two acts, the second of which went off in a tavern by the
-fish market where I am known for some Carnival orgies. Well, Carolus
-went in there as any ordinary mortal might, and that's all. Marcel goes
-tomorrow."
-
-Carolus knew that Marcel was the one who had made the most objections to
-his reception. Accordingly, he treated him with particular attention,
-and especially won his heart by holding out the hope of procuring him
-some sitters in the family of his pupil. When it came to Marcel's turn
-to make his report, there were no traces of his original hostility to
-Carolus.
-
-On the fourth day, Colline informed Barbemuche that he was admitted, but
-under conditions. "You have a number of vulgar habits," he said, "which
-must be reformed."
-
-"I shall do my best to imitate you," said Carolus.
-
-During the whole time of his noviciate the Platonic philosopher kept
-company with the Bohemians continually, and was thus enabled to study
-their habits more thoroughly, not without being very much astonished at
-times. One morning, Colline came to see him with a joyful face.
-
-"My dear fellow," he said, "it's all over; you are now definitely one of
-us. It only remains to fix the day and the place of the grand
-entertainment; I have come to talk with you about it."
-
-"That can be arranged with perfect ease," said Carolus. "The parents of
-my pupil are out of town; the young viscount, whose mentor I am, will
-lend us the apartments for an evening, only we must invite him to the
-party."
-
-"That will be very nice," replied Colline. "We will open to him the
-vistas of literature; but do you think he will consent?"
-
-"I am sure of it."
-
-"Then it only remains to fix the day."
-
-"We will settle that tonight at the cafe."
-
-Carolus then went to find his pupil and announced to him that he had
-just been elected into a distinguished society of literary men and
-artists, and that he was going to give a dinner, followed by a little
-party, to celebrate his admission. He therefore proposed to him to make
-him one of the guests. "And since you cannot be out late," added
-Carolus, "and the entertainment may last some time, it will be for our
-convenience to have it here. Your servant François knows how to hold his
-tongue; your parents will know nothing of it; and you will have made
-acquaintance with some of the cleverest people in Paris, artists and
-authors."
-
-"In print?" asked the youth.
-
-"Certainly, one of them edits 'The Scarf of Iris,' which your mother
-takes in. They are very distinguished persons, almost celebrities,
-intimate friends of mine, and their wives are charming."
-
-"Will there be some women?" asked Viscount Paul.
-
-"Delightful ones," returned Carolus.
-
-"Oh, dear master, I thank you. The entertainment shall certainly take
-place here. All the lustres shall be lit up, and I will have the
-wrappers taken off the furniture."
-
-That night at the cafe, Barbemuche announced that the party would come
-off next Saturday. The Bohemians told their mistresses to think about
-their toilettes.
-
-"Do not forget," said they, "that we are going into the real drawing
-rooms. Therefore, make ready; a rich but simple costume."
-
-And from that day all the neighborhood was informed that Mademoiselles
-Phemie, Mimi, and Musette were going into society.
-
-On the morning of the festivity, Colline, Schaunard, Marcel, and
-Rodolphe called, in a body, on Barbemuche, who looked astonished to see
-them so early.
-
-"Has anything happened which will oblige us to put it off?" he asked
-with some anxiety.
-
-"Yes--that is, no," said Colline. "This is how we are placed. Among
-ourselves we never stand on ceremony, but when we are to meet strangers,
-we wish to preserve a certain decorum."
-
-"Well?" said the other.
-
-"Well," continued Colline, "since we are to meet tonight, the young
-gentleman to whom we are indebted for the rooms, out of respect to him
-and to ourselves, we come simply to ask you if you cannot lend us some
-becoming toggery. It is almost impossible, you see, for us to enter this
-gorgeous roof in frock-coats and colored trousers."
-
-"But," said Carolus, "I have not black clothes for all of you."
-
-"We will make do with what you have," said Colline.
-
-"Suit yourselves then," said Carolus, opening a well-furnished wardrobe.
-
-"What an arsenal of elegancies!" said Marcel.
-
-"Three hats!" exclaimed Schaunard, in ecstasy. "Can a man want three
-hats when he had but one head?"
-
-"And the boots!" said Rodolphe, "only look!"
-
-"What a number of boots!" howled Colline.
-
-In a twinkling of an eye each had selected a complete equipment.
-
-"Till this evening," said they, taking leave of Barbemuche. "The ladies
-intend to be most dazzling."
-
-"But," said Barbemuche, casting a glance at the emptied wardrobe. "You
-have left me nothing. What am I to wear?"
-
-"Ah, it's different with you," said Rodolphe. "You are the master of the
-house; you need not stand upon etiquette."
-
-"But I have only my dressing gown and slippers, flannel waistcoat and
-trousers with stocking feet. You have taken everything."
-
-"Never mind; we excuse you beforehand," replied the four.
-
-A very good dinner was served at six. The company arrived, Marcel
-limping and out of humor. The young viscount rushed up to the ladies and
-led them to the best seats. Mimi was dressed with fanciful elegance;
-Musette got up with seductive taste; Phemie looked like a stained glass
-window, and hardly dared sit down.
-
-The dinner lasted two hours and a half, and was delightfully lively. The
-young viscount, who sat next to Mimi, kept treading on her foot. Phemie
-took twice of every dish. Schaunard was in clover. Rodolphe improvised
-sonnets and broke glasses in marking the rhyme. Colline talked to
-Marcel, who remained sulky.
-
-"What is the matter with you?" asked the philosopher.
-
-"My feet are in torture; this Carolus has boots like a woman's."
-
-"He must be given to understand that, for the future, some of his shoes
-are to be made a little larger. Be easy, I will see to it. But now to
-the drawing room, where the coffee and liquers await us."
-
-The revelry recommenced with increased noise. Schaunard seated himself
-at the piano and executed, with immense spirit, his new symphony, "The
-Death of the Damsel." To this succeeded the characteristic piece of "The
-Creditor's March," which was twice encored, and two chords of the piano
-were broken.
-
-Marcel was still morose, and replied to the complaints and
-expostulations of Carolus:
-
-"My dear sir, we shall never be intimate friends, and for this reason:
-Physical differences are almost always the certain sign of a moral
-difference; on this point philosophy and medicine agree."
-
-"Well?" said Carolus.
-
-"Well," continued Marcel, showing his feet, "your boots, infinitely too
-small for me, indicate a radical difference of temper and character; in
-other respects, your little party has been charming."
-
-At one in the morning the guests took leave, and zig-zagged homeward.
-Barbemuche felt very ill, and made incoherent harangues to his pupil,
-who, for his part, was dreaming of Mademoiselle Mimi's blue eyes.
-
-
-
-
-CHAPTER XIII
-
-THE HOUSE WARMING
-
-
-This took place some time after the union of the poet Rodolphe and
-Mademoiselle Mimi. For a week the whole of the Bohemian brotherhood
-were grievously perturbed by the disappearance of Rodolphe, who had
-suddenly become invisible. They had sought for him in all his customary
-haunts, and had everywhere been met by the same reply--
-
-"We have not seen him for a week."
-
-Gustave Colline above all was very uneasy, and for the following reason.
-A few days previously he had handed to Rodolphe a highly philosophical
-article, which the latter was to insert in the columns of "The Beaver,"
-the organ of the hat trade, of which he was editor. Had this
-philosophical article burst upon the gaze of astonished Europe? Such
-was the query put to himself by the astonished Colline, and this anxiety
-will be understood when it is explained that the philosopher had never
-yet had the honor of appearing in print, and that he was consumed by the
-desire of seeing what effect would be produced by his prose in pica. To
-procure himself this gratification he had already expended six francs in
-visiting all the reading rooms of Paris without being able to find "The
-Beaver" in any one of them. Not being able to stand it any longer,
-Colline swore to himself that he would not take a moment's rest until he
-had laid hands on the undiscoverable editor of this paper.
-
-Aided by chances which it would take too long to tell in detail, the
-philosopher was able to keep his word. Within two days he learned
-Rodolphe's abiding place and called on him there at six in the morning.
-
-Rodolphe was then residing in a lodging house in a deserted street
-situated in the Faubourg Saint Germain, and was perched on the fifth
-floor because there was not a sixth. When Colline came to his door there
-was no key in the lock outside. He knocked for ten minutes without
-obtaining any answer from within; the din he made at this early hour
-attracted the attention of even the porter, who came to ask him to be
-quiet.
-
-"You see very well that the gentleman is asleep," said he.
-
-"That is why I want to wake him up," replied Colline, knocking again.
-
-"He does not want to answer then," replied the porter, placing before
-Rodolphe's door a pair of patent leather boots and a pair of lady's
-boots that he had just cleaned.
-
-"Wait a bit though," observed Colline, examining the masculine and
-feminine foot gear. "New patent leathers! I must have made a mistake; it
-cannot be here."
-
-"Yes, by the way," said the porter, "whom do you want?"
-
-"A woman's boots!" continued Colline, speaking to himself, and thinking
-of his friends austere manners, "Yes, certainly I must have made a
-mistake. This is not Rodolphe's room."
-
-"I beg your pardon, sir, it is."
-
-"You must be making a mistake, my good man."
-
-"What do you mean?"
-
-"Decidedly you must be making a mistake," said Colline, pointing to the
-patent leather boots. "What are those?"
-
-"Those are Monsieur Rodolphe's boots. What is there to be wondered at in
-that?"
-
-"And these?" asked Colline, pointing to the lady's boots. "Are they
-Monsieur Rodolphe's too?"
-
-"Those are his wife's," said the porter.
-
-"His wife's!" exclaimed Colline in a tone of stupefaction. "Ah! The
-voluptuary, that is why he will not open the door."
-
-"Well," said the porter, "he is free to do as he likes about that, sir.
-If you will leave me your name I will let him know you called."
-
-"No," said Colline. "Now that I know where to find him I will call
-again."
-
-And he at once went off to tell the important news to his friends.
-
-Rodolphe's patent leathers were generally considered to be a fable due
-to Colline's wealth of imagination, and it was unanimously declared that
-his mistress was a paradox.
-
-This paradox was, however, a truism, for that very evening Marcel
-received a letter collectively addressed to the whole of the set. It was
-as follows:--
-
-"Monsieur and Madame Rodolphe, literati, beg you to favor them with your
-company at dinner tomorrow evening at five o'clock sharp."
-
-"N.B.--There will be plates."
-
-"Gentlemen," said Marcel, when communicating the letter to his comrades,
-"the news is confirmed, Rodolphe has really a mistress; further he
-invites us to dinner, and the postscript promises crockery. I will not
-conceal from you that this last paragraph seems to me a lyrical
-exaggeration, but we shall see."
-
-The following day at the hour named, Marcel, Gustave Colline, and
-Alexander Schaunard, keen set as on the last day of Lent, went to
-Rodolphe's, whom they found playing with a sandy haired cat, whilst a
-young woman was laying the table.
-
-"Gentlemen," said Rodolphe, shaking his friends' hands and indicating
-the young lady, "allow me to introduce you to the mistress of the
-household."
-
-"You are the household, are you not?" said Colline, who had a mania for
-this kind of joke.
-
-"Mimi," replied Rodolphe, "I present my best friends; now go and get the
-soup ready."
-
-"Oh madame," said Alexander Schaunard, hastening towards Mimi, "you are
-as fresh as a wild flower."
-
-After having satisfied himself that there were really plates on the
-table, Schaunard asked what they were going to have to eat. He even
-carried his curiosity so far as to lift up the covers of the stewpans in
-which the dinner was cooking. The presence of a lobster produced a
-lively impression upon him.
-
-As to Colline, he had drawn Rodolphe aside to ask about his
-philosophical article.
-
-"My dear fellow, it is at the printer's. 'The Beaver' appears next
-Thursday."
-
-We give up the task of depicting the philosopher's delight.
-
-"Gentlemen," said Rodolphe to his friends. "I ask your pardon for
-leaving you so long without any news of me, but I was spending my
-honeymoon." And he narrated the story of his union with the charming
-creature who had brought him as a dowry her eighteen years and a half,
-two porcelain cups, and a sandy haired cat named Mimi, like herself.
-
-"Come, gentlemen," said Rodolphe, "we are going to celebrate my house
-warming. I forewarn you, though, that we are about to have merely a
-family repast; truffles will be replaced by frank cordiality."
-
-Indeed, that amiable goddess did not cease to reign amongst the guests,
-who found, however, that the so-called frugal repast did not lack a
-certain amplitude. Rodolphe, indeed, had spread himself out. Colline
-called attention to the fact that the plates were changed, and declared
-aloud that Mademoiselle Mimi was worthy of the azure scarf with which
-the empresses of the cooking stove were adorned, a phrase which was
-Greek to the young girl, and which Rodolphe translated by telling her
-"that she would make a capital Cordon Bleu."
-
-The appearance on the scene of the lobster caused universal admiration.
-Under the pretext that he had studied natural history, Schaunard
-suggested that he should carve it. He even profited by this circumstance
-to break a knife and to take the largest helping for himself, which
-excited general indignation. But Schaunard had no self respect, above
-all in the matter of lobsters, and as there was still a portion left, he
-had the audacity to put it on one side, saying that he would do for a
-model for a still life piece he had on hand.
-
-Indulgent friendship feigned to believe this fiction, but fruit of
-immoderate gluttony.
-
-As to Colline he reserved his sympathies for the dessert, and was even
-obstinate enough to cruelly refuse the share of a tipsy cake against a
-ticket of admission to the orangery of Versailles offered to him by
-Schaunard.
-
-At this point conversation began to get lively. To three bottles with
-red seals succeeded three bottles with green seals, in the midst of
-which shortly appeared one which by its neck topped with a silver
-helmet, was recognized as belonging to the Royal Champagne Regiment--a
-fantastic Champagne vintaged by Saint Ouen, and sold in Paris at two
-francs the bottle as bankrupt's stock, so the vendor asserted.
-
-But it is not the district that makes the wine, and our Bohemians
-accepted as the authentic growth of Ai the liquor that was served out to
-them in the appropriate glasses, and despite the scant degree of
-vivacity shown by the cork in popping from its prison, went into
-ecstacies over the excellence of the vintage on seeing the quality of
-the froth. Schaunard summoned up all his remaining self-possession to
-make a mistake as regards glasses, and help himself to that of Colline,
-who kept gravely dipping his biscuit in the mustard pot as he explained
-to Mademoiselle Mimi the philosophical article that was to appear in
-"The Beaver." All at once he grew pale, and asked leave to go to the
-window and look at the sunset, although it was ten o'clock at night, and
-the sun had set long ago.
-
-"It is a pity the Champagne is not iced," said Schaunard, again trying
-to substitute his empty glass for the full one of his neighbor, an
-attempt this time without success.
-
-"Madame," observed Colline, who had ceased to take the fresh air, to
-Mimi, "Champagne is iced with ice. Ice is formed by the condensation of
-water, in Latin aqua. Water freezes at two degrees, and there are four
-seasons, spring, summer, autumn, and winter, which was the cause of the
-retreat from Moscow."
-
-All at once Colline suddenly slapped Rodolphe on the shoulder, and in a
-thick voice that seemed to mash all the syllables together, said to
-him--
-
-"Tomorrow is Thursday, is it not?"
-
-"No," replied Rodolphe. "Tomorrow is Sunday."
-
-"Thursday."
-
-"No, I tell you. Tomorrow is Sunday."
-
-"Sunday!" said Colline, wagging his head, "not a bit of it, it is
-Thursday."
-
-And he fell asleep, making a mold for a cast of his face in the cream
-cheese that was before him in his plate.
-
-"What is he harping about Thursday?" observed Marcel.
-
-"Ah, I have it!" said Rodolphe, who began to understand the persistency
-of the philosopher, tormented by a fixed idea, "it is on account of his
-article in 'The Beaver.' Listen, he is dreaming of it aloud."
-
-"Good," said Schaunard. "He shall not have any coffee, eh, madame?"
-
-"By the way," said Rodolphe, "pour out the coffee, Mimi."
-
-The latter was about to rise, when Colline, who had recovered a little
-self possession, caught her around the waist and whispered
-confidentially in her ear:
-
-"Madame, the coffee plant is a native of Arabia, where it was discovered
-by a goat. Its use expanded to Europe. Voltaire used to drink seventy
-cups a day. I like mine without sugar, but very hot."
-
-"Good heavens! What a learned man!" thought Mimi as she brought the
-coffee and pipes.
-
-However time was getting on, midnight had long since struck, and
-Rodolphe sought to make his guests understand that it was time for them
-to withdraw. Marcel, who retained all his senses, got up to go.
-
-But Schaunard perceived that there was still some brandy in a bottle,
-and declared that it could not be midnight so long as there was any
-left. As to Colline, he was sitting astride his chair and murmuring in a
-low voice:
-
-"Monday, Tuesday, Wednesday, Thursday."
-
-"Hang it all," said Rodolphe, greatly embarrassed, "I cannot give them
-quarters here tonight; formerly it was all very well, but now it is
-another thing," he added, looking at Mimi, whose softly kindling eyes
-seemed to appeal for solitude for their two selves. "What is to be
-done? Give me a bit of advice, Marcel. Invent a trick to get rid of
-them."
-
-"No, I won't invent," replied Marcel, "but I will imitate. I remember a
-play in which a sharp servant manages to get rid of three rascals as
-drunk as Silenus who are at his master's."
-
-"I recollect it," said Rodolphe, "it is in 'Kean.' Indeed, the situation
-is the same."
-
-"Well," said Marcel, "we will see if the stage holds the glass up to
-human nature. Stop a bit, we will begin with Schaunard. Here, I say,
-Schaunard."
-
-"Eh? What is it?" replied the latter, who seemed to be floating in the
-elysium of mild intoxication.
-
-"There is nothing more to drink here, and we are all thirsty."
-
-"Yes," said Schaunard, "bottles are so small."
-
-"Well," continued Marcel, "Rodolphe has decided that we shall pass the
-night here, but we must go and get something before the shops are
-shut."
-
-"My grocer lives at the corner of the street," said Rodolphe. "Do you
-mind going there, Schaunard? You can fetch two bottles of rum, to be put
-down to me."
-
-"Oh! yes, certainly," said Schaunard, making a mistake in his greatcoat
-and taking that of Colline, who was tracing figures on the table cloth
-with his knife.
-
-"One," said Marcel, when Schaunard had gone. "Now let us tackle Colline,
-that will be a harder job. Ah! an idea. Hi, hi, Colline," he continued,
-shaking the philosopher.
-
-"What? what? what is it?"
-
-"Schaunard has just gone, and has taken your hazel overcoat by mistake."
-
-Colline glanced round again, and perceived indeed in the place of his
-garment, Schaunard's little plaid overcoat. A sudden idea flashed across
-his mind and filled him with uneasiness. Colline, according to his
-custom, had been book-hunting during the day, and had bought for fifteen
-sous a Finnish grammar and a little novel of Nisard's entitled "The
-Milkwoman's Funeral." These two acquisitions were accompanied by seven
-or eight volumes of philosophy that he had always about him as an
-arsenal whence to draw reasons in case of an argument. The idea of this
-library being in the hands of Schaunard threw him into a cold
-perspiration.
-
-"The wretch!" exclaimed Colline, "what did he take my greatcoat for?"
-
-"It was by mistake."
-
-"But my books. He may put them to some improper purpose."
-
-"Do not be afraid, he will not read them," said Rodolphe.
-
-"No, but I know him; he is capable of lighting his pipe with them."
-
-"If you are uneasy you can catch him up," said Rodolphe. "He has only
-just this moment gone out, you will overtake him at the street door."
-
-"Certainly I will overtake him," replied Colline, putting on his hat,
-the brim of which was so broad that tea for six people might have been
-served upon it.
-
-"Two," said Marcel to Rodolphe, "now you are free. I am off, and I will
-tell the porter not to open the outer door if anyone knocks."
-
-"Goodnight and thanks," said Rodolphe.
-
-As he was showing his friend out Rodolphe heard on the staircase a
-prolonged mew, to which his carroty cat replied by another, whilst
-trying at the same time to slip out adroitly by the half-opened door.
-
-"Poor Romeo!" said Rodolphe, "there is his Juliet calling him. Come, off
-with you," he added opening the door to the enamored beast, who made a
-single leap down the stairs into its lover's arms.
-
-Left alone with his mistress, who standing before the glass was curling
-her hair in a charmingly provocative attitude, Rodolphe approached Mimi
-and passed his arms around her. Then, like a musician, who before
-commencing a piece, strikes a series of notes to assure himself of the
-capacity of the instrument, Rodolphe drew Mimi onto his knee, and
-printed on her shoulder a long and sonorous kiss, which imparted a
-sudden vibration to the frame of the youthful beauty.
-
-The instrument was in tune.
-
-
-
-
-CHAPTER XIV
-
-MADEMOISELLE MIMI
-
-
-Oh! my friend Rodolphe, what has happened to change you thus? Am I to
-believe the rumors that are current, and that this misfortune has broken
-down to such a degree your robust philosophy? How can I, the historian
-in ordinary of your Bohemian epic, so full of joyous bursts of
-laughter, narrate in a sufficiently melancholy tone the painful
-adventure which casts a veil over your constant gaiety, and suddenly
-checks the ringing flow of your paradoxes?
-
-Oh! Rodolphe, my friend, I admit that the evil is serious, but there,
-really it is not worthwhile throwing oneself into the water about it. So
-I invite you to bury the past as soon as possible. Shun above all the
-solitude peopled with phantoms who would help to render your regrets
-eternal. Shun the silence where the echoes of recollection would still
-be full of your past joys and sorrows. Cast boldly to all the winds of
-forgetfulness the name you have so fondly cherished, and with it all
-that still remains to you of her who bore it. Curls pressed by lips mad
-with desire, a Venice flask in which there still lurks a remainder of
-perfume, which at this moment it would be more dangerous for you to
-breathe than all the poisons in the world. To the fire with the flowers,
-the flowers of gauze, silk and velvet, the white geraniums, the anemones
-empurpled by the blood of Adonis, the blue forget-me-nots and all those
-charming bouquets that she put together in the far off days of your
-brief happiness. Then I loved her too, your Mimi, and saw no danger in
-your loving her. But follow my advice--to the fire with the ribbons, the
-pretty pink, blue, and yellow ribbons which she wore round her neck to
-attract the eye; to the fire with the lace, the caps, the veils and all
-the coquettish trifles with which she bedecked herself to go
-love-making with Monsieur Cesar, Monsieur Jerome, Monsieur Charles, or
-any other gallant in the calendar, whilst you were awaiting her at your
-window, shivering from the wintry blast. To the fire, Rodolphe, and
-without pity, with all that belonged to her and could still speak to you
-of her; to the fire with the love letters. Ah! here is one of them, and
-your tears have bedewed it like a fountain. Oh! my unhappy friend!
-
-     "As you have not come in, I am going out to call on my aunt. I have
-      taken what money there was for a cab."
-
-     "Lucille."
-
-That evening, oh! Rodolphe, you had, do you not recollect, to go without
-your dinner, and you called on me and let off a volley of jests which
-fully attested your tranquillity of mind. For you believed Lucille was
-at her aunt's, and if I had not told you that she was with Monsieur
-Cesar or with an actor of the Montparnasse Theater, you would have cut
-my throat! To the fire, too, with this other note, which has all the
-laconic affection of the first.
-
-"I am gone out to order some boots, you must find the money for me to
-go and fetch them tomorrow."
-
-Ah! my friend, those boots have danced many quadrilles in which you did
-not figure as a partner. To the flames with all these remembrances and
-to the winds with their ashes.
-
-But in the first place, oh Rodolphe! for the love of humanity and the
-reputation of "The Scarf of Iris" and "The Beaver," resume the reins of
-good taste that you have egotistically dropped during your sufferings,
-or else horrible things may happen for which you will be responsible. We
-may go back to leg-of-mutton sleeves and frilled trousers, and some fine
-day see hats come into fashion which would afflict the universe and
-call down the wrath of heaven.
-
-And now the moment is come to relate the loves of our friend Rodolphe
-and Mimi. It was just as he was turned four and twenty that Rodolphe was
-suddenly smitten with the passion that had such an influence upon his
-life. At the time he met Mimi he was leading that broken and fantastic
-existence that we have tried to describe in the preceding chapters of
-this book. He was certainly one of the gayest endurers of poverty in the
-world of Bohemia. When in course of the day he had made a poor dinner
-and a smart remark, he walked more proudly in his black coat (pleading
-for help through every gaping seam) along the pavement that often
-promised to be his only resting place for the night, than an emperor in
-his purple robe. In the group amongst whom Rodolphe lived, they
-affected, after a fashion common enough amongst some young fellows, to
-treat love as a thing of luxury, a pretext for jesting. Gustave Colline,
-who had for a long time past been in intimate relations with a waistcoat
-maker, whom he was rendering deformed in mind and body by obliging her
-to sit day and night copying the manuscripts of his philosophical works,
-asserted that love was a kind of purgative, good to take at the
-beginning of each season in order to get rid of humors. Amidst all these
-false sceptics Rodolphe was the only one who dared to talk of love with
-some reverence, and when they had the misfortune to let him harp on
-this string, he would go on for an hour plaintively wurbling elegies on
-the happiness of being loved, the deep blue of the peaceful lake, the
-song of the breeze, the harmony of the stars, &c., &c. This mania had
-caused him to be nicknamed the harmonica by Schaunard. Marcel had also
-made on this subject a very neat remark when, alluding to the
-Teutonically sentimental tirades of Rodolphe and to his premature
-calvity, he called him the bald forget-me-not. The real truth was this.
-Rodolphe then seriously believed he had done with all things of youth
-and love; he insolently chanted a _De profundis_ over his heart, which
-he thought dead when it was only silent, yet still ready to awake, still
-accessible to joy, and more susceptible than ever to all the sweet pangs
-that he no longer hoped for, and that were now driving him to despair.
-You would have it, Rodolphe, and we shall not pity you, for the disease
-from which you are suffering is one of those we long for most, above all
-when we know that we are cured of it forever.
-
-Rodolphe then met Mimi, whom he had formerly known when she was the
-mistress of one of his friends; and he made her his own. There was at
-first a great outcry amongst Rodolphe's friends when they learned of
-this union, but as Mademoiselle Mimi was very taking, not at all
-prudish, and could stand tobacco smoke and literary conversations
-without a headache, they became accustomed to her and treated her as a
-comrade. Mimi was a charming girl, and especially adapted for both the
-plastic and poetical sympathies of Rodolphe. She was twenty two years of
-age, small, delicate, and arch. Her face seemed the first sketch of an
-aristocratic countenance, but her features, extremely fine in outline,
-and as it were, softly lit up by the light of her clear blue eyes, wore,
-at certain moments of weariness or ill-humor, an expression of almost
-savage brutality, in which a physiologist would perhaps have recognized
-the indication of profound egotism or great insensibility. But hers was
-usually a charming head, with a fresh and youthful smile and glances
-either tender or full of imperious coquetry. The blood of youth flowed
-warm and rapid in her veins, and imparted rosy tints to her transparent
-skin of camellia-like whiteness. This unhealthy beauty captivated
-Rodolphe, and he often during the night spent hours in covering with
-kisses the pale forehead of his slumbering mistress, whose humid and
-weary eyes shone half-closed beneath the curtain of her magnificent
-brown hair. But what contributed above all to make Rodolphe madly in
-love with Mademoiselle Mimi were her hands, which in spite of household
-cares, she managed to keep as white as those of the Goddess of Idleness.
-However, these hands so frail, so tiny, so soft to the lips; these
-child-like hands in which Rodolphe had placed his once more awakened
-heart; these white hands of Mademoiselle Mimi were soon to rend that
-heart with their rosy nails.
-
-At the end of a month Rodolphe began to perceive that he was wedded to
-a thunderstorm, and that his mistress had one great fault. She was a
-"gadabout," as they say, and spent a great part of her time amongst the
-kept women of the neighborhood, whose acquaintance she had made. The
-result that Rodolphe had feared, when he perceived the relations
-contracted by his mistress, soon took place. The variable opulence of
-some of her new friends caused a forest of ambitious ideas to spring up
-in the mind of Mademoiselle Mimi, who up until then had only had modest
-tastes, and was content with the necessaries of life that Rodolphe did
-his best to procure for her. Mimi began to dream of silks, velvets, and
-lace. And, despite Rodolphe's prohibition, she continued to frequent
-these women, who were all of one mind in persuading her to break off
-with the Bohemian who could not even give her a hundred and fifty francs
-to buy a stuff dress.
-
-"Pretty as you are," said her advisers, "you can easily secure a better
-position. You have only to look for it."
-
-And Mademoiselle Mimi began to look. A witness of her frequent absences,
-clumsily accounted for, Rodolphe entered upon the painful track of
-suspicion. But as soon as he felt himself on the trail of some proof of
-infidelity, he eagerly drew a bandage over his eyes in order to see
-nothing. However, a strange, jealous, fantastic, quarrelsome love which
-the girl did not understand, because she then only felt for Rodolphe
-that lukewarm attachment resulting from habit. Besides, half of her
-heart had already been expended over her first love, and the other half
-was still full of the remembrance of her first lover.
-
-Eight months passed by in this fashion, good and evil days alternating.
-During this period Rodolphe was a score of times on the point of
-separating from Mademoiselle Mimi, who had for him all the clumsy
-cruelties of the woman who does not love. Properly speaking, this life
-had become a hell for both. But Rodolphe had grown accustomed to these
-daily struggles, and dreaded nothing so much as a cessation of this
-state of things; for he felt that with it would cease forever the fever
-and agitations of youth that he had not felt for so long. And then, if
-everything must be told, there were hours in which Mademoiselle Mimi
-knew how to make Rodolphe forget all the suspicions that were tearing at
-his heart. There were moments when she caused him to bend like a child
-at her knee beneath the charm of her blue eyes--the poet to whom she had
-given back his lost poetry--the young man to whom she had restored his
-youth, and who, thanks to her, was once more beneath love's equator. Two
-or three times a month, amidst these stormy quarrels, Rodolphe and Mimi
-halted with one accord at the verdant oasis of a night of love, and for
-whole hours would give himself up to addressing her in that charming yet
-absurd language that passion improvises in its hour of delirium. Mimi
-listened calmly at first, rather astonished than moved, but, in the end,
-the enthusiastic eloquence of Rodolphe, by turns tender, lively, and
-melancholy, won on her by degrees. She felt the ice of indifference that
-numbed her heart melt at the contact of the love; she would throw
-herself on Rodolphe's breast, and tell him by kisses all that she was
-unable to tell him in words. And dawn surprised them thus enlaced
-together--eyes fixed on eyes, hands clasped in hands--whilst their moist
-and burning lips were still murmuring that immortal word "that for five
-thousand years has lingered nightly on lovers' lips."
-
-But the next day the most futile pretext brought about a quarrel, and
-love alarmed fled again for some time.
-
-In the end, however, Rodolphe perceived that if he did not take care the
-white hands of Mademoiselle Mimi would lead him to an abyss in which he
-would leave his future and his youth. For a moment stern reason spoke in
-him more strongly than love, and he convinced himself by strong
-arguments, backed up by proofs, that his mistress did not love him. He
-went so far as to say to himself, that the hours of love she granted him
-were nothing but a mere sensual caprice such as married women feel for
-their husbands when they long for a cashmere shawl or a new dress, or
-when their lover is away, in accordance with the proverb that half a
-loaf is better than no bread. In short, Rodolphe could forgive his
-mistress everything except not being loved. He therefore took a supreme
-resolution, and announced to Mademoiselle Mimi that she would have to
-look out for another lover. Mimi began to laugh and to utter bravados.
-In the end, seeing that Rodolphe was firm in his resolve, and greeted
-her with extreme calmness when she returned home after a day and a night
-spent out of the house, she began to grow a little uneasy in face of
-this firmness, to which she was not accustomed. She was then charming
-for two or three days. But her lover did not go back on what he had
-said, and contented himself with asking whether she had found anyone.
-
-"I have not even looked," she replied.
-
-However, she had looked, and even before Rodolphe had advised her to do
-so. In a fortnight she had made two essays. One of her friends had
-helped her, and had at first procured her the acquaintance of a very
-tender youth, who had unfolded before Mimi's eyes a horizon of Indian
-cashmeres and suites of furniture in rosewood. But in the opinion of
-Mimi herself this young schoolboy, who might be very good at algebra,
-was not very advanced in the art of love, and as she did not like
-undertaking education, she left her amorous novice on the lurch, with
-his cashmeres still browsing on the plains of Tibet, and his rosewood
-furniture still growing in the forests of the New World.
-
-The schoolboy was soon replaced by a Breton gentleman, with whom Mimi
-was soon rapidly smitten, and she had no need to pray long before
-becoming his nominal countess.
-
-Despite his mistress's protestations, Rodolphe had wind of some
-intrigue. He wanted to know exactly how matters stood, and one morning,
-after a night during which Mademoiselle Mimi had not returned, hastened
-to the place where he suspected her to be. There he was able to strike
-home at his heart with one of those proofs to which one must give
-credence in spite of oneself. He saw Mademoiselle Mimi, with two eyes
-encircled with an aureola of satisfied voluptuousness, leaving the
-residence in which she had acquired her title of nobility, on the arm of
-her new lord and master, who, to tell the truth, appeared far less proud
-of her new conquest than Paris after the rape of Helen.
-
-On seeing her lover appear, Mademoiselle Mimi seemed somewhat surprised.
-She came up to him, and for five minutes they talked very quietly
-together. They then parted, each on their separate way. Their separation
-was agreed upon.
-
-Rodolphe returned home, and spent the day in packing up all the things
-belonging to his mistress.
-
-During the day that followed his divorce, he received the visit of
-several friends, and announced to them what had happened. Every one
-congratulated him on this event as on a piece of great good fortune.
-
-"We will aid you, oh poet!" said one of those who had been the most
-frequent spectator of the annoyances Mademoiselle Mimi had made Rodolphe
-undergo, "we will help you to free your heart from the clutches of this
-evil creature. In a little while you will be cured, and quite ready to
-rove with another Mimi along the green lanes of Aulnay and
-Fontenay-aux-Roses."
-
-Rodolphe swore that he had forever done with regrets and despair. He
-even let himself be led away to the Bal Mabille, when his dilapidated
-get-up did scant honor to "The Scarf of Iris," his editorship of which
-procured him free admission to this garden of elegance and pleasure.
-There Rodolphe met some fresh friends, with whom he began to drink. He
-related to them his woes an unheard of luxury of imaginative style, and
-for an hour was perfectly dazzling with liveliness and go. "Alas!" said
-the painter Marcel, as he listened to the flood of irony pouring from
-his friend's lips, "Rodolphe is too lively, far too lively."
-
-"He is charming," replied a young woman to whom Rodolphe had just
-offered a bouquet, "and although he is very badly got up I would
-willingly compromise myself by dancing with him if he would invite me."
-
-Two seconds later Rodolphe, who had overheard her, was at her feet,
-enveloping his invitation in a speech, scented with all the musk and
-benjamin of a gallantry at eighty degrees Richelieu. The lady was
-confounded by the language sparkling with dazzling adjectives and
-phrases modelled on those in vogue during the Regency, and the
-invitation was accepted.
-
-Rodolphe was as ignorant of the elements of dancing as of the rule of
-three. But he was impelled by an extraordinary audacity. He did not
-hesitate, but improvised a dance unknown to all bygone choreography. It
-was a step the originality of which obtained an incredible success, and
-that has been celebrated under the title of "regrets and sighs." It was
-all very well for the three thousand jets of gas to blink at him,
-Rodolphe went on at it all the same, and continued to pour out a flood
-of novel madrigals to his partner.
-
-"Well," said Marcel, "this is incredible. Rodolphe reminds me of a
-drunken man rolling amongst broken glass."
-
-"At any rate he has got hold of a deuced fine woman," said another,
-seeing Rodolphe about to leave with his partner.
-
-"Won't you say good night?" cried Marcel after him.
-
-Rodolphe came back to the artist and held out his hand, it was cold and
-damp as a wet stone.
-
-Rodolphe's companion was a strapping Normandy wench, whose native
-rusticity had promptly acquired an aristocratic tinge amidst the
-elegancies of Parisian luxury and an idle life. She was styled Madame
-Seraphine, and was for the time being mistress of an incarnate
-rheumatism in the shape of a peer of France, who gave her fifty louis a
-month, which she shared with a counter-jumper who gave her nothing but
-hard knocks. Rodolphe had pleased her, she hoped that he would not think
-of giving her anything, and took him off home with her.
-
-"Lucille," said she to her waiting maid, "I am not at home to anyone."
-And passing into her bedroom, she came out ten minutes later, in a
-special costume. She found Rodolphe dumb and motionless, for since he
-had come in he had been plunged, despite himself, into a gloom full of
-silent sobs.
-
-"Why you no longer look at me or speak to me!" said the astonished
-Seraphine.
-
-"Come," said Rodolphe to himself, lifting his head. "Let us look at her,
-but only for the sake of art."
-
-"And then what a sight met his eyes," as Raoul says in "The Huguenots."
-
-Seraphine was admirable beautiful. Her splendid figure, cleverly set off
-by the cut of her solitary garment, showed itself provocatively through
-the half-transparent material. All the imperious fever of desire woke
-afresh in Rodolphe's veins. A warm mist mounted to his brain. He looked
-at Seraphine otherwise than from a purely aesthetic point of view and
-took the pretty girl's hands in his own. They were divine hands, and
-might have been wrought by the purest chisels of Grecian statuary.
-Rodolphe felt these admirable hands tremble in his own, and feeling less
-and less of an art critic, he drew towards him Seraphine, whose face was
-already tinged with that flush which is the aurora of voluptuousness.
-
-"This creature is a true instrument of pleasure, a real Stradivarius of
-love, and one on which I would willingly play a tune," thought Rodolphe,
-as he heard the fair creature's heart beating a hurried charge in a very
-distinct fashion.
-
-At that moment there was a violent ring at the door of the rooms.
-
-"Lucile, Lucile," cried Seraphine to the waiting maid, "do not let
-anyone in, say I am not home yet."
-
-At the name of Lucile uttered twice, Rodolphe rose.
-
-"I do not wish to incommode you in any way, madame," said he. "Besides,
-I must take my leave, it is late and I live a long way off. Good
-evening."
-
-"What! You are going?" exclaimed Seraphine, augmenting the fire of her
-glances. "Why, why should you go? I am free, you can stay."
-
-"Impossible," replied Rodolphe, "I am expecting one of my relatives who
-is coming from Terra del Fuego this evening, and he would disinherit me
-if he did not find me waiting to receive him. Good evening, madame."
-
-And he quitted the room hurriedly. The servant went to light him out.
-Rodolphe accidentally cast his eye on her. She was a delicate looking
-girl, with slow movements; her extremely pale face offered a charming
-contrast to her dark and naturally curling hair, whilst her blue eyes
-resembled two sickly stars.
-
-"Oh phantom!" exclaimed Rodolphe, shrinking from one who bore the name
-and the face of his mistress. "Away, what would you with me?" And he
-rushed down the stairs.
-
-"Why, madame," said the lady's maid, returning to her mistress's room.
-"The young fellow is mad."
-
-"Say rather that he is a fool," claimed the exasperated Seraphine. "Oh!"
-she continued, "this will teach me to show kindness. If only that brute
-of a Leon had the sense to drop in now!"
-
-Leon was the gentleman whose love carried a whip.
-
-Rodolphe ran home without waiting to take breath. Going upstairs he
-found his carroty-haired cat giving vent to piteous mewings. For two
-nights already it has thus been vainly summoning its faithless love, an
-agora Manon Lescaut, who had started on a campaign of gallantry on the
-house-tops adjacent.
-
-"Poor beast," said Rodolphe, "you have been deceived. Your Mimi has
-jilted you like mine has jilted me. Bah! Let us console ourselves. You
-see, my poor fellow, the hearts of women and she-cats are abysses that
-neither men nor toms will ever fathom."
-
-When he entered his room, although it was fearfully hot, Rodolphe seemed
-to feel a cloak of ice about his shoulders. It was the chill of
-solitude, that terrible nocturnal solitude that nothing disturbs. He lit
-his candle and then perceived the ravaged room. The gaping drawers in
-the furniture showed empty, and from floor to ceiling sadness filled the
-little room that seemed to Rodolphe vaster than a desert. Stepping
-forward he struck his foot against the parcels containing the things
-belonging to Mademoiselle Mimi, and he felt an impulse of joy to find
-that she had not yet come to fetch them as she had told him in the
-morning she would do. Rodolphe felt that, despite all his struggles, the
-moment of reaction was at hand, and readily divined that a cruel night
-was to expiate all the bitter mirth that he had dispensed in the course
-of the evening. However, he hoped that his body, worn out with fatigue,
-would sink to sleep before the reawakening of the sorrows so long pent
-back in his heart.
-
-As he approached the couch, and on drawing back the curtains saw the bed
-that had not been disturbed for two days, the pillows placed side by
-side, beneath one of which still peeped out the trimming of a woman's
-night cap, Rodolphe felt his heart gripped in the pitiless vice of that
-desolate grief that cannot burst forth. He fell at the foot of the bed,
-buried his face in his hands, and, after having cast a glance round the
-desolate room, exclaimed:
-
-"Oh! Little Mimi, joy of my home, is it really true that you are gone,
-that I have driven you away, and that I shall never see you again, my
-God. Oh! Pretty brown curly head that has slept so long on this spot,
-will you never come back to sleep here again? Oh! Little white hands
-with the blue veins, little white hands to whom I had affianced my lips,
-have you too received my last kiss?"
-
-And Rodolphe, in delirious intoxication, plunged his head amongst the
-pillows, still impregnated with the perfume of his love's hair. From the
-depth of the alcove he seemed to see emerge the ghosts of the sweet
-nights he had passed with his young mistress. He heard clear and
-sonorous, amidst the nocturnal silence, the open-hearted laugh of
-Mademoiselle Mimi, and he thought of the charming and contagious gaiety
-with which she had been able so many times to make him forget all the
-troubles and all the hardships of their hazardous existence.
-
-Throughout the night he kept passing in review the eight months that he
-had just spent with this girl, who had never loved him perhaps, but
-whose tender lies had restored to Rodolphe's heart its youth and
-virility.
-
-Dawn surprised him at the moment when, conquered by fatigue, he had just
-closed his eyes, red from the tears shed during the night. A doleful and
-terrible vigil, yet such a one as even the most sneering and sceptical
-amongst us may find in the depths of their past.
-
-When his friends called on him in the morning they were alarmed at the
-sight of Rodolphe, whose face bore the traces of all the anguish that
-had awaited him during his vigil in the Gethsemane of love.
-
-"Good!" said Marcel, "I was sure of it; it is his mirth of yesterday
-that has turned in his heart. Things must not go on like this."
-
-And in concert with two or three comrades he began a series of privately
-indiscreet revelations respecting Mademoiselle Mimi, every word of which
-pierced like a thorn in Rodolphe's heart. His friends "proved" to him
-that all the time his mistress had tricked him like a simpleton at home
-and abroad, and that this fair creature, pale as the angel of phthisis,
-was a casket filled with evil sentiments and ferocious instincts.
-
-One and another they thus took it in turns at the task they had set
-themselves, which was to bring Rodolphe to that point at which soured
-love turns to contempt; but this object was only half attained. The
-poet's despair turned to wrath. He threw himself in a rage upon the
-packages which he had done up the day before, and after having put on
-one side all the objects that his mistress had in her possession when
-she came to him, kept all those he had given her during their union,
-that is to say, by far the greater number, and, above all, the articles
-connected with the toilette to which Mademoiselle Mimi was attached by
-all the fibers of a coquetry that had of late become insatiable.
-
-Mademoiselle Mimi called in course of the next day to take away her
-things. Rodolphe was at home and alone. It needed all his powers of self
-esteem to keep him from throwing himself upon his mistress's neck. He
-gave her a reception full of silent insult, and Mademoiselle Mimi
-replied by those cold and keen scoffs that drive the weakest and most
-timid to show their teeth. In face of the contempt with which his
-mistress flagellated him with insolent hardihood, Rodolphe's anger broke
-out fearfully and brutally. For a moment Mimi, white with terror, asked
-herself whether she would escape from his hands alive. At the cries she
-uttered some neighbors rushed in and dragged her out of Rodolphe's room.
-
-Two days later a female friend of Mimi came to ask Rodolphe whether he
-would give up the things he had kept.
-
-"No," he replied.
-
-And he got his mistress's messenger to talk about her. She informed him
-that Mimi was in a very unfortunate condition, and that she would soon
-find herself without a lodging.
-
-"And the lover of whom she is so fond?"
-
-"Oh!" replied Amelie, the friend in question, "the young fellow has no
-intention of taking her for his mistress. He has been keeping another
-for a long time past, and he does not seem to trouble much about Mimi,
-who is living at my expense, which causes me a great deal of
-embarrassment."
-
-"Let her do as she can," said Rodolphe. "She would have it,--it is no
-affair of mine."
-
-And he began to sing madrigals to Mademoiselle Amelie, and persuaded her
-that she was the prettiest woman in the world.
-
-Amelie informed Mimi of her interview with Rodolphe.
-
-"What did he say? What is he doing? Did he speak to you about me?" asked
-Mimi.
-
-"Not at all; you are already forgotten, my dear. Rodolphe has a fresh
-mistress, and he has bought her a superb outfit, for he has received a
-great deal of money, and is himself dressed like a prince. He is a very
-amiable fellow, and said a lot of nice things to me."
-
-"I know what all that means," thought Mimi.
-
-Every day Mademoiselle Amelie called to see Rodolphe on some pretext or
-other, and however much the latter tried he could not help speaking of
-Mimi to her.
-
-"She is very lively," replied her friend, "and does not seem to trouble
-herself about her position. Besides she declares that she will come back
-to you whenever she chooses, without making any advances and merely for
-the sake of vexing your friends."
-
-"Very good," said Rodolphe, "let her come and we shall see."
-
-And he began to pay court to Amelie, who went off to tell everything to
-Mimi, and to assure her that Rodolphe was very much in love with
-herself.
-
-"He kissed me again on the hand and the neck; see it is quite red," said
-she. "He wants to take me to a dance tomorrow."
-
-"My dear friend," said Mimi, rather vexed, "I see what you are driving
-at, to make me believe that Rodolphe is in love with you and thinks no
-more about me. But you are wasting your time both for him and me."
-
-The fact was that Rodolphe only showed himself amiable towards Amelie
-to get her to call on him the oftener, and to have the opportunity of
-speaking to her about his mistress. But with a Machiavelism that had
-perhaps its object, and whilst perceiving very well that Rodolphe still
-loved Mimi, and that the latter was not indisposed to rejoin him, Amelie
-strove, by ingeniously inventive reports, to fend off everything that
-might serve to draw the pair together again.
-
-The day on which she was to go to the ball Amelie called in the morning
-to ask Rodolphe whether the engagement still held good.
-
-"Yes," he replied, "I do not want to miss the opportunity of being the
-cavalier of the most beautiful woman of the day."
-
-Amelie assumed the coquettish air that she had put on the occasion of
-her solitary appearance at a suburban theater as fourth chambermaid, and
-promised to be ready that evening.
-
-"By the way," said Rodolphe, "tell Mademoiselle Mimi that if she will be
-guilty of an infidelity to her lover in my favor, and come and pass a
-night with me, I will give her up all her things."
-
-Amelie executed Rodolphe's commission, and gave to his words quite
-another meaning than that which she had guessed they bore.
-
-"Your Rodolphe is a rather base fellow," said she to Mimi. "His proposal
-is infamous. He wishes by this step to make you descend to the rank of
-the vilest creatures, and if you go to him not only will he not give you
-your things, but he will show you up as a jest to all his comrades. It
-is a plot arranged amongst them."
-
-"I will not go," said Mimi, and as she saw Amelie engaged in preparing
-her toilette, she asked her whether she was going to the ball.
-
-"Yes," replied the other.
-
-"With Rodolphe?"
-
-"Yes, he is to wait for me this evening twenty yards or so from here."
-
-"I wish you joy," said Mimi, and seeing the hour of the appointment
-approach, she hurried off to Mademoiselle Amelie's lover, and informed
-him that the latter was engaged in a little scheme to deceive him with
-her own old lover.
-
-The gentleman, jealous as a tiger and brutal to boot, called at once on
-Mademoiselle Amelie, and announced that he would like her to spend the
-evening in his company.
-
-At eight o'clock Mimi flew to the spot at which Rodolphe was to meet
-Amelie. She saw her lover pacing up and down after the fashion of a man
-waiting for some one, and twice passed close to him without daring to
-address him. Rodolphe was very well dressed that evening, and the
-violent crises through which he had passed during the week had imparted
-great character on his face. Mimi was singularly moved. At length she
-made up her mind to speak to him. Rodolphe received her without anger,
-and asked how she was, after which he inquired as to the motive that had
-brought her to him, in mild voice, in which there was an effort to
-check a note of sadness.
-
-"It is bad news that I come to bring you. Mademoiselle Amelie cannot
-come to the ball with you. Her lover is keeping her."
-
-"I shall go to the ball alone, then."
-
-Here Mademoiselle Mimi feigned to stumble, and leaned against Rodolphe's
-shoulder. He took her arm and proposed to escort her home.
-
-"No," said Mimi. "I am living with Amelie, and as her lover is there I
-cannot go in until he has left."
-
-"Listen to me, then," said the poet. "I made a proposal to you today
-through Mademoiselle Amelie. Did she transmit it to you?"
-
-"Yes," said Mimi, "but in terms which, even after what has happened, I
-could not credit. No, Rodolphe, I could not believe that, despite all
-that you might have to reproach me with, you thought me so worthless as
-to accept such a bargain."
-
-"You did not understand me, or the message has been badly conveyed to
-you. My offer holds good," said Rodolphe. "It is nine o'clock. You still
-have three hours for reflection. The door will be unlocked until
-midnight. Good night. Farewell, or--till we meet again."
-
-"Farewell, then," said Mimi, in trembling tones.
-
-And they separated. Rodolphe went home and threw himself, without
-undressing, upon his bed. At half past eleven, Mademoiselle Mimi entered
-his room.
-
-"I have come to ask your hospitality," said she. "Amelie's lover has
-stayed with her, and I cannot get in."
-
-They talked together until three in the morning--an explanatory
-conversation which grew gradually more familiar.
-
-At four o'clock their candle went out. Rodolphe wanted to light another.
-
-"No," said Mimi, "it is not worth the trouble. It is quite time to go to
-bed."
-
-Five minutes later her pretty brown curly head had once more resumed its
-place on the pillow, and in a voice full of affection she invited
-Rodolphe's lips to feast on her little white hand with their blue veins,
-the pearly pallor of which vied with the whiteness of the sheets.
-Rodolphe did not light the candle.
-
-In the morning Rodolphe got up first, and pointing out several packages
-to Mimi, said to her, very gently, "There is what belongs to you. You
-can take it away. I keep my word."
-
-"Oh!" said Mimi. "I am very tired, you see, and I cannot carry all these
-heavy parcels away at once. I would rather call again."
-
-And when she was dressed she only took a collar and a pair of cuffs.
-
-"I will take away the rest by degrees," she added, smiling.
-
-"Come," said Rodolphe, "take away all or take away none, and let there
-be an end of it."
-
-"Let it, on the contrary, begin again, and, above all, let it last,"
-said Mimi, kissing Rodolphe.
-
-After breakfasting together they started off for a day in the country.
-Crossing the Luxembourg gardens Rodolphe met a great poet who had always
-received him with charming kindness. Out of respect for the
-conventionalities Rodolphe was about to pretend not to see him but the
-poet did not give him time, and passing by him greeted him with a
-friendly gesture and his companion with a smile.
-
-"Who is that gentleman?" asked Mimi.
-
-Rodolphe answered her by mentioning a name which made her blush with
-pleasure and pride.
-
-"Oh!" said Rodolphe. "Our meeting with the poet who has sung of love so
-well is a good omen, and will bring luck to our reconciliation."
-
-"I do love you," said Mimi, squeezing his hand, although they were in
-the midst of the crowd.
-
-"Alas!" thought Rodolphe. "Which is better; to allow oneself always to
-be deceived through believing, or never to believe for fear of always
-being deceived?"
-
-
-
-
-CHAPTER XV
-
-Donec Gratus
-
-
-We have told how the painter Marcel made the acquaintance of
-Mademoiselle Musette. United one morning by the ministry of caprice, the
-registrar of the district, they had fancied, as often happens, that
-their union did not extend to their hearts. But one evening when, after
-a violent quarrel, they resolved to leave one another on the spot, they
-perceived that their hands, which they had joined in a farewell clasp,
-would no longer quit one another. Almost in spite of themselves fancy
-had become love. Both, half laughingly, acknowledged it.
-
-"This is very serious. What has happened to us?" said Marcel. "What the
-deuce have we been up to?"
-
-"Oh!" replied Musette. "We must have been clumsy over it. We did not
-take enough precautions."
-
-"What is the matter?" asked Rodolphe, who had become Marcel's neighbor,
-entering the room.
-
-"The matter is," replied Marcel, "that this lady and myself have just
-made a pretty discovery. We are in love with one another. We must have
-been attacked by the complaint whilst asleep."
-
-"Oh oh! I don't think that it was whilst you were asleep," observed
-Rodolphe. "But what proves that you are in love with one another?
-Possibly you exaggerate the danger."
-
-"We cannot bear one another," said Marcel.
-
-"And we cannot leave one another," added Musette.
-
-"There, my children, your business is plain. Each has tried to play
-cunning, and both have lost. It is the story of Mimi and myself. We
-shall soon have run through two almanacs quarrelling day and night. It
-is by that system that marriages are rendered eternal. Wed a 'yes' to a
-'no,' and you obtain the union of Philemon and Baucis. Your domestic
-interior will soon match mine, and if Schaunard and Phemie come and live
-in the house, as they have threatened, our trio of establishments will
-render it a very pleasant place of residence."
-
-At that moment Gustave Colline came in. He was informed of the accident
-that had befallen Musette and Marcel.
-
-"Well, philosopher," said the latter, "what do you think of this?"
-
-Colline rubbed the hat that served him for a roof, and murmured, "I felt
-sure of it beforehand. Love is a game of chance. He who plays at bowls
-may expect rubbers. It is not good for man to live alone."
-
-That evening, on returning home, Rodolphe said to Mimi--
-
-"There is something new. Musette dotes on Marcel, and will not leave
-him."
-
-"Poor girl!" replied Mimi. "She who has such a good appetite, too."
-
-"And on his side, Marcel is hard and fast in love with Musette."
-
-"Poor fellow!" said Mimi. "He who is so jealous."
-
-"That is true," observed Rodolphe. "He and I are pupils of Othello."
-
-Shortly afterwards the households of Rodolphe and Marcel were reinforced
-by the household of Schaunard, the musician, moving into the house with
-Phemie Teinturiere.
-
-From that day all the other inhabitants slept upon a volcano, and at
-quarter day sent in a unanimous notice of their intention to move to the
-landlord.
-
-Indeed, hardly a day passed without a storm breaking out in one of these
-households. Now it was Mimi and Rodolphe who, no longer having strength
-to speak, continued their conversation with the aid of such missiles as
-came under their hands. But more frequently it was Schaunard addressing
-a few observations to the melancholy Phemie with the end of a walking
-stick. As to Marcel and Musette, their arguments were carried on in
-private sittings; they took at least the precaution to close their
-doors and windows.
-
-If by chance peace reigned in the three households, the other lodgers
-were not the less victims of this temporary concord. The indiscretion of
-partition walls allowed all the secrets of Bohemian family life to
-transpire, and initiated them, in spite of themselves, into all its
-mysteries. Thus more than one neighbor preferred the _casus belli_ to
-the ratification of treaties of peace.
-
-It was, in truth, a singular life that was led for six months. The most
-loyal fraternity was practiced without any fuss in this circle, in
-which everything was for all, and good or evil fortune shared.
-
-There were in the month certain days of splendor, when no one would have
-gone out without gloves--days of enjoyment, when dinner lasted all day
-long. There were others when one would have almost gone to Court without
-boots; Lenten days, when, after going without breakfast in common, they
-failed to dine together, or managed by economic combination to furnish
-forth one of those repasts at which plates and knives were "resting," as
-Mademoiselle Mimi put it, in theatrical parlance.
-
-But the wonderful thing is that this partnership, in which there were
-three young and pretty women, no shadow of discord was found amongst
-the men. They often yielded to the most futile fancies of their
-mistresses, but not one of them would have hesitated for a moment
-between the mistress and the friend.
-
-Love is born above all from spontaneity--it is an improvisation.
-Friendship, on the contrary, is, so to say, built up. It is a sentiment
-that progresses with circumspection. It is the egoism of the mind,
-whilst love is the egoism of the heart.
-
-The Bohemians had known one another for six years. This long period of
-time spent in a daily intimacy had, without altering the well-defined
-individuality of each, brought about between them a concord of ideas--a
-unity which they would not have found elsewhere. They had manners that
-were their own, a tongue amongst themselves to which strangers would not
-have been able to find the key. Those who did not know them very well
-called their freedom of manner cynicism. It was however, only frankness.
-With minds impatient of imposed control, they all hated what was false,
-and despised what was low. Accused of exaggerated vanity, they replied
-by proudly unfurling the program of their ambition, and, conscious of
-their worth, held no false estimate of themselves.
-
-During the number of years that they had followed the same life
-together, though often placed in rivalry by the necessities of their
-profession, they had never let go one another's hands, and had passed
-without heeding them over personal questions of self-esteem whenever an
-attempt had been made to raise these between them in order to disunite
-them. Besides, they each esteemed one another at their right worth, and
-pride, which is the counter poison of envy, preserved them from all
-petty professional jealousy.
-
-However, after six months of life in common, an epidemic of divorce
-suddenly seized on the various households.
-
-Schaunard opened the ball. One day he perceived that Phemie Teinturiere
-had one knee better shaped than the other, and as his was an austere
-purism as regards plastics, he sent Phemie about her business, giving
-her as a souvenir the cane with which he had addressed such frequent
-remarks to her. Then he went back to live with a relative who offered
-him free quarters.
-
-A fortnight later Mimi left Rodolphe to step into the carriage of the
-young Vicomte Paul, the ex-pupil of Carolus Barbemuche, who had promised
-her dresses to her heart's desire.
-
-After Mimi it was Musette who went off, and returned with a grand
-flourish of trumpets amongst the aristocracy of the world of gallantry
-which she had left to follow Marcel.
-
-This separation took place without quarrel, shock or premeditation. Born
-of a fancy that had become love, this union was broken off by another
-fancy.
-
-One evening during the carnival, at the masked ball at the Opera,
-whither she had gone with Marcel, Mimi, Musette had for her _vis-a-vis_
-in a quadrille a young man who had formerly courted her. They recognized
-one another, and, whilst dancing exchanged a few words.
-Unintentionally, perhaps, whilst informing the young man of her present
-condition in life, she may have dropped a word of regret as to her past
-one. At any rate, at the end of the quadrille Musette made a mistake,
-and instead of giving her hand to Marcel, who was her partner, give it
-to her _vis-a-vis_, who led her off, and disappeared with her in the
-crowd.
-
-Marcel looked for her, feeling somewhat uneasy. In an hour's time he
-found her on the young man's arm; she was coming out of the Cafe de
-l'Opera, humming a tune. On catching sight of Marcel, who had stationed
-himself in a corner with folded arms, she made him a sign of farewell,
-saying--"I shall be back."
-
-"That is to say, 'Do not expect me,'" translated Marcel.
-
-He was jealous but logical, and knew Musette, hence he did not wait for
-her, but went home with a full heart and an empty stomach. He looked
-into the cupboard to see whether there were not a few scraps to eat, and
-perceived a bit of stale bread as hard as granite and a skeleton-like
-red herring.
-
-"I cannot fight against truffles," he thought. "At any rate, Musette
-will have some supper."
-
-And after passing his handkerchief over his eyes under pretext of wiping
-his nose, he went to bed.
-
-Two days later Musette woke up in a boudoir with rose-covered hangings.
-A blue brougham was at her door, and all the fairies of fashion had been
-summoned to lay their wonders at her feet. Musette was charming, and her
-youth seemed yet further rejuvenated in this elegant setting. Then she
-began her old life again, was present at every festivity, and
-re-conquered her celebrity. She was spoken of everywhere--in the lobbies
-of the Bourse, and even at the parliamentary refreshment bars. As to her
-new lover, Monsieur Alexis, he was a charming young fellow. He often
-complained to Musette of her being somewhat frivolous and inattentive
-when he spoke to her of his love. Then Musette would look at him
-laughingly, and say--
-
-"What would you have, my dear fellow? I stayed six months with a man who
-fed me on salad and soup without butter, who dressed me in a cotton
-gown, and usually took me to the Odeon because he was not well off. As
-love costs nothing, and as I was wildly in love with this monster, we
-expended a great deal of it together. I have scarcely anything but its
-crumbs left. Pick them up, I do no hinder you. Besides, I have not
-deceived you about it; if ribbons were not so dear I should still be
-with my painter. As to my heart, since I have worn an eighty franc
-corset I do not hear it, and I am very much afraid that I have left it
-in one of Marcel's drawers."
-
-The disappearance of the three Bohemian households was the occasion of a
-festival in the house they had inhabited. As a token of rejoicing the
-landlord gave a grand dinner, and the lodgers lit up their windows.
-
-Rodolphe and Marcel went to live together. Each had taken a new idol
-whose name they were not exactly acquainted with. Sometimes it happened
-that one spoke of Musette and the other of Mimi, and then they had a
-whole evening of it. They recalled to one another their old life, the
-songs of Musette and the songs of Mimi, nights passed without sleep,
-idle mornings, and dinners only partaken of in dreams. One by one they
-hummed over in these recolletive ducts all the bygone hours, and they
-usually wound up by saying that after all they were still happy to find
-themselves together, their feet on the fender, stirring the December
-log, smoking their pipes, and having as a pretext for open conversation
-between them that which they whispered to themselves when alone--that
-they had dearly loved these beings who had vanished, bearing away with
-them a part of their youth, and that perhaps they loved them still.
-
-One evening when passing along the Boulevard, Marcel perceived a few
-paces ahead of him a young lady who, in alighting from a cab, exposed
-the lower part of a white stocking of admirable shape. The very driver
-himself devoured with his eyes this charming gratification in excess of
-his fare.
-
-"By Jove," said Marcel. "That is a neat leg, I should like to offer it
-my arm. Come, now, how shall I manage to accord it? Ha! I have it--it is
-a fairly novel plan. Excuse me, madame," continued he, approaching the
-fair unknown, whose face at the outset he could not at first get a full
-view of, "but you have not by chance found my handkerchief?"
-
-"Yes, sir," replied the young lady, "here it is." And she placed in
-Marcel's hand a handkerchief she had been holding in her own.
-
-The artist rolled into an abyss of astonishment.
-
-But all at once a burst of laughter full in his face recalled him to
-himself. By this joyous outbreak he recognized his old love.
-
-It was Mademoiselle Musette.
-
-"Ah!" she exclaimed. "Monsieur Marcel in quest of gallant adventures.
-What do you think of this one, eh? It does not lack fun."
-
-"I think it endurable," replied Marcel.
-
-"Where are you going so late in this region?" asked Musette.
-
-"I am going into that edifice," said the artist, pointing to a little
-theater where he was on the free list.
-
-"For the sake of art?"
-
-"No, for the sake of Laura."
-
-"Who is Laura?" continued Musette, whose eyes shot forth notes of
-interrogation.
-
-Marcel kept up the tone.
-
-"She is a chimera whom I am pursuing, and who plays here."
-
-And he pretended to pull out an imaginary shirt frill.
-
-"You are very witty this evening," said Musette.
-
-"And you very curious," observed Marcel.
-
-"Do no speak so loud, everyone can hear us, and they will take us for
-two lovers quarrelling."
-
-"It would not be the first time that that happened," said Marcel.
-
-Musette read a challenge in this sentence, and quickly replied, "And it
-will not perhaps be the last, eh?"
-
-Her words were plain, they whizzed past Marcel's ear like a bullet.
-
-"Splendors of heaven," said he, looking up at the stars, "you are
-witness that it is not I who opened fire. Quick, my armor."
-
-From that moment the firing began.
-
-It was now only a question of finding some appropriate pretext to bring
-about an agreement between these two fancies that had just woke up again
-so lively.
-
-As they walked along, Musette kept looking at Marcel, and Marcel kept
-looking at Musette. They did not speak, but their eyes, those
-plenipotentiaries of the heart, often met. After a quarter of an hour's
-diplomacy this congress of glances had tacitly settled the matter. There
-was nothing to be done save to ratify it.
-
-The interrupted conversation was renewed.
-
-"Candidly now," said Musette to Marcel, "where were you going just now?"
-
-"I told you, to see Laura."
-
-"Is she pretty?"
-
-"Her mouth is a nest of smiles."
-
-"Oh! I know all that sort of thing."
-
-"But you yourself," said Marcel, "whence came you on the wings of this
-four-wheeler?"
-
-"I came back from the railway station where I had been to see off
-Alexis, who is going on a visit to his family."
-
-"What sort of man is Alexis?"
-
-In turn Musette sketched a charming portrait of her present lover.
-Whilst walking along Marcel and Musette continued thus on the open
-Boulevard the comedy of reawakening love. With the same simplicity, in
-turn tender and jesting, they went verse by verse through that immortal
-ode in which Horace and Lydia extol with such grace the charms of their
-new loves, and end by adding a postscript to their old ones. As they
-reached the corner of the street a rather strong picket of soldiers
-suddenly issued from it.
-
-Musette struck an attitude of alarm, and clutching hold of Marcel's arm
-said, "Ah! Good heavens! Look there, soldiers; there is going to be
-another revolution. Let us bolt off, I am awfully afraid. See me
-indoors."
-
-"But where shall we go?" asked Marcel.
-
-"To my place," said Musette. "You shall see how nice it is. I invite you
-to supper. We will talk politics."
-
-"No," replied Marcel, who thought of Monsieur Alexis. "I will not go to
-your place, despite your offer of a supper. I do not like to drink my
-wine out of another's glass."
-
-Musette was silent in face of this refusal. Then through the mist of her
-recollections she saw the poor home of the artist, for Marcel had not
-become a millionaire. She had an idea, and profiting by meeting another
-picket she manifested fresh alarm.
-
-"They are going to fight," she exclaimed. "I shall never dare go home.
-Marcel, my dear fellow, take me to one of my lady friends, who must be
-living in your neighborhood."
-
-As they were crossing the Pont Neuf Musette broke into a laugh.
-
-"What is it?" asked Marcel.
-
-"Nothing," replied Musette, "only I remember that my friend has moved.
-She is living at Batignolles."
-
-On seeing Marcel and Musette arrive arm in arm Rodolphe was not
-astonished.
-
-"It is always so," said he, "with these badly buried loves."
-
-
-
-
-CHAPTER XVI
-
-The Passage of the Red Sea
-
-
-For five or six years Marcel had worked at the famous painting which (he
-said) represented the Passage of the Red Sea; and for five or six years,
-this masterpiece of color had been obstinately refused by the jury. In
-fact, by dint of going and returning so many times from the artist's
-study to the Exhibition, and from the Exhibition to the study, the
-picture knew the road to the Louvre well enough to have gone thither of
-itself, if it had been put on wheels. Marcel, who had repainted the
-canvas ten times over, from top to bottom, attributed to personal
-hostility on the part of the jury the ostracism which annually repulsed
-him from the large saloon; nevertheless he was not totally discouraged
-by the obstinate rejection which greeted him at every Exhibition. He was
-comfortably established in the persuasion that his picture was, on a
-somewhat smaller scale, the pendant required by "The Marriage of Cana,"
-that gigantic masterpiece whose astonishing brilliancy the dust of three
-centuries has not been able to tarnish. Accordingly, every year at the
-epoch of the Exhibition, Marcel sent his great work to the jury of
-examiners; only, to deceive them, he would change some details of his
-picture, and the title of it, without disturbing the general
-composition.
-
-Thus, it came before the jury once, under the name of "The Passage of
-the Rubicon," but Pharaoh, badly disguised under the mantle of Caeser,
-was recognized and rejected with all the honors due him. Next year,
-Marcel threw a coat of white over the foreground, to imitate snow,
-planted a fir tree in one corner, and dressing an Egyptian like a
-grenadier of the Imperial Guard, christened his picture, "The Passage
-of the Beresina."
-
-But the jury had wiped its glasses that day, and were not to be duped by
-this new stratagem. It recognized the pertinacious picture by a
-thundering big pie-bald horse that was prancing on top of a wave of the
-Red Sea. The skin of this horse served Marcel for all his experiments in
-coloring; he used to call it, familiarly, his "synoptic table of fine
-tones," because it reproduced the most varied combinations of color,
-with the different plays of light and shade. Once again, however, the
-jury could not find black balls enough to refuse "The Passage of
-Beresina."
-
-"Very well," said Marcel, "I thought so! Next year, I shall send it
-under the title of 'The Passage of the Panoramas.'"
-
-    "They're going to be jolly caught--caught!"
-
-sang Schaunard to a new air of his own composition; a terrible air, like
-a gamut of thunder-claps, the accompaniment whereof was a terror to all
-pianos within hearing.
-
-"How can they refuse it, without all the vermilion of my Red Sea
-mounting to their cheeks, and covering them with the blush of shame?"
-ejaculated the artist, as he gazed on his picture. "When I think that
-there is five hundred francs' worth of color there, and at least a
-million of genius, without counting my lovely youth, now as bald as my
-old hat! But they shan't get the better of me! Till my dying day, I will
-send them my picture. It shall be engraved on their memories."
-
-"The surest way of ever having it engraved," said Colline, in a
-plaintive tone, and then added to himself, "very neat, that; I shall
-repeat it in society!"
-
-Marcel continued his imprecations, which Schaunard continued to put to
-music.
-
-"Ah they won't admit me! The government pays them, lodges them, and
-gives them decorations, on purpose to refuse me once a year; every first
-of March! I see their idea! I see it clearly! They want to make me burn
-my brushes. They hope that when my Red Sea is refused, I will throw
-myself out of the window of despair. But they little know the heart of
-man, if they think to take me thus. I will not wait for the opening of
-the Exhibition. From today, my work shall be a picture of Damocles,
-eternally suspended over their existence. I will send it once a week to
-each of them, at his home in the bosom of his family; in the very heart
-of his private life. It shall trouble their domestic joys; they shall
-find their roasts burnt, their wines sour, and their wives bitter! They
-will grow mad rapidly, and go to the Institute in strait-waistcoats. Ha!
-Ha! The thought consoles me."
-
-Some days later, when Marcel had already forgotten his terrible plans of
-vengeance against his persecutors, he received a visit from Father
-Medicis. So the club called a Jew, named Salomon, who at that time was
-well known to all the vagabond of art and literature, and had continual
-transactions with them. Father Medicis traded in all sorts of trumpery.
-He sold complete sets of furniture from twelve francs up to five
-thousand; he bought everything, and knew how to dispose of it again, at
-a profit. Proudhon's bank of exchange was nothing in comparison with the
-system practiced by Medicis, who possessed the genius of traffic to a
-degree at which the ablest of his religion had never before arrived. His
-shop was a fairy region where you found anything you wished for. Every
-product of nature, every creation of art; whatever issued from the
-bowels of the earth or the head of man, was an object of commerce for
-him. His business included everything; literally everything that exists;
-he even trafficked in the ideal. He bought ideas to sell or speculate in
-them. Known to all literary men and all artists, intimate with the
-palette and familiar with the desk, he was the very Asmodeus of the
-arts. He would sell you cigars for a column of your newspaper, slippers
-for a sonnet, fresh fish for paradoxes; he would talk, for so much an
-hour, with the people who furnished fashionable gossip to the journals.
-He would procure you places for the debates in the Chambers, and
-invitations to parties. He lodged wandering artistlings by the day,
-week, or month, taking for pay, copies of the pictures in the Louvre.
-The green room had no mysteries for him. He would get your pieces into
-the theater, or yourself into the boudoir of an actress. He had a copy
-of the "Almanac of Twenty Five Thousand Addresses" in his head, and knew
-the names, residences, and secrets of all celebrities, even those who
-were not celebrated.
-
-A few pages copied from his waste book, will give a better idea of the
-universality of his operations than the most copious explanation could.
-
-                      "March 20, 184--."
-
-"Sold to M. L----, antiquary, the compass which Archimedes used at the
-siege of Syracuse. 75 fr.
-
-Bought of M. V----, journalist, the entire works, uncut, of M. X----,
-Member of the Academy. 10 fr.
-
-Sold to the same, a criticism of the complete works of M. X----, of the
-Academy. 30 fr.
-
-Bought of M. R----, literary man, a critical article on the complete
-works of M. Y----, of the Academy. 10 fr., plus half a cwt. of charcoal
-and 4 lbs. of coffee.
-
-Sold to M. Y----, of the Academy, a laudatory review (twelve columns) of
-his complete works. 250 fr.
-
-Sold to M. G----, a porcelain vase which had belonged to Madame Dubarry.
-18 fr.
-
-Bought of little D----, her hair. 15 fr.
-
-Bought of M. B----, a lot of articles on Society, and the last three
-mistakes in spelling made by the Prefect of the Seine. 6 fr, plus a pair
-of Naples shoes.
-
-Sold to Mdlle. O----, a flaxen head of hair. 120 fr.
-
-Bought of M. M----, historical painter, a series of humorous designs. 25
-fr.
-
-Informed M. Ferdinand the time when Mme. la Baronne de T---- goes to
-mass, and let him for the day the little room in the Faubourg
-Montmartre: together 30 fr.
-
-Bought of M. J----, artist, a portrait of M. Isidore as Apollo. 6 fr.
-
-Sold to Mdlle R---- a pair of lobsters and six pair of gloves. 36 fr.
-Received 3 fr.
-
-For the same, procured a credit of six months with Mme. Z----,
-dressmaker. (Price not settled.)
-
-Procured for Mme. Z----, dressmaker, the custom of Mdlle. R----.
-Received for this three yards of velvet, and three yards of lace.
-
-Bought of M. R----, literary man, a claim of 120 fr. against
-the----newspaper. 5 fr., plus 2 lbs. of tobacco.
-
-Sold M. Ferdinand two love letters. 12 fr.
-
-Sold M. Isidore his portrait as Apollo. 30 fr.
-
-Bought of M. M----, a cwt. and a half of his work, entitled 'Submarine
-Revolutions.' 15 fr.
-
-Lent Mme la Comtesse de G---- a service of Dresden china. 20 fr.
-
-Bought of M. G----, journalist, fifty-two lines in his article of town
-talk. 100 fr., plus a set of chimney ornaments.
-
-Sold to Messrs. O---- and Co., fifty-two lines in the town talk of
-the----. 300 fr., plus two sets of chimney ornaments.
-
-Let to Mdlle. S. G---- a bed and a brougham for the day (nothing). See
-Mdlle. S. G----'s account in private ledger, folios 26 and 27.
-
-Bought of M. Gustave C--- a treatise on the flax and linen trade. 50
-fr., and a rare edition of Josephus.
-
-Sold Mdlle. S. G---- a complete set of new furniture. 5000 fr.
-
-For the same, paid an apothecary's bill. 75 fr.
-
-For the same, paid a milkman's bill. 3 fr. 85 c."
-
-Those quotations show what an extensive range the operations of the Jew
-Medici covered. It may be added, that although some articles of his
-commerce were decidedly illicit, he had never got himself into any
-trouble.
-
-The Jew comprehended, on his entrance, that he had come at a favorable
-time. In fact, the four friends were at that moment in council, under
-the auspices of a ferocious appetite, discussing the grave question of
-meat and drink. It was a Sunday at the end of the month--sinister day.
-
-The arrival of Medicis was therefore hailed by a joyous chorus, for they
-knew that he was too saving of his time to spend it in visits of polite
-ceremony; his presence announced business.
-
-"Good evening, gentlemen!" said the Jew. "How are you all?"
-
-"Colline!" said Rodolphe, who was studying the horizontal line at full
-length on his bed. "Do the hospitable. Give our guest a chair; a guest
-is sacred. I salute Abraham in you," added he.
-
-Colline took an arm chair about as soft as iron, and shoved it towards
-the Jew, saying:
-
-"Suppose, for once, you were Cinna, (you _are_ a great sinner, you
-know), and take this seat."
-
-"Oh, oh, oh!" shouted the others, looking at the floor to see if it
-would not open and swallow up the philosopher. Meanwhile the Jew let
-himself fall into the arm chair, and was just going to cry out at its
-hardness, when he remembered that it was one which he himself had sold
-to Colline for a deputy's speech. As the Jew sat down, his pockets
-re-echoed with a silvery sound; melodious symphony, which threw the four
-friends into a reverie of delight.
-
-"The accompaniment seems pretty," said Rodolphe aside to Marcel. "Now
-for the air!"
-
-"Monsieur Marcel," said Medicis, "I have merely come to make your
-fortune; that is to say, I offer you a superb opportunity of making your
-entry into the artistic world. Art, you know, is a barren route, of
-which glory is the oasis."
-
-"Father Medicis," cried Marcel, on the tenter-hooks of impatience, "in
-the name of your revered patron, St. Fifty-percent, be brief!"
-
-"Here it is," continued Medicis, "a rich amateur, who is collecting a
-gallery destined to make the tour of Europe, has charged me to procure
-him a series of remarkable works. I come to offer you admission into
-this museum--in a word, to buy your 'Passage of the Red Sea.'"
-
-"Money down?" asked Marcel.
-
-"Specie," replied the Jew, making the orchestra pockets strike up.
-
-"Do you accept this serious offer?" asked Colline.
-
-"Of course I do!" shouted Rodolphe, "don't you see, you wretch, that he
-is talking of 'tin'? Is there nothing sacred for you, atheist that you
-are?"
-
-Colline mounted on a table and assumed the attitude of Harpocrates, the
-God of Silence.
-
-"Push on, Medicis!" said Marcel, exhibiting his picture. "I wish to
-leave you the honor of fixing the price of this work, which is above all
-price."
-
-The Jew placed on the table a hundred and fifty francs in new coin.
-
-"Well, what more?" said Marcel, "that's only the prologue."
-
-"Monsieur Marcel," replied the Jew, "you know that my first offer is my
-last. I shall add nothing. Reflect, a hundred and fifty francs; that is
-a sum, it is!"
-
-"A very small sum," said the artist. "There is that much worth of cobalt
-in my Pharaoh's robe. Make it a round sum, at any rate! Square it off;
-say two hundred!"
-
-"I won't add a sou!" said Medicis. "But I stand dinner for the company,
-wine to any extent."
-
-"Going, going, going!" shouted Colline, with three blows of his fist on
-the table, "no one speaks?--gone!"
-
-"Well it's a bargain!" said Marcel.
-
-"I will send for the picture tomorrow," said the Jew, "and now,
-gentlemen, to dinner!"
-
-The four friends descended the staircase, singing the chorus of "The
-Huguenots"--"_A table! A table!_"
-
-Medicis treated the Bohemians in a really magnificent way, and gave them
-their choice of a number of dishes, which until then were completely
-unknown to them. Henceforward hot lobster ceased to be a myth with
-Schaunard, who contracted a passion for it that bordered on delirium.
-The four friends departed from the gorgeous banquet as drunk as a
-vintage-day. Marcel's intoxication was near having the most deplorable
-consequences. In passing by his tailor's, at two in the morning, he
-absolutely wanted to wake up his creditor, and pay him the hundred and
-fifty francs on account. A ray of reason which flashed across the mind
-of Colline, stopped the artist on the border of this precipice.
-
-A week after, Marcel discovered in what gallery his picture had been
-placed. While passing through the Faubourg St. Honore, he stopped in the
-midst of a group which seemed to regard with curiosity a sign that was
-being put up over a shop door. The sign was neither more nor less than
-Marcel's picture, which Medicis had sold to a grocer. Only "the Passage
-of the Red Sea" had undergone one more alteration, and been given one
-more new name. It had received the addition of a steamboat and was
-called "the Harbor of Marseilles." The curious bystanders were bestowing
-on it a flattering ovation. Marcel returned home in ecstacy at his
-triumph, muttering to himself, _Vox populi, voz Dei_.
-
-
-
-
-CHAPTER XVII
-
-The Toilette of the Graces
-
-
-Mademoiselle Mimi, who was accustomed to sleep far into the day, woke up
-one morning at ten o'clock, and was greatly surprised not to find
-Rodolphe beside her, nor even in the room. The preceding night, before
-falling to sleep, she had, however, seen him at his desk, preparing to
-spend the night over a piece of literary work which had been ordered of
-him, and in the completion of which Mimi was especially interested. In
-fact, the poet had given his companion hopes that out of the fruit of
-his labors he would purchase a certain summer gown, that she had noticed
-one day at the "Deux Magots," a famous drapery establishment, to the
-window of which Mimi's coquetry used very frequently to pay its
-devotions. Hence, ever since the work in question had been begun, Mimi
-had been greatly interested in its progress. She would often come up to
-Rodolphe whilst he was writing, and leaning her head on his shoulder
-would say to him in serious tones--
-
-"Well, is my dress getting on?"
-
-"There is already enough for a sleeve, so be easy," replied Rodolphe.
-
-One night having heard Rodolphe snap his fingers, which usually meant
-that he was satisfied with his work, Mimi suddenly sat up in bed and
-passing her head through the curtains said, "Is my dress finished?"
-
-"There," replied Rodolphe, showing her four large sheets of paper,
-covered with closely written lines. "I have just finished the body."
-
-"How nice," said Mimi. "Then there is only the skirt now left to do. How
-many pages like that are wanted for the skirt?"
-
-"That depends; but as you are not tall, with ten pages of fifty lines
-each, and eight words to the line, we can get a decent skirt."
-
-"I am not very tall, it is true," said Mimi seriously, "but it must not
-look as if we had skimped the stuff. Dresses are worn full, and I should
-like nice large folds so that it may rustle as I walk."
-
-"Very good," replied Rodolphe, seriously. "I will squeeze another word
-in each line and we shall manage the rustling." Mimi fell asleep again
-quite satisfied.
-
-As she had been guilty of the imprudence of speaking of the nice dress
-that Rodolphe was engaged in making for her to Mademoiselles Musette and
-Phemie, these two young persons had not failed to inform Messieurs
-Marcel and Schaunard of their friend's generosity towards his mistress,
-and these confidences had been followed by unequivocal challenges to
-follow the example set by the poet.
-
-"That is to say," added Mademoiselle Musette, pulling Marcel's
-moustache, "that if things go on like this a week longer I shall be
-obliged to borrow a pair of your trousers to go out in."
-
-"I am owed eleven francs by a good house," replied Marcel. "If I get it
-in I will devote it to buying you a fashionable fig leaf."
-
-"And I," said Phemie to Schaunard, "my gown is in ribbons."
-
-Schaunard took three sous from his pocket and gave them to his mistress,
-saying, "Here is enough to buy a needle and thread with. Mend your gown,
-that will instruct and amuse you at the same time, _utile dulci_."
-
-Nevertheless, in a council kept very secret, Marcel and Schaunard agreed
-with Rodolphe that each of them should endeavor to satisfy the
-justifiable coquetry of their mistresses.
-
-"These poor girls," said Rodolphe, "a trifle suffices to adorn them,
-but then they must have this trifle. Latterly fine arts and literature
-have been flourishing; we are earning almost as much as street porters."
-
-"It is true that I ought not to complain," broke in Marcel. "The fine
-arts are in a most healthy condition, one might believe oneself under
-the sway of Leo the Tenth."
-
-"In point of fact," said Rodolphe. "Musette tells me that for the last
-week you have started off every morning and do not get home till about
-eight in the evening. Have you really got something to do?"
-
-"My dear fellow, a superb job that Medicis got me. I am painting at the
-Ave Maria barracks. Eight grenadiers have ordered their portraits at six
-francs a head taken all round, likenesses guaranteed for a year, like a
-watch. I hope to get the whole regiment. I had the idea, on my own part,
-of decking out Musette when Medicis pays me, for it is with him I do
-business and not my models."
-
-"As to me," observed Schaunard carelessly, "although it may not look
-like it, I have two hundred francs lying idle."
-
-"The deuce, let us stir them up," said Rodolphe.
-
-"In two or three days I count on drawing them," replied Schaunard. "I do
-not conceal from you that on doing so I intend to give a free rein to
-some of my passions. There is, above all, at the second hand clothes
-shop close by a nankeen jacket and a hunting horn, that have for a long
-time caught my eye. I shall certainly present myself with them."
-
-"But," added Marcel and Rodolphe together, "where do you hope to draw
-this amount of capital from?"
-
-"Hearken gentlemen," said Schaunard, putting on a serious air, and
-sitting down between his two friends, "we must not hide from one
-another that before becoming members of the Institute and ratepayers, we
-have still a great deal of rye bread to eat, and that daily bread is
-hard to get. On the other hand, we are not alone; as heaven has created
-us sensitive to love, each of us has chosen to share his lot."
-
-"Which is little," interrupted Marcel.
-
-"But," continued Schaunard, "whilst living with the strictest economy,
-it is difficult when one has nothing to put anything on one side, above
-all if one's appetite is always larger than one's plate."
-
-"What are you driving at?" asked Rodolphe.
-
-"This," resumed Schaunard, "that in our present situation we should all
-be wrong to play the haughty when a chance offers itself, even outside
-our art, of putting a figure in front of the cypher that constitutes our
-capital."
-
-"Well!" said Marcel, "which of us can you reproach with playing the
-haughty. Great painter as I shall be some day, have I not consented to
-devote my brush to the pictorial reproduction of French soldiers, who
-pay me out of their scanty pocket money? It seems to me that I am not
-afraid to descend the ladder of my future greatness."
-
-"And I," said Rodolphe, "do not you know that for the past fortnight I
-have been writing a medico-chirurgical epic for a celebrated dentist,
-who has hired my inspiration at fifteen sous the dozen lines, about half
-the price of oysters? However, I do not blush; rather than let my muse
-remain idle, I would willingly put a railway guide into verse. When one
-has a lyre it is meant to be made use of. And then Mimi has a burning
-thirst for boots."
-
-"Then," said Schaunard, "you will not be offended with me when you know
-the source of that Pactolus, the overflowing of which I am awaiting."
-
-The following is the history of Schaunard's two hundred francs:--
-
-About a fortnight before he had gone into the shop of a music publisher
-who had promised to procure him amongst his customers' pupils for
-pianoforte lessons or pianofortes to tune.
-
-"By Jove!" said the publisher, on seeing him enter the shop, "you are
-just in time. A gentleman has been here who wants a pianist; he is an
-Englishman, and will probably pay well. Are you really a good one?"
-
-Schaunard reflected that a modest air might injure him in the
-publisher's estimation. Indeed, a modest musician, and especially a
-modest pianist, is a rare creation. Accordingly, he replied boldly:
-
-"I am a first rate one; if I only had a lung gone, long hair and a black
-coat, I should be famous as the sun in the heavens; and instead of
-asking me eight hundred francs to engrave my composition 'The Death of
-the Damsel,' you would come on your knees to offer me three thousand for
-it on a silver plate."
-
-The person whose address Schaunard took was an Englishman, named Birne.
-The musician was first received by a servant in blue, who handed him
-over to a servant in green, who passed him on to a servant in black, who
-introduced him into a drawing room, where he found himself face to face
-with a Briton coiled up in an attitude which made him resemble Hamlet
-mediating on human nothingness. Schaunard was about to explain the
-reason of his presence, when a sudden volley of shrill cries cut short
-his speech. These horrid and ear piercing sounds proceeded from a parrot
-hung out on the balcony of the story below.
-
-"Oh! That beast, that beast!" exclaimed the Englishman, with a bound on
-his arm chair, "it will kill me."
-
-Thereupon the bird began to repeat its vocabulary, much more extensive
-than that of ordinary Pollies; and Schaunard stood stupefied when he
-heard the animal, prompted by a female voice, reciting the speech of
-Theramenes with all the professional intonations.
-
-This parrot was the favorite of an actress who was then a great favorite
-herself, and very much the rage--in her own boudoir. She was one of
-those women who, no one knows why, was quoted at fancy prices on the
-'Change of dissipation, and whose names are inscribed on the bills of
-fare of young noblemen's suppers, where they form the living dessert. It
-gives a Christian standing now-a-days to be seen with one of these
-Pagans, who often have nothing of antiquity about them except their
-age. When they are handsome, there is no such great harm after all; the
-worst one risks is to sleep on straw in return for making them sleep on
-rosewood. But when their beauty is bought by the ounce at the
-perfumer's, and will not stand three drops of water on a rag; then their
-wit consists in a couplet of a farce, and their talent lies in the hand
-of the _claqueur_, it is hard indeed to understand how respectable men
-with good names, ordinary sense, and decent coats, can let themselves be
-carried away by a common place passion for these most mercenary
-creatures.
-
-The actress in question was one of these belles of the day. She called
-herself Delores, and professed to be a Spaniard, although she was born
-in that Parisian Andalusia known as the Rue Coquenard. From there to the
-Rue de Provence is about ten minute's walk, but it had cost her seven
-years to make the transit. Her prosperity had begun with the decline of
-her personal charms. She had a horse the day when her first false tooth
-was inserted, and a pair the day of her second. Now she was living at a
-great rate, lodging in a palace, driving four horses on holidays, and
-giving balls to which all Paris came--the "all Paris" of these
-ladies--that is to say, that collection of lazy seekers after jokes and
-scandal; the "all Paris" that plays lansquenet; the sluggards of head
-and hand, who kill their own time and other people's; the writers who
-turn literary men to get some use out of the feather which nature placed
-on their backs; the bullies of the revel, the clipped and sweated
-gentlemen, the chevaliers of doubtful orders, all the vagabonds of
-kid-glove-dom, that come from God knows where, and go back tither again
-some day; all the marked and remarked notorieties; all those daughters
-of Eve who retail what they once sold wholesale; all that race of
-beings, corrupt from their cradle to their coffin, whom one sees on
-first nights at the theater, with Golconda on foreheads and Thibet on
-their shoulders, and for whom, notwithstanding, bloom the first violets
-of spring and the first passions of youth--all this world which the
-chronicles of gossip call "all Paris," was received by Delores who owned
-the parrot aforesaid.
-
-This bird, celebrated for its oratorical talents among all the
-neighbors, had gradually become the terror of the nearest. Hung out on
-the balcony, it made a pulpit of its perch and spouted interminable
-harangues from morning to night. It had learned certain parliamentary
-topics from some political friends of the mistress, and was very strong
-on the sugar question. It knew all the actress's repertory by heart, and
-declaimed it well enough to have been her substitute, in case of
-indisposition. Moreover, as she was rather polyglot in her flirtations,
-and received visitors from all parts of the world, the parrot spoke all
-languages, and would sometimes let out a _lingua Franca_ of oaths
-enough to shock the sailors to whom "Vert-Vert" owed his profitable
-education. The company of this bird, which might be instructive and
-amusing for ten minutes, became a positive torture when prolonged. The
-neighbors had often complained; the actress insolently disregarded their
-complaints. Two or three other tenants of the house, respectable fathers
-of families, indignant at the scandalous state of morals into which they
-were initiated by the indiscretions of the parrot, had given warning to
-the landlord. But the actress had got on his weak side; whoever might
-go, she stayed.
-
-The Englishman whose sitting room Schaunard now entered, had suffered
-with patience for three months. One day he concealed his fury, which
-was ready to explode, under a full dress suit and sent in his card to
-Mademoiselle Dolores.
-
-When she beheld him enter, arrayed almost as he would have been to
-present himself before Queen Victoria, she at first thought it must be
-Hoffmann, in his part of Lord Spleen; and wishing to be civil to a
-fellow artist, she offered him some breakfast.
-
-The Englishman understood French. He had learned it in twenty five
-lessons from a Spanish refugee. Accordingly he replied:
-
-"I accept your invitation on condition of our eating this disagreeable
-bird," and he pointed to the cage of the parrot, who, having smelled an
-Englishman, saluted him by whistling "God Save the King."
-
-Dolores thought her neighbor was quizzing her, and was beginning to get
-angry, when Mr. Birne added:
-
-"As I am very rich, I will buy the animal. Put your price on it."
-
-Dolores answered that she valued the bird, and liked it, and would not
-wish to see it pass into the hands of another.
-
-"Oh, it's not in my hands I want to put it," replied the Englishman,
-"But under my feet--so--," and he pointed to the heels of his boots.
-
-Dolores shuddered with indignation and would probably have broken out,
-when she perceived on the Englishman's finger a ring, the diamond of
-which represented an income of twenty five hundred francs. The discovery
-was like a shower bath to her rage. She reflected that it might be
-imprudent to quarrel with a man who carried fifty thousand francs on his
-little finger.
-
-"Well, sir," she said, "as poor Coco annoys you, I will put him in a
-back room, where you cannot hear him."
-
-The Englishman made a gesture of satisfaction.
-
-"However," added he, pointing once more to his boots, "I should have
-preferred--."
-
-"Don't be afraid. Where I mean to put him it will be impossible for him
-to trouble milord."
-
-"Oh! I am not a lord; only an esquire."
-
-With that, Mr. Birne was retiring, after a very low bow, when Delores,
-who never neglected her interests, took up a small pocket from a work
-table and said:
-
-"Tonight sir, is my benefit at the theater. I am to play in three
-pieces. Will you allow me to offer you some box tickets? The price has
-been but very slightly raised." And she put a dozen boxes into the
-Briton's hand.
-
-"After showing myself so prompt to oblige him," thought she, "he cannot
-refuse, if he is a gentleman, and if he sees me play in my pink costume,
-who knows? He is very ugly, to be sure, and very sad looking, but he
-might furnish me the means of going to England without being sea sick."
-
-The Englishman having taken the tickets, had their purport explained to
-him a second time. He then asked the price.
-
-"The boxes are sixty francs each, and there are ten there, but no
-hurry," said added, seeing the Englishman take out his pocketbook. "I
-hope that as we are neighbors, this is not the last time I shall have
-the honor of a visit from you."
-
-"I do not like to run up bills," replied Mr. Birne and drawing from the
-pocketbook a thousand franc note, he laid it on the table and slid the
-tickets into his pockets.
-
-"I will give you change," said Dolores, opening a little drawer.
-
-"Never mind," said the Englishman, "the rest will do for a drink," and
-he went off leaving Dolores thunder struck at his last words.
-
-"For a drink!" she exclaimed. "What a clown! I will send him back his
-money."
-
-But her neighbor's rudeness had only irritated the epidermis of her
-vanity; reflection calmed her. She thought that a thousand francs made a
-very nice "pile," after all, and that she had already put up with
-impertinences at a cheaper rate.
-
-"Bah!" she said to herself. "It won't do to be so proud. No one was by,
-and this is my washerwoman's mouth. And this Englishman speaks so badly,
-perhaps he only means to pay me a compliment."
-
-So she pocketed her bank note joyfully.
-
-But that night after the theater she returned home furious. Mr. Birne
-had made no use of the tickets, and the ten boxes had remained vacant.
-
-Thus on appearing on the stage, the unfortunate _beneficiaire_ read on
-the countenances of her lady friends, the delight they felt at seeing
-the house so badly filled. She even heard an actress of her acquaintance
-say to another, as she pointed to the empty boxes, "Poor Dolores, she
-has only planted one stage box."
-
-"True, the boxes are scarcely occupied," was the rejoinder.
-
-"The stalls, too, are empty."
-
-"Well, when they see her name on the bill, it acts on the house like an
-air pump."
-
-"Hence, what an idea to put up the price of the seats!"
-
-"A fine benefit. I will bet that the takings would not fill a money box
-or the foot of a stocking."
-
-"Ah! There she is in her famous red velvet costume."
-
-"She looks like a lobster."
-
-"How much did you make out of your last benefit?" said another actress
-to her companion.
-
-"The house was full, my dear, and it was a first night; chairs in the
-gangway were worth a louis. But I only got six francs; my milliner had
-all the rest. If I was not afraid of chilblains, I would go to Saint
-Petersburg."
-
-"What, you are not yet thirty, and are already thinking of doing your
-Russia?"
-
-"What would you have?" said the other, and she added, "and you, is your
-benefit soon coming on?"
-
-"In a fortnight, I have already three thousand francs worth of tickets
-taken, without counting my young fellows from Saint Cyr."
-
-"Hallo, the stalls are going out."
-
-"It is because Dolores is singing."
-
-In fact, Dolores, as red in the face as her costume, was warbling her
-verses with a vinegary voice. Just as she was getting though it with
-difficulty, two bouquets fell at her feet, thrown by two actresses, her
-dear friends, who advanced to the front of their box, exclaiming--:
-
-"Bravo, Dolores!"
-
-The fury of the latter may be readily imagined. Thus, on returning home,
-although it was the middle of the night, she opened the window and woke
-up Coco, who woke up the honest Mr. Birne, who had dropped off to sleep
-on the faith of her promise.
-
-From that day war was declared between the actress and the Englishman; a
-war to the knife, without truce or repose, the parties engaged in which
-recoiled before no expense or trouble. The parrot took finishing lessons
-in English and abused his neighbor all day in it, and in his shrillest
-falsetto. It was something awful. Dolores suffered from it herself, but
-she hoped that one day or other Mr. Birne would give warning. It was on
-that she had set her heart. The Englishman, on his part, began by
-establishing a school of drummers in his drawing room, but the police
-interfered. He then set up a pistol gallery; his servants riddled fifty
-cards a day. Again the commissary of police interposed, showing him an
-article in the municipal code, which forbids the usage of firearms
-indoors. Mr. Birne stopped firing, but a week after, Dolores found it
-was raining in her room. The landlord went to visit Mr. Birne, and found
-him taking saltwater baths in his drawing room. This room, which was
-very large, had been lined all round with sheets of metal, and had had
-all the doors fastened up. Into this extempore pond some hundred pails
-of water were poured, and a few tons of salt were added to them. It was
-a small edition of the sea. Nothing was lacking, not even fishes. Mr.
-Birne bathed there everyday, descending into it by an opening made in
-the upper panel of the center door. Before long an ancient and fish-like
-smell pervaded the neighborhood, and Dolores had half an inch of water
-in her bedroom.
-
-The landlord grew furious and threatened Mr. Birne with an action for
-damages done to his property.
-
-"Have I not a right," asked the Englishman, "to bathe in my rooms?"
-
-"Not in that way, sir."
-
-"Very well, if I have no right to, I won't," said the Briton, full of
-respect for the laws of the country in which he lived. "It's a pity; I
-enjoyed it very much."
-
-That very night he had his ocean drained off. It was full time: there
-was already an oyster bed forming on the floor.
-
-However, Mr. Birne had not given up the contest. He was only seeking
-some legal means of continuing his singular warfare, which was "nuts" to
-all the Paris loungers, for the adventure had been blazed about in the
-lobbies of the theaters and other public places. Dolores felt equally
-bound to come triumphant out of the contest. Not a few bets were made
-upon it.
-
-It was then that Mr. Birne thought of the piano as an instrument of
-warfare. It was not so bad an idea, the most disagreeable of instruments
-being well capable of contending against the most disagreeable of birds.
-As soon as this lucky thought occurred to him, he hastened to put it
-into execution, hired a piano, and inquired for a pianist. The pianist,
-it will be remembered, was our friend Schaunard. The Englishman
-recounted to him his sufferings from the parrot, and what he had already
-done to come to terms with the actress.
-
-"But milord," said Schaunard, "there is a sure way to rid yourself of
-this creature--parsley. The chemists are unanimous in declaring that
-this culinary plant is prussic acid to such birds. Chop up a little
-parsley, and shake it out of the window on Coco's cage, and the creature
-will die as certainly as if Pope Alexander VI had invited it to dinner."
-
-"I thought of that myself," said the Englishman, "but the beast is taken
-good care of. The piano is surer."
-
-Schaunard looked at the other without catching his meaning at once.
-
-"See here," resumed the Englishman, "the actress and her animal always
-sleep till twelve. Follow my reasoning--"
-
-"Go on. I am at the heels of it."
-
-"I intend to disturb their sleep. The law of the country authorizes me
-to make music from morning to night. Do you understand?"
-
-"But that will not be so disagreeable to her, if she hears me play the
-piano all day--for nothing, too. I am a first-rate hand, if I only had a
-lung gone--."
-
-"Exactly, but I don't want you to make good music. You must only strike
-on your instrument thus," trying a scale, "and always the same thing
-without pity, only one scale. I understand medicine a little; that
-drives people mad. They will both go mad; that is what I look for. Come,
-Mr. Musician, to work at once. You shall be well paid."
-
-"And so," said Schaunard, who had recounted the above details to his
-friends, "this is what I have been doing for the last fortnight. One
-scale continually from seven in the morning till dark. It is not exactly
-serious art. But then the Englishman pays me two hundred francs a month
-for my noise; it would be cutting one's throat to refuse such a
-windfall. I accepted, and in two or three days I take my first month's
-money."
-
-It was after those mutual confidences that the three friends agreed
-amongst themselves to profit by the general accession of wealth to give
-their mistresses the spring outfit that the coquetry of each of them had
-been wishing for so long. It was further agreed that whoever pocketed
-his money first should wait for the others, so that the purchases should
-be made at the same time, and that Mademoiselle Mimi, Musette, and
-Phemie should enjoy the pleasure of casting their old skins, as
-Schaunard put it, together.
-
-Well, two or three days after this council Rodolphe came in first; his
-dental poem had been paid for; it weighed in eighty francs. The next
-day Marcel drew from Medicis the price of eighteen corporal's
-likenesses, at six francs each.
-
-Marcel and Rodolphe had all the difficulty in the world to hide their
-good fortune.
-
-"It seems to me that I sweat gold," said the poet.
-
-"It is the same with me," said Marcel. "If Schaunard delays much longer,
-it would be impossible for me to continue to play the part of the
-anonymous Croesus."
-
-But the very next morning saw Schaunard arrive, splendidly attired in a
-bright yellow nankeen jacket.
-
-"Good heavens!" exclaimed Phemie, dazzled on seeing her lover so
-elegantly got up, "where did you find that jacket?"
-
-"I found it amongst my papers," replied the musician, making a sign to
-his two friends to follow him. "I have drawn the coin," said he, when
-they were alone. "Behold it," and he displayed a handful of gold.
-
-"Well," exclaimed Marcel, "forward, let us sack the shops. How happy
-Musette will be."
-
-"How pleased Mimi will be," added Rodolphe. "Come, are you coming
-Schaunard?"
-
-"Allow me to reflect," replied the musician. "In decking out these
-ladies with the thousand caprices of fashion, we shall perhaps be guilty
-of a mistake. Think on it. Are you not afraid that when they resemble
-the engravings in 'The Scarf of Iris,' these splendors will exercise a
-deplorable influence upon their characters, and does it suit young
-fellows like us to behave towards women as if we were aged and wrinkled
-dotards? It is not that I hesitate about sacrificing fifteen or eighteen
-francs to dress Phemie; but I tremble. When she has a new bonnet she
-will not even recognize me, perhaps. She looks so well with only a
-flower in her hair. What do you think about it, philosopher?" broke off
-Schaunard, addressing Colline, who had come in within the last few
-minutes.
-
-"Ingratitude is the offspring of kindness," observed the philosopher.
-
-"On the other hand," continued Schaunard, "when your mistresses are well
-dressed, what sort of figure will you cut beside them in your
-dilapidated costumes? You will look like their waiting maids. I do not
-speak for myself," he broke off, drawing himself up in his nankeen
-jacket, "for thank heaven, I could go anywhere now."
-
-However, despite the spirit of opposition shown by Schaunard, it was
-once more agreed that the next day all the shops of the neighborhood
-should be ransacked to the advantage of the ladies.
-
-And, indeed, the next day, at the very moment that we have seen, at the
-beginning of this chapter, Mademoiselle Mimi wakes up very much
-astonished at Rodolphe's absence, the poet and his two friends were
-ascending the stairs, accompanied by a shopman from the Deux Magots and
-a milliner with specimens. Schaunard, who had bought the famous hunting
-horn, marched before them playing the overture to "The Caravan."
-
-Musette and Phemie, summoned by Mimi, who was living on the lower floor,
-descended the stairs with the swiftness of avalanches on hearing the
-news that the bonnets and dresses had been brought for them. Seeing this
-poor wealth spread out before them, the three women went almost mad with
-joy. Mimi was seized with a fit of hysterical laughter, and skipped
-about like a kid, waving a barege scarf. Musette threw her arms around
-Marcel's neck, with a little green boot in each hand, which she smote
-together like cymbals. Phemie looked at Schaunard and sobbed. She could
-only say, "Oh Alexander, Alexander!"
-
-"There is no danger of her refusing the presents of Artaxerxes,"
-murmured Colline the philosopher.
-
-After the first outbursts of joy were over, when the choices had been
-made and the bills settled, Rodolphe announced to the three girls that
-they would have to make arrangements to try on their new things the next
-morning.
-
-"We will go into the country," said he.
-
-"A fine thing to make a fuss of," exclaimed Musette. "It is not the
-first time that I have bought, cut out, sewn together, and worn a dress
-the same day. Besides, we have the night before us, too. We shall be
-ready, shall we not, ladies?"
-
-"Oh yes! We shall be ready," exclaimed Mimi and Phemie together.
-
-They at once set to work, and for sixteen hours did not lay aside
-scissors or needle.
-
-The next day was the first of May. The Easter bells had rung in the
-resurrection of spring a few days before, and she had come eager and
-joyful. She came, as the German ballad says, light-hearted as the young
-lover who is going to plant a maypole before the window of his
-betrothed. She painted the sky blue, the trees green, and all things in
-bright colors. She aroused the torpid sun, who was sleeping in his bed
-of mists, his head resting on the snow leaden clouds that served him as
-a pillow, and cried to him, "Hi! Hi! My friend, time is up, and I am
-here; quick to work. Put on your fine dress of fresh rays without
-further delay, and show yourself at once on your balcony to announce my
-arrival."
-
-Upon which the sun had indeed set out, and was marching along as proud
-and haughty as some great lord of the court. The swallows, returned from
-their Eastern pilgrimage, filled the air with their flight, the may
-whitened the bushes, the violets scented the woods, in which the birds
-were leaving their nests each with a roll of music under its wings. It
-was spring indeed, the true spring of poets and lovers, and not the
-spring of the almanac maker--an ugly spring with a red nose and frozen
-fingers, which still keeps poor folk shivering at the chimney corner
-when the last ashes of the last log have long since burnt out. The balmy
-breeze swept through the transparent atmosphere and scattered throughout
-the city the first scent of the surrounding country. The rays of the
-sun, bright and warm, tapped at the windows. To the invalid they cried,
-"open, we are health," and at the garret of the young girl bending
-towards her mirror, innocent first love of the most innocent, they said,
-"open darling, that we may light up your beauty. We are the messengers
-of fine weather. You can now put on your cotton frock and your straw
-hat, and lace your smart boots; the groves in which folk foot it are
-decked with bright new flowers, and the violins are tuning for the
-Sunday dance. Good morning, my dear!"
-
-When the angelus rang out from the neighboring church, the three hard
-working coquettes, who had had scarcely time to sleep a few hours, were
-already before their looking glasses, giving their final glance at
-their new attire.
-
-They were all three charming, dressed alike, and wearing on their faces
-the same glow of satisfaction imparted by the realization of a long
-cherished wish.
-
-Musette was, above all, dazzlingly beautiful.
-
-"I have never felt so happy," said she to Marcel. "It seems to me that
-God has put into this hour all the happiness of my life, and I am afraid
-that there will be no more left me. Ah bah! When there is no more left,
-there will still be some more. We have the receipt for making it," she
-added, gaily kissing him.
-
-As to Phemie, one thing vexed her.
-
-"I am very fond of green grass and the little birds," said she, "but in
-the country one never meets anyone, and there will be no one to see my
-pretty bonnet and my nice dress. Suppose we went into the country on the
-Boulevards?"
-
-At eight in the morning the whole street was in commotion, due to the
-blasts from Schaunard's horn giving the signal to start. All the
-neighbors were at their windows to see the Bohemians go by. Colline, who
-was of the party, brought up the rear, carrying the ladies' parasols. An
-hour later the whole of the joyous band were scattered about the fields
-at Fontenay-aux-Roses.
-
-When they returned home, very late at night, Colline, who during the day
-had discharged the duties of treasurer, stated that they had omitted to
-spend six francs, and placed this balance on the table.
-
-"What shall we do with it?" asked Marcel.
-
-"Suppose we invest it in Government stock," said Schaunard.
-
-
-
-
-CHAPTER XVIII
-
-Francine's Muff
-
-
-Among the true Bohemians of the real Bohemia I used to know one, named
-Jacques D. He was a sculptor, and gave promise of great talent. But
-poverty did not give him time to fulfill this promise. He died of
-debility in March, 184-, at the Saint Louis Hospital, on bed No. 14 in
-the Sainte Victoria ward.
-
-I made the acquaintance of Jacques at the hospital, when I was detained
-there myself by a long illness. Jacques had, as I have said, the makings
-of a great talent, and yet he was quite unassuming about it. During the
-two months I spent in his company, and during which he felt himself
-cradled in the arms of Death, I never once heard him complain or give
-himself up to those lamentations which render the unappreciated artist
-so ridiculous. He died without attitudinizing. His death brings to my
-mind, too, one of the most horrible scenes I ever saw in that
-caravanserai of human sufferings. His father, informed of the event,
-came to reclaim the body, and for a long time haggled over giving the
-thirty-six francs demanded by the hospital authorities. He also haggled
-over the funeral service, and so persistently that they ended by
-knocking off six francs. At the moment of putting the corpse into the
-coffin, the male nurse took off the hospital sheet, and asked one of the
-deceased's friends who was there for money for a shroud. The poor devil,
-who had not a sou, went to Jacques' father, who got into a fearful rage,
-and asked when they would finish bothering him.
-
-The sister of charity, who was present at this horrible discussion, cast
-a glance at the corpse, and uttered these simple and feeling words:
-
-"Oh! sir, you cannot have him buried like that, poor fellow, it is so
-cold. Give him at least a shirt, that he may not arrive quite naked
-before his God."
-
-The father gave five francs to the friend to get a shirt, but
-recommended him to go to a wardrobe shop in the Rue Grace-aux-Belles,
-where they sold second-hand linen.
-
-"It will be cheaper there," said he.
-
-This cruelty on the part of Jacques' father was explained to me later
-on. He was furious because his son had chosen an artistic career, and
-his anger remained unappeased even in the presence of a coffin.
-
-But I am not very far from Mademoiselle Francine and her muff. I will
-return to them. Mademoiselle Francine was the first and only mistress of
-Jacques, who did not die very old, for he was scarcely three and twenty
-when his father would have had him laid naked in the earth. The story of
-his love was told me by Jacques himself when he was No. 14 and I was No.
-16 in the Sainte Victoire ward--an ugly spot to die in.
-
-Ah reader! Before I begin this story, which would be a touching one if I
-could tell it as it was told to me by my friend Jacques, let me take a
-pull or two at the old clay pipe he gave me on the day that the doctor
-forbade its use by him. Yet at night, when the male nurse was asleep, my
-friend Jacques would borrow his pipe with a little tobacco from me. It
-is so wearisome at night in those vast wards, when one suffers and
-cannot sleep.
-
-"Only two or three whiffs," he would say, and I would let him have it;
-and Sister Sainte-Genevieve did not seem to notice the smoke when she
-made her round. Ah, good sister! How kind you were, and how beautiful
-you looked, too, when you came to sprinkle us with holy water. We could
-see you approaching, walking slowly along the gloomy aisles, draped in
-your white veil, which fell in such graceful folds, and which our friend
-Jacques admired so much. Ah kind sister! You were the Beatrice of that
-Inferno. So sweet were your consolations that we were always complaining
-in order to be consoled by you. If my friend Jacques had not died one
-snowy day he would have carved you a nice little Virgin Mary to put in
-your cell, good Sister Sainte-Genevieve.
-
- Well, and the muff? I do not see anything of the muff.
-
-_Another Reader_: And Mademoiselle Francine, where about is she, then?
-
-_First Reader_: This story is not very lively.
-
-_Second Reader_: We shall see further on.
-
-I really beg your pardon, gentlemen, it is my friend Jacques' pipe that
-has led me away into these digressions. But, besides, I am not pledged
-to make you laugh. Times are not always gay in Bohemia.
-
-Jacques and Francine had met in a house in the Rue de la
-Tour-d'Auvergne, into which they had both moved at the same time at the
-April quarter.
-
-The artist and the young girl were a week without entering on those
-neighborly relations which are almost always forced on one when dwelling
-on the same floor. However, without having exchanged a word, they were
-already acquainted with one another. Francine knew that her neighbor was
-a poor devil of an artist, and Jacques had learned that his was a little
-seamstress who had quitted her family to escape the ill-usage of a
-stepmother. She accomplished miracles of economy to make both ends meet,
-and, as she had never known pleasure, had no longing for it. This is
-how the pair came under the common law of partition walls. One evening
-in April, Jacques came home worn out with fatigue, fasting since
-morning, and profoundly sad with one of those vague sadnesses which have
-no precise cause, and which seize on you anywhere and at all times; a
-kind of apoplexy of the heart to which poor wretches living alone are
-especially subject. Jacques, who felt stifling in his narrow room,
-opened the window to breathe a little. The evening was a fine one, and
-the setting sun displayed its melancholy splendors above the hills of
-Montmartre. Jacques remained pensively at his window listening to the
-winged chorus of spring harmony which added to his sadness. Seeing a
-raven fly by uttering a croak, he thought of the days when ravens
-brought food to Elijah, the pious recluse, and reflected that these
-birds were no longer so charitable. Then, not being able to stand it any
-longer, he closed his window, drew the curtain, and, as he had not the
-wherewithal to buy oil for his lamp, lit a resin taper that he had
-brought back from a trip to the Grande-Chartreuse. Sadder than ever he
-filled his pipe.
-
-"Luckily, I still have enough tobacco to hide the pistol," murmured he,
-and he began to smoke.
-
-My friend Jacques must have been very sad that evening to think about
-hiding the pistol. It was his supreme resource on great crises, and was
-usually pretty successful. The plan was as follows. Jacques smoked
-tobacco on which he used to sprinkle a few drops of laudanum, and he
-would smoke until the cloud of smoke from his pipe became thick enough
-to veil from him all the objects in his little room, and, above all, a
-pistol hanging on the wall. It was a matter of half a score pipes. By
-the time the pistol was wholly invisible it almost always happened that
-the smoke and the laudanum combined would send Jacques off to sleep, and
-it also often happened that his sadness left him at the commencement of
-his dreams.
-
-But on this particular evening he had used up all his tobacco; the
-pistol was completely hidden, and yet Jacques was still bitterly sad.
-That evening, on the contrary Mademoiselle Francine was extremely
-light-hearted when she came home, and like Jacques' sadness, her
-light-heartedness was without cause. It was one of those joys that come
-from heaven, and that God scatters amongst good hearts. So Mademoiselle
-Francine was in a good temper, and sang to herself as she came upstairs.
-But as she was going to open her door a puff of wind, coming through the
-open staircase window, suddenly blew out her candle.
-
-"Oh, what a nuisance!" exclaimed the girl, "six flights of stairs to go
-down and up again."
-
-But, noticing the light coming from under Jacques' door, the instinct of
-idleness grafted on a feeling of curiosity, advised her to go and ask
-the artist for a light. "It is a service daily rendered among
-neighbors," thought she, "and there is nothing compromising about it."
-
-She tapped twice, therefore, at the door, and Jacques opened it,
-somewhat surprised at this late visit. But scarcely had she taken a step
-into the room than the smoke that filled it suddenly choked her, and,
-before she was able to speak a word, she sank fainting into a chair,
-dropping her candle and her room door key onto the ground. It was
-midnight, and everyone in the house was asleep. Jacques thought it
-better not to call for help. He was afraid, in the first place, of
-compromising his neighbor. He contented himself, therefore, with opening
-the window to let in a little fresh air, and, after having sprinkled a
-few drops of water on the girl's face, saw her open her eyes and by
-degrees come to herself. When, at the end of five minutes' time, she had
-wholly recovered consciousness, Francine explained the motive that had
-brought her into the artist's room, and made many excuses for what had
-happened.
-
-"Now, then, I am recovered," said she. "I can go into my own room."
-
-He had already opened the door, when she perceived that she was not
-only forgetting to light her candle, but that she had not the key of her
-room.
-
-"Silly thing that I am," said she, putting her candle to the flame of
-the resin taper, "I came in here to get a light, and I was going away
-without one."
-
-But at the same moment the draft caused by the door and window, both of
-which had remained open, suddenly blew out the taper, and the two young
-folk were left in darkness.
-
-"One would think that it was done on purpose," said Francine. "Forgive
-me sir, for all the trouble I am giving you, and be good enough to
-strike a light so that I may find my key."
-
-"Certainly mademoiselle," answered Jacques, feeling for the matches.
-
-He had soon found them. But a singular idea flashed across his mind, and
-he put the matches in his pocket saying, "Dear me, mademoiselle, here is
-another trouble. I have not a single match here. I used the last when I
-came in."
-
-"Oh!" said Francine, "after all I can very well find my way without a
-light, my room is not big enough for me to lose myself in it. But I must
-have my key. Will you be good enough, sir, to help me to look for it? It
-must have fallen to the ground."
-
-"Let us look for it, mademoiselle," said Jacques.
-
-And both of them began to seek the lost article in the dark, but as
-though guided by a common instinct, it happened during this search, that
-their hands, groping in the same spot, met ten times a minute. And, as
-they were both equally awkward, they did not find the key.
-
-"The moon, which is hidden just now by the clouds, shines right into the
-room," said Jacques. "Let us wait a bit; by-and-by it will light up the
-room and may help us."
-
-And, pending the appearance of the moon, they began to talk. A
-conversation in the dark, in a little room, on a spring night; a
-conversation which, at the outset trifling and unimportant, gradually
-enters on the chapter of personal confidences. You know what that leads
-to. Language by degrees grows confused, full of reticences; voices are
-lowered; words alternate with sighs. Hands meeting complete the thought
-which from the heart ascends to the lips, and--. Seek the conclusion in
-your recollection, young couples. Do you remember, young man. Do you
-remember, young lady, you who now walk hand-in-hand, and who, up to two
-days back, had never seen one another?
-
-At length the moon broke through the clouds, and her bright light
-flooded the room. Mademoiselle Francine awoke from her reverie uttering
-a faint cry.
-
-"What is the matter?" asked Jacques, putting his arm around her waist.
-
-"Nothing," murmured Francine. "I thought I heard someone knock."
-
-And, without Jacques noticing it, she pushed the key that she had just
-noticed under some of the furniture.
-
-She did not want to find it now.
+O leitor de certo se compungia; e a leitora se lhe dissessem, em menos
+de uma linha, a historia d'aquelles dezoito annos, choraria! Pois não? A
+olhos enchutos poderia ouvil-a a mulher, a creatura mais bem formada das
+branduras da piedade, a que por vezes traz comsigo do ceo um reflexo da
+divina misericordia, essa, a minha leitora, a carinhosa amiga de todos
+os infelizes não choraria se lhe dissessem que o pobre moço perdêra
+honra, rehabilitação, patria, liberdade, irmãs, mãe, tudo, por amor da
+primeira mulher que o despertou do seu dormir de innocentes desejos?!
+
+Chorava, chorava! Assim eu lhe soubesse dizer o doloroso sobresalto que
+me causaram aquellas linhas, de proposito procuradas, e lidas com
+amargura e respeito e, ao mesmo tempo, odio. Odio, sim... A tempo verão
+se é perdoavel o odio, ou se antes me não fôra melhor abrir mão desde já
+de uma historia que me póde acarear enojos dos frios julgadores do
+coração, e das sentenças que eu aqui lavrar contra a falsa virtude de
+homens, feitos barbaros, em nome de sua honra.
 
        *       *       *       *       *
 
-_First Reader_: I certainly will not let my daughter read this story.
 
-_Second Reader_: Up till now I have not caught a glimpse of a single
-hair of Mademoiselle Francine's muff; and, as to the young woman
-herself, I do not know any better what she is like, whether she is fair
-or dark.
 
-Patience, readers, patience. I have promised you a muff, and I will give
-you one later on, as my friend Jacques did to his poor love Francine,
-who had become his mistress, as I have explained in the line left blank
-above.
 
-She was fair was Francine, fair and lovely, which is not usual. She had
-remained ignorant of love until she was twenty, but a vague presentiment
-of her approaching end counselled her not to delay if she would become
-acquainted with it.
+AMOR DE PERDIÇÃO.
 
-She met Jacques and loved him. Their connection lasted six months. They
-had taken one another in the spring; they were parted in the autumn.
-Francine was consumptive. She knew it and her lover Jacques knew it too;
-a fortnight after he had taken up with her he had learned it from one of
-his friends, who was a doctor.
 
-"She will go with the autumn leaves," said the latter.
+PRIMEIRA PARTE.
 
-Francine heard this confidence, and perceived the grief it caused her
-lover.
 
-"What matters the autumn leaves?" said she, putting the whole of her
-love into a smile. "What matters the autumn; it is summer, and the
-leaves are green; let us profit by that, love. When you see me ready to
-depart from this life, you shall take me in your arms and kiss me, and
-forbid me to go. I am obedient you know, and I will stay."
 
-And for five months this charming creature passed through the miseries
-of Bohemian life, a smile and a song on her lips. As to Jacques, he let
-himself be deluded. His friend often said to him, "Francine is worse,
-she must be attended to." Then Jacques went all over Paris to obtain
-the wherewithal for the doctor's prescription, but Francine would not
-hear of it, and threw the medicine out of the window. At night, when she
-was seized with a fit of coughing, she would leave the room and go out
-on the landing, so that Jacques might not hear her.
 
-One day, when they had both gone into the country, Jacques saw a tree
-the foliage of which was turning to yellow. He gazed sadly at Francine,
-who was walking slowly and somewhat dreamily.
+I.
 
-Francine saw Jacques turn pale and guessed the reason of his pallor.
 
-"You are foolish," said she, kissing him, "we are only in July, it is
-three months to October, loving one another day and night as we do, we
-shall double the time we have to spend together. And then, besides, if I
-feel worse when the leaves turn yellow, we will go and live in a pine
-forest, the leaves are always green there."
+Domingos José Correia Botelho de Mesquita e Menezes, fidalgo de
+linhagem, e um dos mais antigos solarengos de Villa Real de
+Traz-os-Montes, era, em 1779, juiz de fóra de Cascaes, e n'esse mesmo
+anno casara com uma dama do paço, D. Rita Thereza Margarida Preciosa da
+Veiga Caldeirão Castello-Branco, filha d'um capitão de cavallos, e neta
+de outro, Antonio de Azevedo Castello-Branco Pereira da Silva, tão
+notavel por sua jerarchia, como por um, n'aquelle tempo, precioso livro
+ácerca da Arte da Guerra.
+
+Dez annos de enamorado mal succedido consumira em Lisboa o bacharel
+provinciano. Para se fazer amar da formosa dama de D. Maria I
+minguavam-lhe dotes physicos: Domingos Botelho era extremamente feio.
+Para se inculcar como partido conveniente a uma filha segunda,
+faltavam-lhe bens de fortuna: os haveres d'elle não excediam a trinta
+mil cruzados em propriedades no Douro. Os dotes de espirito não o
+recommendavam tambem: era alcançadissimo de intelligencia, e grangeara
+entre os seus condiscipulos da universidade o epitheto de «brocas» com
+que ainda hoje os seus descendentes em Villa Real são conhecidos. Bem ou
+mal derivado, o epitheto _brocas_ vem de _brôa_. Entenderam os
+academicos que a rudeza do seu condiscipulo procedia do muito pão de
+milho que elle digeria na sua terra.
+
+Domingos Botelho devia ter uma vocação qualquer; e tinha: era excellenle
+flautista; foi a primeira flauta do seu tempo; e a tocar flauta se
+sustentou dois annos em Coimbra, durante os quaes seu pae lhe suspendeu
+as mesadas, porque os rendimentos da casa não bastavam a livrar outro
+filho de um crime de morte[1].
+
+Formara-se Domingos Botelho em 1767, e fôra para Lisboa lêr no
+desembargo do paço, iniciação banal dos que aspiravam á carreira da
+magistratura. Já Fernão Botelho, pae do bacharel, fôra bem acceite em
+Lisboa, e mórmente ao duque de Aveiro, cuja estima lhe teve a cabeça em
+risco, na tentativa regicida de 1758. O provinciano sahiu das masmorras
+da Junqueira illibado da infamante nodoa, e bem-quisto mesmo do conde de
+Oeiras, porque tomara parte na prova que este fizera do primor de sua
+genealogia sobre a dos Pintos Coelhos do Bomjardim do Porto: pleito
+ridiculo, mas estrondoso, movido pela recusa que o fidalgo portuense
+fizera de sua filha ao filho de Sebastião José de Carvalho.
+
+As artes com que o bacharel flautista vingou insinuar-se na estima de D.
+Maria I e Pedro III não as sei eu. É tradição que o homem fazia rir a
+rainha com as suas facecias, e por ventura com os tregeitos de que
+tirava o melhor do seu espirito. O certo é que Domingos Botelho
+frequentava o paço, e recebia do bolsinho da soberana uma farta pensão,
+com a qual o aspirante a juiz de fóra se esqueceu de si, do futuro, e do
+ministro da justiça, que muito rogado fiara das suas letras o encargo de
+juiz de fóra de Cascaes.
+
+Já está dito que elle se atreveu aos amores do paço, não poetando como
+Luiz de Camões ou Bernardim Ribeiro; mas namorando na sua prosa
+provinciana, e captando a bem-querença da rainha para amollecer as
+durezas da dama. Devia de ser, a final, feliz o «doutor bexiga»--que
+assim era na côrte conhecido--para se não desconcertar a discordia em
+que andam rixados o talento e a felicidade. Domingos Botelho casou com
+D. Rita Preciosa. Rita era uma formosura que ainda aos cincoenta annos
+se podia presar de o ser. E não tinha outro dote, se não é dote uma
+serie de avoengos, uns bispos, outros generaes, e entre estes o que
+morrêra frigido em caldeirão de não sei que terra da mourisma; gloria,
+na verdade, um pouco ardente; mas de tal monta que os descendentes do
+general frito se assignaram _Caldeirões_.
+
+A dama do paço não foi ditosa com o marido. Molestavam-na saudades da
+côrte, das pompas das camaras reaes, e dos amores de sua feição e molde,
+que immolou ao capricho da rainha. Este desgostoso viver, porém, não
+impeceu a reproduzirem-se em dois filhos e quatro meninas. O mais velho
+era Manoel, o segundo Simão; das meninas uma era Maria, a segunda Anna,
+e a ultima tinha o nome de sua mãe, e alguns traços da belleza d'ella.
+
+O juiz de fóra de Cascaes, solicitando logar de mais graduado banco,
+demorava em Lisboa, na freguezia da Ajuda em 1784. N'este anno é que
+nasceu Simão, o penultimo de seus filhos. Conseguiu elle, sempre
+blandiciado da fortuna, transferencia para Villa Real, sua ambição
+suprema.
+
+A distancia de uma legua de Villa Real estava a nobreza da villa
+esperando o seu conterraneo. Cada familia tinha a sua liteira com o
+brasão da casa. A dos Correias de Mesquita era a mais antiquada no
+feitio, e as librés dos criados as mais surradas e traçadas que
+figuravam na comitiva.
+
+D. Rita, avistando o prestito das liteiras, ajustou ao olho direito a
+sua grande luneta de oiro, e disse:
+
+--Ó Menezes, aquillo que é?!
+
+--São os nossos amigos e parentes que veem esperar-nos.
+
+--Em que seculo estamos nós n'esta montanha?--tornou a dama do paço.
+
+--Em que seculo?! o seculo tanto é dezoito aqui como em Lisboa.
+
+--Ah! sim? Cuidei que o tempo parára aqui no seculo doze.
+
+O marido achou que devia rir-se do chiste, que o não lisonjeára
+grandemente.
+
+Fernão Botelho, pae do juiz de fóra, sahiu á frente do prestito para dar
+a mão á nora, que apeava da liteira, e conduzil-a á de casa. D. Rita,
+antes de vêr a cara de seu sogro, contemplou-lhe a olho armado as
+fivelas de aço, e a bolsa do rabicho. Dizia ella depois que os fidalgos
+de Villa Real eram muito menos limpos que os carvoeiros de Lisboa. Antes
+de entrar na liteira avoenga de seu marido, perguntou, com a mais
+refalsada seriedade, se não haveria risco em ir dentro d'aquella
+antiguidade. Fernão Botelho asseverou a sua nora que a sua liteira não
+tinha ainda cem annos, e que os machos não excediam a trinta.
+
+O modo altivo como ella recebeu as cortezias da nobreza--velha nobreza
+que para alli viera em tempo de D. Diniz, fundador da villa--fez que o
+mais novo do prestito, que ainda vivia ha doze annos, me dissesse a mim:
+«Sabiamos que ella era dama da Senhora D. Maria I; porém, da soberba com
+que nos tractou, ficamos pensando que seria ella a propria rainha.»
+Repicaram os sinos da terra quando a comitiva assomou á Senhora de
+Almudena. D. Rita disse ao marido que a recepção dos sinos era a mais
+estrondosa e barata.
+
+Apearam á porta da velha casa de Fernão Botelho. A aia do paço relanceou
+os olhos pela fachada do edificio, e disse de si para si: «É uma bonita
+vivenda para quem foi criada em Mafra e Cintra, na Bemposta e Queluz.»
+
+Decorridos alguns dias, D. Rita disse ao marido que tinha mêdo de ser
+devorada das ratasanas; que aquella casa era um covil de feras; que os
+tectos estavam a desabar; que as paredes não resistiriam ao inverno; que
+os preceitos de uniformidade conjugal não obrigavam a morrer de frio uma
+esposa delicada e affeita ás almofadas do palacio dos reis.
+
+Domingos Botelho conformou-se com a estremecida consorte, e começou a
+fabrica de um palacete. Escassamente lhe chegavam os recursos para os
+alicerces: escreveu á rainha, e obteve generoso subsidio com que ultimou
+a casa. As varandas das janellas foram a ultima dadiva que a real viuva
+fez á sua dama. Quer-nos parecer que a dadiva é um testemunho até agora
+inedito da demencia de D. Maria I.
+
+Domingos Botelho mandara esculpir em Lisboa a pedra de armas; D. Rita,
+porém, teimara que no escudo se abrisse um emblema das suas; mas era
+tarde, porque já a obra tinha vindo do esculptor, e o magistrado não
+podia com segunda despeza, nem queria desgostar seu pae, orgulhoso de
+seu brasão. Resultou d'aqui ficar a casa sem armas, e D. Rita
+victoriosa[2].
+
+O juiz de fóra tinha alli parentella illustre. O aprumo da fidalga
+dobrou-se até aos grandes da provincia, ou antes houve por bem
+levantal-os até ella. D. Rita tinha uma côrte de primos, uns que se
+contentavam de serem primos, outros que invejavam a sorte do marido. O
+mais audacioso não ousava fital-a de rosto, quando o ella remirava com a
+luneta em geito de tanta altivez e zombaria, que não será estranha
+figura dizer que a luneta de Rita Preciosa era a mais vigilante
+sentinella da sua virtude.
+
+Domingos Botelho desconfiava da efficacia dos merecimentos proprios para
+cabalmente encher o coração de sua mulher. Inquietava-o o ciume; mas
+suffocava os suspiros, receando que Rita se désse por injuriada da
+suspeita. E razão era que se offendesse. A neta do general frigido no
+caldeirão sarraceno ria dos primos, que, por amor d'ella, arriçavam e
+empoavam as cabelleiras com um desgracioso esmero, ou cavalleavam
+estrepitosamente na calçada os seus ginetes, fingindo que os picadores
+da provincia não desconheciam as graças hippicas do marquez de Marialva.
+
+Não o cuidava assim, porém, o juiz de fóra. O intriguista que lhe trazia
+o espirito em ancias era o seu espelho. Via-se sinceramente feio, e
+conhecia Rita cada vez mais em flôr, e mais enfadada no trato intimo.
+Nenhum exemplo da historia antiga, exemplo de amor sem quebra entre o
+esposo deforme e a esposa linda, lhe occorria. Um só lhe mortificava a
+memoria, e esse, com quanto fosse da fabula, era-lhe avêsso, e vinha a
+ser o casamento de Venus e Vulcano. Lembravam-lhe as rêdes que o
+ferreiro coixo fabricára para apanhar os deuses adulteros, e
+assombrava-se da paciencia d'aquelle marido. Entre si, dizia elle, que,
+erguido o véo da perfidia, nem se queixaria a Jupiter, nem armaria
+ratoeiras aos primos. A par do bacamarte de Luiz Botelho, que varára em
+terra o alferes, estava uma fileira de bacamartes em que o juiz de fóra
+era entendido com muito superior intelligencia á que revelava na
+comprehensão do Digesto e das Ordenações do Reino.
+
+Este viver de sobresaltos durou seis annos, ou mais seria. O juiz de
+fóra empenhára os seus amigos na transferencia, e conseguiu mais do que
+ambicionava: foi nomeado provedor para Lamego. Rita Preciosa deixou
+saudades em Villa Real, e duradoura memoria da sua soberba, formosura e
+graças de espirito. O marido tambem deixou anecdotas que ainda agora se
+repetem. Duas contarei sómente para não enfadar. Acontecèra um lavrador
+mandar-lhe o presenle de uma vitella, e mandar com ella a vacca para se
+não desgarrar a filha. Domingos Botelho mandou recolher á loja a vitella
+e a vacca, dizendo que quem dava a filha dava a mãe. Outra vez, deu-se o
+caso de lhe mandarem um presente de pasteis em rica salva de prata. O
+juiz de fóra repartiu os pasteis pelos meninos, e mandou guardar a
+salva, dizendo que receberia como escarneo um presente de dôces, que
+valiam dez patacões, sendo que naturalmente os pasteis tinham vindo como
+ornato da bandeja. E assim é que ainda hoje, em Villa Real, quando se dá
+um caso analogo de ficar alguem com o conteúdo e continente, diz a gente
+da terra: «Aquelle é como o doutor brocas.»
+
+Não tenho assumpto de tradição com que possa deter-me em miudezas da
+vida do provedor em Lamego. Escassamente sei que D. Rita aborrecia a
+comarca, e ameaçava o marido de ir com os seus cinco filhos para Lisboa,
+se elle não sahisse d'aquella intratavel terra. Parece que a fidalguia
+de Lamego, em todo o tempo orgulhosa d'uma antiguidade, que principia na
+acclamação de Almacave, desdenhou a philaucia da dama do paço, e
+esmerilhou certas vergonteas pôdres do tronco dos Botelhos Correias de
+Mesquita, desprimorando-lhe as sãs com o facto de elle ter vivido dois
+annos em Coimbra tocando flauta.
+
+Em 1801 achamos Domingos José Correia Botelho de Mesquita corregedor em
+Vizeu.
+
+Manoel, o mais velho de seus filhos, tem vinte e dois annos, e frequenta
+o segundo anno juridico. Simão, que tem quinze, estuda humanidades em
+Coimbra. As tres meninas são o prazer e a vida toda do coração de sua
+mãe.
+
+O filho mais velho escreveu a seu pae queixando-se de não poder viver
+com seu irmão, temeroso do genio sanguinario d'elle. Conta que a cada
+passo se vê ameaçado na vida, porque Simão emprega em pistolas o
+dinheiro dos livros, e convive com os mais famosos perturbadores da
+academia, e corre de noite as ruas insultando os habitantes e
+provocando-os á luta com assuadas. O corregedor admira a bravura de seu
+filho Simão, e diz á consternada mãe que o rapaz é a figura e o genio de
+seu bisavô Paulo Botelho Correia, o mais valente fidalgo que déra
+Traz-os-Montes.
+
+Manoel, cada vez mais aterrado das arremettidas de Simão, sáe de Coimbra
+antes de ferias, e vai a Vizeu queixar-se, e pedir que lhe dê seu pae
+outro destino. D. Rita quer que seu filho seja cadete de cavallaria. De
+Vizeu parte para Bragança Manoel Botelho, e justifica-se nobre dos
+quatro costados para ser cadete.
+
+No entanto Simão recolhe a Vizeu com os seus exames feitos e approvados.
+O pae maravilha-se do talento do filho, e desculpa-o da extravagancia
+por amor do talento. Pede-lhe explicações do seu mau viver com Manoel, e
+elle responde que seu irmão o quer forçar a viver monasticamente.
+
+Os quinze annos de Simão tem apparencias de vinte. É forte de
+compleição; bello homem com as feições de sua mãe, e a corpolencia
+d'ella; mas de todo avêsso em genio. Na plebe de Vizeu é que elle
+escolhe amigos e companheiros. Se D. Rita lhe censura a indigna eleição
+que faz, Simão zomba das genealogias, e mórmente do general Caldeirão
+que morreu frito. Isto bastou para elle grangear a mal-querença de sua
+mãe. O corregedor via as coisas pelos olhos de sua mulher, e tomou parte
+no desgosto d'ella, e na aversão ao filho. As irmãs temiam-no, tirante
+Rita, a mais nova, com quem elle brincava puerilmente, e a quem
+obedecia, se lhe ella pedia, com meiguices de criança, que não andasse
+com pessoas mecanicas.
+
+Finalisavam as ferias, quando o corregedor teve um grave dissabor. Um de
+seus criados tinha ido levar a beber os machos, e por descuido ou
+proposito deixou quebrar algumas vasilhas que estavam á vez no parapeito
+do chafariz. Os donos das vazilhas conjuraram contra o criado, e
+espancaram-no. Simão passava n'esse ensejo; e, armado d'um fueiro que
+descravou d'um carro, partiu muitas cabeças, e rematou o tragico
+espectaculo pela farça de quebrar todos os cantaros. O povoleu intacto
+fugira espavorido, que ninguem se atrevia ao filho do corregedor; os
+feridos, porém, incorporaram-se e foram clamar justiça á porta do
+magistrado.
+
+Domingos Botelho bramia contra o filho, e ordenava ao meirinho geral que
+o prendesse á sua ordem. D. Rita, não menos irritada, mas irritada como
+mãe, mandou, por portas travessas, dinheiro ao filho para que, sem
+detença, fugisse para Coimbra, e esperasse lá o perdão do pae.
+
+O corregedor, quando soube o expediente de sua mulher, fingiu-se
+zangado, e prometteu fazel-o capturar em Coimbra. Como, porém, D. Rita
+lhe chamasse brutal nas suas vinganças, e estupido juiz d'uma rapaziada,
+o magistrado desenrugou a severidade postiça da testa, e confessou
+tacitamente que era brutal e estupido juiz.
+
+
+
+
+II.
+
+
+Simão Botelho levou de Vizeu para Coimbra as arrogantes convicções da
+sua valentia. Se recordava os chibantes pormenores da derrota em que
+pozera trinta aguadeiros, o som cavo das pancadas, a queda atordoada
+d'este, o levantar-se d'aquelle ensanguentado, a bordoada que abrangia
+tres a um tempo, a que afocinhava dois, a gritaria de todos, e o
+estrepito dos cantaros a final, Simão deliciava-se n'estas lembranças,
+como ainda não vi n'algum drama, em que o veterano de cem batalhas
+relembra os lourós de cada uma, e esmorece, a final, estafado de
+espantar, quando não é de estafar, os ouvintes.
+
+O academico, porém, com os seus enthusiasmos era incomparavelmente muito
+mais prejudicial e perigoso que o mata-mouros de tragedia. As
+recordações esporeavam-no a façanhas novas, e n'aquelle tempo a academia
+dava azo a ellas. A mocidade estudiosa, em grande parte, sympathisava
+com as balbuciantes theorias da liberdade, mais por presentimento que
+por estudo. Os apostolos da revolução franceza não tinham podido fazer
+reboar o trovão dos seus clamores n'este canto do mundo; mas os livros
+dos encyclopedistas, as fontes onde a geração seguinte bebêra a peçonha
+que sahiu no sangue de noventa e tres, não eram de todo ignorados. As
+doutrinas da regeneração social pela guilhotina tinham alguns timidos
+sectarios em Portugal, e esses de vêr é que deviam pertencer á geração
+nova. Além de que, o rancor a Inglaterra lavrava nas entranhas das
+classes manufactureiras, e o desprender-se do jugo aviltador de
+estranhos, apertado, desde o principio do seculo anterior, com as sôgas
+de ruinosos e perfidos tractados, estava no animo de muitos e bons
+portuguezes que se queriam antes alliançados com a França, Estes eram os
+pensadores reflexivos; os sectarios da academia, porém, exprimiam mais a
+paixão da novidade que as doutrinas do raciocinio.
+
+No anno anterior de 1800 sahira Antonio de Araujo de Azevedo, depois
+conde da Barca, a negociar em Madrid e Paris a neutralidade de Portugal.
+Rejeitaram-lhe as potencias alliadas as propostas, tendo-lhe em conta de
+nada os dezeseis milhões que o diplomata offerecia ao primeiro consul.
+Sem delongas, foi o territorio portuguez infestado pelos exercitos de
+Hespanha e França. As nossas tropas, commandadas pelo duque de Lafões,
+não chegaram a travar a lucta desigual, porque, a esse tempo, Luiz Pinto
+de Sousa, mais tarde visconde de Balsemão, negociara ignominiosa paz em
+Badajoz, com cedencia de Olivença á Hespanha, exclusão de inglezes dos
+nossos portos, e indemnisação de alguns milhões á França.
+
+Estes successos tinham irritado contra Napoleão os animos d'aquelles que
+odiavam o aventureiro, e para outros deram causa a congratularem-se do
+rompimento com Inglaterra. Entre os d'esta parcialidade, na convulsiva e
+irriquieta academia, era voto de grande monta Simão Botelho, apesar dos
+seus imberbes dezeseis annos. Mirabeau, Danton, Robespierre, Desmoulins,
+e muitos outros algozes e martyres do grande açougue, eram nomes de
+soada musical aos ouvidos de Simão. Diffamal-os na sua presença era
+affrontarem-no a elle, e bofetada certa, e pistolas engatilhadas á cara
+do diffamador. O filho do corregedor de Vizeu defendia que Portugal
+devia regenerar-se n'um baptismo de sangue, para que a hydra dos
+tyrannos não erguesse mais uma das suas mil cabeças sob a clava do
+Hercules popular.
+
+Estes discursos, arremêdo d'alguma clandestina objurgatoria de
+Saint-Just, afugentavam da sua communhão aquelles mesmos que o tinham
+applaudido em mais racionaes principios de liberdade. Simão Botelho
+tornou-se odioso aos condiscipulos que, para se salvarem pela infamia, o
+delataram ao bispo-conde, reitor da universidade.
+
+Um dia proclamava o demagogo academico na praça de Sansão aos poucos
+ouvintes que lhe restaram fieis, uns por mêdo, outros por analogia de
+boças. O discurso ia no mais acrisolado da ideia regicida, quando uma
+escolta de verdeaes lhe aguou a escandecencia. Quiz o orador resistir,
+aperrando as pistolas, mas de sobra sabiam os braços musculosos da
+cohorte do bispo-conde com quem as haviam. O jacobino, desarmado e
+cerrado entre a escolta dos archeiros, foi levado ao carcere academico,
+d'onde sahiu, seis mezes depois, a grandes instancias dos amigos de seu
+pae e dos parentes de D. Rita Preciosa.
+
+Perdido o anno lectivo, foi para Vizeu Simão. O corregedor repelliu-o da
+sua presença com ameaças de o expulsar de casa. A mãe, mais levada do
+dever que do coração, intercedeu pelo filho, e conseguiu sental-o á mesa
+commum.
+
+No espaço de tres mezes fez-se maravilhosa mudança nos costumes de
+Simão. As companhias da ralé despresou-as. Sahia de casa raras vezes, ou
+só, ou com a irmã mais nova, sua predilecta. O campo, as arvores, e os
+sitios mais sombrios e êrmos eram o seu recreio. Nas dôces noites de
+estio demorava-se por fora até ao repontar da alva; e aquelles que assim
+o viam admiravam-lhe o ar scismador e o recolhimento que o sequestrava
+da vida vulgar. Em casa encerrava-se no seu quarto, e sahia quando o
+chamavam para a mesa.
+
+D. Rita pasmava da transfiguração, e o marido, bem convencido d'ella, ao
+fim de cinco mezes consentiu que seu filho lhe dirigisse a palavra.
+
+Simão Botelho amava. Ahi está uma palavra unica, explicando o que
+parecia absurda reforma aos dezesete annos.
+
+Amava Simão uma sua visinha, menina de quinze annos, rica herdeira,
+regularmente bonita e bem nascida. Da janella do seu quarto é que elle a
+vira a primeira vez para amal-a sempre. Não ficara ella incolume da
+ferida que fizera no coração do visinho: amou-o tambem, e com mais
+seriedade que a usual nos seus annos.
+
+Os poetas cansam-nos a paciencia a fallarem do amor da mulher aos quinze
+annos, como paixão perigosa, unica, e inflexivel. Alguns prosadores de
+romances dizem o mesmo. Enganam-se ambos. O amor dos quinze annos é uma
+brincadeira; é a ultima manifestação do amor ás bonecas; é a tentativa
+da avesinha que ensaia o vôo fóra do ninho, sempre com os olhos fitos na
+ave mãe que a está da fronde proxima chamando: tanto sabe a primeira o
+que é amar muito, como a segunda o que é voar para longe.
+
+Thereza de Albuquerque devia ser, por ventura, uma excepção no seu amor.
+
+O magistrado e sua familia eram odiosos ao pae de Thereza, por motivos
+de litigios em que Domingos Botelho lhe deu sentenças contra. Afóra
+isso, ainda no anno anterior dois criados de Thadeu de Albuquerque
+tinham sido feridos na celebrada pancadaria da fonte. Salta aos olhos
+que o amor de Thereza, declinando de si o dever de obtemperar e
+sacrificar-se ao justo azedume de seu pae, era verdadeiro e forte.
+
+E este amor era singularmente discreto e cauteloso. Viram-se e
+fallaram-se tres mezes, sem darem rebate á visinhança, e nem sequer
+suspeitas ás duas familias. O destino, que ambos se promettiam, era o
+mais honesto: elle ia formar-se para poder sustental-a, se não tivessem
+outros recursos; ella esperava que seu velho pae fallecesse para,
+senhora sua, lhe dar com o coração o seu grande patrimonio. Espanta
+discrição tamanha na indole de Simão Botelho, e na presumivel ignorancia
+de Thereza em coisas materiaes da vida, como são um patrimonio!
+
+Na vespera da sua ida para Coimbra, estava Simão Botelho despedindo-se
+da suspirosa menina, quando subitamente ella foi arrancada da janella. O
+allucinado moço ouviu gemidos d'aquella voz que, um momento antes,
+soluçava commovida por lagrimas de saudade. Subiu-lhe o sangue á cabeça;
+contorceu-se no seu quarto como o tigre contra as grades inflexiveis da
+jaula. Teve tentações de se matar, na impotencia de soccorrêl-a. As
+restantes horas d'aquella noite passou-as em raivas e projectos de
+vingança. Com o amanhecer esfriou-lhe o sangue, e renasceu a esperança
+com os calculos.
+
+Quando o chamaram para partir para Coimbra, lançou-se do leito de tal
+modo desfigurado, que sua mãe, avisada do rosto amargurado d'elle, foi
+ao quarto interrogal-o e despersuadil-o de ir era quanto assim estivesse
+febril. Simão, porém, entre mil projectos, achara melhor o de ir para
+Coimbra, e esperar lá noticias de Thereza, e vir a Vizeu occultamente
+fallar com ella. Ajuizadamente discorrêra elle, que a sua demora
+aggravaria a situação de Thereza.
+
+Descêra o academico ao páteo, depois de abraçar a mãe e irmãs, e beijar
+a mão do pae, que para esta hora reservara uma admoestação severa, a
+ponto de lhe asseverar que de todo o abandonaria se elle recahisse em
+novas extravagancias. Quando mettia o pé no estribo, viu a seu lado uma
+velha mendiga, estendendo-lhe a mão aberta, como quem pede esmola, e, na
+palma da mão, um pequeno papel. Sobresaltou-se o moço; e, a poucos
+passos distante de sua casa, leu estas linhas:
+
+«Meu pae diz que me vai encerrar n'um convento, por tua causa. Soffrerei
+tudo por amor de ti. Não me esqueças tu, e achar-me-has no convento, ou
+no ceo, sempre tua do coração, e sempre leal. Parte para Coimbra. Lá
+irão dar as minhas cartas; e na primeira te direi em que nome has de
+responder á tua pobre Thereza.»
+
+A mudança do estudante maravilhou a academia. Se o não viam nas aulas,
+em parte nenhuma o viam. Das antigas relações restavam-lhe apenas as dos
+condiscipulos sensatos que o aconselhavam para bem, e o visitaram no
+carcere de seis mezes, dando-lhe alentos e recursos, que seu pae lhe não
+dava, e sua mãe escassamente suppria. Estudava com fervor, como quem já
+d'alli formava as bases do futuro renome e da posição por elle merecida,
+bastante a sustentar dignamente a esposa. A ninguem confiava o seu
+segredo, senão ás cartas que enviava a Thereza, longas cartas em que
+folgava o espirito da canceira da sciencia. A apaixonada menina
+escrevia-lhe a miudo, e já dizia que a ameaça do convento fôra mero
+terror de que já não tinha mêdo, porque seu pae não podia viver sem
+ella.
+
+Isto afervorou-lhe para mais o amor ao estudo. Simão, chamado em pontos
+difficeis das materias do primeiro anno, tal conta deu de si, que os
+lentes e os condiscipulos o houveram como primeiro premiado.
+
+A este tempo, Manoel Botelho, cadete em Bragança, destacado no Porto,
+licenciou-se para estudar na universidade as mathematicas. Animou-o a
+noticia do reviramento que se déra em seu irmão. Foi viver com elle;
+achou-o quieto; mas alheado n'uma ideia que o tornava misanthropo e
+intratavel n'outro genero. Pouco tempo conviveram, sendo a causa da
+separação um desgraçado amor de Manoel Botelho a uma açoriana casada com
+um academico. A esposa apaixonada perdeu-se nas illusões do cego amante.
+Deixou o marido, e fugiu com elle para Lisboa, e d'ahi para Hespanha. Em
+outro relanço d'esta narrativa darei conta do remate d'este episodio.
+
+No mez de Fevereiro de 1803 recebeu Simão Botelho uma carta de Thereza.
+No seguinte capitulo se diz minuciosamente a peripecia que forçára a
+filha de Thadeu de Albuquerque a escrever aquella carta de pungentissima
+surpreza para o academico, convertido aos deveres, á honra, á sociedade
+e a Deus pelo amor.
+
+
+
+
+III.
+
+
+O pae de Thereza não embicaria na impureza do sangue do corregedor, se o
+ajustarem-se os dois filhos em casamento se compadecesse com o odio de
+um e o desprêso do outro. O magistrado mofava do rancor do seu visinho,
+e o visinho malsinava de venalidade a reputação do magistrado. Este
+sabia da injuriosa vingança em que o outro se ia despicando; fingia-se
+invulneravel á detracção; mas de dia para dia se lhe azedava a bilis; e
+é de crêr que, se o não contivessem considerações de familia, soffreria
+menos, desabafando pela bôca d'um bacamarte, arma da predilecção dos
+Botelhos Correias de Mesquita. Era obra sobrehumana o reconciliarem-se.
+Rita, a filha mais nova, estava um dia na janella do quarto de Simão, e
+viu a visinha rente com os vidros e a testa apoiada nas mãos. Sabia
+Thereza que era aquella menina a mais querida irmã de Simão, e a que
+mais semelhança de parecer tinha com elle. Sahiu da sua artificial
+indifferença, e respondeu ao reparo de Rita, fazendo-lhe com a mão um
+gesto e sorrindo para ella. A filha do corregedor sorriu tambem, mas
+fugiu logo da janella, porque sua mãe tinha prohibido ás filhas de
+trocarem vistas com pessoa d'aquella casa.
+
+No dia seguinte á mesma hora, levada da sympathia que lhe causára
+aquelle sorriso e aceno, tornou Rita á janella, e lá viu Thereza com os
+olhos fitos na sua, como se a estivesse esperando. Sorriram-se com
+resguardo, afastando-se, a um tempo, do peitoril das janellas; e assim,
+ambas de pé, no interior dos quartos, se estavam contemplando. Como a
+rua era estreita, podiam ouvir-se fallando baixo. Thereza, mais pelo
+movimento dos labios que por palavras, perguntou a Rita se era sua
+amiga. A menina respondeu com um gesto affirmativo, e fugiu,
+acenando-lhe um adeus. Estes rapidos instantes de se vêrem repetiram-se
+successivos dias, até que, perdido o maior mêdo de ambas, ousaram
+demorar-se em palestras a meia voz. Thereza fallava de Simão, contava á
+menina de onze annos o segredo do seu amor, e dizia-lhe que ella havia
+de ser ainda sua irmã, recommendando-lhe muito que não dissesse nada á
+sua familia.
+
+N'uma d'essas conversações, Rita descuidara-se, e levantou de modo a voz
+que foi ouvida d'uma irmã, que a foi logo accusar ao pae. O corregedor
+chamou Rita, e forçou-a pelo terror a contar tudo que ouvira á visinha.
+Tanta foi sua cólera, que, sem attender ás razões da esposa, que viera
+espavorida dos gritos d'elle, correu ao quarto de Simão, e viu ainda
+Thereza á janella.
+
+Ólé!--disse elle á pállida menina--Não tenha a confiança de pôr olhos em
+pessoa de minha casa. Se quer casar, case com um sapateiro, que é um
+digno genro de seu pae.
+
+Thereza não ouviu o remate da brutal apostrophe: tinha fugido aturdida e
+envergonhada. Porém, como o desabrido ministro ficasse bramindo no
+quarto, e Thadeu de Albuquerque sahisse a uma janella, a cólera
+d'aquelle redobrou, e a torrente das injurias, longo tempo represada,
+bateu no rosto do visinho, que não ousou replicar-lhe.
+
+Thadeu interrogou sua fllha, e acreditou que foi causa á sanha de
+Domingos Botelho estarem as duas meninas praticando innocentemente, por
+tregeitos, em coisas de sua idade. Desculpou o velho a criancice de
+Thereza, admoestando-a a que não voltasse áquella janella.
+
+Esta mansidão do fidalgo, cujo natural era bravio, tem a sua explicação
+no projecto de casar em breve a filha com seu primo Balthazar Coutinho,
+de Castro-d'Aire, senhor de casa, e egualmenle nobre da mesma prosapia.
+Cuidava o velho, presumpçoso conhecedor do coração das mulheres, que a
+brandura seria o mais seguro expediente para levar a filha ao
+esquecimento d'aquelle pueril amor a Simão. Era maxima sua que o amor,
+aos quinze annos, carece de consistencia para sobreviver a uma ausencia
+de seis mezes. Não pensava errado o fidalgo, mas o erro existia. As
+excepções tem sido o ludibrio dos mais assizados pensadores, tanto no
+especulativo como na sciencia positiva. Não era muito que Thadeu de
+Albuquerque fosse enganado em coisas de amor e coração de mulher, cujas
+variantes são tantas e tão caprichosas, que eu não sei se alguma maxima
+póde ser-nos guia, a não ser esta: «Em cada mulher, quatro mulheres
+incomprehensiveis, pensando alternadamente como se hão de desmentir umas
+ás outras.» Isto é o mais seguro; mas não é infallivel. Ahi está Thereza
+que parece ser unica em si. Dir-se-ha que as tres da conta, que diz a
+sentença, não podem coexistir com a quarta, aos quinze annos? Tambem o
+penso assim, posto que a fixidez, a constancia d'aquelle amor, funda em
+causa independente do coração: é porque Thereza não vai á sociedade, não
+tem um altar em cada noite na sala, não provou o incenso d'outros
+galans, nem teve ainda uma hora de comparar a imagem amada, desluzida
+pela ausencia, com a imagem amante, amor nos olhos que a fitam, e amor
+nas palavras que a convencem de que ha um coração para cada homem, e uma
+só mocidade para cada mulher. Quem me diz a mim que Thereza teria em si
+as quatro mulheres da maxima, se o vapor de quatro incensorios lhe
+estonteasse o espirito? Não é facil, nem preciso decidir; e vamos ao
+conto.
+
+Ácerca de Simão Botelho, nunca diante de sua filha Thadeu de Albuquerque
+proferiu palavra, nem antes nem depois do disparate do corregedor. O que
+elle fez logo foi chamar a Vizeu o sobrinho de Castro d'Aire, e
+prevenil-o do seu designio, para que elle em face de Thereza procedesse
+como convinha a um enamorado de feição, que mutuamente se apaixonassem e
+promettessem auspicioso futuro ao casamento.
+
+Por parte de Balthazar Coutinho a paixão inflammou-se tão depressa,
+quanto o coração de Thereza se congelou de terror e repugnancia. O
+morgado de Castro-d'Aire, attribuindo a frieza de sua prima a modestia,
+a innocencia e acanhamento, lisonjeou-se do virginal melindre d'aquella
+alma, e saboreou de antemão o prazer de uma lenta, mas segura conquista.
+Verdade é que Balthazar nunca se explicara de modo que Thereza lhe désse
+resposta decisiva; um dia, porém, instigado por seu tio, affoitou-se o
+ditoso noivo a fallar assim á melancólica menina:
+
+--É tempo de lhe abrir o meu coração, prima. Está bem disposta a
+ouvir-me?
+
+---Eu estou sempre bem disposta a ouvil-o, primo Balthazar.
+
+A desplicencia enfadosa d'esta resposta abalou algum tanto as convicções
+do fidalgo, respeito á innocencia, modestia e acanhamento de sua prima.
+Ainda assim quiz elle no momento persuadir-se que a boa vontade não
+poderia exprimir-se d'outro modo, e continuou:
+
+--Os nossos corações penso eu que estão unidos; agora é preciso que as
+nossas casas se unam.
+
+Thereza impallideceu, e baixou os olhos.
+
+--Acaso lhe diria eu alguma coisa desagradavel?!--proseguiu Balthazar,
+rebatido pela desfiguração de Thereza.
+
+--Disse-me o que é impossível fazer-se--respondeu ella sem turvação--O
+primo engana-se: os nossos corações não estão unidos. Sou muito sua
+amiga, mas nunca pensei em ser sua esposa, nem me lembrou que o primo
+pensava em tal.
+
+--Quer dizer que me aborrece, prima Thereza?--atalhou corrido o morgado.
+
+--Não, senhor: já lhe disse que o estimava muito, e por isso mesmo não
+devo ser esposa d'um amigo a quem não posso amar. A infelicidade não
+seria só minha...
+
+--Muito bem... Posso eu saber--tornou com refalsado sorriso o
+primo--quem é que me disputa o coração de minha prima?
+
+--Que lucra em o saber?
+
+--Lucro saber, pelo menos, que a minha prima ama outro homem... é
+exacto?
+
+--É.
+
+--E com tamanha paixão que desobedece a seu pae?
+
+--Não desobedeço: o coração é mais forte que a submissa vontade de uma
+filha. Desobedeceria, se casasse contra a vontade de meu pae; mas eu não
+disse ao primo Balthazar que casava; disse-lhe unicamente que amava.
+
+--Sabe a prima que eu estou espantado do seu modo de dizer!... quem
+pensaria que os seus dezeseis annos estavam tão abundantes de
+palavras!...
+
+--Não são só palavras, primo--retorquiu Thereza com gravidade--são
+sentimentos que merecem a sua estima, por serem verdadeiros. Se lhe eu
+mentisse ficaria mais bem vista de meu primo?
+
+--Não, prima Thereza; fez bem em dizer a verdade, e de a dizer em tudo.
+Ora, olhe, não duvída declarar quem é o ditoso mortal da sua
+preferencia?
+
+--Que lhe faz saber isso?
+
+--Muito, prima: todos temos a nossa vaidade, e eu folgaria muito de me
+vêr vencido por quem tivesse merecimentos que eu não tenho aos seus
+olhos. Tem a bondade de me dizer o seu segredo, como o diria a seu primo
+Balthazar, se o tivesse em conta do seu amigo intimo?
+
+--N'essa conta é que eu o não posso já ter...--respondeu Thereza,
+sorrindo e contando, como elle, as syllabas das palavras.
+
+--Pois nem para amigo me quer?!
+
+--O primo não me perdoa a sinceridade que eu tive, e será de hoje em
+diante meu inimigo.
+
+--Pelo contrario...--tornou elle com mal rebuçada ironia--muito pelo
+contrario... Eu lhe provarei que sou seu amigo, se alguma vez a vir
+casada com algum miseravel indigno de si.
+
+--Casada!...--interrompeu ella; mas Balthazar cortou-lhe logo a réplica
+d'este modo:
+
+--Casada com algum famoso ébrio ou jogador de páo, valentão de
+aguadeiros, e distincto cavalheiro que passa os annos lectivos
+encarcerado nas cadêas de Coimbra...
+
+Visivel é que Balthazar Coutinho estava senhor do segredo de Thereza.
+Seu tio, naturalmente, lhe communicara a criancice da prima, talvez
+antes de destinar-lh'a esposa.
+
+Ouvira Thereza o tom sarcastico d'aquellas palavras, e erguêra-se
+respondendo assim com altivez:
+
+--Não tem mais que me diga, primo Balthazar?
+
+--Tenho, prima: queira sentar-se algum tempo mais. Não cuide agora que
+está fallando com o namorado infeliz: convença-se de que falla com o seu
+mais proximo parente e mais sincero amigo, e mais decidido guarda da sua
+dignidade e fortuna. Eu sabia que minha prima, contra a expressa vontade
+de seu pae, uma ou outra vez conversára da janella com o filho do
+corregedor. Não dei valor ao successo, e tomei-o como criancice. Como eu
+frequentasse o meu ultimo anno em Coimbra, ha dois annos conheci de
+sobra Simão Botelho. Quando vim e me contaram a sua affeição ao
+academico, pasmei da boa fé da priminha; depois entendi que a sua mesma
+innocencia devia ser o seu anjo custodio. Agora, como seu amigo,
+cumpunjo-me de a vêr ainda fascinada pela perversidade do seu visinho.
+Não se recorda de ter visto Simão Botelho sociando com a infima
+vilanagem d'esta terra? Não viu os seus criados com as cabeças quebradas
+pelo tal varredor de feiras? Não lhe constou que elle, em Coimbra,
+abarrotado de vinho, andava pelas ruas armado como um salteador de
+estradas, proclamando á canalha a guerra aos nobres, e aos reis, e á
+religião de nossos paes? A prima ignoraria isto por ventura?
+
+--Ignorava parte d'isso, e não me afflige o sabêl-o. Desde que conheci
+Simão, não me consta que elle tenha dado o menor desgosto á sua familia,
+nem ouço fallar mal d'elle.
+
+--E está por isso persuadida de que Simão deve ao seu amor a reforma de
+costumes?
+
+--Não sei, nem penso n'isso--replicou com enfado Thereza.
+
+--Não se zangue, prima. Vou-lhe dizer as minhas ultimas palavras: eu hei
+de, em quanto viver, trabalhar para salval-a das garras de Simão
+Botelho. Se seu pae lhe faltar, fico eu. Se as leis a não defenderem dos
+ataques do seu demonio, eu farei vêr ao valentão que a victoria sobre os
+aguadeiros não o poupa ao desgosto de ser levado a pontapés para fóra da
+casa de meu tio Thadeu d'Albuquerque.
+
+--Então o primo quer-me governar?--atalhou ella com desabrida irritação.
+
+--Quero-a dirigir em quanto a sua razão precisar de auxilio. Tenha
+juizo, e eu serei indifferente ao seu destino. Não a enfado mais, prima
+Thereza.
+
+Balthazar Coutinho foi d'ali procurar seu tio, e contou-lhe o essencial
+do dialogo. Thadeu, atonito da coragem da filha, e ferido no coração e
+direitos paternaes, correu ao quarto d'ella, disposto a espancal-a.
+Reteve-o Balthazar, reflexionando-lhe que a violencia prejudicaria muito
+a crise, sendo coisa de esperar que Thereza fugisse de casa. Refreou o
+pae a sua ira, e meditou. Horas depois chamou sua filha, mandou-a sentar
+ao pé de si, e em termos serenos e gesto bem composto, lhe disse que era
+sua vontade casal-a com o primo; porém que elle já sabia que a vontade
+de sua filha não era essa. Ajuntou que a não violentaria; mas tambem não
+consentiria que ella, sovando aos pés o pundonor de seu pae, se désse de
+coração ao filho do seu maior inimigo. Disse mais que estava a resvalar
+na sepultura, e mais depressa desceria a ella, perdendo o amor da filha,
+que elle já considerava morta. Terminou perguntando a Thereza, se ella
+duvidava entrar n'um convento, e ahi esperar que seu pae morresse, para
+depois ser desgraçada á sua vontade.
+
+Thereza respondeu, chorando, que entraria n'um convento, se essa era a
+vontade de seu pae; porém que se não privasse elle de a ter em sua
+companhia, nem a privasse a ella dos seus affectos, por mèdo de que sua
+filha praticasse alguma acção indigna, ou lhe desobedecesse no que era
+virtude obedecer. Prometteu-lhe julgar-se morta para todos os homens,
+menos para seu pae.
+
+Thadeu ouviu-a, e não lhe replicou.
+
+
+
+
+IV.
+
+
+O coração de Thereza estava mentindo. Vão lá pedir sinceridade ao
+coração!
+
+Para finos entendedores, o dialogo do anterior capitulo definiu a filha
+de Thadeu de Albuquerque. É mulher varonil, tem força de caracter,
+orgulho fortalecido pelo amor, despêgo das vulgares apprehensões, se são
+apprehensões a renuncia que uma filha faz de sua vontade ás
+imprevidentes e caprichosas vontades de seu pae. Diz boa gente que não,
+e eu abundo sempre no voto da gente boa. Não será aleive attribuir-lhe
+uma pouca de astucia, ou hypocrisia, se quizerem; perspicacia seria mais
+correcto dizer. Thereza adivinha que a lealdade tropeça a cada passo na
+estrada real da vida, e que os melhores fins se attingem por atalhos
+onde não cabem a franqueza e a sinceridade. Estes ardis são raros na
+idade inexperta de Thereza; mas a mulher do romance quasi nunca é
+trivial, e esta, de que resam os meus apontamentos, não o era. A mim me
+basta para crêr em sua distincção a celebridade que ella veio a ganhar á
+conta da desgraça.
+
+Da carta que ella escreveu a Simão Botelho, contando as scenas
+descriptas, a critica deduz que a menina de Vizeu contemporisava com o
+pae, pondo a mira no futuro, sem passar pelo dissabor do convento, nem
+romper com o velho em manifesta desobediencia. Na narrativa que fez ao
+academico omittiu ella as ameaças do primo Balthazar, clausula que, a
+ser transmittida, arrebataria de Coimbra o moço, em que sobejavam brios
+e ferocidade para mantêl-os.
+
+Mas não é esta ainda a carta que surprendeu Simão Botelho.
+
+Parecia bonançoso o ceo de Thereza. Seu pae não fallava em claustro, nem
+em casamento. Balthazar Coutinho voltára ao seu solar de Castro-d'Aire.
+A tranquilla menina dava semanalmente estas boas novas a Simão, e este,
+alliando ás venturas do coração as riquezas do espirito, estudava
+incessantemente, e desvelava as noites arquitectando o seu edifício de
+futura gloria.
+
+Ao romper d'alva, d'um domingo de Junho de 1803, foi Thereza chamada
+para ir com seu pae á primeira missa da igreja parochial. Vestiu-se a
+menina assustada, e encontrou o velho na ante-camara a recebêl-a com
+muito agrado, perguntando-lhe se ella se erguia de bons humores para dar
+ao author de seus dias um resto de velhice feliz. O silencio de Thereza
+era interrogador.
+
+--Vais hoje dar a mão de esposa a teu primo Ballhazar, minha filha. É
+preciso que te deixes cegamente levar pela mão de teu pae. Logo que
+déres este passo difficil, conhecerás que a tua felicidade é d'aquellas
+que precisam ser impostas pela violencia. Mas repara, minha querida
+filha, que a violencia de um pae é sempre amor. Amor tem sido a minha
+condescendencia e brandura para comtigo. Outro teria subjugado a tua
+desobediencia com maus tractos, com os rigores do convento, e talvez com
+o desfalque do teu grande patrimonio. Eu, não. Esperei que o tempo te
+aclarasse a razão, e felicito-me de te julgar desassombrada do diabolico
+prestigio do maldito, que acordou o teu innocente coração. Não te
+consultei outra vez sobre este casamento, por temer que a reflexão
+fizesse mal ao fervor de boa filha com que tu vais abraçar teu pae, e
+agradecer-lhe a sisudez com que elle respeitou o teu genio, velando
+sempre a hora de te encontrar digna do seu amor.
+
+Thereza não desfitou os olhos do pae; mas tão abstrahida estava, que
+escassamente lhe ouviu as primeiras palavras, e nada das ultimas.
+
+--Não me respondes, Thereza?!- tornou Thadeu, tomando-lhe caridosamente
+as mãos.
+
+--Que hei-de eu responder-lhe, meu pae?--balbuciou ella.
+
+--Dás-me o que te peço? enches de contentamento os poucos dias que me
+restam?
+
+--E será o pae feliz com o meu sacrificio?
+
+--Não digas sacrificio, Thereza... A'manhã a estas horas verás que
+transfiguração se fez na tua alma. Teu primo é um composto de todas as
+virtudes; nem a qualidade de ser um gentil moço lhe falta, como se a
+riqueza, a sciencia e as virtudes não bastassem a formar um marido
+excellente.
+
+--E elle quer-me, depois de eu me ter negado?--disse ella com amargura
+ironica.
+
+--Se elle está apaixonado, filha!... e tem bastante confiança em si para
+crêr que tu has de amal-o muito!...
+
+--E não será mais certo odial-o eu sempre!? Eu agora mesmo o abomino
+como nunca pensei que se podesse abominar! Meu pae...--continuou ella,
+chorando, com as mãos erguidas--mate-me; mas não me force a casar com
+meu primo! E' escusada a violencia, porque eu não caso!..
+
+Thadeu mudou de aspecto, e disse irado:
+
+--Hás de casar! Quero que cases! Quero!... Quando não, amaldiçoada serás
+para sempre, Thereza! Morrerás n'um convento! Esta casa irá para teu
+primo! Nenhum infame ha de aqui pôr um pé nas alcatifas de meus avós. Se
+és uma alma vil, não me pertences, não és minha filha, não podes herdar
+appellidos honrosos, que foram pela primeira vez insultados pelo pae
+d'esse miseravel que tu amas! Maldita sejas! Entra n'esse quarto, e
+espera que d'ahi te arranquem para outro, onde não verás um raio de sol.
+
+Thereza ergueu-se sem lagrimas, e entrou serenamente no seu quarto.
+Thadeu de Albuquerque foi encontrar seu sobrinho, e disse-lhe:
+
+--Não te posso dar minha filha, porque já não tenho filha. A miseravel,
+a quem dei este nome, perdeu-se para nós e para ella.
+
+Balthazar, que, a juizo de seu tio, era um composto de excellencias,
+tinha apenas uma quebra: a absoluta carencia de brios. Malograda a
+tentativa do seu amor de emboscada, tornou para a terra o primo de
+Thereza, dizendo ao velho que elle o livraria do assedio em que Simão
+Botelho lhe tinha o coração da filha. Não approvou a reclusão no
+convento, discorrendo sobre as hypotheses infamantes que a opinião
+publica inventaria. Aconselhou que a deixasse estar em casa, e esperasse
+que o filho do corregedor viesse de Coimbra.
+
+Ponderaram no animo do velho as razões de Balthazar. Thereza
+maravilhou-se da quietação inesperada de seu pae, e desconfiou da
+incoherencia. Escreveu a Simão. Nada lhe escondeu do succedido; nem as
+ameaças de Balthazar por delicadeza supprimiu. Rematava communicando-lhe
+as suas suspeitas de alguma nova traça de violencia melhor agourada.
+
+O academico, chegando ao periodo das ameaças, já não tinha clara luz nos
+olhos para decifrar o restante da carta. Tremia sezões, e as artérias
+frontaes arfavam-lhe entumecidas. Não era sobresalto do coração
+apaixonado: era a indole soberba que lhe escaldava o sangue. Ir d'ali a
+Castro-d'Aire, e apunhalar o primo de Thereza na sua propria casa, foi o
+primeiro conselho, que lhe segredou a furia do odio. N'este proposito
+sahiu, alugou cavallo, e recolheu a vestir-se de jornada. Já preparado,
+a cada minuto de espera assomava-se em frenesis. O cavallo demorou-se
+meia hora, e o seu bom anjo, n'este espaço, vestido com as galas com que
+elle vestia na imaginação Thereza, deu-lhe rebates de saudade d'aquelles
+tempos e ainda das horas d'aquelle mesmo dia, em que scismava na
+felicidade que o amor lhe promettia, se a elle procurasse no caminho do
+trabalho e da honra. Contemplou os seus livros com tanto affecto, como
+se em cada um estivesse uma pagina da historia do seu coração. Nenhuma
+d'aquellas paginas tinha elle lido, sem que a imagem de Thereza lhe
+apparecesse a fortalecêl-o para vencer os tédios da continuada
+applicaçao, e os impetos d'um natural inquieto e ancioso de commoções
+desusadas. «E ha de tudo acabar assim?»--pensava elle, com a face entre
+as mãos, encostado á sua banca de estudo.--«Ainda ha pouco eu era tão
+feliz!...»--«Feliz!»--repetiu elle erguendo-se de golpe--«quem póde ser
+feliz com a deshonra d'uma ameaça impune!... Mas eu perco-a! Nunca mais
+hei de vêl-a... Fugirei como um assassino, e meu pae será o meu primeiro
+inimigo, e ella mesma ha de horrorisar-se da minha vingança... A ameaça
+só ella a ouviu; e, se eu tivesse sido aviltado no conceito de Thereza,
+pelos insultos do miseravel, talvez que ella os não repetisse...»
+
+Simão Botelho releu a carta duas vezes, e á terceira leitura achou menos
+affrontosas as bravatas do fidalgo cioso. As linhas finaes desmentiam
+formalmente a suspeita do aviltamento, com que o seu orgulho o
+atormentava: eram expressões ternas, supplicas ao seu amor como
+recompensa dos passados e futuros desgostos, visões encantadoras do
+futuro, novos juramentos de constancia, e sentidas phrases de saudade.
+
+Quando o arreeiro bateu á porta, Simão Botelho já não pensava em matar o
+homem de Castro-d'Aire; mas resolvêra ir a Vizeu, entrar de noite,
+esconder-se e vêr Thereza. Faltava-lhe, porém, casa de confiança onde se
+occultasse. Nas estalagens, seria logo descoberto. Perguntou ao arreeiro
+se conhecia alguma casa em Vizeu onde elle podesse estar escondido uma
+noite ou duas, sem receio de ser denunciado. O arreeiro respondeu que
+tinha a um quarto de legua de Vizeu um primo ferrador; e não conhecia em
+Vizeu senão os estalajadeiros. Simão achou de aproveitar o parentesco do
+homem, e logo d'alli o presenteou com uma jaqueta de pelles e uma faxa
+de sêda escarlate, á conta de maiores valores promettidos, se elle o bem
+servisse n'uma empreza amorosa.
+
+No dia seguinte chegou o academico a casa do ferrador. O arreeiro deu
+conta ao seu parente do que vinha tratado com o estudante.
+
+Foi Simão Botelho cautelosamente hospedado, e o arreeiro abalou no mesmo
+ponto para Vizeu, com uma carta destinada a uma mendiga, que morava no
+mais impraticavel bêcco da terra. A mendiga informou-se miudamente da
+pessoa que enviava a carta, e sahiu, mandando esperar o caminheiro.
+Pouco depois, voltou ella com a resposta, e o arreeiro partiu a galope.
+
+Era a resposta um grito de alegria. Thereza não reflectiu, respondendo a
+Simão, que n'aquella noite se festejavam os annos de seu pae, e se
+reuniam em casa os parentes. Disse-lhe que ás onze horas em ponto ella
+iria ao quintal, e lhe abriria a porta.
+
+Não esperava tanto o academico. O que elle pedia era fallar-lhe da rua
+para a janella do seu quarto, e receava impossivel este prazer, que elle
+avaliava o maximo. Apertar-lhe a mão, sentir-lhe o halito, abraçal-a
+talvez, commetter a ousadia de um beijo, estas esperanças, tão além de
+suas modestas e honestas ambições, egualmente o enlevavam e assustavam.
+Enlevo e susto em corações que se estreiam na comedia humana, são
+sentimentos congeniaes.
+
+Á hora da partida, Simão tremia, e a si mesmo pedia contas da timidez,
+sem saber que os encantos da vida, os mais angelicos momentos da alma,
+são esses lances de mysterioso alvoroço que aos mais ricos de coração
+succedem em todas as sasões da vida, e a todos os homens, uma vez ao
+menos.
+
+Ás onze horas em ponto estava Simão encostado á porta do quintal, e a
+distancia convencionada o arreeiro com o cavallo á rédea. A toada da
+musica, que vinha das salas remotas alvoroçava-o, porque a festa em casa
+de Thadeu de Albuquerque o surprendêra. No longo termo de tres annos
+nunca elle ouvira musica n'aquella casa. Se elle soubesse o dia
+natalicio de Thereza, espantára-se menos da estranha alegria d'aquellas
+salas, sempre fechadas, como em dias de mortuorio. Simão imaginou
+desvairadaraente as chimeras que voejam, ora negras, ora translucidas em
+redor da phantasia apaixonada. Não ha balisa racional para as bellas,
+nem para as horrorosas ilusões, quando o amor as inventa. Simão Botelho,
+com o ouvido collado á fechadura, ouvia apenas o som das flautas, e as
+pancadas do coração sobresaltado.
+
+
+
+
+V
+
+
+Balthazar Cominho estava na sala, simulando vingativa indifferença por
+sua prima. As irmãs do fidalgo e a de mais parentela da casa não
+deixavam respirar Thereza. Moças e velhas, todas á uma, se repetiam,
+aconselhando-a a reconciliar-se com seu primo, e dar a seu pae a alegria
+que o pobre velho tanto rogava a Deus, antes de fechar os olhos.
+Replicava Thereza que não queria mal a seu primo, nem sequer eslava
+sentida d'elle; que era sua amiga, e sêl-o-ia sempre em quanto lhe elle
+deixasse livre o coração.
+
+O velho esperava muito d'aquella noitada de festa. Alguns parentes,
+presumidos de prudentes, lhe tinham dito que seria proveitoso regalar a
+filha com os prazeres congruentes á sua idade, dando-lhe ensejo a que
+ella repartisse o espirito, concentrado n'um só ponto, por diversões em
+que a natural vaidade se preoccupa, e a força do amor contrariado se vai
+a pouco e pouco quebrantando. Aconselharam-lhe as reuniões amiudadas, já
+em sua casa, já na dos seus parentes, para d'este modo Thereza se
+mostrar a muitos, ser cortejada de todos, e ter em opinião de menos
+valia o unico homem com quem fallava, e a quem julgava superior a todos.
+O fidalgo accedeu, mas com difficuldade; porque tinha lá um systema seu
+de ajuizar das mulheres, e porque vivêra trinta annos de vida libertina
+e dispendiosa, e se estava agora saboreando na economia e na quietação.
+Os annos de Thereza eram pela primeira vez festejados com estrondo. A
+morgada viu então o que era o minuete da côrte, e certos jogos de
+prendas com que os intervallos n'aquelles tempos, se aligeiravam em
+delicias, sem fadiga do corpo, nem desagrado da moral.
+
+Mas, de agitada que estava, Thereza não compartia do gôso dos seus
+hospedes. Desde que soaram as dez horas d'aquella noite, a rainha da
+festa parecia tão alheada das finezas com que senhoras e homens á
+competência a lisonjeavam, que Balthazar Coutinho deu fé do dessocêgo de
+sua prima, e teve a modestia de imaginar que ella se offendêra da
+indifferença d'elle. Generoso até ao perdão, o morgado de Castro-d'Aire,
+compondo o rosto com gesto grave e melancolico, dirigiu-se a Thereza, e
+pediu-lhe desculpa da frieza que elle disse ser como a das montanhas,
+que tem vulcões por dentro e neve por fóra. Thereza teve a sinceridade
+de responder que não tinha reparado na frieza de seu primo, e chamou
+para junto d'ella uma menina, para evitar que a montanha se abrisse em
+vulcões. Pouco depois ergueu-se, e sahiu da sala.
+
+Eram dez horas e tres quartos. Thereza corrêra ao fundo do quintal,
+abrira a porta, e, como não visse alguem, tornou de corrida para a sala.
+No momento, porém, de subir a escada que ligava o jardim á casa,
+Balthazar Coutinho, que a espiava desde que ella sahiu da sala, chegou a
+uma das janellas sobre o jardim, bem longe de imaginar que a via.
+Retirou-se, e entrou com Thereza na sala, ao mesmo tempo, por diversas
+portas. Decorridos alguns minutos, a menina sahiu outra vez, e o primo
+tambem. Thereza ouviu, a distancia, o estrepito d'um cavallo, quando
+passou ao patamar da escada. Balthazar tambem o ouviu, e notou que sua
+prima, receosa de ser vista e conhecida pela alvura do vestido, levava
+uma capa ou chaile que a envolvia toda. O de Castro-d'Aire fez pé atraz
+para não ser visto. Thereza, porém, n'um relance de olhar temeroso,
+ainda víra um vulto retirar-se. Teve mêdo, e retrocedeu a largar a capa,
+e entrou na sala, offegante de cansaço e pallida de mêdo.
+
+--Que tens, minha filha?--disse-lhe o pae--Já duas vezes sahisteda sala,
+e vens tão alvoroçada! Tens algum incommodo, Thereza?
+
+--Tenho uma dôr: preciso de ir respirar de vez em quando... Nada é, meu
+pae.
+
+Thadeu acreditou, e disse a toda a gente que a sua filha tinha uma dôr;
+só o não disse a seu sobrinho, porque o não encontrou, e soube que elle
+tinha sahido.
+
+Tambem Thereza dera pela ausencia do primo, e fingiu que o ia procurar,
+resolução de que o velho gostou muito. Desceu ella ao jardim, correu á
+porta, onde a esperava Simão, abriu-a, e com a voz cortada pela
+anciedade, apenas disse:
+
+--Vai-te embora: vem ámanhã ás mesmas horas... Vai, vai!
+
+Simão, quando isto ouvia, tinha os olhos, fitos n'um vulto, que se
+approximava d'elle, rente com o muro do quintal. O arreeiro, que
+primeiro o vira, dera um signal, e entalara as rédeas do cavallo entre
+umas pedras, para ficar desembaraçado, se o estudante se não podésse
+haver com o inimigo.
+
+Simão Botelho não se moveu do local, e Balthazar Coutinho parou na
+distancia de seis passos. O arreeiro tinha lentamente avançado a meio
+caminho do patrão, quando lhe este disse que não se aproximasse. E,
+caminhando para o vulto, aperrou duas pistolas, e disse-lhe:
+
+--Isto aqui não é caminho. Que quer?
+
+O fidalgo não respondeu.
+
+--Parece-me que lhe abro a bôca com uma bala!--tornou Simão.
+
+--Que lhe importa o senhor quem está?!--disse Balthazar--Se eu tiver um
+segredo, como o senhor parece que tem o seu n'estes sitios, sou obrigado
+a confessar-lh'o?!
+
+Simão reflectiu, e replicou:
+
+--Este muro pertence a uma casa onde mora uma só família, e uma só
+mulher.
+
+--Estão n'essa casa mais de quarenta mulheres esta noite--redarguiu o
+primo de Thereza--Se o cavalheiro espera uma, eu posso esperar outra.
+
+--Quem é o senhor?--tornou com arrogancia o filho do corregedor.
+
+--Não conheço a pessoa que me interroga, nem quero conhecer. Fiquemos
+cada um com o nosso incognito. Boas noites.
+
+Balthazar Coutinho retrocedeu, dizendo entre si: «que partido tem uma
+espada contra dois homens e duas pistolas?»
+
+Simão Botelho cavalgou, e partiu para casa do hospitaleiro ferrador.
+
+O sobrinho de Thadeu de Albuquerque entrou na sala, sem denunciar
+levemente alteração de animo. Viu que Thereza o observava de revez, e
+soube dissimular-se de modo que a socegou. A pobre menina, cansada de
+commoções, viu com prazer erguer-se para sahir a primeira familia, que
+deu rebate ás outras, menos ao de Castro-d'Aire e suas irmãs, que
+ficaram hospedados em casa de seu tio, com tenção de se demorarem oito
+dias em Vizeu.
+
+Velou Thereza o restante da noite, escrevendo a Simao a detida historia
+dos seus terrores, e pedindo-lhe perdão de o ella não ter advertido do
+baile, por fcar doida de alegria com a sua vinda. No tocante ao plano de
+se encontrarem na seguinte noite não havia alteração na carta. Isto
+espantou o academico. A seu vêr, o vulto era Balthazar Coutinho, e o pae
+de Thereza devia ser avisado n'aquella mesma noite.
+
+Respondeu elle contando a historia do incidente com o encapelado;
+receando, porém, assustar Thereza e gorar a entrevista, escreveu nova
+carta, em que não transluzia mêdo de ser atacado, nem sequer receio de
+marear-lhe a fama. Quiz parecer a Simão Botelho que este era o digno
+porte de um amante corajoso.
+
+Passou o estudante aquelíe dia contando as longas horas, e meditando
+instantes nos funestos resultados que podia ter a sua temeraria ida, se
+Balthazar Coutinho era aquelle homem, que reservára para melhor relance
+a vingança da provocação insolente. Mas de si para si tinha elle que
+pensar em tal era mais covardia que prudencia.
+
+O ferrador tinha uma filha, moça de vinte e quatro annos, e formas
+bonitas, e um rosto bello e triste. Notou Simão os reparos em que ella
+se demorava a contemplal-o, e perguntou-lhe a causa d'aquelle olhar
+melancolico com que ella o fitava. Marianna corou, abriu um sorriso
+triste, o respondeu:
+
+--Não sei o que me adivinha o coração a respeito de v. s.^a Alguma
+desgraça está para lhe succeder.
+
+--A menina não dizia isso--replicou Simão--sem saber alguma coisa da
+minha vida.
+
+--Alguma coisa sei...--tornou ella.
+
+--Ouviu contar ao arreeiro?
+
+--Não, senhor. E' que meu pae conhece o paesinho de v. s.^a, e tambem
+conhece o senhor. E ha bocadinho que eu ouvi estar meu pae a dizer a meu
+tio, que é o arreeiro que veio com v. s.^a, que tinha suas razões para
+saber que alguma desgraça lhe estava para acontecer...
+
+--Porque?
+
+--Pr'amor d'uma fidalga de Vizeu, que tem um primo em Castro-d'Aire.
+
+Simão espantou-se da publicidade do seu segredo, e ia colher pormenores
+do que elle julgava mysterio entre duas familias, quando o mestre
+ferrador João da Cruz entrou no sobrado, onde o precedente dialogo se
+passára. A môça, como ouvisse os passos do pae, sahira lestamente por
+outra porta.
+
+--Com sua licença--disse mestre João.
+
+Dizendo, fechou por dentro ambas as portas, e sentou-se sobre uma arca.
+
+--Ora, meu fidalgo--continuou elle, descendo as mangas arregaçadas da
+camiza, e apertando-as com difficuldade nos grossos pulsos, como quem
+sabe as exigencias da ceremonia--ha de desculpar que eu viesse assim em
+mangas de camiza; mas não dei com a jaqueta...
+
+--Está muito bem, senhor João--atalhou o academico.
+
+--Pois, senhor, eu devo um favor a seu pae, e um favor d'aquella casta.
+Uma vez armou-se aqui á minha porta uma desordem, a trôco d'um couce que
+um macho d'um almocreve deu n'uma egua, que eu estava ferrando, e em tão
+hoa hora foi, que lhe partiu rente o jarrête por aqui, salvo tal logar.
+
+João da Cruz mostrou na sua perna o ponto por onde fôra fracturada a da
+egua, e continuou:
+
+--Eu tinha alli á mão o martello, e não me tive que não pregasse com
+elle na cabeça do macho, que foi logo para a terra. O recoveiro de
+Carção, que era chibante, deitou as unhas a um bacamarte, que trazia
+entre uma carga, e desfechou comigo, sem mais tirte, nem garte. O' alma
+damnada!--disse-lhe eu--pois tu vês que o teu macho me aleijou esta
+egua, que custou vinte peças a seu dono, e que eu tenho de pagar, e
+dás-me um tiro por eu te atordoar o macho!?
+
+--E o tiro acertou-lhe?--atalhou Simão.
+
+--Acertou; mas saberá v. s.^a que me não matou; deu-me aqui por este
+braço esquerdo com dois quartos. E vai eu, entro em casa, vou á
+cabeceira da cama, e trago uma clavina, e desfecho-lh'a na táboa do
+peito. O almocreve cahiu como um tôrdo, e não tugiu nem mugiu.
+Prenderam-me, e fui para Vizeu e já lá estava ha tres annos, no anno em
+que o paesinho de v. s.^a veio corregedor. Andava muita gente a
+trabalhar contra mim, e todos me diziam que eu ia pernear na forca.
+Estava lá na enxovia comigo um prêso a cumprir sentença, e disse-me elle
+que o senhor corregedor tinha muita devoção com as sete dôres de Nossa
+Senhora. Uma vez que elle ia passando com a familia para a missa,
+disse-lhe eu «senhor Corregedor, peço a v. s.^a pelas sete dôres de
+Maria Santissima, que me mande ir á sua presença, para eu explicar a
+minha culpa a v.s.^a». O paesinho de v. s.^a chamou o meirinho geral, e
+mandou tomar o meu nome. Ao outro dia fui chamado ao senhor Corregedor,
+e contei-lhe tudo, mostrando-lhe ainda as cicatrizes do braço. Seu pae
+ouviu-me, e disse-me. «Vai-te embora, que eu farei o que podér.» O caso
+é, meu fidalgo, que eu sahi absolvido, quando muita gente dizia que eu
+havia de ser inforcado á minha porta. Faz favor de me dizer se eu não
+devo andar com a cara onde o seu paesinho põe os pés!?
+
+--Tem o senhor João motivo para lhe ser grato, não ha duvida nenhuma.
+
+--Agora faz favor de ouvir o mais. Eu antes de ser ferrador, fui criado
+de farda em casa do fidalgo de Castro-d'Aire, que é o senhor Balthazar.
+Conhece-o v. s.^a? Ora, se conhece!...
+
+--Conheço de nome.
+
+--Foi elle que me abonou dez moedas de ouro para me estabelecer; mas
+paguei-lh'as, Deus louvado. Ha de haver seis mezes que elle me mandou
+chamar a Vizeu, e me disse que tinha trinta peças para me dar, se eu lhe
+fizesse um serviço. «O que v. s.^a quizer, fidalgo.» E vai elle disse-me
+que queria que eu tirasse a vida a um homem. Isto boliu cá por dentro
+comigo, porque, a fallar a verdade, um homem que mata outro n'um apêrto
+não é um matador de officio, acho eu, não é assim?
+
+--De certo...--respondeu Simão, adivinhando o remate da historia--quem
+era o homem que elle queria morto?
+
+--Era v. s.^a... Ó homem!--disse o ferrador com espanto--O senhor nem
+sequer mudou de côr!
+
+--Eu não mudo nunca de côr, senhor João--disse o academico.
+
+--Estou pasmado!
+
+--E vm.^ce não acceitou a incumbencia, pelo que vejo--tornou Simão.
+
+--Não, senhor; e então logo que elle me disse quem era, a minha vontade
+era pregar-lhe com a cabeça n'uma esquina.
+
+--E elle disse-lhe a razão porque me mandava matar?
+
+--Não, meu fidalgo; eu lhe conto. Na semana adiante, quando soube que o
+senhor Balthazar (raios o partam!) tinha sabido de Vizeu, fui fallar com
+o senhor Corregedor, e contei-lhe tudo o que se passára. O senhor
+corregedor esteve a scismar um pouquinho, e disse-me, e v. s.^a ha de
+perdoar por eu lhe dizer o que seu pae me disse tal e qual.
+
+--Diga.
+
+--Seu pae começou a esfregar o nariz, e disse-me: «Eu sei o que é isso.
+Se aquelle bréjeiro de meu filho Simão tivesse honra, não olharia para a
+prima d'esse assassino. Cuida o patife que eu consentia que meu filho se
+ligasse a uma filha de Thadeu de Albuquerque!..» Ainda disse mais coisas
+que me não lembram; mas eu fiquei sabendo tudo. Ora aqui tem o que
+houve. Agora, appareceu-me aqui v. s.^a, e a noite passada foi a Vizeu.
+Perdoará a minha confiança; mas v. s.^a foi fallar com a tal menina: e
+eu estive vai não vai a seguil-o; mas como ia meu cunhado, que é homem
+para tres, fiquei descançado. Elle contou-me um encontro que v. s.^a
+teve á porta do quintal da menina. Se lá torna, senhor Simão, vá
+preparado para alguma coisa de maior. Eu bem sei que v. s.^a não é
+medroso; mas d'uma traição ninguem se livra. Se quer que eu vá também,
+estou ás suas ordens; e a clavina que deu policia ao almocreve ainda
+alli está, e dá fogo debaixo d'agua, como diz o outro. Mas, se v. s.^a
+dá licença que eu lhe diga a minha opinião, o melhor é não andar n'essas
+encamizadas. Se quer casar com ella, vá pedir a seu pae licença, e deixe
+o resto cá por minha conta; ponto é que ella queira, que eu, n'um abrir
+e fechar d'olhos, atiro com ella para cima d'uma égua de chupêta, que
+alli tenho, e o pae e mais o primo ficam a vêr navios.
+
+--Obrigado, meu amigo--disse Simão--Aproveitarei os seus bons serviços,
+quando me forem necessarios. Á noite hei de ir, como fui a noite
+passada, a Vizeu. Se houver novidade, então veremos o que se ha de
+fazer. Conto comsigo, e creia que tem em mim um amigo.
+
+Mestre João da Cruz não replicou. D'alli foi examinar miudamente a
+fecharia da clavina, e entender-se com o cunhado sobre cautelas
+necessarias, em quanto descarregava a arma, e a carregava de novo com
+uns balotes especiaes que elle denominava «amendoas de pimpões».
+
+N'este intervallo, Marianna, a filha do ferrador, entrou no sobrado, e
+disse com meiguice a Simão Botelho:
+
+--Então sempre é certo ir?
+
+--Vou, porque não hei de ir?
+
+--Pois Nossa Senhora vá na sua companhia--tornou ella, sahindo logo para
+esconder as lagrimas.
+
+
+
+
+VI.
+
+
+Ás dez horas e meia da noite d'aquelle dia, tres vultos convergiram para
+o local, raro frequentado, em que se abria a porta do quintal de Thadeu
+de Albuquerque. Alli se detiveram alguns minutos discutindo e
+gesticulando. Dos tres havia um, cujas palavras eram ouvidas em silencio
+e sem replica pelos outros: Dizia elle a um dos dois:
+
+--Não convém que estejas perto d'esta porta. Se o homem apparecesse aqui
+morto, as suspeitas cahiam logo sobre mim ou meu tio. Afastem-se um do
+outro, e tenham o ouvido applicado ao tropel do cavallo. Depois apressem
+o passo, até o encontrarem de modo que os tiros sejam dados longe
+d'aqui.
+
+--Mas...--atalhou um--quem nos diz que elle veio hontem a cavallo, e
+hoje vem a pé?
+
+--E' verdade! - accrescentou o outro.
+
+--Se elle vier a pé, eu lhes darei aviso para o seguirem depois até o
+terem a geito de tiro, mas longe d'aqui, percebem vocês?--disse
+Balthazar Coutinho.
+
+--Sim, senhor; mas se elle sáe de casa do pae, e entra sem nos dar
+tempo?
+
+--Tenho a certeza de que não está em casa do pae, já lh'o disse. Basta
+de palavriado. Vão esconder-se atraz da igreja, e não adormeçam.
+
+Debandou o grupo, e Balthazar ficou alguns momentos encostado ao muro.
+Soaram os tres quartos depois das dez. O de Castro-d'Aire collou o
+ouvido á porta, e retirou-se acceleradamente, ouvindo o rumor da
+folhagem sêcca que Thereza vinha pizando.
+
+Apenas Balthazar, cosido com o muro, desapparecêra, um vulto assomou do
+outro lado a passo rapido. Não parou: foi direito a todos os pontos onde
+uma sombra podia figurar um homem. Rodeou a igreja que estava a duzentos
+passos de distancia. Viu os dois vultos direitos com o recanto que
+formava a juncção da capella mór, e sobre o qual cabiam as sombras da
+torre. Fitou-os de passagem, e suspeitou; não os conheceu; mas elles
+disseram entre si, depois que elle desapparecêra:
+
+--É o João da Cruz, ferrador, ou o diabo por elle!...
+
+--Que fará a esta hora por aqui?!
+
+--Eu sei!
+
+--Não desconfias que elle entre n'isto?
+
+--Ágora! Se entrasse, era por nós. Não sabes que elle foi mochila do
+nosso amo?
+
+--E tambem sei que pôz a loja com dinheiro do nosso amo.
+
+--Pois então que mêdo tens?
+
+--Não ha mêdo; mas tambem sei que foi o corregedor que o livrou da
+forca...
+
+--Isso que tem! O corregedor não se importa com isto, nem sabe que o
+filho cá está...
+
+--Assim será; mas não estou muito contente... Elle é homem dos diabos...
+
+--Deixal-o ser... tanto entram as balas n'elle como n'outro...
+
+A discussão continuou sobre varias conjecturas. De tudo o que elles
+disseram uma coisa era certissima: ser o vulto o João da Cruz, ferrador.
+
+Teria este dado trezentos passos, quando os criados de Balthazar ouviram
+o remoto tropel de cavalgadura. Ao tempo que elles sahiam do seu
+escondrijo, sabia João da Cruz á frente do cavalleiro. Simão aperrou as
+pistolas, e o arreeiro uma clavina.
+
+--Não ha novidade--disse o ferrador--mas saiba v. s.^a que já podia
+estar em baixo do cavallo com quatro zagalotes no peito.
+
+O arreeiro reconheceu o cunhado, e disse:
+
+--És tu, João?
+
+--Sou eu. Vim primeiro que tu.
+
+Simão estendeu a mão ao ferrador, e disse commovido:
+
+---Dê cá a sua mão; quero sentir na minha a mão de urn homem honrado.
+
+--Nas occasiões é que se conhecem os homens--redarguiu o ferrador.--Ora
+vamos... não ha tempo para fallatorio. O senhor doutor tem uma espera.
+
+--Tenho?--disse Simão.
+
+--Atraz da igreja estão dois homens que eu não pude conhecer; mas não se
+me dava de jurar que são criados do senhor Balthazar. Salte abaixo do
+cavallo, que ha de haver mostarda. Eu disse-lhe que não viesse; mas v.
+s.^a veio, e agora é andar com a cara para a frente.
+
+--Olhe que eu não tremo, mestre João--disse o filho do corregedor.
+
+--Bem sei que não; mas, á vista do inimigo, veremos.
+
+Simão tinha apeado. O ferrador tomou as rédeas do cavallo, recuou alguns
+passos na rua, e foi prendêl-o á argola da parede de uma estalagem.
+
+Voltou, e disse a Simão que o seguisse a elle e ao cunhado na distancia
+de vinte passos; e que, se os visse parar perto do quintal de
+Albuquerque, não passasse do ponto d'onde os visse.
+
+Quiz o academico protestar contra um plano, que o humilhava como
+protegido pela defeza dos dois homens; o ferrador, porém, não admittiu a
+réplica.
+
+--Faça o que eu lhe digo, fidalgo--disse elle com energia.
+
+João da Cruz e o cunhado, espiando todas as esquinas, chegaram de fronte
+do quintal de Thereza, e viram um vulto a sumir-se no angulo da parede.
+
+--Vamos sobre elles--disse o ferrador--que lá passaram para o adro da
+igreja; n'este entrementes, o doutor chega á porta do quintal e entra;
+depois voltaremos para lhe guardar a sahida.
+
+N'este proposito, moveram-se apressados, e Simão Botelho caminhou com as
+pistolas aperradas na direcção da porta.
+
+Em frente do muro do jardim de Thereza havia uma cascalheira escarpada,
+que se esplainava depois n'uma alamêda sombria.
+
+Os dois criados de Balthazar, quando o tropel do cavallo parou,
+recordaram as ordens do amo, no caso de vir a pé Simão. Buscaram sitio
+azado para o espreitarem na sahida, e entraram na alamêda quando o
+academico chegava á porta do quintal.
+
+--Agora está seguro--disse um.
+
+--Se lá não ficar dentro....--respondeu o outro, vendo-o entrar, e
+fechar-se a porta.
+
+--Mas além vem dois homens...--disse o mais assustado, olhando para a
+outra entrada da alamêda.
+
+--E vem direitos a nós... aperra lá a clavina...
+
+O melhor é retirarmos. Nós estamos á espera de outro, e não d'estes.
+Vamos embora d'aqui...
+
+Este não esperou convencer o companheiro: desceu a ribanceira do
+cascalho. O mais intrepido teve tambem a prudencia de todos os
+assassinos assalariados: seguiu o assustadiço, e deu-lhe razão, quando
+ouviu após de si os passos velozes dos perseguidores. Sahiu-lhes o amo
+de frente, quando dobravam a esquina do quintal, e disse-lhes:
+
+--Vocês a que fogem, seus poltrões?
+
+Os homens pararam de envergonhados, aperrando os bacamartes.
+
+João da Cruz e o arreeiro appareceram, e Balthazar caminhou para elles,
+bradando:
+
+--Alto ahi!
+
+O ferrador disse ao cunhado:
+
+--Falla-lhe tu, que eu não quero que elle me conheça.
+
+--Quem manda fazer alto?--disse o arreeiro.
+
+--São tres clavinas--respondeu Balthazar.
+
+--Olha se os demoras a dar tempo que o doutor saia--disse João da Cruz
+ao ouvido do arreeiro.
+
+--Pois nós cá estamos parados--replicou o criado de Simão.--Que nos
+querem vocês?
+
+--Quero saber o que tem que fazer n'este sitio.
+
+--E vocês que fazem por cá?
+
+--Não admitto perguntas--disse o de Castro-d'Aire, aventurando alguns
+passos vacilantes para a frente.--Quero saber quem são.
+
+Mestre João disse ao ouvido do cunhado:
+
+--Diz-lhe que se dá mais um passo que o arrebentas.
+
+O arreeiro repetiu a clausula, e Balthazar parou.
+
+Um dos criados d'este chamou-o ao lado para lhe dizer que aquelle dos
+dois, que não fallava, parecia ser o João da Cruz. O morgado duvidou, e
+quiz esclarecer-se; mas o ferrador ouvira as palavras do criado, e disse
+ao cunhado:
+
+--Vem comigo, que elles conhecem-me.
+
+Dizendo, voltou as costas ao grupo, e caminhou ao longo do quintal de
+Thadeu de Albuquerque. Os criados de Balthazar, gloriosos da retirada,
+como de uma derrota certa, apressaram o passo na cola dos suppostos
+fugitivos. O morgado ainda lhes disse que os não seguissem; mas elles,
+momentos antes covardes, queriam desforrar-se agora, correndo após o
+inimigo tanto quanto lhe tinham fugido antes.
+
+Simão Botelho ouvira os passos ligeiros dos seus homens, e, compellido
+pelo susto de Thereza, abrira a porta do quintal, sem saber ainda quem
+elles fossem. João da Cruz, com ar galhofeiro, já quando os
+perseguidores se viam, disse ao filho do corregedor, se estava ajustado
+o casamento, que não havia panno para mangas.
+
+Simão entendeu o perigo, apertou convulsamente a mão de Thereza, e
+retirou-se. Queria elle reconhecer os dois vultos parados a distancia;
+mas João da Cruz, com o tom imperioso de quem obriga á submissão, disse
+ao filho do corregedor:
+
+--Vá por onde veio, e não olhe para traz.
+
+Simão foi indo até encontrar o cavallo. Montou, e esperou os dois
+inalteraveis guardas que o seguiam a passo vagaroso. Maravilhara-os o
+subito desapparecimento dos criados de Balthazar, e recearam-se de
+alguma espera fóra da cidade. O ferrador conhecia o atalho que podia
+levar os da emboscada ao caminho, e revelou o seu receio a Simão,
+dizendo-lhe que picasse a toda a brida, que elle e o cunhado lá iriam
+ter. O academico recebeu com enfado a advertencia, admoestando-os a que
+o não tivessem em tão vil preço. E acintemente soffreou as rédeas, para
+não forçar os homens a aligeirar o passo.
+
+--Vá como quizer--disse mestre João--que nós vamos por fóra do caminho.
+
+E subiram a uma rampa de olivaes, para tornarem a descer encubertos por
+moitas de giestas, cozendo-se aos torcicolos d'uma parede parallela com
+a estrada.
+
+--O atalho vai acolá onde a serra faz aquelle cotovêllo--disse o
+ferrador ao cunhado--hão de alli passar, ou já passaram. A estrada vai
+mesmo na quebrada d'aquelle outeirinho. Os homens é d'alli que lhe vão
+atirar, encobertos pelos sobreiros. Vamos depressa...
+
+E um pouco descobertos, e outro curvados á sombra das devêzas, chegaram
+a um vallado d'onde ouviram os passos dos dois homens que atravessavam o
+pontilhão de um córrego.
+
+--Já não vamos a tempo--disse afflicto o João da Cruz--os homens vão
+atirar-lhe, porque o cavallo trupa cá muito atraz.
+
+E corriam já sem temor de serem vistos, porque os outros tinham dobrado
+o outeiro, em cujo valle corria a estrada.
+
+--Os homens vão atirar-lhe...--disse o ferrador.
+
+--Gritemos d'aqui ao doutor que não vá p'ra diante.
+
+--Já não é tempo... Ou o matem ou não matem, quando voltarem são nossos.
+
+Tinham já passado o pontilhão, e subiam a ladeira, quando ouviram dois
+tiros.
+
+--Arriba!--exclamou João da Cruz--que não vão elles metter-se á estrada,
+se mataram o fidalgo.
+
+Tinham vencido a chã, esbofados e anciados, com as clavinas aperradas.
+Os criados de Balthazar, ao invez da conjectura do ferrador, retrocediam
+pelo mesmo atalho, suppondo que os companheiros de Simão iam adiante
+batendo os pontos azados á emboscada, ou se tinham retardado.
+
+--Elles ahi vem!--disse o arreeiro.
+
+--Nós cá estamos--respondeu o ferrador, sentando-se, a coberto de um
+cômoro.--Senta-te também que eu não estou p'ra correr atraz d'elles.
+
+Os assassinos, a dez passos, viram de frente erguerem-se os dois vultos,
+e ladearam cada qual para seu lado, um galgando os sucalcos de uma
+vinha, o outro atirando-se a uns silveiraes.
+
+--Atira ao da esquerda!--disse João da Cruz.
+
+Foram simultaneas as explosões. A pontaria do ferrador fez logo um
+cadaver. Os balotes do arreeiro não estremaram o outro entre o carrascal
+onde se embrenhára.
+
+A este tempo assomava Simão no tezo d'onde lhe tinham atirado, e corria
+ao ponto onde ouvira os segundos tiros.
+
+--É v. s.^a, fidalgo?--bradou o ferrador.
+
+--Sou.
+
+--Não o mataram?
+
+--Creio que não--respondeu Simão.
+
+--Este desalmado deixou fugir o melro--tornou João da Cruz--mas o meu lá
+está a pernear na vinha. Sempre lhe quero vêr as trombas...
+
+O ferrador desceu os três socalcos da vinha, e curvou-se sobre o
+cadaver, dizendo:
+
+--Alma de cantaro, se eu tivesse duas clavinas não ias sósinho para o
+inferno!
+
+--Anda d'ahi!--disse o arreeiro--deixa lá esse diabo, que o senhor
+doutor está ferido n'um hombro. Vamos depressa, que está o sangue a
+escorrer-lhe.
+
+--Eu vi duas cabeças a espreitarem-me de cima de uma ribanceira, e
+cuidei que eram vocês--disse Simão, em quanto o ferrador, com a destreza
+de habil cirurgião, lho enfaixava o braço ferido com lenços.--Parei o
+cavallo, e disse: «Ólé! ha novidade?» Logo que me não responderam,
+saltei para terra; mas ainda eu tinha um pé no estribo quando me fizeram
+fogo. Quiz saltar á ribanceira, mas não pude romper o matto. Dei uma
+volta grande para achar subida, e foi então que dei fé de estar
+ferido...
+
+--Isto é uma arranhadura--disse João da Cruz--olhe que eu sei d'isto,
+fidalgo! Estou affeito a curar muitas feridas.
+
+--Nos burros, mestre João?--disse o ferido, sorrindo.
+
+--E nos christãos tambem, senhor doutor. Olhe que houve em Portugal um
+rei que não queria outro medico senão um alveitar. Hei de mostrar-lhe o
+meu corpo que está uma rêde de facadas, e nunca fui ao cirurgião. Com
+ceroto e vinagre sou capaz de ir resuscitar aquelle alma do diabo que
+alli está a escutar a cavallaria.
+
+N'isto ouviu-se um leve rumor de folhagem no matagal para onde tinha
+saltado o companheiro do morto.
+
+João da Cruz, como galgo de fino olfacto, fitou a orelha e resmungou:
+
+--Querem vocês vêr que ellas se armam!... Dar-se-ha caso que o outro
+ainda esteja por alli a tremer maleitas!...
+
+O rumor continuou, e logo um bando de passaros rompeu d'entre a folhagem
+chilreando.
+
+--O homem está alli!--tornou o ferrador.--Passe-me cá uma pistola,
+senhor Simão!
+
+Correu mestre João, e ao mesmo tempo uma grande rostilhada se fez entre
+as moitas de codêços e urzes.
+
+--Elle estrinça lenha como um porco do monte!--exclamou o ferrador.--Ó
+cunhado, bate este matto com alguns penedos; quero vêr sahir o javali da
+moita!...
+
+Para o outro lado da bouça estava um plaino cultivado. Simão, rodeando a
+sebe, conseguira saltar ao campo por sobre a pedra d'um agueiro.
+
+--Tenha lá mão, mestre; não vá você atirar-me!--bradou Simão ao
+ferrador.
+
+--Pois o fidalgo já ahi anda!?. Então está fechado o cêrco. Eu cá vou
+fazer de furão. Se este nos escapa, não ha nada seguro n'este mundo!
+
+Não se enganaram. O criado de Balthazar Coutinho, quando se atirára
+desamparado á brenha, desnocára um joelho, e cahira atordoado. O
+arreeiro não examinou o effeito do tiro, porque atirara á ventura, e
+achava natural que o fugitivo se não molestasse. Quando volveu a si do
+aturdimento da queda, o homem arrastou-se lentamente até encontrar um
+cerrado de arvores silvestres, em que pernoitava a passarinhada. Como os
+melros cacarejassem esvoaçando, o criado de Balthazar retrocedeu para o
+mato, cuidando que ahi escaparia; mas o arreeiro jogava enormes calhaus
+em todas as direcções, e alguns acertavam mais que as balas do seu
+bacamarte. João da Cruz tirou do bolço da jaqueta um podão, e começou a
+cortar a selva de carvalhas novas e giestaes que se emmaranhavam em
+redor do escondrijo. Já cansado, porém, e vendo o pouco luzimento do
+trabalho, disse ao arreeiro:
+
+--Petisca lume, vai alli dentro buscar um pouco de restolho sêcco, e
+vamos pegar fogo ao mato, que este ladrão ha de morrer assado.
+
+O perseguido, quando tal ouviu, tirou do maior perigo coragem para
+fugir, rompendo a espessura e saltando a parede da tapada para o campo
+de restolho em que o arreeiro andava apanhando palha, e Simão esperava o
+desfecho da montaria. Correram a um tempo o arreeiro e o academico sobre
+elle. O fugitivo, sentindo-se alcançado, lançou-se de joelhos e mãos
+erguidas, pedindo perdão, e dizendo que o amo o obrigára áquella
+desgraça. Já a coronha do bacamarte do arreeiro lhe ia direita ao peito,
+quando Simão lhe reteve o braço.
+
+--Não se bate assim n'um homem!--disse o moço--Levanta-te, rapaz!
+
+--Eu não posso, senhor. Tenho uma perna quebrada, e estou aleijado para
+a minha vida.
+
+N'este comenos chegou o ferrador, e exclamou:
+
+--Pois este tratante ainda está vivo!
+
+E correu sobre elle com o podão.
+
+--Não mate o homem, senhor João!--disse o filho do corregedor.
+
+--Que o não mate! essa é de cabo de esquadra! Com que então o fidalgo
+quer pagar-me com a forca o favor de o acompanhar... eim?
+
+--Com a forca!?--atalhou Simão.
+
+--Podéra não! Quer que este homem fique para ir contar a historia? Acha
+bonito? Lá v. s.^a, como é filho de ministro, não terá perigo; mas eu,
+que sou ferrador, posso contar que d'esta vez tenho o baraço no pescoço.
+Não me faz geito o negocio. Deixe-me cá com o homem...
+
+--Não o mate, senhor João; peço-lhe eu que o deixe ir. Uma testemunha
+não nos póde fazer mal.
+
+--O quê?--redarguiu o ferrador--v. s.^a saberá muito, mas de justiça não
+sabe nada, e ha de perdoar o meu atrevimento. Basta uma só testemunha
+para guiar a justiça na devassa. Ás duas por tres, uma testemunha de
+vista, e quatro de ouvir dizer, com o fidalgo de Castro-d'Aire a mexer
+os pausinhos, é forca certa, como dois e dois serem quatro.
+
+--Eu não digo nada; não me matem, que eu nem torno a ir para
+Castro-d'Aire--exclamou o homem.
+
+--Deixe-o ficar, João da Cruz... vamos embora...
+
+--Isso!--acudiu o ferrador--chame-me João da Cruz, para este maroto
+ficar bem certo de que sou o João da Cruz!... Com effeito, não sei o que
+me parece v. s.^a querer deixar com vida um alma do diabo que lhe deu um
+tiro para o matar!
+
+--Pois sim, tem você razão; mas eu não sei castigar miseraveis que me
+não resistem.
+
+--E se elle o tivesse matado, castigava-o? Responda a isto, senhor
+doutor!
+
+--Vamos embora--tornou Simão--deixemos para ahi esse miseravel.
+
+Mestre João scismou alguns momentos, coçando a cabeça, e resmungou com
+descontentamento:
+
+--Vamos lá... Quem o seu inimigo poupa, nas mãos lhe morre.
+
+Tinham já sahido do plaino e saltado a tapada, e iam descendo para a
+estrada, quando o ferrador exclamou:
+
+--Lá me ficou a minha clavina encostada á sebe. Vão indo, que eu venho
+já.
+
+O arreeiro conduzia o cavallo, que pacificamente estivera tozando a
+relva das paredes marginaes da estrada, quando Simão ouviu gritos.
+Conjecturou com certeza o que era.
+
+--O João lá está a fazer justiça!--disse o arreeiro. Deixál-o lá, meu
+amo, que elle é homem que sabe o que faz.
+
+João da Cruz appareceu d'ahi a pouco, limpando com fentos o podão
+ensanguentado.
+
+--Você é cruel, senhor João!--disse o academico.
+
+--Não sou cruel--disse o ferrador--o fidalgo está enganado comigo; é que
+diz lá o dictado, morrer por morrer, morra meu pae que é mais velho.
+Tanto faz matar um como dois. Quando se está com a mão na massa, tanto
+faz amassar um alqueire como tres. As obras devem ser acabadas, ou então
+o melhor é não se metter a gente n'ellas. Agora, levo a minha
+consciencia socegada.
+
+A justiça que prove, se quizer; mas não ha de ser por que lh'o digam
+aquelles dois que eu mandei de presente ao diabo.
+
+Simão teve um instante de horror do homicida, e de arrependimento de se
+ter ligado com tal homem.
+
+
+
+
+VII.
+
+
+O ferimento de Simão Botelho era melindroso de mais para obedecer
+promptamente ao curativo do ferrador, enfronhado em aphorismos de
+alveitaria. A bala passára-lhe de revez a porção muscular do braço
+esquerdo; mas algum vaso importante rompêra, que não bastavam compressas
+a vedar-lhe o sangue. Horas depois de ferido, o academico deitou-se
+febril, deixando-se medicar pelo ferrador. O arreeiro partiu para
+Coimbra, encarregado de espalhar a noticia de ter ficado no Porto Simão
+Botelho.
+
+Mais que as dôres e os receios da amputação, o mortificava a ancia de
+saber novas de Thereza. João da Cruz estava sempre de sobre-rolda,
+precavido contra algum procedimento judicial por suspeitas d'elle. As
+pessoas que vinham de feirar na cidade contavam todas que dois homens
+tinham apparecido mortos, e constava serem criados d'um fidalgo de
+Gastro-d'Aire. Ninguem, porém, ouvira imputar o assassinio a
+determinadas pessoas.
+
+Na tarde d'esse dia recebeu Simão a seguinte carta de Thereza:
+
+«Deus permitia que tenhas chegado sem perigo a casa d'essa boa gente. Eu
+não sei o que se passa, mas ha coisa mysteriosa que eu não posso
+adivinhar. Meu pae tem estado toda a manhã fechado com o primo, e a mim
+não me deixa sahir do quarto. Mandou-me tirar o tinteiro; mas eu
+felizmente estava prevenida com outro. Nossa Senhora quiz que a pobre
+viesse pedir esmola debaixo da janella do meu quarto; senão eu nem tinha
+modo de lhe dar signal para ella esperar esta carta. Não sei o que ella
+me disse. Fallou-me em criados mortos; mas eu não pude entender... Tua
+mana Rita está-me acenando por traz dos vidros do teu quarto...
+
+Disse-me tua mana que os moços de meu primo tinham apparecido mortos
+perto da estrada. Agora já sei tudo. Estive para lhe dizer que tu ahi
+estás; mas não me deram tempo. Meu pae de hora a hora dá passeios no
+corredor, e solta uns ais muito altos.
+
+Ó meu querido Simão, que será feito de ti?... Estarás tu ferido? Serei
+eu a causa da tua morte?
+
+Diz-me o que souberes. Eu já não peço a Deus senão a tua vida. Foge
+d'esses sitios; vai para Coimbra, e espera que o tempo melhore a nossa
+situação.
+
+Tem confiança n'esta desgraçada, que é digna da tua dedicação.... Chega
+a pobre: não quero demoral-a mais... Perguntei-lhe se se dizia de ti
+alguma coisa, e ella respondeu que não. Deus o queira.»
+
+Respondeu Simão a querer tranquillisar o animo de Thereza. Do seu
+ferimento fallava tão de passagem, que dava a suppôr que nem o curativo
+era necessario. Promettia partir para Coimbra logo que o podesse fazer
+sem receio de Thereza soffrer na sua ausencia. Animava-a a chamal-o,
+assim que as ameaças de convento passassem a ser realisadas.
+
+Entretanto Balthazar Coutinho, chamado ás authoridades judiciarias para
+esclarecer a devassa instaurada, respondeu que effectivamente os homens
+mortos eram seus criados, de quem elle e sua familia se acompanhára de
+Castro-d'Aire. Accrescentou que não sabia que elles tivessem inimigos em
+Vizeu, nem tinha contra alguem as mais leves presumpções.
+
+Os mais proximos visinhos da localidade, onde os cadaveres tinham
+apparecido, apenas depunham que, alta noite, tinham ouvido dois tiros ao
+mesmo tempo, e outro, pouco depois. Um apenas adiantava coisa que não
+podia alumiar a justiça, e vinha a ser que o mato, nas visinhanças do
+local, fôra chapotado. N'esta escuridade a justiça não podia dar passo
+algum.
+
+Thadeu de Albuquerque era connivente no attentado contra a vida de Simão
+Botelho. Fôra seu o alvitre, quando o sobrinho denunciou a causa das
+sahidas frequentes de Thereza, na noite do baile. Tanto ao velho como ao
+morgado convinha apagar algum indicio que podesse envolvêl-os no
+mysterio d'aquellas duas mortes. Os criados não mereciam a pena d'um
+desforço que implicasse o desdouro de seus amos. Provas contra Simão
+Botelho não podiam adduzil-as. Áquella hora o suppunham elles a caminho
+de Coimbra, ou refugiado em casa de seu pae. Restava-lhes ainda a
+esperança de que elle tivesse sido ferido, e fosse acabar longe do local
+em que o tinham assaltado.
+
+Em quanto a Thereza, resolveu Albuquerque encerral-a n'um convento do
+Porto, e escolheu Monchique, onde era prioreza uma sua proxima parenta.
+Escreveu á prelada para lhe preparar aposentos, e ao seu procurador para
+negociar as licenças ecclesiasticas para a entrada. Todavia, receando o
+velho algum incidente no espaço de tempo que medeava até se conseguirem
+as licenças, resolveu não ter comsigo Thereza, e solicitou a retenção
+temporaria d'ella n'um convento de Vizeu.
+
+Acabára Thereza de lêr e esconder no seio a resposta de Simão Botelho,
+que a pobre lhe enviára ao escurecer, pendente de uma linha, quando o
+pae entrou no seu quarto, e a mandou vestir-se. A menina obedeceu,
+tomando uma capa e um lenço.
+
+--Vista-se como quem é: lembre-se que ainda tem os meus
+appellidos--disse com severidade o velho.
+
+--Cuidei que não era preciso vestir-me melhor para sahir á
+noite...--disse Thereza.
+
+--E a senhora sabe para onde vai?
+
+--Não sei... meu pae.
+
+--Então vista-se, e não me dê leis.
+
+--Mas, meu pae, attenda-me um momento.
+
+--Diga.
+
+--Se a sua ideia é obrigar-me a casar com meu primo...
+
+--E d'ahi?
+
+--De certo não caso; morro, e morro contente; mas não caso.
+
+--Nem elle a quer. A senhora é indigna de Balthazar Coutinho. Um homem
+do meu sangue não aceita para esposa uma mulher que falla de noite aos
+amantes nos quintaes. Vista-se depressa, que vai para um convento.
+
+--Promptamente, meu pae. Esse destino lh'o pedi eu muitas vezes.
+
+--Não quero reflexões. D'aqui a pouco appareça-me vestida. Suas primas
+esperam-a para a acompanharem.
+
+Quando se viu sósinha, Thereza debulhou-se em lagrimas, e quiz escrever
+a Simão. Áquella hora quem lhe levaria a carta? Appellou para o retabulo
+da Virgem, que ella fizera confidente do seu amor. Pediu-lhe de joelhos
+que a protegesse, e désse forças a Simão para resistir ao golpe, e
+guardar-lhe constancia através dos trabalhos que succedessem. Depois
+vestiu-se, comprimindo contra o seio um embrulho em que levava o
+tinteiro, o papel, e o massête das cartas de Simão. Sahiu do seu quarto,
+relanceando os olhos lagrimosos para o painel da Virgem, e encontrando o
+pae, pediu-lhe licença para levar comsigo aquella devota imagem.
+
+--Lá irá ter--respondeu elle.--Se tivesse tanta vergonha como devoção,
+seria mais feliz do que ha de ser.
+
+Uma das primas, irmãs de Balthazar, chamou-a de parte, e segredou-lhe:
+
+--Ó menina! estava ainda na tua mão dares remedio á desordem d'esta
+casa...
+
+--Qual remedio?!--perguntou Thereza com artificial seriedade.
+
+--Diz a teu pae que não duvidas casar com o mano Balthazar.
+
+--O primo Balthazar não me quer--replicou ella, sorrindo.
+
+--Quem te disse isso, Therezinha?
+
+--Disse-m'o meu pae.
+
+--Deixa fallar teu pae, que está desatinado com o amor que te tem.
+Queres tu que eu lhe falle?
+
+--Para que?
+
+--Para se remediar d'este modo a desgraça de todos nós.
+
+--Estás a brincar, prima!--redarguiu Thereza.--Eu hei de ser tua
+cunhada, quando não tiver coração. Teu mano tem a certeza de que eu amo
+outro homem. Queria viver para elle; mas se quizerem que eu morra por
+elle, abençoarei todos os meus algozes. Pódes dizer isto ao primo
+Balthazar, e diz-lh'o antes que te esqueça.
+
+--Então, vamos?!--disse o velho.
+
+--Estou prompta, meu pae.
+
+Abriu-se a portaria do mosteiro. Thereza entrou sem uma lagrima. Beijou
+a mão de seu pae, que elle não ousou recusar-lhe na presença das
+freiras. Abraçou suas primas, com semblante de regosijo; e, ao fechar-se
+a porta, exclamou, com grande espanto das monjas:
+
+--Estou mais livre que nunca. A liberdade do coração é tudo.
+
+As freiras olharam-se entre si, como se ouvissem na palavra «coração»
+uma heresia, uma blasphemia proferida na casa do Senhor.
+
+--Que diz a menina?!--perguntou a prioreza, fitando-a por cima dos
+oculos, e apanhando no lenço escarlate a distillação do esturrinho.
+
+--Disse eu que me sentia aqui muito bem, minha senhora.
+
+--Não diga minha senhora--atalhou a escrivã.
+
+--Como hei de dizer?
+
+--Diga «nossa madre prioreza.»
+
+--Pois sim, nossa madre prioreza, disse eu que me sentia aqui muito bem.
+
+--Mas quem vem para estas casas de Deus não vem para se sentir
+bem--tornou a nossa madre prioreza.
+
+--Não?!--disse Thereza com sincera admiração.
+
+--Quem para aqui vem, menina, ha de mortificar o espirito, e deixar lá
+fóra as paixões mundanas. Ora pois! Aqui está a nossa madre mestra de
+noviças, a quem compete encaminhal-a e dirigil-a.
+
+Thereza não redarguiu: fez um gesto de respeito á mestra de noviças, e
+seguiu o caminho que a prelada lhe ia indicando.
+
+A nossa madre entrou nos seus aposentos, e disse a Thereza que era sua
+hospeda em quanto alli estivesse; e ajuntou que não sabia se seu pae
+escolheria aquelle convento ou outro.
+
+--Que importa que seja um ou outro?--disse Thereza.
+
+--É conforme. Seu pae póde querer que a menina professe em ordem rica
+das bentas ou bernardas.
+
+--Professe!--exclamou Thereza.--Eu não quero ser freira aqui, nem
+n'outra parte.
+
+--A senhora ha de ser o que seu pae quizer que seja.
+
+--Freira!? a isso não póde ninguem obrigar-me!--recalcitrou Thereza.
+
+--Isso assim é--retorquiu a prioreza--mas como a menina tem de noviciado
+um anno, sobra-lhe tempo para se habituar a esta vida, e verá que não ha
+vida mais descansada para o corpo, nem mais saudavel para a alma.
+
+--Mas a nossa madre--tornou Thereza, sorrindo, como se a ironia lhe
+fosse habitual--já disse que a estas casas ninguem vem para se sentir
+bem...
+
+--É um modo de fallar, menina. Todos temos as nossas mortificações e
+obrigações de côro e de serviços para que nem sempre o espirito está bem
+disposto. Ora vês-a-hi. Mas em comparação do que lá vai pelo mundo, o
+convento é um paraizo. Aqui não ha paixões nem cuidados que tirem o
+somno, nem a vontade de comer, bemdito seja o Senhor! Vivemos umas com
+as outras, como Deus com os anjos. O que uma quer, querem todas. Más
+linguas é coisa que a menina não ha de achar aqui, nem intriguistas, nem
+murmurações de soalheiro. Emfim, Deus fará o que fôr servido. Eu vou á
+cosinha buscar a ceia da menina, e já volto. Aqui a deixo com a senhora
+madre organista, que é uma pomba, e com a nossa mestra de noviças, que
+sabe dizer melhor que eu o que é a virtude n'estas santas casas.
+
+Apenas a prioreza voltou costas, disse a organista á mestra de noviças:
+
+--Que grande impostora!
+
+--E que estupida!--acudiu a outra.--A menina não se fie n'esta
+trapalhona, e veja se seu pae lhe dá outra companhia em quanto cá
+estiver, que a prioreza é a maior intriguista do convento. Depois que
+fez sessenta annos, falla das paixões do mundo como quem as conhece por
+dentro e por fóra. Em quanto foi nova, era a freira que mais escandalos
+dava na casa; depois de velha era a mais ridicula, porque ainda queria
+amar e ser amada; agora, que está decrepita, anda sempre este mostrengo
+a fazer missões, e a curar indigestões.
+
+Thereza, apesar de sua dôr, não pôde reprimir uma risada, lembrando-se
+da _vida de Deus com anjos_ que as esposas do Senhor alli viviam, no
+dizer da madre prioreza.
+
+Pouco depois entrou a prelada com a ceia, e sahiram as duas freiras.
+
+--Que lhe pareceram as duas religiosas que ficaram com a menina?--disse
+ella a Thereza.
+
+--Pareceram-me muito bem.
+
+A velha distendeu os beiços matizados de meandros de esturrinho liquido,
+e regougou:
+
+--_Hum!_... está feito, está feito!... Ainda não são das peores; mas, se
+fossem melhores, não se perdia nada... Ora vamos a isto, menina; aqui
+tem duas pernas de gallinha, e um caldo que o podem comer os anjos.
+
+--Eu não cômo nada, minha senhora--disse Thereza.
+
+--Ora essa! não come nada!? Ha de comer; sem comer ninguem resiste.
+Paixões!... que as leve o porco-sujo!... As mulheres é que ficam
+logradas, e elles não tem que perder!... Que eu cá de mim, até ao
+presente, Deus louvado, não sei o que sejam paixões; mas quem tem
+cincoenta e cinco annos de convento, tem muita experiencia do que vê
+penar ás outras doidibanas. E para não ir mais longe, estas duas, que
+d'aqui sahiram, tem pagado bem o seu tributo á asneira, Deus me perdôe
+se pécco. A organista tem já os seus quarenta bons, e ainda vai ao
+locutorio derreter-se em finezas; a outra, apesar de ser mestra de
+noviças á falta d'outra que quizesse sêl-o, se eu lhe não andasse com o
+olho em cima, estragava-me as raparigas...
+
+Este edificante discurso de caridade foi interrompido pela madre escrivã
+que vinha, palitando os dentes, pedir á prelada um copinho de certo
+vinho estomacal com que todas as noites era brindada.
+
+--Estava eu a dizer a esta menina as peças que são a organista e a
+mestra--disse a prioreza.
+
+--Oh! são para o que lhe eu prestar! Lá foram ambas para a cella da
+porteira. A esta hora está a menina a ser cortada por aquellas linguas,
+que não perdoam a ninguem.
+
+--Vaes tu vêr se ouves alguma coisa, minha flôr?--disse a prelada.
+
+A escrivã, contente da missão, foi imperceptivelmente ao longo dos
+dormitorios até parar a uma porta que não vedava o ruido estridente das
+risadas.
+
+No entanto dizia a prelada a Thereza:
+
+--Esta escrivã não é má rapariga: só tem o defeito de se tomar da
+pinguleta; depois não ha quem a ature. Tem uma boa tença, mas gasta tudo
+em vinho, e tem occasiões de entrar no côro a fazer _ss_, que é mesmo
+uma desgraça. Não tem outro defeito; é uma alma lavada, e amiga da sua
+amiga. É verdade que ás vezes... (aqui a prelada ergueu-se a escutar nos
+dormitorios, e fechou por dentro a porta) é verdade que, ás vezes,
+quando anda azuratada, dá por paus e por pedras, e descobre os defeitos
+das suas amigas. A mim já ella me assacou um aleive, dizendo que eu,
+quando sahia a ares, não ia só a ares, e andava por lá a fazer o que
+fazem as outras. Forte pouca vergonha! Lá que outra fallasse, vá; mas
+ella, que tem sempre uns namorados pandilhas que bebem com ella na
+grade, isso lá me custa; mas, emfim, não ha ninguem perfeito!... Boa
+rapariga é ella... Se não fosse aquelle maldito vicio...
+
+Como tocasse ao côro n'esta occasião, a veneranda prioreza bebeu o
+segundo calice do vinho estomacal, e disse a Thereza que a esperasse um
+quarto de hora, que ella ia ao côro, e pouco se demoraria. Tinha ella
+sahido, quando a escrivã entrou a tempo que Thereza, com as mãos abertas
+sobre a face, dizia em si: «Um convento, meu Deus! isto é que é um
+convento!»
+
+--Está sósinha?--disse a escrivã.
+
+--Estou, minha senhora.
+
+--Pois aquella grosseira vai-se embora, e deixa uma hospeda sósinha? Bem
+se vê que é filha de funileiro!... Pois tinha tempo de ter prática do
+mundo, que tem andado por lá que farte... Pois eu havia de ir ao côro;
+mas não vou para lhe fazer companhia, menina.
+
+--Vá, vá, minha senhora, que eu fico bem sósinha--disse Thereza, com a
+esperança de poder desafogar em lagrimas a sua afflicção.
+
+--Não vou, não!... A menina aqui estarrecia de mêdo; mas a prelada não
+tarda ahi. Ella, se póde escapar-se do côro, não pára lá muito tempo. A
+apostar que ella lhe esteve a fallar mal de mim?
+
+--Não, minha senhora, pelo contrario...
+
+--Ora diga a verdade, menina! Eu sei que esta cegonha não falla bem de
+ninguem. Para ella tudo são libertinas e bebadas.
+
+--Nada, não, minha senhora; nada me disse a respeito d'alguma freira.
+
+--E se disse, deixal-a dizer. Ella o vinho não o bebe, suga-o, é uma
+esponja viva. Em quanto a libertinagem, tomára eu tantos mil cruzados
+como de amantes ella tem tido! Faz lá uma pequena ideia, menina!...
+
+A escrivã bebeu um calice de vinho da sua prelada, e continuou:
+
+--Faz lá uma pequena ideia! Ella é velhissima como a sé. Quando eu
+professei já ella era velha como agora, com pouca differença. Ora, eu
+sou freira ha vinte e seis annos; calcule a menina quantas arrobas de
+esturrinho ella tem atulhado n'aquelles narizes! Pois olhe, quer me
+creia, quer não, tenho-lhe conhecido mais de uma duzia de chichisbeos,
+não fallando no padre capellão, que esse ainda agora lhe fornece a
+garrafeira, á nossa custa, entende-se. É uma dissipadora dos rendimentos
+da casa. Eu, que sou escrivã, é que sei o que ella rouba. Eu tenho
+immensa pena de vêr a menina hospedada em casa d'esta hypocrita. Não se
+deixe levar das imposturices d'ella, meu anjinho. Eu sei que seu pae lhe
+mandou fallar, e a encarregou de a não deixar escrever, nem receber
+cartas; mas olhe, minha filha, se quizer escrever, eu dou-lhe tinteiro,
+papel, obreias e o meu quarto, se para lá quizer ir escrever. Se tem
+alguem que lhe escreva, diga-lhe que mande as cartas em meu nome; eu
+chamo-me Dionizia da Immaculada Conceição.
+
+--Muito agradecida, minha senhora--disse Thereza, animada pelo
+offerecimento.--Quem me déra poder mandar um recado a uma pobre que mora
+no bêcco do...
+
+--O que quizer, menina. Eu mando lá logo que fôr dia. Esteja descansada.
+Não se fie de alguem, senão de mim. Olhe que a mestra de noviças e a
+organista são duas falsas. Não lhe dê trela, que, se as admitte á sua
+confiança, está perdida. Ahi vem a lêsma... Fallemos n'outra coisa...
+
+A prelada vinha entrando, e a escrivã proseguiu assim:
+
+--Não ha, não ha nada mais agradavel que a vida do convento, quando se
+tem a fortuna de ter uma prelada como a nossa... Ai! eras tu, menina?
+Olha, se estivessemos a fallar mal de ti!
+
+--Eu sei que tu nunca fallas mal de mim--disse a prelada, piscando o
+olho a Thereza.--Ahi está essa menina que diga o que eu lhe estive a
+dizer das tuas boas qualidades...
+
+--Pois o que eu disse de ti--respondeu soror Dionizia da Immaculada
+Conceição--não precisas de perguntar, porque felizmente ouviste o que eu
+estava dizendo. Oxalá que se podesse dizer o mesmo das outras que
+deshonram a casa, e trazem aqui tudo intrigado n'uma meada, que é mesmo
+coisa de peccado.
+
+--Então não vaes ao côro, nini?--tornou a prioreza.
+
+--Já agora é tarde... Tu absolves-me da falta, sim?
+
+--Absolvo, absolvo; mas dou-te como penitencia beberes um copinho...
+
+--Do estomacal?
+
+--Podéra...
+
+Dionizia cumpriu a penitencia, e sahiu para, dizia ella, deixar a
+prelada na sua hora de oração.
+
+Não delongaremos esta amostra do evangelico e exemplar viver do
+convento, onde Thadeu de Albuquerque mandára sua filha a respirar o
+purissimo ar dos anjos, em quanto se lhe preparava crysol, mais
+depurador dos sedimentos do vicio, no convento de Monchique.
+
+Encheu-se o coração de Thereza de amargura e nojo n'aquellas duas horas
+de vida conventual. Ignorava ella que o mundo tinha d'aquillo. Ouvira
+fallar dos mosteiros como de um refugio da virtude, da innocencia e das
+esperanças immorredoiras. Algumas cartas lêra de sua tia, prelada em
+Monchique, e por ellas formára conceito do que devia ser uma santa.
+D'aquellas mesmas dominicanas, em cuja casa estava, ouvira dizer ás
+velhas e devotas fidalgas de Vizeu virtudes, maravilhas de caridade, e
+até milagres. Que desillusão tão triste e ao mesmo tempo que ancia de
+fugir d'alli!
+
+A cama de D. Thereza estava na mesma cella da prioreza em alcova
+separada, com cortinas de cassa.
+
+Quando a prelada lhe disse que podia deitar-se querendo, perguntou-lhe a
+menina se poderia escrever a seu pae. A freira respondeu que no dia
+seguinte o faria, posto que o senhor Albuquerque ordenasse que sua filha
+não escrevesse: assim mesmo, ajuntou ella, que lh'o não prohibiria, se
+tivesse tinteiro e papel na cella.
+
+Thereza deitou-se, e a prelada ajoelhou diante d'um oratorio, rezando a
+corôa a meia voz. Se o murmurio da oração infadasse a hospeda, não teria
+ella muita razão de queixa, por que a devota monja ao segundo
+_Padre-Nosso_ cabeceava de modo que já não atinou com a primeira
+_Áve-Maria_. Levantou-se, cambaleando uma mesura ás imagens do
+sanctuario, foi deitar-se, e pegou a ressonar.
+
+Thereza afastou subtilmente as cortinas do seu quarto, e tirou de entre
+o seu fato o tinteiro de tarraxa e o papel.
+
+A lampada do oratorio lançava um froixo raio sobre a cadeira, em que
+Thereza pozera os seus vestidos. Desceu da cama, ajoelhou ao pé da
+cadeira, e escreveu a Simão, relatando-lhe miudamente os successos
+d'aquelle dia. A carta rematava assim:
+
+«Não receies nada por mim, Simão. Todos estes trabalhos me parecem
+leves, se os comparo ao que tens padecido por amor de mim. A desgraça
+não abala a minha firmeza, nem deve intimidar os teus projectos. São
+alguns dias de tempestade, e mais nada. Qualquer nova resolução que meu
+pae tome, dir-t'a-hei logo podendo, ou quando podér. A falta das minhas
+noticias deves attribuil-a sempre ao impossivel. Ama-me assim
+desgraçada, porque me parece que os desgraçados são os que mais precisam
+de amor e de conforto. Vou vêr se posso esquecer-me dormindo. Como isto
+é triste, meu querido amigo!... Adeus.»
+
+
+
+
+VIII.
+
+
+Marianna, a filha de João da Cruz, quando viu seu pae pensar a chaga do
+braço de Simão, perdeu os sentidos. O ferrador riu estrondosamente da
+fraqueza da moça, e o academico achou estranha sensibilidade em mulher
+affeita a curar as feridas com que seu pae vinha laureado de todas as
+feiras e romarias.
+
+--Não ha ainda um anno que me fizeram tres buracos na cabeça, quando eu
+fui á Senhora dos Remedios a Lamego, e foi ella que me tosqueou e rapou
+o casco á navalha--disse o ferrador.--Pelo que vejo o sangue do fidalgo
+deu volta ao estomago da rapariga!... Estamos então bem aviados! Eu
+tenho cá a minha vida, e queria que ella fosse a enfermeira do meu
+doente.... És ou não és, rapariga?--disse elle á filha, quando ella
+abriu os olhos, com rosto de corrida da sua fraqueza.
+
+--Serei com muito gosto, se o pae quizer.
+
+--Pois então, moça, se hás de ir costurar para a varanda, vem aqui para
+a beira do senhor Simão. Dá-lhe caldos a miudo; e trata-lhe da ferida;
+vinagre e mais vinagre, quando ella estiver assim a modo de roixa.
+Conversa com elle, não o deixes estar a malucar, nem escrever muito, que
+não é bom quando se está fraco do miôlo. E v. s.^a não tenha aquellas de
+ceremonia, nem me diga a Marianna--a menina isto, a menina aquillo.
+É--rapariga dá cá um caldo; rapariga, lava-me o braço, dá cá as
+compressas--e nada de politicas. Ella está aqui como sua criada, porque
+eu já lhe disse que, se não fosse o pae de v. s.^a, já ella ha muito
+tempo que andava por ahi ás esmolas, ou peor ainda. É verdade que eu
+podia deixar-lhe uns bensinhos, ganhos alli a suar na bigorna ha dez
+annos, afóra uns quatrocentos mil reis que herdei de minha mãe, que Deus
+haja; mas v. s.^a bem sabe que, se eu fosse á forca ou pela barra fóra,
+vinha a justiça, e tomava conta de tudo para as custas.
+
+--Se vocemecê tem uma casinha soffrivel--atalhou Simão--póde, querendo,
+casar a sua filha n'uma boa casa de lavoira.
+
+--Assim ella quizesse. Maridos não lhe faltam; até o alferes da igreja a
+queria, se eu lhe fizesse doação de tudo, que pouco é, mas ainda vale
+quatro mil cruzados bons; o caso é que a moça não tem querido casar, e
+eu, a fallar a verdade, sou só e mais ella, e tambem não tenho grande
+vontade de ficar sem esta companhia, para quem trabalho como moiro. Se
+não fosse ella, fidalgo, muita asneira tinha eu feito! Quando vou ás
+feiras ou romarias, se a levo comigo, não bato, nem apanho; indo
+sósinho, é desordem certa. A rapariga já conhece quando a pinga me sobe
+ao capacete do alambique, pucha-me pela jaqueta, e por bons modos põe-me
+fóra do arraial. Se alguem me chama para beber mais um quartilho, ella
+não me deixa ir, e eu acho graça á obediencia com que me deixo guiar
+pela moça, que me pede que não vá por alma da mãe. Eu cá, em ella me
+pedindo por alma da minha santa mulher, já não sei de que freguezia sou.
+
+Marianna ouvia o pae, escondendo meio rosto no seu alvissimo avental de
+linho. Simão estava-se gosando na simpleza d'aquelle quadro rustico, mas
+sublime de poesia e naturalidade.
+
+João da Cruz foi chamado para ferrar um cavallo, e despediu-se n'estes
+termos:
+
+--Tenho dito, rapariga; aqui te entrego o nosso doente: trata-o como
+quem é, e como se fosse teu irmão ou marido.
+
+O rosto de Marianna acerejou-se quando aquella ultima palavra sahiu,
+natural como todas, da bôca de seu pae.
+
+A moça ficou encostada ao batente da alcova de Simão.
+
+--Não foi nada boa esta praga que lhe cahiu em casa, Marianna!--disse o
+academico--Fazerem-na enfermeira d'um doente, e privarem-na talvez de ir
+costurar na sua varanda, e conversar com as pessoas que passam....
+
+--Que se me dá a mim d'isso!--respondeu ella, sacudindo o avental, e
+baixando o coz ao logar da cintura com infantil graça.
+
+--Sente-se, Marianna; seu pae disse-lhe que se sentasse... Vá buscar a
+sua costura, e dê-me d'alli uma folha de papel e um lapis que está na
+carteira.
+
+--Mas o pae tambem me disse que o não deixasse escrever...--replicou
+ella, sorrindo.
+
+--Pouco, não faz mal. Eu escrevo apenas algumas linhas.
+
+--Veja lá o que faz...--tornou ella, dando-lhe o papel e o lapis--Olhe
+se alguma carta se perde, e se descobre tudo...
+
+--Tudo, o quê, Marianna? Pois sabe alguma coisa?!
+
+--Era preciso que eu fosse tola. Eu não lhe disse já que sabia da sua
+amizade a uma menina fidalga da cidade?
+
+--Disse; mas que tem isso?
+
+--Aconteceu o que eu receava. V. s.^a está ahi ferido, e toda a gente
+falla n'uns homens que appareceram mortos.
+
+--Que tenho eu com os homens que appareceram mortos?
+
+--Para que está a fingir-se de novas?! Pois eu não sei que esses homens
+eram criados do primo da tal senhora? Parece que v. s.^a desconfia de
+mim, e está a querer guardar um segredo que eu tomára que ninguem
+soubesse, para que meu pae e o senhor Simão não tenham alguns maiores
+trabalhos...
+
+--Tem razão, Marianna, eu não devia esconder de si o mau encontro que
+tivemos...
+
+--E Deus queira que seja o ultimo!... Tanto tenho pedido ao Senhor dos
+Passos que lhe dê remedio a essa paixão!... O peor futuro eu que ainda
+está por passar...
+
+--Não, menina, isto acaba assim: eu vou para Coimbra, logo que esteja
+bom, e a menina da cidade fica em sua casa.
+
+--Se assim fôr, já prometti dois arrateis de cêra ao Senhor dos Passos;
+mas não me diz o coração que v. s.^a faça o que diz...
+
+-Muito agradecido lhe estou-disse Simão commovido--pelo bem que me
+deseja. Não sei o que lhe fiz para lhe merecer a sua amizade.
+
+--Basta vêr o que seu paesinho fez pelo meu--disse ella, limpando as
+lagrimas.--O que seria de mim, se me elle faltasse, e se fosse á forca
+como toda a gente dizia!... Eu era ainda muito nova quando elle estava
+na enxovia. Teria treze annos; mas estava resolvida a atirar-me ao poço,
+se elle fosse condemnado á morte. Se o degradassem, então ia com elle,
+ia morrer onde elle fosse morrer. Não ha dia nenhum que eu não peça a
+Deus que dê a seu pae tantos prazeres como estrellas tem o ceo. Fui de
+proposito á cidade para beijar os pés a sua mãesinha, e vi suas manas, e
+uma, que era a mais nova, deu-me uma saia de lapim, que eu ainda alli
+tenho guardada como uma reliquia. Depois, cada vez que ia á feira, dava
+uma grande volta para vêr se acertava de encontrar a senhora D. Ritinha
+á janella; e muitas vezes vi o senhor Simão. E talvez não saiba que eu
+estava a beber na fonte, quando v. s.^a, ha dois para tres annos, deu
+muita pancada nos criados, que era mesmo um reboliço que parecia o fim
+do mundo. Eu vim contar ao pae, e elle até cahiu ao chão a dar risadas
+como um doido... Depois nunca mais o vi senão quando v. s.^a entrou com
+o tio de Coimbra; mas já sabia que vinha para esta desgraça, porque
+tinha tido um sonho, em que via muito sangue, e eu estava a chorar,
+porque via uma pessoa muito minha amiga a cahir n'uma cova muito
+funda...
+
+--Isso são sonhos, Marianna...
+
+--São sonhos, são; mas eu nunca sonhei nada que não acontecesse. Quando
+meu pae matou o almocreve, tinha eu sonhado que o via a dar um tiro
+n'outro homem; antes de minha mãe morrer, acordei eu a chorar por ella,
+e mais ainda viveu dois mezes... A gente da cidade ri-se dos sonhos; mas
+Deus sabe o que isto é... Ahi vem meu pae... Senhor dos Passos! não vá
+ser alguma má nova!...
+
+João da Cruz entrou com uma carta que recebêra da pobre do costume. Em
+quanto Simão leu a carta escripta do convento, Marianna fitou os seus
+grandes olhos azues no rosto do academico, e a cada contracção da fronte
+d'elle, angustiava-se-lhe a ella o coração. Não teve mão da sua ancia, e
+perguntou:
+
+--É noticia má!
+
+--Tu és muito atrevida, rapariga!--disse João da Cruz.
+
+--Não é, não--atalhou o estudante.--Não é má a noticia, Marianna. Senhor
+João, deixe-me ter na sua filha uma amiga, que os desgraçados é que
+sabem avaliar os amigos.
+
+--Isso é verdade; mas eu não me atrevia a perguntar o que a carta diz.
+
+--Nem eu perguntei, meu pae; foi porque me pareceu que o senhor Simão
+estava afflicto quando lia.
+
+--E não se enganou--tornou o doente, voltando-se para o ferrador.--O pae
+arrastou Thereza ao convento.
+
+--Sempre é patife d'uma vez!--disse o ferrador, fazendo com os braços
+instinctivamente um movimento de quem aperta entre as mãos um pescoço.
+N'este lance um observador perspicaz veria luzir nos olhos de Marianna
+um clarão de innocente alegria.
+
+Simão sentou-se, e escreveu sobre uma cadeira, que Thereza
+espontaneamente lhe chegou, dizendo:
+
+--Em quanto escreve, vou olhar pelo caldinho, que está a ferver.
+
+«É necessário arrancar-te d'ahi--dizia a carta de Simão.--Esse convento
+ha de ter uma evasiva. Procura-a, e diz-me a noite e a hora em que devo
+esperar-te. Se não podéres fugir, essas portas hão de abrir-se diante da
+minha cólera. Se d'ahi te mandarem para outro convento mais longe,
+avisa-me, que eu irei sósinho, ou acompanhado, roubar-te ao caminho. É
+indispensavel que te refaças de animo para te não assustarem os arrojos
+da minha paixão. És minha; não sei de que me serve a vida se a não
+sacrificar a salvar-te. Creio em ti, Thereza, creio. Ser-me-has fiel na
+vida e na morte. Não soffras com paciencia; lucta com heroismo. A
+submissão é uma ignominia, quando o poder paternal é uma affronta.
+Escreve-me a toda a hora que possas. Eu estou quasi bom. Diz-me uma
+palavra, chama-me, e eu sentirei que a perda do sangue não diminue as
+forças do coração.»
+
+Simão pediu a sua carteira, tirou dinheiro em prata, deu-o ao ferrador,
+e recommendou-lhe que o entregasse á pobre com a carta.
+
+Depois ficou relendo a de Thereza, e recordando-se da resposta que déra.
+
+Mestre João foi á cosinha, e disse a Marianna:
+
+--Desconfio d'uma coisa, rapariga.
+
+--Que é, meu pae?
+
+--O nosso doente está sem dinheiro.
+
+--Porquê? o pae como sabe isso?
+
+--É que elle pediu-me a carteira para tirar dinheiro, e ella pezava
+tanto como uma bexiga de porco cheia de vento. Isto bole-me cá por
+dentro! Queria offerecer-lhe dinheiro, e não sei como ha de ser...
+
+--Eu pensarei n'isso, meu pae--disse Marianna reflectindo.
+
+--Pois sim; cogita lá tu, que tens melhores ideias que eu.
+
+--E se o pae não quizer bolir nos seus quatrocentos, eu tenho aquelle
+dinheiro dos meus bezerros; são onze moedas d'ouro menos um quarto.
+
+--Pois fallaremos: pensa tu no modo de elle aceitar sem _remorsos_.
+
+Remorsos, na linguagem pouco castigada de mestre João, era synonimo de
+_escrupulos_ ou _repugnancia_.
+
+Foi Marianna levar o caldo a Simão, que lh'o rejeitou como distrahido em
+profundo scismar.
+
+--Pois não toma o caldinho?--disse ella com tristeza.
+
+--Não posso, não tenho vontade, menina; será logo. Deixe-me sósinho
+algum tempo; vá, vá; não passe o seu tempo ao pé d'um doente aborrecido.
+
+--Não me quer aqui? irei, e voltarei quando v. s.^a chamar.
+
+Dissera isto Marianna com os olhos a reverem lagrimas.
+
+Simão notou as lagrimas, e pensou um momento na dedicação da môça; mas
+não lhe disse palavra alguma.
+
+E ficou pensando na sua espinhosa situação. Deviam de occorrer-lhe
+ideias afflictivas, que os romancistas raras vezes attribuem aos seus
+heroes. No romance todas as crises se explicam, menos a crise ignobil da
+falta de dinheiro. Entendem os novellistas que a materia é baixa e
+plebea. O estylo vai de má vontade para coisas razas. Balzac falla muito
+em dinheiro; mas dinheiro a milhões: não conheço, nos cincoenta livros
+que tenho d'elle, um galã n'um entre-acto da sua tragedia a scismar no
+modo de arranjar uma quantia com que pague ao alfaiate, ou se
+desembarace das rêdes que um usurario lhe lança, desde a casa do juiz de
+paz a todas as esquinas, d'onde o assaltam o capital e juro de oitenta
+por cento. D'isto é que os mestres em romances se escapam sempre. Bem
+sabem elles que o interesse do leitor se gela a passo igual que o heroe
+se encolhe nas proporções d'estes heroesinhos de botequim, de quem o
+leitor dinheiroso foge por instincto, e o outro foge tambem, porque não
+tem que fazer com elle. A coisa é vilmente prosaica, de todo o meu
+coração o confesso. Não é bonito o deixar a gente vulgarisar-se o seu
+heroe a ponto de pensar na falta de dinheiro, um momento depois que
+escreveu á mulher estremecida uma carta, como aquella de Simão Botelho.
+Quem a lêsse diria que o rapaz tinha postadas, em differentes estações
+das estradas do paiz, carroças e folgadas parelhas de mulas, para
+transportarem a Paris, a Veneza, ou ao Japão a bella fugitiva! As
+estradas, n'aquelle tempo, deviam ser boas para isso; mas não tenho a
+certeza de que houvessem estradas para o Japão. Agora creio que ha,
+porque me dizem que ha tudo.
+
+Pois eu já lhes fiz saber, leitores, pela bôca de mestre João, que o
+filho do corregedor não tinha dinheiro. Agora lhes digo que era em
+dinheiro que elle scismava quando Marianna lhe trouxe o caldo rejeitado.
+
+A meu vêr, deviam attribulal-o estes pensamentos:
+
+Como pagaria a hospitalidade de João da Cruz?
+
+Com que agradeceria os desvelos de Marianna?
+
+Se Thereza fugisse, com que recursos proveria á subsistencia de ambos!
+
+Ora, Simão Botelho sahira de Coimbra com a sua mesada, que não era
+grande, e quasi lh'a absorvêra o aluguel da cavalgadura, e a groseta
+generosa que déra ao arreeiro, a quem devia o conhecimento do prestante
+ferrador.
+
+As reliquias d'esse dinheiro déra-as elle á portadora da carta n'aquelle
+dia. Má situação!
+
+Lembrou-se de escrever á mãe. Que lhe diria elle? Como explicaria a sua
+residencia n'aquella casa? D'este modo não iria elle dar indicios da
+morte mysteriosa dos dois criados de Balthazar Coutinho?
+
+Além de que, sobejamente sabia elle que sua mãe o não amava; e, a
+mandar-lhe algum dinheiro em segredo, seria escassamente o necessario
+para a jornada até Coimbra. Péssima situação!
+
+Cansado de pensar, favoreceu-o a providencia dos infelizes com um somno
+profundo.
+
+E Marianna entrára pé ante pé na sala, e ouvindo-lhe a respiração alta,
+aventurou-se a entrar na alcova. Lançou-lhe um lenço de cassa sobre o
+rosto, em roda do qual zumbia um enxame de moscas. Viu a carteira sobre
+uma banqueta que adornava o quarto, pegou d'ella, e sahiu pé ante pé.
+Abriu a carteira, viu papeis, que não soube lêr, e n'um dos
+repartimentos duas moedas de seis vintens. Foi restituir a carteira ao
+seu logar, e tomou d'um cabide as calças, collête, e jaqueta á
+hespanhola, do hospede. Examinou os bolsos, e não encontrou um ceitil.
+
+Retirou-se para um canto escuro do sobrado, e meditou. Esteve meia hora
+assim, e meditava angustiada a nobre rapariga. Depois ergueu-se de
+golpe, e conversou longo tempo com o pae. João da Cruz escutou-a,
+contrariou-a; mas ia de vencida sempre pelas replicas da filha; até que,
+a final, disse:
+
+--Farei o que dizes, Marianna. Dá-me cá o teu dinheiro, que não vou
+agora levantar a pedra da lareira para bolir no caixote dos quatrocentos
+mil reis. Tanto faz um como outro: teu é elle todo.
+
+Marianna deu-se pressa em ir á arca, d'onde tirou uma bolsa de linho com
+dinheiro em prata, e alguns cordões, anneis e arrecadas. Guardou o seu
+oiro n'uma boceta, e deu a bolsa ao pae.
+
+João da Cruz apparelhou a egoa, e sahiu. Marianna foi para a sala do
+doente.
+
+Acordou Simão.
+
+--Não sabe!?--exclamou ella com semblante entre alegre e assustado,
+perfeitamente contrafeito.
+
+--Que é, Marianna?
+
+--Sua mãesinha sabe que v. s.^a aqui está.
+
+--Sabe?! isso é impossivel! quem lh'o disse?
+
+--Não sei; o que sei é que ella mandou chamar meu pae.
+
+--Isso espanta-me!... E não me escreveu?
+
+--Não, senhor!... Agora me lembro que talvez ella soubesse que o senhor
+aqui esteve, e cuide que já não está, e por isso lhe não escreveu...
+Poderá ser?
+
+--Poderá; mas quem lh'o diria!? Se isto se sabe, então podem suspeitar
+da morte dos homens.
+
+--Póde ser que não; e ainda que desconfiem, não ha testemunhas. O pae
+disse que não tinha mêdo nenhum. O que fôr, soará. Não esteja agora a
+scismar n'isso... Vou-lhe buscar o caldinho, sim?
+
+--Vá, se quer, Marianna. O ceu deparou-me em si a amizade de uma irmã.
+
+Não achou a moça na sua alegre alma palavras em resposta á doçura que o
+rosto do mancebo exprimira.
+
+Veio com o «caldinho» diminuitivo que a rhetorica d'uma linguagem meiga
+approva; mas contra o qual protestava a larga e funda malga branca, a
+par da travessa com meia gallinha loira de gorda.
+
+--Tanta coisa!--exclamou, sorrindo, Simão.
+
+--Coma o que podér--disse ella córando.--Eu bem sei que os senhores da
+cidade não comem em malgas tamanhas, mas eu não tinha outra mais
+pequena, e coma sem nojo, que esta nunca serviu, que a fui eu comprar á
+loja, por pensar que v. s.^a não quizera hontem comer por se atrigar da
+outra.
+
+--Não, Marianna, não seja injusta, eu não comi hontem pela mesma razão
+que não cômo agora: não tinha, nem tenho vontade.
+
+--Mas coma por eu lhe pedir... Perdôe o meu atrevimento... Faça de conta
+que é uma sua irmã que lhe pede. Ainda agora me disse...
+
+--Que o ceu me dava em si a amizade d'uma irmã...
+
+--Pois ahi está...
+
+Simão achou tão necessario á sua conservação o sacrificio, como ao
+contentamento da carinhosa Marianna. Passou-lhe na mente, sem sombra de
+vaidade, a conjectura de que era amado d'aquella dôce creatura. Entre si
+disse que seria uma crueza mostrar-se conhecedor de tal affeição, quando
+não tinha alma para lh'a premiar, nem para lhe mentir. Assim mesmo, bem
+longe de se affligir, lisongeavam-o os desvelos da gentil moça. Ninguem
+sente em si o pêso do amor que inspira e não comparte. Nas maximas
+afflicções, nas derradeiras horas do coração e da vida, é grato ainda
+sentir-se amado quem já não póde achar no amor diversão das penas, nem
+soldar o ultimo fio que se está partindo. Orgulho ou insaciabilidade do
+coração humano, seja o que fôr, no amor, que nos dão, é que nós
+graduamos o que valemos em nossa consciencia.
+
+Não desprazia, portanto, o amor de Marianna ao amante apaixonado de
+Thereza. Isto será culpa no severo tribunal das minhas leitoras; mas, se
+me deixam ter opinião, a culpa de Simão Botelho está na fraca natureza,
+que é toda galas no ceu, no mar, e na terra, é toda incoherencias,
+absurdezas, e vicios no homem, rei da creação chamado!
+
+
+
+
+IX.
+
+
+Duas horas se detivera João da Cruz fóra de casa. Chegou quando a
+curiosidade do estudante era já soffrimento.
+
+--Estará seu pae prêso?!--dissera elle a Marianna.
+
+--Não m'o diz o coração, e o meu coração nunca me engana--respondêra
+ella.
+
+E Simão replicára:
+
+--E que lhe diz o coração a meu respeito, Marianna? Os meus trabalhos
+ficarão aqui?
+
+--Vou-lhe dizer a verdade, senhor Simão... mas não digo...
+
+--Diga, que lh'o peço, porque tenho fé no bom anjo que falla em sua
+alma. Diga...
+
+--Pois sim... O meu coração diz-me que os seus trabalhos ainda estão no
+comêço...
+
+Simão ouviu-a attentamente, e não respondeu. Assombrou-lhe o animo esta
+ideia torva, e affrontosa á singela rapariga:--«Pensará ella em me
+desviar de Thereza para se fazer amar?»
+
+Pensava assim, quando chegou o ferrador.
+
+--Aqui estou de volta--disse elle com semblante festivo--Sua mãe
+mandou-me chamar...
+
+--Já sei... E como soube ella que eu estava aqui?
+
+--Ella sabia que o fidalgo estivera cá; mas cuidava que v. s.^a já tinha
+ido para Coimbra. Quem lh'o disse não sei, nem perguntei; porque a uma
+pessoa de respeito não se fazem perguntas, dizia meu pae. Dizia ella que
+sabia o fim a que o senhor viera esconder-se aqui. Ralhou alguma coisa;
+mas eu, cá como pude, accommodei-a, e não ha novidade. Perguntou-me o
+que estava o menino fazendo aqui depois que a fidalguinha fôra para o
+convento. Disse-lhe que v. s.^a estava adoentado d'uma quéda que dera do
+cavallo abaixo. Tornou ella a perguntar se o senhor tinha dinheiro; e eu
+disse que não sabia. E vai ella foi dentro, e voltou d'ahi a pouco com
+este embrulho, para eu lhe entregar. Ahi o tem tal e qual; não sei
+quanto é.
+
+--E não me escreveu?
+
+--Disse que não podia ir á escrivaninha, porque estava lá o senhor
+corregedor--respondeu com firmeza mestre João--e tambem me recommendou
+que não lhe escrevesse v. s.^a, senão de Coimbra, porque, se seu pae
+soubesse que o menino cá estava, ia tudo razo lá em casa. Ora ahi está.
+
+--E não lhe fallou nos criados de Balthazar?
+
+--Nem um pio!.. Lá na cidade ninguem já fallava n'isso hoje.
+
+--E que lhe disse da senhora D. Thereza?
+
+--Nada, senão que ella fôra para o convento. Agora, deixe-me ir amantar
+a egua, que está a escorrer em fio. Ó rapariga, traz-me cá a manta.
+
+Em quanto Simão contava onze moedas menos um quartinho, maravilhado da
+estranha liberalidade, Marianna, abraçando o pae no repartimento visinho
+da casa, exclamava:
+
+--Arranjou muito bem a mentira!...
+
+--Ó rapariga, quem mentiu foste tu! Aquillo lá o arranjaste tu com essa
+tua cabecinha! Mas a coisa sahiu ao pintar, heim? Elle comeu-a que nem
+confeitos! Anda lá, que ficaste sem os bezerros; mas lá virá tempo em
+que elle te dê bois a troco dos bezerros.
+
+--Eu não fiz isto por interesse, meu pae...--atalhou ella resentida.
+
+--Olha o milagre! isso sei eu; mas, como diz lá o dictado, quem semeia
+colhe.
+
+Marianna quedou pensativa, e dizendo entre si:--Ainda bem, que elle não
+póde pensar de mim o que meu pae pensa. Deus sabe que não tenho
+esperanças nenhumas interesseiras no que fiz.
+
+Simão chamou o ferrador, e disse-lhe:
+
+--Meu caro João, se eu não tivesse dinheiro, aceitava sem repugnancia os
+seus favores, e creio que vocemecê m'os faria sem esperança de ganhar
+com elles; mas como recebi esta quantia, ha de consentir que eu lhe dê
+parte d'ella para os meus alimentos. Motivos de gratidão a dividas, que
+se não pagam, ainda me ficam muitos para nunca me esquecer de si, e da
+sua boa filha. Tome este dinheiro.
+
+--As contas fazem-se no fim--respondeu o ferrador, retirando a mão--e
+ninguem nos ha de ouvir, se Deus quizer. Precisando eu de dinheiro cá
+venho. Por ora, ainda está a capoeira cheia de gallinhas, e o pão
+coze-se todas as semanas.
+
+--Mas aceite--instou Simão--e dê-lhe a applicação que quizer.
+
+--Em minha casa ninguem dá leis senão eu--replicou o mestre João, com
+simulado enfadamento--Guarde lá o seu dinheiro, fidalgo, e não fallemos
+mais n'isso, se quer que o negocio vá direito até ao fim. _E
+victo-serio_!
+
+Nos cinco subsequentes dias recebeu Simão regularmente cartas de
+Thereza, umas resignadas e confortadoras, outras escriptas na violencia
+exasperada da saudade. Em uma dizia:
+
+«Meu pae deve saber que estás ahi, e em quanto ahi estiveres, de certo
+me não tira do convento. Seria bom que fosses para Coimbra, e
+deixassemos esquecer a meu pae os ultimos acontecimentos. Senão, meu
+querido esposo, nem elle me dá liberdade, nem eu sei como hei de fugir
+d'este inferno. Não fazes ideia do que é um convento! Se eu podesse
+fazer do meu coração sacrificio a Deus, teria de procurar uma atmosphera
+menos viciosa que esta. Creio que em toda a parte se póde orar e ser
+virtuosa, menos n'este convento.»
+
+N'outra carta exprimia-se assim: «Não me desampares, Simão, não vás para
+Coimbra. Eu receio que meu pae me queira mudar d'este convento para
+outro mais rigoroso. Uma freira me disse que eu não ficava aqui; outra
+positivamente me affirmou que o pae diligenceia a minha ida para um
+convento do Porto. Sobre tudo, o que me aterra, mas não me dobra, é
+saber eu que o intento do pae é fazer-me professar. Por mais que imagine
+violencias e tyrannias, nenhuma vejo capaz de me arrancar os votos. Eu
+não posso professar sem ser noviça um anno, e ir a perguntas tres vezes;
+hei de responder sempre que não. Se eu podesse fugir d'aqui!... Hontem
+fui á cêrca, e vi lá uma porta de carro que dá para o caminho. Soube que
+algumas vezes aquella porta se abre para entrarem carros de lenha; mas
+infelizmente não se torna a abrir até ao principio do inverno. Se não
+poder antes, meu Simão, fugirei n'esse tempo.»
+
+Tiveram entretanto bom e prompto exito as diligencias de Thadeu de
+Albuquerque. A prelada de Monchique, religiosa de summas virtudes,
+cuidando que a filha de seu primo muito de sua devoção e amor a Deus, se
+recolhia ao mosteiro, preparou-lhe casa e congratulou-se com a sobrinha
+de tão piedosa resolução. A carta congratulatoria não a recebeu Thereza,
+porque viera á mão de seu pae. Continha ella reflexões tendentes a
+desvanecêl-a do proposito, se algum desgosto passageiro a impellia á
+imprudencia de procurar um refugio onde as paixões se exacerbavam mais.
+
+Tomadas todas as precauções, Thadeu de Albuquerque fez avisar sua filha
+de que sua tia de Monchique a queria ter em sua companhia algum tempo, e
+que a partida teria logar na madrugada do seguinte dia.
+
+Thereza, quando recebeu a surprendente nova, já tinha enviado a carta
+d'aquelle dia a Simão. Em sua afflictiva perplexidade, resolveu fazer-se
+doente, e tão febril estava das commoções, que dispensava o artificio. O
+velho não queria transigir com a doença; mas o medico do mosteiro reagiu
+contra a deshumanidade do pae e da prioreza interessada na violencia.
+Quiz Thereza n'essa noite escrever a Simão; mas a criada da prelada,
+obedecendo ás suspeitas da ama, não desamparou a cabeceira do leito da
+enferma. Era causa a esta espionagem ter dito a escrivã, n'nma hora de
+má digestão d'aquelle vinho estomacal, que Thereza passava as noites em
+oração mental, e tinha correspondencia com um anjo do céu por
+intervenção d'uma mendiga. Algumas religiosas tinham visto a mendiga no
+páteo do convento esperando a esmola de Thereza; mas cuidaram que era
+aquella pobre uma devoção da menina. As palavras ironicas da escrivã
+foram commentadas, e a mendiga recebeu ordem de sahir da portaria.
+Thereza, n'um impeto de angustia, quando tal soube, correu a uma
+janella, e chamou a pobre, que se retirava assustada, e lançou-lhe ao
+pateo um bilhete com estas palavras: «É impossivel a nossa
+correspondencia. Vou ser tirada d'aqui para outro convento. Espera em
+Coimbra noticias minhas.» Isto foi rapidamente ao conhecimento da
+prioreza, e logo, ás ordens d'ella, partiu o hortelão no encalço da
+pobre. O hortelão seguiu-a até fóra de portas, espancou-a, tirou-lhe o
+bilhete, e foi do convento apresental-o a Thadeu de Albuquerque. A
+mendiga não retrocedeu; caminhou a casa do ferrador, e contou a Simão o
+acontecido.
+
+Simão lançou-se fóra do leito, e chamou João da Cruz. N'aquelle aperto
+queria ouvir uma voz, queria poder chamar amigo a um homem, que lhe
+estendesse mão capaz de apertar o cabo d'um punhal. O ferrador ouviu a
+historia, e deu o seu voto: «esperar até vêr». Simão repelliu a
+prudencial frieza do confidente, e disse que partia para Vizeu
+immediatamente.
+
+Marianna estava alli; ouvira a confidencia, e achára acertada a opinião
+de seu pae. Vendo, porém, a impaciencia do hospede, pediu licença para
+fallar onde não era chamada, e disse:
+
+--Se o senhor Simão quer, eu vou á cidade, e procuro no convento a
+Brito, que é uma rapariga minha conhecida, moça d'uma freira, e dou-lhe
+uma carta sua para entregar á fidalga.
+
+--Isso é possivel, Marianna?!--exclamou Simão, a ponto de abraçar a
+moça.
+
+--Pois então!--disse o ferrador--o que póde fazer-se, faz-se. Vai-te
+vestir, rapariga, que eu vou botar o albardão á égua.
+
+Simão sentou-se a escrever. Tão embaralhadas lhe acudiam as ideias, que
+não atinava a formar o designio mais proveitoso á situação de ambos. Ao
+cabo de longa vacillação, disse a Thereza que fugisse á hora do dia,
+quando a porta estivesse aberta, ou violentasse a porteira a abrir-lh'a.
+Dizia-lhe que marcasse ella a hora do dia seguinte em que elle a devia
+esperar, com cavalgaduras para a fuga. Em recurso extremo, promettia
+assaltar com homens armados o mosteiro, ou incendial-o para se abrirem
+as portas. Este programma era o mais parecido com o espirito do
+academico: em vivo fogo estava aquella pobre cabeça! Fechada a carta,
+começou a passear em torcicolos, como se obedecesse a desencontrados
+impulsos. Encravava as unhas na cabeça, e arrancava os cabellos n'ellas.
+Marrava como cego contra as paredes, e sentava-se um momento para
+erguer-se de mais furioso impeto. Machinalmente aferrava das pistolas, e
+sacudia os braços vertiginosos. Abria a carta para relêl-a, e estava a
+ponto de rasgal-a, cuidando que iria tarde, ou não lhe chegaria ás mãos.
+N'este conflicto de contrarios projectos, entrou Marianna, e muito
+allucinado devia de estar Simão para lhe não dar fé das lagrimas.
+
+O que tu soffrias, nobre coração de mulher pura! Se o que fazes por esse
+moço é gratidão ao homem que salvou a vida de teu pae, que rara virtude
+a tua! Se o amas, se por lhe dar allivio ás dôres, tu mesma lhe
+desempeces o caminho por onde te elle ha de fugir para sempre, que nome
+darei á tua virtude! que anjo te fadou o coração para a santidade d'um
+obscuro martyrio!
+
+--Estou prompta, disse Marianna.
+
+--Aqui tem a carta, minha boa amiga. Faça muito por não vir sem
+resposta--disse Simão, dando-lhe com a carta um embrulho de dinheiro.
+
+--E o dinheiro também é para a senhora?--disse ella.
+
+--Não, é para si, Marianna: compre um annel.
+
+Marianna tomou a carta, e voltou rapidamente as costas, para que Simão
+lhe não visse o gesto de despeito, se não desprêso.
+
+O academico não ousou insistir, vendo-a apressar-se na descida para o
+quinteiro, onde o ferrador enfreava a egua.
+
+--Não lhe chegues muito com a vara--disse João da Cruz a Marianna, que,
+d'um pulo, se assentou no albardão, coberto d'uma colxa escarlate.--Tu
+vaes amarella como cidra, moça!--exclamou elle reparando na pallidez da
+moça--Tu que tens?
+
+--Nada; que hei de eu ter?! dê-me cá a vara, meu pae.
+
+A egua partiu a galope, e o ferrador, no meio da estrada, a rever-se na
+filha e na egua, dizia em soliloquio, que Simão ouvira:
+
+--Vales tu mais, rapariga, que quantas fidalgas tem Vizeu! Pela mais
+pintada não dava eu a minha egua; e, se cá viesse o Mira-Molim de
+Marrocos pedir-me a filha, os diabos me levem se eu lh'a dava! Isto é
+que são mulheres, e o mais é uma historia!
+
+
+
+
+X.
+
+
+Apeou Marianna defronte do mosteiro, e foi á portaria chamar a sua amiga
+Brito.
+
+--Que boa moça!--disse o padre capellão, que estava no raro lateral da
+porta, praticando com a prioreza, ácerca da salvação das almas, e d'umas
+ancoretas de vinho do Pinhão, que elle recebêra n'aquelle dia, e do qual
+já tinha engarrafado um almude para tonisar o estomago da prelada.
+
+--Que boa moça!--tornou elle, com um olho n'ella e outro no raro, onde a
+ciumosa prioreza se estava remordendo.
+
+--Deixe lá a moça, e diga quando ha de ir a servente buscar o vinho.
+
+--Quando quizer, senhora prioreza; mas repare bem nos olhos, no feitio,
+n'aquelle todo da rapariga!
+
+--Pois repare o senhor padre João--replicou a freira--que eu tenho mais
+que fazer.
+
+E retirou-se com o coração mal-ferido, e o queixo superior escorrendo
+lagrimas... de simonte.
+
+--D'onde é vocemecê?--disse brandamente o padre capellão.
+
+--Sou da aldeia--respondeu Marianna.
+
+--Isso vejo eu; mas de que aldeia é?
+
+--Não me confesso agora.
+
+--Mas não faria mal se se confessasse a mim, menina, que sou padre.
+
+--Bem vejo.
+
+--Que mau genio tem!...
+
+--É isto que vê.
+
+--Quem procura cá no convento?
+
+--Já disse lá para dentro quem procuro.
+
+--Marianna! és tu?! Anda cá!
+
+A moça fez uma cortezia de cabeça ao padre capellão, e foi ao locutorio
+d'onde vinha aquella voz.
+
+--Eu queria fallar comtigo em particular, Joaquina--disse Marianna.
+
+--Eu vou vêr se arranjo uma grade: espera ahi.
+
+O padre tinha sahido do pateo, e Marianna, em quanto esperava, examinou,
+uma a uma, as janellas do mosteiro. N'uma das janellas, através das
+rexas de ferro, viu ella uma senhora sem habito.
+
+--Será aquella?--perguntou Marianna ao seu coração, que palpitava--Se eu
+fosse amada como ella!...
+
+--Sobe aquellas escadinhas, Marianna, e entra na primeira porta do
+corredor, que eu lá vou--disse Joaquina.
+
+Marianna deu alguns passos, olhou novamente para a janella onde vira a
+senhora sem habito, e repetiu ainda:
+
+--Se eu fosse amada como ella!...
+
+Mal entrou na grade, disse á sua amiga:
+
+--Olha lá, Joaquina, quem é uma menina muito branca, alva como leite,
+que estava alli agora n'uma janella?
+
+--Seria alguma noviça, que ha duas cá muito lindas.
+
+--Mas ella não tinha vestimenta nenhuma de freira.
+
+--Ah! já sei: é a D. Therezinha Albuquerque.
+
+--Então não me enganei--disse Marianna, pensativa.
+
+--Pois tu conhecel-a?
+
+--Não; mas por amor d'ella é que eu cá vim fallar comtigo.
+
+--Então que é?! Que tens tu com a fidalga?
+
+--Eu, cá por mim, nada; mas conheço uma pessoa que lhe quer muito.
+
+--O filho do corregedor?
+
+--Esse mesmo.
+
+--Mas esse está em Coimbra.
+
+--Não sei se está, nem se não. Fazes-me tu um favor?
+
+--Se eu poder...
+
+--Pódes... Eu queria fallar com ella.
+
+--Ó dianho! isso não sei se poderá ser, porque a trazem as freiras
+debaixo d'olho, e ella vai-se embora ámanhã.
+
+--Para onde vai?
+
+--Vai para outro convento, não sei se de Lisboa, se do Porto. Os bahus
+já estão preparados, e ella está morta por sahir. E tu que lhe queres?
+
+--Não t'o posso dizer, porque não sei... Queria dar-lhe um papel... Faz
+com que ella cá venha, que eu dou-te chita para um vestido.
+
+--Como tu estás rica, Marianna!...--atalhou, rindo, Joaquina--Eu não
+quero a tua chita, rapariga. Se eu podér dizer-lhe que venha, sem que
+alguem me ouça, digo-lh'o. E agora é boa maré, porque tocou ao côro....
+Deixa-me lá ir.
+
+Joaquina sahiu-se bem da difficil commissão. Thereza estava sósinha,
+absorvida a scismar com os olhos fitos no ponto onde vira Marianna.
+
+--A menina faz favor de vir comigo depressinha?--disse-lhe a criada.
+
+Seguiu-a Thereza, e entrou na grade, que Joaquina fechou, dizendo:
+
+--O mais breve que possa bata por dentro para eu lhe abrir a porta. Se
+perguntarem por v. ex.^a, digo-lhe que a menina está no mirante.
+
+A voz de Marianna tremia, quando D. Thereza lhe perguntou quem era.
+
+--Sou uma portadora d'esta carta para v. ex.^a
+
+--É de Simão!--exclamou Thereza.
+
+--Sim, minha senhora.
+
+--A reclusa leu convulsiva a carta duas vezes, e disse:
+
+--Eu não posso escrever-lhe, que me roubaram o meu tinteiro, e ninguem
+me empresta um. Diga-lhe que vou de madrugada para o convento de
+Monchique do Porto. Que se não afflija, porque eu sou sempre a mesma.
+Que não venha cá, porque seria inutil, e muito perigoso. Que vá vêr-me
+ao Porto, que eu hei de arranjar modo de lhe fallar. Diga-lhe isto, sim?
+
+--Sim, minha senhora.
+
+--Não se esqueça, não? Vir cá por modo nenhum. É impossivel fugir, e vou
+muito acompanhada. Vai o primo Balthazar e as minhas primas, e meu pae,
+e não sei quantos criados de bagagem e das liteiras. Tirar-me no caminho
+é uma loucura com resultados funestos. Diga-lhe tudo, sim?
+
+Joaquina disse fóra da porta:
+
+--Menina! olhe que a prioreza anda lá por dentro a procural-a.
+
+--Adeus, adeus--disse Thereza sobresaltada.--Tome lá esta lembrança como
+prova da minha gratidão.
+
+E tirou do dedo um annel de ouro, que offereceu a Marianna.
+
+--Não aceito, minha senhora.
+
+--Porque não aceita?
+
+--Porque não fiz algum favor a v. ex.^a. A receber alguma paga ha de ser
+de quem me cá mandou. Fique com Deus, minha senhora, e oxalá que seja
+feliz.
+
+Sahiu Thereza, e Joaquina entrou na grade.
+
+--Já te vaes embora, Marianna?
+
+--Vou, que é pressa; um dia virei conversar comtigo muito. Adeus,
+Joaquina.
+
+--Pois não me contas o que isto é? O amor da fidalga está perto d'aqui?
+Conta, que eu não digo nada, rapariga!...
+
+--Outra vez, outra vez; obrigada, Joaquininha.
+
+Marianna, durante a veloz caminhada, foi repetindo o recado da fidalga,
+e, se alguma vez se distrahia d'este exercicio de memoria, era para
+pensar nas feições da amada do seu hospede, e dizer, como em segredo, ao
+seu coração: «Não lhe bastava ser fidalga e rica; e, além de tudo, linda
+como nunca vi outra!» E o coração da pobre moça, avergando ao que a
+consciencia lhe ia dizendo, chorava.
+
+Simão, de uma fresta do postigo do seu quarto, espreitava ao longo do
+caminho, ou escutava a estropeada da cavalgadura.
+
+Ao descobrir Marianna, desceu ao quinteiro, despresando cautelas, e
+esquecido já do ferimento cuja crise de perigo peorára n'aquelle dia,
+que era o oitavo depois do tiro.
+
+A filha do ferrador deu o recado, sem alteração de palavra. Simão
+escutára-a placidamente até ao ponto em que lhe ella disse que o primo
+Balthazar a acompanhava ao Porto.
+
+--O primo Balthazar!...--murmurou elle com um sorriso sinistro--sempre
+este primo Balthazar cavando a sua sepultura e a minha!...
+
+--A sua, fidalgo?!--exclamou João da Cruz--morra elle, que o levem
+trinta milhões de diabos! mas v. s.^a ha de viver em quanto eu fôr João.
+Deixe-a ir para o Porto, que não tem perigo no convento. D'hora a hora
+Deus melhora. O senhor doutor vai para Coimbra, está por lá algum tempo,
+e ás duas por tres, quando o velho mal se precatar, a fidalguinha
+engrampa-o, e é sua como dois e dois serem quatro.
+
+--Eu hei de vêl-a antes de partir para Coimbra--disse Simão.
+
+--Olhe que ella recommendou-me muito que não fosse lá--acudiu Marianna.
+
+--Por causa do primo?--tornou o academico ironicamente.
+
+--Acho que sim, e por talvez não servir de nada lá ir v. s.^a--respondeu
+timidamente a moça.
+
+--Lá se quer--bradou mestre João--a mulher vai-se-lhe tirar ao caminho.
+Não tem mais que dizer.
+
+--Meu pae! não metta este senhor em maiores trabalhos!--disse Marianna.
+
+--Não tem duvida, menina--atalhou Simão--eu é que não quero metter
+ninguem em trabalhos. Com a minha desgraça, por maior que ella seja, hei
+de eu luctar sósinho.
+
+João da Cruz, assumindo uma gravidade de que a sua figura raras vezes se
+ennobrecia, disse:
+
+--Senhor Simão, v. s.^a não sabe nada do mundo. Não metta sósinho a
+cabeça aos trabalhos, que elles, como o outro que diz, quando pegam de
+ensarilhar um homem, não lhe deixam tomar fôlego. Eu sou um rustico;
+mas, a bem dizer, estou n'aquella d'aquelle que dizia que o mal dos seus
+burrinhos o fizera alveitar. Paixões, que as leve o diabo, e mais quem
+com ellas engorda. Por causa de uma mulher, ainda que ella seja filha do
+rei, não se ha de um homem botar a perder. Mulheres ha tantas como a
+praga, e são como as rãs no charco, que mergulha uma, e apparecem quatro
+á tona d'agua. Um homem rico e fidalgo como v. s.^a, onde quer topa uma
+com um palmo de cara como se quer, e um dote de encher o olho. Deixe-a
+ir com Deus ou com a breca, que ella, se tiver de ser sua, á mão lhe ha
+de vir dar, e tanto faz andar p'ra traz como p'ra diante, é dictado dos
+antigos. Olhe que isto não é mêdo, fidalgo; tome sentido, que João da
+Cruz sabe o que é pôr dois homens d'uma feita a olhar o sete-estrello,
+mas não sabe o que é mêdo. Se o senhor quer sahir á estrada e tirar a
+tal pessoa ao pae, ao primo, e a um regimento, se fôr necessario, eu vou
+montar na egua, e d'aqui a tres horas estou de volta com quatro homens,
+que são quatro dragões.
+
+Simão fitára os olhos chammejantes nos do ferrador, e Marianna
+exclamára, ajuntando as mãos sobre o seio:
+
+--Meu pae! não lhe dê esses conselhos!...
+
+--Cala-te ahí, rapariga!--disse mestre João--vai tirar o albardão á
+egua, amanta-a, e bota-lhe sêcco. Não és aqui chamada.
+
+--Não vá afflicta, senhora Marianna--disse Simão á moça, que se retirava
+amargurada.--Eu não aproveito algum dos conselhos de seu pae. Ouço-o com
+boa vontade, porque sei que quer o meu bem; mas hei de fazer o que a
+honra e o coração me aconselhar.
+
+Ao anoitecer, Simão, como estivesse sósinho, escreveu uma longa carta,
+da qual extractamos os seguintes periodos:
+
+«Considero-te perdida, Thereza. O sol de ámanhã póde ser que eu o não
+veja. Tudo, em volta de mim, tem uma côr de morte. Parece que o frio da
+minha sepultura me está passando o sangue e os ossos.
+
+Não posso ser o que tu querias que eu fosse. A minha paixão não se
+conforma com a desgraça. Eras a minha vida: tinha a certeza de que as
+contrariedades me não privavam de ti. Só o receio de perder-te me mata.
+O que me resta do passado é a coragem de ir buscar uma morte digna de
+mim e de ti. Se tens força para uma agonia lenta, eu não posso com ella.
+
+Poderia viver com a paixão infeliz; mas este rancor sem vingança é um
+inferno. Não hei de dar barata a vida, não. Ficarás sem mim, Thereza;
+mas não haverá ahi um infame que te persiga depois da minha morte. Tenho
+ciumes de todas as tuas horas. Has de pensar com muita saudade no teu
+esposo do ceu, e nunca tirarás de mim os olhos da tua alma para vêres ao
+pé de ti o miseravel que nos matou a realidade de tantas esperanças
+formosas.
+
+Tu verás esta carta quando eu já estiver n'um outro mundo, esperando as
+orações das tuas lagrimas. As orações! Admiro-me d'esta faisca de fé que
+me alumia nas minhas trévas!... Tu déras-me com o amor a religião,
+Thereza. Ainda creio; não se apaga a luz que é tua; mas a providencia
+divina desamparou-me.
+
+Lembra-te de mim. Vive, para explicares ao mundo, com a tua lealdade a
+uma sombra, a razão por que me attrahiste a um abysmo. Escutarás com
+gloria a voz do mundo, dizendo que eras digna de mim.
+
+Á hora em que leres esta carta............»
+
+Não o deixaram continuar as lagrimas, nem depois a presença de Marianna.
+Vinha ella pôr a mesa para a ceia, e quando desdobrava a toalha, disse
+em voz abafada, como se a si mesma sómente o dissesse:
+
+--É a ultima vez que ponho a mesa ao senhor Simão em minha casa!
+
+--Porque diz isso, Marianna?
+
+--Porque m'o diz o coração.
+
+D'esta vez o academico ponderou supersticiosamente os dictames do
+coração da moça, e com o silencio meditativo deu-lhe a ella a evidencia
+anticipada do vaticinio.
+
+Quando voltou com a travessa da gallinha, vinha chorando a filha de João
+da Cruz.
+
+--Chora com pena de mim, Marianna?--disse Simão enternecido.
+
+--Choro, porque me parece que o não tornarei a vêr; ou, se o vir, será
+de modo que oxalá que eu morresse antes de o vêr.
+
+--Não será, talvez, assim, minha amiga...
+
+--V. s.^a não me faz-uma coisa que eu lhe peço?...
+
+--Veremos o que pede, menina.
+
+--Não saia esta noite, nem ámanhã.
+
+--Pede o impossivel, Marianna. Hei de sahir, porque me mataria se não
+sahisse.
+
+--Então perdôe a minha ousadia. Deus o tenha de sua mão.
+
+A rapariga foi contar ao pae as intenções do academico. Acudiu logo
+mestre João combatendo a ideia da sahida, com encarecer os perigos do
+ferimento. Depois, como não conseguisse dissuadil-o, resolveu
+acompanhal-o. Simão agradeceu a companhia, mas rejeitou-a com decisão. O
+ferrador não cedia do proposito, e estava já preparando a clavina, e
+arreçoando com medida dobrada a egua--para o que désse e viesse--dizia
+elle, quando o estudante lhe disse que, melhor avisado, resolvêra não ir
+a Vizeu, e seguir Thereza ao Porto, passados os dias da convalescença.
+Facilmente o acreditou João da Cruz; mas Marianna, submissa sempre ao
+que o seu coração lhe bacorejava, duvidou da mudança, e disse ao pae que
+vigiasse o fidalgo.
+
+Ás onze horas da noite ergueu-se o academico, e escutou o movimento
+interior da casa: não ouviu o mais ligeiro ruido, a não ser o rangido da
+egua na manjedoura. Escorvou de polvora nova as duas pistolas. Escreveu
+um bilhete subscriptado a João da Cruz, e ajuntou-o á carta que
+escrevêra a Thereza. Abriu as portadas da janella do seu quarto, e
+passou d'alli para a varanda de pau, da qual o salto á estrada era sem
+risco. Saltou, e tinha dado alguns passos, quando a fresta, lateral á
+porta da varanda, se abriu, e a voz de Marianna lhe disse:
+
+--Então adeus, senhor Simão. Eu fico pedindo a Nossa Senhora que vá na
+sua companhia.
+
+O academico parou, e ouviu voz intima que lhe dizia: «O teu anjo da
+guarda falla pela bôca d'aquella mulher, que não tem mais intelligencia
+que a do coração alumiado pelo seu amor.»
+
+--Dê um abraço em seu pae, Marianna--disse-lhe Simão--e adeus... até
+logo, ou....
+
+--Até ao juizo final...--atalhou ella.
+
+--O destino ha de cumprir-se... Seja o que o ceu quizer.
+
+Tinha Simão desapparecido nas trevas, quando Marianna accendeu a lampada
+do sanctuario, e ajoelhou orando com o fervor das lagrimas.
+
+Era uma hora, e estava Simão defronte do convento, contemplando uma a
+uma as janellas. Em nenhuma vira clarão de luz; luz só a do lampadario
+do Sacramento se coava baça e pallida na vidraça d'uma fresta do templo.
+Sentou-se nas escaleiras da igreja, e ouviu, ali immovel, as quatro
+horas. Das mil visões, que lhe relancearam no atribulado espirito, a que
+mais a miudo se repetia era a de Marianna supplicante com as mãos
+postas; mas, ao mesmo tempo, cria elle ouvir os gemidos de Thereza,
+torturada pela saudade, pedindo ao ceu que a salvasse das mãos de seus
+algozes. O vulto de Thadeu de Albuquerque, arrastando a filha a um
+convento, não lhe afogueava a sêde de vingança; mas cada vez que lhe
+acudia á mente a imagem odiosa de Balthazar Coutinho, instinctivamente
+as mãos do academico se asseguravam da existencia das pistolas.
+
+Ás quatro horas e um quarto acordou a natureza toda em hymnos e
+acclamações ao radiar da alva. Os passarinhos trinavam na cerca do
+mosteiro melodias interrompidas pelo toque solemne das Ave-Marias na
+torre. O horisonte passára, de escarlate a alvacento. A purpura da
+aurora, como lavareda enorme, desfizera-se em particulas de luz, que
+ondeavam no declive das montanhas, e se distendiam nas planicies e nas
+varzeas, como se o anjo do Senhor, á voz de Deus, viesse desenrolando
+aos olhos da creatura as maravilhas do repontar d'um dia estivo.
+
+E nenhuma d'estas galas do ceu e da terra enlevava os olhos do moço
+poeta!
+
+Ás quatro horas e meia ouviu Simão o tinido de liteiras, dirigindo-se
+áquelle ponto. Mudou de local, tomando por uma rua estreita, fronteira
+ao convento.
+
+Pararam as liteiras vasias na portaria, e logo depois chegaram tres
+senhoras vestidas de jornada, que deviam ser as irmãs de Balthazar,
+acompanhadas de dois mochilas com as mulas á rédea. As damas foram
+sentar-se nos bancos de pedra, lateraes á portaria. Em seguida abriu-se
+a grossa porta, rangendo nos gonzos, e as tres senhoras entraram.
+
+Momentos depois viu Simão chegar á portaria Thadeu de Albuquerque
+encostado ao braço de Balthazar Coutinho. O velho denotava quebranto e
+desfallecimento a espaços. O de Castro-d'Aire, bem composto de figura e
+caprichosamente vestido á castelhana, gesticulava com o aprumo de quem
+dá as suas irrefutaveis razões, e consola tomando a riso a dôr alheia.
+
+--Nada de lamurias, meu tio!--dizia elle--Desgraça seria vêl-a casada!
+Eu prometto-lhe antes de um anno restituir-lh'a curada. Um anno de
+convento é um optimo vomitorio do coração. Não ha nada como isso para
+limpar o sarro do vicio em corações de meninas creadas á discrição. Se
+meu tio a obrigasse, desde menina, a uma obediencia cega, têl-a-ia agora
+submissa, e ella não se julgaria authorisada a escolher marido.
+
+--Era uma filha unica, Balthazar!--dizia o velho, soluçando.
+
+--Pois por isso mesmo--replicou o sobrinho--Se tivesse outra, ser-lhe-ia
+menos sensivel a perda, e menos funesta a desobediencia. Faria a sua
+casa na filha mais querida, embora tivesse de impetrar uma licença regia
+para desherdar a primogenita. Assim, agora não lhe vejo outro remedio
+senão empregar o cauterio á chaga; com emplastros é que não se faz nada.
+
+Abriu-se novamente a portaria, e sahiram as tres senhoras, e após ellas
+Thereza.
+
+Thadeu enchugou as lagrimas, e deu alguns passos a saudar a filha, que
+não ergueu do chão os olhos.
+
+--Thereza...--disse o velho.
+
+--Aqui estou, senhor--respondeu a filha, sem o encarar.
+
+--Ainda é tempo--tornou Albuquerque.
+
+--Tempo de quê?
+
+--Tempo de seres boa filha.
+
+--Não me accusa a consciencia de o não ser.
+
+--Ainda mais?!... Queres ir para tua casa, e esqueceres o maldito que
+nos faz a todos desgraçados?
+
+--Não, meu pae. O meu destino é o convento. Esquecêl-o nem por morte.
+Serei filha desobediente, mas mentirosa é que nunca.
+
+Thereza, circumvagando os olhos, viu Balthazar, e estremeceu,
+exclamando:
+
+--Nem aqui!
+
+--Falla comigo, prima Thereza?--disse Balthazar, risonho.
+
+--Comsigo fallo! Nem aqui me deixa a sua odiosa presença?
+
+--Sou um dos criados que minha prima leva em sua companhia. Dois tinha
+eu ha dias, dignos de acompanharem a minha prima; mas esses houve ahi um
+assassino que m'os matou. Á falta d'elles, sou eu que me offereço.
+
+--Dispenso-o da delicadeza--atalhou Thereza com vehemencia.
+
+--Eu é que me não dispenso de a servir, á falta dos meus dois fieis
+criados, que um scelerado me matou.
+
+--Assim devia ser--tornou ella tambem ironica--porque os covardes
+escondem-se nas costas dos criados, que se deixam matar.
+
+--Ainda se não fizeram as contas finaes..., minha querida
+prima--redarguiu o morgado.
+
+Este dialogo correu rapidamente, em quanto Thadeu de Albuquerque
+cortejava a prioreza e outras religiosas. As quatro senhoras, seguidas
+de Balthazar, tinham sahido do atrio do convento, e deram de rosto em
+Simão Botelho, encostado á esquina da rua fronteira.
+
+Thereza viu-o.... adivinhou-o, primeira de todas, e exclamou:
+
+--Simão!...
+
+O filho do corregedor não se moveu.
+
+Balthazar, espavorido do encontro, fitando os olhos n'elle, duvidava
+ainda.
+
+--É crivel que esse infame aqui viesse!--exclamou o de Castro-d'Aire.
+
+Simão deu alguns passos, e disse placidamente:
+
+--_Infame..._ eu! e porquê?
+
+--Infame, e infame assassino!--replicou Balthazar--Já fóra da minha
+presença!
+
+--É parvo este homem!--disse o academico--Eu não discuto com s. s.^a...
+Minha senhora--disse elle a Thereza com a voz commovida e o semblante
+alterado unicamente dos affectos do coração--Soffra com resignação, da
+qual eu lhe estou dando um exemplo. Leve a sua cruz, sem amaldiçoar a
+violencia, e bem póde ser que a meio caminho do seu calvario a
+misericordia divina lhe redobre as forças.
+
+--Que diz este patife?!--exclamou Thadeu.
+
+--Vem aqui insultal-o, meu tio!--respondeu Balthazar--Tem a petulancia
+de se apresentar a sua filha a confortal-a na sua malvadez! Isto é de
+mais! Olhe que eu esmago-o aqui, su villão!
+
+--Villão é o desgraçado, que me ameaça, sem ousar avançar para mim um
+passo--redarguiu o filho do corregedor.
+
+--Eu não o tenho feito--exclamou enfurecidamente Balthazar--por entender
+que me avilto, castigando-o, na presença de criados de meu tio, que tu
+pódes suppôr meus defensores, canalha!
+
+--Se assim é--tornou Simão, sorrindo--espero nunca me encontrar de rosto
+com s. s.^a. Reputo-o tão covarde, tão sem dignidade, que o hei de
+mandar azorragar pelo primeiro ganha-pão das esquinas.
+
+Balthazar Coutinho lançou-se de impeto a Simão. Chegou a apertar-lhe a
+garganta nas mãos; mas depressa perdeu o vigor dos dedos. Quando as
+damas chegaram a interpôr-se entre os dois, Balthazar tinha o alto do
+craneo aberto por uma bala, que lhe entrára na fronte. Vacillou um
+segundo, e cahiu desamparado aos pés de Thereza.
+
+Thadeu de Albuquerque gritava a altos brados. Os liteireiros e criados
+rodearam Simão, que conservava o dedo no gatilho da outra pistola.
+Animados uns pelos outros e pelos brados do velho, iam lançar-se ao
+homicida, com risco de vida, quando um homem, com um lenço pela cara,
+correu da rua fronteira, e se collocou, de bacamarte aperrado, á beira
+de Simão. Estacaram os homens.
+
+--Fuja, que a égua está ao cabo da rua--disse o ferrador ao seu hospede.
+
+--Não fujo... Salve-se, e depressa--respondeu Simão.
+
+--Fuja, que se ajunta o povo, e não tardam ahi soldados.
+
+--Já lhe disse que não fujo--replicou o amante de Thereza, com os olhos
+postos n'ella, que cahira desfallecida sobre as escadas da igreja.
+
+--Está perdido!--tornou João da Cruz.
+
+--Já o estava. Vá-se embora, meu amigo, por sua filha lh'o rogo. Olhe
+que póde ser-me util; fuja...
+
+Abriam-se todas as portas e janellas, quando o ferrador se lançou na
+fuga, até cavalgar a egua.
+
+Um dos visinhos do mosteiro, que, em razão de seu officio, primeiro
+sahiu á rua, era o meirinho geral.
+
+--Prendam-no, prendam-no, que é um matador!--exclamava Thadeu de
+Albuquerque.
+
+--Qual?--perguntou o meirinho geral.
+
+--Sou eu--respondeu o filho do corregedor.
+
+--V. s.^a!--disse o meirinho espantado; e, approximando-se, accrescentou
+a meia voz--venha, que eu deixo-o fugir.
+
+--Eu não fujo--tornou Simão.--Estou prêso. Aqui tem as minhas armas.
+
+E entregou as pistolas.
+
+Thadeu de Albuquerque, quando se recobrou do spasmo, fez transportar a
+filha a uma das liteiras, e ordenou que dois criados a acompanhassem ao
+Porto.
+
+As irmãs de Balthazar seguiram o cadaver de seu irmão para casa do tio.
+
+
+
+
+SEGUNDA PARTE.
+
+
+
+
+I.
+
+
+O corregedor acordara com o grande reboliço que ia na casa, e perguntou
+á esposa, que elle suppunha tambem desperta na camara immediata, que
+bulha era aquella. Como ninguem lhe respondesse, sacudiu freneticamente
+a campainha, e berrou ao mesmo tempo, aterrado pela hypothese de
+incendio na casa. Quando D. Rita acudiu, já elle estava enfiando os
+calções ás avessas.
+
+--Que estrondo é este? quem é que grita?--exclamou Domingos Botelho.
+
+--Quem grita mais é o senhor--respondeu D. Rita.
+
+--Sou eu!? Mas quem é que chora?
+
+--São suas filhas.
+
+--E porquê? Diga n'uma palavra.
+
+--Pois sim, direi: o Simão matou um homem.
+
+--Em Coimbra?... E fazem tanta bulha por isso!
+
+--Não foi em Coimbra, foi em Vizeu--tornou D. Rita.
+
+--A senhora manga comigo?! Pois o rapaz está em Coimbra, e mata em
+Vizeu! Ahi está um caso para que as ordenações do reino não
+providenciaram.
+
+--Parece que brinca, Menezes! Seu filho matou na madrugada de hoje
+Balthazar Coutinho, sobrinho do Thadeu de Albuquerque.
+
+Domingos Botelho mudou inteiramente de aspecto.
+
+--Foi prêso?--perguntou o corregedor.
+
+--Está em casa do juiz de fóra.
+
+--Mande-me chamar o meirinho geral. Sabe como foi e porque foi essa
+morte?!... Mande-me chamar o meirinho, sem demora.
+
+--Porque se não veste o senhor, e vai a casa do juiz?
+
+--Que vou eu fazer a casa do juiz?
+
+--Saber de seu filho como isto foi.
+
+--Eu não sou pae: sou corregedor. Não me incumbe a mim interrogal-o,
+Senhora D. Rita, eu não quero ouvir choradeiras; diga ás meninas que se
+calem, ou que vão chorar no quintal.
+
+O meirinho chamado relatou miudamente o que sabia, e disse ter-se
+verificado que o amor á filha do Albuquerque fôra causa d'aquelle
+desastre.
+
+Domingos Botelho, ouvida a historia, disse ao meirinho:
+
+--O juiz de fóra que cumpra as leis. Se elle não fôr rigoroso, eu o
+obrigarei a sêl-o.
+
+Ausente o meirinho, disse D. Rita Preciosa ao marido:
+
+--Que significa esse modo de fallar de seu filho?
+
+--Significa que sou corregedor d'esta comarca, e que não protejo
+assassinos por ciumes, e ciumes da filha de um homem, que eu detesto. Eu
+antes queria vêr mil vezes morto Simão, que ligado a essa familia.
+Escrevi-lhe muitas vezes dizendo-lhe que o expulsava de minha casa, se
+alguem me désse a certeza de que elle tinha correspondencia com tal
+mulher. Não ha de querer a senhora que eu vá sacrificar a minha
+integridade a um filho desobediente, e de mais a mais homicida.
+
+D. Rita, algum tanto por affecto maternal e bastante por espirito de
+contradicção, contendeu largo espaço; mas desistiu, obrigada pela
+insolita pertinacia e cólera do marido. Tão iracundo e aspero em
+palavras nunca o ella vira. Quando lhe elle disse: «Senhora, em coisas
+de pouca monta o seu dominio era toleravel; em questões de honra, o seu
+dominio acabou: Deixe-me!»--D. Rita, quando tal ouviu, e reparou na
+physionomia de Domingos Botelho, sentiu-se mulher, e retirou-se.
+
+A ponto foi isto de entrar o juiz de fóra na sala de espera. O
+corregedor foi recebel-o, não com o semblante affectuoso de quem vai
+agradecer a delicadeza e implorar indulgencia, senão que de carrancudo
+que ia, mais parecêra ir elle reprehender o juiz por vir n'aquella
+visita dar a crer que a balança da justiça na sua mão tremia algumas
+vezes.
+
+--Começo por dar a v. s.^a os pezames--disse o juiz de fóra--da desgraça
+de seu filho.
+
+--Obrigado a v. s.^a Sei tudo. Está instaurado o processo?
+
+--Não podia deixar eu de acceitar a querella.
+
+--Se a não acceitasse, obrigal-o-ia eu ao cumprimento dos seus deveres.
+
+--A situação do senhor Simão Botelho é pessima. Confessa tudo. Diz que
+matou o algoz da mulher que elle amava...
+
+--Fez muito bem--interrompeu o corregedor, soltando uma casquinada secca
+e rouca.
+
+--Perguntei-lhe se foi em defeza, e fiz-lhe signal que respondesse
+affirmativamente. Respondeu que não; que, a defender-se, o faria com a
+ponta da bota, e não com um tiro. Busquei todos os modos honestos de o
+levar a dar algumas respostas, que denotassem allucinação ou demencia;
+elle, porém, responde e replíca com tanta egualdade e presença de
+espirito, que é impossivel suppor que o assassinio não foi perpetrado
+muito intencionalmente e de claro juizo. Aqui tem v. s.^a uma
+especialissima e triste posição. Queria valer-lhe, e não posso.
+
+--E eu não posso nem quero, senhor doutor juiz de fóra. Está na cadêa?
+
+--Ainda não: está em minha casa. Venho saber se v. s.^a determina que
+lhe seja preparada com decencia a prisão.
+
+--Eu não determino nada. Faça de conta que o prêso Simão não tem aqui
+parente algum.
+
+--Mas, senhor doutor corregedor--disse o juiz de fóra com tristeza e
+compuncção--v. s.^a é pae.
+
+--Sou um magistrado.
+
+--É demasiada a severidade, perdôe-me a reflexão que é amiga. Lá está a
+lei para o castigar; não o castigue v. ex.^a com o seu odio. A desgraça
+quebranta o odio de estranhos, quanto mais o affectuoso resentimento de
+um pae!
+
+--Eu não odeio, senhor doutor; desconheço esse homem em que me falla.
+Cumpra os seus deveres, que lh'o ordena o corregedor, e o amigo mais
+tarde lhe agradecerá a delicadeza.
+
+Sahiu o juiz de fóra, e foi encontrar Simão na mesma serenidade em que o
+deixára.
+
+--Venho de fallar com seu pae;--disse o juiz--encontrei-o mais irado do
+que era natural calcular. Penso que por em quanto naaa póde esperar da
+influencia ou patrocinio d'elle.
+
+--Isso que importa?--respondeu socegadamente Simão.
+
+--Importa muito, senhor Botelho. Se seu pae quizesse, haveria meios de
+mais tarde lhe adoçar a sentença.
+
+--Que me importa a mim a sentença?--replicou o filho do corregedor.
+
+--Pelo que vejo não lhe importa ao senhor ir a uma forca?
+
+--Não, senhor.
+
+--Que diz, senhor Simão!--redarguiu espantado o interrogador.
+
+--Digo que o meu coração é indifferente ao destino da minha cabeça.
+
+--E sabe que seu pae não lhe dá mesmo protecção, a protecção das
+primeiras necessidades na cadêa?
+
+--Não sabia; que tem isso? Que importa morrer de fome, ou morrer no
+patibulo?
+
+--Porque não escreve a sua mãe? Peça-lhe que...
+
+--Que hei de eu pedir a minha mãe?--atalhou Simão.
+
+--Peca-lhe, que amacie a cólera de seu pae, senão o senhor Botelho não
+tem quem o alimente.
+
+--V. s.^a está-me julgando um miseravel, a quem dá cuidado saber onde ha
+de almoçar hoje. Penso que não incumbem ao senhor juiz de fóra essas
+miudezas de estomago.
+
+--De certo não--redarguiu irritado o juiz---Faça o que quizer.
+
+E, chamando o meirinho geral, entregou-lhe o réo, dispensando o aguazil
+de pedir força para acompanhal-o.
+
+O carcereiro recebeu respeitosamente o prêso, e alojou-o n'um dos
+quartos melhores do carcere; mas nú e desprovido de tudo o carcere.
+
+Um outro prêso emprestou-lhe uma cadeira de pau. Simão sentou-se, cruzou
+os braços, e meditou.
+
+Pouco depois, um criado de seu pae conduziu-lhe o almoço, dizendo-lhe
+que sua mãe lh'o mandava a occultas, e entregando-lhe uma carta d'ella,
+cujo conteúdo importa saber. Simão, antes de tocar no almoço, cujo cabaz
+estava-no pavimento, leu o seguinte:
+
+«Desgraçado, que estás perdido!
+
+Eu não te posso valer, porque teu pae está inexoravel. A occultas d'elle
+é que te mando o almoço, e não sei se poderei mandar-te o jantar!
+
+Que destino o teu! Oxalá que tivesses morrido ao nascer!
+
+Morto me disseram que tinhas nascido; mas o teu fatal destino não quiz
+largar a victima [3].
+
+Para que sahiste de Coimbra? a que vieste, infeliz? Agora sei que tens
+vivido fóra de Coimbra ha quinze dias, e nunca tiveste uma palavra que
+dissesses a tua mãe!...»
+
+Simão suspendeu a leitura, e disse entre si:
+
+--Como se intende isto?! Pois minha mãe não mandou chamar João da Cruz!
+E não foi ella quem me mandou o dinheiro?
+
+--Olhe que o almoço arrefece, menino!--disse o criado.
+
+Simão continuou a ler, sem ouvir o criado:
+
+«Deves estar sem dinheiro; e eu desgraçadamente não posso hoje enviar-te
+um pinto. Teu irmão Manoel, desde que fugiu para Hespanha, absorve-me
+todas as economias. Veremos, passado algum tempo, o que posso fazer; mas
+receio bem que teu pae saia de Vizeu, e nos leve para Villa Real, para
+abandonar de todo o teu julgamento á severidade das leis.
+
+Meu pobre Simão! Onde estarias tu escondido quinze dias?! Hoje mesmo é
+que teu pae teve carta d'um lente, participando-lhe a tua falta nas
+aulas, e sahida para o Porto, segundo dizia o arreeiro que te
+acompanhou.
+
+Não posso mais. Teu pae já espancou a Ritinha, por ella querer ir á
+cadêa.
+
+Conta com o pouco valor de tua pobre mãe ao pé d'um homem infurecido
+como está teu pae.»
+
+Simão Botelho reflectiu alguns minutos, e convenceu-se de que o dinheiro
+recebido era de João da Cruz. Quando sahiu com o espirito d'esta
+meditação, tinha os olhos marejados de lagrimas.
+
+--Não chore, menino;--disse o criado--os trabalhos são para os homens, e
+Deus ha de fazer tudo pelo melhor. Almoce, senhor Simão.
+
+--Leva o almoço--disse elle.
+
+--Pois não quer almoçar?!
+
+--Não. Nem voltes aqui. Eu não tenho familia. Não quero absolutamente
+nada da casa de meus paes. Diz a minha mãe que eu estou socegado, bem
+alojado, e feliz, e orgulhoso da minha sorte. Vai-te embora já.
+
+O criado sahiu, e disse ao carcereiro que o seu infeliz amo estava
+doudo. D. Rita achou provavel a suspeita do servo e viu a evidencia da
+loucura nas palavras do filho.
+
+Quando o o carcereiro voltou ao quarto de Simão, entrou acompanhado
+d'uma rapariga camponeza: era Marianna. A filha de João da Cruz que, até
+áquelle momento não apertava sequer a mão do hospede, correu a elle com
+os braços abertos, e o rosto banhado de lagrimas. O carcereiro
+retirou-se, dizendo comsigo: «Esta é bem mais bonita que a fidalga!»
+
+--Não quero ver lagrimas, Marianna--disse Simão--Aqui, se alguem deve
+chorar sou eu; mas lagrimas dignas de mim, lagrimas de gratidão aos
+favores que tenho recebido de si e de seu pae. Acabo de saber que minha
+mãe nunca me mandou dinheiro algum. Era de seu pae aquelle dinheiro, que
+recebi.
+
+Marianna escondeu o rosto no avental com que enxugava o pranto.
+
+--Seu pae teve algum perigo?--tornou Simão em voz só perceptivel d'ella.
+
+--Não, senhor.
+
+--Está em casa?
+
+--Está; e parece furioso. Queria vir aqui; mas eu não o deixei.
+
+--Perseguiu-o alguem?
+
+--Não, senhor.
+
+--Diga-lhe que não se assuste, e vá depressa socegal-o.
+
+--Eu não posso ir sem fazer o que elle me disse. Eu vou sahir, e volto
+d'aqui a pouco.
+
+--Mande-me comprar uma banca, uma cadeira, e um tinteiro e papel--disse
+Simão, dando-lhe dinheiro.
+
+--Ha de vir logo tudo; já cá podia estar; mas o pae disse-me que não
+comprasse nada sem saber se sua familia lhe mandava o necessario.
+
+--Eu não tenho familia, Marianna. Tome o dinheiro.
+
+--Não recebo dinheiro, sem licença de meu pae. Para essas compras trouxe
+eu de mais. E a sua ferida como estará?
+
+--Ainda agora me lembro que tenho uma ferida!--disse Simão,
+sorrindo--Deve estar boa, que não me dóe.... Soube alguma coisa da D.
+Thereza?
+
+--Soube que foi para o Porto. Estavam alli a contar que o pae a mandára
+metter sem sentidos na liteira, e está muito povo á porta do fidalgo.
+
+--Está bom, Marianna... Não ha desgraçado sem amparo. Vá, pense no seu
+hospede, seja o seu anjo de misericordia.
+
+Saltaram de novo as lagrimas dos olhos da moça; e por entre soluços,
+estas palavras:
+
+--Tenha paciencia. Não ha de morrer ao desamparo. Faça de conta que lhe
+appareceu hoje uma irmã.
+
+E, dizendo, tirou das amplas algibeiras um embrulho de biscoutos e uma
+garrafa de licor de canella, que depôz sobre a cadeira.
+
+--Mau almoço é; mas não achei outra coisa prompta--disse ella, e sahiu
+apressada, como para poupar ao infeliz palavras de gratidão.
+
+
+
+
+II.
+
+
+O corregedor, n'esse mesmo dia, ordenou que se preparassem mulher e
+filhas para no dia immediato sahirem de Vizeu, com tudo que podesse ser
+transportado em cavalgaduras.
+
+Vou transcrever a singela e dorida reminiscencia d'uma senhora d'aquella
+familia, como a tenho em carta, recebida ha mezes:
+
+«Já lá vão cincoenta e sete annos, e ainda me lembro, como se fossem
+hontem passados os tristes acontecimentos da minha mocidade. Não sei
+como é que tenho hoje mais clara a memoria das coisas da infancia.
+Parece-me que, há trinta annos, me não lembravam com tantas
+circumstancias e promenores.
+
+Quando a mãe disse a mim e a minhas irmãs que preparassemos os nossos
+bahus, rompemos todas n'um chôro, que irritou a ira do pae. As manas,
+como mais velhas ou mais affeitas ao castigo, calaram-se logo: eu,
+porém, que só uma vez e unicamente por causa de Simão, tinha sido
+castigada, continuei a chorar, e tive o innocente valor de pedir ao pae
+que me deixasse ir vêr o mano á cadêa antes de sahirmos de Vizeu.
+
+Então fui castigada pela segunda vez e asperamente.
+
+O criado, que levou o jantar á cadêa, voltou com elle e contou-nos que
+Simão já tinha alguns moveis no seu quarto, e estava jantando com
+exterior socegado. Áquella hora todos os sinos de Vizeu estavam dobrando
+a finados por alma de Balthazar.
+
+Ao pé d'elle, disse o criado que estava uma formosa rapariga da aldeia,
+triste e coberta de lagrimas. Apontando-a ao criado que a observava,
+disse Simão:--A minha família é esta.
+
+No dia seguinte, ao romper da manhã, partimos para Villa Real. A mãe
+chorava sempre; o pae, encolerisado por isso, sahiu da liteira em que
+vinha com ella, fez que eu passasse para o seu logar, e fez toda a
+jornada na minha cavalgadura.
+
+Logo que chegamos a Villa Real, eram tão frequentes as desordens em
+casa, á conta do Simão, que meu pae abandonou a familia, e foi sósinho
+para a quinta de Montezellos. A mãe quiz tambem abandonar-nos, e ir para
+os primos de Lisboa, a fim de solicitar o livramento do mano. Mas o pae,
+que fizera uma espantosa mudança de genio, quando tal soube, ameaçou
+minha mãe de a obrigar judicialmente a não sahir da casa de seu marido e
+filhas.
+
+Escrevia a mãe a Simão, e não recebia resposta. Pensava ella que o filho
+não respondia: annos depois vimos entre os papeis de meu pae todas as
+cartas que ella escrevêra. Ja se vê que o pae as fazia tirar no correio.
+
+Uma senhora de Vizeu escreveu á mãe, louvando-a pelo muito amor e
+caridade com que ella acudia ás necessidades de seu infeliz filho. Esta
+carta foi-lhe entregue por um almocreve, senão teria o destino das
+outras. Espantou-se minha mãe do conceito em que a tinha a sua amiga, e
+confessou lhe que não o tinha soccorrido, porque o filho rejeitára o
+pouco que ella quizera fazer em seu bem. A isto respondeu a senhora de
+Vizeu que uma rapariga, filha d'um ferrador, estava vivendo nas
+visinhanças da cadêa, e cuidava do prêso com abundancia e limpeza, e a
+todos dizia que ali estava por ordem e á custa da senhora D. Rita
+Preciosa. Accrescentava a amiga de minha mãe, que algumas vezes mandára
+chamar a bella moça e lhe quizera dar alguns cosinhados mais exquisitos
+para Simão, os quaes ella rejeitava, dizendo que o senhor Simão não
+aceitava nada.
+
+De tempos a tempos recebiamos estas novas, sempre tristes, porque, na
+ausencia de meu pae, conspiraram, como era de esperar, quasi todas as
+pessoas distinctas de Vizeu contra o meu desgraçado irmão.
+
+A mãe escrevia aos seus parentes da capital, implorando graça regia para
+o filho; mas aquellas cartas não sahiam do correio, e iam dar todas á
+mão de meu pae.
+
+E que fazia este, entretanto, na quinta, sem familia, sem gloria, nem
+recompensa alguma a tantas faltas? Rodeado de jornaleiros, cultivava
+aquelle grande montado, onde ainda hoje por entre os tojos e urzes que
+voltaram com o abandono, se podem vêr reliquias das cêpas plantadas por
+elle. A mãe escrevia-lhe lastimando o filho; meu pae apenas respondia
+que a justiça não era uma brincadeira, e que na antiguidade os proprios
+paes condemnavam os filhos criminosos.
+
+Teve minha mãe a affoiteza de se lhe apresentar um dia, pedindo licença
+para ir a Vizeu. Meu inexoravel pae negou-lh'a, e invectivou-a
+furiosamente.
+
+Passados sete mezes, soubemos que Simão tinha sido condemnado a morrer
+na forca, levantada no local onde fizera a morte. Fecharam-se as
+janellas por oito dias; vestimos todas de lucto, e minha mãe cahiu
+doente.
+
+Quando se isto soube em Villa Real, todas as pessoas illustres da terra
+foram a Montezellos, a fim de obrigarem brandamente o pae a empregar o
+seu valimento na salvação do filho condemnado. De Lisboa vieram alguns
+parentes protestar contra a infamia que tamanha ignominia faria recahir
+sobre a familia. Meu pae a todos respondia com estas palavras: «A forca
+não foi inventada somente para os que não sabem o nome do seu avô. A
+ignominia das familias são as más acções. A justiça não infama senão
+aquelle que castiga.»
+
+Tinhamos nós um tio-avô muito velho e venerando, chamado Antonio da
+Veiga. Foi este quem fez o milagre, e foi assim. Apresentou-se a meu pae
+e disse-lhe: Guardou-me Deus a vida até aos oitenta e tres annos.
+Poderei viver mais dous ou tres? Isto nem já é vida; mas foi-o, e
+honrada, e sem mancha até agora, e já agora ha de assim acabar; meus
+olhos não hão de vêr a deshonra de sua familia. Domingos Botelho, ou tu
+me promettes aqui de salvar teu filho da forca, ou eu na tua presença me
+mato.--E dizendo isto, apontava ao pescoço uma navalha de barba. Meu pae
+teve-lhe mão do braço, e disse que Simão não seria enforcado.
+
+No dia seguinte, foi meu pae para o Porto, onde tinha muitos amigos na
+Relação, e de lá para Lisboa[4].
+
+Em principio de Março de 1805 soube minha mãe com grande prazer que
+Simão fôra removido para as cadêas da Relação do Porto, vencendo os
+grandes obstaculos que oppozera a essa mudança dos queixosos, que eram
+Thadeu de Albuquerque, e as irmãs do morto.
+
+Depois......»
+
+Suspendemos aqui o extracto da carta, para não anticiparmos a narrativa
+de successos, que importa, em respeito á arte, atar no fio cortado.
+
+Simão Botelho vira imperturbavel chegar o dia do julgamento. Sentou-se
+no banco dos homicidas sem patrono, nem testemunhas de defeza. Ás
+perguntas respondeu com o mesmo animo frio d'aquellas respostas ao
+interrogatorio do juiz. Obrigado a explicar a causa do crime, deu-a com
+toda a lealdade sem articular o nome de Thereza Clementina de
+Albuquerque. Quando o advogado da accusação proferiu aquelle nome, Simão
+Botelho ergueu-se de golpe, e exclamou:
+
+--Que vem aqui fazer o nome de uma senhora a este antro de infamia e
+sangue? Que miseravel accusador está ahi, que não sabe com a confissão
+do réo provar a necessidade do carrasco sem enlamear a reputação d'uma
+mulher? A minha accusação está feita: eu a fiz: agora a lei que falle, e
+cale-se o villão que não sabe accusar sem infamar.
+
+O juiz impôz-lhe silencio. Simão sentou-se, murmurando:
+
+--Miseraveis todos!
+
+Ouviu o réo a sentença de morte natural para sempre na forca arvorada no
+local do delicto. E ao mesmo tempo sahiram d'entre a multidão uns gritos
+dilacerantes. Simão voltou a face para as turbas, e disse:
+
+--Ides ter um bello espectaculo, senhores! A forca é a unica festa do
+povo! Levai d'ahi essa pobre mulher que chora: essa é a creatura unica
+para quem o meu supplicio não será um passatempo.
+
+Marianna foi transportada em braços á sua casinha, na visinhança da
+cadêa. Os robustos braços que a levaram eram os de seu pae.
+
+Simão Botelho, quando, em toda a agilidade e força dos dezoito annos, ia
+do tribunal ao carcere, ouviu algumas vozes que se alternavam d'este
+modo:
+
+--Quando vai elle a padecer?
+
+--É bem feito! vai pagar pelos innocentes que o pae mandou enforcar.
+
+--Queria apanhar a morgada á força de balas!
+
+--Não que estes fidalgos cuidam que não é mais senão matar!...
+
+--Matasse elle um pobre, e tu verias como elle estava em casa!
+
+--Tambem é verdade!
+
+--E como elle vai de cara no ar!
+
+--Deixa ir, que não tarda quem lh'a faça cahir ao chão!...
+
+--Dizem que o carrasco já vem pelo caminho.
+
+--Já chegou de noite, e trazia dous cutélos n'uma coifa.
+
+--Tu viste-o?
+
+--Não; mas disse a minha comadre que lh'o dissera a visinha do cunhado
+da irmã, e que o carrasco está escondido n'uma enxovia.
+
+--Tu has de levar os teus pequenos a vêr o padecente?
+
+--Podéra não! Estes exemplos não se devem perder.
+
+--Eu cá de mim já vi enforcar tres, que me lembre, todos por matadores.
+
+--Por isso tu ha dois annos não atiraste com a vida do Amaro Lampreia a
+casa do diabo!...
+
+--Assim foi; mas, se eu o não matasse, matava-me elle.
+
+--Então de que voga o exemplo?!
+
+--Eu sei cá de que voga? O frei Anselmo dos franciscanos é que préga aos
+paes que levem os filhos a vêrem os enforcados.
+
+--Isso ha de ser para o não esfolarem a elle, quando elle nos esfola com
+os peditorios.
+
+Tão desassombrado ia o espirito de Simão, que algumas vezes lhe esvoaçou
+nos labios ura sorriso, desafiado pela philosophia do povo, ácerca da
+forca.
+
+Recolhido ao seu quarto, foi intimado para appellar dentro do prazo
+legal. Respondeu que não appellava, que estava contente da sua sorte, e
+de boas avenças com a justiça.
+
+Perguntou por Marianna, e o carcereiro lhe disse que a mandava chamar.
+Veio João da Cruz, e a chorar se lastimou de perder a filha, porque a
+via delirante a fallar em forca, e a pedir que a matassem primeiro.
+Agudissima foi então a dôr do academico ao comprehender, como se
+instantaneamente lhe fulgurasse a verdade, que Marianna o amava até
+morrer. Por momentos se lhe esvaiu do coração a imagem de Thereza, se é
+possivel assim pensal-o. Vêl-a-ia por ventura como um anjo redemido em
+serena contemplação do seu creador; e veria Marianna como o symbolo da
+tortura, morrendo a pedaços, sem instantes de amor remunerado que lhe
+dessem a gloria do martyrio. Uma, morrendo amada; outra, agonisando, sem
+ter ouvido a palavra «amor» dos labios que escassamente balbuciavam
+frias palavras de gratidão.
+
+E chorou então aquelle homem de ferro. Chorou lagrimas que valiam bem as
+amarguras de Marianna.
+
+--Cuide de sua filha, senhor Cruz!--disse Simão com fervente supplica ao
+ferrador.--Deixe-me a mim, que estou vigoroso e bom. Vá consolar essa
+creatura, que nasceu debaixo da minha má estrella. Tire-a de Vizeu:
+leve-a para sua casa. Salve-a, para que n'este mundo fiquem duas irmãs
+que me chorem. Os favores que me tem feito, já agora dispensa-os a
+brevidade da minha vida. D'aqui a dias mandam-me recolher ao oratorio:
+bom será que sua filha ignore.
+
+De volta, João da Cruz achou a filha prostrada no pavimento, ferida no
+rosto, chorando e rindo, demente em summa. Levou-a amarrada para sua
+casa, e deixou a cargo d'outra pessoa a sustentação do condemnado.
+
+Terribilissimas foram então as horas solitarias do infeliz. Até áquelle
+dia, Marianna, bem quista do carcereiro e protegida pela amiga de D.
+Rita Preciosa, tinha franca entrada no carcere a toda a hora do dia, e
+raras horas deixava sósinho o prêso. Costurava, em quanto elle escrevia,
+ou cuidava do amanho e limpeza do quarto. Se Simão estava no leito
+doente ou prostrado, Marianna, que tivera alguns principios de escripta,
+sentava-se á banca, e escrevia cem vezes o nome _Simão_, que muitas
+vezes as lagrimas diliam. E isto assim, durante sete mezes, sem nunca
+proferir nem ouvir a palavra amor. Isto assim, depois das vigilias
+nocturnas, ora em preces, ora em trabalho, ora no caminho de sua casa,
+onde ia visitar o pae a deshoras.
+
+Nunca mais o prêso, na perspectiva da forca, viu entrar aquella doce
+creatura o limiar da ferrada porta, que lhe graduava o ar medido e
+calculado para que as honras da asphyxia as gozasse o cordel do
+patibulo. Nunca mais!
+
+E, quando elle avocava a imagem de Thereza, um capricho dos olhos
+quebrantados lhe affigurava a visão de Marianna ao par da outra. E
+lagrimosas via as duas. Saltava então do leito, fincava os dedos nos
+espêssos ferros da janella, e pensava em partir o craneo contra as
+grades.
+
+Não o sostinha a esperança na terra nem no ceu. Raio de luz divina
+jámais penetrou no seu ergastulo. O anjo da piedade incarnára n'aquella
+creatura celestial, que enlouquecêra, ou voltara para o ceu com o
+espirito d'ella. O que o salvava do suicidio não era, pois, esperança em
+Deus, nem nos homens: era este pensamento: «A final, _covarde_! Que
+bravura é morrer quando não ha esperança de vida!? A forca é um
+triumpho, quando se encontra ao cabo do caminho da honra!»
+
+
+
+
+III.
+
+
+E Thereza?
+
+
+Perguntam a tempo, minhas senhoras, e não me hei de queixar se me
+arguirem de a ter esquecido e sacrificado a incidentes de menos porte.
+
+Esquecido, não. Muito ha que me reluz e voeja, alada como o ideal
+cherubim dos santos, n'esta minha quasi escuridade[5], aquella ave do
+ceu, como a pedir-me que lhe cubra de flores o rastilho de sangue que
+ella deixou na terra. Mais lagrimas que sangue deixaste, ó filha da
+amargura! Flores são tuas lagrimas, e do ceu me diz se os perfumes
+d'ellas não valem mais aos pés do teu Deus que as preces de muita
+devota, que morre canonisada, e cujo cheiro de santidade não passa do
+olfacto hypocrita ou estupido dos mortaes.
+
+Thereza Clementina bem a viram transportada da escadaria do templo, onde
+cabira, á liteira que a conduziu ao Porto. Recobrando o alento, viu
+defronte de si uma criada, que lhe dizia banaes e frias expressões de
+allivio. Se alguma criada de seu pae lhe era amiga, de certo não
+aquella, acintemente escolhida pelo velho. Nem ao menos a confiança para
+a expansão em gritos restava á affligida menina.
+
+Perguntava-se a si mesma Thereza se aquella horrorosa situação, seria um
+sonho! Sentia-se de novo fallecer de forças, e voltava á vida, sacudida
+pela consciencia da sua desgraça. Condoeu-se a criada, e incitou-a a
+respirar, chorando com ella, e dizendo-lhe:
+
+--Póde fallar, menina, que ninguem nos segue.
+
+--Ninguem?!
+
+--As suas primas ficaram: apenas vem os dois lacaios.
+
+--E meu pae não?
+
+--Não, fidalga... Póde chorar e fallar á sua vontade.
+
+--E eu vou para o Porto?
+
+--Vamos, sim, minha senhora.
+
+--E tu viste tudo como foi, Constança?
+
+--Desgraçadamente vi....
+
+--Como foi? conta-me tudo.
+
+--A menina bem sabe que seu primo morreu.
+
+--Morreu?! Vi-o cahir quasi aos meus pés; mas....
+
+--Morreu logo, e depois quizeram os criados, á voz de seu pae, prender o
+senhor Simão; mas elle com outra pistola....
+
+--E fugiu?--atalhou Thereza com vehemencia e alegria.
+
+--A final foi elle que se deu á prisão.
+
+--Está prêso?!
+
+E suffocada pelos soluços, com o rosto no lenço, não ouvia as palavras
+confortadoras de Constança.
+
+Serenado algum tanto o violento accesso de gemidos e choro, Thereza
+suggeriu á criada o louco plano de a deixar fugir da primeira estalagem
+onde pousassem, para ella ir a Vizeu dar o ultimo adeus a Simão.
+
+A criada a custo a despersuadiu do intento, pintando-lhe os novos
+perigos que ia accumular á desgraça do seu amante, e animando-a com a
+esperança de livrar-se Simão do crime, com a influencia do pae, apesar
+da perseguição do fidalgo.
+
+Calaram lentamente estas razões no espirito de Thereza, apesar dos
+estorvos do coração.
+
+Chorosa, doente, a revezes desfallecida, foi Thereza vencendo a
+distancia que a separava de Monchique, onde chegou ao quinto dia de
+jornada.
+
+A prelada já estava sabedora dos successos, por emissarios que se
+adiantaram ao moroso caminhar da liteira.
+
+Foi Thereza recebida com brandura por sua tia, posto que as
+recommendações de Thadeu de Albuquerque eram clausura rigorosa, e
+absoluta privação de meios de escrever a quem quer que fosse.
+
+Ouviu a prelada da bôca de sua sobrinha a fiel historia dos
+acontecimentos, e mostrou-lhe uma a uma as cartas de Simão Botelho.
+Choraram abraçadas; mas a prelada, enxugadas as lagrimas de mulher ao
+fogo da austeridade religiosa, fallou e aconselhou como freira, e freira
+que ciliciava o corpo com as rozetas, e o coração com as privações
+tormentosas de quarenta annos.
+
+Thereza carecia de forças para a rebellião. Deixou a sua tia a santa
+vaidade de exorcismar o demonio das paixões, e deu um sorriso ao anjo da
+morte, que, de permeio ao seu amor e á esperança, lhe interpunha a aza
+negra, que tão de luz refulgente rebrilha ás vezes em corações
+infelizes.
+
+Quiz Thereza escrever.
+
+--A quem, minha filha?--perguntou a prelada.
+
+Não respondeu Thereza.
+
+--Escrever-lhe para que?--tornou a religiosa--Cuidas tu, menina, que as
+tuas cartas lhe chegam á mão? Que vaes tu fazer senão redobrar a ira de
+teu pae contra ti e contra o infeliz prêso! Se o amas, como creio,
+apesar de tudo, cuida em salval-o. Se não ouves a minha razão, finge-te
+esquecida. Se pódes violentar a tua dôr, dissimula, faz muito por que a
+teu pae chegue a noticia de que lhe serás obediente em tudo, se elle
+tiver piedade do teu pobre amigo.
+
+Não recalcitrou Thereza. Deu outro sorriso ao anjo da morte, e pediu-lhe
+que a envolvesse a ella, e ao seu amor, e á sua esperança, de todo, na
+negrura de suas azas.
+
+De mez a mez recebia a abbadessa de Monchique uma carta de seu primo.
+Eram estas cartas um respiradouro da vingança. Em todas dizia o velho
+que o assassino iria ao patibulo irremediavelmente. A sobrinha não via
+as cartas; mas reparava nas lagrimas da compassiva freira.
+
+A debil compleição de Thereza deprecia acceleradamente. A sciencia
+condemnou-a a morte breve. D'isto foi informado Thadeu de Albuquerque, e
+respondeu: «Que a não desejava morta; mas, se Deus a levasse, morreria
+mais tranquillo, e com a sua honra sem mancha.» Era assim immaculada a
+honra do fidalgo de Vizeu!... a HONRA, que dizem proceder em linha recta
+da virtude de Socrates, da virtude de Jesus Christo, e da virtude de
+milhões de martyres, que se deram ás garras das feras, quando predicavam
+a caridade e o perdão aos homens!
+
+Quantas caricias inventou a sympathia e a piedade, todos, por ministerio
+das religiosas exemplares de Monchique, aporfiaram em refrigerar o
+ardor, que consumia rapidamente a reclusa. Inutil tudo. Thereza
+reconhecia com lagrimas a compaixão, e ao mesmo tempo alegrava-se,
+tirando das caricias a certeza de que os médicos a julgavam incuravel.
+
+Alguma freira inadvertida lhe disse um dia que uma sua amiga do convento
+dos Remedios de Lamego lhe dissera que Simão tinha sido condemnado á
+morte.
+
+Thereza estremeceu e murmurou, sem forças já para a exclamação:
+
+--E eu vivo ainda!
+
+Depois orou, e chorou; mas os habitos da sua vida em paroxismos
+continuaram inalteraveis.
+
+Perguntou á senhora, que lhe dera a noticia, se a sua amiga do convento
+dos Remedios lhe faria a esmola de fazer chegar ás mãos de Simão uma
+carta. Promptificou-se a freira, depois que ouviu o parecer da prelada.
+Entendeu esta religiosa que o derradeiro colloquio entre dous moribundos
+não podia damnifical-os na vida temporal nem na vida eterna.
+
+Esta é a carta, que leu Simão, quinze dias depois do seu julgamento:
+
+«Simão, meu esposo. Sei tudo... Está comnosco a morte. Olha que te
+escrevo sem lagrimas. A minha agonia começou ha sete mezes. Deus é bom,
+que me poupou ao crime. Ouvi a noticia da tua proxima morte, e então
+soube por que estou morrendo hora a hora. Aqui está o nosso fim,
+Simão!.. Olha as nossas esperanças! Quando tu me dizias os teus sonhos
+de felicidade, e eu te dizia os meus!... Que mal fariam a Deus os nossos
+innocentes desejos!... Porque não merecemos nós o que tanta gente
+tem!... Assim acabaria tudo, Simão? Não posso crêl-o! A eternidade
+apresenta-se-me tenebrosa, porque a esperança era a luz, que me guiava
+de ti para a fé. Mas não póde findar assim o nosso destino. Vê se podes
+segurar o ultimo fio da tua vida a uma esperança qualquer. Ver-nos-hemos
+n'um outro mundo, Simão? Terei eu merecido a Deus contemplar-te? Eu
+rezo, supplíco; mas desfalleço na fé, quando me lembram as ultimas
+agonias do teu martyrio. As minhas são suaves, quasi que as não sinto.
+Não deve custar a morte a quem tiver o coração tranquillo. O peor é a
+saudade, saudade d'aquellas esperanças que tu achavas no meu coração
+adivinhando as tuas. Não importa, se nada ha além d'esta vida. Ao menos,
+morrer é esquecer. Se tu podesses viver agora, de que te serviria? Eu
+tambem estou condemnada, e sem remedio. Segue-me, Simão! não tenhas
+saudades da vida, não tenhas, ainda que a razão te diga que podias ser
+feliz se me não tivesses encontrado no caminho por onde te levei á
+morte... E que morte, meu Deus!... Aceita-a! não te arrependas. Se houve
+crime, a justiça de Deus te perdoará pelas angustias que tens de soffrer
+no carcere... e nos ultimos dias, e na presença da...»
+
+Thereza ia escrever uma palavra, quando a penna lhe cahiu da mão, e uma
+convulsão lhe vibrou todo o corpo por largo espaço. Não escreveu a
+palavra; mas a ideia de _forca_ parou-lhe a vida. A freira entrou na
+cella a pedir-lhe a carta, porque o correio ia partir. Thereza,
+indicando-lh'a, disse:
+
+--Leia, se quizer, e feche-a, por caridade, que eu não posso.
+
+Nos tres dias seguintes Thereza não sahiu do leito. A cada hora, as
+religiosas assistentes esperavam que ella fechasse os olhos.
+
+--Custa muito morrer!--dizia algumas vezes a enferma.
+
+Não faltavam piedosos discursos a divertirem-lhe o espírito do mundo.
+
+Thereza ouvia-os, e dizia com ancia:
+
+--Mas a esperança do ceu, sem elle!... que é o ceu, meu Deus?
+
+E o apostolico capellão do mosteiro não sabia dizer se os bens do ceu
+tinham commum com os do mundo as delicias que falsamente na terra se
+chamam assim.
+
+Aquellas subtilezas espirituaes, que vem com algumas especies de tisica,
+assim á maneira dos ultimos lampejos da vital flamma, tinha-as a
+enferma, quando acontecia fallarem-lhe as religiosas na bemaventurança.
+Ás vezes, se o capellão, convidado pela lucidez de Thereza, entrava os
+dominios da philosophia, tratando como problema a immortalidade da alma,
+a inculta senhora argumentava em breves termos, mas com razões tão
+claras a favor da união eterna das almas, já d'este mundo esposas, que o
+padre ficava em duvida se seria heretico contestar uma clausula não
+inscripta em algum dos quatro evangelhos.
+
+Maravilhava-se já a medicina da pertinacia d'aquella vida. Tinha a
+abbadessa escripto a seu primo Thadeu, apressurando-o a ir vêr o anjo ao
+despedir-se da terra. O velho, tocado de piedade, e por ventura de amor
+paternal, deliberou tirar do convento a filha na esperança de salval-a
+ainda. Uma forte razão accrescia áquella: era a mudança do condemnado
+para os carceres do Porto. Deu-se pressa, pois, o fidalgo, e chegou ao
+Porto a tempo que a religiosa, amiga da outra de Lamego, entregava á
+doente esta carta de Simão:
+
+«Não me fujas ainda, Thereza. Já não vejo a forca, nem a morte. Meu pae
+protege-me, e a salvação é possivel. Prende ao coração os ultimos fios
+da tua vida. Prolonga a tua agonia, em quanto eu te disser que espero.
+Ámanhã vou para as cadêas do Porto, e hei de ali esperar a absolvição ou
+commutação da sentença. A vida é tudo. Posso amar-te no degredo. Em toda
+a parte ha ceu, e flores, e Deus. Se viveres, um dia serás livre; a
+pedra do sepulcro é que nunca se levanta. Vive, Thereza, vive! Ha dias
+lembrava-me que as tuas lagrimas lavariam da minha face as nódoas do
+sangue do enforcado. Esse pesadêlo atroz passou. Agora, n'este inferno
+respira-se; o esparto do carrasco já me não aperta em sonhos a garganta.
+Já fito os olhos no ceu, e reconheço a providencia dos infelizes. Hontem
+vi as nossas estrellas, aquellas dos nossos segredos nas noites da
+ausencia. Volvi á vida, e tenho o coração cheio de esperanças. Não
+morras, filha da minha alma!»
+
+Ia alta a noite, quando Thereza, sentada no seu leito, leu esta carta.
+Chamou a criada para ajudal-a a vestir. Mandou abrir a janella do seu
+quarto, e encostou a face ás rexas de ferro. Esta janella olhava para o
+mar; e o mar era n'essa noite uma immensa flamma de prata; e a lua
+esplendidissima eclipsava o fulgor d'umas estrellas, que Thereza
+procurava no ceu.
+
+--São aquellas!--exclamou ella.
+
+--Aquellas quê, minha senhora?--disse Constança.
+
+--As minhas estrellas!... pallidas como eu... A vida! ai! a
+vida!--clamou ella, erguendo-se, e passando pela fronte as mãos
+cadavericas--Quero viver! Deixai-me viver, ó Senhor!
+
+--Ha de viver, menina! ha de viver, que Deus é piedoso!--disse a
+criada--mas não tome o ar da noite. Este nevoeiro do rio faz-lhe grande
+mal.
+
+--Deixa-me, deixa-me, que tudo isto é viver... Não vejo o ceu ha tanto
+tempo! Sinto-me resuscitar aqui, Constança! Porque não tenho eu
+respirado todas as noites este ar?! Eu poderei viver alguns annos?
+poderei, minha Constança? Pede tu, pede muito á minha Virgem Santissima!
+Vamos orar ambas!... Vamos, que o Simão não morre... O meu Simão vive e
+quer que eu viva. Está no Porto amanhã; e talvez já esteja...
+
+--Quem, minha senhora?!
+
+--Simão, o Simão vem para o Porto.
+
+A criada julgou que sua ama delirava; mas não a contrariou.
+
+--Teve carta d'elle a fidalga?--tornou ella, cuidando que assim lhe
+alimentava aquelle instante de febril contentamento.
+
+--Tive... queres ouvir?... eu leio...
+
+E leu a carta, com grande pasmo de Constança, que se convenceu.
+
+Agora vamos rezar, sim?... Tu não és inimiga d'elle, não? Olha,
+Constança, se eu casar com elle, tu vaes para a nossa companhia. Verás
+como és feliz. Queres ir, não queres?
+
+--Sim, minha senhora, vou; mas elle conseguirá livrar-se da morte?
+
+--Livra; tu verás que livra; o pae d'elle ha de livral-o... e a Virgem
+Santissima é que nos ha de unir. Mas se eu morro... se eu morro, meu
+Deus!
+
+E com as mãos convuísamente enlaçadas sobre o seio, Thereza archejava em
+pranto.
+
+--Se eu não tenho já forças!... todos dizem que eu morro, e o medico já
+nem me receita!... Então melhor me fôra ter acabado antes d'esta hora!
+Morrer com esperanças, ó mãe de Deus!...
+
+E ajoelhou ante o retabulo devoto, que trouxera do seu quarto de Vizeu,
+ao qual sua mãe e avó já tinham orado, e em cujo rosto compassivo os
+olhos das duas senhoras moribundas tinham fixado os seus ultimos raios
+de luz.
+
+
+
+
+IV.
+
+
+Annunciára-se Thadeu de Albuquerque na portaria de Monchique, ao dia
+seguinte dos anteriores successos.
+
+Sua prima, primeira senhora que lhe sahiu ao locutorio, vinha enxugando
+lagrimas de alegria.
+
+--Não cuide que eu choro de afflicta, meu primo--disse ella--O nosso
+anjo, se Deus quizer, pode salvar-se. Logo de manhã a vi a passear por
+seu pé nos dormitorios. Que differença de semblante ella tem hoje! Isto,
+meu primo, é milagre de duas santas, que temos inteiras na claustra, e
+com as quaes algumas perfeitas creaturas d'esta casa se apegaram. Se as
+melhoras continuarem assim, temos Thereza; o ceu consente que esteja
+entre nós aquelle anjo mais alguns annos...
+
+--Muito folgo com o que me diz, minha boa prima--atalhou o fidalgo--A
+minha resolução é leval-a já para Vizeu, e lá se restabelecerá com os
+ares patrios, que são muito mais sadios que os do Porto.
+
+--É ainda cêdo para tão longa e custosa jornada, meu primo. Não vá o
+senhor cuidar que ella está capaz de se metter ao caminho. Lembre-se que
+ainda hontem pensamos em encontral-a hoje morta. Deixe-a estar mais
+alguns mezes; e depois não digo que a não leve; mas por em quanto não
+consinto semelhante imprudencia.
+
+--Maior imprudencia--replicou o velho--é conserval-a no Porto, onde a
+estas horas deve estar o malvado matador de meu sobrinho. Talvez não
+saiba a prima?... Pois é verdade: o patife do corregedor sahiu a campo
+em defeza d'elle, e conseguiu que o tribunal da Relação lhe aceitasse a
+appellação da sentença, passado o prazo da lei; e, não contente com
+isto, fez que o filho fosse removido para as cadêas do Porto. Eu agora
+trabalho para que a sentença seja confirmada, e espero conseguil-o; mas,
+em quanto o assassino aqui estiver, não quero que minha filha esteja no
+Porto.
+
+--O primo é pae, e eu sou apenas uma parenta---disse a
+abbadessa--cumpra-se a sua vontade. Quer vêr a menina, não é assim?
+
+--Quero, se é possível.
+
+--Pois bem, em quanto eu vou chamal-a, queira entrar na primeira grade á
+sua mão direita, que Thereza lá vai ter.
+
+Avisada Thereza de que seu pae a esperava, instantaneamente a côr sadia,
+que alegrava as senhoras religiosas, se demudou na lividez costumada.
+Quiz a tia, vendo-a assim, que ella não sahisse do seu quarto, e
+encarregava-se de espaçar a visita do pae.
+
+--Tem de ser--disse Thereza--Eu vou, minha tia.
+
+O pae, ao vêl-a, estremeceu e enfiou. Esperava mudança, mas não tamanha.
+Pensou que a não conheceria, sem o prevenirem de que ia vêr sua filha.
+
+--Como eu te encontro, Thereza!--exclamou elle commovido--Por que me não
+disseste ha mais tempo o teu estado?
+
+Thereza sorriu-se, e disse:
+
+--Eu não estou tão mal como as minhas amigas imaginam.
+
+--Terás tu forças para ir comigo para Vizeu?
+
+--Não, meu pae; não tenho mesmo forças para lhe dizer em poucas palavras
+que não torno a Vizeu.
+
+--Porque não?! Se a tua saude depender d'isso!...
+
+--A minha saude depende do contrario. Aqui viverei ou morrerei.
+
+--Não é tanto assim, Thereza--replicou Thadeu com simulada brandura--Se
+eu entender que estes ares são nocivos á tua saude, has de ir, porque é
+obrigação minha conduzir e corrigir a tua má sina.
+
+--Está corrigida, meu pae. A morte emenda todos os erros da vida.
+
+--Bem sei: mas eu quero-te viva, e portanto recobra forças para o
+caminho. Logo que tiveres meio dia de jornada, verás como a saude volta
+como por milagre.
+
+--Não vou, meu pae.
+
+--Não vaes?!--exclamou irritado o velho, lançando ás grades as mãos
+trementes de ira.
+
+--Separam-nos esses ferros a que meu pae se encosta, e para sempre nos
+separam.
+
+--E as leis? cuidas tu que eu não tenho direitos legitimos para te
+obrigar a sahir do convento? Não sabes que tens apenas dezoito annos?
+
+--Sei que tenho dezoito annos; as leis não sei quaes são, nem me
+incommoda a minha ignorancia. Se póde ser que mão violenta venha
+arrancar-me d'aqui, convença-se meu pae de que essa mão ha de encontrar
+um cadaver. Depois o que quizerem de mim. Em quanto, porém, eu podér
+dizer que não vou, juro-lhe que não vou, meu pae.
+
+--Sei o que é!--bramiu o velho--Já sabes que o assassino está no Porto?
+
+--Sei, sim, senhor.
+
+--Ainda o dizes sem vergonha, nem horror de ti mesma! Ainda...
+
+--Meu pae--interrompeu Thereza--não posso continuar a ouvil-o, porque me
+sinto mal. Dê-me licença... e vingue-se como podér. A minha gloria
+n'este longo martyrio seria uma forca levantada a par da do assassino.
+
+Thereza sahiu da grade, deu alguns passos na direcção da sua cella, e
+encostou-se esvaída á parede. Correram a amparal-a sua tia e criada; mas
+ella, afastando-as suavemente de si, murmurou:
+
+--Não é preciso... Estou boa... Estes golpes dão vida, minha tia.
+
+E caminhou sósinha a passos vacillantes.
+
+Thadeu batia á porta do mosteiro com irrisorio enfurecimento pancadas,
+umas após outras, com grande mêdo da porteira e outras madres,
+espantadas do insolito desproposito.
+
+--Que é isso, primo?--disse a prelada com severidade.
+
+--Quero cá fóra Thereza.
+
+--Como fóra? Quem ha de lançal-a fóra?!
+
+--A senhora, que não póde aqui reter uma filha contra a vontade de seu
+pae.
+
+--Isso assim é; mas tenha prudencia, primo.
+
+--Não ha prudencia, nem meia prudencia. Quero minha filha cá fóra.
+
+--Pois ella não quer ir?
+
+--Não, senhora.
+
+--Então espere que por bons modos a convençamos a sahir, porque não
+havemos trazer-lh'a a rastos.
+
+--Eu vou buscal-a, sendo preciso--redarguiu em crescente
+furia.--Abram-me estas portas, que eu a trarei!
+
+--Estas portas não se abrem assim, meu primo, sem licença superior. A
+Regra do mosteiro não póde ser quebrantada para servir uma paixão
+rancorosa. Tranquillise-se, senhor! Vá descançar d'esse frenesi, e venha
+n'outra hora combinar comigo o que fôr digno de todos nós.
+
+--Tenho entendido!--exclamou o velho, gesticulando contra o ralo do
+locutorio--Conspiram todas contra mim! Ora descancem, que eu lhes darei
+uma boa lição. Fique a senhora abbadessa sabendo que eu não quero que
+minha filha receba mais cartas do matador, percebeu?
+
+--Eu creio que Thereza nunca recebeu cartas de matadores, nem supponho
+que as receba d'ora em diante.
+
+--Não sei se sabe, nem senão. Eu vigiarei o convento. A criada, que está
+com ella, ponham-na fóra, percebeu?
+
+--Porquê?--redarguiu a prelada com enfado.
+
+--Porque a encarreguei de me avisar de tudo, e ella nada me tem contado.
+
+--Se não tinha que lhe dizer, senhor!
+
+--Não me conte historias, prima! A criada quero vêl-a sahir do convento,
+e já!
+
+--Eu não lhe posso fazer a vontade, porque não faço injustiças. Se v.
+s.^a quizer que sua filha tenha outra criada, mande-lh'a; mas a que ella
+tem, logo que deixe de a servir, ha muitas senhoras n'esta casa que a
+desejam, e ella mesma deseja aqui ficar.
+
+--Tenho entendido!---bradou elle--querem-me matar! Pois não matam;
+primeiro ha de o diabo dar um estoiro!
+
+Thadeu de Albuquerque sahiu em corcovos do atrio do mosteiro. Era
+hedionda aquella raiva que lhe contrahia as faces incorreadas, revendo
+suor e sangue aos olhos acovados.
+
+Apresentou-se ao intendente da policia, pedindo providencias para que se
+lhe entregasse sua filha. O intendente respondeu que não solicitava
+competentemente taes providencias. Instou para que o carcereiro da cadêa
+não deixasse sahir alguma carta de um assassino, vindo da comarca de
+Vizeu, por nome Simão Botelho. O intendente disse que não podia, sem
+motivos concernentes a devassas, obstar a que o prêso escrevesse a quem
+quer que fosse.
+
+Reduplicada a furia, foi d'ali ao corregedor do Porto, com os mesmos
+requerimentos em tom arrogante. O corregedor, particular amigo de
+Domingos Botelho, despediu com enfado o importuno, dizendo-lhe que a
+velhice sem juizo era coisa tão de riso como de lastima. Esteve então a
+pique de perder-se a cabeça de Thadeu de Albuquerque. Andava e desandava
+as ruas do Porto, sem atinar com uma sahida digna da sua prosapia e
+vingança. No dia seguinte bateu á porta d'alguns desembargadores, e
+achava-os mais inclinados á clemencia, que á justiça, a respeito de
+Simão Botelho. Um d'elles, amigo de infancia de D. Rita Preciosa, e
+implorado por ella, fallou assim ao sanhudo fidalgo:
+
+--Em pouco está o ser homicida, senhor Albuquerque. Quantas mortes teria
+v. s.^a hoje feito, se alguns adversarios se oppozessem á sua cólera?
+Esse infeliz moço, contra quem o senhor solicita desvariadas violencias,
+conserva a honra na altura da sua immensa desgraça. Abandonou-o o pae,
+deixando-o condemnar á forca; e elle da sua extrema degradação nunca fez
+sahir um grito supplicante de misericordia. Um estranho lhe esmolou a
+subsistencia de oito mezes de carcere, e elle aceitou a esmola, que era
+honra para si e para quem lh'a dava. Hoje fui eu vêr esse desgraçado
+filho de uma senhora que conheci no paço, sentada ao lado dos reis.
+Achei-o vestido de baetão e panno pedrez. Perguntei-lhe se assim estava
+desprovido de fato. Respondeu-me que se vestira á proporção dos seus
+meios, e que devia á caridade d'um ferrador aquellas calças e jaqueta.
+Repliquei-lhe eu que escrevesse a seu pae para o vestir decentemente.
+Disse-me que não pedia nada a quem consentiu que os delictos de seu
+coração e da sua dignidade e do pundonor do seu nome fossem expiados
+n'um patibulo. Ha grandeza n'este homem de dezoito annos, senhor
+Albuquerque. Se v. s.^a tivesse consentido que sua filha amasse Simão
+Botelho Castello-Branco, teria poupado a vida ao homem sem honra que se
+lhe atravessou com insultos e offensas corporaes de tal affronta, que
+deshonrado ficaria Simão se as não repellisse como homem de alma e
+brios. Se v. s.^a se não tivesse opposto ás honestissimas e innocentes
+affeições de sua filha, a justiça não teria mandado arvorar uma forca,
+nem a vida de seu sobrinho teria sido immolada aos seus caprichos de mau
+pae. E se sua filha casasse com o filho do corregedor de Vizeu, pensa
+acaso v. s.^a que os seus brasões soffriam desdouro? Não sei de que
+seculo data a nobreza do senhor Thadeu de Albuquerque; mas do brasão de
+D. Rita Thereza Margarida Preciosa Caldeirão Castello-Branco posso
+dar-lhe informações sobre as paginas das mais veridicas e illustres
+genealogias do reino. Por parte de seu pae, Simão Botelho tem do melhor
+sangue de Traz-os-Montes, e não se temerá de entrar em competencias com
+o dos Albuquerques de Vizeu, que não é de certo o dos _Albuquerques
+terriveis_ de que resa Luiz de Camões...
+
+Offendido até ao amago pela derradeira ironia, Thadeu ergueu-se de
+impeto, tomou o chapéo e a enorme bengala de castão d'ouro, e fez a
+cortezia da despedida.
+
+--São amargas as verdades, não é assim?--disse-lhe, sorrindo, o
+desembargador Mourão Mosqueira.
+
+--V. ex.^a lá sabe o que diz, e eu cá sei no que hei de ficar--respondeu
+com tom ironico o fidalgo, alanceado na sua honra, e na dos seus quinze
+avós.
+
+O desembargador retorquiu:
+
+--Fique no que quizer; mas vá na certeza, se isso lhe serve d'alguma
+coisa, que Simão Botelho não vai á forca.
+
+--Veremos...--resmoneou o velho.
+
+
+
+
+V.
+
+
+São treze dias corridos do mez de Março de 1805.
+
+Está Simão n'um quarto de malta das cadêas da Relação. Um catre de
+táboas, um colchão de embarque, uma banca e cadeira de pinho, e um
+pequeno pacote de roupa, collocado no logar do travesseiro, são a sua
+mobilia. Sobre a mesa tem um caixote de pau preto, que contém as cartas
+de Thereza, ramilhetes sêccos, os seus manuscriptos do carcere de Vizeu,
+e um avental de Marianna, o ultimo com que ella enxugára lagrimas, e
+arrancára de si no primeiro instante de demencia.
+
+Simão relê as cartas de Thereza, abre os envoltorios de papel que
+encerram as flôres resequidas, contempla o avental de linho, procurando
+os visiveis vestigios das lagrimas. Depois encosta a face e o peito aos
+ferros da sua janella, e avista os horisontes boleados pelas serras de
+Vallongo e Gralheira, e cortados pelas ribas pittorescas de Gaya, do
+Candal, de Oliveira, e do mosteiro da serra do Pilar. É um dia lindo.
+Reflectem-se do azul do ceu os mil matizes da primavera. Tem aromas o
+ar, e a viração, fugitiva dos jardins, derrama no ether as urnas que
+roubou aos canteiros. Aquella indefinida alegria, que parece reluzir nas
+legiões de espiritos, que se geram ao sol de Março, rejubila a natureza,
+que toda pompas de luz e flôres se está namorando do calor que a vai
+fecundando.
+
+Dia de amor e de esperanças era aquelle que o Senhor mandava á choça
+encravada na garganta da serra, ao palacio esplendoroso que reverberava
+ao sol os seus espiraculos, ao opulento que passeava as suas molles
+equipagens, bafejado pelo respiro acre das çarças, e ao mendigo que
+desentorpecia os membros encostado ás columnas dos templos.
+
+E Simão Botelho, fugindo a claridade da luz, e o voejar das aves,
+meditando, chorava e escrevia assim as suas meditações:
+
+«O pão do trabalho de cada dia, e o teu seio para repousar uma hora a
+face, pura de manchas. Não pedi mais ao ceu.
+
+Achei-me homem aos dezeseis annos. Vi a virtude á luz do teu amor.
+Cuidei que era santa a paixão que absorvia todas as outras, ou as
+depurava com o seu fogo sagrado.
+
+Nunca os meus pensamentos foram denegridos por um desejo, que eu não
+possa confessar alto diante de todo o mundo. Diz tu, Thereza, se os meus
+labios profanaram a pureza de teus ouvidos. Pergunta a Deus quando quiz
+eu fazer do meu amor o teu opprobrio.
+
+Nunca, Thereza! Nunca, ó mundo que me condemnas!
+
+Se teu pae quizesse que eu me arrastasse a seus pés para te merecer,
+beijar-lh'os-ia. Se tu me mandasses morrer para te não privar de ser
+feliz com outro homem, morreria, Thereza!
+
+Mas tu eras sósinha e infeliz, e eu cuidei que o teu algoz não devia
+sobreviver-te. Eis-me aqui homicida, e sem remorsos. A insania do crime
+aturde a consciencia; não a minha, que se não temia das escadas da
+forca, nos dias em que o meu despertar era sempre o estrebuxamento da
+suffocação.
+
+Eu esperava a cada hora o chamamento para o oratorio, e dizia comigo:
+Fallarei a Jesus Christo.
+
+Sem pavor, premeditava nas setenta horas d'essa agonia moral, e antevia
+consolações que o crime não ousa esperar sem injuria da justiça de Deus.
+
+Mas chorava por ti, Thereza! O travor do meu calix tinha sobre a sua
+amargura as mil amarguras das tuas lagrimas.
+
+Gemias aos meus ouvidos, martyr! Vêr-me-ias sacudido nas convulsões da
+morte, em teus delirios. A mesma morte tem terror da suprema desgraça.
+Tarde morrerias. A minha imagem, em vez de te acenar com a sua palma de
+martyrio, te seria um fantasma levantado das táboas d'um cadafalso.
+
+Que morte a tua, ó minha santa amiga!»
+
+E proseguiu até ao momento em que João da Cruz, com ordem do intendente
+geral da policia, entrou no quarto.
+
+--Aqui!--exclamou Simão, abraçando-o--E Marianna? deixou-a sósinha?!
+morta, talvez?!
+
+--Nem sósinha, nem morta, fidalgo! O diabo nem sempre está atraz da
+porta... Marianna voltou ao seu juizo.
+
+--Falla a verdade, senhor João?
+
+--Podéra mentir!... Aquillo foi coisa de bruxaria em quanto a mim...
+Sangrias, sedenhos, agua fria na cabeça, e exorcismos do missionario,
+não lhe digo nada, a rapariga está escorreita, e assim que tiver um
+todonada de forças bota-se ao caminho.
+
+--Bemdito seja Deus!--exclamou Simão.
+
+--_Amen_--accrescentou o ferrador--Então que arranjo é este de casa? Que
+breca de tarimba é esta?! Quer-se aqui uma cama de gente, e alguma coisa
+em que um christão se possa sentar.
+
+--Isto assim está excellente.
+
+--Bem vejo... E de barriga? como vamos nós de barriga?
+
+--Ainda tenho dinheiro, meu amigo.
+
+--Ha de ter muito, não tem duvida: mas eu tenho mais, e v. s.^a tem
+ordem franca. Veja lá esse papel.
+
+Simão leu uma carta de D. Rita Preciosa, escripta ao ferrador, em que o
+authorisava a soccorrer seu filho com as necessarias despezas,
+promptificando-se a pagar todas as ordens que lhe fossem apresentadas
+com a sua assignatura.
+
+--É justo--disse Simão, restituindo a carta--porque eu devo ter uma
+legitima.
+
+--Então já vê que não tem mais que pedir por bôca. Eu vou comprar-lhe
+arranjos...
+
+--Abra-me o seu nobre coração para outro serviço mais valioso--atalhou o
+prêso.
+
+--Diga lá, fidalgo.
+
+Simão pediu-lhe a entrega de uma carta em Monchique a Thereza de
+Albuquerque.
+
+--O berzabum parece-me que as arma!--disse o ferrador--Venha de lá a
+carta. O pae d'ella está cá, já sabia?
+
+--Não.
+
+--Pois está; e, se o diabo o traz á minha beira, não sei se lhe darei
+com a cabeça n'uma esquina. Já me lembrou de o esperar no caminho, e
+pendural-o pelo gasnete no galho d'um sobreiro... A carta tem resposta?
+
+--Se lh'a derem, meu bom amigo.
+
+Chegou o ferrador a Monehique, a tempo que um official de justiça, dois
+medicos, e Thadeu de Albuquerque entravam no páteo do convento.
+
+Fallou o aguazil á prelada, exigindo em nome do juiz de fóra, que dois
+medicos entrassem no convento a examinar a doente D. Thereza Clementina
+de Albuquerque, a requerimento de seu pae.
+
+Perguntou a prelada aos medicos se elles tinham a necessaria licença
+ecclesiastica para entrarem em Monchique. Á resposta negativa redarguiu
+a abbadessa que as portas do convento não se abriam. Disseram os medicos
+de Thadeu de Albuquerque que era aquelle o estylo dos mosteiros, e não
+houve que redarguir á rigorosa prelada.
+
+Sahiram, e o ferrador só então reflectiu no modo de entregar a carta, A
+primeira ideia pareceu-lhe a melhor. Chegou ao ralo, e disse:
+
+--Ó senhora freira!
+
+--Que quer vocemecê?--disse a prelada.
+
+--A senhora faz favor de dizer á senhora D. Therezinha de Vizeu, que
+está aqui o pae d'aquella rapariga da aldeia, que ella sabe?
+
+--E quem é vocemecê?
+
+--Sou o pae da tal rapariga que ella sabe.
+
+--Já sei!--exclamou de dentro a voz de Thereza, correndo ao locutorio.
+
+A prelada retirou-se a um lado, e disse:
+
+--Vê lá o que fazes, minha filha...
+
+--A sua filha escreveu-me?--disse Thereza a João da Cruz.
+
+--Sim, senhora, aqui está a carta.
+
+E depositou na roda a carta, em que a abbadessa reparou, e disse
+sorrindo:
+
+--Muito engenhoso é o amor, Therezinha... Permitta Deus que as noticias
+da rapariga da aldeia te alegrem o coração; mas olha, filhinha, não
+cuides que a tua velha tia é menos esperta que o _pae da rapariga da
+aldeia_.
+
+Thereza respondeu com beijos ás jovialidades carinhosas da santa
+senhora, e sumiu-se a lêr a carta, e a responder-lhe. Entregando a
+resposta, disse ella ao ferrador:
+
+--Não vê ahi sentada n'aquella escadinha uma pobre?
+
+--Vejo, sim, senhora, e conheço-a. Como diabo veio aqui parar esta
+mulher? Cuidei que depois da esfrega, que lhe deu o hortelão, a
+pobresita não tinha pernas que a cá trouxessem! A mulher pelos modos tem
+fibras d'aquella casta!
+
+--Falle baixo--tornou Thereza--Pois olhe... quando trouxer as cartas,
+entregue-lh'as a ella, sim? Eu já a mandei á cadêa; mas não a deixaram
+lá entrar.
+
+--Bem está, e o arranjo não é mau assim. Fique com Deus, menina.
+
+Esta boa nova alegrou Simão. A Providencia divina apiedára-se d'elle
+n'aquelle dia. O restaurar-se o juizo de Marianna, e a possibilidade de
+corresponder-se com Thereza, eram as maximas alegrias, que podiam baixar
+do ceu ao seu cerrado infortunio.
+
+Exaltára-se Simão em graças a Deus, na presença de João da Cruz, que
+arrumava no quarto uns moveis que comprára em segunda mão, quando este,
+suspendendo o trabalho, exclamou:
+
+--Então vou-lhe dizer outra coisa, que não tinha tenção de lhe dizer,
+para o apanhar de _súpeto_.
+
+--Que é?
+
+--A minha Marianna veio comigo, e ficou na estalagem, porque não se
+podia bolir com dôres; mas ámanhã ella cá está para lhe fazer a cozinha
+e varrer a casa.
+
+Simão, reconcentrando o indefinivel sentimento que esta noticia lhe
+causára, disse com melancolica pausa:
+
+--É pois certo que a minha má estrella arrasta a sua desgraçada filha a
+todos os meus abysmos! Pobre anjo de caridade, que digna tu és do ceu!
+
+--Que está o senhor ahi a prégar?--interrompeu o ferrador--Parece que
+ficou a modo de tristonho com a noticia!...
+
+--Senhor João--tornou solemnemente o prêso--não deixe aqui a sua querida
+filha, Deixe-m'a vêr, traga-a comsigo uma vez a esta casa; mas não a
+deixe cá, porque eu não posso tolher o destino de Marianna. Como ha de
+ella viver no Porto, sósinha, sem conhecer ninguem, bella como ella é, e
+perseguida como tem de ser!?...
+
+--Perseguida! _Tó carocha_! Não que ella é mesmo de se lhe dar de que a
+persigam!... Que vão para lá, mas que deixem as ventas em casa. Meu
+amigo, as mulheres são como as pêras verdes; um homem apalpa-as, e, se o
+dedo acha duro, deixa-as, e não as come. É como é. A rapariga sáe á mãe.
+Minha mulher, que Deus haja, quando eu lhe andava rentando, dei-lhe um
+dia um beliscão n'uma perna. E vai ella põe-se direita comigo, e deu-me
+dois cascudos nas trombas, que ainda agora os sinto. A Marianna!...
+aquillo é da pelle de satanaz! Pergunte o senhor, se algum dia fallar
+com aquelle fidalguinho Mendes de Vizeu, a troçada que elle levou com as
+rédeas da egua, só por lhe bolir na chinela, quando ella estava em cima
+da burra!
+
+Simão sorriu ao rasgado panegyrico da bravura da moça, e orgulhou-se
+secretamente dos brandos affagos com que o ella desvelára em oito mezes
+de quasi continuada convivencia.
+
+--E vocemecê ha de privar-se da companhia de sua filha?--insistiu o
+prêso.
+
+--Eu lá me arranjarei como podér. Tenho um cunhada velha, e levo-a para
+mim para me arranjar o caldo. E v. s.^a pouco tempo aqui estará.... O
+senhor corregedor lá anda a tratar de o pôr na rua, e que o senhor sáe
+cá para mim são favas contadas. E assim com'assim, vou dizer-lhe tudo
+d'uma feita: a rapariga, se eu a não deixasse vir para o Porto, dava um
+estoiro como uma castanha. Olhe que eu não sou tolo, fidalgo. Que ella
+tem paixão d'alma por v. s.^a isso é tão certo como eu ser; João. É a
+sua sina; que hei de eu fazer-lhe? Deixál-a, que pelo senhor Simão não
+lhe ha de vir mal, ou então já não ha honra n'este mundo.
+
+Simão lançou-se aos braços do ferrador, exclamando:
+
+--Podésse eu ser o marido de sua filha, meu nobre amigo!
+
+--Qual marido!...--disse o ferrador com os olhos vidrados das primeiras
+lagrimas que Simão lhe vira--Eu nunca me lembrei d'isso, nem ella!... Eu
+sei que sou um ferrador, e ella sabe que póde ser sua criada, e mais
+nada, senhor Simão; mas, sabe que mais, eu não desejo que os meus amigos
+sejam desgraçados como havia de ser o senhor se casasse com a pobre
+rapariga! Não fallemos n'isto, que eu por milagre choro; mas quando pego
+a chorar sou um chafariz... Vamos ao arranjo: a mesa deve aqui ficar; a
+commoda ali; duas cadeiras d'este lado, e duas d'aquelle. A barra acolá.
+O bahu debaixo da cama. A bacia e a bilha da agua sobre esta coisa, que
+não sei como se chama. Os lençoes e o mais bragal tem-os lá a rapariga.
+Ámanhã é que o quarto ha de ficar que nem uma capella. Olhe que a
+Marianna já me disse que comprasse duas aquellas... como se chamam
+aquellas invasilhas de pôr ramos?
+
+--Jarras.
+
+--É como diz, duas jarras para flôres; mas eu não sei onde se vende
+isso. Agora vou buscar o jantar, que a moça ha de cuidar que me não
+deixam sahir da cadêa. Ainda lhe não disse que não me deixaram cá entrar
+hontem á tarde; mas eu, como trouxe uma cartinha de sua mãe para um
+senhor desembargador, fui onde a elle, e hoje de manhã já lá tinha na
+estalagem a ordem do senhor intendente geral da policia. Até logo.
+
+
+
+
+VI.
+
+
+Um incidente agora me occorre, não muito concertado com o seguimento da
+historia, mas a proposito vindo para demonstrar uma face da indole do
+ex-corregedor de Vizeu, já então exonerado do cargo.
+
+Sabido é que Manoel Botelho, o primogenito, voltando a frequentar
+mathematicas em Coimbra, fugira d'ali para Hespanha com uma dama desleal
+a seu marido, estudante açoriano que cursava medicina.
+
+Um anno demorára na Corunha Manoel Botelho com a fugitiva,
+alimentando-se dos recursos que sua mãe, extremosa por elle, lhe
+remettia vendendo a pouco e pouco as suas joias, e privando as filhas
+dos adornos proprios dos annos e da qualidade.
+
+Seccaram-se estas fontes, e não restavam outras. D. Rita disse a final
+ao filho que deixára de soccorrer Simão por não ter meios; e agora das
+escassas economias que fazia, nada podia enviar-lhe, porque estava em
+obrigação de pagar os alimentos de Simão á pessoa que por compaixão
+lh'os déra em Vizeu, e lh'os estava dando no Porto. Ajuntava ella, para
+consolação do filho, que viesse elle para Villa Real, e trouxesse
+comsigo a infeliz senhora; que fosse elle para casa, e a deixasse a ella
+n'uma estalagem até se lhe arranjar habitação; que o ensejo era
+opportuno, por estar na quinta de Montezellos o pae, quasi divorciado da
+familia.
+
+Voltou pelo Minho Manoel Botelho, e chegou com a dama ao Porto quinze
+dias depois que Simão entrára no carcere.
+
+Já n'outro ponto deixamos dito que nunca os dois irmãos se deram nem
+estimaram; mas o infortunio de Simão remia as culpas do genio fatal que
+o orphanára de pae e mãe, e só da irmã Rita lhe deixára uma lembrança
+saudosa.
+
+Foi Manoel á cadêa, e abrindo os braços ao irmão, teve um glacial
+acolhimento.
+
+Perguntou-lhe Manoel a historia do seu desastre.
+
+--Consta do processo--respondeu Simão.
+
+--E tem esperanças de liberdade?--replicou Manoel.
+
+--Não penso n'isso.
+
+--Eu pouco posso offerecer-lhe, porque vou para casa forçado pela falta
+de recursos; mas, se precisa de roupa, repartirei comsigo da minha.
+
+--Não preciso nada. Esmolas só as recebo d'aquella mulher.
+
+Já Manoel tinha reparado em Marianna, e da belleza da moça inferira
+conclusões para formar falsos juizos.
+
+--E quem é esta menina?--tornou Manoel.
+
+--É um anjo... Não lhe sei dizer mais nada.
+
+Marianna sorriu-se, e disse:
+
+--Sou uma criada do senhor Simão, e de v. s.^a
+
+--É cá do Porto?
+
+--Não, meu senhor, sou dos arrabaldes de Vizeu.
+
+--E tem feito sempre companhia a meu mano?
+
+Simão atalhou assim á resposta balbuciante de Marianna:
+
+--A sua curiosidade incommoda-me, mano Manoel.
+
+--Cuidei que não era offensiva--replicou o outro, tomando o
+chapéo.--Quer alguma coisa para a mãe?
+
+--Nada.
+
+Estando Manoel Botelho, na tarde d'esse dia, fechando as malas para
+seguir jornada para Villa Real, foi visitado pelo desembargador Mourão
+Mosqueira, e pelo corregedor do crime.
+
+--Devemos á espionagem da policia--disse o corregedor--a novidade de
+estar n'esta estalagem; um filho do meu antigo amigo, condiscipulo e
+collega Domingos Correia Botelho. Aqui vimos dar-lhe um abraço, e
+offerecer o nosso prestimo. Esta senhora é sua esposa?--continuou o
+magistrado, reparando na açoriana.
+
+--Não é minha esposa...--balbuciou Manoel--é... minha irmã.
+
+--Sua irmã!...--disse Mosqueira--qual das tres? Ha cinco annos que as vi
+em Vizeu, e grande mudança fez esta senhora, que não me recordo das suas
+feições absolutamente coisa nenhuma! É a senhora D. Anna Amalia?
+
+--Justamente--disse Manoel.
+
+--Bella, lhe affirmo eu que está, minha senhora; mas fez-se um rosto
+muito outro do que era!...
+
+--Vieram vêr o infeliz Simão?--atalhou o corregedor.
+
+--Sim, senhor... viemos vêr meu pobre irmão.
+
+--Foi um raio que cahiu na familia aquelle rapaz!...-- ajuntou
+Mosqueira--mas póde estar na certeza que a sentença não se executa; diga
+a sua mãe que m'o ouviu da minha bôca. O meu tribunal está preparado
+para lhe minorar a pena em dez annos de degredo para a India, e seu pae,
+segundo me disse na passagem para Villa Real, já preparou as coisas na
+supplicação e no desembargo do paço, não obstante o morto lá ter
+parentes poderosos nas duas instancias. Quizeramos absolvêl-o, e
+restituil-o á sua família; mas tanto é impossível. Simão matou, e
+confessa soberbamente que matou. Não consente mesmo que se diga que em
+defeza o fez. É um doido desgraçado com sentimentos nobilissimos! Chovem
+cartas de empenho a favor do Albuquerque. Pedem a cabeça do pobre rapaz
+com uma sem-ceremonia que indigna o animo.
+
+--E essa menina que foi a causa da desgraça?--perguntou Manoel.
+
+--Isso é uma heroina!--respondeu o corregedor do crime--Davam-na já por
+morta quando Simão chegou aqui. Desde que soube das probabilidades da
+commutação da pena, deu um pontapé na morte, e está salva, segundo me
+disse o medico.
+
+--Conhece-a muito bem, minha senhora?--disse o desembargador á dama,
+supposta irmã de Manoel.
+
+--Muito bem--respondeu ella, relanceando os olhos ao amante.
+
+--Dizem que é formosissima!
+
+--De certo--acudiu Manoel--é formosissima.
+
+--Muito bem--disse o corregedor, erguendo-se.--Leve este abraço ao pae,
+e diga-lhe que o condiscipulo cá está leal e dedicado como sempre. Eu
+tenho de lhe escrever brevemente.
+
+--E outro abraço a sua virtuosa mãe--acerescentou o desembargador.
+
+--Vou desconfiado!--disse o Mosqueira ao collega--Manoel Botelho tinha,
+ha coisa d'um anno, fugido para Hespanha com uma senhora casada. Aquella
+mulher, que vimos, não é irmã d'elle.
+
+--Pois se nos mentiu é mariola, por nos obrigar a cortejar uma
+concubina!... Eu me informarei...--disse o corregedor, offendido no seu
+austero pundonor.
+
+E no proximo correio, escrevendo a Domingos Botelho, dizia no periodo
+final: «Tive o gosto de conhecer teu filho Manoel, e uma de tuas filhas;
+por elle te mandei um abraço, e por ella te mandaria outro, se fosse
+modo ensinarem velhos a meninas bonitas como se dão os abraços nos
+paes.»
+
+Estava já Manoel em casa de seus avós, e cuidava em trastejar uma
+modesta casa para a açoriana, auxiliado por sua bondosa e indulgente
+mãe. O pae fôra informado da vinda, e dissera que não queria vêr o
+filho, avisando-o de que era considerado desertor de cavallaria seis,
+desde que abandonára os estudos, onde estava com licença.
+
+Recebeu depois a carta do corregedor do crime, e mandou immediata e
+secretamente devassar se em Villa Real estava a senhora que indicava a
+carta. A espionagem deu-a como certa na estalagem, em quanto Manoel
+Botelho cuidava nos adornos de uma casa. Escreveu o magistrado ao juiz
+de fóra, e este mandou chamar á sua presença a mulher suspeita, e ouviu
+d'ella a sua historia sincera e lagrimosamente contada. Condoeu-se o
+juiz, e revelou ao collega as suas averiguações. Domingos Botelho foi a
+Villa Real, e hospedou-se em casa do juiz de fóra, onde a senhora foi
+novamente chamada, sendo que ao mesmo tempo o general da provinda
+lavrava ordem de prisão para o cadete desertor de cavallaria de
+Bragança.
+
+A açoriana, em vez do juiz, encontrou um feio homem, de carrancuda
+sombra, e apparencias de intenções sinistras.
+
+--Eu sou pae de Manoel--disse Domingos Botelho--Sei a historia da
+senhora. O infame é elle. V. s.^a é a victima. O castigo da senhora
+principiou desde o momento em que a sua consciencia lhe disse que
+praticou uma acção indigna. Se a consciencia lh'o não disse ainda, ella
+lh'o dirá. D'onde é?
+
+--Da ilha do Fayal--respondeu tremula a dama.
+
+--Tem familia?
+
+--Tenho mãe e irmãs.
+
+--Sua mãe aceital-a-ia se a senhora lhe pedisse abrigo?
+
+--Creio que sim.
+
+--Sabe que Manoel é um desertor, que a estas horas está prêso ou
+fugitivo?
+
+--Não sabia...
+
+--Quer isto dizer que a senhora não tem protecção de alguem.
+
+A pobre mulher soluçava, abafada por ancias, e debulhada em lagrimas.
+
+--Porque não vai para sua mãe?
+
+--Não tenho recursos alguns--respondeu ella.
+
+--Quer partir hoje mesmo? Á porta da estalagem encontrará uma liteira, e
+uma criada para acompanhal-a até ao Porto. Lá entregará uma carta. A
+pessoa a quem escrevo lhe cuidará da passagem para Lisboa. Em Lisboa
+outra pessoa a levará a bordo da primeira embarcação que sahir para os
+Açores. Estamos combinados? Aceita?
+
+--E beijo as mãos de v. s.^a... Uma desgraçada como eu não podia esperar
+tanta caridade.
+
+Poucas horas depois a esposa do medico....
+
+--Que tinha morrido de paixão e vergonha, talvez!--exclama uma leitora
+sensivel.
+
+Não, minha senhora; o estudante continuava n'esse anno a frequentar a
+Universidade; e como tinha já vasta instrucção em pathologia, poupou-se
+á morte da vergonha, que é uma morte inventada pelo visconde de A.
+Garrett no _Fr. Luiz de Souza_, e á morte de paixão, que é outra morte
+inventada pelos namorados nas cartas despeitosas, e que não pega nos
+maridos a quem o seculo dotou d'uns longes de philosophia, philosophia
+grega e romana, porque bem sabem que os philosophos da antiguidade davam
+por mimo as mulheres aos seus amigos, quando os seus amigos por favor
+lh'as não tiravam. E esta philosophia, hoje então...[6] Pois o medico
+não morreu, nem sequer desmedrou, ou levou _r_ significativo de
+preoccupação do animo insensivel ás amenidades da therapeutica.
+
+A esposa, inquestionavelmente muito mais alquebrada e valetudinaria que
+seu esposo, lavada em pranto, morta de saudades, sem futuro, sem
+esperanças, sem voz humana que a consolasse, entrou na liteira, e chegou
+ao Porto, onde procurou o corregedor do crime para entregar-lhe uma
+carta do doutor Domingos Botelho. Um periodo d'esta carta dizia assim:
+
+«Déste-me noticia d'uma filha, que eu não conhecia, nem reconheço. A mãe
+d'esta senhora está no Fayal, para onde ella vai. Cuida tu, ou manda
+cuidar no seu transporte para Lisboa, e encarrega ali alguem de correr
+com a passagem d'ella para os Açores no primeiro navio. A mim me darás
+conta das despezas. Meu filho Manoel teve ao menos a virtude de não
+matar ninguem para se constituir amante. Do modo como correm os tempos,
+muito virtuoso é um rapaz que não mata o marido da mulher que ama. Vê se
+consegues do general, que está ahi, perdão para o rapaz, que é desertor
+de cavallaria seis, e me consta que está escondido em casa de um
+parente. Em quanto a Simão, creio que não é possivel salval-o do degredo
+temporario... É uma lança em Africa livral-o da forca. Em Lisboa
+movem-se grandes potencias contra o desgraçado, e eu estou malvisto do
+intendente geral por abandonar o logar... etc.»
+
+Partiu para Lisboa a açoriana, e d'ali para a sua terra, e para o abrigo
+de sua mãe, que a julgára morta, e lhe deu annos de vida, se não ditosa,
+socegada e desilludida de chimeras.
+
+Manoel Botelho, obtido o perdão pela preponderancia do corregedor do
+crime, mudou de regimento para Lisboa, e ahi permaneceu até que,
+fallecido seu pae, pediu a baixa, e voltou á provincia.
+
+
+
+
+VII.
+
+
+João da Cruz, no dia 4 de Agosto de 1805, sentou-se á mesa com triste
+aspecto e nenhum appetite do almoço.
+
+--Não comes, João?--disse-lhe a cunhada.
+
+--Não passa d'aqui o bocado--respondeu elle, pondo o dedo nos
+gorgomilos.
+
+--Que tens tu?
+
+--Tenho saudades da rapariga... Dava agora tudo quanto tenho para a vêr
+aqui ao pé de mim com aquelles olhos que pareciam ir direitos aos
+desgostos que um homem tem no seu interior. Mal hajam as desgraças da
+minha vida que m'a fizeram perder, Deus sabe se para pouco, se para
+sempre!... Se eu não tivesse dado o tiro no almocreve, não vinha a ficar
+em obrigação ao corregedor, e não se me dava que o filho vivesse ou
+morresse...
+
+--Mas se tens saudades--atalhou a senhora Josefa--manda buscar a
+rapariga, tem-l'a cá algum tempo, e torna depois para onde ao senhor
+Simão.
+
+--Isso não é d'homem que põe navalha na cara, Josefa. O rapaz, se ella
+lhe falta, morre de pasmo dentro d'aquelles ferros. Isto é venêta que me
+deu hoje... Sabes que mais? leve a breca o dinheiro: ámanhã vou ao
+Porto.
+
+--Pois isso é o que tu deves fazer.
+
+--Está dito! Quem cá ficar que o ganhe. Vão-se os anneis e fiquem os
+dedos. Por ora tem-se resistido a tudo com o meu braço. A rapariga, se
+ficar com menos, lá se avenha. Assim o quer, assim o tenha.
+
+Reanimou-se a physionomia do mestre ferrador, e como que os impeços da
+garganta se iam removendo á medida que planisava a sua ida ao Porto.
+
+Acabára de almoçar, e ficára scismatico, encostado á mesa do escano.
+
+--Ainda estás malucando?!--tornou Josefa.
+
+--Parece coisa do demonio, mulher!... A rapariga estará doente ou morta?
+
+--Anjo bento da Santíssima Trindade!--exclamou a cunhada, erguendo as
+mãos--que dizes tu, João!
+
+--Estou cá por dentro negro como aquella sartã!
+
+--Isso é flato, homem! vai tomar ar, trabalha um poucaxinho para
+espaireceres.
+
+João da Cruz passou ao coberto onde tinha o armario da ferragem e a
+bigorna, e começou a atarracar cravos.
+
+Alguns conhecidos tinham passado, palavreando com elle consoante
+costumavam, e achavam-no taciturno e nada para graças.
+
+--Que tens tu, João?--dizia um.
+
+--Não tenho nada. Vai á tua vida, e deixa-me, que não estou para lérias.
+
+Outro parava e dizia:
+
+--Guarde-o Deus, senhor João.
+
+--E a vocemecê tambem. Que novidade ha?
+
+--Não sei nada.
+
+--Pois então vá com nossa Senhora, que eu estou cá de candeias ás
+avessas.
+
+O ferrador largava o martello; sentava-se aos poucos no tronco, e coçava
+a cabeça com frenesi. Depois recomeçava novamente, e tão alheado o
+fazia, que estragava o cravo, ou martellava os dedos.
+
+--Isto é coisa do diabo!--exclamou elle; e foi á cosinha procurar a
+pichorra, que emborcou como qualquer elegante de paixões ethereas se
+aturde com absyntho--Hei de afogar-te, coisa má, que me estás apertando
+a alma!--continuou o ferrador, sacudindo os braços, e batendo o pé no
+soalho.
+
+Voltou ao coberto a tempo que um viandante ia passando sobre a sua
+possante mula. Envolvia-se o cavalleiro n'um amplo capote á moda
+hespanhola, sem embargo da calma que fazia. Viam-se-lhe as botas de
+coiro cru com esporas amarellas afiveladas, e o chapéo derrubado sobre
+os olhos.
+
+--Ora viva!--disse o passageiro.
+
+--Viva!--respondeu mestre João, relanceando os olhos pelas quatro patas
+da mula, a vêr se tinha obra em que entreter o espirito--A mula é de
+ropia e chibança!
+
+--Não é má. Vocemecê é que é o senhor João da Cruz?
+
+--Para o servir.
+
+--Venho aqui pagar-lhe uma divida.
+
+--A mim? o senhor não me deve nada que eu saiba.
+
+--Não sou eu que devo; é meu pae, e elle foi que me encarregou de lhe
+pagar.
+
+--E quem é seu pae?
+
+--Meu pae era um recoveiro de Garção, chamado Bento Machado.
+
+Proferida metade d'estas palavras, o cavalleiro afastou rapidamente as
+bandas do capote, e desfechou um bacamarte no peito do ferrador. O
+ferido recuou, exclamando:
+
+--Mataram-me!... Marianna, não te vejo mais!...
+
+O assassino teria dado cincoenta passos a todo o galope da espantada
+mula, quando João da Cruz, debruçado sobre o banco, arrancava o ultimo
+suspiro com a cara posta no chão, d'onde apontára ao peito do almocreve
+dez annos antes.
+
+Os caminheiros, que perpassaram pelo cavalleiro inadvertidamente,
+ajuntaram-se em redor do cadaver. Josefa acudiu ao estrondo do tiro e já
+não ouviu as ultimas palavras de seu cunhado. Quiz transportal-o para
+dentro, e correr a chamar cirurgião; mas um cirurgião estava no
+ajuntamento, e declarou morto o homem.
+
+--Quem o matou?--exclamavam trinta vozes a um tempo.
+
+N'esse mesmo dia vieram justiças de Vizeu lavrar auto e devassar: nenhum
+indicio lhes deu o fio do mysterioso assassinio. O escrivão dos orphãos
+inventariou os objectos encontrados, e fechou as portas quando os sinos
+corriam o derradeiro dobre ao cahir da lousa sobre João da Cruz.
+
+Deus terá descontado, nos instinctos sanguinarios do teu temperamento, a
+nobreza de tua alma! Pensando nas incoherencias da tua indole, homem que
+me explicas a providencia, assombra-me as caprichosas antítheses que a
+mão de Deus infunde em alentos na creatura. Dorme o teu somno infinito,
+se nenhum outro tribunal te cita a responder pelas vidas que tiraste, e
+pelo uso que fizeste da tua. Mas se ha estancia de castigo e de
+misericordia, as lagrimas de tua filha terão sido, na presença do Juiz
+Supremo, os teus merecimentos.
+
+Fez Josefa escrever a Marianna, noticiando-lhe a morte de seu pae, mas
+sobrescriptou a carta a Simão Botelho, para maior segurança. Estava
+Marianna no quarto do prêso, quando a carta lhe foi entregue.
+
+--Não conheço a letra, Marianna... E a obreia é preta...
+
+Marianna examinou o sobrescripto, e empallideceu.
+
+--Eu conheço a letra--disse ella--é do Joaquim da loja.
+
+--Abra depressa, senhor Simão... Meu pae morreria?
+
+--Que lembrança! Pois não teve ha tres dias carta d'elle? E não lhe
+disse que estava bom?
+
+--Isso que tem?... Veja quem assigna.
+
+Simão buscou a assignatura, e disse:
+
+--_Josefa Maria_... É sua tia que lhe escreve.
+
+--Leia... leia... que diz ella?
+
+O prêso lia mentalmente, e Marianna instou:
+
+--Leia alto, por quem é, senhor Simão, que estou a tremer... e v. s.^a
+descora... que é, meu Deus?
+
+Simão deixou cahir a carta, e sentou-se prostrado de animo. Marianna
+correu a levantar a carta, e elle, tomando-lhe a mão, murmurou:
+
+--Pobre amigo!... choremol-o ambos... choremol-o, Marianna, que o
+amavamos como filhos...
+
+--Pois morreu?--bradou ella.
+
+--Morreu... mataram-no!...
+
+A moça expediu um grito estridulo, e foi com o rosto contra os ferros
+das grades. Simão inclinou-a para o seio, e disse-lhe com muita ternura
+e vehemencia:
+
+--Marianna, lembre-se que é o meu amparo. Lembre-se de que as ultimas
+palavras de seu pae deviam ser a recommendar-lhe o desgraçado que recebe
+das suas mãos bemfeitoras o pão da vida. Marianna, minha querida irmã,
+vença a dôr que póde matal-a, e vença-a por amor de mim. Ouve-me, amiga
+da minha alma?
+
+Marianna exclamou:
+
+--Deixe-me chorar, por caridade!... Ai! meu Deus, se eu torno a
+endoidecer!
+
+--Que seria de mim!--atalhou Simão--A quem deixaria Marianna o seu nobre
+coração para me suavisar este martyrio? Quem me levaria ao desterro uma
+palavra amiga que me animasse a crêr em Deus!... Não ha de enlouquecer,
+Marianna, porque eu sei que me estima, que me ama, e que affrontará com
+coragem a maior desgraça, que ainda póde suggerir-me o inferno! Chore,
+minha irmã, chore; mas veja-me através das suas lagrimas!
+
+
+
+
+VIII.
+
+
+Marianna, decorridos dias, foi a Vizeu recolher a herança paterna. Em
+proporção com o seu nascimento bem dotada a deixára o laborioso
+ferrador. Afóra os campos, cujo rendimento bastaria á sustentação
+d'ella, Marianna levantou a lage conhecida da lareira, e achou os
+quatrocentos mil réis com que João da Cruz contava para alimentar as
+regalias da sua decrepitude inerte. Vendeu Marianna as terras, e deixou
+a casa a sua tia, que nascêra n'ella, e onde seu pae casára.
+
+Liquidada a herança tornou para o Porto, e depositou o seu cabedal nas
+mãos de Simão Botelho, dizendo que receava ser roubada na casinha em que
+vivia, fronteira á Relação, na rua de S. Bento.
+
+--Porque vendeu as suas terras, Marianna?--perguntou o prêso.
+
+--Vendi-as, porque não faço tenção de lá voltar.
+
+--Não faz?... Para onde ha de ir Marianna, indo eu degredado? Fica no
+Porto?
+
+--Não, senhor, não fico--balbuciou ella como admirada d'esta pergunta, á
+qual o seu coração julgava ter respondido de muito.
+
+--Pois então!
+
+--Vou para o degredo, se v. s.^a me quizer na sua companhia.
+
+Fingindo-se surprendido, Simão seria ridiculo aos seus proprios olhos.
+
+--Esperava essa resposta, Marianna, e sabia que me não dava outra. Mas
+sabe o que é o degredo, minha amiga?
+
+--Tenho ouvido dizer muitas vezes o que é, senhor Simão... É uma terra
+mais quente que a nossa; mas tambem lá ha pão, e vive-se...
+
+--E morre-se abrazado ao sol doentio d'aquelle ceu, morre-se de saudades
+da patria, morre-se muitas vezes dos maus tratos dos governadores das
+galés, que tem um condemnado na conta de féra.
+
+--Não ha de ser tanto assim. Eu tenho perguntado muito por isso á mulher
+d'um prêso que cumpriu dez annos de sentença na India, e viveu muito bem
+em uma terra chamada Solor, onde teve uma loja; e, se não fossem as
+saudades, diz ella que não vinha, porque lhe corria melhor por lá a vida
+que por cá. Eu, se fôr por vontade do senhor Simão, vou pôr uma lojinha
+tambem. Verá como eu amenho a vida. Affeita ao calor estou eu; v. s.^a
+não está; mas não ha de ter precisão, se Deus quizer, de andar ao tempo.
+
+--E supponha, Marianna, que eu morro apenas chegar ao degredo?
+
+--Não fallemos n'isso, senhor Simão...
+
+--Fallemos, minha amiga, porque eu hei de sentir á hora da morte a
+pesar-me na alma a responsabilidade do seu destino... Se eu morrer?
+
+--Se o senhor morrer, eu saberei morrer tambem.
+
+--Ninguem morre quando quer, Marianna...
+
+--Oh! se morre!... e vive tambem quando quer... Não m'o disse já a
+senhora D. Thereza?
+
+--Que lhe disse ella?
+
+--Que estava a passar quando v. s.^a chegou ao Porto, e que a sua
+chegada lhe dera vida. Pois ha muita gente assim, senhor Simão... E mais
+a fidalga é fraquinha, e eu sou mulher do campo, vezada a todos os
+trabalhos; e, se fosse preciso metter uma lanceta no braço e deixar
+correr o sangue até morrer, fazia-o como quem o diz.
+
+--Oiça-me, Marianna, que espera de mim?
+
+--Que hei de eu esperar!... Porque me diz isso o senhor Simão?
+
+--Os sacrificios que Marianna tem feito e quer fazer por mim só podiam
+ter uma paga, embora m'os não faça esperando recompensa. Abre-me o seu
+coração, Marianna?
+
+--Que quer que eu lhe diga?
+
+--Conhece a minha vida tão bem como eu, não é verdade?
+
+--Conheço, e que tem isso?
+
+--Sabe que eu estou ligado pela vida e pela morte áquella desgraçada
+senhora?
+
+--E d'ahi? quem lhe diz menos d'isso?!
+
+--Os sentimentos do coração só os posso agradecer com amizade.
+
+--E eu já lhe pedi mais alguma coisa, senhor Simão?!
+
+--Nada me pediu, Marianna; mas obriga-me tanto, que me faz mais infeliz
+o pêso da obrigação.
+
+Marianna não respondeu, chorou.
+
+--E porque chora?--tornou Simão carinhosamente.
+
+--Isso é ingratidão.... e eu não mereço que me diga que o faço infeliz.
+
+--Não me comprehendeu... Sou infeliz por não poder fazêl-a minha mulher.
+Eu queria que Marianna podésse dizer: «Sacrifiquei-me por meu marido; no
+dia em que o vi ferido em casa de meu pae, velei as noites ao seu lado;
+quando a desgraça o encerrou entre ferros, dei-lhe o pão, que nem seus
+ricos paes lhe davam; quando o vi sentenciado á forca, endoideci; quando
+a luz da minha razão me tornou n'um raio de compaixão divina, corri ao
+segundo carcere, alimentei-o, vesti-o, e adornei-lhe as paredes nuas do
+seu antro; quando o desterraram, acompanhei-o, fiz-me a patria d'aquelle
+pobre coração, trabalhei á luz do sol homicida para elle se resguardar
+do clima, do trabalho, e do desamparo, que o matariam...»
+
+O espirito de Marianna não podia altear-se á expressão do prêso; mas o
+coração sinil, esse adivinhava-lhe as ideias. E a pobre moça sorria e
+chorava a um tempo. Simão continuou:
+
+--Tem vinte e seis annos, Marianna. Viva, que esta sua existencia não
+póde ser senão um supplicio occulto. Viva, que não deve dar tudo a quem
+lhe não póde restituir senão as lagrimas que lhe eu tenho custado. O
+tempo do meu desterro não póde estar longe; esperar outro melhor destino
+seria uma loucura. Se eu ficasse na patria, livre ou prêso, pediria a
+minha irmã que completasse a obra generosa da sua compaixão, esperando
+que eu lhe désse a ultima palavra da minha vida. Mas não vá comigo á
+África ou á India, que sei que voltará sósinha á pátria depois que eu
+fechar os olhos. Se o meu degredo fôr temporario, e a morte me guardar
+para maiores naufragios, voltarei á patria um dia. E preciso que
+Marianna aqui esteja para eu poder dizer que venho para a minha familia,
+que tenho aqui uma alma extremosa que me espera. Se a encontrar com
+marido e filhos, a sua familia será a a minha. Se a vir livre e só, irei
+para a companhia de minha irmã. Que me responde, Marianna?
+
+A filha de João da Cruz, erguendo o olhos do pavimento, disse:
+
+--Eu verei o que hei de fazer quando o senhor Simão partir para o
+degredo....
+
+--Pense desde já, Marianna.
+
+--Não tenho que pensar... A minha tenção está feita...
+
+--Falle, minha amiga, diga qual é a sua tenção.
+
+Marianna hesitou alguns segundos, e respondeu serenamente:
+
+--Quando eu vir que não lhe sou precisa, acabo com a vida. Cuida que eu
+ponho muito em me matar? Não tenho pae, não tenho ninguem, a minha vida
+não faz falta a pessoa nenhuma. O senhor Simão póde viver sem mim?
+paciencia!... eu é que não posso...
+
+Sosteve o complemento da ideia como quem se peja d'uma ousadia. O prêso
+apertou-a nos braços estremecidamente, e disse:
+
+--Irá, irá comigo, minha irmã. Pense muito no infortunio de nós ambos
+d'ora em diante, que elle é commum, é um veneno que havemos de tragar
+unidos, e lá teremos uma sepultura de terra tão pesada como a da patria.
+
+Desde este dia, um secreto jubilo endoidecia o coração de Marianna. Não
+inventemos maravilhas de abnegação. Era de mulher o coração de Marianna.
+Amava como a fantasia se compraz de idear o amor d'uns anjos que batem
+as azas de baile em baile, e apenas quedam o tempo preciso para se
+fazerem vêr e adorar a um reflexo de poesia apaixonada. Amava, e tinha
+ciumes de Thereza, não ciumes que se refrigeram na expansão ou no
+despeito, mas infernos surdos, que não rompiam em lavareda aos labios,
+porque os olhos se abriam promptos em lagrimas para apagal-a. Sonhava
+com as delicias do desterro, porque voz humana alguma não iria lá gemer
+á cabeceira do desgraçado. Se a forçassem a resignar a sua ingloria
+missão de irmã d'aquelle homem, resignal-a-ia, dizendo: «Ninguem o amará
+como eu; ninguém lhe adoçará as penas tão desinteresseiramente como o eu
+fiz.»
+
+E, comtudo, nunca vacillou em aceitar da mão de Thereza ou da mendiga as
+cartas para Simão. A cada vinco de dôr que a leitura d'aquellas cartas
+sulcava na fronte do prêso, Marianna, que o espreitava disfarçada,
+tremia em todas as fibras do seu coração, e dizia entre si: «para que ha
+de aquella senhora amargurar-lhe a vida!»
+
+E amargurava acerbamente a desditosa menina!
+
+Resurgiram n'aquella alma esperanças, que não deviam durar além do tempo
+necessario para que a desillusão lhe acrisolasse o infortunio. Imaginara
+ella a liberdade, o perdão, o casamento, a ventura, a corôa do seu
+martyrio. As suas amigas matizavam-lhe a tela da fantasia, umas porque
+não conheciam a atroz realidade das coisas, outras porque fiavam em
+demasia nas orações das virtuosas do mosteiro. Se os vaticinios das
+prophetisas se realisassem, Simão sahiria da cadêa, Thadeu de
+Albuquerque morreria de velhice e de raiva, o casamento seria um acto
+indisputavel, e o ceu dos desgraçados principiaria n'este mundo.
+
+Porém Simão Botelho, ao cabo de cinco mezes de carcere, já sabia o seu
+destino, e achára util prevenir Thereza, para não succumbir ao
+inevitavel golpe da separação. Bem queria elle alumiar com esperanças a
+perspectiva negra do degredo; mas froixos e frios eram os allivios em
+que não era parte a convicção nem o sentimento. Thereza não podia sequer
+illudir-se, porque tinha no peito um despertador que a estava acordando
+sempre para a hora final, embora o semblante enganasse a condolencia dos
+estranhos.
+
+E então era o expandir-se em lastimas nas cartas que escrevia ao seu
+amigo; invocações a Deus, e sacrilegas apostrophes ao destino; branduras
+de paciencia e impetos de cólera contra o pae; o afferro á vida que lhe
+foge, e súpplicas á morte, que a não livra das torturas da alma e do
+corpo.
+
+No termo de sete mezes o tribunal de segunda instancia commutou a pena
+ultima em dez annos de degredo para a India. Thadeu de Albuquerque
+acompanhou a Lisboa a appellação, e offereceu a sua casa a quem
+mantivesse de pé a forca de Simão Botelho. O pae do condemnado, segundo
+o assustador aviso que seu filho Manoel lhe dera, foi para Lisboa luctar
+com o dinheiro e as ponderosas influencias que Thadeu de Albuquerque
+grangeára na casa da supplicação e no desembargo do paço. Venceu
+Domingos Botelho, e instigado mais do seu capricho, que do amor
+paternal, alcançou do principe regente a graça de cumprir o condemnado a
+sua sentença na prisão de Villa Real.
+
+Quando intimaram a Simão Botelho a decisão do recurso e a graça do
+regente, o prêso respondeu que não aceitava a graça; que queria a
+liberdade do degredo; que protestaria perante os poderes judiciarios
+contra um favor que não implorára, e que reputava mais atroz que a
+morte.
+
+Domingos Botelho, avisado da rejeição do filho, respondeu que fizesse
+elle a sua vontade; mas que a sua victoria d'elle, sobre os protectores
+e os corrompidos pelo ouro do fidalgo de Vizeu, estava plenamente
+obtida.
+
+Foi aviso ao intendente geral da policia, e o nome de Simão Botelho foi
+inscripto no catalogo dos degredados para a India.
+
+
+
+
+IX.
+
+
+A verdade é algumas vezes o escolho de um romance.
+
+Na vida real, recebemol-a como ella sáe dos encontrados acasos, ou da
+logica implacavel das coisas; mas, na novella, custa-nos a soffrer que o
+author, se inventa, não invente melhor; e, se copía, não minta por amor
+da arte.
+
+Um romance, que estriba na verdade o seu merecimento, é frio, é
+impertinente, é uma coisa que não sacode os nervos, nem tira a gente,
+sequer uma temporada, em quanto elle nos lembra, d'este jogo de nora,
+cujos alcatruzes somos, uns a subir, outros a descer, movidos pela
+manivella do egoismo.
+
+A verdade! se ella é feia, para que offerecêl-a em paineis ao publico!?
+
+A verdade do coração humano! Se o coração humano tem filamentos de
+ferro, que o prendem ao barro d'onde sahiu, ou pezam n'elle e o
+submergem no charco da culpa primitiva, para que é emergil-o,
+retratal-o, e dal-o á venda!?
+
+Os reparos são de quem tem o juizo no seu logar; mas eu que perdi o meu
+a estudar a verdade, já agora a desforra que tenho é pintal-a, como ella
+é, feia e repugnante.
+
+A desgraça afervora ou quebranta o amor?
+
+Isso é que eu submetto á decisão do leitor intelligente. Factos e não
+theses é que eu trago para aqui. O pintor retrata uns olhos, e não
+explica as funcções opticas do apparelho visual.
+
+Ao cabo de dezenove mezes de carcere, Simão Botelho almejava um raio de
+sol, uma lufada de ar não coada por ferros, o pavimento do ceu, que o da
+abobada do seu cubiculo pesava-lhe sobre o peito.
+
+Ancia de viver era a sua; não era já ancia de amar.
+
+Seis mezes de sobresaltos diante da forca deviam distender-lhe as fibras
+do coração; e o coração, para o amor, quer-se forte e tenso de uma certa
+rijeza, que se ganha com o bom sangue, com os anceios das esperanças, e
+com as alegrias que o enchem e reforçam para os revezes.
+
+Cahiu a forca pavorosa aos olhas de Simão; mas os pulsos ficaram em
+ferros, o pulmão ao ar mortal das cadêas, o espirito intanguido na
+glacial estupidez d'umas paredes salitrosas, e d'um pavimento, que resôa
+os derradeiros passos do ultimo padecente, e d'um tecto que filtra a
+morte a gottas d'agua.
+
+O que é o coração, o coração dos dezoito annos, o coração sem remorsos,
+o espirito anhelante de glorias, ao cabo de dezoito mezes de estagnação
+da vida?
+
+O coração é a viscera, ferida de paralysia, a primeira que fallece
+suffocada pelas rebelliões da alma que se identifica á natureza, e a
+quer, e se devora na ancia d'ella, e se estorce nas agonias da
+amputação, para as quaes a saudade da felicidade extincta é um cauterio
+em braza, e o amor que leva ao abysmo pelo caminho da sonhada
+felicidade, não é sequer um refrigerio.
+
+Ao deslaçar da garganta a corda da justiça, Simão Botelho teve uma hora
+de desafôgo, como que sentia o patibulo lascar entre os seus braços, e
+então convidou o coração da mulher, que o perdêra, a assistir ás
+segundas nupcias da sua vida com a esperança.
+
+Depois, a passo igual, a esperança fugia-lhe para as areias da Asia, e o
+coração intumecia-se de fel, o amor afogava-se n'elle, morte inevitavel,
+quando não ha abertura por onde a esperança entre a luzir na escuridão
+intima.
+
+Esperança, para Simão Botelho, qual?
+
+A India, a humilhação, a miseria, a indigencia.
+
+E os anhelos d'aquella alma tinham mirado a ambições de um nome. Para a
+felicidade do amor invidava as forças do talento; mas, além do amor,
+estava a gloria, o renome, e a vã immortalidade, que só não é demencia
+nas grandes almas, e nos genios que se presentem viver nas gerações
+vindouras, e se preluzem n'ellas. Mas grinaldas de amor a escorrerem
+sangue dos espinhos, essas instillam veneno corrosivo no pensamento,
+apagam no seio a faisca das nobres affoitezas, apoucam a ideia que
+abrangêra mundos, e paralysam de mortal spasmo os estos do coração.
+
+Assim te sentias tu, infeliz, quando dezoito mezes de carcere, com o
+patibulo ou o degredo na linha do teu porvir, te haviam matado o melhor
+da alma.
+
+A ti mesmo perguntavas pelo teu passado, e o coração, se ousava
+responder, retrahia-se recriminado pelos dictames da razão.
+
+D'além, d'aquelle convento onde outra existencia agonisava, gementes
+queixas te vinham espremer fel na chaga; e tu, que não sabias, nem
+podias consolar, pedias palavras ao anjo da compaixão para ella, e
+recebias as do demonio do desespêro para ti.
+
+Os dez annos de ferros, era que lhe quizeram minorar a pena, eram-lhe
+mais horrorosos que o patibulo. E aceital-o-ias, por ventura, se amasse
+o ceu, onde Thereza bebia o ar, que nos pulmões se lhe formava em
+peçonha? Creio:--antes a masmorra, onde póde ouvir-se o som abafado de
+uma voz amiga; antes os paroxismos de dez annos sobre as lages humidas
+d'uma enxovia, se, na hora extrema, a ultima faisca da paixão, ao
+bruxolear para morrer, nos alumia o caminho do ceu por onde o anjo do
+amor desditoso se levantou a dar conta de si a Deus, e a pedir a alma do
+que ficou.
+
+Thereza pedira a Simão Botelho que aceitasse dez annos de cadêa, e
+esperasse ahi a sua redempção por ella.
+
+«Dez annos!--dizia-lhe a inclausurada de Monchique--Em dez annos terá
+morrido meu pae, e eu serei tua esposa, e irei pedir ao rei que te
+perdôe, se não tiveres cumprido a sentença. Se vaes ao degredo, para
+sempre te perdi, Simão, porque morrerás, ou não acharás memoria de mim
+quando voltares.»
+
+Como a pobre se illudia nas horas em que as debeis forças de sua vida se
+lhe concentravam no coração!
+
+As ancias, a lividez, o deperecimento tinham voltado. O sangue, que
+creára novo, já lhe sahia em golfadas com a tosse.
+
+Se por amor ou piedade o condemnado aceitasse os ferrolhos tres mil
+seiscentas e cincoenta vezes corridos sobre as suas longas noites
+solitarias, nem assim Thereza sosteria a pedra sepulcral que a vergava
+d'hora a hora.
+
+«Não esperes nada, martyr--escrevia-lhe elle.--A lucta com a desgraça é
+inutil, e eu não posso já luctar. Foi um atroz engano o nosso encontro.
+Não temos nada n'este mundo. Caminhemos ao encontro da morte... Ha um
+segredo que só no sepulcro se sabe. Vêr-nos-hemos?
+
+Vou. Abomino a patria, abomino a minha familia, todo este solo está aos
+meus olhos coberto de forcas, e quantos homens fallam a minha lingua,
+creio que os ouço vociferar as imprecações do carrasco. Em Portugal, nem
+a liberdade com a opulencia; nem já agora a realisação da esperanças que
+me dava o teu amor, Thereza!
+
+Esquece-te de mim, e adormece no seio do nada. Eu quero morrer, mas não
+aqui. Apague-se a luz de meus olhos; mas a luz do ceu, quero-a! quero
+vêr o ceu no meu ultimo olhar.
+
+Não me peças que aceite dez annos de prisão. Tu não sabes o que é a
+liberdade captiva dez annos! Não comprehendes a tortura dos meus vinte
+mezes. A voz unica que tenho ouvido é a da mulher piedosa que me esmola
+o pão de cada dia, e a do aguazil que veio dar-me a sarcastica boa-nova
+de uma graça real que me commuta o morrer instantaneo da forca pelas
+agonias de dez annos de carcere.
+
+Salva-te, se pódes, Thereza. Renuncia ao prestigio d'um grande
+desgraçado. Se teu pae te chama, vai. Se tem de renascer para ti uma
+aurora de paz, vive para a felicidade d'esse dia. E senão, morre,
+Thereza, morre, que a felicidade é a morte, é o desfazerem-se em pó as
+fibras laceradas pela dôr, é o esquecimento que salva das injurias a
+memoria dos padecentes.»
+
+As palavras unicas de Thereza, em resposta áquella carta, significativa
+da turvação do infeliz, foram estas: «Morrerei, Simão, morrerei. Perdôa
+tu ao meu destino... Perdi-te... bem sabes que sorte eu queria dar-te...
+e morro, porque não posso, nem poderei jámais resgatar-te. Se pódes,
+vive; não te peço que morras, Simão; quero que vivas para me chorares.
+Consolar-te-ha o meu espirito... Estou tranquilla... Vejo a aurora da
+paz... Adeus até ao ceu, Simão.»
+
+Seguiram-se a esta carta muitos dias de terrível taciturnidade. Simão
+Botelho não respondia ás perguntas de Marianna. Dil-o-ieis arrobado nas
+voluptuosas angustias do seu proprio aniquilamento. A creatura, posta
+por Deus ao lado d'aquelles dezoito annos tão attribulados, chorava; mas
+as lagrimas, se Simão as via, tiravam-no da mudez socegada para impetos
+de afflicção, que a final o extenuavam á força de convulsões.
+
+Decorreram seis mezes ainda.
+
+E Thereza vivia, dizendo ás suas consternadas companheiras, que sabia ao
+certo o dia do seu trespasse.
+
+Duas primaveras vira Simão Botelho pelas grades do seu carcere. A
+terceira já inflorava as hortas, e esverdeava as florestas do Candal.
+
+Era em Março de 1807.
+
+No dia 10 d'esse mez recebeu o condemnado intimação para sahir na
+primeira embarcação que levava ancora do Douro para a India. N'esse
+tempo vinham aqui os navios buscar os degredados, e recebiam em Lisboa
+os que tinham igual destino.
+
+Nenhum estorvo impedia o embarque de Marianna, que se apresentou ao
+corregedor do crime como criada do degredado, com passagem paga por seu
+amo.
+
+--E a passagem vale-a bem!--disse o galhofeiro magistrado.
+
+Simão assistiu no encaixotar de sua bagagem, n'uma quietação terrivel,
+como se ignorasse o seu destino.
+
+Quiz muitas vezes escrever a derradeira carta á moribunda Thereza, e nem
+signaes de lagrimas podia já enviar-lhe no papel.
+
+--Que trevas, meu Deus!--exclamava elle, e arrancava a mãos cheias os
+cabellos--Dai-me lagrimas, Senhor! deixai-me chorar, ou matai-me, que
+este soffrimento é insupportavel!
+
+Marianna contemplava estarrecida estes e outros lances de loucura, ou os
+não menos medonhos da lethargia.
+
+--E Thereza!--bradava elle, surgindo subitamente do seu spasmo--E
+aquella infeliz menina, que eu matei! Não hei de vêl-a mais, nunca mais!
+Ninguem me levará ao degredo a noticia da sua morte! E quando a eu
+chamar para que me veja morrer digno d'ella, quem te dirá que eu morri,
+ó martyr!
+
+
+
+
+X.
+
+
+A 17 de Março de 1807 sahiu dos carceres da Relação Simão Antonio
+Botelho, e embarcou no caes da Ribeira, com setenta e cinco
+companheiros. O filho do ex-corregedor de Vizeu, a pedido do
+desembargador Mourão Mosqueira, e por ordem do regedor das justiças, não
+ia amarrado com cordas ao braço d'algum companheiro. Desceu da cadêa ao
+embarque, ao lado de um meirinho, e seguido de Marianna, que vigiava os
+caixões da bagagem. O magistrado, fiel amigo de D. Rita Preciosa, foi a
+bordo da nau, e recommendou ao commandante que distinguisse o degredado
+Simão, consentindo-o na tolda, e sentando-o á sua mesa. Chamou Simão de
+parte, e deu-lhe um cartuxo de dinheiro em ouro, que sua mãe lhe
+enviava. Simão Botelho aceitou o dinheiro, e na presença de Mourão
+Mosqueira pediu ao commandante que fizesse distribuir pelos seus
+companheiros de degredo o dinheiro que lhe dava.
+
+--É demente o senhor Simão?!--disse o desembargador.
+
+--Tenho a demencia da dignidade: por amor da minha dignidade me perdi:
+quero agora vêr a que extremo de infortunio ella póde levar os seus
+amantes. A caridade só me não humilha, quando parte do coração e não do
+dever. Não conheço a pessoa, que me remetteu este dinheiro.
+
+--É sua mãe--tornou Mosqueira.
+
+--Não tenho mãe. Quer v. ex.^a remetter-lhe esta esmola rejeitada?
+
+--Não, senhor.
+
+--Então, senhor commandante, cumpra o que lhe peço, ou eu atiro com isto
+ao rio.
+
+O commandante aceitou o dinheiro, e o desembargador sahiu de bordo como
+espantado da sinistra condição do moço.
+
+--Onde é Monchique?--pergutou Simão a Marianna.
+
+--É acolá, senhor Simão--respondeu, indicando-lhe o mosteiro, que se
+debruça sobre a margem do Douro, em Miragaya.
+
+Cruzou os braços Simão, e viu através do gradeamento do mirante um
+vulto.
+
+Era Thereza.
+
+Na vespera recebêra ella o adeus de Simão, e respondêra enviando-lhe a
+trança dos seus cabellos.
+
+Ao anoitecer d'aquelle dia, pediu Thereza os sacramentos, e commungou á
+grade do côro, onde se foi amparando á sua criada. Parte das horas da
+noite passou-as sentada ao pé do sanctuario de sua tia, que toda a noite
+orou. Algumas vezes pediu que a levassem á janella que se abria para o
+mar, e não sentia ali a frialdade da viração. Conversava serenamente com
+as freiras, e despedira-se de todas, uma a uma, indo, por seu pé, ás
+cellas das senhoras entrevadas, para lhes dar o beijo da despedida.
+
+Todas cuidavam em reanimal-a, e Thereza sorria, sem responder aos
+piedosos artificios com que as boas almas a si mesmas queriam simular
+esperanças. Ao abrir da manhã, Thereza leu uma a uma as cartas de Simão
+Botelho. As que tinham sido escriptas nas margens do Mondego,
+enterneciam-na a copiosas lagrimas. Eram hymnos á felicidade prevista:
+eram tudo que mais formoso póde dar o coração humano, quando a poesia da
+paixão dá côr ao pensamento, e uma formosa e inspirativa natureza lhe
+empresta os seus esmaltes. Então lhe acudiam vivas reminiscencias
+d'aquelles dias: a sua alegria doida, as suas dôces tristezas,
+esperanças a desvanecerem saudades, os mudos colloquios com a irmã
+querida de Simão, o ceu aromatico que se lhe ampliava á aspiração
+sôfrega de vagos desejos, tudo, emfim, que lembra a desgraçados.
+
+Emmassou depois as cartas, e cintou-as com fitas de sêda desenlaçadas de
+raminhos de flôres murchas, que Simão, dois annos antes, lhe atirára da
+sua janella ao quarto d'ella.
+
+As petalas das flôres soltas quasi todas se desfizeram, e Thereza,
+contemplando-as, disse: «Como a minha vida...» e chorou, beijando os
+calices desfolhados das primeiras que recebêra.
+
+Deu as cartas a Constança, e encarregou-a de uma ordem, a respeito
+d'ellas, que logo veremos cumprida.
+
+Depois foi orar, e esteve ajoelhada meia hora, com meio corpo reclinado
+sobre uma cadeira. Erguendo-se, quasi tirada pela violencia, aceitou uma
+chicara de caldo, e murmurou com um sorriso: «Para a viagem...»
+
+Ás nove horas da manhã pediu a Constança que a acompanhasse ao mirante
+e, sentando-se em ancias mortaes, nunca mais desfitou os olhos da nau,
+que já estava de verga alta, esperando a leva dos degredados.
+
+Quando viu, a dois a dois, entrarem amarrados, no tombadilho, os
+condemnados, Thereza teve um breve accidente, em que a já froixa
+claridade dos olhos se lhe apagou, e as mãos convulsas pareciam querer
+aferrar a luz fugitiva.
+
+Foi então que Simão Botelho a viu.
+
+E ao mesmo tempo atracou á nau um bote, em que vinha a pobre de Vizeu
+chamando Simão. Foi elle ao portaló, e estendendo o braço á mendiga,
+recebeu o pacotinho das suas cartas. Reconheceu elle que a primeira não
+era sua, pela lizura do papel; mas não a abriu.
+
+Ouviu-se a voz de levar ancora, e largar amarras. Simão encostou-se á
+amurada da nau, com os olhos fitos no mirante.
+
+Viu agitar-se um lenço, e elle respondeu com o seu áquelle aceno. Desceu
+a nau ao mar, e passou fronteira ao convento. Distinctamente Simão viu
+um rosto e uns braços suspensos das rêxas de ferro; mas não era de
+Thereza aquelle rosto: seria antes um cadaver que subiu da claustra ao
+mirante, com os ossos da cara inçados ainda das herpes da sepultura.
+
+--É Thereza?--perguntou Simão a Marianna.
+
+--É, senhor, é ella--disse n'um afogado gemido a generosa creatura,
+ouvindo o seu coração dizer-lhe que a alma do condemnado iria breve no
+seguimento d'aquella por quem se perdêra.
+
+De repente aquietou o lenço que se agitava no mirante, e avistou Simão
+um movimento impetuoso de alguns braços, e o desapparecimento de Thereza
+e do vulto de Constança, que elle entre-vira mais tarde.
+
+A nau parou de fronte de Sobreiras. Uma nuvem no horisonte da barra, e o
+subito encapellamento das ondas, causára a suspensão por ordem do
+commandante. Em seguida, velejou da Foz uma catraia, com o piloto mór,
+que mandava lançar ferro, até novas ordens. Mais tarde, deferiu-se a
+sahida para o dia seguinte.
+
+E, no entanto, Simão Botelho, como o cadaver embalsamado, cujos olhos
+reluzentes se cravam n'um ponto immoveis, lá tinha os seus immersos na
+interior escuridade do miradouro. Nenhum signal de vida, e as horas
+passaram até que o derradeiro raio do sol se apagou nas grades do
+mosteiro.
+
+Ao escurecer voltou de terra o commandante, e contemplou, com os olhos
+embaciados de lagrimas, o desterrado, que contemplava as primeiras
+estrellas, eminentes ao mirante.
+
+--Procura-a no ceu?--disse o nauta.
+
+--Se a procuro no ceu!--repetiu machinalmente Simão.
+
+--Sim!... no ceu deve ella estar.
+
+--Quem, senhor?
+
+--Thereza.
+
+--Thereza!... Morreu?!
+
+--Morreu, álem, no mirante, d'onde lhe estava acenando.
+
+Simão curvou-se sobre a amurada, e fitou os olhos na torrente. O
+commandante lançou-lhe os braços e disse:
+
+--Coragem, grande desgraçado, coragem! os homens do mar crêem em Deus!
+Espere que o ceu se abra para si pelas supplicas d'aquelle anjo!
+
+Marianna estava um passo atraz de Simão, e tinha as mãos erguidas.
+
+--Acabou-se tudo!...--murmurou Simão-- Eis-me livre... para a morte...
+Senhor commandante--continuou elie energicamente--eu não me suicido.
+Póde deixar-me.
+
+--Peço-lhe que se recolha á camara. O seu beliche está ao pé do meu.
+
+--É obrigatorio recolher-me?
+
+--Para v. s.^a não ha obrigações; ha rogos: peço-lh'o não mando.
+
+--Vou, e agradeço a compaixão.
+
+Marianna seguiu-o com aquelle olhar quebrado e mavioso do jáo, quando o
+poeta desembarcava, segundo a ideia apaixonada do cantor de Camões.
+
+Encarou n'ella Simão, e disse ao commandante:
+
+--E esta infeliz?
+
+--Que o siga...--respondeu o compassivo homem do mar, que cria em Deus.
+
+Simão recolheu-se ao beliche, e o commandante sentou-se em frente
+d'elle, e Marianna ficou no escuro da camera a chorar.
+
+--Falle, senhor Simão!--disse o commandante--desafogue e chore.
+
+--Chorei, senhor!
+
+--Eu não tinha imaginado uma angustia igual á sua. A invenção humana não
+creou ainda um quadro tão atroz. Arripiam-se-me os cabellos, e tenho
+visto espectaculos horriveis na terra e no mar.
+
+Acintemente, o commandante estava provocando Simão ao desabafo. Não
+respondia o degredado. Ouvia os soluços de Marianna, e tinha os olhos
+postos no masso das cartas, que pozera sobre uma banqueta.
+
+O capitão proseguiu:
+
+--Quando em Miragaya me contaram a morte d'aquella senhora, pedi a uma
+pessoa relacionada no convento, que me levasse a ouvir d'alguma freira a
+triste historia. Uma religiosa m'a contou; mas eram mais os gemidos que
+as palavras. Soube que ella, quando desciamos na altura do Oiro,
+proferira em alta voz: «Simão, adeus até á eternidade!» e cahiu nos
+braços d'uma criada. A criada gritou, e outras foram ao mirante, e a
+trouxeram meia-morta para baixo, ou morta, melhor direi, que nenhuma
+palavra mais lhe ouviram. Depois contaram-me o que ella penára em dois
+annos e nove mezes n'aquelle mosteiro. O amor que ella lhe tinha, e as
+mil mortes que ella ali padeceu, de cada vez que a esperança lhe morria,
+Que desgraçada menina, e que desgraçado moço o senhor é!
+
+--Por pouco tempo...-- disse Simão, como se o dissesse a si proprio, ou
+a propria imaginação o estivesse dialogando comsigo.
+
+--Creio, creio, por pouco tempo--proseguiu o capitão;--mas se os amigos
+podessem salval-o, senhor, eu dar-lh'os-ia na India mais fieis que em
+Portugal. Prometto-lhe, sob minha palavra de honra, alcançar do visorei
+a sua residência em Gôa. Prometto segurar-lhe um decente principio de
+vida, e as commodidades que fazem a existencia tão saudavel como ella é
+na Asia. Não o intimide a ideia do degredo, senhor Simão. Viva, faça por
+vencer-se, e será feliz!
+
+--O seu silencio, por piedade, senhor...--atalhou o degredado.
+
+--Bem sei que é cêdo ainda para planisar futuros. Desculpe á sympathia,
+que me inspira, a indiscrição. Mas aceite um amigo n'esta hora
+atribulada.
+
+--Aceito, e preciso d'elle.... Marianna!--chamou Simão--Venha aqui, se
+este cavalheiro o permitte.
+
+Marianna entrou no quarto.
+
+--Esta mulher tem sido a minha providencia--disse Simão--Porque ella me
+valeu, não senti a fome em dois annos e nove mezes de carcere. Tudo que
+tinha vendeu para me sustentar e vestir. Aqui vai comigo esta creatura.
+Seja respeitavel aos seus olhos, senhor, porque ella é tão pura como a
+verdade o deve ser nos labios d'um moribundo. Se eu morrer, senhor
+commandante, aceite o legado de a amparar com a sua caridade como se
+ella fosse minha irmã. Se ella quizer voltar á patria, seja o seu
+protector na passagem.--E estendendo-lhe a mão, disse com
+transporte:--Promette-me isto, senhor?
+
+--Juro-lh'o.
+
+O commandante, obrigado a subir ao tombadilho, deixou Simão com
+Marianna.
+
+--Estou tranquillo pelo seu futuro, minha amiga.
+
+--Eu já o estava, senhor Simão--respondeu ella.
+
+Não se trocaram palavra por largo espaço. Simão apoiou a face sobre a
+mesa, e apertou com as mãos as fontes archejantes. Marianna, de pé, ao
+lado d'elle, fitava os olhos na luz mortiça da lampada oscillante, e
+scismava, como elle, na morte.
+
+E o nordeste sibilava, como um gemido, nas gáveas da nau.
+
+
+
+
+CONCLUSÃO.
+
+
+Ás onze horas da noite o commandante recolhêra-se n'um beliche de
+passageiro, e Marianna, sentada no pavimento, com o rosto sobre os
+joelhos, parecia sucumbir ao quebranto das trabalhosas e afflictivas
+horas d'aquelle dia.
+
+Simão Botelho velava prostrado no camarote, com os braços cruzados sobre
+o peito, e os olhos fitos na luz que balançava, pendente d'um arame. O
+ouvido têl-o-ia talvez attento ao assovio da ventania: devia de soar-lhe
+como um ai plangente aquelle silvo agudo, voz unica no silencio da terra
+e do ceu.
+
+Á meia noite estendeu Simão o braço tremulo ao masso das cartas que
+Thereza lhe enviára, e contemplou um pouco a que estava ao de cima, que
+era d'ella. Rompeu a obreia, e dispôz-se no camarote para alcançar o
+baço clarão da lampada.
+
+Dizia assim a carta:
+
+«É já o meu espirito que te falla, Simão. A tua amiga morreu. A tua
+pobre Thereza, á hora em que leres esta carta, se me Deus não engana,
+está em descanso.
+
+Eu devia poupar-te a esta ultima tortura; não devia escrever-te; mas
+perdôa á tua esposa do ceu a culpa pela consolação que sinto em
+conversar comtigo a esta hora, hora final da noite da minha vida.
+
+Quem te diria que eu morri, se não fosse eu mesma, Simão? D'aqui a pouco
+perderás da vista este mosteiro; correrás milhares de leguas, e não
+acharás, em parte alguma do mundo, voz humana que te diga: «A infeliz
+espera-te n'outro mundo, e pede ao Senhor que te resgate.»
+
+Se te podesses illudir, meu amigo, quererias antes pensar que eu ficava
+com vida e com esperança de vêr-te na volta do degredo? Assim póde ser,
+mas ainda agora, n'este solemne momento, me domina a vontade de fazer-te
+sentir que eu não podia viver. Parece que a mesma infelicidade tem ás
+vezes vaidade de mostrar que o é, até não podêl-o ser mais! Quero que
+digas: Está morta, e morreu quando lhe eu tirei a ultima esperança.
+
+Isto não é queixar-me, Simão, não é. Talvez que eu podesse alguns dias
+resistir á morte, se tu ficasses; mas, d'um modo ou d'outro, era
+inevitavel fechar os olhos quando se rompesse o ultimo fio, este ultimo
+que se está partindo, e eu mesma o oiço partir.
+
+Não vão estas palavras accrescentar a tua pena. Deus me livre de ajuntar
+um remorso injusto á tua saudade.
+
+Se eu podesse ainda vêr-te feliz n'este mundo; se Deus permittisse á
+minha alma esta visão!... _Feliz_, tu, meu pobre condemnado!... Sem o
+querer, o meu amor agora te fazia injuria, julgando-te capaz de
+felicidade! Tu morrerás de saudade, se o clima do desterro te não matar
+ainda antes de succumbires á dôr do espirito.
+
+A vida era bella, era, Simão, se a tivessemos como tu m'a pintavas nas
+tuas cartas, que li ha pouco. Estou vendo a casinha que tu descrevias
+defronte de Coimbra, cercada de arvores, flôres e aves. A tua imaginação
+passeava comigo ás margens do Mondego, á hora pensativa do escurecer.
+Estrellava-se o ceu, e a lua abrilhantava a agua. Eu respondia com a
+mudez do coração ao teu silencio, e animada por teu sorriso inclinava a
+face ao teu seio, como se fosse ao de minha mãe. Tudo isto li nas tuas
+cartas; e parece que cessa o despedaçar da agonia em quanto a alma se
+esta recordando. N'outra carta me fallavas em triumphos e glorias e
+immortalidade do teu nome. Também eu ia após da tua aspiração, ou
+adiante d'ella, porque o maior quinhão dos teus prazeres de espirito
+queria eu que fosse meu. Era criança ha tres annos, Simão, e já entendia
+os teus anhelos de gloria, e imaginava-os realisados como obra minha, se
+me tu dizias, como disseste muitas vezes, que não serias nada sem o
+estimulo do meu amor.
+
+Ó Simão, de que ceu tão lindo cahimos! Á hora que te escrevo estás tu
+para entrar na nau dos degredados, e eu na sepultura.
+
+Que importa morrer, se não podemos jámais ter n'esta vida a nossa
+esperança de ha tres annos?! Poderias tu com a desesperança e com a
+vida, Simão? Eu não podia. Os instantes do dormir eram os escassos
+beneficios que Deus me concedia; a morte é mais que uma necessidade, é
+uma misericordia divina, uma bemaventurança para mim.
+
+E que farias tu da vida sem a tua companheira de martyrio? Onde irás tu
+aviventar o coração que a desgraça te esmagou, sem poder esmagar a
+imagem d'esta docil mulher, que seguiu cegamente a estrella da tua
+malfadada sorte?
+
+Tu nunca hás de amar, não, meu esposo? Terias pejo de ti mesmo, se uma
+vez visses passar rapidamente a minha imagem por diante dos teus olhos
+enxutos? Soffre, soffre ao coração da tua amiga estas derradeiras
+perguntas, a que tu responderás, no alto mar, quando esta carta lêres.
+
+Rompe a manhã. Vou vêr a minha ultima aurora... a ultima dos meus
+dezoito annos!
+
+Abençoado sejas, Simão! Deus te proteja, e te livre d'uma agonia longa.
+Todas as minhas angustias lhe offereço em desconto das tuas culpas. Se
+algumas impaciencias a justiça divina me condemna, offerece tu a Deus,
+meu amigo, os teus padecimentos para que eu seja perdoada.
+
+Adeus; á luz da eternidade parece-me que já te vejo, Simão.»
+
+Erguei-se Simão Botelho, olhou em redor de si, e fitou com spasmo
+Marianna, que levantava a cabeça ao menor movimento d'elle.
+
+--Que tem, senhor Simão?--disse ella, erguendo-se.
+
+--Estava aqui, Marianna?... não se vai deitar?!
+
+--Não vou: o commandante deu-me licença de ficar aqui.
+
+--Mas ha de assim passar a noite?! Rogo-lhe que vá, porque não é
+necessario o seu sacrificio.
+
+--Se o não incommodo, deixe-me aqui estar, senhor Simão.
+
+--Esteja, minha amiga, esteja... Poderei subir ao convez?
+
+--Quer ir ao convez, senhor Botelho?--disse o commandante lançando-se do
+beliche.
+
+--Queria, senhor commandante.
+
+--Iremos juntos.
+
+Simão ajuntou a carta de Thereza ao maço das suas, e subiu cambaleando.
+No convéz sentou-se n'um monte de cordame, e contemplou o mirante de
+Monchique, que avultava negro ao sopé da serra penhascosa em que
+actualmente vai a rua da Restauração.
+
+O capitão passeava da prôa á ré; mas com o ouvido fito aos movimentos do
+degredado. Receára elle o proposito do suicidio, porque Marianna lhe
+incutira semelhante suspeita. Queria o maritimo fallar-lhe palavras
+consoladoras, mas pensava comsigo: «O que ha de dizer-se a um homem que
+soffre assim?» E parava junto d'elle algumas vezes, como para
+desviar-lhe o espirito d'aquelle mirante.
+
+--Eu não me suicido!--exclamou abruptamente Simão Botelho--Se a sua
+generosidade, senhor capitão, se interessa em que eu viva, póde dormir
+descansado a sua noite, que eu não me suicido.
+
+--Mas mereço-lhe eu a condescendencia de descer comigo á camara?
+
+--Irei; mas eu lá soffro mais, senhor.
+
+Não replicou o commandante, e continuou a passear no convez, apesar das
+rajadas de vento.
+
+Marianna estava agachada, entre os pacotes da carga, a pouca distancia
+de Simão. O commandante viu-a, fallou-lhe, e retirou-se.
+
+Ás tres horas da manhã Simão Botelho segurou entre as mãos a testa que
+se lhe abria abrazada pela febre.
+
+Não pôde ter-se sentado, e deixou cahir meio corpo. A cabeça, ao
+declinar, pousou no seio de Marianna.
+
+--O anjo da compaixão sempre comigo!--murmurou elle--Thereza foi muito
+mais desgraçada...
+
+--Quer descer ao camarote?--disse ella.
+
+--Não poderei... Ampare-me, minha irmã.
+
+Deu alguns passos para o alçapão, e olhou ainda para o mirante. Desceu a
+ingreme escada, apegando-se ás cordas. Lançou-se sobre o colchão, e
+pediu agua, que bebeu insaciavelmente. Seguiu-se a febre, o
+estorcimento, e as ancias, com intervallos de delirio.
+
+De manhã veio a bordo um facultativo, por convite do capitão. Examinando
+o condemnado, disse que era «maligna» a doença, e que bem podia ser que
+elle achasse a sepultura no caminho da India.
+
+Marianna ouviu o prognostico, e não chorou.
+
+Ás onze horas sahiu barra fóra a nau. Ás ancias da doença accresceram as
+do enjoo. A pedido do commandante, Simão bebia remedios, que bolsava
+logo, revoltos pelas contracções do vomito.
+
+Ao segundo dia de viagem Marianna disse a Simão:
+
+--Se o meu irmão morrer, que hei de eu fazer áquellas cartas que vão na
+caixa?
+
+Pasmosa serenidade a d'esta pergunta!
+
+--Se eu morrer no mar--disse elle--Marianna atire ao mar todos os meus
+papeis; todos; e estas cartas que estão debaixo do meu travesseiro
+tambem.
+
+Passada uma ancia, que lhe embargara a voz, Simão continuou:
+
+--Se eu morrer, que tenciona fazer, Marianna!
+
+--Morrerei, senhor Simão.
+
+--Morrerá?!.. Tanta gente desgraçada que eu fiz!...
+
+A febre augmentava. Os symptomas da morte eram visiveis aos olhos do
+capitão, que tinha sobeja experiencia de vêr morrerem centenares de
+condemnados, feridos da febre no mar, e desprovidos de algum
+medicamento.
+
+Ao quarto dia, quando a nau se movia ronceira defronte de Cascaes,
+sobreveio tormenta subita. O navio fez-se ao largo muitas milhas, e
+perdido o rumo de Lisboa, navegou desnorteado para o sul. Ao sexto dia
+de navegação incerta, por entre espêssas brumas, partiu-se o leme
+defronte de Gibraltar. E, em seguida ao desastre, aplacaram as refegas,
+desencapellaram-se as ondas, e nasceu, com a aurora do dia seguinte, um
+formoso dia de primavera. Era o dia 27 de Março, o nono da enfermidade
+de Simão Botelho.
+
+Marianna tinha envilhecido. O commandante, encarando n'ella, exclamou:
+
+--Parece que volta da India com os dez annos de trabalhos já
+passados!...
+
+--Já acabados... de certo...--disse ella.
+
+Ao anoitecer d'esse dia o condemnado delirou pela ultima vez, e dizia
+assim no seu delirio:
+
+«A casinha, defronte de Coimbra, cercada de arvores, flôres e aves.
+Passeavas comigo á margem do Mondego, á hora pensativa do escurecer.
+Estrellava-se o ceu, e a lua abrilhantava a agua. Eu respondia com a
+mudez do coração ao teu silencio, e, animada por teu sorriso, inclinava
+a face ao teu seio como se fosse o de minha mãe... De que ceu tão lindo
+cahimos... A tua amiga morreu... A tua pobre
+Thereza.............................
+
+E que farias tu da vida sem a tua companheira de martyrio?... Onde irás
+tu aviventar o coração que a desgraça te esmagou... Rompe a manhã... Vou
+vêr a minha ultima aurora... a ultima dos meus dezoitos annos. Offerece
+a Deus os teus padecimentos para que eu seja perdoada... Marianna...»
+
+Marianna collou os ouvidos aos labios roixos do moribundo, quando cuidou
+ouvir o seu nome.
+
+«Tu virás ter comnosco; ser-te-hemos irmãos no ceu... O mais puro anjo
+serás tu... se és d'este mundo, irmã; se és d'este mundo, Marianna...»
+
+A transição do delirio para a lethargia completa era o annuncio
+infallivel do trespasse.
+
+Ao romper da manhã apagára-se a lampada. Marianna sahira a pedir luz, e
+ouvira um gemido estorturoso. Voltando ás escuras, com os braços
+estendidos para tactear a face do agonisante, encontrou a mão convulsa,
+que lhe apertou uma das suas, e relaxou de subito a pressão dos dedos.
+
+Entrou o commandante com uma lampada, e approximou-lh'a da respiração,
+que não embaciou levemente o vidro.
+
+--Está morto!...-- disse elle.
+
+Marianna curvou-se sobre o cadaver, e beijou-lhe a face. Era o primeiro
+beijo. Ajoelhou depois ao pé do camarote com as mãos erguidas, e não
+orava nem chorava.
+
+Algumas horas depois, o commandante disse a Marianna:
+
+--Agora é tempo de dar sepultura ao nosso venturoso amigo ... É ventura
+morrer quando se vem a este mundo com tal estrella... Passe a senhora
+Marianna ali para a camara, que vai ser levado d'aqui o defuncto.
+
+Marianna tirou o masso das cartas debaixo do travesseiro, e foi a uma
+caixa buscar os papeis de Simão. Atou o rolo no avental, que elle tinha
+d'aquellas lagrimas d'ella choradas no dia da sua demencia, e cingiu o
+embrulho á cintura.
+
+Foi o cadaver envolto n'um lençol, e transportado ao convez.
+
+Marianna seguiu-o.
+
+Do porão da nau foi trazida uma pedra, que um marujo lhe atou ás pernas
+com um pedaço de cabo. O commandante contemplava a scena triste com os
+olhos humidos, e os soldados, que guarneciam a nau, tão funeral respeito
+os acurvava, que insensivelmente se descobriram.
+
+Marianna estava, no entanto, encostada ao flanco da nau, e parecia
+estupidamente encarar aquelles empuxões, que o marujo dava ao cadaver
+para segurar a pedra na cintura.
+
+Dois homens ergueram o cadaver ao alto sobre a amurada. Deram-lhe o
+balanço para o arremessarem longe. E antes que o baque do morto se
+fizesse ouvir na agua, todos viram, e ninguém já pôde segurar Marianna,
+que se atirára ao mar.
+
+Á voz do commandante desamarraram rapidamente o bote, e saltaram homens
+para salvar Marianna.
+
+Salval-a!...
+
+Viram-na, um momento, bracejar, não para resistir á morte, mas para
+abraçar-se ao cadáver de Simão, que uma onda lhe atirou aos braços. O
+commandante olhou para o sitio d'onde Marianna se atirára, e viu,
+enleado no cordame, o avental, e á flor d'agua um rolo de papeis que os
+marujos recolheram na lancha. Eram, como sabem, a correspondencia de
+Thereza e Simão.
 
        *       *       *       *       *
 
-In October Francine was obliged to keep her bed. Jacques' friend
-attended her. The little room in which they lived was situated at the
-top of the house and looked into a court, in which there was a tree,
-which day by day grew barer of foliage. Jacques had put a curtain to the
-window to hide this tree from the invalid, but Francine insisted on its
-being drawn back.
+Da familia de Simão Botelho vive ainda, em Villa Real de Traz-os-Montes,
+a senhora D. Rita Emilia da Veiga Castello Branco, a irmã predilecta
+d'elle. A ultima pessoa fallecida, ha vinte e seis annos, foi Manoel
+Botelho, pae do author d'este livro.
 
-"Oh my darling!" said she to Jacques. "I will give you a hundred times
-more kisses than there are leaves." And she added, "Besides I am much
-better now. I shall soon be able to go out, but as it will be cold and I
-do not want to have red hands, you must buy me a muff."
 
-During the whole of her illness this muff was her only dream.
-
-The day before All Saints', seeing Jacques more grief stricken than
-ever, she wished to give him courage, and to prove to him that she was
-better she got up.
-
-The doctor arrived at that moment and forced her to go to bed again.
-
-"Jacques," whispered he in the artist's ear, "you must summon up your
-courage. All is over; Francine is dying."
-
-Jacques burst into tears.
-
-"You may give her whatever she asks for now," continued the doctor,
-"there is no hope."
-
-Francine heard with her eyes what the doctor had said to her lover.
-
-"Do not listen to him," she exclaimed, holding out her arm to Jacques,
-"do not listen to him; he is not speaking the truth. We will go out
-tomorrow--it is All Saints' Day. It will be cold--go buy me a muff, I beg
-of you. I am afraid of chilblains this winter."
-
-Jacques was going out with his friend, but Francine detained the doctor.
-
-"Go and get my muff," said she to Jacques. "Get a nice one, so that it
-may last a good while."
-
-When she was alone she said to the doctor.
-
-"Oh sir! I am going to die, and I know it. But before I pass away give
-me something to give me strength for a night, I beg of you. Make me well
-for one more night, and let me die afterwards, since God does not wish
-me to live longer."
-
-As the doctor was doing his best to console her, the wind carried into
-the room and cast upon the sick girl's bed a yellow leaf, torn from the
-tree in the little courtyard.
-
-Francine opened the curtain, and saw the tree entirely bare.
-
-"It is the last," said she, putting the leaf under her pillow.
-
-"You will not die until tomorrow," said the doctor. "You have a night
-before you."
-
-"Ah, what happiness!" exclaimed the poor girl. "A winter's night--it
-will be a long one."
-
-Jacques came back. He brought a muff with him.
-
-"It is very pretty," said Francine. "I will wear it when I go out."
-
-So passed the night with Jacques.
-
-The next day--All Saints'--about the middle of the day, the death agony
-seized on her, and her whole body began to quiver.
-
-"My hands are cold," she murmured. "Give me my muff."
-
-And she buried her poor hands in the fur.
-
-"It is the end," said the doctor to Jacques. "Kiss her for the last
-time."
-
-Jacques pressed his lips to those of his love. At the last moment they
-wanted to take away her muff, but she clutched it with her hands.
-
-"No, no," she said, "leave it me; it is winter, it is cold. Oh my poor
-Jacques! My poor Jacques! What will become of you? Oh heavens!"
-
-And the next day Jacques was alone.
-
-_First Reader_: I told you that this was not a very lively story.
-
-What would you have, reader? We cannot always laugh.
-
-It was the morning of All Saints. Francine was dead.
-
-Two men were watching at the bedside. One of them standing up was the
-doctor. The other, kneeling beside the bed, was pressing his lips to the
-dead girl's hands, and seemed to rivet them there in a despairing kiss.
-It was Jacques, her lover. For more than six hours he had been plunged
-in a state of heart broken insensibility. An organ playing under the
-windows had just roused him from it.
-
-This organ was playing a tune that Francine was in the habit of singing
-of a morning.
-
-One of those mad hopes that are only born out of deep despair flashed
-across Jacques' mind. He went back a month in the past--to the period
-when Francine was only sick unto death; he forgot the present, and
-imagined for a moment that the dead girl was but sleeping, and that she
-would wake up directly, her mouth full of her morning song.
-
-But the sounds of the organ had not yet died away before Jacques had
-already come back to the reality. Francine's mouth was eternally closed
-to all songs, and the smile that her last thought had brought to her
-lips was fading away from them beneath death's fingers.
-
-"Take courage, Jacques," said the doctor, who was the sculptor's friend.
-
-Jacques rose, and said, looking fixedly at him, "it is over, is it
-not--there is no longer any hope?"
-
-Without replying to this wild inquiry, Jacques' friend went and drew the
-curtains of the bed, and then, returning to the sculptor, held out his
-hand.
-
-"Francine is dead," said he. "We were bound to expect it, though heaven
-knows that we have done what we could to save her. She was a good girl,
-Jacques, who loved you very dearly--dearer and better than you loved her
-yourself, for hers was love alone, while yours held an alloy. Francine
-is dead, but all is not over yet. We must now think about the steps
-necessary for her burial. We must set about that together, and we will
-ask one of the neighbors to keep watch here while we are away."
-
-Jacques allowed himself to be led away by his friend. They passed the
-day between the registrar of deaths, the undertaker, and the cemetery.
-As Jacques had no money, the doctor pawned his watch, a ring, and some
-clothes, to cover the cost of the funeral, that was fixed for the next
-day.
-
-They both got in late at night. The neighbor who had been watching tried
-to make Jacques eat a little.
-
-"Yes," said he. "I will. I am very cold and I shall need a little
-strength for my work tonight."
-
-The neighbor and the doctor did not understand him.
-
-Jacques sat down at the table and ate a few mouthfuls so hurriedly that
-he was almost choked. Then he asked for drink. But on lifting his glass
-to his lips he let it fall. The glass, which broke on the floor, had
-awakened in the artist's mind a recollection which itself revived his
-momentary dulled pain. The day on which Francine had called on him for
-the first time she had felt ill, and he had given her to drink out of
-this glass. Later, when they were living together, they had regarded it
-as a love token.
-
-During his rare moments of wealth the artist would buy for his love one
-or two bottles of the strengthening wine prescribed for her, and it was
-from this glass that Francine used to sip the liquid whence her love
-drew a charming gaiety.
-
-Jacques remained for more than half an hour staring without uttering a
-word at the scattered fragments of this frail and cherished token. It
-seemed to him that his heart was also broken, and that he could feel
-the fragments tearing his breast. When he had recovered himself, he
-picked up the pieces of glass and placed them in a drawer. Then he asked
-the neighbor to fetch him two candles, and to send up a bucket of water
-by the porter.
-
-"Do not go away," said he to the doctor, who had no intention of doing
-so. "I shall want you presently."
-
-The water and the candles were brought and the two friends left alone.
-
-"What do you want to do?" asked the doctor, watching Jacques, who after
-filling a wooden bowl with water was sprinkling powdered plaster of
-Paris into it.
-
-"What do I mean to do?" asked the artist, "cannot you guess? I am going
-to model Francine's head, and as my courage would fail me if I were left
-alone, you must stay with me."
-
-Jacques then went and drew the curtains of the bed and turned down the
-sheet that had been pulled up over the dead girl's face. His hand began
-to tremble and a stifled sob broke from his lips.
-
-"Bring the candles," he cried to his friend, "and come and hold the
-bowl for me."
-
-One of the candles was placed at the head of the bed so as to shed its
-light on Francine's face, the other candle was placed at the foot. With
-a brush dipped in olive oil the artist coated the eye-brows, the
-eye-lashes and the hair, which he arranged as Francine usually wore it.
-
-"By doing this she will not suffer when we remove the mold," murmured
-Jacques to himself.
-
-These precautions taken and after arranging the dead girl's head in a
-favorable position, Jacques began to lay on the plaster in successive
-coats until the mold had attained the necessary thickness. In a quarter
-of an hour the operation was over and had been thoroughly successful.
-
-By some strange peculiarity a change had taken place in Francine's face.
-The blood, which had not had time to become wholly congealed, warmed no
-doubt by the warmth of the plaster, had flowed to the upper part of the
-corpse and a rosy tinge gradually showed itself on the dead whiteness of
-the cheeks and forehead. The eyelids, which had lifted when the mold was
-removed, revealed the tranquil blue eyes in which a vague intelligence
-seemed to lurk; from out the lips, parted by the beginning of a smile,
-there seemed to issue that last word, forgotten during the last
-farewell, that is only heard by the heart.
-
-Who can affirm that intelligence absolutely ends where insensibility
-begins? Who can say that the passions fade away and die exactly at the
-last beat of the heart which they have agitated? Cannot the soul
-sometimes remain a voluntary captive within the corpse already dressed
-for the coffin, and note for a moment from the recesses of its fleshly
-prison house, regrets and tears? Those who depart have so many reasons
-to mistrust those who remain behind.
-
-At the moment when Jacques sought to preserve her features by the aid
-of art who knows but that a thought of after life had perhaps returned
-to awaken Francine in her first slumber of the sleep that knows no end.
-Perhaps she had remembered the he whom she had just left was an artist
-at the same time as a lover, that he was both because he could not be
-one without the other, that for him love was the soul of heart and that
-if he had loved her so, it was because she had been for him a mistress
-and a woman, a sentiment in form. And then, perhaps, Francine, wishing
-to leave Jacques the human form that had become for him an incarnate
-ideal, had been able though dead and cold already to once more clothe
-her face with all the radiance of love and with all the graces of youth,
-to resuscitate the art treasure.
-
-And perhaps too, the poor girl had thought rightly, for there exist
-among true artists singular Pygmalions who, contrary to the original
-one, would like to turn their living Galateas to marble.
-
-In presence of the serenity of this face on which the death pangs had no
-longer left any trace, no one would have believed in the prolonged
-sufferings that had served as a preface to death. Francine seemed to be
-continuing a dream of love, and seeing her thus one would have said that
-she had died of beauty.
-
-The doctor, worn out with fatigue, was asleep in a corner.
-
-As to Jacques, he was again plunged in doubt. His mind beset with
-hallucinations, persisted in believing that she whom he had loved so
-well was on the point of awakening, and as faint nervous contractions,
-due to the recent action of the plaster, broke at intervals the
-immobility of the corpse, this semblance of life served to maintain
-Jacques in his blissful illusion, which lasted until morning, when a
-police official called to verify the death and authorize internment.
-
-Besides, if it needed all the folly of despair to doubt of her death on
-beholding this beautiful creature, it also needed all the infallibility
-of science to believe it.
-
-While the neighbor was putting Francine into her shroud, Jacques was led
-away into the next room, where he found some of his friends who had come
-to follow the funeral. The Bohemians desisted as regards Jacques, whom,
-however, they loved in brotherly fashion, from all those consolations
-which only serve to irritate grief. Without uttering one of those
-remarks so hard to frame and so painful to listen to, they silently
-shook their friend by the hand in turn.
-
-"Her death is a great misfortune for Jacques," said one of them.
-
-"Yes," replied the painter Lazare, a strange spirit who had been able at
-the very outset to conquer all the rebellious impulses of youth by the
-inflexibility of one set purpose, and in whom the artist had ended by
-stifling the man, "yes, but it is a misfortune that he incurred
-voluntarily. Since he knew Francine, Jacques has greatly altered."
-
-"She made him happy," said another.
-
-"Happy," replied Lazare, "what do you call happy? How can you call a
-passion, which brings a man to the condition in which Jacques is at this
-moment, happiness? Show him a masterpiece and he would not even turn
-his eyes to look at it; on a Titian or a Raphael. My mistress is
-immortal and will never deceive me. She dwells in the Louvre, and her
-name is Joconde."
-
-While Lazare was about to continue his theories on art and sentiment, it
-was announced that it was time to start for the church.
-
-After a few prayers the funeral procession moved on to the cemetery. As
-it was All Souls' Day an immense crowd filled it. Many people turned to
-look at Jacques walking bareheaded in rear of the hearse.
-
-"Poor fellow," said one, "it is his mother, no doubt."
-
-"It is his father," said another.
-
-"It is his sister," was elsewhere remarked.
-
-A poet, who had come there to study the varying expressions of regret at
-this festival of recollections celebrated once a year amidst November
-fogs, alone guessed on seeing him pass that he was following the funeral
-of his mistress.
-
-When they came to the grave the Bohemians ranged themselves about it
-bareheaded, Jacques stood close to the edge, his friend the doctor
-holding him by the arm.
-
-The grave diggers were in a hurry and wanted to get things over quickly.
-
-"There is to be no speechifying," said one of them. "Well, so much the
-better. Heave, mate, that's it."
-
-The coffin taken out of the hearse was lowered into the grave. One man
-withdrew the ropes and then with one of his mates took a shovel and
-began to cast in the earth. The grave was soon filled up. A little
-wooden cross was planted over it.
-
-In the midst of his sobs the doctor heard Jacques utter this cry of
-egoism--
-
-"Oh my youth! It is you they are burying."
-
-Jacques belonged to a club styled the Water Drinkers, which seemed to
-have been founded in imitation of the famous one of the Rue des
-Quatre-Vents, which is treated of in that fine story _"Un Grand Homme de
-Province."_ Only there was a great difference between the heroes of the
-latter circle and the Water Drinkers who, like all imitators, had
-exaggerated the system they sought to put into practice. This difference
-will be understood by the fact that in Balzac's book the members of the
-club end by attaining the object they proposed to themselves, while
-after several years' existence the club of the Water Drinkers was
-naturally dissolved by the death of all its members, without the name of
-anyone of them remaining attached to a work attesting their existence.
-
-During his union with Francine, Jacques' intercourse with the Water
-Drinkers had become more broken. The necessities of life had obliged the
-artist to violate certain conditions solemnly signed and sworn by the
-Water Drinkers the day the club was founded.
-
-Perpetually perched on the stilts of an absurd pride, these young
-fellows had laid down as a sovereign principle in their association,
-that they must never abandon the lofty heights of art; that is to say,
-that despite their mortal poverty, not one of them would make any
-concession to necessity. Thus the poet Melchior would never have
-consented to abandon what he called his lyre, to write a commercial
-prospectus or an electoral address. That was all very well for the poet
-Rodolphe, a good-for-nothing who was ready to turn his hand to anything,
-and who never let a five franc piece flit past him without trying to
-capture it, no matter how. The painter Lazare, a proud wearer of rags,
-would never have soiled his brushes by painting the portrait of a tailor
-holding a parrot on his forefinger, as our friend the painter Marcel had
-once done in exchange for the famous dress coat nicknamed Methuselah,
-which the hands of each of his sweethearts had starred over with darns.
-All the while he had been living in communion of thought with the Water
-Drinkers, the sculptor Jacques had submitted to the tyranny of the club
-rules; but when he made the acquaintance of Francine, he would not make
-the poor girl, already ill, share of the regimen he had accepted during
-his solitude. Jacques' was above all an upright and loyal nature. He
-went to the president of the club, the exclusive Lazare, and informed
-him that for the future he would accept any work that would bring him
-in anything.
-
-"My dear fellow, your declaration of love is your artistic renunciation.
-We will remain your friends if you like, but we shall no longer be your
-partners. Work as you please, for me you are no longer a sculptor, but a
-plasterer. It is true that you may drink wine, but we who continue to
-drink our water, and eat our dry bread, will remain artists."
-
-Whatever Lazare might say about it, Jacques remained an artist. But to
-keep Francine with him he undertook, when he had a chance, any paying
-work. It is thus that he worked for a long time in the workshop of the
-ornament maker Romagnesi. Clever in execution and ingenious in
-invention, Jacques, without relinquishing high art, might have achieved
-a high reputation in those figure groups that have become one of the
-chief elements in this commerce. But Jacques was lazy, like all true
-artists, and a lover after the fashion of poets. Youth in him had
-awakened tardily but ardent, and, with a presentiment of his approaching
-end, he had sought to exhaust it in Francine's arms. Thus it happened
-that good chances of work knocked at his door without Jacques answering,
-because he would have had to disturb himself, and he found it more
-comfortable to dream by the light of his beloved's eyes.
-
-When Francine was dead the sculptor went to see his old friends the
-Water Drinkers again. But Lazare's spirit predominated in this club, in
-which each of the members lived petrified in the egoism of art. Jacques
-did not find what he came there in search of. They scarcely understood
-his despair, which they strove to appease by argument, and seeing this
-small degree of sympathy, Jacques preferred to isolate his grief rather
-than see it laid bare by discussion. He broke off, therefore, completely
-with the Water Drinkers and went away to live alone.
-
-Five or six days after Francine's funeral, Jacques went to a monumental
-mason of the Montparnasse cemetery and offered to conclude the following
-bargain with him. The mason was to furnish Francine's grave with a
-border, which Jacques reserved the right of designing, and in addition
-to supply the sculptor with a block of white marble. In return for this
-Jacques would place himself for three months at his disposition, either
-as a journeyman stone-cutter or sculptor. The monumental mason then had
-several important orders on hand. He visited Jacques' studio, and in
-presence of several works begun there, had proof that the chance which
-gave him the sculptor's services was a lucky one for him. A week later,
-Francine's grave had a border, in the midst of which the wooden cross
-had been replaced by a stone one with her name graven on it.
-
-Jacques had luckily to do with an honest fellow who understood that a
-couple of hundredweight of cast iron, and three square feet of Pyrenean
-marble were no payment for three months' work by Jacques, whose talent
-had brought him in several thousand francs. He offered to give the
-artist a share in the business, but Jacques would not consent. The lack
-of variety in the subjects for treatment was repugnant to his inventive
-disposition, besides he had what he wanted, a large block of marble,
-from the recesses of which he wished to evolve a masterpiece destined
-for Francine's grave.
-
-At the beginning of spring Jacques' position improved. His friend the
-doctor put him in relation with a great foreign nobleman who had come to
-settle in Paris, and who was having a magnificent mansion built in one
-of the most fashionable districts. Several celebrated artists had been
-called in to contribute to the luxury of this little palace. A chimney
-piece was commissioned from Jacques. I can still see his design, it was
-charming; the whole poetry of winter was expressed in the marble that
-was to serve as a frame to the flames. Jacques' studio was too small, he
-asked for and obtained a room in the mansion, as yet uninhabited, to
-execute his task in. A fairly large sum was even advanced him on the
-price agreed on for his work. Jacques began by repaying his friend the
-doctor the money the latter had lent him at Francine's death, then he
-hurried to the cemetery to cover the earth, beneath which his mistress
-slept, with flowers.
-
-But spring had been there before him, and on the girl's grave a thousand
-flowers were springing at hazard amongst the grass. The artist had not
-the courage to pull them up, for he thought that these flowers might
-perhaps hold something of his dead love. As the gardener asked him what
-was to be done with the roses and pansies he had brought with him,
-Jacques bade him plant them on a neighboring grave, newly dug, the poor
-grave of some poor creature, without any border and having no other
-memorial over it than a piece of wood stuck in the ground and surmounted
-by a crown of flowers in blackened paper, the scant offering of some
-pauper's grief. Jacques left the cemetery in quite a different frame of
-mind to what he had entered it. He looked with happy curiosity at the
-bright spring sunshine, the same that had so often gilded Francine's
-locks when she ran about the fields culling wildflowers with her white
-hands. Quite a swarm of pleasant thoughts hummed in his heart. Passing
-by a little tavern on the outer Boulevard he remembered that one day,
-being caught by a storm, he had taken shelter there with Francine, and
-that they had dined there. Jacques went in and had dinner served at the
-same table. His dessert was served on a plate with a pictorial pattern;
-he recognized it and remembered that Francine had spent half an hour in
-guessing the rebus painted on it, and recollected, too, a song sung by
-her when inspired by the violet hued wine which does not cost much and
-has more gaiety in it than grapes. But this flood of sweet remembrances
-recalled his love without reawakening his grief. Accessible to
-superstition, like all poetical and dreamy intellects, Jacques fancied
-that it was Francine, who, hearing his step beside her, had wafted him
-these pleasant remembrances from her grave, and he would not damp them
-with a tear. He quitted the tavern with firm step, erect head, bright
-eye, beating heart, and almost a smile on his lips, murmuring as he went
-along the refrain of Francine's song--
-
-       "Love hovers round my dwelling
-        My door must open be."
-
-This refrain in Jacques' mouth was also a recollection, but then it was
-already a song, and perhaps without suspecting it he took that evening
-the first step along the road which leads from sorrow to melancholy, and
-thence onward to forgetfulness. Alas! Whatever one may wish and whatever
-one may do the eternal and just law of change wills it so.
-
-Even as the flowers, sprung perhaps from Francine, had sprouted on her
-tomb the sap of youth stirred in the heart of Jacques, in which the
-remembrance of the old love awoke new aspirations for new ones. Besides
-Jacques belonged to the race of artists and poets who make passion an
-instrument of art and poetry, and whose mind only shows activity in
-proportion as it is set in motion by the motive powers of the heart.
-With Jacques invention was really the daughter of sentiment, and he put
-something of himself into the smallest things he did. He perceived that
-souvenirs no longer sufficed him, and that, like the millstone which
-wears itself away when corn runs short, his heart was wearing away for
-want of emotion. Work had no longer any charm for him, his power of
-invention, of yore feverish and spontaneous, now only awoke after much
-patient effort. Jacques was discontented, and almost envied the life of
-his old friends, the Water Drinkers.
-
-He sought to divert himself, held out his hand to pleasure, and made
-fresh acquaintances. He associated with the poet Rodolphe, whom he had
-met at a cafe, and each felt a warm sympathy towards the other. Jacques
-explained his worries, and Rodolphe was not long in understanding their
-cause.
-
-"My friend," said he, "I know what it is," and tapping him on the chest
-just over the heart he added, "Quick, you must rekindle the fire there,
-start a little love affair at once, and ideas will recur to you."
-
-"Ah!" said Jacques. "I loved Francine too dearly."
-
-"It will not hinder you from still always loving her. You will embrace
-her on another's lips."
-
-"Oh!" said Jacques. "If I could only meet a girl who resembled her."
-
-And he left Rodolphe deep in thought.
+FIM.
 
        *       *       *       *       *
 
-Six weeks later Jacques had recovered all his energy, rekindled by the
-tender glances of a young girl whose name was Marie, and whose somewhat
-sickly beauty recalled that of poor Francine. Nothing, indeed, could be
-prettier than this pretty Marie, who was within six weeks of being
-eighteen years of age, as she never failed to mention. Her love affair
-with Jacques had its birth by moonlight in the garden of an open air
-ball, to the strains of a shrill violin, a grunting double bass, and a
-clarinet that trilled like a blackbird. Jacques met her one evening when
-gravely walking around the space reserved for the dancers. Seeing him
-pass stiffly in his eternal black coat buttoned to the throat, the
-pretty and noisy frequenters of the place, who knew him by sight, used
-to say amongst themselves, "What is that undertaker doing here? Is there
-anyone who wants to be buried?"
-
-And Jacques walked on always alone, his heart bleeding within him from
-the thorns of a remembrance which the orchestra rendered keener by
-playing a lively quadrille which sounded to his ears as mournful as a
-_De Profundis_. It was in the midst of this reverie that he noticed
-Marie, who was watching him from a corner, and laughing like a wild
-thing at his gloomy bearing. Jacques raised his eyes and saw this burst
-of laughter in a pink bonnet within three paces of him. He went up to
-her and made a few remarks, to which she replied. He offered her his arm
-for a stroll around the garden which she accepted. He told her that he
-thought her as beautiful as an angel, and she made him repeat it twice
-over. He stole some green apples hanging from the trees of the garden
-for her, and she devoured them eagerly to the accompaniment of that
-ringing laugh which seemed the burden of her constant mirth. Jacques
-thought of the Bible, and thought that we should never despair as
-regards any woman, and still less as regards those who love apples. He
-took another turn round the garden with the pink bonnet, and it is thus
-that arriving at the ball alone he did not return from it so.
-
-However, Jacques had not forgotten Francine; bearing in mind Rodolphe's
-words he kissed her daily on Marie's lips, and wrought in secret at the
-figure he wished to place on the dead girl's grave.
-
-One day when he received some money Jacques bought a dress for Marie--a
-black dress. The girl was pleased, only she thought that black was not
-very lively for summer wear. But Jacques told her that he was very fond
-of black, and that she would please him by wearing this dress every day.
-Marie obeyed.
-
-One Saturday Jacques said to her:
-
-"Come early tomorrow, we will go into the country."
-
-"How nice!" said Marie. "I am preparing a surprise for you. You shall
-see. It will be sunshiny tomorrow."
-
-Marie spent the night at home finishing a new dress that she had bought
-out of her savings--a pretty pink dress. And on Sunday she arrived clad
-in her smart purchase at Jacques' studio.
-
-The artist received her coldly, almost brutally.
-
-"I thought I should please you by making this bright toilette," said
-Marie, who could not understand his coolness.
-
-"We cannot go into the country today," replied he. "You had better be
-off. I have some work today."
-
-Marie went home with a full heart. On the way she met a young man who
-was acquainted with Jacques' story, and who had also paid court to
-herself.
-
-"Ah! Mademoiselle Marie, so you are no longer in mourning?" said he.
-
-"Mourning?" asked Marie. "For whom?"
-
-"What, did you not know? It is pretty generally known, though, the
-black dress that Jacques gave you--."
-
-"Well, what of it?" asked Marie.
-
-"It was mourning. Jacques made you wear mourning for Francine."
-
-From that day Jacques saw no more of Marie.
-
-This rupture was unlucky for him. Evil days returned; he had no more
-work, and fell into such a fearful state of wretchedness that, no longer
-knowing what would become of him, he begged his friend the doctor to
-obtain him admission to a hospital. The doctor saw at first glance that
-this admission would not be difficult to obtain. Jacques, who did not
-suspect his condition, was on the way to rejoin Francine.
-
-As he could still move about, Jacques begged the superintendent of the
-hospital to let him have a little unused room, and he had a stand, some
-tools, and some modelling clay brought there. During the first fortnight
-he worked at the figure he intended for Francine's grave. It was an
-angel with outspread wings. This figure, which was Francine's portrait,
-was never quite finished, for Jacques could soon no longer mount the
-stairs, and in short time could not leave his bed.
-
-One day the order book fell into his hands, and seeing the things
-prescribed for himself, he understood that he was lost. He wrote to his
-family, and sent for Sister Sainte-Genevieve, who looked after him with
-charitable care.
-
-"Sister," said Jacques, "there is upstairs in the room that was lent me,
-a little plaster cast. This statuette, which represents an angel, was
-intended for a tomb, but I had not time to execute it in marble. Yes, I
-had a fine block--white marble with pink veins. Well, sister, I give you
-my little statuette for your chapel."
-
-Jacques died a few days later. As the funeral took place on the very day
-of the opening of the annual exhibition of pictures, the Water Drinkers
-were not present. "Art before all," said Lazare.
-
-Jacques' family was not a rich one, and he did not have a grave of his
-own.
-
-He is buried somewhere.
-
-
-
-
-CHAPTER XIX
-
-Musette's Fancies
-
-
-It may be, perhaps, remembered how the painter Marcel sold the Jew
-Medici his famous picture of "The Passage of the Red Sea," which was
-destined to serve as the sign of a provision dealer's. On the morrow of
-this sale, which had been followed by a luxurious dinner stood by the
-Jew to the Bohemians as a clincher to the bargain, Marcel, Schaunard,
-Colline, and Rodolphe woke up very late. Still bewildered by the fumes
-of their intoxication of the day before, at first they no longer
-remembered what had taken place, and as noon rung out from a neighboring
-steeple, they all looked at one another with a melancholy smile.
-
-"There goes the bell that piously summons humanity to refresh itself,"
-said Marcel.
-
-"In point of fact," replied Rodolphe, "it is the solemn hour when honest
-folk enter their dining-room."
-
-"We must try and become honest folk," murmured Colline, whose patron
-saint was Saint Appetite.
-
-"Ah, milk jug of my nursery!--ah! Four square meals of my childhood,
-what has become of you?" said Schaunard. "What has become of you?" he
-repeated, to a soft and melancholy tune.
-
-"To think that at this hour there are in Paris more than a hundred
-thousand chops on the gridiron," said Marcel.
-
-"And as many steaks," added Rodolphe.
-
-By an ironical contrast, while the four friends were putting to one
-another the terrible daily problem of how to get their breakfast, the
-waiters of a restaurant on the lower floor of the house kept shouting
-out the customers' orders.
-
-"Will those scoundrels never be quiet?" said Marcel. "Every word is like
-the stroke of a pick, hollowing out my stomach."
-
-"The wind is in the north," said Colline, gravely, pointing to a
-weathercock on a neighboring roof. "We shall not breakfast today, the
-elements are opposed to it."
-
-"How so?" inquired Marcel.
-
-"It is an atmospheric phenomenon I have noted," said the philosopher. "A
-wind from the north almost always means abstinence, as one from the
-south usually means pleasure and good cheer. It is what philosophy calls
-a warning from above."
-
-Gustave Colline's fasting jokes were savage ones.
-
-At that moment Schaunard, who had plunged one of his hands into the
-abyss that served him as a pocket, withdrew it with a yell of pain.
-
-"Help, there is something in my coat!" he cried, trying to free his
-hand, nipped fast in the claws of a live lobster.
-
-To the cry he had uttered, another one replied. It came from Marcel,
-who, mechanically putting his hand into his pocket, had there discovered
-a silver mine that he had forgotten--that is to say, the hundred and
-fifty francs which Medici had given him the day before in payment for
-"The Passage of the Red Sea."
-
-Memory returned at the same moment to the Bohemians.
-
-"Bow down, gentlemen," said Marcel, spreading out on the table a pile of
-five-franc pieces, amongst which glittered some new louis.
-
-"One would think they were alive," said Colline.
-
-"Sweet sounds!" said Schaunard, chinking the gold pieces together.
-
-"How pretty these medals are!" said Rodolphe. "One would take them for
-fragments of sunshine. If I were a king I would have no other small
-change, and would have them stamped with my mistress's portrait."
-
-"To think that there is a country where there are mere pebbles," said
-Schaunard. "The Americans used to give four of them for two sous. I had
-an ancestor who went to America. He was interred by the savages in their
-stomachs. It was a misfortune for the family."
-
-"Ah, but where does this animal come from?" inquired Marcel, looking at
-the lobster which had began to crawl about the room.
-
-"I remember," said Schaunard, "that yesterday I took a turn in Medicis'
-kitchen, I suppose the reptile accidentally fell into my pocket; these
-creatures are very short-sighted. Since I have got it," added he, "I
-should like to keep it. I will tame it and paint it red, it will look
-livelier. I am sad since Phemie's departure; it will be a companion to
-me."
-
-"Gentlemen," exclaimed Colline, "notice, I beg of you, that the
-weathercock has gone round to the south, we shall breakfast."
-
-"I should think so," said Marcel, taking up a gold piece, "here is
-something we will cook with plenty of sauce."
-
-They proceeded to a long and serious discussion on the bill of fare.
-Each dish was the subject of an argument and a vote. Omelette soufflé,
-proposed by Schaunard, was anxiously rejected, as were white wines,
-against which Marcel delivered an oration that brought out his
-oenophilistic knowledge.
-
-"The first duty of wine is to be red," exclaimed he, "don't talk to me
-about your white wines."
-
-"But," said Schaunard, "Champagne--"
-
-"Bah! A fashionable cider! An epileptic licorice-water. I would give all
-the cellars of Epernay and Ai for a single Burgundian cask. Besides, we
-have neither grisettes to seduce, nor a vaudeville to write. I vote
-against Champagne."
-
-The program once agreed upon, Schaunard and Colline went to the
-neighboring restaurant to order the repast.
-
-"Suppose we have some fire," said Marcel.
-
-"As a matter of fact," said Rodolphe, "we should not be doing wrong, the
-thermometer has been inviting us to it for some time past. Let us have
-some fire and astonish the fireplace."
-
-He ran out on the landing and called to Colline to have some wood sent
-in. A few minutes later Schaunard and Colline came up again, followed by
-a charcoal dealer bearing a heavy bundle of firewood.
-
-As Marcel was looking in a drawer for some spare paper to light the
-fire, he came by chance across a letter, the handwriting of which made
-him start, and which he began to read unseen by his friends.
-
-It was a letter in pencil, written by Musette when she was living with
-Marcel and dated day for day a year ago. It only contained these
-words:--
-
-     "My dear love,
-
-      Do not be uneasy about me, I shall be in shortly. I have gone out
-      to warm myself a bit by walking, it is freezing indoors and the
-      wood seller has cut off credit. I broke up the last two rungs of
-      the chair, but they did not burn long enough to cook an egg by.
-      Besides, the wind comes in through the window as if it were at
-      home, and whispers a great deal of bad advice which it would vex
-      you if I were to listen to. I prefer to go out a bit; I shall take
-      a look at the shops. They say that there is some velvet at ten
-      francs a yard. It is incredible, I must see it. I shall be back
-      for dinner.
-
-      Musette"
-
-"Poor girl," said Marcel, putting the letter in his pocket. And he
-remained for a short time pensive, his head resting on his hands.
-
-At this period the Bohemians had been for some time in a state of
-widowhood, with the exception of Colline, whose sweetheart, however, had
-still remained invisible and anonymous.
-
-Phemie herself, Schaunard's amiable companion, had met with a simple
-soul who had offered her his heart, a suite of mahogany furniture, and
-a ring with his hair--red hair--in it. However, a fortnight after these
-gifts, Phemie's lover wanted to take back his heart and his furniture,
-because he noticed on looking at his mistress's hands that she wore a
-ring set with hair, but black hair this time, and dared to suspect her
-of infidelity.
-
-Yet Phemie had not ceased to be virtuous, only as her friends had
-chaffed her several times about her ring with red hair, she had had it
-dyed black. The gentleman was so pleased that he bought Phemie a silk
-dress; it was the first she had ever had. The day she put it on for the
-first time the poor girl exclaimed:
-
-"Now I can die happy."
-
-As to Musette, she had once more become almost an official personage,
-and Marcel had not met her for three or four months. As to Mimi,
-Rodolphe had not heard her even mentioned, save by himself when alone.
-
-"Hallo!" suddenly exclaimed Rodolphe, seeing Marcel squatting dreamily
-beside the hearth. "Won't the fire light?"
-
-"There you are," said the painter, setting light to the wood, which
-began to crackle and flame.
-
-While his friends were sharpening their appetites by getting ready the
-feast, Marcel had again isolated himself in a corner and was putting the
-letter he had just found by chance away with some souvenirs that Musette
-had left him. All at once he remembered the address of a woman who was
-the intimate friend of his old love.
-
-"Ah!" he exclaimed, loud enough to be overheard. "I know where to find
-her."
-
-"Find what?" asked Rodolphe. "What are you up to?" he added, seeing the
-artist getting ready to write.
-
-"Nothing, only an urgent letter I had forgotten," replied Marcel, and he
-wrote:--
-
-     "My dear girl,
-
-      I have wealth in my desk, an apoplectic stroke of fortune. We have
-      a big feed simmering, generous wines, and have lit fires like
-      respectable citizens. You should only just see it, as you used to
-      say. Come and pass an hour with us. You will find Rodolphe, Colline
-      and Schaunard. You shall sing to us at dessert, for dessert will
-      not be wanting. While we are there we shall probably remain at
-      table for a week. So do not be afraid of being too late. It is so
-      long since I heard you laugh. Rodolphe will compose madrigals to
-      you, and we will drink all manner of things to our dead and gone
-      loves, with liberty to resuscitate them. Between people like
-      ourselves--the last kiss is never the last. Ah! If it had not been
-      so cold last year you might not have left me. You jilted me for a
-      faggot and because you were afraid of having red hands; you were
-      right. I am no more vexed with you over it this time than over the
-       others, but come and warm yourself while there is a fire. With as
-      many kisses as you like,
-
-      Marcel."
-
-This letter finished, Marcel wrote another to Madame Sidonie, Musette's
-friend, begging her to forward the one enclosed in it. Then he went
-downstairs to the porter to get him to take the letters. As he was
-paying him beforehand, the porter noticed a gold coin in the painter's
-hand, and before starting on his errand went up to inform the landlord,
-with whom Marcel was behind with his rent.
-
-"Sir," said he, quite out of breath, "the artist on the sixth floor has
-money. You know the tall fellow who laughs in my face when I take him
-his bill?"
-
-"Yes," said the landlord, "the one who had the imprudence to borrow
-money of me to pay me something on account with. He is under notice to
-quit."
-
-"Yes sir. But he is rolling in gold today. I caught sight of it just
-now. He is giving a party. It is a good time--"
-
-"You are right," said the landlord. "I will go up and see for myself
-by-and-by."
-
-Madame Sidonie, who was at home when Marcel's letter was brought, sent
-on her maid at once with the one intended for Musette.
-
-The latter was then residing in a charming suite of rooms in the
-Chaussee d'Antin. At the moment Marcel's letter was handed to her, she
-had company, and, indeed, was going to give a grand dinner party that
-evening.
-
-"Here is a miracle," she exclaimed, laughing like a mad thing.
-
-"What is it?" asked a handsome young fellow, as stiff as a statuette.
-
-"It is an invitation to dinner," replied the girl. "How well it falls
-out."
-
-"How badly," said the young man.
-
-"Why so?" asked Musette.
-
-"What, do you think of going?"
-
-"I should think so. Arrange things as you please."
-
-"But, my dear, it is not becoming. You can go another time."
-
-"Ah, that is very good, another time. It is an old acquaintance, Marcel,
-who invites me to dinner, and that is sufficiently extraordinary for me
-to go and have a look at it. Another time! But real dinners in that
-house are as rare as eclipses."
-
-"What, you would break your pledge to us to go and see this
-individual," said the young man, "and you tell me so--"
-
-"Whom do you want me to tell it to, then? To the Grand Turk? It does not
-concern him."
-
-"This is strange frankness."
-
-"You know very well that I do nothing like other people."
-
-"But what would you think of me if I let you go, knowing where you are
-going to? Think a bit, Musette, it is very unbecoming both to you and
-myself; you must ask this young fellow to excuse you--"
-
-"My dear Monsieur Maurice," said Mademoiselle Musette, in very firm
-tones, "you knew me before you took up with me, you knew that I was full
-of whims and fancies, and that no living soul can boast of ever having
-made me give one up."
-
-"Ask of me whatever you like," said Maurice, "but this! There are
-fancies and fancies."
-
-"Maurice, I shall go and see Marcel. I am going," she added, putting on
-her bonnet. "You may leave me if you like, but it is stronger than I
-am; he is the best fellow in the world, and the only one I have ever
-loved. If his head had been gold he would have melted it down to give me
-rings. Poor fellow," said she, showing the letter, "see, as soon as he
-has a little fire, he invites me to come and warm myself. Ah, if he had
-not been so idle, and if there had not been so much velvet and silk in
-the shops! I was very happy with him, he had the gift of making me feel;
-and it is he who gave me the name of Musette on account of my songs. At
-any rate, going to see him you may be sure that I shall return to you...
-unless you shut your door in my face."
-
-"You could not more frankly acknowledge that you do not love me," said
-the young man.
-
-"Come, my dear Maurice, you are too sensible a man for us to begin a
-serious argument on that point," rejoined Musette. "You keep me like a
-fine horse in your stable--and I like you because I love luxury, noise,
-glitter, and festivity, and that sort of thing; do not let us go in for
-sentiment, it would be useless and ridiculous."
-
-"At least let me come with you."
-
-"But you would not enjoy yourself at all," said Musette, "and would
-hinder us from enjoying ourselves. Remember that he will necessarily
-kiss me."
-
-"Musette," said Maurice. "Have you often found such accommodating people
-as myself?"
-
-"Viscount," replied Musette, "one day when I was driving in the Champs
-Elysees with Lord _____, I met Marcel and his friend Rodolphe, both on
-foot, both ill dressed, muddy as water-dogs, and smoking pipes. I had
-not seen Marcel for three months, and it seemed to me as if my heart was
-going to jump out of the carriage window. I stopped the carriage, and
-for half an hour I chatted with Marcel before the whole of Paris,
-filing past in its carriages. Marcel offered me a sou bunch of violets
-that I fastened in my waistband. When he took leave of me, Lord _____
-wanted to call him back to invite him to dinner with us. I kissed him
-for that. That is my way, my dear Monsieur Maurice, if it does not suit
-you you should say so at once, and I will take my slippers and my
-nightcap."
-
-"It is sometimes a good thing to be poor then," said Vicomte Maurice,
-with a look of envious sadness.
-
-"No, not at all," said Musette. "If Marcel had been rich I should never
-have left him."
-
-"Go, then," said the young fellow, shaking her by the hand. "You have
-put your new dress on," he added, "it becomes you splendidly."
-
-"That is so," said Musette. "It is a kind of presentiment I had this
-morning. Marcel will have the first fruits of it. Goodbye, I am off to
-taste a little of the bread of gaiety."
-
-Musette was that day wearing a charming toilette. Never had the poem of
-her youth and beauty been set off by a more seductive binding. Besides,
-Musette had the instinctive genius of taste. On coming into the world,
-the first thing she had looked about for had been a looking glass to
-settle herself in her swaddling clothes by, and before being christened
-she had already been guilty of the sin of coquetry. At the time when her
-position was of the humblest, when she was reduced to cotton print
-frocks, little white caps and kid shoes, she wore in charming style this
-poor and simple uniform of the grisettes, those pretty girls, half bees,
-half grasshoppers, who sang at their work all week, only asked God for a
-little sunshine on Sunday, loved with all their heart, and sometimes
-threw themselves out of a window.
-
-A breed that is now lost, thanks to the present generation of young
-fellows, a corrupted and at the same time corrupting race, but, above
-everything, vain, foolish and brutal. For the sake of uttering spiteful
-paradoxes, they chaffed these poor girls about their hands, disfigured
-by the sacred scars of toil, and as a consequence these soon no longer
-earned even enough to buy almond paste. By degrees they succeeded in
-inoculating them with their own foolishness and vanity, and then the
-grisette disappeared. It was then that the lorette sprung up. A hybrid
-breed of impertinent creatures of mediocre beauty, half flesh, half
-paint, whose boudoir is a shop in which they sell bits of their heart
-like slices of roast beef. The majority of these girls who dishonor
-pleasure, and are the shame of modern gallantry, are not always equal in
-intelligence to the very birds whose feathers they wear in their
-bonnets. If by chance they happen to feel, not love nor even a caprice,
-but a common place desire, it is for some counter jumping mountebank,
-whom the crowd surrounds and applauds at public balls, and whom the
-papers, courtiers of all that is ridiculous, render celebrated by their
-puffs. Although she was obliged to live in this circle Musette had
-neither its manners nor its ways, she had not the servile cupidity of
-those creatures who can only read Cocker and only write in figures. She
-was an intelligent and witty girl, and some drops of the blood of Mansu
-in her veins and, rebellious to all yokes, she had never been able to
-help yielding to a fancy, whatever might be the consequences.
-
-Marcel was really the only man she had ever loved. He was at any rate
-the only one for whose sake she had really suffered, and it had needed
-all the stubbornness of the instincts that attracted her to all that
-glittered and jingled to make her leave him. She was twenty, and for her
-luxury was almost a matter of existence. She might do without it for a
-time, but she could not give it up completely. Knowing her inconstancy,
-she had never consented to padlock her heart with an oath of fidelity.
-She had been ardently loved by many young fellows for whom she had
-herself felt a strong fancy, and she had always acted towards them with
-far-sighted probity; the engagements into which she entered were simple,
-frank and rustic as the love-making of Moliere's peasants. "You want me
-and I should like you too, shake hands on it and let us enjoy
-ourselves." A dozen times if she had liked Musette could have secured a
-good position, which is termed a future, but she did not believe in the
-future and professed the scepticism of Figaro respecting it.
-
-"Tomorrow," she sometimes remarked, "is an absurdity of the almanac, it
-is a daily pretext that men have invented in order to put off their
-business today. Tomorrow may be an earthquake. Today, at any rate, we
-are on solid ground."
-
-One day a gentleman with whom she had stayed nearly six months, and who
-had become wildly in love with her, seriously proposed marriage.
-Musette burst out laughing in his face at this offer.
-
-"I imprison my liberty in the bonds of matrimony? Never," said she.
-
-"But I pass my time in trembling with fear of losing you."
-
-"It would be worse if I were your wife. Do not let us speak about that
-any more. Besides, I am not free," she added, thinking no doubt of
-Marcel.
-
-Thus she passed her youth, her mind caught by every straw blown by the
-breeze of fancy, causing the happiness of a great many and almost happy
-herself. Vicomte Maurice, under whose protection she then was, had a
-great deal of difficulty in accustoming himself to her untamable
-disposition, intoxicated with freedom, and it was with jealous
-impatience that he awaited the return of Musette after having seen her
-start off to Marcel's.
-
-"Will she stay there?" he kept asking himself all the evening.
-
-"Poor Maurice," said Musette to herself on her side. "He thinks it
-rather hard. Bah! Young men must go through their training."
-
-Then her mind turning suddenly to other things, she began to think of
-Marcel to whom she was going, and while running over the recollections
-reawakened by the name of her erst adorer, asked herself by what miracle
-the table had been spread at his dwelling. She re-read, as she went
-along, the letter that the artist had written to her, and could not help
-feeling somewhat saddened by it. But this only lasted a moment. Musette
-thought aright, that it was less than ever an occasion for grieving, and
-at that moment a strong wind spring up she exclaimed:
-
-"It is funny, even if I did not want to go to Marcel's, this wind would
-blow me there."
-
-And she went on hurriedly, happy as a bird returning to its first nest.
-
-All at once snow began to fall heavy. Musette looked for a cab. She
-could not see one. As she happened to be in the very street in which
-dwelt her friend Madame Sidonie, the same who had sent on Marcel's
-letter to her, Musette decided to run in for a few minutes until the
-weather cleared up sufficiently to enable her to continue her journey.
-
-When Musette entered Madame Sidonie's rooms she found a gathering there.
-They were going on with a game of lansquenet that had lasted three
-days.
-
-"Do not disturb yourselves," said Musette. "I have only just popped in
-for a moment."
-
-"You got Marcel's letter all right?" whispered Madame Sidonie to her.
-
-"Yes, thanks," replied Musette. "I am going to his place, he has asked
-me to dinner. Will you come with me? You would enjoy yourself."
-
-"No, I can't," said Madame Sidonie, pointing to the card table. "Think
-of my rent."
-
-"There are six louis," said the banker.
-
-"I'll go two of them," exclaimed Madame Sidonie.
-
-"I am not proud, I'll start at two," replied the banker, who had already
-dealt several times. "King and ace. I am done for," he continued,
-dealing the cards. "I am done for, all the kings are out."
-
-"No politics," said a journalist.
-
-"And the ace is the foe of my family," continued the banker, who then
-turned up another king. "Long live the king! My dear Sidonie, hand me
-over two louis."
-
-"Put them down," said Sidonie, vexed at her loss.
-
-"That makes four hundred francs you owe me, little one," said the
-banker. "You would run it up to a thousand. I pass the deal."
-
-Sidonie and Musette were chatting together in a low tone. The game went
-on.
-
-At about the same time the Bohemians were sitting down to table. During
-the whole of the repast Marcel seemed uneasy. Everytime a step sounded
-on the stairs he started.
-
-"What is the matter?" asked Rodolphe of him. "One would think you were
-expecting someone. Are we not all here?"
-
-But at a look from the artist the poet understood his friend's
-preoccupation.
-
-"True," he thought, "we are not all here."
-
-Marcel's look meant Musette, Rodolphe's answering glance, Mimi.
-
-"We lack ladies," said Schaunard, all at once.
-
-"Confound it," yelled Colline, "will you hold your tongue with your
-libertine reflections. It was agreed that we should not speak of love,
-it turns the sauces."
-
-And the friends continued to drink fuller bumpers, whilst without the
-snow still fell, and on the hearth the logs flamed brightly, scattering
-sparks like fireworks.
-
-Just as Rodolphe was thundering out a song which he had found at the
-bottom of his glass, there came several knocks at the door. Marcel,
-torpid from incipient drunkenness, leaped up from his chair, and ran to
-open it. Musette was not there.
-
-A gentleman appeared on the threshold; he was not only bad looking, but
-his dressing gown was wretchedly made. In his hand he held a slip of
-paper.
-
-"I am glad to see you so comfortable," he said, looking at the table on
-which were the remains of a magnificent leg of mutton.
-
-"The landlord!" cried Rodolphe. "Let us receive him with the honors due
-to his position!" and he commenced beating on his plate with his knife
-and fork.
-
-Colline handed him a chair, and Marcel cried:
-
-"Come, Schaunard! Pass us a clean glass. You are just in time," he
-continued to the landlord, "we were going to drink to your health. My
-friend there, Monsieur Colline, was saying some touching things about
-you. As you are present, he will begin over again, out of compliment to
-you. Do begin again, Colline."
-
-"Excuse me, gentlemen," said the landlord, "I don't wish to trouble you,
-but---" and he unfolded the paper which he had in his hand.
-
-"What's the document?" asked Marcel.
-
-The landlord, who had cast an inquisitive glance around the room,
-perceived some gold on the chimney piece.
-
-"It is your receipt," he said hastily, "which I had the honor of
-sending you once already."
-
-"My faithful memory recalls the circumstance," replied the artist. "It
-was on Friday, the eighth of the month, at a quarter past twelve."
-
-"It is signed, you see, in due form," said the landlord, "and if it is
-agreeable to you--"
-
-"I was intending to call upon you," interrupted Marcel. "I have a great
-deal to talk to you about."
-
-"At your service."
-
-"Oblige me by taking something," continued the painter, forcing a glass
-of wine on the landlord. "Now, sir," he continued, "you sent me lately a
-little paper, with a picture of a lady and a pair of scales on it. It
-was signed Godard."
-
-"The lawyer's name."
-
-"He writes a very bad hand; I had to get my friend here, who understands
-all sorts of hieroglyphics and foreign languages,"--and he pointed to
-Colline--"to translate it for me."
-
-"It was a notice to quit; a precautionary measure, according to the rule
-in such cases."
-
-"Exactly. Now I wanted to have a talk with you about this very notice,
-for which I should like to substitute a lease. This house suits me. The
-staircase is clean, the street gay, and some of my friends live near; in
-short, a thousand reasons attach me to these premises."
-
-"But," and the landlord unfolded his receipt again, "there is that last
-quarter's rent to pay."
-
-"We shall pay it, sir. Such is our fixed intention."
-
-Nevertheless, the landlord kept his eye glued to the money on the
-mantelpiece and such was the steady pertinacity of his gaze that the
-coins seemed to move towards him of themselves.
-
-"I am happy to have come at a time when, without inconveniencing
-yourself, you can settle this little affair," he said, again producing
-his receipt to Marcel, who, not being able to parry the assault, again
-avoided it.
-
-"You have some property in the provinces, I think," he said.
-
-"Very little, very little. A small house and farm in Burgundy; very
-trifling returns; the tenants pay so badly, and therefore," he added,
-pushing forward his receipt again, "this small sum comes just in time.
-Sixty francs, you know."
-
-"Yes," said Marcel, going to the mantelpiece and taking up three pieces
-of gold. "Sixty, sixty it is," and he placed the money on the table just
-out of the landlord's reach.
-
-"At last," thought the latter. His countenance lighted up, and he too
-laid down his receipt on the table.
-
-Schaunard, Colline, and Rodolphe looked anxiously on.
-
-"Well, sir," quoth Marcel, "since you are a Burgundian, you will not be
-sorry to see a countryman of yours." He opened a bottle of old Macon,
-and poured out a bumper.
-
-"Ah, perfect!" said the landlord. "Really, I never tasted better."
-
-"An uncle of mine who lives there, sends me a hamper or two
-occasionally."
-
-The landlord rose, and was stretching out his hand towards the money,
-when Marcel stopped him again.
-
-"You will not refuse another glass?" said he, pouring one out.
-
-The landlord did not refuse. He drank the second glass, and was once
-more attempting to possess himself of the money, when Marcel called out:
-
-"Stop! I have an idea. I am rather rich just now, for me. My uncle in
-Burgundy has sent me something over my usual allowance. Now I may spend
-this money too fast. Youth has so many temptations, you know. Therefore,
-if it is all the same to you, I will pay a quarter in advance." He took
-sixty francs in silver and added them to the three louis which were on
-the table.
-
-"Then I will give you a receipt for the present quarter," said the
-landlord. "I have some blank ones in my pocketbook. I will fill it up
-and date it ahead. After all," thought he, devouring the hundred and
-twenty francs with his eyes, "this tenant is not so bad."
-
-Meanwhile, the other three Bohemians, not understanding Marcel's
-diplomacy, remained utterly stupefied.
-
-"But this chimney smokes, which is very disagreeable."
-
-"Why didn't you tell me before? I will send the workmen in tomorrow,"
-answered the landlord, not wishing to be behindhand in this contest of
-good offices. He filled up the second receipt, pushed the two over to
-Marcel, and stretched out his hand once more towards the heap of money.
-"You don't know how timely this sum comes in," he continued, "I have to
-pay some bills for repairs, and was really quite short of cash."
-
-"Very sorry to have made you wait."
-
-"Oh, it's no matter now! Permit me."--and out went his hand again.
-
-"Permit me," said Marcel. "We haven't finished with this yet. You know
-the old saying, 'when the wine is drawn--'" and he filled the landlord's
-glass a third time.
-
-"One must drink it," remarked the other, and he did so.
-
-"Exactly," said the artist, with a wink at his friends, who now
-understood what he was after.
-
-The landlord's eyes began to twinkle strangely. He wriggled on his
-chair, began to talk loosely, in all senses of the word, and promised
-Marcel fabulous repairs and embellishments.
-
-"Bring up the big guns," said the artist aside to the poet. Rodolphe
-passed along a bottle of rum.
-
-After the first glass the landlord sang a ditty, which absolutely made
-Schaunard blush.
-
-After the second, he lamented his conjugal infelicity. His wife's name
-being Helen, he compared himself to Menelaus.
-
-After the third, he had an attack of philosophy, and threw up such
-aphorisms as these:
-
-"Life is a river."
-
-"Happiness depends not on wealth."
-
-"Man is a transitory creature."
-
-"Love is a pleasant feeling."
-
-Finally, he made Schaunard his confidant, and related to him how he had
-"Put into mahogany" a damsel named Euphemia. Of this young person and
-her loving simplicity he drew so detailed a portrait, that Schaunard
-began to be assailed by a fearful suspicion, which suspicion was reduced
-to a certainty when the landlord showed him a letter.
-
-"Cruel woman!" cried the musician, as he beheld the signature. "It is
-like a dagger in my heart."
-
-"What is the matter!" exclaimed the Bohemians, astonished at this
-language.
-
-"See," said Schaunard, "this letter is from Phemie. See the blot that
-serves her for a signature."
-
-And he handed round the letter of his ex-mistress, which began with the
-words, "My dear old pet."
-
-"I am her dear old pet," said the landlord, vainly trying to rise from
-his chair.
-
-"Good," said Marcel, who was watching him. "He has cast anchor."
-
-"Phemie, cruel Phemie," murmured Schaunard. "You have wounded me
-deeply."
-
-"I have furnished a little apartment for her at 12, Rue Coquenard," said
-the landlord. "Pretty, very pretty. It cost me lots of money. But such
-love is beyond price and I have twenty thousand francs a year. She asks
-me for money in her letter. Poor little dear, she shall have this," and
-he stretched out his hand for the money--"hallo! Where is it?" he added
-in astonishment feeling on the table. The money had disappeared.
-
-"It is impossible for a moral man to become an accomplice in such
-wickedness," said Marcel. "My conscience forbids me to pay money to this
-old profligate. I shall not pay my rent, but my conscience will at any
-rate be clear. What morals, and in a bald headed man too."
-
-By this time the landlord was completely gone, and talked at random to
-the bottles. He had been there nearly two hours, when his wife, alarmed
-at his prolonged absence, sent the maid after him. On seeing her master
-in such a state, she set up a shriek, and asked, "what are they doing
-to him?"
-
-"Nothing," answered Marcel. "He came a few minutes ago to ask for the
-rent. As we had no money we begged for time."
-
-"But he's been and got drunk," said the servant.
-
-"Very likely," replied Rodolphe. "Most of that was done before he came
-here. He told us that he had been arranging his cellar."
-
-"And he had so completely lost his head," added Colline, "that he
-wanted to leave the receipt without the money."
-
-"Give these to his wife," said Marcel, handing over the receipts. "We
-are honest folk, and do not wish to take advantage of his condition."
-
-"Good heavens! What will madame say?" exclaimed the maid, leading, or
-rather dragging off her master, who had a very imperfect idea of the use
-of his legs.
-
-"So much for him!" ejaculated Marcel.
-
-"He has smelt money," said Rodolphe. "He will come again tomorrow."
-
-"When he does, I will threaten to tell his wife about Phemie and he will
-give us time enough."
-
-When the landlord had been got outside, the four friends went on smoking
-and drinking. Marcel alone retained a glimmer of lucidity in his
-intoxication. From time to time, at the slightest sound on the
-staircase, he ran and opened the door. But those who were coming up
-always halted at one of the lower landings, and then the artist would
-slowly return to his place by the fireside. Midnight struck, and Musette
-had not come.
-
-"After all," thought Marcel, "perhaps she was not in when my letter
-arrived. She will find it when she gets home tonight, and she will come
-tomorrow. We shall still have a fire. It is impossible for her not to
-come. Tomorrow."
-
-And he fell asleep by the fire.
-
-At the very moment that Marcel fell asleep dreaming of her, Mademoiselle
-Musette was leaving the residence of her friend Madame Sidonie, where
-she had been staying up till then. Musette was not alone, a young man
-accompanied her. A carriage was waiting at the door. They got into it
-and went off at full speed.
-
-The game at lansquenet was still going on in Madame Sidonie's room.
-
-"Where is Musette?" said someone all at once.
-
-"Where is young Seraphin?" said another.
-
-Madame Sidonie began to laugh.
-
-"They had just gone off together," said she. "It is a funny story. What
-a strange being Musette is. Just fancy...." And she informed the company
-how Musette, after almost quarreling with Vicomte Maurice and starting
-off to find Marcel, had stepped in there by chance and met with young
-Seraphin.
-
-"I suspected something was up," she continued. "I had an eye on them all
-the evening. He is very sharp, that youngster. In short, they have gone
-off on the quiet, and it would take a sharp one to catch them up. All
-the same, it is very funny when one thinks how fond Musette is of her
-Marcel."
-
-"If she is so fond of him, what is the use of Seraphin, almost a lad,
-and who had never had a mistress?" said a young fellow.
-
-"She wants to teach him to read, perhaps," said the journalist, who was
-very stupid when he had been losing.
-
-"All the same," said Sidonie, "what does she want with Seraphin when she
-is in love with Marcel? That is what gets over me."
-
-       *       *       *       *       *
-
-For five days the Bohemians went on leading the happiest life in the
-world without stirring out. They remained at table from morning till
-night. An admired disorder reigned in the room which was filled with a
-Pantagruelic atmosphere. On a regular bed of oyster shells reposed an
-army of empty bottles of every size and shape. The table was laden with
-fragments of every description, and a forest of wood blazed in the
-fireplace.
-
-On the sixth day Colline, who was director of ceremonies, drew up, as
-was his wont every morning, the bill of fare for breakfast, lunch,
-dinner, and supper, and submitted it to the approval of his friends, who
-each initialed it in token of approbation.
-
-But when Colline opened the drawer that served as a cashbox, in order to
-take the money necessary for the day's consumption, he started back and
-became as pale as Banquo's ghost.
-
-"What is the matter?" inquired the others, carelessly.
-
-"The matter is that there are only thirty sous left," replied the
-philosopher.
-
-"The deuce. That will cause some modification in our bill of fare.
-Well, thirty sous carefully laid out--. All the same it will be
-difficult to run to truffles," said the others.
-
-A few minutes later the table was spread. There were three dishes most
-symmetrically arranged--a dish of herrings, a dish of potatoes, and a
-dish of cheese.
-
-On the hearth smoldered two little brands as big as one's fist.
-
-Snow was still falling without.
-
-The four Bohemians sat down to table and gravely unfolded their napkins.
-
-"It is strange," said Marcel, "this herring has a flavor of pheasant."
-
-"That is due to the way in which I cooked it," replied Colline. "The
-herring has never been properly appreciated."
-
-At that moment a joyous song rose on the staircase, and a knock came at
-the door. Marcel, who had not been able to help shuddering, ran to open
-it.
-
-Musette threw her arms round his neck and held him in an embrace for
-five minutes. Marcel felt her tremble in his arms.
-
-"What is the matter?" he asked.
-
-"I am cold," said Musette, mechanically drawing near the fireplace.
-
-"Ah!" said Marcel. "And we had such a rattling good fire."
-
-"Yes," said Musette, glancing at the remains of the five days'
-festivity, "I have come too late."
-
-"Why?" said Marcel.
-
-"Why?" said Musette, blushing slightly.
-
-She sat down on Marcel's knee. She was still shivering, and her hands
-were blue.
-
-"You were not free, then," whispered Marcel.
-
-"I, not free!" exclaimed the girl. "Ah Marcel! If I were seated amongst
-the stars in Paradise and you made me a sign to come down to you I
-should do so. I, not free!"
-
-She began to shiver again.
-
-"There are five chairs here," said Rodolphe, "which is an odd number,
-without reckoning that the fifth is of a ridiculous shape."
-
-And breaking the chair against the wall, he threw the fragments into the
-fireplace. The fire suddenly burst forth again in a bright and merry
-flame, then making a sign to Colline and Schaunard, the poet took them
-off with him.
-
-"Where are you going?" asked Marcel.
-
-"To buy some tobacco," they replied.
-
-"At Havana," added Schaunard, with a sign of intelligence to Marcel, who
-thanked him with a look.
-
-"Why did you not come sooner?" he asked Musette when they were alone
-together.
-
-"It is true, I am rather behindhand."
-
-"Five days to cross the Pont Neuf. You must have gone round by the
-Pyrenees?"
-
-Musette bowed her head and was silent.
-
-"Ah, naughty girl," said the artist, sadly tapping his hand lightly on
-his mistress' breast, "what have you got inside here?"
-
-"You know very well," she retorted quickly.
-
-"But what have you been doing since I wrote to you?"
-
-"Do not question me," said Musette, kissing him several times. "Do not
-ask me anything, but let me warm myself beside you. You see I put on my
-best dress to come. Poor Maurice, he could not understand it when I set
-off to come here, but it was stronger than myself, so I started. The
-fire is nice," she added, holding out her little hand to the flames, "I
-will stay with you till tomorrow if you like."
-
-"It will be very cold here," said Marcel, "and we have nothing for
-dinner. You have come too late," he repeated.
-
-"Ah, bah!" said Musette. "It will be all the more like old times."
-
-       *       *       *       *       *
-
-Rodolphe, Colline, and Schaunard, took twenty-four hours to get their
-tobacco. When they returned to the house Marcel was alone.
-
-After an absence of six days Vicomte Maurice saw Musette return.
-
-He did not in any way reproach her, and only asked her why she seemed
-sad.
-
-"I quarreled with Marcel," said she. "We parted badly."
-
-"And yet, who knows," said Maurice. "But you will again return to him."
-
-"What would you?" asked Musette. "I need to breathe the air of that life
-from time to time. My life is like a song, each of my loves is a verse,
-but Marcel is the refrain."
-
-
-
-
-CHAPTER XX
-
-Mimi In Fine Feather
-
-
-"No, no, no, you are no longer Lisette! No, no, no, you are no longer
-Mimi. You are today, my lady the viscomtess, the day after tomorrow you
-may, perhaps, be your grace the duchess; the doorway of your dreams has
-at length been thrown wide open before you, and you have passed through
-it victorious and triumphant. I felt certain you would end up by doing
-so, some night or other. It was bound to be; besides, your white hands
-were made for idleness, and for a long time past have called for the
-ring of some aristocratic alliance. At length you have a coat of arms.
-But, we still prefer the one which youth gave to your beauty, when your
-blue eyes and your pale face seemed to quarter azure on a lily field.
-Noble or serf, you are ever charming, and I readily recognized you when
-you passed by in the street the other evening, with rapid and well-shod
-foot, aiding the wind with your gloved hand in lifting the skirts of
-your new dress, partly in order not to let it be soiled, but a great
-deal more in order to show your embroidered petticoats and open-worked
-stockings. You had on a wonderful bonnet, and even seemed plunged in
-deep perplexity on the subject of the veil of costly lace which floated
-over this bonnet. A very serious trouble indeed, for it was a question
-of deciding which was best and most advantageous to your coquetry, to
-wear this veil up or down. By wearing it down, you risked not being
-recognized by those of your friends whom you might meet, and who
-certainly would have passed by you ten times without suspecting that
-this costly envelope hid Mademoiselle Mimi. On the other hand, by
-wearing this veil up, it was it that risked escaping notice, and in that
-case, what was the good of having it? You had cleverly solved the
-difficulty by alternately raising and lowering at every tenth step; this
-wonderful tissue, woven no doubt, in that country of spiders, called
-Flanders, and which of itself cost more than the whole of your former
-wardrobe."
-
-"Ah, Mimi! Forgive me--I should say, ah, vicomtess! I was quite right,
-you see, when I said to you: 'Patience, do not despair, the future is
-big with cashmere shawls, glittering jewels, supper parties, and the
-like.' You would not believe me, incredulous one. Well, my predictions
-are, however, realized, and I am worth as much, I hope, as your 'Ladies'
-Oracle,' a little octavo sorcerer you bought for five sous at a
-bookstall on the Pont Neuf, and which you wearied with external
-questions. Again, I ask, was I not right in my prophecies; and would you
-believe me now, if I tell you that you will not stop at this? If I told
-you that listening, I can hear faintly in the depths of your future,
-the tramp and neighing of the horses harnessed to blue brougham, driven
-by a powdered coachmen, who lets down the steps, saying, 'Where to
-madam?' Would you believe me if I told you, too, that later on--ah, as
-late as possible, I trust--attaining the object of a long cherished
-ambition, you will have a table d'hote at Belleville Batignolles, and
-will be courted by the old soldiers and bygone dandies who will come
-there to play lansquenet or baccarat on the sly? But, before arriving at
-this period, when the sun of your youth shall have already declined,
-believe me, my dear child, you will wear out many yards of silk and
-velvet, many inheritances, no doubt, will be melted down in the
-crucibles of your fancies, many flowers will fade about your head, many
-beneath your feet, and you will change your coat of arms many times. On
-your head will glitter in turn the coronets of baroness, countess, and
-marchioness, you will take for your motto, 'Inconstancy,' and you will,
-according to caprice or to necessity, satisfy each in turn, or even all
-at once, all the numerous adorers who will range themselves in the
-ante-chamber of your heart as people do at the door of a theater at
-which a popular piece is being played. Go on then, go straight onward,
-your mind lightened of recollections which have been replaced by
-ambition; go, the road is broad, and we hope it will long be smooth to
-your feet, but we hope, above all, that all these sumptuosities, these
-fine toilettes, may not too soon become the shroud in which your
-liveliness will be buried."
-
-Thus spoke the painter Marcel to Mademoiselle Mimi, whom he had met
-three or four days after her second divorce from the poet Rodolphe.
-Although he was obliged to veil the raillery with which he besprinkled
-her horoscope, Mademoiselle Mimi was not the dupe of Marcel's fine
-words, and understood perfectly well that with little respect for her
-new title, he was chaffing her to bits.
-
-"You are cruel towards me, Marcel," said Mademoiselle Mimi, "it is
-wrong. I was always very friendly with you when I was Rodolphe's
-mistress, and if I have left him, it was, after all, his fault. It was
-he who packed me off in a hurry, and, besides, how did he behave to me
-during the last few days I spent with him. I was very unhappy, I can
-tell you. You do not know what a man Rodolphe was; a mixture of anger
-and jealousy, who killed me by bits. He loved me, I know, but his love
-was as dangerous as a loaded gun. What a life I led for six months. Ah,
-Marcel! I do not want to make myself out better than I am, but I
-suffered a great deal with Rodolphe; you know it too, very well. It is
-not poverty that made me leave him, no I assure you I had grown
-accustomed to it, and I repeat it was he who sent me away. He trampled
-on my self-esteem; he told me that he no longer loved me; that I must
-get another lover. He even went so far as to indicate a young man who
-was courting me, and by his taunts, he served to bring me and this
-young man together. I went with him as much out of spite as from
-necessity, for I did not love him. You know very well yourself that I do
-not care for such very young fellows. They are as wearisome and
-sentimental as harmonicas. Well, what is done is done. I do not regret
-it, and I would do the same over again. Now that he no longer has me
-with him, and knows me to be happy with another, Rodolphe is furious and
-very unhappy. I know someone who met him the other day; his eyes were
-quite red. That does not astonish me. I felt quite sure it would come to
-this, and that he would run after me, but you can tell him that he will
-only lose his time, and that this time it is quite in earnest and for
-good. Is it long since you saw him, Marcel and is it true that he is
-much altered?" inquired Mimi in quite another tone.
-
-"He is greatly altered indeed," replied Marcel.
-
-"He is grieving, that is certain, but what am I to do? So much the worse
-for him, he would have it so. It had to come to an end somehow. Try to
-console him."
-
-"Oh!" answered Marcel quickly. "The worst of the job is over. Do not
-disturb yourself about it, Mimi."
-
-"You are not telling the truth, my dear fellow," said Mimi, with an
-ironical little pout. "Rodolphe will not be so quickly consoled as all
-that. If you knew what a state he was in the night before I left. It was
-a Friday, I would not stay that night at my new lover's because I am
-superstitious, and Friday is an unlucky day."
-
-"You are wrong, Mimi, in love affairs Friday is a lucky day; the
-ancients called it Dies Veneris."
-
-"I do not know Latin," said Mademoiselle Mimi, continuing her narration.
-"I was coming back then from Paul's and found Rodolphe waiting for me in
-the street. It was late, past midnight, and I was hungry for I had had
-no dinner. I asked Rodolphe to go and get something for supper. He came
-back half an hour later, he had run about a great deal to get nothing
-worth speaking of, some bread, wine, sardines, cheese, and an apple
-tart. I had gone to bed during his absence, and he laid the table beside
-the bed. I pretended not to notice him, but I could see him plainly, he
-was pale as death. He shuddered and walked about the room like a man who
-does not know what he wants to do. He noticed several packages of
-clothes on the floor in one corner. The sight of them seemed to annoy
-him, and he placed the screen in front of them in order not to see them.
-When all was ready we began to sup, he tried to make me drink, but I was
-no longer hungry or thirsty, and my heart was quite full. He was cold,
-for we had nothing to make a fire of, and one could hear the wind
-whistling in the chimney. It was very sad. Rodolphe looked at me, his
-eyes were fixed; he put his hand in mine and I felt it tremble, it was
-burning and icy all at once. 'This is the funeral supper of our loves,'
-he said to me in a low tone. I did not answer, but I had not the courage
-to withdraw my hand from his. 'I am sleepy,' said I at last, 'it is
-late, let us go to sleep.' Rodolphe looked at me. I had tied one of his
-handkerchiefs about my head on account of the cold. He took it off
-without saying a word. 'Why do you want to take that off?' said I. 'I am
-cold.' 'Oh, Mimi!' said he. 'I beg of you, it will not matter to you, to
-put on your little striped cap for tonight.' It was a nightcap of
-striped cotton, white and brown. Rodolphe was very fond of seeing me in
-this cap, it reminded him of several nights of happiness, for that was
-how we counted our happy days. When I thought it was the last time that
-I should sleep beside him I dared not refuse to satisfy this fancy of
-his. I got up and hunted out my striped cap that was at the bottom of
-one of my packages."
-
-"Out of forgetfulness I forgot to replace the screen. Rodolphe noticed
-it and hid the packages just as he had already done before. 'Good
-night,' said he. 'Good night,' I answered. I thought that he was going
-to kiss me and I should not have hindered him, but he only took my hand,
-which he carried to his lips. You know, Marcel, how fond he was of
-kissing my hands. I heard his teeth chatter and I felt his body as cold
-as marble. He still held my hand and he laid his head on my shoulder,
-which was soon quite wet. Rodolphe was in a fearful state. He bit the
-sheets to avoid crying out, but I could plainly hear his stifled sobs
-and I still felt his tears flowing on my shoulder, which was first
-scalded and then chilled. At that moment I needed all my courage and I
-did need it, I can tell you. I had only to say a word, I had only to
-turn my head, and my lips would have met those of Rodolphe, and we
-should have made it up once more. Ah! For a moment I really thought that
-he was going to die in my arms, or that, at least, he would go mad, as
-he almost did once before, you remember? I felt I was going to yield, I
-was going to recant first, I was going to clasp him in my arms, for
-really one must have been utterly heartless to remain insensible to such
-grief. But I recollected the words he had said to me the day before,
-'You have no spirit if you stay with me, for I no longer love you,' Ah!
-As I recalled those bitter words I would have seen Rodolphe ready to
-die, and if it had only needed a kiss from me to save him, I would have
-turned away my lips and let him perish."
-
-"At last, overcome by fatigue, I sank into a half-sleep. I could still
-hear Rodolphe sobbing, and I can swear to you, Marcel, that this sobbing
-went on all night long, and that when day broke and I saw in the bed, in
-which I had slept for the last time, the lover whom I was going to
-leave for another's arms, I was terribly frightened to see the havoc
-wrought by this grief on Rodolphe's face. He got up, like myself,
-without saying a word, and almost fell flat at the first steps he took,
-he was so weak and downcast. However, he dressed himself very quickly,
-and only asked me how matters stood and when I was going to leave. I
-told him that I did not know. He went off without bidding goodbye or
-shaking hands. That is how we separated. What a blow it must have been
-to his heart no longer to find me there on coming home, eh?"
-
-"I was there when Rodolphe came in," said Marcel to Mimi, who was out of
-breath from speaking so long. "As he was taking his key from the
-landlady, she said, 'The little one has left.' 'Ah!' replied Rodolphe.
-'I am not astonished, I expected it.' And he went up to his room,
-whither I followed him, fearing some crisis, but nothing occurred. 'As
-it is too late to go and hire another room this evening we will do so
-tomorrow morning,' said he, 'we will go together. Now let us see after
-some dinner.' I thought that he wanted to get drunk, but I was wrong. We
-dined very quietly at a restaurant where you have sometimes been with
-him. I had ordered some Beaune to stupefy Rodolphe a bit. 'This was
-Mimi's favorite wine,' said he, 'we have often drunk it together at this
-very table. I remember one day she said to me, holding out her glass,
-which she had already emptied several times, 'Fill up again, it is good
-for one's bones.' A poor pun, eh? Worthy, at the most, of the mistress
-of a farce writer. Ah! She could drink pretty fairly.'"
-
-"Seeing that he was inclined to stray along the path of recollection I
-spoke to him about something else, and then it was no longer a question
-of you. He spent the whole evening with me and seemed as calm as the
-Mediterranean. But what astonished me most was, that this calmness was
-not at all affected. It was genuine indifference. At midnight we went
-home. 'You seem surprised at my coolness in the position in which I find
-myself,' said he to me, 'well, let me point out a comparison to you, my
-dear fellow, it if is commonplace it has, at least, the merit of being
-accurate. My heart is like a cistern the tap of which has been turned
-on all night, in the morning not a drop of water is left. My heart is
-really the same, last night I wept away all the tears that were left me.
-It is strange, but I thought myself richer in grief, and yet by a single
-night of suffering I am ruined, cleaned out. On my word of honor it is
-as I say. Now, in the very bed in which I all but died last night beside
-a woman who was no more moved than a stone, I shall sleep like a deck
-laborer after a hard day's work, while she rests her head on the pillow
-of another.' 'Hambug,' I thought to myself. 'I shall no sooner have left
-him than he will be dashing his head against the wall.' However, I left
-Rodolphe alone and went to my own room, but I did not go to bed. At
-three in the morning I thought I heard a noise in Rodolphe's room and I
-went down in a hurry, thinking to find him in a desperate fever."
-
-"Well?" said Mimi.
-
-"Well my dear, Rodolphe was sleeping, the bed clothes were quite in
-order and everything proved that he had soon fallen asleep, and that his
-slumbers had been calm."
-
-"It is possible," said Mimi, "he was so worn out by the night before,
-but the next day?"
-
-"The next day Rodolphe came and roused me up early and we went and took
-rooms in another house, into which we moved the same evening."
-
-"And," asked Mimi, "what did he do on leaving the room we had occupied,
-what did he say on abandoning the room in which he had loved me so?"
-
-"He packed up his things quietly," replied Marcel, "and as he found in a
-drawer a pair of thread gloves you had forgotten, as well as two or
-three of your letters--"
-
-"I know," said Mimi in a tone which seemed to imply, "I forgot them on
-purpose so that he might have some souvenir of me left! What did he do
-with them?" she added.
-
-"If I remember rightly," said Marcel, "he threw the letters into the
-fireplace and the gloves out of the window, but without any theatrical
-effort, and quite naturally, as one does when one wants to get rid of
-something useless."
-
-"My dear Monsieur Marcel, I assure you that from the bottom of my heart
-I hope that this indifference may last. But, once more in all sincerity,
-I do not believe in such a speedy cure and, in spite of all you tell me,
-I am convinced that my poet's heart is broken."
-
-"That may be," replied Marcel, taking leave of Mimi, "but unless I may
-be very much mistaken, the pieces are still good for something."
-
-During this colloquy in a public thoroughfare, Vicomte Paul was awaiting
-his new mistress, who was behindhand in her appointment, and decidedly
-disagreeable towards him. He seated himself at her feet and warbled his
-favorite strain, namely, that she was charming, fair as a lily, gentle
-as a lamb, but that he loved her above all on account of the beauties of
-her soul.
-
-"Ah!" thought Mimi, loosening the waves of her dark hair over her snowy
-shoulders, "my lover Rodolphe, was not so exclusive."
-
-As Marcel had stated, Rodolphe seemed to be radically cured of his love
-for Mademoiselle Mimi, and three or four days after his separation, the
-poet reappeared completely metamorphosed. He was attired with an
-elegance that must have rendered him unrecognizable by his very looking
-glass. Nothing, indeed, about him seemed to justify the fear that he
-intended to commit suicide, as Mademoiselle Mimi had started the rumor,
-with all kinds of hypocritical condolences. Rodolphe was, in fact, quite
-calm. He listened with unmoved countenance to all the stories told him
-about the new and sumptuous existence led by his mistress--who took
-pleasure in keeping him informed on these points--by a young girl who
-had remained her confidant, and who had occasion to see Rodolphe almost
-every evening.
-
-"Mimi is very happy with Vicomte Paul," the poet was told. "She seems
-thoroughly smitten with him, only one thing causes her any uneasiness,
-she is afraid least you should disturb her tranquillity by coming after
-her, which by the way, would be dangerous for you, for the vicomte
-worships his mistress and is a good fencer."
-
-"Oh," said Rodolphe. "She can sleep in peace, I have no wish to go and
-cast vinegar over the sweetness of her honeymoon. As to her young
-lover, he can leave his dagger at home like Gastibelza. I have no wish
-to attempt the life of a young gentleman who has still the happiness of
-being nursed by illusions."
-
-As they did not fail to carry back to Mimi the way in which her ex-lover
-received all these details, she on her part did not forget to reply,
-shrugging her shoulders:
-
-"That is all very well, you will see what will come of it in a day or
-two."
-
-However, Rodolphe was himself, and more than any one else, astonished at
-this sudden indifference which, without passing through the usual
-transitions of sadness and melancholy, had followed the stormy feelings
-by which he had been stirred only a few days before. Forgetfulness, so
-slow to come--above all for the virtues of love--that forgetfulness
-which they summon so loudly and repulse with equal loudness when they
-feel it approaching, that pitiless consoler that had all at once, and
-without his being able to defend himself from it, invaded Rodolphe's
-heart, and the name of the woman he so dearly loved could now be heard
-without awakening any echo in it. Strange fact; Rodolphe, whose memory
-was strong enough to recall to mind things that had occurred in the
-farthest days of his past and beings who had figured in or influenced
-his most remote existence--Rodolphe could not, whatever efforts he might
-make, recall with clearness after four days' separation, the features of
-that mistress who had nearly broken his life between her slender
-fingers. He could no longer recall the softness of the eyes by the light
-of which he had so often fallen asleep. He could no longer remember the
-notes of that voice whose anger and whose caressing utterances had
-alternately maddened him. A poet, who was a friend of his, and who had
-not seen him since his absence, met him one evening. Rodolphe seemed
-busy and preoccupied, he was walking rapidly along the street, twirling
-his cane.
-
-"Hallo," said the poet, holding out his hand, "so here you are," and he
-looked curiously at Rodolphe. Seeing that the latter looked somewhat
-downcast he thought it right to adopt a consoling tone.
-
-"Come, courage, my dear fellow. I know that it is hard, but then it must
-always have come to this. Better now than later on; in three months you
-will be quite cured."
-
-"What are you driving at?" said Rodolphe. "I am not ill, my dear
-fellow."
-
-"Come," said the other, "do not play the braggart. I know the whole
-story and if I did not, I could read it in your face."
-
-"Take care, you are making a mistake," said Rodolphe, "I am very much
-annoyed this evening, it is true, but you have not exactly hit on the
-cause of my annoyance."
-
-"Good, but why defend yourself? It is quite natural. A connection that
-has lasted a couple of years cannot be broken off so readily."
-
-"Everyone tells me the same thing," said Rodolphe, getting impatient.
-"Well, upon my honor, you make a mistake, you and the others. I am very
-vexed, and I look like it, that is possible, but this is the reason why;
-I was expecting my tailor with a new dress coat today, and he had not
-come. That is what I am annoyed about."
-
-"Bad, bad," said the other laughing.
-
-"Not at all bad, but good on the contrary, very good, excellent in fact.
-Follow my argument and you shall see."
-
-"Come," said the poet, "I will listen to you. Just prove to me how any
-one can in reason look so wretched because a tailor has failed to keep
-his word. Come, come, I am waiting."
-
-"Well," said Rodolphe, "you know very well that the greatest effects
-spring from the most trifling causes. I ought this evening to pay a very
-important visit, and I cannot do so for want of a dress coat. Now do you
-see it?"
-
-"Not at all. There is up to this no sufficient reason shown for a state
-of desolation. You are in despair because---. You are very silly to try
-to deceive. That is my opinion."
-
-"My friend," said Rodolphe, "you are very opinionated. It is always
-enough to vex us when we miss happiness, and at any rate pleasure,
-because it is almost always so much lost for ever, and we are wrong in
-saying, 'I will make up for it another time.' I will resume; I had an
-appointment this evening with a lady. I was to meet her at a friend's
-house, whence I should, perhaps taken her home to mine, if it were
-nearer than her own, and even if it were not. At this house there was a
-party. At parties one must wear a dress coat. I have no dress coat. My
-tailor was to bring me one; he does not do so. I do not go to the party.
-I do not meet the lady who is, perhaps, met by someone else. I do not
-see her home either to my place or hers, and she is, perhaps, seen home
-by another. So as I told you, I have lost an opportunity of happiness
-and pleasure; hence I am vexed; hence I look so, and quite naturally."
-
-"Very good," said his friend, "with one foot just out of one hell, you
-want to put the other foot in another; but, my dear fellow, when I met
-you, you seemed to be waiting for some one."
-
-"So I was."
-
-"But," continued the other, "we are in the neighborhood in which your
-ex-mistress is living. What is there to prove that you were not waiting
-for her?"
-
-"Although separated from her, special reasons oblige me to live in this
-neighborhood. But, although neighbors, we are as distant as if she were
-at one pole and I at the other. Besides, at this particular moment, my
-ex-mistress is seated at her fireside taking lessons in French grammar
-from Vicomte Paul, who wishes to bring her back to the paths of virtue
-by the road of orthography. Good heavens, how he will spoil her!
-However, that regards himself, now that he is editor-in-chief of her
-happiness. You see, therefore, that your reflections are absurd, and
-that, instead of following up the half-effaced traces of my old love, I
-am on the track of my new one, who is already to some extent my
-neighbor, and will become yet more so: for I am willing to take all the
-necessary steps, and if she will take the rest, we shall not be long in
-coming to an understanding."
-
-"Really," said the poet, "are you in love again already?"
-
-"This is what it is," replied Rodolphe, "my heart resembles those
-lodgings that are advertised to let as soon as a tenant leaves them. As
-soon as one love leaves my heart, I put up a bill for another. The
-locality besides is habitable and in perfect repair."
-
-"And who is this new idol? Where and when did you make her
-acquaintance?"
-
-"Come," said Rodolphe, "let us go through things in order. When Mimi
-went away I thought that I should never be in love again in my life, and
-imagined that my heart was dead of fatigue, exhaustion, whatever you
-like. It had been beating so long and so fast, too fast, that the thing
-was probable. In short I believed it dead, quite dead, and thought of
-burying it like Marlborough. In honor of the occasion I gave a little
-funeral dinner, to which I invited some of my friends. The guests were
-to assume a melancholy air, and the bottles had crape around their
-necks."
-
-"You did not invite me."
-
-"Excuse me, but I did not know your address in that part of cloudland
-which you inhabit. One of the guests had brought a young lady, a young
-woman also abandoned a short time before by her lover. She was told my
-story. It was one of my friends who plays very nicely upon the
-violoncello of sentiment who did this. He spoke to the young widow of
-the qualities of my heart, the poor defunct whom we were about to inter,
-and invited her to drink to its eternal repose. 'Come now,' said she,
-raising her glass, 'I drink, on the contrary, to its very good health,'
-and she gave me a look, enough, as they say, to awake the dead. It was
-indeed the occasion to say so, for she had scarcely finished her toast
-than I heard my heart singing the _O Filii_ of the Resurrection. What
-would you have done in my place?"
-
-"A pretty question--what is her name?"
-
-"I do not know yet, I shall only ask her at the moment we sign our
-lease. I know very well that in the opinion of some people I have
-overstepped the legal delays, but you see I plead in my own court, and I
-have granted a dispensation. What I do know is that she brings me as a
-dowry cheerfulness, which is the health of the soul, and health which
-is the cheerfulness of the body."
-
-"Is she pretty?"
-
-"Very pretty, especially as regards her complexion; one would say that
-she made up every morning with Watteau's palate, 'She is fair, and her
-conquering glances kindle love in every heart.' As witness mine."
-
-"A blonde? You astonish me."
-
-"Yes. I have had enough of ivory and ebony; I am going in for a
-blonde," and Rodolphe began to skip about as he sang:
-
-    "Praises sing unto my sweet,
-     She is fair,
-     Yellow as the ripening wheat
-     Is her hair."
-
-"Poor Mimi," said his friend, "so soon forgotten."
-
-This name cast into Rodolphe's mirthsomeness, suddenly gave another turn
-to the conversation. Rodolphe took his friend by the arm, and related to
-him at length the causes of his rupture with Mademoiselle Mimi, the
-terrors that had awaited him when she had left; how he was in despair
-because he thought that she had carried off with her all that remained
-to him of youth and passion, and how two days later he had recognized
-his mistake on feeling the gunpowder in his heart, though swamped with
-so many sobs and tears, dry, kindle, and explode at the first look of
-love cast at him by the first woman he met. He narrated the sudden and
-imperious invasion of forgetfulness, without his even having summoned it
-in aid of his grief, and how this grief was dead and buried in the said
-forgetfulness.
-
-"Is it not a miracle?" said he to the poet, who, knowing by heart and
-from experience all the painful chapters of shattered loves, replied:
-
-"No, no, my friend, there is no more of a miracle for you than for the
-rest of us. What has happened to you has happened to myself. The women
-we love, when they become our mistresses, cease to be for us what they
-really are. We do not see them only with a lover's eyes, but with a
-poet's. As a painter throws on the shoulders of a lay figure the
-imperial purple or the star-spangled robe of a Holy Virgin, so we have
-always whole stores of glittering mantles and robes of pure white linen
-which we cast over the shoulders of dull, sulky, or spiteful creatures,
-and when they have thus assumed the garb in which our ideal loves float
-before us in our waking dreams, we let ourselves be taken in by this
-disguise, we incarnate our dream in the first corner, and address her
-in our language, which she does not understand. However, let this
-creature at whose feet we live prostrate, tear away herself the dense
-envelope beneath which we have hidden her, and reveal to us her evil
-nature and her base instincts; let her place our hands on the spot where
-her heart should be, but where nothing beats any longer, and has perhaps
-never beaten; let her open her veil, and show us her faded eyes, pale
-lips, and haggard features; we replace that veil and exclaim, 'It is not
-true! It is not true! I love you, and you, too, love me! This white
-bosom holds a heart that has all its youthfulness; I love you, and you
-love me! You are beautiful, you are young. At the bottom of all your
-vices there is love. I love you, and you love me!' Then in the end,
-always quite in the end, when, after having all very well put triple
-bandages over our eyes, we see ourselves the dupes of our mistakes, we
-drive away the wretch who was our idol of yesterday; we take back from
-her the golden veils of poesy, which, on the morrow, we again cast on
-the shoulders of some other unknown, who becomes at once an
-aureola-surrounded idol. That is what we all are--monstrous egoists--who
-love love for love's sake--you understand me? We sip the divine liquor
-from the first cup that comes to hand. 'What matter the bottle, so long
-as we draw intoxication from it?'"
-
-"What you say is as true as that two and two make four," said Rodolphe
-to the poet.
-
-"Yes," replied the latter, "it is true, and as sad as three quarters of
-the things that are true. Good night."
-
-Two days later Mademoiselle Mimi learned that Rodolphe had a new
-mistress. She only asked one thing--whether he kissed her hands as often
-as he used to kiss her own?
-
-"Quite as often," replied Marcel. "In addition, he is kissing the hairs
-of her head one after the other, and they are to remain with one another
-until he has finished."
-
-"Ah!" replied Mimi, passing her hand through her own tresses. "It was
-lucky he did not think of doing the same with me, or we should have
-remained together all our lives. Do you think it is really true that he
-no longer loves me at all?"
-
-"Humph--and you, do you still love him?"
-
-"I! I never loved him in my life."
-
-"Yes, Mimi, yes. You loved him at those moments when a woman's heart
-changes place. You loved him; do nothing to deny it; it is your
-justification."
-
-"Bah!" said Mimi, "he loves another now."
-
-"True," said Marcel, "but no matter. Later on the remembrance of you
-will be to him like the flowers that we place fresh and full of perfume
-between the leaves of a book, and which long afterwards we find dead,
-discolored, and faded, but still always preserving a vague perfume of
-their first freshness."
-
-       *       *       *       *       *
-
-One evening, when she was humming in a low tone to herself, Vicomte Paul
-said to Mimi, "What are you singing, dear?"
-
-"The funeral chant of our loves, that my lover Rodolphe has lately
-composed."
-
-And she began to sing:--
-
-    "I have not a sou now, my dear, and the rule
-     In such a case surely is soon to forget,
-     So tearless, for she who would weep is a fool,
-     You'll blot out all mem'ry of me, eh, my pet?
-
-     Well, still all the same we have spent as you know
-     Some days that were happy--and each with its night,
-     They did not last long, but, alas, here below,
-     The shortest are ever those we deem most bright."
-
-
-
-
-CHAPTER XXI
-
-Romeo and Juliet
-
-
-Attired like a fashion plate out of his paper, the "Scarf of Iris," with
-new gloves, polished boots, freshly shaven face, curled hair, waxed
-moustache, stick in hand, glass in eye, smiling, youthful, altogether
-nice looking, in such guise our friend, the poet Rodolphe, might have
-been seen one November evening on the boulevard waiting for a cab to
-take him home.
-
-Rodolphe waiting for a cab? What cataclysm had then taken place in his
-existence?
-
-At the very hour that the transformed poet was twirling his moustache,
-chewing the end of an enormous regalia, and charming the fair sex, one
-of his friends was also passing down the boulevard. It was the
-philosopher, Gustave Colline. Rodolphe saw him coming, and at once
-recognized him; as indeed, who would not who had once seen him? Colline
-as usual was laden with a dozen volumes. Clad in that immortal hazel
-overcoat, the durability of which makes one believe that it must have
-been built by the Romans, and with his head covered by his famous broad
-brimmed hat, a dome of beaver, beneath which buzzed a swarm of
-hyperphysical dreams, and which was nicknamed Mambrino's Helmet of
-Modern Philosophy, Gustave Colline was walking slowly along, chewing the
-cud of the preface of a book that had already been in the press for the
-last three months--in his imagination. As he advanced towards the spot
-where Rodolphe was standing, Colline thought for a moment that he
-recognized him, but the supreme elegance displayed by the poet threw the
-philosopher into a state of doubt and uncertainty.
-
-"Rodolphe with gloves and a walking stick. Chimera! Utopia! Mental
-aberration! Rodolphe curled and oiled; he who has not so much as Father
-Time. What could I be thinking of? Besides, at this present moment my
-unfortunate friend is engaged in lamentations, and is composing
-melancholy verses upon the departure of Mademoiselle Mimi, who, I hear,
-has thrown him over. Well, for my part, I too, regret the loss of that
-young woman. She was a dab hand at making coffee, which is the beverage
-of serious minds. But I trust that Rodolphe will console himself, and
-soon get another Kettle-holder."
-
-Colline was so delighted with his wretched joke, that he would willingly
-have applauded it, had not the stern voice of philosophy woke up within
-him, and put an energetic stop to this perversion of wit.
-
-However, as he halted close to Rodolphe, Colline was forced to yield to
-evidence. It was certainly Rodolphe, curled, gloved, and with a cane. It
-was impossible, but it was true.
-
-"Eh! Eh! By Jove!" said Colline. "I am not mistaken. It is you, I am
-certain."
-
-"So am I," replied Rodolphe.
-
-Colline began to look at his friend, imparting to his countenance the
-expression pictorially made use of by M. Lebrun, the king's painter in
-ordinary, to express surprise. But all at once he noted two strange
-articles with which Rodolphe was laden--firstly, a rope ladder, and
-secondly, a cage, in which some kind of a bird was fluttering. At this
-sight, Gustave Colline's physiognomy expressed a sentiment which
-Monsieur Lebrun, the king's painter in ordinary, forgot to depict in his
-picture of "The Passions."
-
-"Come," said Rodolphe to his friend, "I see very plainly the curiosity
-of your mind peeping out through the window of your eyes; and I am going
-to satisfy it, only, let us quit the public thoroughfare. It is cold
-enough here to freeze your questions and my answers."
-
-And they both went into a cafe.
-
-Colline's eyes remained riveted on the rope ladder as well as the cage,
-in which the bird, thawed by the atmosphere of the cafe, began to sing
-in a language unknown to Colline, who was, however, a polyglottist.
-
-"Well then," said the philosopher pointing to the rope ladder, "what is
-that?"
-
-"A connecting link between my love and me," replied Rodolphe, in lute
-like accents.
-
-"And that?" asked Colline, pointing to the bird.
-
-"That," said the poet, whose voice grew soft as the summer breeze, "is a
-clock."
-
-"Tell me without parables--in vile prose, but truly."
-
-"Very well. Have you read Shakespeare?"
-
-"Have I read him? 'To be or not to be?' He was a great philosopher. Yes,
-I have read him."
-
-"Do your remember _Romeo and Juliet_?"
-
-"Do I remember?" said Colline, and he began to recite:
-
-    "Wilt thou begone? It is not yet day,
-     It was the nightingale, and not the lark."
-
-"I should rather think I remember. But what then?"
-
-"What!" said Rodolphe, pointing to the ladder and the bird. "You do not
-understand! This is the story: I am in love, my dear fellow, in love
-with a girl named Juliet."
-
-"Well, what then?" said Colline impatiently.
-
-"This. My new idol being named Juliet, I have hit on a plan. It is to go
-through Shakespeare's play with her. In the first place, my name is no
-longer Rodolphe, but Romeo Montague, and you will oblige me by not
-calling me otherwise. Besides, in order that everyone may know it, I
-have had some new visiting cards engraved. But that is not all. I shall
-profit by the fact that we are not in Carnival time to wear a velvet
-doublet and a sword."
-
-"To kill Tybalt with?" said Colline.
-
-"Exactly," continued Rodolphe. "Finally, this ladder that you see is to
-enable me to visit my mistress, who, as it happens, has a balcony."
-
-"But the bird, the bird?" said the obstinate Colline.
-
-"Why, this bird, which is a pigeon, is to play the part of the
-nightingale, and indicate every morning the precise moment when, as I am
-about to leave her loved arms, my mistress will throw them about my neck
-and repeat to me in her sweet tones the balcony scene, 'It is not yet
-near day,' that is to say, 'It is not yet eleven, the streets are muddy,
-do not go yet, we are comfortable here.' In order to perfect the
-imitation, I will try to get a nurse, and place her under the orders of
-my beloved and I hope that the almanac will be kind enough to grant me a
-little moonlight now and then, when I scale my Juliet's balcony. What do
-you say to my project, philosopher?"
-
-"It is very fine," said Colline, "but could you also explain to me the
-mysteries of this splendid outer covering that rendered you
-unrecognizable? You have become rich, then?"
-
-Rodolphe did not reply, but made a sign to one of the waiters, and
-carelessly threw down a louis, saying:
-
-"Take for what we have had."
-
-Then he tapped his waistcoat pocket, which gave forth a jingling sound.
-
-"Have you got a bell in your pocket, for it to jingle as loud as that?"
-
-"Only a few louis."
-
-"Louis! In gold?" said Colline, in a voice choked with wonderment. "Let
-me see what they are like."
-
-After which the two friends parted, Colline to go and relate the opulent
-ways and new loves of Rodolphe, and the latter to return home.
-
-This took place during the week that had followed the second rupture
-between Rodolphe and Mademoiselle Mimi. The poet, when he had broken off
-with his mistress, felt a need of change of air and surroundings, and
-accompanied by his friend Marcel, he left the gloomy lodging house, the
-landlord of which saw both him and Marcel depart without overmuch
-regret. Both, as we have said, sought quarters elsewhere, and hired two
-rooms in the same house and on the same floor. The room chosen by
-Rodolphe was incomparably more comfortable than any he had inhabited up
-till then. There were articles of furniture almost imposing, above all a
-sofa covered with red stuff, that was intended to imitate velvet, and
-did not.
-
-There were also on the mantelpiece two china vases, painted with
-flowers, between an elaborate clock, with fearful ornamentation.
-Rodolphe put the vases in a cupboard, and when the landlord came to wind
-up the clock, begged him to do nothing of the kind.
-
-"I am willing to leave the clock on the mantel shelf," said he, "but
-only as an object of art. It points to midnight--a good hour; let it
-stick to it. The day it marks five minutes past I will move. A clock,"
-continued Rodolphe, who had never been able to submit to the imperious
-tyranny of the dial, "is a domestic foe who implacably reckons up to
-your existence hour by hour and minute by minute, and says to you every
-moment, 'Here is a fraction of your life gone.' I could not sleep in
-peace in a room in which there was one of these instruments of torture,
-in the vicinity of which carelessness and reverie are impossible. A
-clock, the hands of which stretch to your bed and prick yours whilst you
-are still plunged in the soft delights of your first awakening. A clock,
-whose voice cries to you, 'Ting, ting, ting; it is the hour for
-business. Leave your charming dream, escape from the caresses of your
-visions, and sometimes of realities. Put on your hat and boots. It is
-cold, it rains, but go about your business. It is time--ting, ting.' It
-is quite enough already to have an almanac. Let my clock remain
-paralyzed, or---."
-
-Whilst delivering this monologue he was examining his new dwelling, and
-felt himself moved by the secret uneasiness which one almost always
-feels when going into a fresh lodging.
-
-"I have noticed," he reflected, "that the places we inhabit exercise a
-mysterious influence upon our thoughts, and consequently upon our
-actions. This room is cold and silent as a tomb. If ever mirth reigns
-here it will be brought in from without, and even then it will not be
-for long, for laughter will die away without echoes under this low
-ceiling, cold and white as a snowy sky. Alas! What will my life be like
-within these four walls?"
-
-However, a few days later this room, erst so sad, was full of light, and
-rang with joyous sounds, it was the house warming, and numerous bottles
-explained the lively humor of the guests. Rodolphe allowed himself to be
-won upon by the contagious good humor of his guests. Isolated in a
-corner with a young woman who had come there by chance, and whom he had
-taken possession of, the poet was sonnetteering with her with tongue and
-hands. Towards the close of the festivities he had obtained a rendezvous
-for the next day.
-
-"Well!" said he to himself when he was alone, "the evening hasn't been
-such a bad one. My stay here hasn't begun amiss."
-
-The next day Mademoiselle Juliet called at the appointed hour. The
-evening was spent only in explanations. Juliet had learned the recent
-rupture of Rodolphe with the blue eyed girl whom he had so dearly loved;
-she knew that after having already left her once before Rodolphe had
-taken her back, and she was afraid of being the victim of a similar
-reawakening of love.
-
-"You see," said she, with a pretty little pout, "I don't at all care
-about playing a ridiculous part. I warn you that I am very forward, and
-once _mistress_ here," and she underlined by a look the meaning she gave
-to the word, "I remain, and do not give up my place."
-
-Rodolphe summoned all his eloquence to the rescue to convince her that
-her fears were without foundation, and the girl, having on her side a
-willingness to be convinced, they ended by coming to an understanding.
-Only they were no longer at an understanding when midnight struck, for
-Rodolphe wanted Juliet to stay, and she insisted on going.
-
-"No," she said to him as he persisted in trying to persuade her. "Why be
-in such a hurry? We shall always arrive in time at what we want to,
-provided you do not halt on the way. I will return tomorrow."
-
-And she returned thus every evening for a week, to go away in the same
-way when midnight struck.
-
-This delay did not annoy Rodolphe very much. In matters of love, and
-even of mere fancy, he was one of that school of travelers who prolong
-their journey and render it picturesque. The little sentimental preface
-had for its result to lead on Rodolphe at the outset further than he
-meant to go. And it was no doubt to lead him to that point at which
-fancy, ripened by the resistance opposed to it, begins to resemble love,
-that Mademoiselle Juliet had made use of this stratagem.
-
-At each fresh visit that she paid to Rodolphe, Juliet remarked a more
-pronounced tone of sincerity in what he said. He felt when she was a
-little behindhand in keeping her appointment an impatience that
-delighted her, and he even wrote her letters the language of which was
-enough to give her hopes that she would speedily become his legitimate
-mistress.
-
-When Marcel, who was his confidant, once caught sight of one of
-Rodolphe's epistles, he said to him:
-
-"Is it an exercise of style, or do you really think what you have said
-here?"
-
-"Yes, I really think it," replied Rodolphe, "and I am even a bit
-astonished at it: but it is so. I was a week back in a very sad state of
-mind. The solitude and silence that had so abruptly succeeded the storms
-and tempests of my old household alarmed me terribly, but Juliet arrived
-almost at the moment. I heard the sounds of twenty year old laughter
-ring in my ears. I had before me a rosy face, eyes beaming with smiles,
-a mouth overflowing with kisses, and I have quietly allowed myself to
-glide down the hill of fancy that might perhaps lead me on to love. I
-love to love."
-
-However, Rodolphe was not long in perceiving that it only depended upon
-himself to bring this little romance to a crisis, and it was than that
-he had the notion of copying from Shakespeare the scene of the love of
-_Romeo and Juliet_. His future mistress had deemed the notion amusing, and
-agreed to share in the jest.
-
-It was the very evening that the rendezvous was appointed for that
-Rodolphe met the philosopher Colline, just as he had bought the rope
-ladder that was to aid him to scale Juliet's balcony. The birdseller to
-whom he had applied not having a nightingale, Rodolphe replaced it by a
-pigeon, which he was assured sang every morning at daybreak.
-
-Returned home, the poet reflected that to ascend a rope ladder was not
-an easy matter, and that it would be a good thing to rehearse the
-balcony scene, if he would not in addition to the chances of a fall, run
-the risk of appearing awkward and ridiculous in the eyes of her who was
-awaiting him. Having fastened his ladder to two nails firmly driven into
-the ceiling, Rodolphe employed the two hours remaining to him in
-practicing gymnastics, and after an infinite number of attempts,
-succeeded in managing after a fashion to get up half a score of rungs.
-
-"Come, that is all right," he said to himself, "I am now sure of my
-affair and besides, if I stuck half way, 'love would lend me his
-wings.'"
-
-And laden with his ladder and his pigeon cage, he set out for the abode
-of Juliet, who lived near. Her room looked into a little garden, and had
-indeed a balcony. But the room was on the ground floor, and the balcony
-could be stepped over as easily as possible.
-
-Hence Rodolphe was completely crushed when he perceived this local
-arrangement, which put to naught his poetical project of an escalade.
-
-"All the same," said he to Juliet, "we can go through the episode of the
-balcony. Here is a bird that will arouse us tomorrow with his melodious
-notes, and warn us of the exact moment when we are to part from one
-another in despair."
-
-And Rodolphe hung up the cage beside the fireplace.
-
-The next day at five in the morning the pigeon was exact to time, and
-filled the room with a prolonged cooing that would have awakened the two
-lovers--if they had gone to sleep.
-
-"Well," said Juliet, "this is the moment to go into the balcony and bid
-one another despairing farewells--what do you think of it?"
-
-"The pigeon is too fast," said Rodolphe. "It is November, and the sun
-does not rise till noon."
-
-"All the same," said Juliet, "I am going to get up."
-
-"Why?"
-
-"I feel quite empty, and I will not hide from you the fact that I could
-very well eat a mouthfull."
-
-"The agreement that prevails in our sympathies is astonishing. I am
-awfully hungry too," said Rodolphe, also rising and hurriedly slipping
-on his clothes.
-
-Juliet had already lit a fire, and was looking in her sideboard to see
-whether she could find anything. Rodolphe helped her in this search.
-
-"Hullo," said he, "onions."
-
-"And some bacon," said Juliet.
-
-"Some butter."
-
-"Bread."
-
-Alas! That was all.
-
-During the search the pigeon, a careless optimist, was singing on its
-perch.
-
-Romeo looked at Juliet, Juliet looked at Romeo, and both looked at the
-pigeon.
-
-They did not say anything, but the fate of the pigeon-clock was settled.
-Even if he had appealed it would have been useless, hunger is such a
-cruel counsellor.
-
-Rodolphe had lit some charcoal, and was turning bacon in the spluttering
-butter with a solemn air.
-
-Juliet was peeling onions in a melancholy attitude.
-
-The pigeon was still singing, it was the song of the swan.
-
-To these lamentations was joined the spluttering of the butter in the
-stew pan.
-
-Five minutes later the butter was still spluttering, but the pigeon sang
-no longer.
-
-Romeo and Juliet grilled their clock.
-
-"He had a nice voice," said Juliet sitting down to table.
-
-"He is very tender," said Rodolphe, carving his alarum, nicely browned.
-
-The two lovers looked at one another, and each surprised a tear in the
-other's eye.
-
-Hypocrites, it was the onions that made them weep.
-
-
-
-
-CHAPTER XXII
-
-Epilogue To The Loves Of Rodolphe And Mademoiselle Mimi
-
-
-Shortly after his final rupture with Mademoiselle Mimi, who had left
-him, as may be remembered, to ride in the carriage of Vicomte Paul, the
-poet Rodolphe had sought to divert his thoughts by taking a new
-mistress.
-
-She was the same blonde for whom we have seen him masquerading as Romeo.
-But this union, which was on the one part only a matter of spite, and on
-the other one of fancy, could not last long. The girl was after all
-only a light of love, warbling to perfection the gamut of trickery,
-witty enough to note the wit of others and to make use of it on
-occasion, and with only enough heart to feel heartburn when she had
-eaten too much. Add to this unbridled self-esteem and a ferocious
-coquetry, which would have impelled her to prefer a broken leg for her
-lover rather than a flounce the less to her dress, or a faded ribbon to
-her bonnet. A commonplace creature of doubtful beauty, endowed by nature
-with every evil instinct, and yet seductive from certain points of view
-and at certain times. She was not long in perceiving that Rodolphe had
-only taken her to help him forget the absent, whom she made him on the
-contrary regret, for his old love had never been so noisy and so lively
-in his heart.
-
-One day Juliet, Rodolphe's new mistress, was talking about her lover,
-the poet, with a medical student who was courting her. The student
-replied,--
-
-"My dear child, that fellow only makes use of you as they use nitrate to
-cauterize wounds. He wants to cauterize his heart and nerve. You are
-very wrong to bother yourself about being faithful to him."
-
-"Ah, ah!" cried the girl, breaking into a laugh. "Do you really think
-that I put myself out about him?"
-
-And that very evening she gave the student a proof to the contrary.
-
-Thanks to the indiscretion of one of those officious friends who are
-unable to retain unpublished news capable of vexing you, Rodolphe soon
-got wind of the matter, and made it a pretext for breaking off with his
-temporary mistress.
-
-He then shut himself up in positive solitude, in which all the
-flitter-mice of _ennui_ soon came and nested, and he called work to his
-aid but in vain. Every evening, after wasting as much perspiration over
-the job as he did in ink, he produced a score of lines in which some old
-idea, as worn out as the Wandering Jew, and vilely clad in rags cribbed
-from the literary dust heap, danced clumsily on the tight rope of
-paradox. On reading through these lines Rodolphe was as bewildered as a
-man who sees nettles spring up in a bed in which he thought he had
-planted roses. He would then tear up the paper, on which he had just
-scattered this chaplet of absurdities, and trample it under foot in a
-rage.
-
-"Come," said he, striking himself on the chest just above the heart,
-"the cord is broken, there is nothing but to resign ourselves to it."
-
-And as for some time past a like failure followed all his attempts at
-work, he was seized with one of those fits of depression which shake the
-most stubborn pride and cloud the most lucid intellects. Nothing is
-indeed more terrible than these hidden struggles that sometimes take
-place between the self-willed artist and his rebellious art. Nothing is
-more moving than these fits of rage alternating with invocation, in turn
-supplicating or imperative, addressed to a disdainful or fugitive muse.
-
-The most violent human anguish, the deepest wounds to the quick of the
-heart, do not cause suffering approaching that which one feels in these
-hours of doubt and impatience, so frequent for those who give
-themselves up to the dangerous calling of imagination.
-
-To these violent crises succeeded painful fits of depression. Rodolphe
-would then remain for whole hours as though petrified in a state of
-stupefied immobility. His elbows upon the table, his eyes fixed upon the
-luminous patch made by the rays of the lamp falling upon the sheet of
-paper,--the battlefield on which his mind was vanquished daily, and on
-which his pen had become foundered in its attempts to pursue the
-unattainable idea--he saw slowly defile before him, like the figures of
-dissolving views with which the children are amused, fantastic pictures
-which unfolded before him the panorama of his past. It was at first the
-laborious days in which each hour marked the accomplishment of some
-task, the studious nights spent in _tete-a-tete_ with the muse who came
-to adorn with her fairy visions his solitary and patient poverty. And he
-remembered then with envy the pride of skill that intoxicated him of
-yore when he had completed the task imposed on him by his will.
-
-"Oh, nothing is equal to you!" he exclaimed. "Voluptuous fatigues of
-labor which render the mattresses of idleness so sweet. Not the
-satisfaction of self-esteem nor the feverish slumbers stifled beneath
-the heavy drapery of mysterious alcoves equals that calm and honest joy,
-that legitimate self satisfaction which work bestows on the laborer as
-a first salary."
-
-And with eyes still fixed on these visions which continued to retrace
-for him the scenes of bygone days, he once more ascended the six flights
-of stairs of all the garrets in which his adventurous existence had been
-spent, in which the Muse, his only love in those days, a faithful and
-persevering sweetheart had always followed him, living happily with
-poverty and never breaking off her song of hope. But, lo, in the midst
-of this regular and tranquil life there suddenly appears a woman's face,
-and seeing her enter the dwelling where she had been until then sole
-queen and mistress, the poet's Muse rose sadly and gave place to the
-new-comer in whom she had divined a rival. Rodolphe hesitated a moment
-between the Muse to whom his look seemed to say, "Stay," whilst a
-gesture addressed to the stranger said, "Come."
-
-And how could he repulse her, this charming creature who came to him
-armed with all the seductions of a beauty at its dawn? Tiny mouth and
-rosy lips, speaking in bold and simple language, full of coaxing
-promises. How refuse his hand to this little white one, delicately
-veined with blue, that was held out to him full of caresses? How say,
-"Get you gone," to these eighteen years, the presence of which already
-filled the home with a perfume of youth and gaiety? And then with her
-sweet voice, tenderly thrilling, she sang the cavatina of temptation so
-well. With her bright and sparkling eyes she said so clearly, "I am
-love," with her lips, where kisses nestled, "I am pleasure," with her
-whole being, in short, "I am happiness," that Rodolphe let himself be
-caught by them. And, besides, was not this young girl after all real and
-living poetry, had he not owed her his freshest inspirations, had she
-not often initiated him into enthusiasms which bore him so far afield in
-the ether of reverie that he lost sight of all things of earth? If he
-had suffered deeply on account of her, was not this suffering the
-expiation of the immense joys she had bestowed upon him? Was it not the
-ordinary vengeance of human fate which forbids absolute happiness as an
-impiety? If the law of Christianity forgives those who have much loved,
-it is because they have also much suffered, and terrestrial love never
-became a divine passion save on condition of being purified by tears. As
-one grows intoxicated by breathing the odor of faded roses, Rodolphe
-again became so by reviving in recollection that past life in which
-every day brought about a fresh elegy, a terrible drama, or a grotesque
-comedy. He went through all the phases of his strange love from their
-honeymoon to the domestic storms that had brought about their last
-rupture, he recalled all the tricks of his ex-mistress, repeated all her
-witty sayings. He saw her going to and fro about their little household,
-humming her favorite song, and facing with the same careless gaiety good
-or evil days.
-
-And in the end he arrived at the conclusion that common sense was always
-wrong in love affairs. What, indeed, had he gained by their rupture? At
-the time when he was living with Mimi she deceived him, it was true, but
-if he was aware of this it was his fault after all that he was so, and
-because he gave himself infinite pains to become aware of it, because he
-passed his time on the alert for proofs, and himself sharpened the
-daggers which he plunged into his heart. Besides, was not Mimi clever
-enough to prove to him at need that he was mistaken? And then for whose
-sake was she false to him? It was generally a shawl or a bonnet--for the
-sake of things and not men. That calm, that tranquillity which he had
-hoped for on separating from his mistress, had he found them again
-after her departure? Alas, no! There was only herself the less in the
-house. Of old his grief could find vent, he could break into abuse, or
-representations--he could show all he suffered and excite the pity of
-her who caused his sufferings. But now his grief was solitary, his
-jealousy had become madness, for formerly he could at any rate, when he
-suspected anything, hinder Mimi from going out, keep her beside him in
-his possession, and now he might meet her in the street on the arm of
-her new lover, and must turn aside to let her pass, happy no doubt, and
-bent upon pleasure.
-
-This wretched life lasted three or four months. By degrees he recovered
-his calmness. Marcel, who had undertaken a long journey to drive Musette
-out of his mind, returned to Paris, and again came to live with
-Rodolphe. They consoled one another.
-
-One Sunday, crossing the Luxembourg Gardens, Rodolphe met Mimi
-resplendently dressed. She was going to a public ball. She nodded to
-him, to which he responded by a bow. This meeting gave him a great
-shock, but his emotion was less painful than usual. He walked about for
-a little while in the gardens, and then returned home. When Marcel came
-in that evening he found him at work.
-
-"What!" said Marcel, leaning over his shoulder. "You are
-working--verses?"
-
-"Yes," replied Rodolphe cheerfully, "I believe that the machine will
-still work. During the last four hours I have once more found the go of
-bygone time, I have seen Mimi."
-
-"Ah!" said Marcel uneasily. "On what terms are you?"
-
-"Do not be afraid," said Rodolphe, "we only bowed to one another. It
-went no further than that."
-
-"Really and truly?" asked Marcel.
-
-"Really and truly. It is all over between us, I feel it; but if I can
-get to work again I forgive her."
-
-"If it is so completely finished," said Marcel, who had read through
-Rodolphe's verses, "why do you write verses about her?"
-
-"Alas!" replied the poet, "I take my poetry where I can find it."
-
-For a week he worked at this little poem. When he had finished it he
-read it to Marcel, who expressed himself satisfied with it, and who
-encouraged Rodolphe to utilize in other ways the poetical vein that had
-come back to him.
-
-"For," remarked he, "it was not worth while leaving Mimi if you are
-always to live under her shadow. After all, though," he continued,
-smiling, "instead of lecturing others, I should do well to lecture
-myself, for my heart is still full of Musette. Well, after all, perhaps
-we shall not always be young fellows in love with such imps."
-
-"Alas!" said Rodolphe, "there is no need to say in one's youth, 'Be off
-with you.'"
-
-"That is true," observed Marcel, "but there are days on which I feel I
-should like to be a respectable old fellow, a member of the Institute,
-decorated with several orders, and, having done with the Musettes of
-this circle of society; the devil fly away with me if I would return to
-it. And you," he continued, laughing, "would you like to be sixty?"
-
-"Today," replied Rodolphe, "I would rather have sixty francs."
-
-A few days later, Mademoiselle Mimi having gone into a cafe with young
-Vicomte Paul, opened a magazine, in which the verses Rodolphe had
-written on her were printed.
-
-"Good," said she, laughing at first, "here is my friend Rodolphe saying
-nasty things of me in the papers."
-
-But when she finished the verses she remained intent and thoughtful.
-Vicomte Paul guessing that she was thinking of Rodolphe, sought to
-divert her attention.
-
-"I will buy you a pair of earrings," said he.
-
-"Ah!" said Mimi, "you have money, you have."
-
-"And a Leghorn straw hat," continued the viscount.
-
-"No," said Mimi. "If you want to please me, buy me this."
-
-And she showed him the magazine in which she had just been reading
-Rodolphe's poetry.
-
-"Oh! As to that, no," said the viscount, vexed.
-
-"Very well," said Mimi coldly. "I will buy it myself with money I will
-earn. In point of fact, I would rather that it was not with yours."
-
-And for two days Mimi went back to her old flower maker's workrooms,
-where she earned enough to buy this number. She learned Rodolphe's
-poetry by heart, and, to annoy Vicomte Paul, repeated it all day long to
-her friends. The verses were as follows:
-
-            WHEN I was seeking where to pledge my truth
-            Chance brought me face to face with you one day;
-            once I offered you my heart, my youth,
-            "Do with them what you will," I dared to say.
-
-            But "what you would," was cruel, dear; alas!
-            The youth I trusted with you is no more:
-            The heart is shattered like a fallen glass,
-            And the wind sings a funeral mass
-            On the deserted chamber floor,
-            Where he who loved you ne'er may pass.
-
-            Between us now, my dear, 'tis all UP,
-            I am a spectre and a phantom you,
-            Our love is dead and buried; if you agree,
-            We'll sing around its tombstone dirges due.
-
-            But let us take an air in a low key,
-            Lest we should strain our voices, more or less;
-            Some solemn minor, free from flourishes;
-            I'll take the bass, sing you the melody.
-
-            Mi, re, mi, do, re, la,--ah! not that song!
-            Hearing the song that once you used to sing
-            My heart would palpitate--though dead so long--
-            And, at the _De Profundis_, upward spring.
-
-            Do, mi, fa, sol, mi, do,--this other brings
-            Back to the mind a valse of long ago,
-            The fife's shrill laughter mocked the sounding strings
-            That wept their notes of crystal to the bow.
-
-            Sol, do, do, si, si, la,--ah! stay your hand!
-            This is the air we sang last year in chorus,
-            With Germans shouting for their fatherland
-            In Meudon woods, while summer's moon stood o'er us.
-
-            Well, well, we will not sing nor speculate,
-            But--since we know they never more may be--
-            On our lost loves, without a grudge or hate,
-            Drop, while we smile, a final memory.
-
-            What times we had up there; do you remember?
-            When on your window panes the rain would stream,
-            And, seated by the fire, in dark December,
-            I felt your eyes inspire me many a dream.
-
-            The live coal crackled, kindling with the heat,
-            The kettle sang, melodious and sedate,
-            A music for the visionary feet
-            Of salamanders leaping in the grate:
-
-            Languid and lazy, with an unread book,
-            You scarcely tried to keep your lids apart,
-            While to my youthful love new growth I took,
-            Kissing your hands and yielding you my heart.
-
-            In merely entering one night believe,
-            One felt a scent of love and gaiety,
-            Which filled our little room from morn to eve,
-            For fortune loved our hospitality.
-
-            And winter went: then, through the open sash,
-            Spring flew, to say the year's long night was done;
-            We heard the call, and ran with impulse rash
-            In the green country side to meet the sun.
-
-            It was the Friday of the Holy Week,
-            The weather, for a wonder, mild and fair;
-            From hill to valley, and from plain to peak,
-            We wandered long, delighting in the air.
-
-            At length, exhausted by the pilgrimage,
-            We found a sort of natural divan,
-            Whence we could view the landscape, or engage
-            Our eyes in rapture on the heaven's wide span.
-
-            Hand clasped in hand, shoulder on shoulder laid,
-            With sense of something ventured, something missed,
-            Our two lips parted, each; no word was said,
-            And silently we kissed.
-
-            Around us blue-bell and shy violet
-            Their simple incense seemed to wave on high;
-            Surely we saw, with glances heavenward set,
-            God smiling from his azure balcony.
-
-            "Love on!" he seemed to say, "I make more sweet
-            The road of life you are to wander by,
-            Spreading the velvet moss beneath your feet;
-            Kiss, if you will; I shall not play the spy."
-
-            Love on, love on! In murmurs of the breeze,
-            In limpid stream, and in the woodland screen
-            That burgeons fresh in the renovated green,
-            In stars, in flowers, and music of the trees,
-
-            Love on, love on! But if my golden sun,
-            My spring, that comes once more to gladden earth,
-            If these should move your breasts to grateful mirth,
-            I ask no thanksgiving, your kiss is one.
-
-            A month passed by; and, when the roses bloomed
-            In beds that we had planted in the spring,
-            When least of all I thought my love was doomed,
-            You cast it from you like a noisome thing.
-
-            Not that your scorn was all reserved for me,
-            It flies about the world by fits and starts;
-            Your changeful fancy fits impartially
-            From knave of diamonds to knave of hearts.
-
-            And now you are happy, with a brilliant suite
-            Of bowing slaves and insincere gallants;
-            Go where you will, you see them at your feet;
-            A bed of perfumed posies round you flaunts:
-
-            The Ball's your garden: an admiring globe
-            Of lovers rolls about the lit saloon,
-            And, at the rustling of your silken robe,
-            The pack, in chorus, bay you like the moon.
-
-            Shod in the softness of a supple boot
-            Which Cinderella would have found too small,
-            One scarcely sees your little pointed foot
-            Flash in the flashing circle of the Ball.
-
-            Shod in the softness of a supple boot
-            Which Cinderella would have found too small,
-            One scarcely sees your little pointed foot
-            Flash in the flashing circle of the Ball.
-
-            In the soft baths that indolence has brought
-            Your once brown hands have got the ivory white,
-            The pallor of the lily which has caught
-            The silver moonbeam of a summer night:
-
-            On your white arm half clouded, and half clear,
-            Pearls shine in bracelets made of chiselled gold;
-            On your trim waist a shawl of true Cashmere
-            Aesthetically falls in waving fold:
-
-            Honiton point and costly Mechlin lace,
-            With gothic guipure of a creamy white--
-            The matchless cobwebs of long vanished days--
-            Combine to make your presence rich and bright.
-
-            But I preferred a simpler guise than that,
-            Your frock of muslin or plain calico,
-            Simple adornments, with a veilless hat,
-            Boots, black or grey, a collar white and low.
-
-            The splendor your admirers now adore
-            Will never bring me back my ancient heats;
-            And you are dead and buried, all the more
-            For the silk shroud where heart no longer beats.
-
-            So when I worked at this funereal dirge,
-            Where grief for a lost lifetime stands confessed,
-            I wore a clerk's costume of sable serge,
-            Though not gold eye glasses or pleated vest.
-
-            My penholder was wrapped in mournful crape,
-            The paper with black lines was bordered round
-            On which I labored to provide escape
-            For love's last memory hidden in the ground.
-
-            And now, when all the heart that I can save
-            Is used to furnish forth its epitaph.
-            Gay as a sexton digging his own grave
-            I burst into a wild and frantic laugh;
-
-            A laugh engendered by a mocking vein;
-            The pen I grasped was trembling as I wrote;
-            And even while I laughed, a scalding rain
-            Of tears turned all the writing to a blot.
-
-It was the 24th of December, and that evening the Latin Quarter bore a
-special aspect. Since four o'clock in the afternoon the pawnbroking
-establishments and the shops of the second hand clothes dealers and
-booksellers had been encumbered by a noisy crowd, who, later in the
-evening, took the ham and beef shops, cook shops, and grocers by
-assault. The shopmen, even if they had had a hundred arms, like
-Briareus, would not have sufficed to serve the customers who struggled
-with one another for provisions. At the baker's they formed a string as
-in times of dearth. The wine shop keepers got rid of the produce of
-three vintages, and a clever statistician would have found it difficult
-to reckon up the number of knuckles of ham and of sausages which were
-sold at the famous shop of Borel, in the Rue Dauphine. In this one
-evening Daddy Cretaine, nicknamed Petit-Pain, exhausted eighteen
-editions of his cakes. All night long sounds of rejoicing broke out from
-the lodging houses, the windows of which were brilliantly lit up, and an
-atmosphere of revelry filled the district.
-
-The old festival of Christmas Eve was being celebrated.
-
-That evening, towards ten o'clock, Marcel and Rodolphe were proceeding
-homeward somewhat sadly. Passing up the Rue Dauphine they noticed a
-great crowd in the shop of a provision dealer, and halted a moment
-before the window. Tantalized by the sight of the toothsome gastronomic
-products, the two Bohemians resembled, during this contemplation, that
-person in a Spanish romance who caused hams to shrink only by looking at
-them.
-
-"That is called a truffled turkey," said Marcel, pointing to a splendid
-bird, showing through its rosy and transparent skin the Perigordian
-tubercles with which it was stuffed. "I have seen impious folk eat it
-without first going down on their knees before it," added the painter,
-casting upon the turkey looks capable of roasting it.
-
-"And what do you think of that modest leg of salt marsh mutton?" asked
-Rodolphe. "What fine coloring! One might think it was just unhooked from
-that butcher's shop in one of Jordaen's pictures. Such a leg of mutton
-is the favorite dish of the gods, and of my godmother Madame
-Chandelier."
-
-"Look at those fish!" resumed Marcel, pointing to some trout. "They are
-the most expert swimmers of the aquatic race. Those little creatures,
-without any appearance of pretension, could, however, make a fortune by
-the exhibition of their skill; fancy, they can swim up a perpendicular
-waterfall as easily as we should accept an invitation to supper. I have
-almost had a chance of tasting them."
-
-"And down there--those large golden fruit, the foliage of which
-resembles a trophy of savage sabre blades! They are called pineapples,
-and are the pippins of the tropics."
-
-"That is a matter of indifference to me," said Marcel. "So far as fruits
-are concerned, I prefer that piece of beef, that ham, or that simple
-gammon of bacon, cuirassed with jelly as transparent as amber."
-
-"You are right," replied Rodolphe. "Ham is the friend of man, when he
-has one. However, I would not repulse that pheasant."
-
-"I should think not; it is the dish of crowned heads."
-
-And as, continuing on their way, they met joyful processions proceeding
-homewards, to do honor to Momus, Bacchus, Comus, and all the other
-divinities with names ending in "us," they asked themselves who was the
-Gamacho whose wedding was being celebrated with such a profusion of
-victuals.
-
-Marcel was the first who recollected the date and its festival.
-
-"It is Christmas Eve," said he.
-
-"Do you remember last year's?" inquired Rodolphe.
-
-"Yes," replied Marcel. "At Momus's. It was Barbemuche who stood treat. I
-should never have thought that a delicate girl like Phemie could have
-held so much sausage."
-
-"What a pity that Momus has cut off our credit," said Rodolphe.
-
-"Alas," said Marcel, "calendars succeed but do not resemble one
-another."
-
-"Would not you like to keep Christmas Eve?" asked Rodolphe.
-
-"With whom and with what?" inquired the painter.
-
-"With me."
-
-"And the coin?"
-
-"Wait a moment," said Rodolphe, "I will go into the cafe, where I know
-some people who play high. I will borrow a few sesterces from some
-favorite of fortune, and I will get something to wash down a sardine or
-a pig's trotter."
-
-"Go," said Marcel. "I am as hungry as a dog. I will wait for you here,"
-Rodolphe went into the cafe where he knew several people. A gentleman
-who had just won three hundred francs at cards made a regular treat of
-lending the poet a forty sous piece, which he handed over with that ill
-humor caused by the fever of play. At another time and elsewhere than
-at a card-table, he would very likely have been good for forty francs.
-
-"Well?" inquired Marcel, on seeing Rodolphe return.
-
-"Here are the takings," said the poet, showing the money.
-
-"A bite and a sup," said Marcel.
-
-With this small sum they were however able to obtain bread, wine, cold
-meat, tobacco, fire and light.
-
-They returned home to the lodging-house in which each had a separate
-room. Marcel's, which also served him as a studio, being the larger, was
-chosen as the banquetting hall, and the two friends set about the
-preparations for their feast there.
-
-But to the little table at which they were seated, beside a fireplace in
-which the damp logs burned away without flame or heat, came a melancholy
-guest, the phantom of the vanished past.
-
-They remained for an hour at least, silent, and thoughtful, but no doubt
-preoccupied by the same idea and striving to hide it. It was Marcel who
-first broke silence.
-
-"Come," said he to Rodolphe, "this is not what we promised ourselves."
-
-"What do you mean?" asked Rodolphe.
-
-"Oh!" replied Marcel. "Do not try to pretend with me now. You are
-thinking of that which should be forgotten and I too, by Jove, I do not
-deny it."
-
-"Well?"
-
-"Well, it must be for the last time. To the devil with recollections
-that make wine taste sour and render us miserable when everybody else
-are amusing themselves," exclaimed Marcel, alluding to the joyful shouts
-coming from the rooms adjoining theirs. "Come, let us think of something
-else, and let this be the last time."
-
-"That is what we always say and yet--," said Rodolphe, falling anew into
-the reverie.
-
-"And yet we are continually going back to it," resumed Marcel. "That is
-because instead of frankly seeking to forget, we make the most trivial
-things a pretext to recall remembrances, which is due above all to the
-fact that we persist in living amidst the same surroundings in which the
-beings who have so long been our torment lived. We are less the slaves
-of passion than of habit. It is this captivity that must be escaped
-from, or we shall wear ourselves out in a ridiculous and shameful
-slavery. Well, the past is past, we must break the ties that still bind
-us to it. The hour has come to go forward without looking backward; we
-have had our share of youth, carelessness, and paradox. All these are
-very fine--a very pretty novel could be written on them; but this comedy
-of amourous follies, this loss of time, of days wasted with the
-prodigality of people who believe they have an eternity to spend--all
-this must have an end. It is no longer possible for us to continue to
-live much longer on the outskirts of society--on the outskirts of life
-almost--under the penalty of justifying the contempt felt for us, and of
-despising ourselves. For, after all, is it a life we lead? And are not
-the independence, the freedom of mannerism of which we boast so loudly,
-very mediocre advantages? True liberty consists of being able to
-dispense with the aid of others, and to exist by oneself, and have we
-got to that? No, the first scoundrel, whose name we would not bear for
-five minutes, avenges himself for our jests, and becomes our lord and
-master the day on which we borrow from him five francs, which he lends
-us after having made us dispense the worth of a hundred and fifty in
-ruses or in humiliations. For my part, I have had enough of it. Poetry
-does not alone exist in disorderly living, touch-and-go happiness, loves
-that last as long as a bedroom candle, more or less eccentric revolts
-against those prejudices which will eternally rule the world, for it is
-easier to upset a dynasty than a custom, however ridiculous it may be.
-It is not enough to wear a summer coat in December to have talent; one
-can be a real poet or artist whilst going about well shod and eating
-three meals a day. Whatever one may say, and whatever one may do, if one
-wants to attain anything one must always take the commonplace way. This
-speech may astonish you, friend Rodolphe; you may say that I am breaking
-my idols, you will call me corrupted; and yet what I tell you is the
-expression of my sincere wishes. Despite myself, a slow and salutary
-metamorphosis has taken place within me; reason has entered my
-mind--burglariously, if you like, and perhaps against my will, but it
-has got in at last--and has proved to me that I was on a wrong track,
-and that it would be at once ridiculous and dangerous to persevere in
-it. Indeed, what will happen if we continue this monotonous and idle
-vagabondage? We shall get to thirty, unknown, isolated, disgusted with
-all things and with ourselves, full of envy towards all those whom we
-see reach their goal, whatever it may be, and obliged, in order to live,
-to have recourse to shameful parasitism. Do not imagine that this is a
-fancy picture I have conjured up especially to frighten you. The future
-does not systematically appear to be all black, but neither does it all
-rose colored; I see it clearly as it is. Up till now the life we have
-led has been forced upon us--we had the excuse of necessity. Now we are
-no longer to be excused, and if we do not re-enter the world, it will be
-voluntarily, for the obstacles against which we have had to struggle no
-longer exist."
-
-"I say," said Rodolphe, "what are you driving at? Why and wherefore this
-lecture?"
-
-"You thoroughly understand me," replied Marcel, in the same serious
-tones. "Just now I saw you, like myself, assailed by recollections that
-made you regret the past. You were thinking of Mimi and I was thinking
-of Musette. Like me, you would have liked to have had your mistress
-beside you. Well, I tell you that we ought neither of us to think of
-these creatures; that we were not created and sent into the world solely
-to sacrifice our existence to these commonplace Manon Lescaut's, and
-that the Chevalier Desgrieux, who is so fine, so true, and so poetical,
-is only saved from being ridiculous by his youth and the illusions he
-cherishes. At twenty he can follow his mistress to America without
-ceasing to be interesting, but at twenty-five he would have shown Manon
-the door, and would have been right. It is all very well to talk; we are
-old, my dear fellow; we have lived too fast, our hearts are cracked, and
-no longer ring truly; one cannot be in love with a Musette or a Mimi
-for three years with impunity. For me it is all over, and I wish to be
-thoroughly divorced from her remembrance. I am now going to commit to
-the flames some trifles that she has left me during her various stays,
-and which oblige me to think of her when I come across them."
-
-And Marcel, who had risen, went and took from a drawer a little
-cardboard box in which were the souvenirs of Musette--a faded bouquet, a
-sash, a bit of ribbon, and some letters.
-
-"Come," said he to the poet, "follow my example, Rodolphe."
-
-"Very well, then," said the latter, making an effort, "you are right. I
-too will make an end of it with that girl with the white hands."
-
-And, rising suddenly, he went and fetched a small packet containing
-souvenirs of Mimi of much the same kind as those of which Marcel was
-silently making an inventory.
-
-"This comes in handy," murmured the painter. "This trumpery will help us
-to rekindle the fire which is going out."
-
-"Indeed," said Rodolphe, "it is cold enough here to hatch polar bears."
-
-"Come," said Marcel, "let us burn in a duet. There goes Musette's prose;
-it blazes like punch. She was very fond of punch. Come Rodolphe,
-attention!"
-
-And for some minutes they alternately emptied into the fire, which
-blazed clear and noisily, the reliquaries of their past love.
-
-"Poor Musette!" murmured Marcel to himself, looking at the last object
-remaining in his hands.
-
-It was a little faded bouquet of wildflowers.
-
-"Poor Musette, she was very pretty though, and she loved me dearly, is
-it not so, little bouquet? Her heart told you so the day she wore you at
-her waist. Poor little bouquet, you seem to be pleading for mercy; well,
-yes; but on one condition; it is that you will never speak to me of her
-any more, never, never!"
-
-And profiting by a moment when he thought himself unnoticed by Rodolphe,
-he slipped the bouquet into his breast pocket.
-
-"So much the worse, it is stronger than I am. I am cheating," thought
-the painter.
-
-And as he cast a furtive glance towards Rodolphe, he saw the poet, who
-had come to the end of his auto-da-fe, putting quietly into his own
-pocket, after having tenderly kissed it, a little night cap that had
-belonged to Mimi.
-
-"Come," muttered Marcel, "he is as great a coward as I am."
-
-At the very moment that Rodolphe was about to return to his room to go
-to bed, there were two little taps at Marcel's door.
-
-"Who the deuce can it be at this time of night?" said the painter, going
-to open it.
-
-A cry of astonishment burst from him when he had done so.
-
-It was Mimi.
-
-As the room was very dark Rodolphe did not at first recognize his
-mistress, and only distinguishing a woman, he thought that it was some
-passing conquest of his friend's, and out of discretion prepared to
-withdraw.
-
-"I am disturbing you," said Mimi, who had remained on the threshold.
-
-At her voice Rodolphe dropped on his chair as though thunderstruck.
-
-"Good evening," said Mimi, coming up to him and shaking him by the hand
-which he allowed her to take mechanically.
-
-"What the deuce brings you here and at this time of night?" asked
-Marcel.
-
-"I was very cold," said Mimi shivering. "I saw a light in your room as
-I was passing along the street, and although it was very late I came
-up."
-
-She was still shivering, her voice had a cristalline sonority that
-pierced Rodolphe's heart like a funeral knell, and filled it with a
-mournful alarm. He looked at her more attentively. It was no longer
-Mimi, but her ghost.
-
-Marcel made her sit down beside the fire.
-
-Mimi smiled at the sight of the flame dancing merrily on the hearth.
-
-"It is very nice," said she, holding out her poor hands blue with cold.
-"By the way, Monsieur Marcel, you do not know why I have called on you?"
-
-"No, indeed."
-
-"Well," said Mimi, "I simply came to ask you whether you could get them
-to let me a room here. I have just been turned out of my lodgings
-because I owe a month's rent and I do not know where to go to."
-
-"The deuce!" said Marcel, shaking his head, "we are not in very good
-odor with our landlord and our recommendation would be a most
-unfortunate one, my poor girl."
-
-"What is to be done then?" said Mimi. "The fact is I have nowhere to
-go."
-
-"Ah!" said Marcel. "You are no longer a viscountess, then?"
-
-"Good heavens, no! Not at all."
-
-"But since when?"
-
-"Two months ago, already."
-
-"Have you been playing tricks on the viscount, then?"
-
-"No," said she, glancing at Rodolphe, who had taken his place in the
-darkest corner of the room, "the viscount kicked up a row with me on
-account of some verses that were written about me. We quarrelled, and I
-sent him about his business. He is a nice skin flint, I can tell you."
-
-"But," said Marcel, "he had rigged you out very finely, judging by what
-I saw the day I met you."
-
-"Well," said Mimi, "would you believe it, that he took everything away
-from me when I left him, and I have since heard that he raffled all my
-clothes at a wretched table d'hote where he used to take me to dine. He
-is wealthy enough, though, and yet with all his fortune he is as miserly
-as a clay fireball and as stupid as an owl. He would not allow me to
-drink wine without water, and made me fast on Fridays. Would you believe
-it, he wanted me to wear black stockings, because they did not want
-washing as often as white ones. You have no idea of it, he worried me
-nicely I can tell you. I can well say that I did my share of purgatory
-with him."
-
-"And does he know your present situation?" asked Marcel.
-
-"I have not seen him since and I do not want to," replied Mimi. "It
-makes me sick when I think of him. I would rather die of hunger than ask
-him for a sou."
-
-"But," said Marcel, "since you left him you have not been living alone."
-
-"Yes, I assure you, Monsieur Marcel," exclaimed Mimi quickly. "I have
-been working to earn my living, only as artificial flower making was not
-a very flourishing business I took up another. I sit to painters. If you
-have any jobs to give me," she added gaily.
-
-And having noticed a movement on the part of Rodolphe, whom she did not
-take her eyes off whilst talking to his friend, Mimi went on:
-
-"Ah, but I only sit for head and hands. I have plenty to do, and I am
-owed money by two or three, I shall have some in a couple of days, it is
-only for that interval that I want to find a lodging. When I get the
-money I shall go back to my own. Ah!" said she, looking at the table,
-which was still laden with the preparation for the modest feast which
-the two friends had scarcely touched, "you were going to have supper?"
-
-"No," said Marcel, "we are not hungry."
-
-"You are very lucky," said Mimi simply.
-
-At this remark Rodolphe felt a horrible pang in his heart, he made a
-sign to Marcel, which the latter understood.
-
-"By the way," said the artist, "since you are here Mimi, you must take
-pot luck with us. We were going to keep Christmas Eve, and then--why--we
-began to think of other things."
-
-"Then I have come at the right moment," said Mimi, casting an almost
-famished glance at the food on the table. "I have had no dinner," she
-whispered to the artist, so as not to be heard by Rodolphe, who was
-gnawing his handkerchief to keep him from bursting into sobs.
-
-"Draw up, Rodolphe," said Marcel to his friend, "we will all three have
-supper together."
-
-"No," said the poet remaining in his corner.
-
-"Are you angry, Rodolphe, that I have come here?" asked Mimi gently.
-"Where could I go to?"
-
-"No, Mimi," replied Rodolphe, "only I am grieved to see you like this."
-
-"It is my own fault, Rodolphe, I do not complain, what is done is done,
-so think no more about it than I do. Cannot you still be my friend,
-because you have been something else? You can, can you not? Well then,
-do not frown on me, and come and sit down at the table with us."
-
-She rose to take him by the hand, but was so weak, that she could not
-take a step, and sank back into her chair.
-
-"The heat has dazed me," she said, "I cannot stand."
-
-"Come," said Marcel to Rodolphe, "come and join us."
-
-The poet drew up to the table, and began to eat with them. Mimi was very
-lively.
-
-"My dear girl, it is impossible for us to get you a room in the house."
-
-"I must go away then," said she, trying to rise.
-
-"No, no," said Marcel. "I have another way of arranging things, you can
-stay in my room, and I will go and sleep with Rodolphe."
-
-"It will put you out very much, I am afraid," said Mimi, "but it will
-not be for long, only a couple of days."
-
-"It will not put us out at all in that case," replied Marcel, "so it is
-understood, you are at home here, and we are going to Rodolphe's room.
-Good night, Mimi, sleep well."
-
-"Thanks," said she, holding out her hand to Marcel and Rodolphe, who
-moved away together.
-
-"Do you want to lock yourself in?" asked Marcel as he got to the door.
-
-"Why?" said Mimi, looking at Rodolphe, "I am not afraid."
-
-When the two friends were alone in Rodolphe's room, which was on the
-same floor, Marcel abruptly said to his friend, "Well, what are you
-going to do now?"
-
-"I do not know," stammered Rodolphe.
-
-"Come, do not shilly-shally, go and join Mimi! If you do, I prophecy
-that tomorrow you will be living together again."
-
-"If it were Musette who had returned, what would you do?" inquired
-Rodolphe of his friend.
-
-"If it were Musette that was in the next room," replied Marcel, "well,
-frankly, I believe that I should not have been in this one for a quarter
-of an hour past."
-
-"Well," said Rodolphe, "I will be more courageous than you, I shall
-stay here."
-
-"We shall see that," said Marcel, who had already got into bed. "Are you
-coming to bed?"
-
-"Certainly," replied Rodolphe.
-
-But in the middle of the night, Marcel waking up, perceived that
-Rodolphe had left him.
-
-In the morning, he went and tapped discreetly at the door of the room in
-which Mimi was.
-
-"Come in," said she, and on seeing him, she made a sign to him to speak
-low in order not to wake Rodolphe who was asleep. He was seated in an
-arm chair, which he had drawn up to the side of the bed, his head
-resting on a pillow beside that of Mimi.
-
-"It is like that that you passed the night?" said Marcel in great
-astonishment.
-
-"Yes," replied the girl.
-
-Rodolphe woke up all at once, and after kissing Mimi, held out his hand
-to Marcel, who seemed greatly puzzled.
-
-"I am going to find some money for breakfast," said he to the painter.
-"You will keep Mimi company."
-
-"Well," asked Marcel of the girl when they were alone together, "what
-took place last night?"
-
-"Very sad things," said Mimi. "Rodolphe still loves me."
-
-"I know that very well."
-
-"Yes, you wanted to separate him from me. I am not angry about it,
-Marcel, you were quite right, I have done no good to the poor fellow."
-
-"And you," asked Marcel, "do you still love him?"
-
-"Do I love him?" said she, clasping her hands. "It is that that tortures
-me. I am greatly changed, my friend, and it needed but little time for
-that."
-
-"Well, now he loves you, you love him and you cannot do without one
-another, come together again and try and remain."
-
-"It is impossible," said Mimi.
-
-"Why?" inquired Marcel. "Certainly it would be more sensible for you to
-separate, but as for your not meeting again, you would have to be a
-thousand leagues from one another."
-
-"In a little while I shall be further off than that."
-
-"What do you mean?"
-
-"Do not speak of it to Rodolphe, it would cause him too much pain, but I
-am going away forever."
-
-"But whither?"
-
-"Look here, Marcel," said Mimi sobbing, "look."
-
-And lifting up the sheet of the bed a little she showed the artist her
-shoulders, neck and arms.
-
-"Good heavens!" exclaimed Marcel mournfully, "poor girl."
-
-"Is it not true, my friend, that I do not deceive myself and that I am
-soon going to die."
-
-"But how did you get into such a state in so short a time?"
-
-"Ah!" replied Mimi, "with the life I have been leading for the past two
-months it is not astonishing; nights spent in tears, days passed in
-posing in studios without any fire, poor living, grief, and then you do
-not know all, I tried to poison myself with Eau de Javelle. I was saved
-but not for long as you see. Besides I have never been very strong, in
-short it is my fault, if I had remained quietly with Rodolphe I should
-not be like this. Poor fellow, here I am again upon his hands, but it
-will not be for long, the last dress he will give me will be all white,
-Marcel, and I shall be buried in it. Ah! If you knew how I suffer
-because I am going to die. Rodolphe knows that I am ill, he remained for
-over an hour without speaking last night when he saw my arms and
-shoulders so thin. He no longer recognized his Mimi. Alas! My very
-looking glass does not know me. Ah! All the same I was pretty and he did
-love me. Oh, God!" she exclaimed, burying her face in Marcel's hands. "I
-am going to leave you and Rodolphe too, oh God!" and sobs choked her
-voice.
-
-"Come, Mimi," said Marcel, "never despair, you will get well, you only
-want care and rest."
-
-"Ah, no!" said Mimi. "It is all over, I feel it. I have no longer any
-strength, and when I came here last night it took me over an hour to get
-up the stairs. If I found a woman here I should have gone down by way of
-the window. However, he was free since we were no longer together, but
-you see, Marcel, I was sure he loved me still. It was on account of
-that," she said, bursting into tears, "it is on account of that that I
-do not want to die at once, but it is all over with me. He must be very
-good, poor fellow, to take me back after all the pain I have given him.
-Ah! God is not just, since he does not leave me only the time to make
-Rodolphe forget the grief I caused him. He does not know the state in
-which I am. I would not have him lie beside me, for I feel as if the
-earthworms were already devouring my body. We passed the night in
-weeping and talking of old times. Ah! How sad it is, my friend, to see
-behind one the happiness one has formerly passed by without noticing it.
-I feel as if I had fire in my chest, and when I move my limbs it seems
-as if they were going to snap. Hand me my dress, I want to cut the cards
-to see whether Rodolphe will bring in any money. I should like to have a
-good breakfast with you, like we used to; that would not hurt me. God
-cannot make me worse than I am. See," she added, showing Marcel the pack
-of cards she had cut, "Spades--it is the color of death. Clubs," she
-added more gaily, "yes we shall have some money."
-
-Marcel did not know what to say in presence of the lucid delirium of
-this poor creature, who already felt, as she said, the worms of the
-grave.
-
-In an hour's time Rodolphe was back. He was accompanied by Schaunard and
-Gustave Colline. The musician wore a summer jacket. He had sold his
-winter suit to lend money to Rodolphe on learning that Mimi was ill.
-Colline on his side had gone and sold some books. If he could have got
-anyone to buy one of his arms or legs he would have agreed to the
-bargain rather than part with his cherished volumes. But Schaunard had
-pointed out to him that nothing could be done with his arms or his
-legs.
-
-Mimi strove to recover her gaiety to greet her old friends.
-
-"I am no longer naughty," said she to them, "and Rodolphe has forgiven
-me. If he will keep me with him I will wear wooden shoes and a mob-cap,
-it is all the same to me. Silk is certainly not good for my health," she
-added with a frightful smile.
-
-At Marcel's suggestion, Rodolphe had sent for one of his friends who had
-just passed as a doctor. It was the same who had formerly attended
-Francine. When he came they left him alone with Mimi.
-
-Rodolphe, informed by Marcel, was already aware of the danger run by his
-mistress. When the doctor had spoken to Mimi, he said to Rodolphe: "You
-cannot keep her here. Save for a miracle she is doomed. You must send
-her to the hospital. I will give you a letter for La Pitie. I know one
-of the house surgeons there; she will be well looked after. If she
-lasts till the spring we may perhaps pull her through, but if she stays
-here she will be dead in a week."
-
-"I shall never dare propose it to her," said Rodolphe.
-
-"I spoke to her about it," replied the doctor, "and she agreed. Tomorrow
-I will send you the order of admission to La Pitie."
-
-"My dear," said Mimi to Rodolphe, "the doctor is right; you cannot nurse
-me here. At the hospital they may perhaps cure me, you must send me
-there. Ah! You see I do so long to live now, that I would be willing to
-end my days with one hand in a raging fire and the other in yours.
-Besides, you will come and see me. You must not grieve, I shall be well
-taken care of: the doctor told me so. You get chicken at the hospital
-and they have fires there. Whilst I am taking care of myself there, you
-will work to earn money, and when I am cured I will come back and live
-with you. I have plenty of hope now. I shall come back as pretty as I
-used to be. I was very ill in the days before I knew you, and I was
-cured. Yet I was not happy in those days, I might just as well have
-died. Now that I have found you again and that we can be happy, they
-will cure me again, for I shall fight hard against my illness. I will
-drink all the nasty things they give me, and if death seizes on me it
-will be by force. Give me the looking glass: it seems to me that I have
-little color in my cheeks. Yes," said she, looking at herself in the
-glass, "my color is coming back, and my hands, see, they are still
-pretty; kiss me once more, it will not be the last time, my poor
-darling," she added, clasping Rodolphe round the neck, and burying his
-face in her loosened tresses.
-
-Before leaving for the hospital, she wanted her friends the Bohemians to
-stay and pass the evening with her.
-
-"Make me laugh," said she, "cheerfulness is health to me. It is that wet
-blanket of a viscount made me ill. Fancy, he wanted to make me learn
-orthography; what the deuce should I have done with it? And his friends,
-what a set! A regular poultry yard, of which the viscount was the
-peacock. He marked his linen himself. If he ever marries I am sure that
-it will be he who will suckle the children."
-
-Nothing could be more heart breaking than the almost posthumous gaiety
-of poor Mimi. All the Bohemians made painful efforts to hide their tears
-and continue the conversation in the jesting tone started by the
-unfortunate girl, for whom fate was so swiftly spinning the linen of her
-last garment.
-
-The next morning Rodolphe received the order of admission to the
-hospital. Mimi could not walk, she had to be carried down to the cab.
-During the journey she suffered horribly from the jolts of the vehicle.
-Admist all her sufferings the last thing that dies in woman, coquetry,
-still survived; two or three times she had the cab stopped before the
-drapers' shops to look at the display in the windows.
-
-On entering the ward indicated in the letter of admission Mimi felt a
-terrible pang at her heart, something within her told her that it was
-between these bare and leprous walls that her life was to end. She
-exerted the whole of the will left her to hide the mournful impression
-that had chilled her.
-
-When she was put to bed she gave Rodolphe a final kiss and bid him
-goodbye, bidding him come and see her the next Sunday which was a
-visitors' day.
-
-"It does not smell very nice here," said she to him, "bring me some
-flowers, some violets, there are still some about."
-
-"Yes," said Rodolphe, "goodbye till Sunday."
-
-And he drew together the curtains of her bed. On hearing the departing
-steps of her lover, Mimi was suddenly seized with an almost delirious
-attack of fever. She suddenly opened the curtains, and leaning half out
-of bed, cried in a voice broken with tears:
-
-"Rodolphe, take me home, I want to go away."
-
-The sister of charity hastened to her and tried to calm her.
-
-"Oh!" said Mimi, "I am going to die here."
-
-On Sunday morning, the day he was to go and see Mimi, Rodolphe
-remembered that he had promised her some violets. With poetic and loving
-superstition he went on foot in horrible weather to look for the flowers
-his sweetheart had asked him for, in the woods of Aulnay and Fontenay,
-where he had so often been with her. The country, so lively and joyful
-in the sunshine of the bright days of June and July, he found chill and
-dreary. For two hours he beat the snow covered thickets, lifting the
-bushes with a stick, and ended by finding a few tiny blossoms, and as it
-happened, in a part of the wood bordering the Le Plessis pool, which had
-been their favorite spot when they came into the country.
-
-Passing through the village of Chatillon to get back to Paris, Rodolphe
-met in the square before the church a baptismal procession, in which he
-recognized one of his friends who was the godfather, with a singer from
-the opera.
-
-"What the deuce are you doing here?" asked the friend, very much
-surprised to see Rodolphe in those parts.
-
-The poet told him what had happened.
-
-The young fellow, who had known Mimi, was greatly saddened at this
-story, and feeling in his pocket took out a bag of christening
-sweetmeats and handed it to Rodolphe.
-
-"Poor Mimi, give her this from me and tell her I will come and see
-her."
-
-"Come quickly, then, if you would come in time," said Rodolphe, as he
-left him.
-
-When Rodolphe got to the hospital, Mimi, who could not move, threw her
-arms about him in a look.
-
-"Ah, there are my flowers!" said she, with the smile of satisfied
-desire.
-
-Rodolphe related his pilgrimage into that part of the country that had
-been the paradise of their loves.
-
-"Dear flowers," said the poor girl, kissing the violets. The sweetmeats
-greatly pleased her too. "I am not quite forgotten, then. The young
-fellows are good. Ah! I love all your friends," said she to Rodolphe.
-
-This interview was almost merry. Schaunard and Colline had rejoined
-Rodolphe. The nurses had almost to turn them out, for they had
-overstayed visiting time.
-
-"Goodbye," said Mimi. "Thursday without fail, and come early."
-
-The following day on coming home at night, Rodolphe received a letter
-from a medical student, a dresser at the hospital, to whose care he had
-recommended the invalid. The letter only contained these words:--
-
-"My dear friend, I have very bad news for you. No. 8 is dead. This
-morning on going through the ward I found her bed vacant."
-
-Rodolphe dropped on to a chair and did not shed a tear. When Marcel came
-in later he found his friend in the same stupefied attitude. With a
-gesture the poet showed him the latter.
-
-"Poor girl!" said Marcel.
-
-"It is strange," said Rodolphe, putting his hand to his heart; "I feel
-nothing here. Was my love killed on learning that Mimi was to die?"
-
-"Who knows?" murmured the painter.
-
-Mimi's death caused great mourning amongst the Bohemians.
-
-A week later Rodolphe met in the street the dresser who had informed him
-of his mistress's death.
-
-"Ah, my dear Rodolphe!" said he, hastening up to the poet. "Forgive me
-the pain I caused you by my heedlessness."
-
-"What do you mean?" asked Rodolphe in astonishment.
-
-"What," replied the dresser, "you do not know? You have not seen her
-again?"
-
-"Seen whom?" exclaimed Rodolphe.
-
-"Her, Mimi."
-
-"What?" said the poet, turning deadly pale.
-
-"I made a mistake. When I wrote you that terrible news I was the victim
-of an error. This is how it was. I had been away from the hospital for a
-couple of days. When I returned, on going the rounds with the surgeons,
-I found Mimi's bed empty. I asked the sister of charity what had become
-of the patient, and she told me that she had died during the night. This
-is what had happened. During my absence Mimi had been moved to another
-ward. In No. 8 bed, which she left, they put another woman who died the
-same day. That will explain the mistake into which I fell. The day after
-that on which I wrote to you, I found Mimi in the next ward. Your
-absence had put her in a terrible state; she gave me a letter for you
-and I took it on to your place at once."
-
-"Good God!" said Rodolphe. "Since I thought Mimi dead I have not dared
-to go home. I have been sleeping here and there at friends' places. Mimi
-alive! Good heavens! What must she think of my absence? Poor girl, poor
-girl! How is she? When did you see her last?"
-
-"The day before yesterday. She was neither better nor worse, but very
-uneasy; she fancies you must be ill."
-
-"Let us go to La Pitie at once," said Rodolphe, "that I may see her."
-
-"Stop here for a moment," said the dresser, when they reached the
-entrance to the hospital, "I will go and ask the house surgeon for
-permission for you to enter."
-
-Rodolphe waited in the hall for a quarter of an hour. When the dresser
-returned he took him by the hand and said these words:
-
-"My friend, suppose that the letter I wrote to you a week ago was true?"
-
-"What!" exclaimed Rodolphe, leaning against a pillar, "Mimi--"
-
-"This morning at four o'clock."
-
-"Take me to the amphitheatre," said Rodolphe, "that I may see her."
-
-"She is no longer there," said the dresser. And pointing out to the poet
-a large van which was in the courtyard drawn up before a building above
-which was inscribed, "Amphiteatre," he added, "she is there."
-
-It was indeed the vehicle in which the corpses that are unclaimed are
-taken to their pauper's grave.
-
-"Goodbye," said Rodolphe to the dresser.
-
-"Would you like me to come with you a bit?" suggested the latter.
-
-"No," said Rodolphe, turning away, "I need to be alone."
-
-
-
-
-CHAPTER XXIII
-
-YOUTH IS FLEETING
-
-
-A year after Mimi's death Rodolphe and Marcel, who had not quitted one
-another, celebrated by a festival their entrance into the official
-world. Marcel, who had at length secured admission to the annual
-exhibition of pictures, had had two paintings hung, one of which had
-been bought by a rich Englishman, formerly Musette's protector. With the
-product of this sale, and also of a Government order, Marcel had partly
-paid off his past debts. He had furnished decent rooms, and had a real
-studio. Almost at the same time Schaunard and Rodolphe came before the
-public who bestow fame and fortune--the one with an album of airs that
-were sung at all the concerts, and which gave him the commencement of a
-reputation; the other with a book that occupied the critics for a month.
-As to Barbemuche he had long since given up Bohemianism. Gustave Colline
-had inherited money and made a good marriage. He gave evening parties
-with music and light refreshments.
-
-One evening Rodolphe, seated in his own armchair with his feet on his
-own rug, saw Marcel come in quite flurried.
-
-"You do not know what has just happened to me," said he.
-
-"No," replied the poet. "I know that I have been to your place, that you
-were at home, and that you would not answer the door."
-
-"Yes, I heard you. But guess who was with me."
-
-"How do I know?"
-
-"Musette, who burst upon me last evening like a bombshell, got up as a
-_debardeur_."
-
-"Musette! You have once more found Musette!" said Rodolphe, in a tone of
-regret.
-
-"Do not be alarmed. Hostilities were not resumed. Musette came to pass
-with me her last night of Bohemianism."
-
-"What?"
-
-"She is going to be married."
-
-"Bah!" said Rodolphe. "Who is the victim?"
-
-"A postmaster who was her last lover's guardian; a queer sort of fellow,
-it would seem. Musette said to him, 'My dear sir, before definitely
-giving you my hand and going to the registrar's I want to drink my last
-glass of Champagne, dance my last quadrille, and embrace for the last
-time my lover, Marcel, who is now a gentleman, like everybody else is
-seems.' And for a week the dear creature has been looking for me. Hence
-it was that she burst upon me last evening, just at the moment I was
-thinking of her. Ah, my friend! Altogether we had a sad night of it. It
-was not at all the same thing it used to be, not at all. We were like
-some wretched copy of a masterpiece? I have even written on the subject
-of this last separation a little ballad which I will whine out to you if
-you will allow me," and Marcel began to chant the following verses:--
-
-        I saw a swallow yesterday,
-        He brought Spring's promise to the air;
-        "Remember her," he seemed to say,
-        "Who loved you when she'd time to spare;"
-        And all the day I sate before
-        The almanac of yonder year,
-        When I did nothing but adore,
-        And you were pleased to hold me dear.
-
-        But do not think my love is dead,
-        Or to forget you I begin.
-
-        If you sought entry to my shed
-        My heart would leap to let you in:
-        Since at your name it trembles still--
-        Muse of oblivious fantasy!--
-        Return and share, if share you will,
-        Joy's consecrated bread with me.
-
-        The decorations of the nest
-        Which saw our mutual ardor burn,
-        Already seem to wear their best
-        At the mere hope of return.
-        Come, see if you can recognize
-        Things your departure reft of glee,
-        The bed, the glass of extra size,
-        In which you often drank for me.
-
-        You shall resume the plain white gown
-        You used to look so nice in, then;
-        On Sunday we can still run down
-        To wander in the woods again.
-        Beneath the bower, at evening,
-        Again we'll drink the liquid bright
-        In which your song would dip its wing
-        Before in air it took to flight.
-
-        Musette, who has at last confessed
-        The carnival of life was gone,
-        Came back, one morning, to the nest
-        Whence, like a wild bird, she had flown:
-        But, while I kissed the fugitive,
-        My heart no more emotion knew,
-        For, she had ceased, for me, to live,
-        And "You," she said, "no more are you."
-
-        "Heart of my heart!" I answered, "Go!
-        We cannot call the dead love back;
-        Best let it lie, interred, below
-        The tombstone of the almanac
-        Perhaps a spirit that remembers
-        The happy time it notes for me
-        May find some day among its embers
-        Of a lost Paradise the key."
-
-"Well," said Marcel, when he had finished, "you may feel reassured now,
-my love for Musette is dead and buried here," he added ironically,
-indicating the manuscript of the poem.
-
-"Poor lad," said Rodolphe, "your wit is fighting a duel with your
-heart, take care it does not kill it."
-
-"That is already lifeless," replied the painter, "we are done for, old
-fellow, we are dead and buried. Youth is fleeting! Where are you going
-to dine this evening?"
-
-"If you like," said Rodolphe, "we will go and dine for twelve sous at
-our old restaurant in the Rue du Four, where they have plates of huge
-crockery, and where we used to feel so hungry when we had done dinner."
-
-"No," replied Marcel, "I am quite willing to look back at that past, but
-it must be through the medium of a bottle of good wine and sitting in a
-comfortable armchair. What would you, I am corrupted. I only care for
-what is good!"
+[1] Ha vinte annos que eu ouvi d'um coevo do facto a historia do
+assassinio assim contada: Era em quinta Feira santa. Marcos Botelho,
+irmão de Domingos, estava na festa de endoenças, em S. Francísco,
+defrontando com uma dama, namorada sua, e desleal dama que ella era.
+N'outro ponto da igreja estava, apontado em olhos e coração á mesma
+mulher, um alferes de infanteria. Marcos enfreou o seu ciume até ao
+final do officio da paixão. Á sahida do templo encarou no militar, e
+provocou-o. O alferes tirou da espada, e o fidalgo do espadim. Terçaram
+as armas longo tempo sem desaire nem sangue. Amigos de ambos tinham
+conseguido aplacal-os, quando Luiz Botelho, outro irmão de Marcos,
+desfechou uma clavina no peito do alferes, e alli á entrada da «rua do
+Jogo da Bola» o derribou morto. O homicida foi livre por graça regia.
+
+[2] É a casa-palacete da «rua da Piedade», hoje pertencente ao doutor
+Antonio Girardo Monteiro.
+
+[3] Esclarece este dizer de D. Rita a certidão de idade de Simão, a qual
+tenho presente, e é extrahida por Herculano Henrique Garcia Camillo
+Galhardo, reitor da real Igreja da Senhora da Ajuda, do livro 14, a
+folhas 159 v. Reza assim:
+
+«Aos dois dias do mez de maio de 1784, pôz os santos oleos o reverendo
+padre cura João Domingues Chaves a Simão, o qual foi _baptisado em casa
+em perigo de vida_ pelo Reverendo Frei Antonio de S. Pelagio, etc.»
+
+[4] N'alguns papeis que possuimos do corregedor de Vizeu achamos esta
+carta: «Meu amigo, collega e senhor. Entregará, ao portador d'esta, que
+é o senhor padre Manoel de Oliveira, as cincoenta moedas em que lhe
+fallei na sua passagem para Lisboa. A appellação de seu filho está a meu
+cuidado, e está segura, apesar das grandes forças contrarias. Seu
+amigo--O desembargador _Antonio José Dias Mourão Mosqueira_. Porto 11 de
+fevereiro de 1805.--Sobrescripto: Ill.^mo Snr. D.^or Domingos José
+Correia Botelho de Mesquita e Menezes.--Lisboa.»
+
+(_Nota do auctor_).
+
+[5] Este romance foi escripto n'um dos cubiculos-carceres da Relação do
+Porto, a uma luz coada por entre ferros, e abafada pelas sombras das
+abobadas. Anno da Graça de 1861.
+
+[6] _Hoje então!..._ Vou-lhes contar um lance memorando d'um philosopho
+da actualidade, lance unico pelo qual eu fiquei conhecendo a pessoa.
+Hoje (21 de Setembro de 1861) estava eu no escriptorio do illustre
+advogado Joaquim Marcellino de Mattos, e um cliente entrou contando o
+seguinte:--«Senhor doutor, eu sou um lojista da rua de ***; e fui
+roubado em oitocentos mil reis por minha mulher, que fugiu com um amante
+para Vianna. Venho saber se posso querelar, e receber o meu dinheiro.»
+--Póde querelar, respondeu o advogado, se tiver testemunhas. O senhor
+quer querelar por adulterio?--Responde o queixoso: «O que eu quero é o
+meu dinheiro.»--Mas, redargue o consultor, o senhor póde querelar de
+ambos, d'ella por adultera, e d'elle como receptador do furto.--«E
+receberei o meu dinheiro?»--Conforme. Eu sei cá se elle tem o seu
+dinheiro?! O que sei é que não póde pronuncial-a a ella como
+ladra.--«Mas os meus oitocentos mil reis?!»--Ah! o senhor não se lhe dá
+que sua mulher fuja e não volte?--«Não, senhor doutor, que a leve o
+diabo; o que eu quero é o meu dinheiro.»--Pois querele d'ambos, o
+veremos depois.--«Mas não é certo receber eu o meu dinheiro?!»--Certo
+não é; veremos se depois de pronunciado as authoridades administrativas
+capturam o ladrão com o seu dinheiro.--«E, se elle o não tiver
+já?--redargue o marido consternado.»--Se o não tiver já, o senhor
+vinga-se na querela por adulterio.--«E gasta-se alguma coisa?»--Gasta,
+sim; mas vinga-se.--«O que eu queria era o meu dinheiro, senhor doutor:
+a mulher deixal-a ir, que tem cincoenta annos.»--Cincoenta
+annos!--acudiu o doutor--o senhor está vingado do amante. Vá para casa,
+deixe-se de querelas, que o mais desgraçado é elle.
+
+
+Encadernação N.° 2465
+
+FAUSTO FERNANDES
+
+ENCADERNOU
+
+Patio de D. Fradique, 1--LISBOA
+
+
+
+
+
+End of Project Gutenberg's Amor de Perdição, by Camillo Castello Branco
