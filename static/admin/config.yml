@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: zonaeducacional/leiamais
+  branch: main
+  base_url: https://literaplus.netlify.app  # Atualizado com o novo nome
+  auth_endpoint: /auth
+
+media_folder: "static/images"
+public_folder: "/images"
+
+collections:
+  - name: "livros"
+    label: "Livros"
+    folder: "content/livros"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Autor", name: "autor", widget: "string" }
+      - { label: "Ano Original", name: "ano", widget: "string" }
+      - { label: "Categoria", name: "categoria", widget: "string" }
+      - { label: "Corpo do Texto", name: "body", widget: "markdown" }
