@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acervo Lusófono | Domínio Público</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Merriweather:ital,wght@0,300;0,700;1,300&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'], serif: ['Merriweather', 'serif'] },
+                    colors: {
+                        paper: { 50: '#fdfbf7', 100: '#f8f4e6', 800: '#3d382e', 900: '#29251f' },
+                        gold: { 200: '#f1e29e', 300: '#e5c965', 400: '#d5aa31', 900: '#5c410a' }
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-paper-50 text-paper-900 font-sans antialiased min-h-screen flex flex-col">
+
+    <section class="relative bg-[url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=2000&auto=format&fit=crop')] bg-cover bg-center py-20 md:py-32">
+        <div class="absolute inset-0 bg-paper-100/80 backdrop-blur-[2px]"></div>
+        
+        <div class="relative z-10 max-w-4xl mx-auto px-4 text-center">
+            <h2 class="font-serif text-3xl md:text-5xl text-paper-900 font-bold mb-8 uppercase tracking-widest">
+                Baixar Livros Livres
+            </h2>
+            
+            <div class="flex flex-col sm:flex-row shadow-2xl rounded-sm overflow-hidden bg-white max-w-2xl mx-auto border border-gray-200">
+                <input 
+                    type="text" 
+                    placeholder="QUE LIVRO VOCÊ BUSCA?" 
+                    class="w-full px-6 py-4 text-gray-700 outline-none uppercase text-sm md:text-base font-medium placeholder-gray-400"
+                >
+                <button class="bg-gold-300 hover:bg-gold-400 text-gold-900 px-8 py-4 font-bold flex items-center justify-center gap-2 transition-colors uppercase tracking-wider">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                    Buscar
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <main class="flex-grow bg-paper-50 py-12 border-t border-gray-200">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            
+            <div class="mb-8 border-b border-gray-300 pb-4">
+                <h3 class="font-serif text-2xl md:text-3xl text-paper-900 uppercase tracking-wider mb-2">Últimos livros adicionados</h3>
+                <p class="text-gray-600 text-sm md:text-base uppercase tracking-wide">Descubra as últimas novidades adicionadas ao catálogo!</p>
+                <a href="#" class="text-xs font-bold text-gray-500 hover:text-paper-900 mt-4 inline-block tracking-widest transition-colors">VER TODOS ></a>
+            </div>
+
+            <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-4 md:gap-6">
+                
+                <a href="livro.html" class="group flex flex-col items-center">
+                    <div class="w-full aspect-[2/3] bg-gradient-to-br from-[#8b7355] to-[#5c4a3d] border-2 border-[#4a3b31] shadow-md group-hover:shadow-xl transition-all duration-300 relative flex flex-col p-4 text-center justify-between">
+                        <span class="text-paper-100 text-[10px] uppercase tracking-widest opacity-80 mt-2">Aluísio Azevedo</span>
+                        <h4 class="font-serif text-white font-bold leading-tight">O Cortiço</h4>
+                        <span class="text-gold-200 text-[9px] uppercase tracking-widest mb-2 border-t border-white/20 pt-1">Acervo Lusófono</span>
+                        <div class="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors"></div>
+                    </div>
+                    <div class="mt-3 text-center w-full">
+                        <p class="text-xs font-bold text-gray-800 uppercase truncate">O Cortiço</p>
+                    </div>
+                </a>
+
+                <a href="livro.html" class="group flex flex-col items-center">
+                    <div class="w-full aspect-[2/3] bg-gradient-to-br from-[#6b705c] to-[#3f4234] border-2 border-[#2b2d22] shadow-md group-hover:shadow-xl transition-all duration-300 relative flex flex-col p-4 text-center justify-between">
+                        <span class="text-paper-100 text-[10px] uppercase tracking-widest opacity-80 mt-2">Lima Barreto</span>
+                        <h4 class="font-serif text-white font-bold leading-tight">Triste Fim de<br>Policarpo</h4>
+                        <span class="text-gold-200 text-[9px] uppercase tracking-widest mb-2 border-t border-white/20 pt-1">Acervo Lusófono</span>
+                    </div>
+                    <div class="mt-3 text-center w-full">
+                        <p class="text-xs font-bold text-gray-800 uppercase truncate">Triste Fim de Policarpo Quaresma</p>
+                    </div>
+                </a>
+
+                <a href="livro.html" class="group flex flex-col items-center">
+                    <div class="w-full aspect-[2/3] bg-gradient-to-br from-[#9c6644] to-[#7f4f24] border-2 border-[#582f0e] shadow-md group-hover:shadow-xl transition-all duration-300 relative flex flex-col p-4 text-center justify-between">
+                        <span class="text-paper-100 text-[10px] uppercase tracking-widest opacity-80 mt-2">Eça de Queirós</span>
+                        <h4 class="font-serif text-white font-bold leading-tight">A Cidade e<br>as Serras</h4>
+                        <span class="text-gold-200 text-[9px] uppercase tracking-widest mb-2 border-t border-white/20 pt-1">Acervo Lusófono</span>
+                    </div>
+                    <div class="mt-3 text-center w-full">
+                        <p class="text-xs font-bold text-gray-800 uppercase truncate">A Cidade e as Serras</p>
+                    </div>
+                </a>
+
+                <a href="livro.html" class="group flex flex-col items-center">
+                    <div class="w-full aspect-[2/3] bg-gradient-to-br from-[#4a5759] to-[#2d3638] border-2 border-[#1c2223] shadow-md group-hover:shadow-xl transition-all duration-300 relative flex flex-col p-4 text-center justify-between">
+                        <span class="text-paper-100 text-[10px] uppercase tracking-widest opacity-80 mt-2">Machado de Assis</span>
+                        <h4 class="font-serif text-white font-bold leading-tight">O Alienista</h4>
+                        <span class="text-gold-200 text-[9px] uppercase tracking-widest mb-2 border-t border-white/20 pt-1">Acervo Lusófono</span>
+                    </div>
+                    <div class="mt-3 text-center w-full">
+                        <p class="text-xs font-bold text-gray-800 uppercase truncate">O Alienista</p>
+                    </div>
+                </a>
+
+                <a href="livro.html" class="group flex flex-col items-center hidden sm:flex">
+                    <div class="w-full aspect-[2/3] bg-gradient-to-br from-[#5e503f] to-[#3a3125] border-2 border-[#241e16] shadow-md group-hover:shadow-xl transition-all duration-300 relative flex flex-col p-4 text-center justify-between">
+                        <span class="text-paper-100 text-[10px] uppercase tracking-widest opacity-80 mt-2">Euclides da Cunha</span>
+                        <h4 class="font-serif text-white font-bold leading-tight">Os Sertões</h4>
+                        <span class="text-gold-200 text-[9px] uppercase tracking-widest mb-2 border-t border-white/20 pt-1">Acervo Lusófono</span>
+                    </div>
+                    <div class="mt-3 text-center w-full">
+                        <p class="text-xs font-bold text-gray-800 uppercase truncate">Os Sertões</p>
+                    </div>
+                </a>
+
+                <a href="livro.html" class="group flex flex-col items-center hidden lg:flex">
+                    <div class="w-full aspect-[2/3] bg-gradient-to-br from-[#774936] to-[#522d1f] border-2 border-[#33180f] shadow-md group-hover:shadow-xl transition-all duration-300 relative flex flex-col p-4 text-center justify-between">
+                        <span class="text-paper-100 text-[10px] uppercase tracking-widest opacity-80 mt-2">Fernando Pessoa</span>
+                        <h4 class="font-serif text-white font-bold leading-tight">Mensagem</h4>
+                        <span class="text-gold-200 text-[9px] uppercase tracking-widest mb-2 border-t border-white/20 pt-1">Acervo Lusófono</span>
+                    </div>
+                    <div class="mt-3 text-center w-full">
+                        <p class="text-xs font-bold text-gray-800 uppercase truncate">Mensagem</p>
+                    </div>
+                </a>
+
+            </div>
+        </div>
+    </main>
+
+</body>
+</html>

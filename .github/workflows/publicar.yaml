@@ -1,0 +1,67 @@
+name: Publicar Acervo
+
+# O gatilho: roda toda vez que você fizer um 'push' na branch principal
+on:
+  push:
+    branches:
+      - main
+      - master
+
+# Permissões necessárias de segurança para publicar no GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  construir-e-publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o código do repositório
+        uses: actions/checkout@v4
+
+      - name: Preparar as pastas estruturais
+        run: |
+          mkdir -p static/downloads
+          mkdir -p content/livros
+
+      - name: Instalar Pandoc e Motor Tipográfico
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-lang-portuguese
+
+      - name: Converter livros (De Markdown para PDF e ePub)
+        run: |
+          # Procura qualquer arquivo .md dentro da pasta de livros e converte
+          shopt -s nullglob
+          for file in content/livros/*.md; do
+            filename=$(basename "$file" .md)
+            echo "Forjando o livro: $filename"
+            
+            # Gera o ePub
+            pandoc "$file" -o "static/downloads/$filename.epub"
+            
+            # Gera o PDF com qualidade de impressão
+            pandoc "$file" -o "static/downloads/$filename.pdf" --pdf-engine=xelatex
+          done
+
+      - name: Instalar o Hugo (Gerador do Site)
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Construir o site com Hugo
+        run: hugo --minify
+
+      - name: Configurar o ambiente do GitHub Pages
+        uses: actions/configure-pages@v4
+
+      - name: Fazer o upload do site pronto
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+      - name: Publicar online no GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
