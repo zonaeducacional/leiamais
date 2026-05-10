@@ -1,9 +1,7 @@
 backend:
-  name: github
+  name: git-gateway
   repo: zonaeducacional/leiamais
   branch: main
-  base_url: https://github-cms-auth.vercel.app
-  auth_endpoint: /api/auth
 
 display_url: https://zonaeducacional.github.io/leiamais
 local_backend: true # Isto permite-lhe testar no computador antes de subir
