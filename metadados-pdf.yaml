@@ -1,0 +1,12 @@
+---
+geometry: "margin=3cm"
+mainfont: "DejaVu Serif"
+fontsize: 12pt
+lang: "pt-BR"
+header-includes: |
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[L]{Acervo Literário - Sérgio}
+  \fancyhead[R]{\thepage}
+  \fancyfoot[C]{Salinas da Margarida - Bahia}
+---

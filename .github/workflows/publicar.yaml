@@ -42,8 +42,7 @@ jobs:
             pandoc "$file" -o "static/downloads/$filename.epub"
             
             # Gera o PDF com qualidade de impressão
-            pandoc "$file" -o "static/downloads/$filename.pdf" --pdf-engine=xelatex
-          done
+            pandoc "$file" "metadados-pdf.yaml" -o "static/downloads/$filename.pdf" --pdf-engine=xelatex
 
       - name: Instalar o Hugo (Gerador do Site)
         uses: peaceiris/actions-hugo@v3
