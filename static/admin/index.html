@@ -4,10 +4,13 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Painel Administrativo - LeiaMais</title>
-    <link href="https://literaplus.netlify.app" type="text/admin" rel="site-url">
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
   <body>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+    <script>
+      // Força o admin a saber onde o "porteiro" (Identity) está morando
+      localStorage.setItem('netlifySiteId', 'literaplus.netlify.app');
+    </script>
   </body>
 </html>
