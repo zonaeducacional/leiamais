@@ -21,4 +21,17 @@ collections:
       - { label: "Autor", name: "autor", widget: "string" }
       - { label: "Ano", name: "ano", widget: "string" }
       - { label: "Categoria", name: "categoria", widget: "string" }
+      - { label: "ID Gutenberg (Opcional)", name: "gutenberg_id", widget: "string", required: false }
       - { label: "Texto do Livro", name: "body", widget: "markdown" }
+
+  - name: "importar"
+    label: "🚀 Importar Novo Livro"
+    folder: "content/importar"
+    create: true
+    slug: "importar-{{title}}"
+    fields:
+      - { label: "ID Gutenberg", name: "gutenberg_id", widget: "string" }
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Autor", name: "autor", widget: "string" }
+      - { label: "Ano", name: "ano", widget: "string" }
+      - { label: "Categoria", name: "categoria", widget: "string" }

@@ -5,10 +5,10 @@ on:
     branches:
       - main
       - master
-  workflow_dispatch: # Permite rodar manualmente se precisar
+  workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write # Necessário para fazer o commit de volta
   pages: write
   id-token: write
 
@@ -18,11 +18,26 @@ jobs:
     steps:
       - name: Baixar o código do repositório
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Preparar as pastas estruturais
         run: |
           mkdir -p static/downloads
           mkdir -p content/livros
+          mkdir -p content/importar
+
+      - name: Instalar Dependências Python
+        run: pip install pyyaml requests
+
+      - name: Processar Pedidos de Importação do Admin
+        run: python3 processar_importacoes.py
+
+      - name: Commitar novos livros importados
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 bot: livros importados via Admin"
+          file_pattern: "content/livros/*.md content/importar/*.md"
 
       - name: Instalar Pandoc e Motor Tipográfico
         run: |
@@ -35,12 +50,7 @@ jobs:
           for file in content/livros/*.md; do
             filename=$(basename "$file" .md)
             echo "Forjando o livro: $filename"
-            
-            # Gera o ePub
             pandoc "$file" -o "static/downloads/$filename.epub"
-            
-            # Gera o PDF com os seus metadados personalizados
-            # Usando xelatex para suportar as fontes do sistema
             pandoc "$file" --metadata-file="metadados-pdf.yaml" -o "static/downloads/$filename.pdf" --pdf-engine=xelatex
           done
 
