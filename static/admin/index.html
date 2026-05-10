@@ -1,16 +1,21 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Painel Administrativo - LeiaMais</title>
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  </head>
-  <body>
-    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-    <script>
-      // Força o admin a saber onde o "porteiro" (Identity) está morando
-      localStorage.setItem('netlifySiteId', 'literaplus.netlify.app');
-    </script>
-  </body>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin LeiaMais</title>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <script>
+    // GPS para o Admin não se perder
+    localStorage.setItem('netlifySiteId', 'literaplus.netlify.app');
+    
+    // Abre o login automaticamente se não estiver logado
+    if (!localStorage.getItem('netlify-cms-user')) {
+      window.netlifyIdentity.open();
+    }
+  </script>
+</body>
 </html>
