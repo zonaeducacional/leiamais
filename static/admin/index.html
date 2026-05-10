@@ -7,11 +7,26 @@
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
+  <!-- Decap CMS -->
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  
   <script>
-    // Isso limpa qualquer erro anterior e força o site certo
-    localStorage.removeItem('netlifySiteId');
-    localStorage.setItem('netlifySiteId', 'literaplus.netlify.app');
+    // Força o ID do site antes do CMS carregar totalmente
+    (function() {
+      const netlifySiteId = 'literaplus.netlify.app';
+      localStorage.setItem('netlifySiteId', netlifySiteId);
+      
+      // Monitora o login para redirecionar corretamente
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    })();
   </script>
 </body>
 </html>
