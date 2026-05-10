@@ -1,6 +1,6 @@
 ---
-title: "O Cortico"
-autor: "Aluisio Azevedo"
+title: "O Cortiço"
+autor: "Aluísio Azevedo"
 ano: "1890"
 categoria: "Naturalismo"
 ---

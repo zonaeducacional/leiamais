@@ -1,5 +1,5 @@
 ---
-title: "Memorias Postumas de Bras Cubas"
+title: "Memórias Póstumas de Brás Cubas"
 autor: "Machado de Assis"
 ano: "1881"
 categoria: "Realismo"
