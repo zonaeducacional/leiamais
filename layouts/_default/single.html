@@ -18,9 +18,16 @@
         </div>
 
         <div class="flex gap-4 border-t pt-6">
-            <a href="/downloads/{{ .File.TranslationBaseName }}.pdf" class="bg-yellow-600 text-white px-4 py-2 rounded font-bold">Baixar PDF</a>
-            <a href="/downloads/{{ .File.TranslationBaseName }}.epub" class="bg-yellow-600 text-white px-4 py-2 rounded font-bold">Baixar ePub</a>
-        </div>
+    <a href="{{ printf "downloads/%s.pdf" .File.TranslationBaseName | absURL }}" 
+       class="bg-yellow-600 hover:bg-yellow-700 text-white px-4 py-2 rounded font-bold transition-colors">
+       Baixar PDF
+    </a>
+    
+    <a href="{{ printf "downloads/%s.epub" .File.TranslationBaseName | absURL }}" 
+       class="bg-yellow-600 hover:bg-yellow-700 text-white px-4 py-2 rounded font-bold transition-colors">
+       Baixar ePub
+    </a>
+</div>
     </div>
 
 </body>
