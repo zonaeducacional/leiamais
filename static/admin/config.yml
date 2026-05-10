@@ -2,8 +2,11 @@ backend:
   name: github
   repo: zonaeducacional/leiamais
   branch: main
-  base_url: https://literaplus.netlify.app  # Atualizado com o novo nome
-  auth_endpoint: /auth
+  base_url: https://github-cms-auth.vercel.app
+  auth_endpoint: /api/auth
+
+display_url: https://zonaeducacional.github.io/leiamais
+local_backend: true # Isto permite-lhe testar no computador antes de subir
 
 media_folder: "static/images"
 public_folder: "/images"
@@ -17,6 +20,6 @@ collections:
     fields:
       - { label: "Título", name: "title", widget: "string" }
       - { label: "Autor", name: "autor", widget: "string" }
-      - { label: "Ano Original", name: "ano", widget: "string" }
+      - { label: "Ano", name: "ano", widget: "string" }
       - { label: "Categoria", name: "categoria", widget: "string" }
-      - { label: "Corpo do Texto", name: "body", widget: "markdown" }
+      - { label: "Texto do Livro", name: "body", widget: "markdown" }
