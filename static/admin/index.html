@@ -9,13 +9,7 @@
 <body>
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   <script>
-    // GPS para o Admin não se perder
     localStorage.setItem('netlifySiteId', 'literaplus.netlify.app');
-    
-    // Abre o login automaticamente se não estiver logado
-    if (!localStorage.getItem('netlify-cms-user')) {
-      window.netlifyIdentity.open();
-    }
   </script>
 </body>
 </html>
