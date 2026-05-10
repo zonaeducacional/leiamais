@@ -8,7 +8,7 @@
 <body class="bg-gray-50 text-gray-900 p-8 font-sans">
 
     <div class="max-w-2xl mx-auto bg-white p-8 shadow rounded">
-        <a href="/" class="text-blue-600 mb-4 inline-block">← Voltar ao Acervo</a>
+        <a href="{{ .Site.BaseURL }}" class="text-blue-600 mb-4 inline-block hover:underline font-medium">← Voltar ao Acervo</a>
         
         <h1 class="text-3xl font-bold font-serif">{{ .Title }}</h1>
         <p class="text-lg text-gray-600 mb-6">por <strong>{{ .Params.autor }}</strong> ({{ .Params.ano }})</p>
