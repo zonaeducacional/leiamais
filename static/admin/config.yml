@@ -2,8 +2,6 @@ backend:
   name: github
   repo: zonaeducacional/leiamais
   branch: main
-  base_url: https://zonaeducacional.github.io/leiamais/
-  auth_endpoint: admin/#
 
 display_url: https://zonaeducacional.github.io/leiamais
 local_backend: true # Isto permite-lhe testar no computador antes de subir
