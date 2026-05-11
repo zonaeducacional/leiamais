@@ -7,6 +7,7 @@ O Literosfera é uma plataforma educacional dedicada à curadoria e distribuiç�
 - **Hugo**: Gerador de sites estáticos de alta performance.
 - **Tailwind CSS**: Framework de estilização utilitária para um design responsivo e premium.
 - **Decap CMS (anteriormente Netlify CMS)**: Sistema de gerenciamento de conteúdo baseado em Git.
+- **Giscus**: Sistema de comentários baseado em GitHub Discussions.
 - **Google Fonts**: Tipografias modernas (Outfit e Merriweather).
 - **GitHub Actions**: Automação de deploy e processamento de livros.
 
@@ -28,6 +29,11 @@ O projeto está configurado para ser implantado via GitHub Pages / Netlify.
 URL: [https://zonaeducacional.github.io/leiamais/](https://zonaeducacional.github.io/leiamais/)
 
 ## Histórico de Modificações (Changelog)
+### v2.1 - 11/05/2026
+- **Sistema de Comentários**: Implementação do Giscus integrado ao GitHub Discussions para interação dos leitores.
+- **Melhoria na Importação**: Adicionado suporte para upload/link de capa diretamente no processo de importação do CMS.
+- **Robustez**: Escapamento de caracteres especiais em títulos para evitar quebra de YAML no Hugo.
+
 ### v2.0 - 11/05/2026
 - **Rebranding**: Mudança de nome para "Literosfera".
 - **Nova Identidade Visual**: Implementação de paleta de cores personalizada (Teal/Sage/Cream) com foco em contrastes profissionais e estética premium.

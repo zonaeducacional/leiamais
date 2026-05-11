@@ -59,6 +59,10 @@
                 radial-gradient(at 0% 0%, rgba(0, 204, 190, 0.15) 0px, transparent 50%),
                 radial-gradient(at 100% 100%, rgba(252, 249, 216, 0.05) 0px, transparent 50%);
         }
+        /* Customizar o iframe do Cusdis para modo dark se possível ou via CSS */
+        #cusdis_thread iframe {
+            color-scheme: dark;
+        }
     </style>
 </head>
 <body class="text-brand-100/90 min-h-screen selection:bg-brand-500/30">
@@ -186,28 +190,38 @@
                     </div>
                 </div>
 
-                <!-- SEÇÃO DE COMENTÁRIOS (GISCUS) -->
+                <!-- SEÇÃO DE COMENTÁRIOS (CUSDIS) -->
                 <div class="mt-20 border-t border-white/10 pt-12">
                     <h2 class="text-3xl font-bold text-white mb-8 flex items-center gap-3">
                         <svg class="w-8 h-8 text-brand-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path></svg>
-                        Comentários & Discussões
+                        Comentários
                     </h2>
                     
-                    <div class="glass p-6 md:p-10 rounded-3xl">
-                        <script src="https://giscus.app/client.js"
-                                data-repo="zonaeducacional/leiamais"
-                                data-repo-id="R_kgDOMEyVyw"
-                                data-category="General"
-                                data-category-id="DIC_kwDOMEyVy84CfnZ-"
-                                data-mapping="pathname"
-                                data-strict="0"
-                                data-reactions-enabled="1"
-                                data-emit-metadata="0"
-                                data-input-position="top"
-                                data-theme="dark_dimmed"
-                                data-lang="pt"
-                                crossorigin="anonymous"
-                                async>
+                    <div class="glass p-6 md:p-10 rounded-3xl bg-white/[0.02]">
+                        <div id="cusdis_thread"
+                             data-host="https://cusdis.com"
+                             data-app-id="9206b0d9-0b81-42e5-9c8c-1e82d334585d"
+                             data-page-id="{{ .File.TranslationBaseName }}"
+                             data-page-url="{{ .Permalink }}"
+                             data-page-title="{{ .Title }}"
+                             data-theme="dark">
+                        </div>
+                        <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+                        <script>
+                            window.CUSDIS_LOCALE = {
+                                "powered_by": "Comentários por Cusdis",
+                                "post_comment": "Enviar Comentário",
+                                "placeholder": "Escreva seu comentário aqui...",
+                                "email": "Email (opcional)",
+                                "nickname": "Nome",
+                                "reply_placeholder": "Responder...",
+                                "reply_btn": "Responder",
+                                "sending": "Enviando...",
+                                "mod_badge": "Moderador",
+                                "load_more": "Carregar mais",
+                                "empty": "Nenhum comentário ainda. Seja o primeiro!",
+                                "loading": "Carregando..."
+                            }
                         </script>
                     </div>
                 </div>
