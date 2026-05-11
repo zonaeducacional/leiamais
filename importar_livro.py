@@ -9,7 +9,7 @@ def slugify(text):
     text = unicodedata.normalize('NFD', text).encode('ascii', 'ignore').decode('utf-8')
     return re.sub(r'[^a-z0-9]+', '-', text).strip('-')
 
-def importar(book_id, titulo, autor, ano, categoria):
+def importar(book_id, titulo, autor, ano, categoria, capa=""):
     url = f"https://www.gutenberg.org/cache/epub/{book_id}/pg{book_id}.txt"
     print(f"--- Iniciando captura de: {titulo} ---")
     
@@ -43,7 +43,7 @@ title: "{titulo_esc}"
 autor: "{autor_esc}"
 ano: "{ano}"
 categoria: "{categoria}"
-capa: ""
+capa: "{capa}"
 sinopse: "Sinopse ainda não disponível para esta obra clássica."
 ---
 
@@ -66,7 +66,8 @@ sinopse: "Sinopse ainda não disponível para esta obra clássica."
     print(f"📍 Local: {caminho_completo}")
 
 if __name__ == "__main__":
-    if len(sys.argv) == 6:
-        importar(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5])
+    if len(sys.argv) >= 6:
+        capa_val = sys.argv[6] if len(sys.argv) > 6 else ""
+        importar(sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4], sys.argv[5], capa_val)
     else:
-        print("\nUso correto: python3 importar_livro.py [ID] [Titulo] [Autor] [Ano] [Categoria]")
+        print("\nUso correto: python3 importar_livro.py [ID] [Titulo] [Autor] [Ano] [Categoria] [Capa (opcional)]")

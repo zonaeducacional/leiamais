@@ -20,8 +20,14 @@ def processar():
         with open(caminho, "r", encoding="utf-8") as f:
             # Extrai o frontmatter (o YAML no topo do arquivo)
             try:
-                conteudo = f.read().split("---")[1]
+                partes = f.read().split("---")
+                if len(partes) < 2:
+                    continue
+                conteudo = partes[1]
                 dados = yaml.safe_load(conteudo)
+                
+                # Extrai capa se existir
+                capa = dados.get("capa", "")
                 
                 # Chama o seu script de importação original
                 cmd = [
@@ -30,7 +36,8 @@ def processar():
                     dados["title"],
                     dados["autor"],
                     dados["ano"],
-                    dados["categoria"]
+                    dados["categoria"],
+                    capa
                 ]
                 subprocess.run(cmd, check=True)
                 

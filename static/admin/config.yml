@@ -40,3 +40,4 @@ collections:
       - { label: "Autor", name: "autor", widget: "string" }
       - { label: "Ano", name: "ano", widget: "string" }
       - { label: "Categoria", name: "categoria", widget: "string" }
+      - { label: "Capa do Livro (URL ou Upload)", name: "capa", widget: "image", required: false }
