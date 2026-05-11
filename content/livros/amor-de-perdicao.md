@@ -3,6 +3,8 @@ title: "Amor de Perdição"
 autor: "Camilo Castelo Branco"
 ano: "1862"
 categoria: "Romantismo"
+capa: ""
+sinopse: "Sinopse ainda não disponível para esta obra clássica."
 ---
 
 Produced by Biblioteca Nacional Digital (http://bnd.bn.pt),

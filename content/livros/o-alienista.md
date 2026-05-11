@@ -3,6 +3,8 @@ title: "O Alienista"
 autor: "Machado de Assis"
 ano: "1882"
 categoria: "Realismo"
+capa: ""
+sinopse: "Sinopse ainda não disponível para esta obra clássica."
 ---
 
 Produced by Laura Natal Rodrigues & Marc D'Hooghe at Free

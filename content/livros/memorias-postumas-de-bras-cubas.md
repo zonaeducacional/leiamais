@@ -3,6 +3,8 @@ title: "Memórias Póstumas de Brás Cubas"
 autor: "Machado de Assis"
 ano: "1881"
 categoria: "Realismo"
+capa: ""
+sinopse: "Sinopse ainda não disponível para esta obra clássica."
 ---
 
 MEMÓRIAS PÓSTHUMAS

@@ -3,6 +3,8 @@ title: "Iracema"
 autor: "José de Alencar"
 ano: "1865"
 categoria: "Romantismo"
+capa: ""
+sinopse: "Sinopse ainda não disponível para esta obra clássica."
 ---
 
 BIBLIOTHECA UNIVERSAL

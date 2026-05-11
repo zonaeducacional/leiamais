@@ -39,6 +39,8 @@ title: "{titulo}"
 autor: "{autor}"
 ano: "{ano}"
 categoria: "{categoria}"
+capa: ""
+sinopse: "Sinopse ainda não disponível para esta obra clássica."
 ---
 
 {texto.strip()}

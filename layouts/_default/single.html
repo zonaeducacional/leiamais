@@ -1,74 +1,200 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-BR" class="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Title }} | Acervo Lusófono</title>
+    <title>{{ .Title }} | Literosfera</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Merriweather:ital,wght@0,300;0,700;1,300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     <script>
         tailwind.config = {
+            darkMode: 'class',
             theme: {
                 extend: {
-                    fontFamily: { sans: ['Inter', 'sans-serif'], serif: ['Merriweather', 'serif'] },
+                    fontFamily: { 
+                        sans: ['Outfit', 'sans-serif'], 
+                        serif: ['Merriweather', 'serif'] 
+                    },
                     colors: {
-                        paper: { 50: '#fdfbf7', 100: '#f8f4e6', 800: '#3d382e', 900: '#29251f' },
-                        gold: { 200: '#f1e29e', 300: '#e5c965', 400: '#d5aa31', 900: '#5c410a' }
+                        brand: {
+                            100: '#fcf9d8',
+                            200: '#edebc9',
+                            300: '#9dbfaf',
+                            500: '#00ccbe',
+                            600: '#09a6a3',
+                        },
+                        slate: {
+                            950: '#010f0e'
+                        }
+                    },
+                    animation: {
+                        'fade-in': 'fadeIn 0.5s ease-out forwards',
+                        'slide-up': 'slideUp 0.6s ease-out forwards',
+                        'float': 'float 3s ease-in-out infinite',
+                    },
+                    keyframes: {
+                        fadeIn: { '0%': { opacity: '0' }, '100%': { opacity: '1' } },
+                        slideUp: { '0%': { transform: 'translateY(20px)', opacity: '0' }, '100%': { transform: 'translateY(0)', opacity: '1' } },
+                        float: { '0%, 100%': { transform: 'translateY(0)' }, '50%': { transform: 'translateY(-10px)' } },
                     }
                 }
             }
         }
     </script>
+    <style>
+        .glass {
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        .text-gradient {
+            background: linear-gradient(to right, #00ccbe, #9dbfaf);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        body {
+            background-color: #010f0e;
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(0, 204, 190, 0.15) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(252, 249, 216, 0.05) 0px, transparent 50%);
+        }
+    </style>
 </head>
-<body class="bg-paper-50 text-paper-900 font-sans antialiased min-h-screen flex flex-col">
+<body class="text-brand-100/90 min-h-screen selection:bg-brand-500/30">
 
-    <main class="flex-grow py-12">
-        <div class="max-w-3xl mx-auto px-4 sm:px-6">
-            
-            <a href="{{ "" | relURL }}" class="text-paper-800 mb-8 inline-flex items-center gap-2 hover:text-gold-900 transition-colors uppercase text-xs font-bold tracking-widest">
+    <nav class="fixed top-0 w-full z-50 glass border-b border-white/5">
+        <div class="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
+            <a href="{{ "" | relURL }}" class="flex items-center gap-2 group">
+                <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-brand-500 to-brand-600 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
+                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.168 0.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332 0.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332 0.477-4.5 1.253"></path></svg>
+                </div>
+                <span class="text-xl font-bold tracking-tight text-white">Litero<span class="text-brand-500">sfera</span></span>
+            </a>
+            <a href="{{ "" | relURL }}" class="text-sm font-medium hover:text-brand-500 transition-colors uppercase tracking-widest flex items-center gap-2 text-brand-300">
                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg>
                 Voltar ao Acervo
             </a>
+        </div>
+    </nav>
 
-            <article class="bg-white rounded-2xl shadow-xl border border-gray-100 overflow-hidden">
-                <div class="bg-paper-800 p-8 md:p-12 text-center border-b-8 border-gold-400">
-                    <span class="text-paper-100 text-xs font-semibold uppercase tracking-widest mb-4 block opacity-80">{{ .Params.autor }}</span>
-                    <h1 class="font-serif text-white text-4xl md:text-5xl font-bold leading-tight">{{ .Title }}</h1>
-                    <div class="mt-6 flex justify-center gap-4 text-paper-100/60 text-sm uppercase tracking-wider">
-                        <span>{{ .Params.ano }}</span>
-                        <span>•</span>
-                        <span>{{ .Params.categoria }}</span>
+    <main class="pt-32 pb-20 px-6">
+        <div class="max-w-5xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12 items-start">
+            
+            <!-- Book Cover Column -->
+            <div class="lg:col-span-4 animate-fade-in">
+                <div class="relative group">
+                    <div class="absolute -inset-1 bg-gradient-to-r from-brand-500 to-brand-300 rounded-2xl blur opacity-25 group-hover:opacity-50 transition duration-1000"></div>
+                    <div class="relative aspect-[2/3] rounded-2xl overflow-hidden glass shadow-2xl animate-float">
+                        {{ if .Params.capa }}
+                        <img src="{{ .Params.capa | relURL }}" alt="{{ .Title }}" class="w-full h-full object-cover">
+                        {{ else }}
+                        <div class="w-full h-full flex flex-col items-center justify-center p-8 text-center bg-gradient-to-b from-slate-800 to-slate-950">
+                            <svg class="w-16 h-16 text-brand-500/20 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.168 0.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332 0.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332 0.477-4.5 1.253"></path></svg>
+                            <h3 class="font-serif text-xl font-bold text-slate-400">{{ .Title }}</h3>
+                            <p class="text-sm text-slate-500 mt-2">{{ .Params.autor }}</p>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+                
+                {{ if .Params.fonte }}
+                <div class="mt-6 p-4 rounded-xl glass border border-brand-500/10 text-center">
+                    <span class="text-xs font-bold uppercase tracking-widest text-brand-300/50 block mb-1">Fonte</span>
+                    <span class="text-sm text-brand-500 font-semibold">{{ .Params.fonte }}</span>
+                </div>
+                {{ end }}
+            </div>
+
+            <!-- Content Column -->
+            <div class="lg:col-span-8 animate-slide-up">
+                <div class="mb-8">
+                    <span class="text-brand-500 font-semibold tracking-widest uppercase text-sm mb-2 block">{{ .Params.autor }}</span>
+                    <h1 class="text-5xl md:text-6xl font-bold text-white mb-6 leading-tight">{{ .Title }}</h1>
+                    
+                    <div class="flex flex-wrap gap-4 mb-8">
+                        <div class="px-4 py-2 rounded-full glass text-xs font-bold uppercase tracking-wider text-brand-200/70 flex items-center gap-2">
+                            <span class="w-2 h-2 rounded-full bg-brand-500"></span>
+                            {{ .Params.categoria }}
+                        </div>
+                        <div class="px-4 py-2 rounded-full glass text-xs font-bold uppercase tracking-wider text-brand-200/70 flex items-center gap-2">
+                            <span class="w-2 h-2 rounded-full bg-brand-300"></span>
+                            {{ .Params.ano }}
+                        </div>
+                        <div class="px-4 py-2 rounded-full glass text-xs font-bold uppercase tracking-wider text-brand-200/70 flex items-center gap-2">
+                            <span class="w-2 h-2 rounded-full bg-green-400"></span>
+                            Domínio Público
+                        </div>
+                    </div>
+
+                    <!-- Botões de Download no Topo -->
+                    <div class="flex flex-col sm:flex-row gap-4 mb-10 animate-slide-up" style="animation-delay: 0.1s">
+                        {{ $pdf_url := "" }}
+                        {{ if .Params.pdf_externo }}
+                            {{ $pdf_url = .Params.pdf_externo }}
+                        {{ else }}
+                            {{ $pdf_url = printf "downloads/%s.pdf" .File.TranslationBaseName | relURL }}
+                        {{ end }}
+
+                        {{ $epub_url := "" }}
+                        {{ if .Params.epub_externo }}
+                            {{ $epub_url = .Params.epub_externo }}
+                        {{ else }}
+                            {{ $epub_url = printf "downloads/%s.epub" .File.TranslationBaseName | relURL }}
+                        {{ end }}
+
+                        <a href="{{ $pdf_url }}" target="_blank"
+                           class="flex-1 py-4 px-6 rounded-xl bg-brand-500 hover:bg-brand-600 text-slate-950 font-bold flex items-center justify-center gap-3 transition-all shadow-lg shadow-brand-500/20 hover:scale-[1.02] active:scale-95">
+                            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 21h10a2 2 0 002-2V9.414a1 1 0 00-.293-.707l-5.414-5.414A1 1 0 0012.586 3H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
+                            BAIXAR PDF
+                        </a>
+                        <a href="{{ $epub_url }}" target="_blank"
+                           class="flex-1 py-4 px-6 rounded-xl glass hover:bg-white/10 text-white font-bold flex items-center justify-center gap-3 transition-all hover:scale-[1.02] active:scale-95">
+                            <svg class="w-6 h-6 text-brand-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.168 0.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332 0.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332 0.477-4.5 1.253"></path></svg>
+                            BAIXAR EPUB
+                        </a>
                     </div>
                 </div>
 
-                <div class="p-8 md:p-12">
-                    <div class="prose prose-paper max-w-none font-serif text-lg leading-relaxed text-gray-800">
+                <div class="glass p-8 md:p-10 rounded-3xl mb-12">
+                    <h2 class="text-2xl font-bold text-white mb-6 flex items-center gap-3">
+                        <svg class="w-6 h-6 text-brand-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.168 0.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332 0.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332 0.477-4.5 1.253"></path></svg>
+                        Sinopse
+                    </h2>
+                    <div class="prose prose-invert prose-lg max-w-none text-brand-200/80 leading-relaxed font-light">
+                        {{ if .Params.sinopse }}
+                            {{ .Params.sinopse | markdownify }}
+                        {{ else }}
+                            <p class="italic text-brand-300/40">Sinopse indisponível no momento para esta obra clássica.</p>
+                        {{ end }}
+                    </div>
+                </div>
+
+                <div class="mt-12 text-center p-12 rounded-3xl border-2 border-dashed border-white/10 hover:border-brand-500/30 transition-colors group">
+                    <h3 class="text-xl font-bold text-white mb-4">Deseja ler agora mesmo?</h3>
+                    <p class="text-brand-300/60 mb-8 max-w-md mx-auto">Você pode baixar a versão completa ou visualizar uma prévia online clicando no botão abaixo.</p>
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                        <button onclick="document.getElementById('full-content').classList.toggle('hidden')" class="px-8 py-3 rounded-xl border border-white/20 hover:bg-white/5 transition-all text-sm font-bold uppercase tracking-widest text-brand-200">
+                            Ver Prévia Online
+                        </button>
+                    </div>
+                </div>
+
+                <div id="full-content" class="hidden mt-12 glass p-10 rounded-3xl">
+                    <div class="prose prose-invert prose-paper max-w-none font-serif text-lg leading-loose text-brand-200/90">
                         {{ .Content }}
                     </div>
-
-                    <div class="mt-12 pt-8 border-t border-gray-100 flex flex-col sm:flex-row gap-4">
-                        <a href="{{ printf "downloads/%s.pdf" .File.TranslationBaseName | relURL }}" 
-                           class="flex-1 text-center bg-paper-900 text-white font-bold py-4 px-6 rounded-xl hover:bg-gold-900 transition-all shadow-lg hover:shadow-gold-200/50 flex items-center justify-center gap-3">
-                           <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
-                           BAIXAR PDF (EDIDÇÃO DE LUXO)
-                        </a>
-                        
-                        <a href="{{ printf "downloads/%s.epub" .File.TranslationBaseName | relURL }}" 
-                           class="flex-1 text-center bg-white text-paper-900 border-2 border-paper-900 font-bold py-4 px-6 rounded-xl hover:bg-paper-50 transition-all flex items-center justify-center gap-3">
-                           <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.168 0.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332 0.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332 0.477-4.5 1.253"></path></svg>
-                           BAIXAR EPUB
-                        </a>
-                    </div>
                 </div>
-            </article>
-
+            </div>
         </div>
     </main>
 
-    <footer class="bg-paper-100 border-t border-gray-200 mt-auto">
-        <div class="max-w-7xl mx-auto px-4 py-8 text-center">
-            <p class="text-sm text-paper-800 font-medium tracking-wide uppercase">Acervo Lusófono - Domínio Público</p>
-            <p class="text-xs text-gray-500 mt-2 italic">Promovendo o acesso universal à literatura em língua portuguesa.</p>
+    <footer class="py-12 border-t border-white/5 mt-20 text-center">
+        <div class="max-w-7xl mx-auto px-6">
+            <p class="text-sm font-bold tracking-[0.2em] uppercase text-brand-300/40">Literosfera • Acervo Lusófono</p>
+            <p class="text-xs text-brand-200/50 mt-4 max-w-xl mx-auto leading-relaxed">
+                Desenvolvido pelo Prof. Sérgio Araújo para LPT e Língua Portuguesa . 2026.
+            </p>
         </div>
     </footer>
 

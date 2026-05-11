@@ -21,8 +21,13 @@ collections:
       - { label: "Autor", name: "autor", widget: "string" }
       - { label: "Ano", name: "ano", widget: "string" }
       - { label: "Categoria", name: "categoria", widget: "string" }
+      - { label: "Capa do Livro", name: "capa", widget: "image", required: false }
+      - { label: "Sinopse", name: "sinopse", widget: "text" }
       - { label: "ID Gutenberg (Opcional)", name: "gutenberg_id", widget: "string", required: false }
-      - { label: "Texto do Livro", name: "body", widget: "markdown" }
+      - { label: "Link PDF Externo (Opcional)", name: "pdf_externo", widget: "string", required: false }
+      - { label: "Link EPUB Externo (Opcional)", name: "epub_externo", widget: "string", required: false }
+      - { label: "Fonte do Livro (Ex: BN, Gutenberg)", name: "fonte", widget: "string", required: false }
+      - { label: "Texto do Livro (Opcional)", name: "body", widget: "markdown", required: false }
 
   - name: "importar"
     label: "🚀 Importar Novo Livro"

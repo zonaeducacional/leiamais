@@ -3,6 +3,8 @@ title: "Dom Casmurro"
 autor: "Machado de Assis"
 ano: "1899"
 categoria: "Realismo"
+capa: "/images/dom-casmurro-capa.png"
+sinopse: "Dom Casmurro é a história de Bento Santiago, o narrador que reconstrói suas memórias de infância e juventude, marcadas pela paixão arrebatadora por Capitu. A obra é famosa pela ambiguidade do ciúme de Bentinho, que suspeita da traição de sua esposa com seu melhor amigo, Escobar. Um clássico sobre a dúvida, a memória e a alma humana."
 ---
 
 DOM CASMURRO

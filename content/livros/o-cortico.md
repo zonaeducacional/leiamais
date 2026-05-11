@@ -3,6 +3,8 @@ title: "O Cortiço"
 autor: "Aluísio Azevedo"
 ano: "1890"
 categoria: "Naturalismo"
+capa: ""
+sinopse: "Sinopse ainda não disponível para esta obra clássica."
 ---
 
 ALUIZIO AZEVEDO

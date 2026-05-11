@@ -1,114 +1,140 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-BR" class="dark">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ .Site.Title }} | Acervo Lusófono</title>
+    <title>{{ .Title }} | {{ .Site.Params.subtitle }}</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Merriweather:ital,wght@0,300;0,700;1,300&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Merriweather:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <script>
         tailwind.config = {
+            darkMode: 'class',
             theme: {
                 extend: {
-                    fontFamily: { sans: ['Inter', 'sans-serif'], serif: ['Merriweather', 'serif'] },
+                    fontFamily: { 
+                        sans: ['Outfit', 'sans-serif'], 
+                        serif: ['Merriweather', 'serif'] 
+                    },
                     colors: {
-                        paper: { 50: '#fdfbf7', 100: '#f8f4e6', 800: '#3d382e', 900: '#29251f' },
-                        gold: { 200: '#f1e29e', 300: '#e5c965', 400: '#d5aa31', 900: '#5c410a' }
+                        brand: {
+                            100: '#fcf9d8',
+                            200: '#edebc9',
+                            300: '#9dbfaf',
+                            500: '#00ccbe',
+                            600: '#09a6a3',
+                        },
+                        slate: {
+                            950: '#010f0e' // Custom dark green-slate for contrast
+                        }
                     }
                 }
             }
         }
     </script>
+    <style>
+        .glass {
+            background: rgba(255, 255, 255, 0.03);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+        body {
+            background-color: #010f0e;
+            background-image: 
+                radial-gradient(at 0% 0%, rgba(0, 204, 190, 0.15) 0px, transparent 50%),
+                radial-gradient(at 100% 100%, rgba(252, 249, 216, 0.05) 0px, transparent 50%);
+        }
+    </style>
 </head>
-<body class="bg-paper-50 text-paper-900 font-sans antialiased min-h-screen flex flex-col">
+<body class="text-brand-100/90 min-h-screen">
 
-    <section class="relative bg-[url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?q=80&w=2000&auto=format&fit=crop')] bg-cover bg-center py-20 md:py-32">
-        <div class="absolute inset-0 bg-paper-100/80 backdrop-blur-[2px]"></div>
-        
-        <div class="relative z-10 max-w-4xl mx-auto px-4 text-center">
-            <h2 class="font-serif text-3xl md:text-5xl text-paper-900 font-bold mb-8 uppercase tracking-widest">
-                Baixar Livros Livres
-            </h2>
+    <nav class="fixed top-0 w-full z-50 glass border-b border-white/5">
+        <div class="max-w-7xl mx-auto px-6 h-20 flex items-center justify-between">
+            <a href="/" class="flex items-center gap-2 group">
+                <div class="w-10 h-10 rounded-xl bg-gradient-to-br from-brand-500 to-brand-600 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
+                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.168 0.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332 0.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332 0.477-4.5 1.253"></path></svg>
+                </div>
+                <span class="text-xl font-bold tracking-tight text-white">Litero<span class="text-brand-500">sfera</span></span>
+            </a>
+            <div class="flex gap-6">
+                <a href="/admin/" class="text-sm font-medium hover:text-brand-500 transition-colors uppercase tracking-widest">Admin</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="pt-40 pb-20 px-6 text-center">
+        <div class="max-w-4xl mx-auto">
+            <h1 class="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
+                {{ .Site.Title }} <br/>
+                <span class="text-transparent bg-clip-text bg-gradient-to-r from-brand-500 to-brand-300">{{ .Site.Params.subtitle }}</span>
+            </h1>
+            <p class="text-xl text-brand-200/60 mb-8 max-w-2xl mx-auto">
+                Explore nosso acervo digital de obras em domínio público. Baixe em PDF ou EPUB e comece sua jornada literária hoje mesmo.
+            </p>
             
-            <div class="flex flex-col sm:flex-row shadow-2xl rounded-sm overflow-hidden bg-white max-w-2xl mx-auto border border-gray-200">
-                <input 
-                    type="text" 
-                    placeholder="QUE LIVRO VOCÊ BUSCA?" 
-                    class="w-full px-6 py-4 text-gray-700 outline-none uppercase text-sm md:text-base font-medium placeholder-gray-400"
-                >
-                <button class="bg-gold-300 hover:bg-gold-400 text-gold-900 px-8 py-4 font-bold flex items-center justify-center gap-2 transition-colors uppercase tracking-wider">
-                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+            <div class="glass max-w-2xl mx-auto rounded-3xl p-6 mb-12 text-left">
+                <h3 class="text-brand-500 font-bold mb-2 flex items-center gap-2">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                    Sobre o Acervo
+                </h3>
+                <p class="text-sm text-brand-200/80 leading-relaxed">
+                    Todas as obras contidas nesta plataforma são de <strong>Domínio Público</strong>. Isso significa que seus direitos autorais expiraram ou foram renunciados, permitindo que sejam compartilhadas, baixadas e lidas livremente por qualquer pessoa, em qualquer lugar, promovendo a democratização do acesso à cultura e ao conhecimento.
+                </p>
+            </div>
+
+            <div class="glass max-w-2xl mx-auto rounded-2xl p-2 flex gap-2">
+                <input type="text" placeholder="Buscar por título ou autor..." class="bg-transparent border-none outline-none px-6 py-3 flex-grow text-white placeholder-brand-300/30">
+                <button class="bg-brand-500 hover:bg-brand-600 text-slate-950 font-bold px-8 py-3 rounded-xl transition-all shadow-lg shadow-brand-500/20">
                     Buscar
                 </button>
             </div>
         </div>
-    </section>
+    </header>
 
-    <main class="flex-grow bg-paper-50 py-12 border-t border-gray-200">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            
-            <div class="mb-8 border-b border-gray-300 pb-4">
-                <h3 class="font-serif text-2xl md:text-3xl text-paper-900 uppercase tracking-wider mb-2">Últimos livros adicionados</h3>
-                <p class="text-gray-600 text-sm md:text-base uppercase tracking-wide">Explore as obras fundamentais do nosso acervo.</p>
-            </div>
+    <main class="max-w-7xl mx-auto px-6 py-20">
+        <div class="flex items-center justify-between mb-12">
+            <h2 class="text-3xl font-bold text-white">Obras em Destaque</h2>
+            <div class="h-px flex-grow mx-8 bg-white/10"></div>
+        </div>
 
-            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+            {{ range (where .Site.RegularPages "Section" "livros") }}
+            <a href="{{ .RelPermalink }}" class="group relative block rounded-3xl overflow-hidden glass hover:bg-white/5 transition-all duration-500 hover:-translate-y-2">
+                <div class="aspect-[2/3] relative overflow-hidden">
+                    {{ if .Params.capa }}
+                    <img src="{{ .Params.capa | relURL }}" alt="{{ .Title }}" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                    {{ else }}
+                    <div class="w-full h-full bg-gradient-to-br from-slate-800 to-slate-950 flex flex-col items-center justify-center p-8 text-center">
+                        <svg class="w-16 h-16 text-white/5 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.168 0.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332 0.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332 0.477-4.5 1.253"></path></svg>
+                        <h3 class="text-xl font-bold text-white/40 font-serif">{{ .Title }}</h3>
+                    </div>
+                    {{ end }}
+                    <div class="absolute inset-0 bg-gradient-to-t from-slate-950 via-transparent to-transparent opacity-60"></div>
+                </div>
                 
-                {{ range (where .Site.RegularPages "Section" "livros") }}
-                <article class="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden hover:shadow-md transition-shadow flex flex-col h-full">
-                    <div class="bg-paper-800 p-6 flex-grow flex flex-col justify-center items-center text-center border-b-4 border-gold-400 min-h-[200px]">
-                        <span class="text-paper-100 text-xs font-semibold uppercase tracking-widest mb-2 opacity-80">{{ .Params.autor }}</span>
-                        <h3 class="font-serif text-white text-2xl font-bold leading-snug">{{ .Title }}</h3>
+                <div class="p-6">
+                    <span class="text-brand-500 text-xs font-bold uppercase tracking-widest">{{ .Params.autor }}</span>
+                    <h3 class="text-2xl font-bold text-white mt-1 group-hover:text-brand-500 transition-colors">{{ .Title }}</h3>
+                    <div class="flex items-center gap-4 mt-4 text-sm text-brand-300/50 font-medium">
+                        <span>{{ .Params.ano }}</span>
+                        <span class="w-1 h-1 rounded-full bg-brand-600"></span>
+                        <span>{{ .Params.categoria }}</span>
                     </div>
-
-                    <div class="p-5 flex flex-col flex-grow">
-                        <div class="flex justify-between items-center mb-3">
-                            <span class="bg-gray-100 text-gray-700 text-xs px-2 py-1 rounded font-medium">{{ .Params.ano }}</span>
-                            <span class="text-xs font-medium text-gray-500">{{ .Params.categoria }}</span>
-                        </div>
-                        
-                        <div class="text-sm text-gray-600 mb-4 line-clamp-3 italic">
-                            {{ .Summary }}
-                        </div>
-
-                        <div class="mt-auto pt-4 border-t border-gray-50">
-                            <a href="{{ .RelPermalink }}" class="block w-full text-center bg-paper-900 text-white font-medium py-2 px-4 rounded-lg hover:bg-gold-900 transition-colors">
-                                Detalhes e Download
-                            </a>
-                        </div>
-                    </div>
-                </article>
-                {{ end }}
-
-            </div>
-
-            {{ if eq (len (where .Site.RegularPages "Section" "livros")) 0 }}
-            <div class="text-center py-20">
-                <p class="text-gray-500 italic font-serif text-xl">O acervo está sendo higienizado. Volte em breve!</p>
-            </div>
+                </div>
+            </a>
             {{ end }}
-
         </div>
     </main>
 
-    <footer class="bg-paper-100 border-t border-gray-200 mt-auto">
-        <div class="max-w-7xl mx-auto px-4 py-8 text-center">
-            <p class="text-sm text-paper-800 font-medium tracking-wide uppercase">Acervo Lusófono - Domínio Público</p>
-            <p class="text-xs text-gray-500 mt-2 italic">Promovendo o acesso universal à literatura em língua portuguesa.</p>
+    <footer class="py-12 border-t border-white/5 mt-20 text-center">
+        <div class="max-w-7xl mx-auto px-6">
+            <p class="text-sm font-bold tracking-[0.2em] uppercase text-brand-300/40">Literosfera • Acervo Lusófono</p>
+            <p class="text-xs text-brand-200/50 mt-4 max-w-xl mx-auto leading-relaxed">
+                Desenvolvido pelo Prof. Sérgio Araújo para LPT e Língua Portuguesa . 2026.
+            </p>
         </div>
     </footer>
 
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
 </body>
 </html>

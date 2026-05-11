@@ -1,7 +1,8 @@
 baseURL = 'https://zonaeducacional.github.io/leiamais/'
 languageCode = 'pt-br'
-title = 'LeiaMais - Acervo'
+title = 'Literosfera'
 theme = []
 
 [params]
+    subtitle = 'Acervo Lusófono - Domínio Público'
     description = 'Acervo literário de domínio público para estudantes e professores.'
