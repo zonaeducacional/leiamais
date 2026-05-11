@@ -59,6 +59,9 @@
                 radial-gradient(at 0% 0%, rgba(0, 204, 190, 0.15) 0px, transparent 50%),
                 radial-gradient(at 100% 100%, rgba(252, 249, 216, 0.05) 0px, transparent 50%);
         }
+        .book-pattern {
+            background-image: url('https://www.transparenttextures.com/patterns/paper.png');
+        }
     </style>
 </head>
 <body class="text-brand-100/90 min-h-screen selection:bg-brand-500/30">
@@ -89,10 +92,15 @@
                         {{ if .Params.capa }}
                         <img src="{{ .Params.capa | relURL }}" alt="{{ .Title }}" class="w-full h-full object-cover">
                         {{ else }}
-                        <div class="w-full h-full flex flex-col items-center justify-center p-8 text-center bg-gradient-to-b from-slate-800 to-slate-950">
-                            <svg class="w-16 h-16 text-brand-500/20 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.168 0.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332 0.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332 0.477-4.5 1.253"></path></svg>
-                            <h3 class="font-serif text-xl font-bold text-slate-400">{{ .Title }}</h3>
-                            <p class="text-sm text-slate-500 mt-2">{{ .Params.autor }}</p>
+                        <div class="w-full h-full bg-gradient-to-br from-brand-600/30 to-slate-950 flex flex-col items-center justify-center p-10 text-center relative">
+                            <div class="absolute inset-0 opacity-10 book-pattern"></div>
+                            <div class="relative z-10">
+                                <svg class="w-16 h-16 text-brand-500/20 mb-8 mx-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.168 0.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332 0.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332 0.477-4.5 1.253"></path></svg>
+                                <h3 class="text-3xl font-bold text-brand-100 font-serif leading-tight mb-4 px-2">{{ .Title }}</h3>
+                                <div class="w-16 h-0.5 bg-brand-500/40 mx-auto my-6"></div>
+                                <p class="text-sm text-brand-300 font-medium uppercase tracking-[0.3em]">{{ .Params.autor }}</p>
+                            </div>
+                            <div class="absolute bottom-0 left-0 w-full h-2 bg-gradient-to-r from-brand-500/0 via-brand-500/50 to-brand-500/0"></div>
                         </div>
                         {{ end }}
                     </div>
