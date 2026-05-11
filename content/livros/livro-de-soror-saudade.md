@@ -1,5 +1,5 @@
 ---
-title: "Livro de "Soror Saudade""
+title: "Livro de 'Soror Saudade'"
 autor: "Florbela Espanca"
 ano: "1923"
 categoria: "Poesia"

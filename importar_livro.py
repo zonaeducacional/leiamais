@@ -34,9 +34,13 @@ def importar(book_id, titulo, autor, ano, categoria):
         texto = texto[inicio_real.end():fim_real.start()]
 
     # 3. MONTAGEM DO CABEÇALHO (FRONT MATTER)
+    # Escapar aspas duplas nos campos para não quebrar o YAML
+    titulo_esc = titulo.replace('"', '\\"')
+    autor_esc = autor.replace('"', '\\"')
+    
     conteudo_final = f"""---
-title: "{titulo}"
-autor: "{autor}"
+title: "{titulo_esc}"
+autor: "{autor_esc}"
 ano: "{ano}"
 categoria: "{categoria}"
 capa: ""
