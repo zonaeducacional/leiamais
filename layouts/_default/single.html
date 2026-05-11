@@ -193,16 +193,7 @@
                         Comentários
                     </h2>
                     
-                    <div class="glass p-6 md:p-10 rounded-3xl bg-white/[0.02]">
-                        <div id="cusdis_thread"
-                             data-host="https://cusdis.com"
-                             data-app-id="b3225d24-4ab9-411b-9664-4acd7164dd26"
-                             data-page-id="{{ .File.TranslationBaseName }}"
-                             data-page-url="{{ .Permalink }}"
-                             data-page-title="{{ .Title }}"
-                             data-theme="dark">
-                        </div>
-                        <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+                    <div class="glass p-6 md:p-10 rounded-3xl bg-white/[0.02] min-h-[300px]">
                         <script>
                             window.CUSDIS_LOCALE = {
                                 "powered_by": "Comentários por Cusdis",
@@ -219,6 +210,15 @@
                                 "loading": "Carregando..."
                             }
                         </script>
+                        <div id="cusdis_thread"
+                             data-host="https://cusdis.com"
+                             data-app-id="b3225d24-4ab9-411b-9664-4acd7164dd26"
+                             data-page-id="{{ .File.TranslationBaseName }}"
+                             data-page-url="{{ .Permalink }}"
+                             data-page-title="{{ .Title }}"
+                             data-theme="dark">
+                        </div>
+                        <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
                     </div>
                 </div>
             </div>
